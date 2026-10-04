@@ -1,0 +1,33 @@
+{{ define "main" }}
+<h1 class="page-title">{{ .Title }}</h1>
+{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+
+<div class="meta-row">
+  <span class="kicker">{{ with .Params.beats }}{{ index . 0 }}{{ end }}</span>
+  <span>{{ .Date.Format "Monday, January 2, 2006" }}</span>
+  {{ with .Params.last_updated }}<span>&middot; Updated {{ (. | time.AsTime).Format "Jan 2, 2006 15:04" }}</span>{{ end }}
+  {{ with .Params.evidence_grade }}<span>&middot; Evidence grade {{ . }}</span>{{ end }}
+  {{ with .Params.status }}<span class="status">&middot; {{ . }}</span>{{ end }}
+</div>
+
+{{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
+
+<article class="prose">
+{{ .Content }}
+</article>
+
+{{ with .Params.sources }}
+<h2 class="sources-head">Sources</h2>
+<ol class="sources">
+{{ range . }}
+  <li>
+    {{ with .url }}<a href="{{ . }}">{{ end }}{{ .title | default .url }}{{ with .url }}</a>{{ end }}{{ with .publisher }} &middot; {{ . }}{{ end }}{{ with .published }} &middot; {{ . }}{{ end }}
+  </li>
+{{ end }}
+</ol>
+{{ end }}
+
+{{ with .Params.tags }}
+<div class="tags">Tagged: {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ $t | urlize }}/">{{ $t }}</a>{{ end }}</div>
+{{ end }}
+{{ end }}
