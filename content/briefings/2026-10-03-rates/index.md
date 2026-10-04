@@ -1,23 +1,24 @@
 ---
-title: "Daily Global Rates Scan"
+title: "Daily Rates Briefing"
 date: 2026-10-03T07:00:00-04:00
 last_updated: 2026-10-03T07:00:00-04:00
 beats: ["rates"]
 status: "edition"
-lede: "First edition of the daily global rates scan."
+lede: "The global bond selloff crested mid-week, 10Y Treasury at 5.34%, before soft US payrolls triggered a Friday flight to safety."
 evidence_grade: "B"
 sources: []
 tags: []
 ---
 
-**As of:** Saturday, October 3, 2026 (markets closed; reflects the week through Friday, Oct 2, 2026 closes)
-**Status:** Baseline edition — no prior scan exists, so this establishes current levels of rates, curves and policy expectations rather than deltas vs. a previous scan. Sources are web-index reads (flagged `index`); nothing was verified live in the browser this edition.
+**Data as of:** Friday, October 2, 2026 close (weekend edition)
+**Issued:** Saturday, October 3, 2026
+**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 **Week in one line:** The global bond selloff crested mid-week — 10Y UST hit 5.34% (highest since 2002), 10Y Bund 3.65% (since 2009), 10Y JGB 3.10% (since 1996), 30Y gilt 6.03% (since 1998) — before a soft US jobs report and French fiscal stress triggered a Friday flight-to-safety. Central banks are mostly hiking or on hold-hawkish (Fed, ECB, BoE-leaning, BoJ, RBA, SARB, BanRep, BoK), with only a few still easing (Brazil, Israel, Argentina).
 
 ---
 
-## 1. Dashboard
+## The day in brief
 
 ### Policy rates
 
@@ -68,7 +69,7 @@ tags: []
 
 ---
 
-## 2. United States — hawkish Fed, soft jobs, long-end carnage then relief
+## United States — hawkish Fed, soft jobs, long-end carnage then relief
 
 **FOMC hiked Sep 16 (12–0) to 3.75–4.00%** — first hike since Jul 2023, under Chair Kevin Warsh. Dot plot median end-2026: **4.1%** (up from 3.8% in June); 16 of 18 officials see one more hike this year. Warsh: inflation "too high… for too long"; financial conditions "nowhere near restrictive." SEP: 2026 GDP 2.3%, PCE 3.7%, unemployment 4.1%. Statement dropped the "supply shocks from energy" line; balance sheet to "maintain ample reserves." [index: plus500.com; finance.biggo.com; am.jpmorgan.com]
 
@@ -82,7 +83,7 @@ tags: []
 
 ---
 
-## 3. Euro area — ECB leaning hawkish, France is the stress point
+## Euro area — ECB leaning hawkish, France is the stress point
 
 **ECB hiked Sep 10** (second hike of 2026) to a **2.50%** deposit rate on war-driven energy inflation; Reuters sources flagged **another move possible as early as Oct 29**. Eurozone September CPI (released Oct 2): **3.8% y/y** (from 3.2%, vs 3.6% expected; highest since Sep 2023), core 2.5%. Markets price **one more 25bp hike by December** (~24% chance of a second), deposit rate ~2.8% by year-end and ~3.4% by late 2027. Schnabel: "coming months" decisive for judging the energy shock. [index: indexbox/Reuters; tradingeconomics; DJN via tradingview]
 
@@ -90,7 +91,7 @@ tags: []
 
 ---
 
-## 4. United Kingdom — gilt stress + QT redesign
+## United Kingdom — gilt stress + QT redesign
 
 **BoE held 3.75% on Sep 17 (6–3)**; dissenters Greene, Mann, Pill wanted 4%. CPI 3.1% in August; the Bank now forecasts inflation near **3.75% by end-2026, ~4% in early 2027**. [index: securities.io]
 
@@ -100,7 +101,7 @@ tags: []
 
 ---
 
-## 5. Japan — BoJ accelerating, JGBs at 30-year yield highs
+## Japan — BoJ accelerating, JGBs at 30-year yield highs
 
 **BoJ hiked Sep 18 (7–2) to 1.25%** — highest since 1995, and only 3 months after the June hike (fastest cadence of the cycle). Dissenters Asada, Sato. Ueda: underlying inflation approaching 2% with overshoot risk; "will continue to raise." The Sep 30 **Summary of Opinions** showed some members wanting to *accelerate* if prices deviate upward. Reuters poll: 1.5% by Mar 2027. Next: Oct 29–30 with the Outlook Report. [index: cadencemacro; DJN via tradingview; financecalendar]
 
@@ -108,7 +109,7 @@ tags: []
 
 ---
 
-## 6. China & Asia-Pacific
+## China & Asia-Pacific
 
 **China:** PBOC held LPRs a 16th month (1Y 3.00%, 5Y 3.50%). No easing while the Fed/ECB/BoJ hike; Pan Gongsheng calls slower loan growth "the new normal." Offshore yuan ~6.69/USD (strongest since Jul 2022); the **US–China 10Y yield premium sits near a record high**. [index: tradingview/seekingalpha; kelofm/Reuters]
 
@@ -124,7 +125,7 @@ tags: []
 
 ---
 
-## 7. Latin America
+## Latin America
 
 **Brazil:** Copom cut 25bp to **13.75%** Sep 16 (5th straight, easing cycle from March = 125bp) — *on the same day the Fed hiked*. Sep 24 policy report: 2026 GDP cut to 1.8%, inflation kept at 5.2% with a **90% probability of breaching the 4.5% tolerance ceiling** late 2026. Next Copom early November, days after the Lula vs. Flávio Bolsonaro runoff. [index: wixx/Reuters; particle.news]
 
@@ -138,7 +139,7 @@ tags: []
 
 ---
 
-## 8. EMEA EM & Gulf
+## EMEA EM & Gulf
 
 **Turkey:** CBRT held at **37%** Sep 10 (5th hold); corridor 35.5–40%; end-2026 inflation forecast raised to 28% (from 26%). But the *effective* stance eased: overnight rates fell ~300bp after repo auctions resumed — stealth easing via liquidity. September CPI due **Oct 5**; next meeting Oct 22. [index: turkishminute; finimize]
 
@@ -152,7 +153,7 @@ tags: []
 
 ---
 
-## 9. Credit, funding & financial conditions
+## Credit, funding & financial conditions
 
 - **No funding stress:** SOFR 3.87%, ON RRP $0.3bn — reserves ample; IMF says global bond markets "functioning in an orderly manner." The selloff is about *price*, not plumbing. [index: helious; patreon/IMF]
 - **Credit held firm but is starting to chatter:** IG spreads ~77bp, HY ~282bp (multi-year tights); IG yields >6% (first since 2023). But **global credit spreads widened ~5bp this week (most since March)** to the widest in six months (Bloomberg); the **CCC–BB gap hit 787bp** (highest since the 2022 tightening cycle) — stress concentrated in the weakest credits; jumbo deals (SoftBank late-Sep, Paramount Skydance/WBD) performed poorly; the **MOVE index spiked >20% on Wednesday** (biggest 1-day jump since 1990). JPMorgan: IG spreads ~7bp too tight vs. vol history. [index: DJN via tradingview; raymondjames; businessmirror/Bloomberg]
@@ -160,7 +161,7 @@ tags: []
 
 ---
 
-## 10. Cross-market synthesis
+## Cross-market synthesis
 
 **One shock, three channels.** The dominant macro force is the **Iran-war energy shock** (Brent +67% YTD, Strait of Hormuz at risk, gas-price pass-through): it is simultaneously (a) lifting headline inflation everywhere (eurozone CPI 3.8%, UK CPI forecast ~4% early 2027, Korea/India/Indonesia food-fuel pressure), (b) forcing DM central banks to *hike into* the shock (Fed, ECB, RBA, BoK, SARB, BanRep all moved in September), and (c) blowing out term premia as investors demand compensation for fiscal + geopolitical uncertainty.
 
@@ -174,7 +175,7 @@ tags: []
 
 ---
 
-## 11. Forward calendar
+## Forward calendar
 
 | Date | Event |
 |---|---|
