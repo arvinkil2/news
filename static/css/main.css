@@ -124,3 +124,21 @@ a:hover { color: var(--accent); }
   a { text-decoration: none; color: #000; }
   .lead, .river-item { border-bottom: 1px solid #999; }
 }
+
+.market-table-wrap { margin: 0 0 28px; }
+.market-table-title { font-size: 20px; margin: 0 0 2px; }
+.market-table-updated { font-size: 13px; color: var(--muted); margin: 0 0 10px; }
+.market-table-scroll { overflow-x: auto; }
+.market-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.market-table th { text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); padding: 6px 8px; border-bottom: 2px solid var(--ink); }
+.market-table td { padding: 7px 8px; border-bottom: 1px solid #e2ddd2; }
+.market-table .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.market-table .unit { color: var(--muted); font-size: 12px; }
+.market-table .up { color: #1a7f37; }
+.market-table .down { color: #b42318; }
+.market-table .spark { display: block; }
+
+.search-wrap { margin-top: 12px; }
+#search-input { width: 100%; max-width: 480px; font-size: 16px; padding: 10px 12px; border: 1px solid var(--ink); border-radius: 4px; background: #fff; }
+.search-count { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+#search-results { margin-top: 8px; }
