@@ -1,0 +1,2 @@
+{{ $names := site.Params.beat_names }}
+{{ with index $names . }}{{ . }}{{ else }}{{ . | humanize | title }}{{ end }}
