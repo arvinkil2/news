@@ -21,8 +21,9 @@
       <a href="{{ "/beats/politics/" | relURL }}">Politics</a>
       <a href="{{ "/beats/rates/" | relURL }}">Rates</a>
       <a href="{{ "/archive/" | relURL }}">Archive</a>
+      <a href="{{ "/search/" | relURL }}">Search</a>
       {{ $stories := where (where .Site.RegularPages "Section" "stories") "Params.status" "developing" }}
-      {{ if $stories }}<a href="{{ "/stories/" | relURL }}">Developing</a>{{ end }}
+      {{ if $stories }}<a href="{{ "/developing/" | relURL }}">Developing</a>{{ end }}
     </nav>
   </div>
 </header>
