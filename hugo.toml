@@ -7,7 +7,13 @@ languageCode = "en"
   tag = "tags"
 
 [params]
-  description = "A personal daily briefing: commodities, infrastructure deals, politics, and rates."
+  description = "A personal daily briefing: commodities, infrastructure, politics, and rates."
+
+  [params.beat_names]
+    commodities = "Commodities"
+    infra-deals = "Infrastructure"
+    politics = "Politics"
+    rates = "Rates"
 
 [markup]
   [markup.goldmark]

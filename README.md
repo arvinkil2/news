@@ -14,13 +14,13 @@ custom domain `news.kilambi.com`.
 ## Frontmatter contract
 
 ```yaml
-title: "..."
+title: "Daily Commodities Briefing"  # "Daily <Beat> Briefing": Commodities / Infrastructure / Politics / Rates
 date: 2026-10-04T07:00:00-04:00      # RFC3339 with numeric offset
 last_updated: 2026-10-04T07:00:00-04:00
 beats: ["commodities"]               # one of the four beats
-status: "edition"                    # or developing / resolved for stories
-lede: "..."                          # one or two sentences, shown in the river
-evidence_grade: "A"                  # A / B / C
+status: "edition"                    # or developing / resolved for stories (not displayed)
+lede: "..."                          # one sentence: the day's most important development + its consequence; shown on homepage and article page; never placeholder text
+evidence_grade: "A"                  # A / B / C (kept in frontmatter, not displayed)
 sources:                             # structured source list
   - title: "..."
     publisher: "..."
@@ -29,6 +29,11 @@ sources:                             # structured source list
     archive_url: "https://web.archive.org/..."
 tags: []
 ```
+
+Body conventions: the first three lines are `**Data as of:**`, `**Issued:**`,
+and the `**Evidence key:**` (CONFIRMED / REPORTED / RUMORED / ANALYTICAL).
+The first section is always `## The day in brief`. Section headings are never
+numbered. No producer process notes in reader-facing copy.
 
 ## Morning pipeline (automated)
 
