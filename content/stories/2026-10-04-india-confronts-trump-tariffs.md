@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "October 2-4, 2026 (Al Jazeera reporting)"
 ---
-
-**Data as of:** October 2-4, 2026 (Al Jazeera reporting)
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 After months of strategic patience, Modi's India is confronting Trump more openly — on terrorism framing, on the tariff dispute, and on the bilateral relationship's terms. The shift is a material change in tone, not yet a change in enacted policy: the retaliatory posture is being signaled, and the question is whether it converts into actual tariff moves. [REPORTED]
 

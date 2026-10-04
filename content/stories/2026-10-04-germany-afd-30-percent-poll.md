@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "INSA for BILD poll published October 3, 2026; ARD-DeutschlandTrend October 2; Bund close Friday, October 2"
 ---
-
-**Data as of:** INSA for BILD poll published October 3, 2026; ARD-DeutschlandTrend October 2; Bund close Friday, October 2
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 Germany's political center is hollowing out. An INSA poll published Saturday put the far-right AfD at 30 percent — a first — with Chancellor Merz's CDU/CSU at a record-low 18 percent, a 12-point gap. Merz's personal approval sat at 10 percent in the Infratest-Dimap survey of October 1. ARD's DeutschlandTrend broadly confirmed the picture (AfD 27, the Union below). [REPORTED polling]
 

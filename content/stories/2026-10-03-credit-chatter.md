@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Credit held firm through the bond selloff — but the edges are starting to talk. Investment-grade spreads sit near 77bp and high-yield near 282bp, both multi-year tights, with IG yields above 6% for the first time since 2023. Underneath: global credit spreads widened about 5bp this week, the most since March, to the widest in six months. The CCC–BB gap hit 787bp, the highest since the 2022 tightening cycle — stress concentrated in the weakest credits. Jumbo deals, including SoftBank's late-September issue and the Paramount Skydance/WBD financing, performed poorly. The MOVE index spiked more than 20% on Wednesday, its biggest one-day jump since 1990. JPMorgan's read: IG spreads are about 7bp too tight against volatility history.
 

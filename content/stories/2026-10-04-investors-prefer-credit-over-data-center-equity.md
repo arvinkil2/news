@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Power, not funding, is the binding constraint on the AI build-out — but funding terms are shifting anyway. At SuperReturn Asia in Singapore this week, infrastructure investors said they were wary of owning AI data centers as equity. Chenhua Shen, a fund partner at I Squared Capital, said uncertainty over future GPU generations and cooling loads made it more sensible to be a credit investor than an equity investor. Charles Wu, head of APAC alternatives at JP Morgan Asset Management, said he was "more excited about providing power to data centres" than holding equity in AI training facilities. Justin Chan-Sew, managing director of infrastructure debt at Ares Management, called power a "binary constraint," noting US grid-connection times of four to five years and gas as the quickest route to scale.
 

@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Beijing's rare-earth leverage is tightening on a fixed timetable. The escalation path runs from April 2025 licensing through State Council Order No. 839 in June 2026 — centralizing mining, smelting, and separation quotas with full traceability — to July's dual-use shipment blocks against 14 EU firms and export-control listings for MP Materials and USA Rare Earth, to a September 15 regulation allowing exit bans for violators. Now a key suspension of technology-transfer controls expires November 10, with no extension announced, ten days after a Trump-Xi summit expected in late October.
 

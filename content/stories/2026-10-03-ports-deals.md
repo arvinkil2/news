@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 AD Ports completed its $835 million acquisition of Brazil's CLI from Macquarie and IG4 — the largest deal in the group's history — after clearing ANTAQ and CADE approvals. CLI's agri-bulk terminals handled 17 million tonnes in 2025 on $178 million of revenue and $98 million of EBITDA, which prices the deal near 8.5x EV/EBITDA: a concession multiple well below digital infrastructure, for long-term control of agricultural export corridors at Santos and Itaqui.
 

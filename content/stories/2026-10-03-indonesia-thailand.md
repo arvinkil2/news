@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Indonesia's parliament passed the 2027 state budget on September 29: a 6% growth target — the fastest since 2012 — with the deficit held at 2.40% of GDP, inside the 3% statutory ceiling. The next day, Prabowo reviewed a Q4 stimulus package: 10 kilograms of rice a month for 33.24 million households through December, a Rp300,000 monthly wage subsidy for 13.3 million workers, and bank accounts for adults in the lowest four welfare deciles. Finance Minister Nazara framed it as answering "global uncertainty" without sacrificing fiscal sustainability. Implementing regulations are still pending.
 

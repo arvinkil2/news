@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 France has had no stable government since Lecornu's resignation around September 16, just 26 days into the job. Macron is searching for his third prime minister of the year while the opposition demands either new elections or his own resignation, and dissolving the Assembly is back on the table. The 2026 budget impasse — €44 billion in cuts, pension reform suspended to 2027 — sits unresolved under a caretaker government.
 

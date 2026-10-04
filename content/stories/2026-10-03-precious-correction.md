@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The metals complex took a broad weekly beating. Gold fell 3.4% to the $4,140–4,172 an ounce range, silver dropped 6.1% to $60.40–60.70, platinum lost 4.0% to $1,706.80, and palladium — the weakest precious, down 18.5% month on month — slid 8.1% to $1,173.
 

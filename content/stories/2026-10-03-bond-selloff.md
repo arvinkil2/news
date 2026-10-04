@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The global bond selloff crested mid-week and the records fell across the board: the 10-year Treasury hit 5.342% (highest since 2002), the 10-year Bund 3.653% (since 2009), the 10-year JGB 3.10% (since 1996), and the 30-year gilt 6.03% (since 1998). Then Friday's soft US jobs report and French fiscal stress triggered a flight to safety, and the 10-year settled near 5.28% — still up 9.6bp on the week, its fifth straight up-week, and up 112bp year to date.
 

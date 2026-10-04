@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Nine months after the US operation that captured Maduro, Venezuela is being rebuilt as a Western oil play. Acting president Delcy Rodríguez signed what Trump called the largest oil deal in history: 65 billion barrels across 17 fields under a new Hydrocarbons Law passed by the National Assembly in January, with 25-year terms, a 16% royalty, 34% income tax, and roughly $100 billion of pledged investment.
 

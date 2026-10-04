@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 MENA sovereign investors deployed $102 billion across 245 deals in the first nine months of 2026 — 39% of global state-investor dealmaking, though below the 2023–25 pace. Technology took the largest share at 28% of volume, infrastructure second at 22%, while real estate collapsed to 5%. Forty-five percent of the capital went to the United States.
 

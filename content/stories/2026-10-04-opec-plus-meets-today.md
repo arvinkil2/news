@@ -22,11 +22,8 @@ sources:
     url: "https://www.tradingview.com/news/stocktwits:a40962cfc094b:0-opec-to-keep-oil-quotas-unchanged-in-november-as-iran-war-continues-to-impact-output-keeping-crude-prices-on-the-boil-report/"
     published: "2026-10-04"
 tags: []
+data_as_of: "Sunday, October 4, 2026 (decision announced early Sunday; delegate expectations reported October 3)"
 ---
-
-**Data as of:** Sunday, October 4, 2026 (decision announced early Sunday; delegate expectations reported October 3)
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 ## Latest
 

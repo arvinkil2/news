@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 ArcLight Capital Partners announced on September 30 that its fund has completed the acquisition of a 50 percent stake in IATP, a 5.4-gigawatt power portfolio comprising 11 power infrastructure assets across North America. The seller was InfraBridge, a division of DigitalBridge Group. Invenergy retains its existing 50 percent ownership interest and continues to operate the portfolio. Financial terms were not disclosed; Morgan Stanley advised ArcLight.
 

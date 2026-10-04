@@ -10,13 +10,10 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Voting Sunday, October 4; polling from Reuters reporting (5 days and 4 days ago); Copom decision September 16."
 ---
 
-**Data as of:** Voting Sunday, October 4; polling from Reuters reporting (5 days and 4 days ago); Copom decision September 16.
-**Issued:** Sunday, October 4, 2026 (America/Toronto).
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
-
-Brazilians vote today in the presidential first round, 7:00-16:00 ET, with a runoff on October 25 nearly certain (REPORTED). Final polling showed President Lula leading the first round with 39% against Senator Flavio Bolsonaro, but the two remain statistically tied in a runoff scenario (REPORTED via Reuters).
+Brazilians vote today in the presidential first round, 7:00-16:00 ET, with a runoff on October 25 nearly certain. Final polling showed President Lula leading the first round with 39% against Senator Flavio Bolsonaro, but the two remain statistically tied in a runoff scenario (REPORTED via Reuters).
 
 The rates angle is the Copom's easing trajectory colliding with political and fiscal risk. The committee has cut the Selic in five straight meetings, most recently -25bp on September 16 to 13.75%, with the next decision in early November (CONFIRMED via prior reporting). Easing into an election with fiscal stress is the classic EM rates dilemma: a first-round result or runoff margin that markets read as fiscally adverse would widen the risk premium embedded in local rates and the real, while a decisive outcome could compress it.
 

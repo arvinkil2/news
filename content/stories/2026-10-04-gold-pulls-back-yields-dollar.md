@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Gold fell $40 (-0.95%) on Friday to about $4,162 an ounce in the Yahoo Finance snapshot, after trading near $4,218 intraday, as the 10-year Treasury yield held at 5.28% and the dollar index hovered near 18-month highs around 101.9-102.2. The weekly loss of about 3.4% extends a broad precious-metals correction that also hit silver (-6.1% w/w) and palladium (-8.1% w/w, -18.5% m/m). [REPORTED/CONFIRMED quotes]
 

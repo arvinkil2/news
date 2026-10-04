@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Elevra Lithium Limited, the North American lithium producer formerly known as Sayona Mining, provided an update on October 1–2 on the proposed sale of its interests in the Ewoyaa Lithium Project in Ghana, detailing the approval timeline for the transaction. Elevra agreed on May 11, 2026 to sell all rights and interests in Ewoyaa, including related offtake rights, to Zhejiang Huayou Cobalt for about US$71 million in cash before fees and taxes, with closing originally expected by the end of Q1 FY27.
 

@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Eurostat flash estimate published Friday, October 2; national releases September 28-30; MUFG research September 30."
 ---
-
-**Data as of:** Eurostat flash estimate published Friday, October 2; national releases September 28-30; MUFG research September 30.
-**Issued:** Sunday, October 4, 2026 (America/Toronto).
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The euro area's September flash inflation print, released Friday, came in at 3.8% year-on-year — up from 3.2% in August and above the 3.6% consensus (REPORTED via Reuters). National detail shows the breadth: Italy's HICP jumped to 4.1% from 3.2%, Germany rose to 3.3% from 2.9%, France to 3.4% from 2.6%, while Spain printed 5.0% and Greece 5.1% (CONFIRMED via MUFG research citing national statistics offices).
 

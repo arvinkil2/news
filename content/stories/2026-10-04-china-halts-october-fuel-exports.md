@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Chinese refiners suspended exports of refined oil products for October after Beijing gave no green light on export quotas before the Oct 1–8 Golden Week holiday, Reuters reported on Oct 1 citing sources. PetroChina cancelled a handful of gasoline and jet-fuel cargoes on Sep 30, and the country's other major refiners skipped scheduling October cargoes. Shipments to Hong Kong and Macau are excluded. [REPORTED, Reuters]
 

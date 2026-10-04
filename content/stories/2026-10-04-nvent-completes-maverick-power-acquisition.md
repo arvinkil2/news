@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 nVent Electric completed its acquisition of Maverick Power around October 2, paying $1.75 billion upfront with up to another $550 million in cash contingent on performance metrics in 2027 and 2028 — total consideration of up to $2.3 billion. The definitive agreement was signed August 21, and nVent raised $800 million through senior notes to help finance the deal.
 

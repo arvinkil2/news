@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The October 1 Budget Act for 2027 targets a 5.0% deficit — down from 5.4% this year, but 6.5% without measures — with debt rising from 119% toward 122% of GDP and a record €340 billion of net bond issuance, €28 billion more than 2026. Debt service alone hits €72.9 billion. Markets hated it.
 

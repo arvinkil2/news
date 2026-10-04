@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The Kuwait-flagged tanker MT Kazimah III was struck by an unknown projectile while transiting the Strait of Hormuz on Friday, according to UKMTO, suffering a fire and blackout; five Indian seafarers were rescued. It was the sixth vessel hit in the strait since Sunday, per gCaptain, and a separate tanker was struck off Oman. The New York Times reported a pattern of roughly 40 attacks a week on commercial shipping as Iran pressures global trade. [REPORTED, multiple outlets]
 

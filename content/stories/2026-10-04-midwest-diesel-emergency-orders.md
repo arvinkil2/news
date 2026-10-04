@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Minnesota Gov. Tim Walz signed an executive order on Thursday giving farmers, loggers and truckers relief from weight limits amid diesel prices above $6 a gallon, local media reported. South Dakota Gov. Larry Rhoden issued a similar order five days earlier. The orders are designed to let haulers move more freight per trip during harvest. [REPORTED]
 

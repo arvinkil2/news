@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 SoftBank completed its $3.1 billion acquisition of DigitalBridge on September 30, placing one of the world's largest digital-infrastructure platforms inside a sovereign-anchored Japanese holding. The AI-capex balance sheet has met the infrastructure platform, and the combination is the week's defining ownership event.
 

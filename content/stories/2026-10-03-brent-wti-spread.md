@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Brent closed the week around $102.70, up 5.4%, while WTI finished near $91.26, down 1.2%. The $10–11 spread between them is wide by historical standards and it tells a geographic story: Atlantic Basin tightness against US abundance.
 

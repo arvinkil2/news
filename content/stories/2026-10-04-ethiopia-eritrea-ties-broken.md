@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "October 2-4, 2026 (France 24, October 2)"
 ---
-
-**Data as of:** October 2-4, 2026 (France 24, October 2)
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 Ethiopia and Eritrea have broken diplomatic ties, France 24 reported on October 2, with the African Union Commission urging restraint and Egypt involved in the diplomatic mix. The break is enacted, not rhetorical — the rupture has occurred, though the shape of what follows is still being defined. [REPORTED]
 

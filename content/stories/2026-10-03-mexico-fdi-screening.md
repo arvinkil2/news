@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Mexico's presidency introduced a national-security chapter for the Foreign Investment Law on August 30. The proposal gives the CNIE case-by-case review power over acquisitions above 49% in strategic sectors — energy, transport, healthcare, communications, mining, data processing and storage, digital systems, and aerospace and defense. The asset threshold is still to be determined, with a 180-day clock running.
 

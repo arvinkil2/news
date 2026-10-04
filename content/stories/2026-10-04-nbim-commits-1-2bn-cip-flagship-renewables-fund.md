@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Norway's sovereign wealth fund is investing 1.2 billion euros (about $1.35 billion) in Copenhagen Infrastructure Partners' renewable energy fund, as the NOK22 trillion fund continues to shift capital into unlisted renewable infrastructure. The commitment was reported on October 3 by Bloomberg, IPE Real Assets, Recharge and Renewables Now, and targets CIP's sixth flagship vehicle, CI VI, which will finance renewable energy projects.
 

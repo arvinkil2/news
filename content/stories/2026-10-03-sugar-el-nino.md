@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Sugar was the week's agricultural standout, up 7.6% to about 19.9 cents a pound — up 10.2% on the month and 20.9% year on year. The long book is crowded: managed money holds 218,336 contracts net long, large relative to open interest. The test arrives in days with Brazil's Center-South first-half September data; dealer surveys point to output up 15% year on year to 3.6 million tonnes. Long positioning against potentially bearish supply news is the tension to watch. (One source printed a conflicting −1.27% weekly move on mismatched timeframes; the snapshot read stands.)
 

@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Corn is a fund-long-liquidation story playing out in real time. December corn fell 4.1% on the September 30 USDA stocks report alone, closing the week near 497 cents a bushel, down 5.9%. Managed-money net length dropped from about 415,000 contracts to 381,220 in two weeks — and that remaining long is still very large.
 

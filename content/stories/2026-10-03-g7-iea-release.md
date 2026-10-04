@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The G7 agreed on October 2 to back an IEA-coordinated release of 100 million barrels of crude, diesel, and refined products from strategic reserves over four months, with the diesel component frontloaded. The decision came under pressure from Washington to cool diesel prices. If confirmed in full, it signals allied alarm about supply conditions rather than routine price management.
 

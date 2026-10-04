@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 G7 leaders agreed on Friday to an IEA-coordinated release of 100 million barrels of emergency oil and diesel stocks spread over four months, with the release frontloaded toward diesel, responding to President Trump's request for coordinated action on fuel prices. Trump said on Truth Social that European leaders agreed "immediately" to release diesel reserves, and European diesel prices fell sharply on Friday morning. The IEA separately said 325 million barrels have been released so far under emergency draws since the crisis began. [REPORTED, multiple outlets]
 

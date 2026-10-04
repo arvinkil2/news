@@ -18,11 +18,8 @@ sources:
     url: "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say"
     published: "2026-10-04"
 tags: []
+data_as_of: "Sunday, October 4, 2026 (morning)"
 ---
-
-**Data as of:** Sunday, October 4, 2026 (morning)
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 ## Latest — Sunday, October 4, ~7:00 AM EDT
 

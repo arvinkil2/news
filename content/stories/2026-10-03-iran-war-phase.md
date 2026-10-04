@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The conflict that opened February 28, 2026 with US-Israeli decapitation strikes — Khamenei killed in the opening hours — is entering its most economically dangerous phase. Three commercial tankers were hit by projectiles in the Strait of Hormuz between October 1 and 3. An Indian sailor was killed in a Hormuz attack on September 23. The AP reports thousands of additional US troops moving to the region aboard ships.
 

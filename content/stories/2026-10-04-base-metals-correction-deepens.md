@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Copper slipped on the London Metal Exchange on Oct 1-2, with 3-month metal near $14,655 a tonne about ten days prior, though copper remains set for a third straight monthly gain. Aluminum fell to a two-month low. The weekly damage was broad: aluminum -5.6%, zinc -5.3%, nickel -5.2%, copper -2.5%. [REPORTED, Reuters/Binance]
 

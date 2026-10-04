@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Lydian Energy, a developer, owner and operator of energy infrastructure projects backed by Excelsior Energy Capital, and Infranity, an established infrastructure asset manager, closed a $300 million holding-company credit facility to accelerate the buildout of utility-scale energy storage and renewable energy projects. The close was announced around October 2.
 

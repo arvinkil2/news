@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 On October 2–3, Russia struck Kyiv's Northern and Southern bridges over the Dnipro — the Southern Bridge remains fully closed, disrupting some 500,000 daily left-bank commuters — and hit Kharkiv and Dnipro, killing 2 and injuring around 40. Russia's Foreign Ministry warned diplomats and foreigners to leave Kyiv. The New York Times assesses Moscow is planning a three-stage campaign against Ukrainian nuclear substations, hydro, and water infrastructure ahead of winter.
 

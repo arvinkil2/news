@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Oracle and We Energies announced on October 2 that Oracle will subscribe to a portion of the existing Point Beach Nuclear Plant's electricity generation — 10 to 20 percent of the plant's output, or roughly 125 to 250 megawatts. The power is earmarked for the Lighthouse Campus, a $15 billion AI data center project in Port Washington, Wisconsin, co-developed by Oracle, OpenAI and Vantage Data Centers under the Stargate initiative, designed for close to 1 gigawatt of AI capacity within a 1.3 gigawatt electrical footprint and targeted for completion in 2028.
 

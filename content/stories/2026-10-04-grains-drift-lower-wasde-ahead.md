@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 CBOT wheat ended Friday near a six-week low and corn slipped 0.68% to $18.85 as US harvests advanced and funds kept selling, while soybeans also weakened, market reports showed. The tone is harvest pressure plus long liquidation: CFTC data for the week ended Sep 29 showed corn managed-money net longs cut from about 415,000 to 381,000 contracts after the Sep 30 stocks report knocked December corn down 4.1%. [REPORTED]
 

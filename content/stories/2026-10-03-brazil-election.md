@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Brazilians vote Sunday in the first round of the presidential election, and the polls agree on one thing: it is effectively a tie. Datafolha's final poll has Lula at 42 and Flávio Bolsonaro at 40; AtlasIntel/Bloomberg's late-September survey put it at 45.3 to 42.2, with the simulated runoff at 47.6–47.7 — a dead heat. No candidate is near the 50% of valid votes needed to win outright, so a runoff on October 25 is the base case.
 

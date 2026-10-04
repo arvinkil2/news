@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The Federal Reserve's September 16 hike to 3.75–4.00% — unanimous, the first since July 2023, under Chair Kevin Warsh — collided with Friday's jobs data. September payrolls added just 29,000 against roughly 90,000 expected; unemployment ticked to 4.2%; July was revised to negative 10,000. October-hike odds fell from about 70% a week earlier to 34%. December remains the base case for one more move — the dot-plot median points to 4.1% by year-end, with 16 of 18 officials seeing another hike.
 

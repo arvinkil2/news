@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Copper ended the week at about $14,289 a tonne on the LME, down 2% on the week but still up nearly 30% year on year. The price action sided with macro — dollar strength and real-yield pressure — against a physical market that keeps tightening. SHFE warehouse stocks have fallen 79% in four months to 38,744 tonnes, the lowest since January 2024. Chilean August output dropped 12.8% year on year. Yet Chinese industrial demand is soft and high energy costs from the Iran conflict are biting manufacturers.
 

@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Sunday, October 4, 2026, morning (UKMTO advisories Oct 2-4)"
 ---
-
-**Data as of:** Sunday, October 4, 2026, morning (UKMTO advisories Oct 2-4)
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 The tanker campaign in the Strait of Hormuz escalated through the weekend. UKMTO logged two more projectile strikes on tankers on October 2-3 — one vessel suffered a small fire and blackout before resuming its voyage, the second a crude tanker east of Oman — and a fresh strike was reported early on October 4 with the crew safe. Five Indian seafarers were rescued after a tanker hit, per Indian embassy and Omani authorities. [REPORTED via UKMTO/agency reporting]
 

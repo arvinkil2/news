@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Lithium carbonate on the Guangzhou Futures Exchange closed September around 123,400–126,350 yuan a tonne — down 22% in the month alone and about 30% from the May peak, though still up 67.8% year on year. Two triggers: an SMM inventory revision in early September and China ending the consumption-tax exemption for lithium-ion batteries (2% from September 1, 2026, rising to 4% in 2027).
 

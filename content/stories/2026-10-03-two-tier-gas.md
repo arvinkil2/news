@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The global gas market is pricing two different worlds. Henry Hub trades near $3.03–3.04 per MMBtu, insulated from the Hormuz shock since February: US output runs about 115 billion cubic feet a day, storage is on a path to a record near 3,985 Bcf by end-October, and LNG exports are capped around 16.5 Bcf a day. American gas is stranded cheap.
 

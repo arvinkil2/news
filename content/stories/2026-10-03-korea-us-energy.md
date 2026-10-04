@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Korea and the US announced a three-part energy package inside the $350 billion trade-deal investment pledge. Project Star is a $22.3 billion, 6.4 GW gas plant in Texas with NextEra, Lewis, and Related. Project Power is a $120 billion framework for eight reactors — six AP1000s and two APR-1400s — with Westinghouse, KEPCO, and KHNP. Project North puts Alaska LNG under review. Government announcements confirm the structure; commercial terms remain at framework stage.
 

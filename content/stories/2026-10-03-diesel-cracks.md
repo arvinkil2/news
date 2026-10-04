@@ -10,11 +10,8 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 This is a product-led market. European low-sulfur gasoil traded about $77.44 a barrel above Brent mid-week, a record, and OPIS data shows the crack has nearly doubled since roughly $46 a barrel in November 2025. ICE gasoil for October 2026 changed hands near $1,459.50 a tonne on September 23, up about $72 on the day. In the US, diesel broke records above $6.50 a gallon — AAA's trucker price hit $6.52, up 76% year on year. Refiners are earning more than $100 a barrel on diesel against a normal $20 to $30; Valero and Marathon margins have roughly doubled.
 

@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Titan Australia Mining, backed by UAE-based Titan Lithium, made a binding bid of about $333 million for Global Lithium at $1.15 a share — a 73% premium — plus $120 million in interim funding. The move takes Gulf capital up the lithium value chain: from Abu Dhabi processing into Australian resource ownership.
 

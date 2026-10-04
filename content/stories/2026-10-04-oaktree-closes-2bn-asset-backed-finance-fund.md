@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "2026-10-04"
 ---
-
-**Data as of:** 2026-10-04
-**Issued:** 2026-10-04 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 Brookfield announced on October 1 that Oaktree's Asset-Backed Finance Fund ("ABF I") had reached its final close with $2 billion in commitments across the fund and related investment vehicles, achieving its fundraising target. The close was described as inaugural, signaling a new dedicated platform line for the Brookfield-owned manager in asset-backed private credit.
 

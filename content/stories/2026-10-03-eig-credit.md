@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3, 2026"
 ---
-
-**Data as of:** October 3, 2026
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 EIG closed $4.0 billion across its Senior Infrastructure Debt Fund VI platform — a $1.9 billion fund, roughly twice its predecessor, plus $2.1 billion of single-investor vehicles. About $1 billion is already deployed across 16 investments. The raise beat its $3 billion target, with pensions, sovereign funds, and insurers across North America, Europe, Asia-Pacific, and the Middle East all participating.
 

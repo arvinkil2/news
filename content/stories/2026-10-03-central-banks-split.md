@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 September 16 was the split screen: Brazil's Copom cut 25bp to 13.75% — its fifth straight cut — on the same day the Fed hiked. Brazil's own policy report now sees 2026 GDP at 1.8% with a 90% probability of breaching the 4.5% inflation tolerance ceiling late in the year. The next Copom lands days after the presidential runoff.
 

@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 December ICE New York cocoa (CCZ26) closed up 289 points (+5.37%) on Friday at two-week highs, Barchart reported, rebounding a day after chocolatier Lindt & Sprungli tumbled to two-month lows on demand concerns. The rally came despite ICE-monitored cocoa inventories standing at a two-and-a-quarter-year high and abundant Ivory Coast supplies. [REPORTED, Barchart]
 
