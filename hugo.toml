@@ -1,0 +1,15 @@
+baseURL = "https://news.kilambi.com/"
+title = "Kilambi News"
+languageCode = "en"
+
+[taxonomies]
+  beat = "beats"
+  tag = "tags"
+
+[params]
+  description = "A personal daily briefing: commodities, infrastructure deals, politics, and rates."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
