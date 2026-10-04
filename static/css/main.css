@@ -86,6 +86,23 @@ a:hover { color: var(--accent); }
 
 .tags { margin-top: 24px; font-size: 13px; color: var(--muted); }
 
+.top-stories { list-style: none; margin: 0 0 8px; padding: 0; counter-reset: top; }
+.top-stories li { counter-increment: top; padding: 18px 0 18px 44px; border-bottom: 1px solid var(--rule); position: relative; }
+.top-stories li::before {
+  content: counter(top); position: absolute; left: 0; top: 18px;
+  font-family: var(--serif); font-size: 26px; color: var(--accent); font-weight: 700;
+}
+.top-stories h3 { font-family: var(--serif); font-size: 23px; margin: 0 0 6px; line-height: 1.28; }
+.top-stories h3 a { text-decoration: none; }
+.dek { margin: 6px 0 0; color: #444; font-size: 15px; }
+.why { margin: 8px 0 0; font-size: 14.5px; color: #333; }
+.why span { font-weight: 700; color: var(--accent); font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; }
+.lede + .why { margin-top: 14px; }
+.caught-up {
+  margin: 36px 0 10px; padding-top: 16px; border-top: 2px solid var(--ink);
+  font-family: var(--serif); font-size: 17px; color: var(--muted); text-align: center;
+}
+
 .archive-date { font-family: var(--serif); font-size: 20px; margin: 28px 0 4px; }
 
 .footer { border-top: 3px double var(--ink); margin-top: 20px; }
