@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1 class="page-title">{{ .Title }}</h1>
+{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+{{ $stories := where (where .Site.RegularPages "Section" "stories") "Params.status" "developing" }}
+{{ $stories = sort $stories "Params.last_updated" "desc" }}
+{{ if $stories }}
+{{ range $stories }}
+<article class="river-item">
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} &middot; updated {{ .Params.last_updated | time.Format "Jan 2, 3:04 PM" }}</div>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
+</article>
+{{ end }}
+{{ else }}
+<p>Nothing actively developing right now.</p>
+{{ end }}
+{{ end }}
