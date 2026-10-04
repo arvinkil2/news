@@ -1,3 +1,4 @@
+
 :root {
   --ink: #1a1a1a;
   --muted: #6b6b6b;
@@ -64,7 +65,7 @@ a:hover { color: var(--accent); }
   margin: 28px 0 4px; padding-bottom: 6px; border-bottom: 1px solid var(--rule);
   color: var(--muted);
 }
-.date-divider:first-of-type { margin-top: 8px; }
+.date-divider:first-of-type { margin-top: 8px; }.updated-tag { font-weight: 600; color: var(--accent); }
 
 
 .page-title { font-family: var(--serif); font-size: 34px; line-height: 1.15; letter-spacing: -0.5px; margin: 0 0 10px; }
