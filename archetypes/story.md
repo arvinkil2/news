@@ -3,14 +3,15 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 last_updated: {{ .Date }}
 beats: [""]
-status: "developing"
+status: "story"
 lede: ""
+why_it_matters: ""
+featured: false
 evidence_grade: ""
 sources: []
 tags: []
 ---
 
-## Latest
-
-## Earlier updates
-
+**Data as of:**
+**Issued:**
+**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
