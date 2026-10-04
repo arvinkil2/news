@@ -13,8 +13,8 @@ tags: []
 data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
 
-Gold fell $40 (-0.95%) on Friday to about $4,162 an ounce in the Yahoo Finance snapshot, after trading near $4,218 intraday, as the 10-year Treasury yield held at 5.28% and the dollar index hovered near 18-month highs around 101.9-102.2. The weekly loss of about 3.4% extends a broad precious-metals correction that also hit silver (-6.1% w/w) and palladium (-8.1% w/w, -18.5% m/m). [REPORTED/CONFIRMED quotes]
+Gold fell $40 (-0.95%) on Friday to about $4,162 an ounce in the Yahoo Finance snapshot, after trading near $4,218 intraday, as the 10-year Treasury yield held at 5.28% and the dollar index hovered near 18-month highs around 101.9-102.2. The weekly loss of about 3.4% extends a broad precious-metals correction that also hit silver (-6.1% w/w) and palladium (-8.1% w/w, -18.5% m/m).
 
-The driver is the rate regime, not geopolitics: the September Fed hike to 3.75-4.00% stands, real yields are repricing, and the dollar is at its strongest since April 2025. Even a burning tanker in Hormuz couldn't lift gold on Friday — a telling sign of which macro force is dominant. [ANALYTICAL]
+The driver is the rate regime, not geopolitics: the September Fed hike to 3.75-4.00% stands, real yields are repricing, and the dollar is at its strongest since April 2025. Even a burning tanker in Hormuz couldn't lift gold on Friday — a telling sign of which macro force is dominant.
 
-The test ahead: if Hormuz escalation worsens or the 10Y breaks decisively above 5.34%, gold's tug-of-war resolves. Watch Friday's CFTC data (week ended Oct 6) for whether managed-money longs kept liquidating into the selloff. [ANALYTICAL]
+The test ahead: if Hormuz escalation worsens or the 10Y breaks decisively above 5.34%, gold's tug-of-war resolves. Watch Friday's CFTC data (week ended Oct 6) for whether managed-money longs kept liquidating into the selloff.

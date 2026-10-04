@@ -13,8 +13,8 @@ tags: []
 data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
 
-CBOT wheat ended Friday near a six-week low and corn slipped 0.68% to $18.85 as US harvests advanced and funds kept selling, while soybeans also weakened, market reports showed. The tone is harvest pressure plus long liquidation: CFTC data for the week ended Sep 29 showed corn managed-money net longs cut from about 415,000 to 381,000 contracts after the Sep 30 stocks report knocked December corn down 4.1%. [REPORTED]
+CBOT wheat ended Friday near a six-week low and corn slipped 0.68% to $18.85 as US harvests advanced and funds kept selling, while soybeans also weakened, market reports showed. The tone is harvest pressure plus long liquidation: CFTC data for the week ended Sep 29 showed corn managed-money net longs cut from about 415,000 to 381,000 contracts after the Sep 30 stocks report knocked December corn down 4.1%.
 
-The setup into Friday's WASDE (12:00 PM ET, Oct 9) is bearish-leaning on paper: StoneX's pre-report survey put US soybean yields at a record 54.1 bushels per acre (4.65 billion bushels) and corn near record. But El Nino odds above 90% for a very strong event into early 2027 keep Southern Hemisphere weather risk on the table. [REPORTED]
+The setup into Friday's WASDE (12:00 PM ET, Oct 9) is bearish-leaning on paper: StoneX's pre-report survey put US soybean yields at a record 54.1 bushels per acre (4.65 billion bushels) and corn near record. But El Nino odds above 90% for a very strong event into early 2027 keep Southern Hemisphere weather risk on the table.
 
-With managed-money corn length already reduced, the positioning overhang is smaller than a month ago — a bearish WASDE surprise may find fewer longs left to liquidate, while a bullish surprise has more room to squeeze. [ANALYTICAL]
+With managed-money corn length already reduced, the positioning overhang is smaller than a month ago — a bearish WASDE surprise may find fewer longs left to liquidate, while a bullish surprise has more room to squeeze.

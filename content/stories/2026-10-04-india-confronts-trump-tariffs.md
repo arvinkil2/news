@@ -13,8 +13,8 @@ tags: []
 data_as_of: "October 2-4, 2026 (Al Jazeera reporting)"
 ---
 
-After months of strategic patience, Modi's India is confronting Trump more openly — on terrorism framing, on the tariff dispute, and on the bilateral relationship's terms. The shift is a material change in tone, not yet a change in enacted policy: the retaliatory posture is being signaled, and the question is whether it converts into actual tariff moves. [REPORTED]
+After months of strategic patience, Modi's India is confronting Trump more openly — on terrorism framing, on the tariff dispute, and on the bilateral relationship's terms. The shift is a material change in tone, not yet a change in enacted policy: the retaliatory posture is being signaled, and the question is whether it converts into actual tariff moves.
 
-The timing intersects directly with the rates calendar. The RBI decides Tuesday on the repo rate, with 60 percent of economists expecting a hike to 5.50 percent — the first since February 2023. A US-India tariff confrontation adds a rupee-risk premium to an already strained currency (past 96 per dollar), strengthening the hike case through the currency channel. [REPORTED; linkage ANALYTICAL]
+The timing intersects directly with the rates calendar. The RBI decides Tuesday on the repo rate, with 60 percent of economists expecting a hike to 5.50 percent — the first since February 2023. A US-India tariff confrontation adds a rupee-risk premium to an already strained currency (past 96 per dollar), strengthening the hike case through the currency channel.
 
-For the broader trade picture, India's posture matters because it was the swing relationship in Washington's bilateral tariff negotiations — the large economy that had chosen de-escalation. If New Delhi abandons wait-and-watch, it signals that tariff fatigue has become a binding constraint on diplomacy, and the US-India trade talks that had been the constructive outlier are back in play. [ANALYTICAL]
+For the broader trade picture, India's posture matters because it was the swing relationship in Washington's bilateral tariff negotiations — the large economy that had chosen de-escalation. If New Delhi abandons wait-and-watch, it signals that tariff fatigue has become a binding constraint on diplomacy, and the US-India trade talks that had been the constructive outlier are back in play.

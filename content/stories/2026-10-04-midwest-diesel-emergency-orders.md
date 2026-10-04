@@ -13,8 +13,8 @@ tags: []
 data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
 
-Minnesota Gov. Tim Walz signed an executive order on Thursday giving farmers, loggers and truckers relief from weight limits amid diesel prices above $6 a gallon, local media reported. South Dakota Gov. Larry Rhoden issued a similar order five days earlier. The orders are designed to let haulers move more freight per trip during harvest. [REPORTED]
+Minnesota Gov. Tim Walz signed an executive order on Thursday giving farmers, loggers and truckers relief from weight limits amid diesel prices above $6 a gallon, local media reported. South Dakota Gov. Larry Rhoden issued a similar order five days earlier. The orders are designed to let haulers move more freight per trip during harvest.
 
-The emergency orders are a downstream symptom of the global middle-distillate shortage: record European diesel cracks, China's export halt, Russian export cuts after Ukrainian refinery strikes, and the G7's frontloaded emergency release all point to the same binding constraint. When US governors start waiving trucking rules, the product squeeze has fully arrived at the consumer level. [REPORTED facts; linkage ANALYTICAL]
+The emergency orders are a downstream symptom of the global middle-distillate shortage: record European diesel cracks, China's export halt, Russian export cuts after Ukrainian refinery strikes, and the G7's frontloaded emergency release all point to the same binding constraint. When US governors start waiving trucking rules, the product squeeze has fully arrived at the consumer level.
 
-The orders also explain Washington's urgency on the G7 release: diesel is the fuel of freight, farming and heating, and $6-a-gallon diesel in an election month is political dynamite ahead of the Nov 3 midterms. [ANALYTICAL]
+The orders also explain Washington's urgency on the G7 release: diesel is the fuel of freight, farming and heating, and $6-a-gallon diesel in an election month is political dynamite ahead of the Nov 3 midterms.

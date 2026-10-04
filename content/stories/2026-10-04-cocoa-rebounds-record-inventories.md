@@ -13,8 +13,8 @@ tags: []
 data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
 
-December ICE New York cocoa (CCZ26) closed up 289 points (+5.37%) on Friday at two-week highs, Barchart reported, rebounding a day after chocolatier Lindt & Sprungli tumbled to two-month lows on demand concerns. The rally came despite ICE-monitored cocoa inventories standing at a two-and-a-quarter-year high and abundant Ivory Coast supplies. [REPORTED, Barchart]
+December ICE New York cocoa (CCZ26) closed up 289 points (+5.37%) on Friday at two-week highs, Barchart reported, rebounding a day after chocolatier Lindt & Sprungli tumbled to two-month lows on demand concerns. The rally came despite ICE-monitored cocoa inventories standing at a two-and-a-quarter-year high and abundant Ivory Coast supplies.
 
-That combination — rising price, rising inventories, weakening demand signals — marks the move as positioning/technical rather than fundamentally confirmed: short-covering and fund flows, not a tightening physical market. [ANALYTICAL]
+That combination — rising price, rising inventories, weakening demand signals — marks the move as positioning/technical rather than fundamentally confirmed: short-covering and fund flows, not a tightening physical market.
 
-The risk is a swift reversal if demand data deteriorates further or Ivory Coast arrivals accelerate. Watch ICE inventory prints and grinder data for confirmation either way. [ANALYTICAL]
+The risk is a swift reversal if demand data deteriorates further or Ivory Coast arrivals accelerate. Watch ICE inventory prints and grinder data for confirmation either way.
