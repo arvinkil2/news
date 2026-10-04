@@ -9,7 +9,7 @@
 <h2 class="date-divider">{{ .Key | time.Format "Monday, January 2, 2006" }}</h2>
 {{ range .Pages }}
 <article class="river-item">
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if and .Params.last_updated (gt (.Params.last_updated | time.Format "2006-01-02") (.Date.Format "2006-01-02")) }} &middot; <span class="updated-tag">Updated {{ .Params.last_updated | time.Format "Jan 2" }}</span>{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
