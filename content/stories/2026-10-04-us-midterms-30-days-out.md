@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "October 3-4, 2026 (Al Jazeera, Reuters analysis)"
 ---
-
-**Data as of:** October 3-4, 2026 (Al Jazeera, Reuters analysis)
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 Trump rallied in Ohio on Saturday with 30 days until the November 3 midterms, vowing a "big surprise." The electoral map is uncomfortable for the White House: Reuters analysis finds Democrats competitive in ten states Trump won by double digits in 2024, with Democrats needing a net four Senate flips from 47 seats. Prediction markets price a Democratic House near 86 percent but the Senate as a coin flip. [REPORTED]
 

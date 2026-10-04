@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 close"
 ---
-
-**Data as of:** Friday, October 2, 2026 close
-**Issued:** Saturday, October 3, 2026
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 The Reserve Bank of Australia hiked to 4.60% on September 29 — unanimous, its fourth of 2026, the highest since October 2011 — explicitly citing the broadened Middle East conflict and energy prices "much higher than assumed in August." Another hike on November 3 is priced.
 

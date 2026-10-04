@@ -10,11 +10,8 @@ featured: false
 evidence_grade: "C"
 sources: []
 tags: []
+data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
 ---
-
-**Data as of:** Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4
-**Issued:** Sunday, October 4, 2026 (America/Toronto)
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
 
 March NY #11 sugar (SBH27) closed up 0.99 cents (+5.23%) on Friday, posting a one-and-a-half-year nearest-futures high, as weather concerns tied to El Nino spurred fund buying, Barchart reported. London sugar also rose. The rally extends a 7.6% weekly gain. [REPORTED, Barchart]
 

@@ -10,14 +10,11 @@ featured: true
 evidence_grade: "B"
 sources: []
 tags: []
+data_as_of: "Friday, October 2 close; Reuters poll fielded September 18-28; BofA research published October 2."
 ---
 
-**Data as of:** Friday, October 2 close; Reuters poll fielded September 18-28; BofA research published October 2.
-**Issued:** Sunday, October 4, 2026 (America/Toronto).
-**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
+The Reserve Bank of India's Monetary Policy Committee meets October 5-7, with Governor Sanjay Malhotra announcing the decision Wednesday at 10:00 a.m. IST. A Reuters poll of 61 economists taken September 18-28 found 35 — roughly 60% — expect a 25bp hike to 5.50% from the 5.25% level held at the past four meetings. A move would be the first increase since February 2023 (CONFIRMED via Mint reporting).
 
-The Reserve Bank of India's Monetary Policy Committee meets October 5-7, with Governor Sanjay Malhotra announcing the decision Wednesday at 10:00 a.m. IST. A Reuters poll of 61 economists taken September 18-28 found 35 — roughly 60% — expect a 25bp hike to 5.50% from the 5.25% level held at the past four meetings (REPORTED). A move would be the first increase since February 2023 (CONFIRMED via Mint reporting).
+The case rests on three legs. August retail inflation accelerated to 4.82%, above the RBI's medium-term target. The rupee has slipped past 96 per dollar while the Fed's September hike narrowed the India-US rate differential, adding currency depreciation pressure. And Brent crude above $100 — the physical Hormuz corridor is barely functioning on a convoy basis this weekend — feeds directly into India's import-price channel.
 
-The case rests on three legs. August retail inflation accelerated to 4.82%, above the RBI's medium-term target (REPORTED). The rupee has slipped past 96 per dollar while the Fed's September hike narrowed the India-US rate differential, adding currency depreciation pressure (REPORTED). And Brent crude above $100 — the physical Hormuz corridor is barely functioning on a convoy basis this weekend — feeds directly into India's import-price channel (ANALYTICAL).
-
-Bank of America economists have now pulled their call forward, expecting tightening to begin at the October 7 meeting rather than December, and projecting the repo rate to reach 6.25% in the first half of 2027 — roughly doubling the quantum of tightening they previously expected (REPORTED). Domestic funding markets are already tightening ahead of the decision: INR MIFOR overnight spiked 118bp week-on-week (REPORTED). Tuesday's decision is the nearest major central-bank binary in global markets — a hold would jolt the 60% consensus and ease that funding squeeze.
+Bank of America economists have now pulled their call forward, expecting tightening to begin at the October 7 meeting rather than December, and projecting the repo rate to reach 6.25% in the first half of 2027 — roughly doubling the quantum of tightening they previously expected. Domestic funding markets are already tightening ahead of the decision: INR MIFOR overnight spiked 118bp week-on-week. Tuesday's decision is the nearest major central-bank binary in global markets — a hold would jolt the 60% consensus and ease that funding squeeze.
