@@ -1,20 +1,44 @@
 ---
-title: "OPEC+ meets today with November quotas expected unchanged"
+title: "OPEC+ holds November quotas steady for a second straight month"
 date: 2026-10-04T07:00:00-04:00
-last_updated: 2026-10-04T07:00:00-04:00
+last_updated: 2026-10-04T09:56:46-04:00
 beats: ["politics"]
 status: "story"
-lede: "OPEC+ meets Sunday and delegates expect November quotas to hold steady, though Hormuz disruptions keep Gulf output far below target regardless."
-why_it_matters: "Physical supply fragility — not quotas — is now the binding constraint on oil prices, making the decision nearly moot in the short run."
+lede: "OPEC+'s seven core members agreed Sunday to keep November oil output targets unchanged, extending the freeze to a second month as the Iran war keeps actual Gulf production roughly 5 million barrels a day below pre-war levels."
+why_it_matters: "With quota increases paused through year-end and the 2027 capacity review pushed to mid-November, physical supply disruption — not OPEC+ policy — remains the binding constraint keeping Brent above $100 and diesel at record highs."
 featured: false
 evidence_grade: "B"
-sources: []
+sources:
+  - title: "OPEC+ keeps oil output quotas steady for November"
+    publisher: "Reuters (via Devdiscourse)"
+    url: "https://www.devdiscourse.com/article/international/3986583-opec-keeps-oil-output-quotas-steady-for-november"
+    published: "2026-10-04"
+  - title: "OPEC+ holds November oil output targets steady amid supply squeeze"
+    publisher: "TradingView / Seeking Alpha"
+    url: "https://www.tradingview.com/news/seekingalpha:e65761a6a094b:0-opec-holds-november-oil-output-targets-steady-amid-supply-squeeze/"
+    published: "2026-10-04"
+  - title: "OPEC+ to keep oil quotas unchanged in November as Iran war continues to impact output"
+    publisher: "TradingView / Stocktwits (Bloomberg delegate reporting)"
+    url: "https://www.tradingview.com/news/stocktwits:a40962cfc094b:0-opec-to-keep-oil-quotas-unchanged-in-november-as-iran-war-continues-to-impact-output-keeping-crude-prices-on-the-boil-report/"
+    published: "2026-10-04"
 tags: []
 ---
 
-**Data as of:** Sunday, October 4, 2026 (delegate expectations reported October 3)
+**Data as of:** Sunday, October 4, 2026 (decision announced early Sunday; delegate expectations reported October 3)
 **Issued:** Sunday, October 4, 2026 (America/Toronto)
 **Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
+
+## Latest
+
+OPEC+ agreed in a Sunday video conference to keep November production targets unchanged, the second straight month the group has stood pat. The decision was taken by the seven core members — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — matching delegate expectations reported going into the meeting. [REPORTED]
+
+The move extends the pause in quota increases through the end of 2026. Around 2 million barrels a day of voluntary cuts stay in place through year-end, and the group's capacity review — the audit of members' actual production capacity that will set 2027 baselines — was pushed to mid-November. The seven meet again on November 1 to set December levels; the full OPEC+ ministerial on November 29 will set 2027 policy. [REPORTED]
+
+The freeze is nearly moot in the short run. Gulf exports have run at 60 to 80 percent of normal in recent months as the Iran war and Hormuz disruptions keep Saudi, Iraqi and Kuwaiti output well below pre-war levels; the seven pumped about 25 million barrels a day in August, roughly 5 million below pre-war February. On paper the group has kept lifting quotas during the war to formally complete the 2023-cut reversal, but little of that capacity reaches the market. [REPORTED]
+
+Brent settled at $102.25 on October 2, inside the $100-105 headline-risk band flagged before the meeting. The G7's coordinated 100-million-barrel emergency stock release is the offsetting policy move; President Trump said the US will not impose a proposed diesel export ban after the G7 agreement. [REPORTED]
+
+## Earlier
 
 OPEC+ meets today to set November production quotas, and delegate reporting points to a hold — November targets expected unchanged. The core members set October quotas steady on September 6, and nothing in the fundamental calculus has changed for the cartel: the constraint on output is physical, not policy. [REPORTED]
 
