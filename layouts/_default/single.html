@@ -1,13 +1,10 @@
 {{ define "main" }}
 <h1 class="page-title">{{ .Title }}</h1>
-{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
 
 <div class="meta-row">
-  <span class="kicker">{{ with .Params.beats }}{{ index . 0 }}{{ end }}</span>
+  <span class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</span>
   <span>{{ .Date.Format "Monday, January 2, 2006" }}</span>
   {{ with .Params.last_updated }}<span>&middot; Updated {{ (. | time.AsTime).Format "Jan 2, 2006 15:04" }}</span>{{ end }}
-  {{ with .Params.evidence_grade }}<span>&middot; Evidence grade {{ . }}</span>{{ end }}
-  {{ with .Params.status }}<span class="status">&middot; {{ . }}</span>{{ end }}
 </div>
 
 {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}

@@ -7,29 +7,32 @@
 <meta name="description" content="{{ with .Params.lede }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | relURL }}">
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <header class="masthead">
   <div class="masthead-inner">
     <a class="brand" href="{{ "/" | relURL }}">Kilambi News</a>
-    <nav class="nav">
-      <a href="{{ "/" | relURL }}">Today</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="{{ "/" | relURL }}">Latest</a>
       <a href="{{ "/beats/commodities/" | relURL }}">Commodities</a>
-      <a href="{{ "/beats/infra-deals/" | relURL }}">Infra Deals</a>
+      <a href="{{ "/beats/infra-deals/" | relURL }}">Infrastructure</a>
       <a href="{{ "/beats/politics/" | relURL }}">Politics</a>
       <a href="{{ "/beats/rates/" | relURL }}">Rates</a>
       <a href="{{ "/briefings/" | relURL }}">Archive</a>
-      <a href="{{ "/stories/" | relURL }}">Developing</a>
+      {{ $stories := where (where .Site.RegularPages "Section" "stories") "Params.status" "developing" }}
+      {{ if $stories }}<a href="{{ "/stories/" | relURL }}">Developing</a>{{ end }}
     </nav>
   </div>
 </header>
-<main class="content">
+<main class="content" id="main">
 {{ block "main" . }}{{ end }}
 </main>
 <footer class="footer">
   <div class="footer-inner">
-    <p>Kilambi News is a personal briefing. Content is AI-generated from public sources; verify before acting on it.</p>
-    <p><a href="{{ "/briefings/" | relURL }}">Archive</a></p>
+    <p>Kilambi News is a personal morning briefing. Content is AI-generated from public sources. Verify before acting on it.</p>
+    <p><a href="{{ "/briefings/" | relURL }}">Archive</a> &middot; <a href="{{ "index.xml" | relURL }}">RSS</a></p>
   </div>
 </footer>
 </body>
