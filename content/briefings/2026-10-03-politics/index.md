@@ -1,20 +1,22 @@
 ---
-title: "Global Political Landscape Briefing"
+title: "Daily Politics Briefing"
 date: 2026-10-03T07:00:00-04:00
 last_updated: 2026-10-03T07:00:00-04:00
 beats: ["politics"]
 status: "edition"
-lede: "First edition of the daily global political landscape briefing."
+lede: "The Iran conflict enters its most dangerous economic phase as Hormuz attacks continue and the G7 weighs a coordinated strategic reserve release."
 evidence_grade: "B"
 sources: []
 tags: []
 ---
 
-*First edition. Evidence standard: primary record preferred; status tags (enacted / passed-pending / proposed / announced / reported / rhetoric) on every item. Most facts here are `index`-level (search-index, read Oct 3-4 2026) except where marked `opened`/`primary`.*
+**Data as of:** October 3, 2026
+**Issued:** Saturday, October 3, 2026
+**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). Items carry status tags: enacted / passed / proposed / announced / reported / rhetoric.
 
 ---
 
-## Executive Intelligence Assessment
+## The day in brief
 
 **1. The Iran war is entering its most dangerous economic phase.** Since the US-Israeli opening strikes of February 28, 2026 (Operation Epic Fury / Roaring Lion; Khamenei killed), the conflict has oscillated between open combat and lulls. This week: three commercial tankers were hit by projectiles in the Strait of Hormuz (Oct 1-3), an Indian sailor was killed in a Hormuz attack (Sep 23), and the US is moving thousands of troops to the region (AP, Oct 1). Trump rejected Iran's latest proposal and expects renewed bombing after the US midterms (WSJ, Sep 25); Rubio says the operation will last "weeks, not months" but expects renewed strikes. Israel is simultaneously widening into southern Beirut ("fundamentally change the security reality — from Tehran to Beirut," per IDF chief Zamir). The G7 has reportedly agreed an IEA-coordinated release of 100 million barrels (crude + diesel + refined products) from strategic reserves to cool diesel prices under Trump pressure — if confirmed, it signals allied alarm about supply, not price management. Meanwhile OPEC+ (without the UAE, which exited May 1) is expected to hold November quotas steady this weekend, but quotas have been nominal since March: Gulf producers are physically unable to fill them because Hormuz disruptions lock barrels inside the Gulf.
 
