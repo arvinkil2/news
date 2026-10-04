@@ -9,6 +9,7 @@
 
 {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
 {{ with .Params.why_it_matters }}<p class="why"><span>Why it matters:</span> {{ . }}</p>{{ end }}
+{{ with .Params.data_as_of }}<p class="data-vintage">Data as of {{ . }}</p>{{ end }}
 
 <article class="prose">
 {{ .Content }}
