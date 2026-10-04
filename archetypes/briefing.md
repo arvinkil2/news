@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Daily {{ replace .Name "-" " " | title }} Briefing"
 date: {{ .Date }}
 last_updated: {{ .Date }}
 beats: [""]
@@ -10,3 +10,8 @@ sources: []
 tags: []
 ---
 
+**Data as of:**
+**Issued:**
+**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference).
+
+## The day in brief
