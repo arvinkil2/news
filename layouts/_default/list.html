@@ -1,6 +1,9 @@
 {{ define "main" }}
 <h1 class="page-title">{{ .Title }}</h1>
 {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+{{ if and (eq .Data.Plural "beats") (or (eq .Data.Term "commodities") (eq .Data.Term "rates")) }}
+{{ partial "market-table.html" (dict "Site" .Site "section" .Data.Term) }}
+{{ end }}
 {{ $pages := sort .Pages "Date" "desc" }}
 {{ range $pages }}
 <article class="river-item">
