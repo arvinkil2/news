@@ -1,19 +1,20 @@
 ---
-title: "Daily Global Commodities Market Audit"
+title: "Daily Commodities Briefing"
 date: 2026-10-03T07:00:00-04:00
 last_updated: 2026-10-03T07:00:00-04:00
 beats: ["commodities"]
 status: "edition"
-lede: "First edition of the daily global commodities market audit."
+lede: "A two-tier commodity complex: geopolitical risk premium easing at the margin while product-market tightness and a 16-month-high dollar dominate price action."
 evidence_grade: "B"
 sources: []
 tags: []
 ---
 
-**Edition date:** Saturday, October 3, 2026 (data as of Friday, October 2, 2026 close — weekend edition)
-**Basis note:** First edition; no prior report exists, so baselines are established rather than deltas computed. All prices/positions are `index` (web-index research, not live-browser verified) unless stated. CFTC COT figures below are for the reporting week ending **September 29, 2026**, released **October 2, 2026** — a ~4-day lag; they do not reflect Friday's price action.
+**Data as of:** Friday, October 2, 2026 close (weekend edition)
+**Issued:** Saturday, October 3, 2026
+**Evidence key:** CONFIRMED (primary source), REPORTED (multiple outlets), RUMORED (unverified market reporting), ANALYTICAL (inference). CFTC COT figures are for the reporting week ending September 29, 2026, released October 2, 2026.
 
-## Executive Dashboard
+## The day in brief
 
 **Regime: Geopolitical-risk premium easing at the margin, but a two-tier commodity complex.** The dominant cross-cutting forces are (1) the US–Iran/Hormuz standoff (stalemate, not resolution), (2) an aggressive global bond sell-off repricing real yields and the dollar, and (3) diesel/gasoline product-market tightness overwhelming crude headlines.
 
@@ -171,7 +172,7 @@ Ranked by strength of shortage evidence (1 = tightest):
 | Lean hogs +~1.7% Fri | ~69¢ | Short-covering bounce (MM −50.6k net) |
 | Live cattle −$1.70 Fri | $221.47 | Cutout softness, fund paring |
 
-## What Changed (baseline edition)
+## What Changed
 First edition — the following are **baselines**, not changes: DXY ~102 / 10Y ~5.3% / Fed 3.75–4.00%; Hormuz restricted (~13.2 mb/d flows, single-digit daily vessel transits); Brent ~$102.7 / WTI ~$91.3; TTF ~€72–74/MWh (71% EU storage) vs HH ~$3.03; record diesel cracks; gold ~$4,140–4,172 post-correction; copper ~$14.3k; iron ore sub-$100; lithium −22% in September; corn MM 381k net long; sugar MM 218k net long; hogs MM −50.6k net short; El Niño strengthening into a strong event. Next editions should track: Hormuz vessel counts, EU storage %, TTF, diesel crack, corn MM net, sugar MM net, and SHFE copper stocks.
 
 ## Forward Calendar
