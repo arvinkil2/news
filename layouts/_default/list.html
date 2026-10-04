@@ -5,11 +5,14 @@
 {{ partial "market-table.html" (dict "Site" .Site "section" .Data.Term) }}
 {{ end }}
 {{ $pages := sort .Pages "Date" "desc" }}
-{{ range $pages }}
+{{ range ($pages.GroupByDate "2006-01-02") }}
+<h2 class="date-divider">{{ .Key | time.Format "Monday, January 2, 2006" }}</h2>
+{{ range .Pages }}
 <article class="river-item">
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} &middot; {{ .Date.Format "Jan 2, 2006" }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
+{{ end }}
 {{ end }}
 {{ end }}
