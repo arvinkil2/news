@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{ $briefings := where .Site.RegularPages "Section" "briefings" }}
+{{ $sorted := sort $briefings "Date" "desc" }}
+
+<div class="dateline">Morning briefing &middot; {{ now.Format "Monday, January 2, 2006" }}</div>
+
+{{ with index $sorted 0 }}
+<article class="lead">
+  <div class="kicker">{{ with .Params.beats }}{{ index . 0 }}{{ end }} &middot; Lead</div>
+  <h1 class="lead-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
+  <div class="meta">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.evidence_grade }} &middot; Evidence {{ . }}{{ end }}</div>
+  <div class="lead-body">{{ .Summary }}</div>
+  <p><a class="read-more" href="{{ .RelPermalink }}">Full briefing</a></p>
+</article>
+{{ end }}
+
+<h2 class="river-head">The briefing river</h2>
+{{ range after 1 $sorted }}
+<article class="river-item">
+  <div class="kicker">{{ with .Params.beats }}{{ index . 0 }}{{ end }} &middot; {{ .Date.Format "Jan 2" }}</div>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
+</article>
+{{ end }}
+
+{{ $stories := where (where .Site.RegularPages "Section" "stories") "Params.status" "developing" }}
+{{ if $stories }}
+<h2 class="river-head">Developing stories</h2>
+{{ range first 10 (sort $stories "Params.last_updated" "desc") }}
+<article class="river-item">
+  <div class="kicker">{{ with .Params.beats }}{{ index . 0 }}{{ end }} &middot; Updated {{ (.Params.last_updated | time.AsTime).Format "Jan 2, 15:04" }}</div>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
+</article>
+{{ end }}
+{{ end }}
+{{ end }}
