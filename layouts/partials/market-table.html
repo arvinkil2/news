@@ -3,7 +3,7 @@
 {{ $data := index $site.Data.market_tables $section }}
 {{ with $data }}
 <section class="market-table-wrap" aria-label="Market data">
-<h2 class="market-table-title">{{ if eq $section "commodities" }}Commodity prices{{ else }}Rates &amp; FX{{ end }}</h2>
+<h2 class="market-table-title">{{ if eq $section "commodities" }}Commodity prices{{ else if eq $section "mining" }}Mining equities{{ else }}Rates &amp; FX{{ end }}</h2>
 <p class="market-table-updated">Updated {{ (time $site.Data.market_tables.updated).Format "Jan 2, 2006" }} · 30-day trend</p>
 <div class="market-table-scroll">
 <table class="market-table">
