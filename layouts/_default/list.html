@@ -1,15 +1,12 @@
 {{ define "main" }}
-<h1 class="page-title">Archive</h1>
-<p class="page-intro">Every briefing, by date, newest first.</p>
-{{ $briefings := where .Site.RegularPages "Section" "briefings" }}
-{{ range (sort $briefings "Date" "desc").GroupByDate "2006-01-02" }}
-<h2 class="archive-date">{{ .Key | time.Format "Monday, January 2, 2006" }}</h2>
-{{ range .Pages }}
+<h1 class="page-title">{{ .Title }}</h1>
+{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+{{ $pages := sort .Pages "Date" "desc" }}
+{{ range $pages }}
 <article class="river-item">
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} &middot; {{ .Date.Format "Jan 2, 2006" }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
-{{ end }}
 {{ end }}
 {{ end }}
