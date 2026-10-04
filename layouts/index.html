@@ -6,7 +6,20 @@
 
 <div class="dateline">Morning briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
 
-{{ $top := where $latest.Pages "Params.featured" true }}
+{{ $moversPages := first 1 (sort (where $stories "Params.movers_note" true) "Date" "desc") }}
+{{ if $moversPages }}
+{{ $m := index $moversPages 0 }}
+{{ if eq ($m.Date.Format "2006-01-02") $latest.Key }}
+<section class="lead movers-note">
+  <div class="kicker">Overnight markets &middot; {{ $m.Date.Format "Monday, January 2, 2006" }}</div>
+  <h2 class="lead-title"><a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a></h2>
+  {{ with $m.Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
+  <div class="lead-body">{{ $m.Content }}</div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ $top := where (where $latest.Pages "Params.featured" true) "Params.movers_note" "!=" true }}
 {{ if $top }}
 <h2 class="river-head">What matters today</h2>
 <ol class="top-stories">
