@@ -1,0 +1,25 @@
+{{ $section := .section }}
+{{ $site := .Site }}
+{{ $data := index $site.Data.market_tables $section }}
+{{ with $data }}
+<section class="market-table-wrap" aria-label="Market data">
+<h2 class="market-table-title">{{ if eq $section "commodities" }}Commodity prices{{ else }}Rates &amp; FX{{ end }}</h2>
+<p class="market-table-updated">Updated {{ (time $site.Data.market_tables.updated).Format "Jan 2, 2006" }} · 30-day trend</p>
+<div class="market-table-scroll">
+<table class="market-table">
+<thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>Trend</th></tr></thead>
+<tbody>
+{{ range . }}
+<tr>
+<td>{{ .name }}</td>
+<td class="num">{{ .value }} <span class="unit">{{ .unit }}</span></td>
+<td class="num {{ if .up_1d }}up{{ else }}down{{ end }}">{{ if .up_1d }}+{{ end }}{{ .change_1d }}{{ .change_unit }}</td>
+<td class="num {{ if ge .change_1w 0 }}up{{ else }}down{{ end }}">{{ if ge .change_1w 0 }}+{{ end }}{{ .change_1w }}{{ .change_unit }}</td>
+<td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="{{ .spark }}" fill="none" stroke="{{ if .up_1d }}#1a7f37{{ else }}#b42318{{ end }}" stroke-width="1.5"/></svg></td>
+</tr>
+{{ end }}
+</tbody>
+</table>
+</div>
+</section>
+{{ end }}
