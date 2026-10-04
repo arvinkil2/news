@@ -8,6 +8,7 @@ languageCode = "en"
 
 [params]
   description = "A personal daily briefing: commodities, infrastructure, politics, and rates."
+  beat_order = ["commodities", "infra-deals", "politics", "rates"]
 
   [params.beat_names]
     commodities = "Commodities"
