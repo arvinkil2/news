@@ -3,7 +3,7 @@ title: "US sanctions Iran's auto and rail sectors"
 date: 2026-10-05T07:00:00-04:00
 last_updated: 2026-10-05T13:00:00-04:00
 beats: ["politics"]
-status: "story"
+status: "developing"
 lede: "The US Treasury on October 1 designated Iran's automotive and rail sectors under Executive Order 13902, hitting Iran Khodro, Saipa and the Islamic Republic of Iran Railway Company with secondary sanctions, and separately designated the Russia-linked A7 payments network a transnational criminal organization."
 why_it_matters: "Washington is working down the evasion chain — sectoral sanctions on what Iran makes, criminal designation of how it gets paid — in the 'economic asphyxiation' campaign running parallel to the shooting war."
 featured: false
