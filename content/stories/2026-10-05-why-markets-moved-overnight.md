@@ -1,12 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:50:00-04:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Tanker freight surged 5.67 percent as the Yemen offensive put a second oil chokepoint on a war footing, while copper miners jumped 3 percent on the demand-growth thesis carrying industrial metals."
-why_it_matters: "Monday is shaping as a day of war-premium energy logistics and risk-on industrial metals, with the dollar firm and long-end yields holding above 5.28 percent."
+lede: "Copper and silver led a broad metals bid while crude sagged under the G7's 100-million-barrel stock release, and Treasury yields pushed higher into a $119 billion auction week."
+why_it_matters: "The market is splitting three ways at midday: metals pricing growth, oil pricing oversupply against war risk, and bonds pricing fiscal supply — the US afternoon session is the tiebreaker."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -14,19 +15,17 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-05"
 tags: []
-data_as_of: "Market close Friday, October 2, 2026"
+data_as_of: "Midday Monday, October 5, 2026; quotes as of ~1:45 PM EDT"
 ---
 
-Tanker freight gained 5.67 percent, extending its one-week surge to 32.75 percent, as the "Dawn of Yemen" offensive turned the Bab el-Mandeb Strait into an active battlefield alongside Hormuz. With Iraq's permission-based Hormuz transits still functioning, the market is pricing war risk into the tanker fleet itself. See today's Yemen story.
+Copper rose 2.18 percent to $6.63 a pound at midday, leading the industrial complex as miner equities continued the bounce covered in today's mining stories — copper miners led the morning rebound on the structural-demand thesis for power-grid and datacenter metal. Rio Tinto added 1.39 percent with the diversified majors participating.
 
-Copper miners rose 3.01 percent and copper added 1.37 percent, both riding the structural-demand thesis for power-grid and datacenter copper that runs through today's miner equities story. BHP's 1.68 percent gain came with the complex; no single headline drove it, but the firmer miner tape is covered in today's mining brief.
+Silver climbed 2.01 percent to $61.19, outperforming gold again as Friday's weak US payrolls report (29,000 jobs vs about 90,000 expected, unemployment up to 4.2 percent) kept repricing Fed expectations — October hike odds sit near 18 percent. Silver's sharper move reflects its smaller, more volatile market rather than a separate driver. See today's precious metals story.
 
-Silver climbed 2.81 percent, the standout in precious metals, where today's commodities reporting notes ongoing safe-haven and industrial demand. Gold was quieter at 0.46 percent.
+Tanker freight gained 1.76 percent, extending its one-week surge past 21 percent, as the Bab el-Mandeb Strait stays an active battlefield alongside Hormuz. The market keeps pricing war risk into the tanker fleet itself. See today's Yemen and Hormuz stories.
 
-Dry bulk freight fell 2.20 percent. No clear single driver in this morning's reporting — the move does not connect to any of today's stories.
+Brent crude fell 1.59 percent to $100.62 and WTI slipped 1.35 percent, as the G7's coordinated 100-million-barrel emergency stock release — diesel frontloaded over four months — caps the war premium. OPEC+ holding November quotas, Aramco's Asian price cuts and recovering Gulf exports add to the supply overhang. See today's OPEC+ and stock-release stories.
 
-WTI crude fell 1.47 percent, a modest unwind after the weekend's saber-rattling, as OPEC+ held November quotas, Aramco cut Asian differentials and Gulf exports continued recovering. See today's OPEC+ and OSP stories.
+The US 10-year yield rose 6.8 basis points to 5.35 percent and the 30-year added 7 basis points to 5.70 percent, climbing even as Fed hike bets faded — this is fiscal supply, not growth optimism. The Treasury sells $119 billion of coupons this week ($58 billion of 3-years Tuesday, $39 billion of 10-years Wednesday, $22 billion of 30-years Thursday), and France's OAT-Bund spread sits at its widest since 2012. See today's Treasury auction and France stories.
 
-Lithium and battery equities rose 1.55 percent, tracking the consolidation wave in today's mining stories — the Global Lithium-Titan combination and the Lynas-Meteoric deal.
-
-The cross-market read: risk is rotating, not leaving. War premium is concentrating in shipping while industrial metals bid on growth, the dollar holds firm at 102.25, and the US 10-year sits at 5.28 percent — a market that fears disruption in logistics but is not yet willing to price a growth scare.
+The cross-market read at midday: growth assets and fear assets are both bid, which usually doesn't last. Metals want a soft landing, oil wants the stock release to end, and bonds want the auctions to clear — the afternoon's price action will show which thesis the market actually believes.
