@@ -14,7 +14,7 @@ sources:
     url: "https://en.sedaily.com/international/2026/10/05/yemeni-forces-retake-bab-el-mandeb-strait-from-houthis"
     published: "2026-10-05"
   - title: "Yemeni government forces seize district by Bab el-Mandeb, military sources say"
-    publisher: "Reuters"
+    publisher: "Northland News Radio"
     url: "https://northlandnewsradio.com/2026/10/05/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say/"
     published: "2026-10-05"
   - title: "Yemen's Saudi-backed government announces major offensive against Iran-backed Houthis"

@@ -10,7 +10,7 @@ featured: true
 evidence_grade: "B"
 sources:
   - title: "Australia's Lynas to acquire Brazilian NdPr, DyTb mine"
-    publisher: "Argus"
+    publisher: "World Ports"
     url: "https://www.worldports.org/australias-lynas-to-acquire-brazilian-ndpr-dytb-mine/"
     published: "2026-10-01"
   - title: "Lynas Buys Its Way Into Brazil's Clay Belt as BNDES Circles the Refinery"

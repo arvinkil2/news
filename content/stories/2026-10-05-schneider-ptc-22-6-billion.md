@@ -10,7 +10,7 @@ featured: true
 evidence_grade: "B"
 sources:
   - title: "France's Schneider Electric confirms $22.6 billion deal to buy US software firm PTC"
-    publisher: "Reuters"
+    publisher: "WNCY"
     url: "https://wncy.com/2026/10/04/frances-schneider-electric-nears-20-billion-deal-to-buy-us-software-group-ptc-ft-reports/"
     published: "2026-10-05"
   - title: "Schneider Electric to acquire PTC, creating the next level of energy and industrial intelligence"

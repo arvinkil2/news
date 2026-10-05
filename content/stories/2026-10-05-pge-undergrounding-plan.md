@@ -10,11 +10,11 @@ featured: false
 evidence_grade: "B"
 sources:
   - title: "PG&E Files 10-Year Electrical Undergrounding Plan to Deliver Permanent Wildfire Protection and Improve Safety, Reliability and Affordability"
-    publisher: "PG&E"
+    publisher: "Electric Energy Online"
     url: "https://electricenergyonline.com/social/q6ez/article/energy/category/t-d/56/1221371/PG-E-Files-10-Year-Electrical-Undergrounding-Plan-to-Deliver-Permanent-Wildfire-Protection-and-Improve-Safety-Reliability-and-Affordability.htm"
     published: "2026-10-02"
   - title: "PG&E Files 10-Year Plan to Underground 5,000 Miles of Power Lines in California"
-    publisher: "Reuters"
+    publisher: "Insurance Journal"
     url: "https://www.insurancejournal.com/news/west/2026/10/05/887779.htm"
     published: "2026-10-05"
 tags: []

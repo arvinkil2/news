@@ -10,7 +10,7 @@ featured: true
 evidence_grade: "B"
 sources:
   - title: "Saudi Arabia Unexpectedly Cuts Oil Prices To Asia"
-    publisher: "Reuters"
+    publisher: "gCaptain"
     url: "https://gcaptain.com/saudi-arabia-unexpectedly-cuts-oil-prices-to-asia/"
     published: "2026-10-05"
   - title: "Saudi Arabia Slashes Crude Prices for Asia as Exports Recover - Update"

@@ -14,7 +14,7 @@ sources:
     url: "https://www.eib.org/en/press/all/2026-322-eib-and-bnp-paribas-to-mobilise-eur700-million-in-guarantees-to-support-european-energy-grids"
     published: "2026-09-29"
   - title: "EIB and BNP Paribas sign EUR700 million grid guarantee deal"
-    publisher: "Reuters"
+    publisher: "Europe Says"
     url: "https://www.europesays.com/france/86462/"
     published: "2026-09-29"
 tags: []

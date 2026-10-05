@@ -10,11 +10,11 @@ featured: false
 evidence_grade: "B"
 sources:
   - title: "Suncor to divest non-core offshore assets and increase shareholder returns"
-    publisher: "Suncor Energy"
+    publisher: "BOE Report"
     url: "https://boereport.com/2026/10/04/suncor-to-divest-non-core-offshore-assets-and-increase-shareholder-returns/"
     published: "2026-10-04"
   - title: "Suncor to sell offshore Canada oil stakes to Ithaca for $842 million"
-    publisher: "Reuters"
+    publisher: "SatMag"
     url: "https://satmag.pp.ua/p/a%3A8208833055400%3Asuncor-sell-canadian-offshore-assets-011619000.html"
     published: "2026-10-04"
   - title: "Ithaca Energy Buys Suncor Energy's Canadian Oil Assets for $860M"

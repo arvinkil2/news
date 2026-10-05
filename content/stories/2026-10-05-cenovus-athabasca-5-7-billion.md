@@ -10,7 +10,7 @@ featured: true
 evidence_grade: "A"
 sources:
   - title: "Cenovus announces agreement to acquire Athabasca Oil Corporation"
-    publisher: "Cenovus Energy (GlobeNewswire)"
+    publisher: "BOE Report"
     url: "https://boereport.com/2026/10/05/cenovus-announces-agreement-to-acquire-athabasca-oil-corporation/"
     published: "2026-10-05"
   - title: "Cenovus to acquire Athabasca Oil in C$5.7-billion deal"

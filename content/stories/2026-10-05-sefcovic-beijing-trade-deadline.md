@@ -10,7 +10,7 @@ featured: false
 evidence_grade: "B"
 sources:
   - title: "THIS WEEK: EU trade chief heads to China as Brussels unveils long-delayed pre-enlargement reforms"
-    publisher: "EUobserver"
+    publisher: "Europe Says"
     url: "https://www.europesays.com/be/41178/"
     published: "2026-10-05"
   - title: "China Opens New EU Anti-Dumping Probe Days Before Šefčovič Trade Talks in Beijing"

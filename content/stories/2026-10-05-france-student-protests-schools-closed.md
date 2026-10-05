@@ -10,7 +10,7 @@ featured: false
 evidence_grade: "B"
 sources:
   - title: "Hundreds of French schools stay closed ahead of nationwide day of student protests"
-    publisher: "Reuters"
+    publisher: "WIXX"
     url: "https://wixx.com/2026/10/05/hundreds-of-french-schools-stay-closed-ahead-of-nationwide-day-of-student-protests/"
     published: "2026-10-05"
   - title: "France Closes Up To 500 Schools Monday Over Student Protests"
