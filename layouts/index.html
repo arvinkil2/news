@@ -4,20 +4,7 @@
 {{ $byDate := $sorted.GroupByDate "2006-01-02" }}
 {{ $latest := index $byDate 0 }}
 
-<div class="dateline">Morning briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
-
-{{ $moversPages := first 1 (sort (where $stories "Params.movers_note" true) "Date" "desc") }}
-{{ if $moversPages }}
-{{ $m := index $moversPages 0 }}
-{{ if eq ($m.Date.Format "2006-01-02") $latest.Key }}
-<section class="lead movers-note">
-  <div class="kicker">Overnight markets &middot; {{ $m.Date.Format "Monday, January 2, 2006" }}</div>
-  <h2 class="lead-title"><a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a></h2>
-  {{ with $m.Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
-  <div class="lead-body">{{ $m.Content }}</div>
-</section>
-{{ end }}
-{{ end }}
+<div class="dateline">Today's briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
 
 {{ $bumped := sort (where $latest.Pages "Params.update_bump" true) "Params.last_updated" "desc" }}
 {{ $rest := where $latest.Pages "Params.update_bump" "!=" true }}
@@ -35,6 +22,19 @@
 </li>
 {{ end }}
 </ol>
+{{ end }}
+
+{{ $moversPages := first 1 (sort (where $stories "Params.movers_note" true) "Date" "desc") }}
+{{ if $moversPages }}
+{{ $m := index $moversPages 0 }}
+{{ if eq ($m.Date.Format "2006-01-02") $latest.Key }}
+<section class="movers-note">
+  <div class="kicker">{{ $m.Params.kicker | default "Overnight markets" }} &middot; {{ $m.Date.Format "Monday, January 2, 2006" }}{{ with $m.Params.last_updated }} &middot; <span class="updated-tag">Updated {{ (. | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
+  <h2 class="river-head"><a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a></h2>
+  {{ with $m.Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
+  <div class="lead-body">{{ $m.Content }}</div>
+</section>
+{{ end }}
 {{ end }}
 
 {{ range site.Params.beat_order }}
