@@ -4,12 +4,29 @@
 {{ $byDate := $sorted.GroupByDate "2006-01-02" }}
 {{ $latest := index $byDate 0 }}
 
-<div class="dateline">Today's briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
-
 {{ $bumped := sort (where $latest.Pages "Params.update_bump" true) "Params.last_updated" "desc" }}
 {{ $rest := where $latest.Pages "Params.update_bump" "!=" true }}
 {{ $ordered := union $bumped $rest }}
+
+{{ if $bumped }}
+{{ $freshest := (index $bumped 0).Params.last_updated | time.AsTime }}
+<div class="dateline">Today &middot; latest update {{ $freshest.Format "3:04 PM" }} &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
+
+<h2 class="river-head">The latest</h2>
+<ol class="top-stories">
+{{ range $bumped }}
+<li>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} &middot; <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span></div>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.lede }}<p class="dek">{{ . }}</p>{{ end }}
+</li>
+{{ end }}
+</ol>
+{{ else }}
+<div class="dateline">Today's briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
+{{ end }}
 {{ $top := where (where $ordered "Params.featured" true) "Params.movers_note" "!=" true }}
+{{ if $bumped }}{{ $top = where $top "Params.update_bump" "!=" true }}{{ end }}
 {{ if $top }}
 <h2 class="river-head">What matters today</h2>
 <ol class="top-stories">
@@ -41,6 +58,7 @@
 {{ $beat := . }}
 {{ $beatName := index site.Params.beat_names $beat }}
 {{ $items := where (where $ordered "Params.featured" "!=" true) "Params.beats" "intersect" (slice $beat) }}
+{{ if $bumped }}{{ $items = where $items "Params.update_bump" "!=" true }}{{ end }}
 {{ if $items }}
 <h2 class="river-head">{{ $beatName }}</h2>
 {{ range $items }}
