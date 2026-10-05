@@ -7,9 +7,11 @@
 {{ $pages := sort .Pages "Date" "desc" }}
 {{ range ($pages.GroupByDate "2006-01-02") }}
 <h2 class="date-divider">{{ .Key | time.Format "Monday, January 2, 2006" }}</h2>
-{{ range .Pages }}
+{{ $bumped := sort (where .Pages "Params.update_bump" true) "Params.last_updated" "desc" }}
+{{ $rest := where .Pages "Params.update_bump" "!=" true }}
+{{ range (union $bumped $rest) }}
 <article class="river-item">
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if and .Params.last_updated (gt (.Params.last_updated | time.Format "2006-01-02") (.Date.Format "2006-01-02")) }} &middot; <span class="updated-tag">Updated {{ .Params.last_updated | time.Format "Jan 2" }}</span>{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if .Params.last_updated }}{{ $lu := .Params.last_updated | time.AsTime }}{{ if gt ($lu.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; <span class="updated-tag">Updated {{ $lu.Format "Jan 2" }}</span>{{ else if .Params.update_bump }} &middot; <span class="updated-tag">Updated {{ $lu.Format "3:04 PM" }}</span>{{ end }}{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
