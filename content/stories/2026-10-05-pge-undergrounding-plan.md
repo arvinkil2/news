@@ -1,6 +1,6 @@
 ---
 title: "PG&E files 10-year plan to bury 5,000 power-line miles"
-date: 2026-10-05T10:30:00-04:00
+date: 2026-10-05T07:00:00-04:00
 last_updated: 2026-10-05T10:30:00-04:00
 beats: ["infra-deals"]
 status: "story"

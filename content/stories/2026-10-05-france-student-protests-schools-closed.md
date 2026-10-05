@@ -1,6 +1,6 @@
 ---
 title: "France closes 500 schools as student protests escalate"
-date: 2026-10-05T10:30:00-04:00
+date: 2026-10-05T07:00:00-04:00
 last_updated: 2026-10-05T10:30:00-04:00
 beats: ["politics"]
 status: "story"
