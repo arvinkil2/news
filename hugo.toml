@@ -7,8 +7,8 @@ languageCode = "en"
   tag = "tags"
 
 [params]
-  description = "A personal daily briefing: commodities, mining, infrastructure, politics, and rates."
-  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates"]
+  description = "A personal daily briefing: commodities, mining, infrastructure, politics, rates, and technology."
+  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates", "technology"]
 
   [params.beat_names]
     commodities = "Commodities"
@@ -16,6 +16,7 @@ languageCode = "en"
     infra-deals = "Infrastructure"
     politics = "Politics"
     rates = "Rates"
+    technology = "Technology"
 
 [markup]
   [markup.goldmark]

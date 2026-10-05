@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1 class="page-title">{{ .Title }}</h1>
 {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
-{{ if and (eq .Data.Plural "beats") (or (eq .Data.Term "commodities") (eq .Data.Term "mining") (eq .Data.Term "rates")) }}
+{{ if and (eq .Data.Plural "beats") (or (eq .Data.Term "commodities") (eq .Data.Term "mining") (eq .Data.Term "rates") (eq .Data.Term "technology")) }}
 {{ partial "market-table.html" (dict "Site" .Site "section" .Data.Term) }}
 {{ end }}
 {{ $pages := sort .Pages "Date" "desc" }}

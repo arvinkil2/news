@@ -40,6 +40,19 @@ INSTRUMENTS = {
         ("BHP", "BHP", "$", 2),
         ("Rio Tinto", "RIO", "$", 2),
     ],
+    "technology": [
+        ("Nvidia", "NVDA", "$", 2),
+        ("Apple", "AAPL", "$", 2),
+        ("Microsoft", "MSFT", "$", 2),
+        ("Alphabet", "GOOGL", "$", 2),
+        ("Amazon", "AMZN", "$", 2),
+        ("Meta", "META", "$", 2),
+        ("Tesla", "TSLA", "$", 2),
+        ("Broadcom", "AVGO", "$", 2),
+        ("Nasdaq 100", "QQQ", "$", 2),
+        ("Tech sector", "XLK", "$", 2),
+        ("Semiconductors", "SOXX", "$", 2),
+    ],
 }
 
 def fetch(symbol):
