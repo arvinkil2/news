@@ -1,7 +1,7 @@
 ---
 title: "US sanctions Iran's auto and rail sectors"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:00:00-04:00
+last_updated: 2026-10-05T13:35:31-04:00
 beats: ["politics"]
 status: "story"
 lede: "The US Treasury on October 1 designated Iran's automotive and rail sectors under Executive Order 13902, hitting Iran Khodro, Saipa and the Islamic Republic of Iran Railway Company with secondary sanctions, and separately designated the Russia-linked A7 payments network a transnational criminal organization."

@@ -1,6 +1,7 @@
 ---
 title: "European defence startups on course for record $10.5 billion funding year, Dealroom forecasts"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "European defence startups are on track to raise a record $10.5 billion in 2026, according to a Dealroom forecast, after venture investment in the sector nearly tripled to $7.4 billion so far this year."

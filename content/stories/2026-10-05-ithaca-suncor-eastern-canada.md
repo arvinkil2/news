@@ -1,7 +1,7 @@
 ---
 title: "Ithaca buys Suncor's East Canada offshore stakes"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Ithaca Energy agreed Sunday to buy Suncor's interests in three offshore eastern Canada oil projects for C$1.2 billion in cash plus up to C$350 million contingent on oil prices, its first deal outside the UK."

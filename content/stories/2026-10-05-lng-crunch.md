@@ -1,6 +1,7 @@
 ---
 title: "LNG markets tighten as Europe outbids Asia ahead of winter"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Global LNG markets are tightening into winter as Europe pays crisis-era prices to refill storage while Asian buyers retreat, with spot benchmarks near four-year highs."

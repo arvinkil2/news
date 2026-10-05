@@ -1,6 +1,7 @@
 ---
 title: "Lane: energy shock still drives eurozone inflation as ECB parses the data"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["rates"]
 status: "story"
 lede: "ECB chief economist Philip Lane said the energy supply shock remains the primary driver of euro area inflation, with September headline inflation at 3.8%, in a keynote speech in Frankfurt on October 5."

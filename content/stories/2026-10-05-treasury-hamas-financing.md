@@ -1,6 +1,7 @@
 ---
 title: "Treasury dismantles Hamas financing network run through French charities and crypto"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["politics"]
 status: "story"
 lede: "OFAC designated three individuals and two France-based entities accused of moving more than $2 million to Hamas through sham charities and cryptocurrency wallets between 2020 and 2026."

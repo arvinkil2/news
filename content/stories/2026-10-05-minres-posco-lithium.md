@@ -1,7 +1,7 @@
 ---
 title: "POSCO takes stake in MinRes lithium arm"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T11:48:42-04:00
 beats: ["mining"]
 status: "story"
 lede: "Mineral Resources agreed to sell a minority interest in a new joint venture housing its lithium stakes to South Korea's POSCO for a substantial cash sum, with proceeds earmarked for debt reduction."

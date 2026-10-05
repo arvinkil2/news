@@ -1,7 +1,7 @@
 ---
 title: "Sugar surges to 17-month high on deficit bets"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T11:42:35-04:00
 beats: ["commodities"]
 status: "story"
 lede: "March raw sugar settled at 19.93 cents a pound on Friday, up 5.2 percent on the day and 7.7 percent on the week, the highest since April 2025."

@@ -1,6 +1,7 @@
 ---
 title: "EU blocks Poland's €26 million aid for MAN Trucks factory expansion"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "The European Commission ruled Monday that Poland's planned €26 million support for expanding MAN Trucks' factory in Niepołomice is incompatible with EU state aid rules, barring Warsaw from disbursing it."

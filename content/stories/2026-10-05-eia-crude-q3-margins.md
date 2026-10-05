@@ -1,6 +1,7 @@
 ---
 title: "EIA: crude prices and refinery margins rose through the third quarter"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Brent crude climbed from $72 to a peak of $109 a barrel in the third quarter while US refinery margins ran far above year-ago levels, the EIA said Monday."

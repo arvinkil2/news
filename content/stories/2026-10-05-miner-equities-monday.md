@@ -1,7 +1,7 @@
 ---
 title: "Miner equities bounce with copper and lithium"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T11:48:42-04:00
 beats: ["mining"]
 status: "story"
 lede: "Mining equities bounced broadly on Monday, led by copper miners up 3.01 percent and lithium and battery names up 1.55 percent, with BHP gaining 1.68 percent and Rio Tinto 1.44 percent."

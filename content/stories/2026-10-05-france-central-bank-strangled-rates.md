@@ -1,6 +1,7 @@
 ---
 title: "Villeroy warns France risks being strangled by interest rates"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["rates"]
 status: "story"
 lede: "Banque de France governor François Villeroy de Galhau warned that France risks being strangled by interest rates as debt servicing costs climb, in comments reported by the Financial Times on October 5."

@@ -1,6 +1,7 @@
 ---
 title: "India's top court says it never approved modified voter Form 6"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["politics"]
 status: "story"
 lede: "Chief Justice of India Surya Kant said on Monday that the Supreme Court has not approved any modified version of Form 6 used in voter-roll revisions, undercutting the Election Commission's claim."

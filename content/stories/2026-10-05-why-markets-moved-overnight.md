@@ -1,7 +1,7 @@
 ---
 title: "Why markets are moving today"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:50:00-04:00
+last_updated: 2026-10-05T13:46:54-04:00
 kicker: "Markets today"
 movers_note: true
 status: "story"

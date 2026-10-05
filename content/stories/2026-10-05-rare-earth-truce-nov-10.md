@@ -1,7 +1,7 @@
 ---
 title: "Rare earth truce expires in 36 days"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T11:48:42-04:00
 beats: ["mining"]
 status: "story"
 lede: "China's one-year suspension of its expanded rare earth export controls lapses on November 10, with licensing requirements on five more elements and extraterritorial provisions set to snap back if Beijing does not extend the pause."

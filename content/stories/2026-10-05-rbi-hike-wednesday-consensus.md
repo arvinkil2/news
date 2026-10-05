@@ -1,7 +1,7 @@
 ---
 title: "RBI set to hike for first time since 2023"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:08:19-04:00
 beats: ["rates"]
 status: "story"
 lede: "Economists at SBI, Bank of America, Yes Bank and IndusInd Bank now agree the Reserve Bank of India's MPC will raise the repo rate 25 basis points to 5.50 percent on Wednesday, ending a rate-hiking pause that began in February 2023."

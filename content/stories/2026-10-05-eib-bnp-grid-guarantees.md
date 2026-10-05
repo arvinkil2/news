@@ -1,7 +1,7 @@
 ---
 title: "EIB and BNP Paribas back EU grid makers"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "The European Investment Bank and BNP Paribas signed an agreement to mobilise €700 million in guarantees for European electricity grid manufacturers, aiming to unlock up to €2.8 billion of real-economy investment."

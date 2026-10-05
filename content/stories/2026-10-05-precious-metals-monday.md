@@ -1,7 +1,7 @@
 ---
 title: "Gold and silver firm as Fed hike bets fade"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T11:42:35-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Gold rose 0.46 percent to $4,181.50 an ounce on Monday and silver jumped 2.81 percent to $61.67 as weak US payrolls pushed October Fed-hike pricing down to about 18 percent."

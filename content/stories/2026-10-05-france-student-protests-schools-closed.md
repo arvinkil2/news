@@ -1,7 +1,7 @@
 ---
 title: "France closes 500 schools as protests escalate"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:00:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["politics"]
 status: "story"
 lede: "Between 400 and 500 French high schools will be closed or partially closed on Monday as student protests over teacher shortages and crumbling schools enter a second week ahead of nationwide demonstrations Tuesday."

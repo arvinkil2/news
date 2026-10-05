@@ -1,7 +1,7 @@
 ---
 title: "Weekend strike hits Hormuz tanker, crew evacuated"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T13:35:30-04:00
 beats: ["commodities"]
 status: "story"
 lede: "A vessel transiting the Strait of Hormuz was struck by an unknown projectile late Saturday, catching fire and forcing a crew evacuation, in the latest attack on commercial shipping in the corridor."

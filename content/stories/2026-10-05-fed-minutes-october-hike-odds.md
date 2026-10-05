@@ -1,7 +1,7 @@
 ---
 title: "Fed minutes meet a repriced market"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:16:10-04:00
 beats: ["rates"]
 status: "story"
 lede: "Minutes of the Fed's September hike land Wednesday at 2pm ET into a market that has collapsed October hike odds from 70 percent to roughly one in five after top officials pushed back and payrolls printed just 29,000."

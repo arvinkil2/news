@@ -1,7 +1,7 @@
 ---
 title: "Brazil first round reprices Selic expectations"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:08:19-04:00
 beats: ["rates"]
 status: "story"
 lede: "Flávio Bolsonaro's first-round win has Brazil's rates market repricing around two scenarios: Lula's promised debt ceiling with public debt above 82 percent of GDP, or a Bolsonaro presidency aligned with Washington's tariff architecture."

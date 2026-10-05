@@ -1,7 +1,7 @@
 ---
 title: "Gulf crude exports near pre-war levels, freight soars"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T11:42:35-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Middle East crude exports have recovered to roughly 98 percent of pre-war levels through workarounds like ship-to-ship transfers, even as tanker freight rates run at multiples of normal."

@@ -1,7 +1,7 @@
 ---
 title: "OPEC+ holds November oil quotas unchanged"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T11:42:36-04:00
 beats: ["commodities"]
 status: "story"
 lede: "OPEC+ kept November production targets unchanged at its October 4 video meeting, the second straight month of no change, holding the seven members' combined quota at 31.01 million barrels a day."

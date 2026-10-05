@@ -1,7 +1,7 @@
 ---
 title: "BMW exits European Lithium offtake before vote"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T11:48:42-04:00
 beats: ["mining"]
 status: "story"
 lede: "European Lithium confirmed BMW has terminated its lithium supply agreement for the long-delayed Koralm project in Austria, with the advance payment already returned, three weeks before shareholders vote on the $835 million Critical Metals merger."

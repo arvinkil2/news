@@ -1,6 +1,7 @@
 ---
 title: "Trump set to expand tax-exempt diesel access as prices bite"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["commodities"]
 status: "story"
 lede: "President Trump plans to sign an executive order as soon as Monday widening access to tax-exempt dyed diesel, with US pump prices near record highs a month before the midterms."

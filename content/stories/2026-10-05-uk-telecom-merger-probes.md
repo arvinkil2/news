@@ -1,6 +1,7 @@
 ---
 title: "CMA moves on two UK telecom deals as BT rescues TalkTalk from administration"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "The UK government ordered a public interest probe of BT's acquisition of TalkTalk out of administration on Monday, a deal BT says carries about £400 million of cash costs, while the CMA's in-depth review of the nexfibre-Substantial fibre merger hit a provisional obstacle."

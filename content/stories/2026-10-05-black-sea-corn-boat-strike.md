@@ -1,6 +1,7 @@
 ---
 title: "Russian drones blamed for deadly strike on corn carrier in Black Sea"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Two crew members died after drones struck the Turkish-owned corn carrier Royad Mammadov in the Black Sea on Monday, Ukraine said, in the latest attack on civilian grain shipping."

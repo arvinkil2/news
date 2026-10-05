@@ -1,7 +1,7 @@
 ---
 title: "Cenovus to buy Athabasca Oil for C$5.7 billion"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Cenovus Energy agreed Monday to acquire Athabasca Oil Corporation in a cash-and-stock deal with an implied enterprise value of C$5.7 billion, adding 45,000 barrels a day of oil sands production."

@@ -1,6 +1,7 @@
 ---
 title: "Enel closes $140 million purchase of 270 MW US solar portfolio"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Enel has finalized the acquisition of seven operating solar plants in the United States totaling about 270 MW for an enterprise value of approximately $140 million."

@@ -1,7 +1,7 @@
 ---
 title: "UK creates public grid investor GB Grid"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T14:14:16-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Prime Minister Andy Burnham announced Great British Grid, a publicly owned body inside Great British Energy with about £4 billion to invest in and compete for electricity transmission projects."
@@ -9,14 +9,14 @@ why_it_matters: "The first state player in Britain's networks since privatisatio
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Great British Grid to speed up connections and cut bills"
+    publisher: "GOV.UK"
+    url: "https://www.gov.uk/government/news/great-british-grid-to-speed-up-connections-and-cut-bills"
+    published: "2026-09-29"
   - title: "Burnham to announce 'Great British Grid' in bid to cut energy costs"
     publisher: "Energy Pedia"
     url: "https://www.energy-pedia.com/news/united-kingdom/burnham-to-announce-great-british-grid-in-bid-to-cut-energy-costs-205478"
     published: "2026-09-29"
-  - title: "Great British Grid to modernise Britain's power network and reduce energy costs"
-    publisher: "The European"
-    url: "https://the-european.eu/story-66955/uk-unveils-great-british-grid-in-bid-to-cut-energy-bills.html"
-    published: "2026-09-30"
 tags: []
 data_as_of: "Announced Sep 29 at Labour conference; GOV.UK policy statement Sep 29"
 ---

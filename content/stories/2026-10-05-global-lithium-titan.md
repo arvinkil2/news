@@ -1,7 +1,7 @@
 ---
 title: "Titan's A$333m Global Lithium bid holds course"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T11:48:42-04:00
 beats: ["mining"]
 status: "story"
 lede: "Titan Australia Mining's binding A$1.15-a-share cash offer for Global Lithium — a 73 percent premium valuing the company at about A$333 million — remains on track toward a December shareholder vote."

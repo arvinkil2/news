@@ -1,7 +1,7 @@
 ---
 title: "Lynas bids A$968m for Brazil rare earths"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:05:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["mining"]
 status: "story"
 lede: "Lynas Rare Earths agreed October 1 to acquire Meteoric Resources in an all-share scheme valued at about A$968 million, securing Brazil's Caldeira ionic-clay deposit and its 41,000 tonnes of heavy rare earth oxides."

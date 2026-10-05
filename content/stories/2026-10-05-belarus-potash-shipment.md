@@ -1,6 +1,7 @@
 ---
 title: "First Belarusian potash shipment in four years heads for New Orleans"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["mining"]
 status: "story"
 lede: "A cargo of 30,000 tonnes of Belarusian potash loaded in Russia on September 15 is due in New Orleans on October 14, the first such shipment to the US since sanctions were imposed in 2021."

@@ -1,7 +1,7 @@
 ---
 title: "China probes EU chemical before trade talks"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:00:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["politics"]
 status: "story"
 lede: "China opened an anti-dumping investigation into EU p-nitrotoluene on October 3, five days before trade commissioner Sefcovic arrives in Beijing for talks covering the €360 billion trade deficit and rare earth export controls."

@@ -1,7 +1,7 @@
 ---
 title: "Treasury tests appetite with $119bn of coupons"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:18:17-04:00
 beats: ["rates"]
 status: "story"
 lede: "The Treasury sells $58 billion of 3-year notes Tuesday, $39 billion of 10-years Wednesday and $22 billion of 30-year bonds Thursday — $119 billion of duration into a market paying 5.31 percent for the 10-year."

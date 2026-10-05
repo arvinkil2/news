@@ -1,7 +1,7 @@
 ---
 title: "Grains brace for Friday WASDE yield verdict"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T11:42:44-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Corn and soybean traders head into Friday's WASDE report with private estimates split — StoneX at 182.1 bushels an acre against the USDA's September 178.5 — as harvest runs ahead of average everywhere except rain-soaked Iowa."

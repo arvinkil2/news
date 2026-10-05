@@ -1,7 +1,7 @@
 ---
 title: "Bolsonaro beats Lula in Brazil first round"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:25:00-04:00
+last_updated: 2026-10-05T13:52:58-04:00
 update_bump: true
 beats: ["politics"]
 status: "story"

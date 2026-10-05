@@ -1,6 +1,7 @@
 ---
 title: "Sainsbury's held merger talks with Morrisons earlier this year, reports say"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Sainsbury's held talks with rival grocer Morrisons over a potential multibillion-pound merger between November 2025 and February 2026 before walking away, according to reports published Monday."

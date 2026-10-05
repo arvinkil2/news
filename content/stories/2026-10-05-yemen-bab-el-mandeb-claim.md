@@ -1,7 +1,7 @@
 ---
 title: "Yemen forces claim Bab el-Mandeb retaken"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:00:00-04:00
+last_updated: 2026-10-05T13:35:31-04:00
 beats: ["politics"]
 status: "story"
 lede: "Saudi-backed Yemeni government forces claimed Monday to have retaken the Bab el-Mandeb Strait, one day after launching the 'Dawn of Yemen' offensive, with 100 Saudi coalition jets in support — claims the Houthis call fictitious."

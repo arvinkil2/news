@@ -1,7 +1,7 @@
 ---
 title: "PG&E files decade-long undergrounding investment plan"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "PG&E filed a 10-year plan to place 5,000 miles of distribution lines underground across more than 30 California counties from 2028 to 2037, claiming $117 billion in long-term benefits."

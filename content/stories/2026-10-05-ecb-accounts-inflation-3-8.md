@@ -1,7 +1,7 @@
 ---
 title: "ECB accounts land as inflation hits 3.8"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:08:19-04:00
 beats: ["rates"]
 status: "story"
 lede: "The ECB publishes accounts of its September hike on Thursday as eurozone inflation reaccelerated to 3.8 percent, but markets give an October 29 follow-up just 12 percent odds against near 70 percent for December."

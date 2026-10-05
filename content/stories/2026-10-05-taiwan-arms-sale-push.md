@@ -1,6 +1,7 @@
 ---
 title: "Taiwan's envoy presses Washington on stalled $14 billion arms package"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["politics"]
 status: "story"
 lede: "Taiwan's representative to the US, Alexander Yui, said he is confident President Trump will approve a stalled US$14 billion arms package, most of it air defences, as Taipei waits on a decision."

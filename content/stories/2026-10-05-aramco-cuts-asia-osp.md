@@ -1,7 +1,7 @@
 ---
 title: "Aramco cuts Asia crude prices to six-year low"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:45:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Saudi Aramco cut its November Arab Light official selling price for Asia by $3 a barrel to a $5 discount against the Oman/Dubai average, the deepest discount since June 2020."

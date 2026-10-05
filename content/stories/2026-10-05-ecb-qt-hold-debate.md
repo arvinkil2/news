@@ -1,6 +1,7 @@
 ---
 title: "Analysis: French bond turbulence strengthens the case for an ECB QT pause"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["rates"]
 status: "story"
 lede: "A Financial Times analysis argues that bond market turbulence means it is time for the ECB to put quantitative tightening on hold, as widening spreads tighten financial conditions without any rate move."

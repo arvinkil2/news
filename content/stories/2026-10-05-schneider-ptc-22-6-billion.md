@@ -1,7 +1,7 @@
 ---
 title: "Schneider Electric buys PTC for $22.6 billion"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T12:30:00-04:00
+last_updated: 2026-10-05T12:43:20-04:00
 beats: ["infra-deals"]
 status: "story"
 lede: "Schneider Electric agreed Monday to buy US industrial software maker PTC for $205 a share in cash, a $22.6 billion equity deal — the largest acquisition in Schneider's history."

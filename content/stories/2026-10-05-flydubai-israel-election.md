@@ -1,6 +1,7 @@
 ---
 title: "Flydubai cockpit attack becomes election battleground in Israel"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["politics"]
 status: "story"
 lede: "Israel's investigation into the September 30 midair attack on a Flydubai flight has found the co-pilot intended to crash the plane into Ben Gurion airport, as the incident turns into a political fight weeks before Israel's election."

@@ -1,7 +1,7 @@
 ---
 title: "French bond spread widest since 2012"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:15:00-04:00
+last_updated: 2026-10-05T12:08:19-04:00
 beats: ["rates"]
 status: "story"
 lede: "The spread between French 10-year OATs and German Bunds closed Friday at 149.17 basis points, its widest since January 2012, after the €43 billion 2027 budget failed to restore investor confidence — and before this week's student unrest."

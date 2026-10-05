@@ -1,6 +1,7 @@
 ---
 title: "U.S.-Ukraine fund approves first critical minerals investments and grid projects"
 date: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T13:28:02-04:00
 beats: ["mining"]
 status: "story"
 lede: "The U.S.-Ukraine Reconstruction Investment Fund approved a critical minerals platform with BGV Group, equity for distributed power plants, and debt for DTEK's 200 MW battery network."
