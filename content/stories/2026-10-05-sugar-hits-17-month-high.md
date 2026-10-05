@@ -1,16 +1,16 @@
 ---
 title: "Sugar hits 17-month high on Brazil and India weather"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T10:30:00-04:00
 beats: ["commodities"]
 status: "story"
 lede: "March raw sugar closed Friday at 19.93 cents a pound, up 5.2 percent on the day and 7.7 percent on the week, the highest since April 2025, on Brazilian weather damage and India's weakest monsoon in a decade."
 why_it_matters: "A weather-driven deficit bid is building on both sides of the world market at once, and a weekly close above 20 cents opens a 2022-style deficit-rally path."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Corn Breaks on Stocks Shock, Sugar Surges to 17-Month High"
-    publisher: "Teucrium"
+    publisher: "Teucrium (citing Datagro, StoneX via Reuters)"
     url: "https://teucrium.substack.com/p/corn-breaks-on-stocks-shock-sugar"
     published: "2026-10-03"
 tags: []

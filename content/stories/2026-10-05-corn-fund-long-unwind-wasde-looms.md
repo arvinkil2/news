@@ -1,7 +1,7 @@
 ---
 title: "Corn fund-long unwind deepens ahead of WASDE"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T10:30:00-04:00
 beats: ["commodities"]
 status: "story"
 lede: "December corn fell 1.1 percent to $5.11 on Friday as funds kept exiting a near-record managed-money long of about 415,000 contracts, with the October 9 WASDE the next decision point."
@@ -9,10 +9,14 @@ why_it_matters: "Whether the funds finish liquidating determines if corn holds $
 featured: false
 evidence_grade: "B"
 sources:
-  - title: "Corn Futures Drop as Funds Exit Longs"
-    publisher: "Morningstar (Dow Jones)"
-    url: "https://www.morningstar.com/news/dow-jones/202610025439/corn-futures-drop-as-funds-exit-longs-daily-grain-highlights"
-    published: "2026-10-02"
+  - title: "Corn Breaks on Stocks Shock, Sugar Surges to 17-Month High"
+    publisher: "Teucrium (citing StoneX; USDA data)"
+    url: "https://teucrium.substack.com/p/corn-breaks-on-stocks-shock-sugar"
+    published: "2026-10-03"
+  - title: "Crop Progress"
+    publisher: "USDA NASS"
+    url: "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog1026.pdf"
+    published: "2026-10-05"
 tags: []
 data_as_of: "Friday close; COT week ended Sep 29"
 ---
@@ -21,4 +25,4 @@ December corn fell 1.1 percent to $5.11 a bushel on Friday, extending the sellof
 
 The debate is the October 9 WASDE's yield number. StoneX put corn at 182.1 bushels an acre on a 16.115-billion-bushel crop — above the USDA's September 178.5 — while warning that a move toward the Pro Farmer tour's 173.2 would flip the market. August ethanol grind ran at an 8-year high and export inspections are off to their fastest start in 10 years, but cumulative sales lag last year by 31 percent.
 
-Harvest is 18 percent done nationally but only 5 percent in Iowa after a record-wet September, and the dry forecast starting this weekend means harvest pressure builds exactly as the fund unwind runs its course. The tells into Friday: $5 psychological support, the $4.95 weekly low, and the CFTC's Friday update on how much of the 415k long is left.
+Harvest is 18 percent done nationally but only 5 percent in Iowa after a record-wet September, and the dry forecast starting this weekend means harvest pressure builds exactly as the fund unwind runs its course. USDA's Crop Progress report lands today at 4:00pm ET — the first read on whether the dry window is accelerating the harvest. The tells into Friday: $5 psychological support, the $4.95 weekly low, and the CFTC's Friday update on how much of the 415k long is left.

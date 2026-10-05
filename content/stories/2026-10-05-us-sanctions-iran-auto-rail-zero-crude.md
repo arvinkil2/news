@@ -1,7 +1,7 @@
 ---
 title: "U.S. sanctions Iran auto and rail sectors"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T10:30:00-04:00
 beats: ["politics"]
 status: "story"
 lede: "Treasury sanctioned Iran's auto and rail sectors plus a Russia-linked financial network on Thursday, and Treasury Secretary Bessent claimed Iran loaded zero crude onto tankers in September."
@@ -9,10 +9,10 @@ why_it_matters: "If the zero-export claim holds, the blockade has worked as a fi
 featured: false
 evidence_grade: "B"
 sources:
-  - title: "US is moving thousands of troops aboard ships to the Mideast as Trump weighs new strikes on Iran"
-    publisher: "USA Today News (AP reporting)"
-    url: "https://usa-today-news.com/news/us-is-moving-thousands-of-troops-aboard-ships-to-the-mideast-as-trump-weighs-new-strikes-on-iran/"
-    published: "2026-10-04"
+  - title: "Treasury Targets Iran's Automotive and Rail Sectors"
+    publisher: "U.S. Department of the Treasury"
+    url: "https://home.treasury.gov/news/press-releases/sb20261001"
+    published: "2026-10-01"
 tags: []
 data_as_of: "Thursday sanctions; Treasury statements"
 ---

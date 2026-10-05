@@ -1,7 +1,7 @@
 ---
 title: "EU-China trade talks hit deadline week"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T07:00:00-04:00
+last_updated: 2026-10-05T10:30:00-04:00
 beats: ["politics"]
 status: "story"
 lede: "EU Trade Commissioner Sefcovic arrives in Beijing on October 8 for talks where Brussels demands a rare-earth truce extension, after China opened a fresh anti-dumping probe into the EU days before his arrival."
@@ -9,10 +9,10 @@ why_it_matters: "The rare-earth truce expires November 10 with no extension on t
 featured: false
 evidence_grade: "B"
 sources:
-  - title: "China Opens New EU Anti-Dumping Probe Days Before Sefcovic Trade Talks in Beijing"
-    publisher: "EU Today"
-    url: "https://eutoday.net/china-opens-new-eu-anti-dumping-probe/"
-    published: "2026-10-04"
+  - title: "China opens anti-dumping probe into EU days before Beijing trade talks"
+    publisher: "GITFiConline (citing Euronews interview with Sefcovic)"
+    url: "https://gitficonline.com/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks/"
+    published: "2026-10-03"
 tags: []
 data_as_of: "Commission agenda; MOFCOM probe"
 ---
@@ -21,4 +21,4 @@ EU Trade Commissioner Maroš Sefcovic will be in Beijing on October 8 and 9 to c
 
 Sefcovic has been blunt about the stakes. He told Euronews that without concrete results there would be "a strong political movement to push for harsher measures" and that if he had nothing to show, EU leaders — who meet in Brussels on October 15 and 16 — would look for solutions "through other instruments." The EU's goods trade deficit with China runs at roughly €1 billion a day.
 
-Beijing's answer came before he landed: China opened a new anti-dumping probe into the EU, a classic pre-negotiation pressure instrument, and warned it would respond firmly to any new EU restrictions on Chinese companies or products. The rare-earth truce — Beijing's one-year suspension of its October 2025 export controls — expires November 10, 36 days out. August export data show it was already a rationed truce: volumes 18.2 percent below year-ago, value per ton up 72.7 percent.
+Beijing's answer came before he landed: China opened a new anti-dumping probe into the EU, a classic pre-negotiation pressure instrument, and warned it would respond firmly to any new EU restrictions on Chinese companies or products. The rare-earth truce — Beijing's one-year suspension of its October 2025 export controls — expires November 10, 35 days out. August export data show it was already a rationed truce: volumes 18.2 percent below year-ago, value per ton up 72.7 percent.
