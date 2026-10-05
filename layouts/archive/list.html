@@ -1,8 +1,9 @@
 {{ define "main" }}
 <h1 class="page-title">Archive</h1>
-<p class="page-intro">Every story, by date, newest first.</p>
-{{ $stories := where .Site.RegularPages "Section" "stories" }}
-{{ range (sort $stories "Date" "desc").GroupByDate "2006-01-02" }}
+<p class="page-intro">Every story, newest first.</p>
+{{ $stories := sort (where .Site.RegularPages "Section" "stories") "Date" "desc" }}
+{{ $paginator := .Paginate $stories 10 }}
+{{ range ($paginator.Pages.GroupByDate "2006-01-02") }}
 <h2 class="archive-date">{{ .Key | time.Format "Monday, January 2, 2006" }}</h2>
 {{ range .Pages }}
 <article class="river-item">
@@ -11,5 +12,13 @@
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
 {{ end }}
+{{ end }}
+
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="pagination">
+  {{ if $paginator.HasPrev }}<a class="page-link" href="{{ $paginator.Prev.URL }}">&larr; Newer</a>{{ end }}
+  <span class="page-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+  {{ if $paginator.HasNext }}<a class="page-link" href="{{ $paginator.Next.URL }}">Older &rarr;</a>{{ end }}
+</nav>
 {{ end }}
 {{ end }}
