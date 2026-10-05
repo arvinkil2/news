@@ -19,13 +19,16 @@
 {{ end }}
 {{ end }}
 
-{{ $top := where (where $latest.Pages "Params.featured" true) "Params.movers_note" "!=" true }}
+{{ $bumped := sort (where $latest.Pages "Params.update_bump" true) "Params.last_updated" "desc" }}
+{{ $rest := where $latest.Pages "Params.update_bump" "!=" true }}
+{{ $ordered := union $bumped $rest }}
+{{ $top := where (where $ordered "Params.featured" true) "Params.movers_note" "!=" true }}
 {{ if $top }}
 <h2 class="river-head">What matters today</h2>
 <ol class="top-stories">
 {{ range $top }}
 <li>
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if .Params.update_bump }} &middot; <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p class="dek">{{ . }}</p>{{ end }}
   {{ with .Params.why_it_matters }}<p class="why"><span>Why it matters:</span> {{ . }}</p>{{ end }}
@@ -37,11 +40,12 @@
 {{ range site.Params.beat_order }}
 {{ $beat := . }}
 {{ $beatName := index site.Params.beat_names $beat }}
-{{ $items := where (where $latest.Pages "Params.featured" "!=" true) "Params.beats" "intersect" (slice $beat) }}
+{{ $items := where (where $ordered "Params.featured" "!=" true) "Params.beats" "intersect" (slice $beat) }}
 {{ if $items }}
 <h2 class="river-head">{{ $beatName }}</h2>
 {{ range $items }}
 <article class="river-item">
+  <div class="kicker">{{ if .Params.update_bump }}<span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
