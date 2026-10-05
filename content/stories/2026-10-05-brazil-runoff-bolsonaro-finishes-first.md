@@ -4,7 +4,7 @@ date: 2026-10-05T07:00:00-04:00
 last_updated: 2026-10-05T14:00:00-04:00
 update_bump: true
 beats: ["politics"]
-status: "developing"
+status: "story"
 lede: "Senator Flávio Bolsonaro won Brazil's presidential first round with 47.03 percent of valid votes against President Lula's 45.16 percent, forcing an October 25 runoff in the narrowest first-round margin since 1989."
 why_it_matters: "Polls had Lula ahead — the miss sets up three weeks of polarized campaigning with Brazil's fiscal trajectory, US tariff treatment and the real all repricing around the runoff."
 featured: true

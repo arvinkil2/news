@@ -2,7 +2,7 @@
 title: "Sanchez calls snap Spanish election for November 29 after housing defeat"
 date: 2026-10-05T07:00:00-04:00
 beats: ["politics"]
-status: "developing"
+status: "story"
 lede: "Pedro Sanchez called a snap general election for November 29 on Monday, after parliament rejected his government's emergency housing decrees last week."
 why_it_matters: "Polls point to a conservative People's Party government backed by Vox, which would put a far-right party in national government for the first time since Spain's return to democracy. The vote also tests whether housing anger reshapes European politics."
 featured: true
