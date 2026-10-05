@@ -12,7 +12,7 @@
 {{ $freshest := (index $bumped 0).Params.last_updated | time.AsTime }}
 <div class="dateline">Today &middot; latest update {{ $freshest.Format "3:04 PM" }} &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
 
-<h2 class="river-head">The latest</h2>
+<h2 class="river-head">Today's updates</h2>
 <ol class="top-stories">
 {{ range $bumped }}
 <li>
