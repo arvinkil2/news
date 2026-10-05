@@ -91,7 +91,9 @@ def build_row(name, symbol, unit, decimals, is_yield=False):
     }
 
 def main():
-    out = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat()}
+    from zoneinfo import ZoneInfo
+    et = ZoneInfo("America/Toronto")
+    out = {"updated": datetime.datetime.now(et).isoformat()}
     for section in INSTRUMENTS:
         out[section] = []
     errors = []
