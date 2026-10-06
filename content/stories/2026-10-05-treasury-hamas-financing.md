@@ -6,7 +6,7 @@ beats: ["politics"]
 status: "story"
 lede: "OFAC designated three individuals and two France-based entities accused of moving more than $2 million to Hamas through sham charities and cryptocurrency wallets between 2020 and 2026."
 why_it_matters: "The action exposes a European fundraising pipeline for Hamas's military wing and signals continued U.S. pressure on crypto channels used for terror finance, with secondary sanctions risk for banks that touched the network."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Treasury Dismantles Major Hamas Financing Network"

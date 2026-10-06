@@ -6,7 +6,7 @@ beats: ["mining"]
 status: "story"
 lede: "The U.S.-Ukraine Reconstruction Investment Fund approved a critical minerals platform with BGV Group, equity for distributed power plants, and debt for DTEK's 200 MW battery network."
 why_it_matters: "This is the fund's first move into critical minerals, giving U.S.-aligned capital a direct stake in Ukrainian rare earths, beryllium and zirconium, and it puts near-term money behind winter grid resilience."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"

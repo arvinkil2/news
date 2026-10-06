@@ -6,7 +6,7 @@ beats: ["mining"]
 status: "story"
 lede: "Lynas Rare Earths agreed October 1 to acquire Meteoric Resources in an all-share scheme valued at about A$968 million, securing Brazil's Caldeira ionic-clay deposit and its 41,000 tonnes of heavy rare earth oxides."
 why_it_matters: "Caldeira is the largest known ionic-clay rare earth resource outside China — Lynas is buying the only near-term non-Chinese source of the dysprosium and terbium the West cannot currently replace."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Australia's Lynas to acquire Brazilian NdPr, DyTb mine"

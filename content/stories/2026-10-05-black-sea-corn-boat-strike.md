@@ -1,12 +1,12 @@
 ---
 title: "Russian drones blamed for deadly strike on corn carrier in Black Sea"
 date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:28:02-04:00
+last_updated: 2026-10-05T20:46:55-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Two crew members died after drones struck the Turkish-owned corn carrier Royad Mammadov in the Black Sea on Monday, Ukraine said, in the latest attack on civilian grain shipping."
 why_it_matters: "The Black Sea is the main export route for Ukrainian grain; repeated strikes on merchant vessels raise war-risk premiums and threaten food supply chains."
-featured: true
+featured: false
 evidence_grade: "A"
 sources:
   - title: "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea"
@@ -26,3 +26,5 @@ Ukrainian President Volodymyr Zelensky said two Russian drones struck the civili
 Romanian authorities said the ship caught fire about 30 nautical miles south of the port of Sfantu Gheorghe, inside Romania's exclusive economic zone but outside its territorial waters, and later sank. Romania did not attribute a cause; Russia had no immediate comment, though its defence ministry said earlier Monday it had struck two cargo vessels.
 
 The attack fits a pattern straining Black Sea trade. Turkey's Chamber of Maritime Commerce says 226 civilian and commercial vessels have been attacked in the Black Sea since the war began, the vast majority this year, and President Erdogan has called the strikes unacceptable. Kyiv says it has proposed measures to secure navigation; Moscow, Zelensky said, "consistently chooses terror and sinking civilian vessels instead of normal maritime navigation." Attribution of the drone strike rests on Ukraine's account.
+
+Grain markets took the escalation in stride on Monday. December corn settled essentially flat at 497.5c, while December SRW wheat rose 8.5c, about 1.2 percent, to 691.5c, a move consistent with Black Sea risk repricing in wheat even though the vessel attacked was carrying corn.

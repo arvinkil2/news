@@ -6,7 +6,7 @@ beats: ["commodities"]
 status: "story"
 lede: "Saudi Aramco cut its November Arab Light official selling price for Asia by $3 a barrel to a $5 discount against the Oman/Dubai average, the deepest discount since June 2020."
 why_it_matters: "Riyadh is absorbing record freight costs to defend market share in Asia — the clearest signal yet that the binding constraint has shifted from getting oil out to what it costs to move it."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Saudi Arabia Unexpectedly Cuts Oil Prices To Asia"

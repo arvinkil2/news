@@ -1,12 +1,12 @@
 ---
-title: "Treasury hits Iran's auto, rail and steel sectors and sanctions the A7 shadow banking network"
+title: "Treasury sanctions Iran auto, rail, steel sectors and A7 banking network"
 date: 2026-10-05T07:00:00-04:00
 last_updated: 2026-10-05T13:28:02-04:00
 beats: ["politics"]
 status: "story"
 lede: "The U.S. Treasury designated Iran's automotive and rail sectors, metals producers and their foreign suppliers, and separately sanctioned the A7 shadow banking network used by Iran and Russia to evade sanctions."
 why_it_matters: "The actions close off Iran's largest remaining non-oil revenue streams and target the payment plumbing behind its oil sales. Foreign suppliers in Asia, the Middle East and Europe now face a choice between Iranian business and U.S. market access."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Operation Economic Outcast Targets Iran's Remaining Industrial Lifelines"

@@ -6,7 +6,7 @@ beats: ["commodities"]
 status: "story"
 lede: "OPEC+ kept November production targets unchanged at its October 4 video meeting, the second straight month of no change, holding the seven members' combined quota at 31.01 million barrels a day."
 why_it_matters: "The quota decision is nearly moot for supply — Gulf output runs far below target anyway — but the delayed 2027 capacity review and the November 1 meeting set the next real policy markers."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "OPEC+ agrees to keep November oil output targets steady"

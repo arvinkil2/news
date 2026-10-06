@@ -6,7 +6,7 @@ beats: ["rates"]
 status: "story"
 lede: "A Financial Times analysis argues that bond market turbulence means it is time for the ECB to put quantitative tightening on hold, as widening spreads tighten financial conditions without any rate move."
 why_it_matters: "The ECB has shed more than half its crisis-era bond portfolio. If market stress is doing the tightening work already, further balance-sheet runoff risks compounding fragmentation, and the debate shapes expectations for the December policy meeting."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Bond turbulence means it's time for the ECB to put QT on hold"

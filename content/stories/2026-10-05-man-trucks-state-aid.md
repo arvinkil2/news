@@ -6,7 +6,7 @@ beats: ["infra-deals"]
 status: "story"
 lede: "The European Commission ruled Monday that Poland's planned €26 million support for expanding MAN Trucks' factory in Niepołomice is incompatible with EU state aid rules, barring Warsaw from disbursing it."
 why_it_matters: "The decision closes a 15-month probe and signals the Commission will hold truck manufacturing to strict regional aid tests even where jobs and industrial policy are at stake."
-featured: true
+featured: false
 evidence_grade: "A"
 sources:
   - title: "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid"

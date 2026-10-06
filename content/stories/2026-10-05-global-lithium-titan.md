@@ -6,7 +6,7 @@ beats: ["mining"]
 status: "story"
 lede: "Titan Australia Mining's binding A$1.15-a-share cash offer for Global Lithium — a 73 percent premium valuing the company at about A$333 million — remains on track toward a December shareholder vote."
 why_it_matters: "A UAE-backed buyer paying a 73 percent premium for an unbuilt lithium project shows how Gulf capital is moving upstream into battery minerals while developers struggle to fund construction."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Titan Australia Mining makes bid for Global Lithium"
