@@ -6,7 +6,7 @@ beats: ["infra-deals"]
 status: "story"
 lede: "Energy Transfer LP signed a definitive agreement to acquire Vaquero Midstream LLC for $2.625 billion, adding Delaware Basin gas gathering and processing capacity."
 why_it_matters: "It extends Energy Transfer's Permian consolidation into the core of the Delaware Basin with long-dated contracted cash flows as natural gas demand rises from power generation and LNG."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Energy Transfer to Acquire Vaquero Midstream in a $2.625 Billion Transaction"

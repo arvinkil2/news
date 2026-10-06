@@ -6,7 +6,7 @@ beats: ["mining"]
 status: "story"
 lede: "Greenland's government approved the mining and closure plans for Critical Metals' Tanbreez heavy rare earths project, valid through 2050."
 why_it_matters: "Tanbreez is the West's most advanced heavy rare earths option outside China, and approval lands a month before the US-China rare-earth truce expires."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Critical Metals Tanbreez approval press release"

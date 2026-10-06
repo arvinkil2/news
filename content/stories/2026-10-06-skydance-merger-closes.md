@@ -1,10 +1,10 @@
 ---
 title: "Paramount–Warner Bros. merger closes, becomes Skydance"
 date: 2026-10-06T12:58:00-04:00
-last_updated: 2026-10-06T12:58:00-04:00
+last_updated: 2026-10-06T13:45:50-04:00
 beats: ["technology"]
 status: "story"
-lede: "Paramount Skydance's roughly $110 billion acquisition of Warner Bros. Discovery closed Tuesday as planned, with the combined company becoming Skydance Corporation and trading on the NYSE under the ticker SKYD."
+lede: "Paramount completed its $110 billion acquisition of Warner Bros. Discovery on Tuesday, a figure confirmed by Paramount's own announcement, and the combined company becomes Skydance Corporation with nearly $70 billion in annual revenue and Class B shares trading on the NYSE under the ticker SKYD."
 why_it_matters: "The year's biggest media merger is done, and the new company now faces a $6 billion cost-cutting target against more than $80 billion in combined debt."
 featured: false
 evidence_grade: "A"
@@ -30,3 +30,5 @@ David Ellison remains chairman and CEO, responsible for long-term strategy, crea
 The deal cleared its final legal hurdle on September 30, when a federal judge approved a consent decree settling an antitrust challenge from 12 state attorneys general. The settlement requires independent editorial oversight boards for CNN and CBS News, though the exact authority of those boards remains unclear.
 
 The numbers define the integration task. The company has committed to identifying $6 billion in cost savings within three years, a figure that will shape every programming and staffing decision. It carries projected debt north of $80 billion, having assumed the debt burdens of two companies that each spent heavily on prior acquisitions. Paramount is paying $31 per WBD share plus a daily ticking fee that began October 1.
+
+The closing follows a bruising acquisition battle. Paramount announced its bid in February after a bidding war with Netflix, which had previously agreed to buy Warner Bros.' film and television studios and streaming business, and Paramount agreed to cover the breakup fee Warner Bros. owed Netflix. The Ellison family is the new company's largest shareholder, backed by Larry Ellison's Oracle fortune. "Today is a historic day, not just for Skydance but for our entire industry," David Ellison said in the closing announcement, saying the ambition from the start was to create a stronger competitor. Beyond the state attorneys general settlement, the final hurdles also included a settlement with a Hollywood writers' union.

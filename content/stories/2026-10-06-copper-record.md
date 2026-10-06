@@ -1,7 +1,7 @@
 ---
 title: "Copper climbs as traders bet on Chinese restocking"
 date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T13:00:14-04:00
+last_updated: 2026-10-06T13:46:37-04:00
 beats: ["commodities"]
 status: "story"
 lede: "Copper rose to around $14,340 a ton on the LME Monday while CME copper closed at $6.64 a pound, with traders positioned for Chinese demand ahead of the October 8 reopening — still below September's all-time high above $14,500."
@@ -22,7 +22,7 @@ sources:
     url: "https://news.kilambi.com/commodities/"
     published: "2026-10-06"
 tags: []
-data_as_of: "Monday, October 5 closes; LME print per morning market tape. Correction: an earlier version called Monday's print a record; the LME all-time high was set in September above $14,500. Cross-benchmark levels reflect the persistent US dislocation from tariff-driven stockpiling; treat LME/CME comparisons with caution"
+data_as_of: "Monday, October 5 closes; Tuesday thin-trading note per Bloomberg via feed capture (full article inaccessible). LME print per morning market tape. Correction: an earlier version called Monday's print a record; the LME all-time high was set in September above $14,500. Cross-benchmark levels reflect the persistent US dislocation from tariff-driven stockpiling; treat LME/CME comparisons with caution"
 ---
 
 Copper rose to around $14,340 a ton on the London Metal Exchange on Monday, still short of the all-time high above $14,500 set in September, extending a rally built on supply setbacks and tariff-driven trade dislocations that has already carried the metal more than 40 percent higher this year. CME copper closed at $6.64 a pound, up 2.3 percent on the day.
@@ -32,3 +32,5 @@ The buying is a demand bet placed into thin liquidity. China is closed for Golde
 The cross-benchmark gap remains wide: $6.64 a pound implies roughly $14,640 a tonne, against the LME print near $14,340. The dislocation traces to the year's US tariff confusion, which pulled copper toward American warehouses as traders arbitraged the policy, straining supply for buyers elsewhere. Mine disruptions in Africa, Chile and Indonesia have left the physical market with little buffer.
 
 If Shanghai reopens October 8 and confirms the bid, the move is fundamentally validated. If not, it was positioning into an empty room. The October 9 CFTC positioning data will show whether speculators were already long into the rally.
+
+Tuesday's session added little signal: Bloomberg reported the metal swung in thin trading with China still closed for Golden Week, the market effectively marking time ahead of the October 8 reopening. The confirmation test remains Shanghai's opening, not the holiday tape.

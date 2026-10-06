@@ -6,7 +6,7 @@ beats: ["technology"]
 status: "story"
 lede: "Google contracted 3,590 megawatts from Constellation Energy on Tuesday in the PJM grid, including a 20-year agreement for 890 MW of upgraded nuclear power and a 15-year agreement for another 2,700 MW; Constellation shares jumped 13.9 percent to $304.87."
 why_it_matters: "Hyperscalers are now directly underwriting nuclear uprates to secure firm power, confirming that electricity, not chips, is the binding constraint on the AI buildout."
-featured: true
+featured: false
 evidence_grade: "A"
 sources:
   - title: "Google enters massive 3.6-GW power deal with Constellation Energy"

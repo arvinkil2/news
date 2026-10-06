@@ -6,7 +6,7 @@ beats: ["infra-deals"]
 status: "story"
 lede: "Emera, ATCO and Canadian Utilities announced an all-stock merger of equals creating a Canadian utility with about C$72 billion in enterprise value, the largest merger in Canadian history."
 why_it_matters: "It consolidates two of Canada's major rate-regulated utility platforms into a Top 20 North American utility with a C$32 billion capital program through 2030, timed to the electrification and industrial-load buildout."
-featured: true
+featured: false
 evidence_grade: "A"
 sources:
   - title: "Emera, ATCO and Canadian Utilities Announce Transformational Agreement to Create Canadian Utility and Energy Infrastructure Powerhouse"

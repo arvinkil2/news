@@ -6,7 +6,7 @@ beats: ["technology"]
 status: "story"
 lede: "Marvell raised its fiscal 2028 revenue forecast to about $20 billion from $18 billion at an investor day on Tuesday, citing surging demand for custom AI data-center chips; shares rose 7.6 percent to $291.74."
 why_it_matters: "The guide is the strongest company-level confirmation this quarter that hyperscaler custom-silicon budgets keep expanding, and it lifted the whole custom-chip complex including Broadcom."
-featured: true
+featured: false
 evidence_grade: "A"
 sources:
   - title: "Marvell raises 2028 revenue forecast on strong AI data center demand"
