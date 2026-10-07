@@ -48,6 +48,14 @@
         {{ end }}
       </div>
     </div>
+    <div class="nav-dropdown">
+      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Macro</button>
+      <div class="dropdown-menu">
+        <a href="{{ "/macro/spreads/" | relURL }}" class="dropdown-item">Sovereign Spreads</a>
+        <a href="{{ "/macro/central-banks/" | relURL }}" class="dropdown-item">Central Banks</a>
+        <a href="{{ "/macro/economies/" | relURL }}" class="dropdown-item">Economies</a>
+      </div>
+    </div>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
   </nav>

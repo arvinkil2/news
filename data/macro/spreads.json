@@ -1,0 +1,196 @@
+{
+ "title": "Sovereign 10-year yields and spreads",
+ "data_through": "2026-08-01",
+ "source": "FRED, OECD harmonized 10-year government bond yields (monthly)",
+ "refresh_note": "Static vintage from KR-WP-2026-17 research dataset. Live refresh blocked: no FRED API key.",
+ "refreshed": "2026-10-07",
+ "countries": [
+  {
+   "code": "US",
+   "name": "United States",
+   "region": "north-america",
+   "yield_10y": 4.68,
+   "spread_bp": 0,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 8.0,
+   "change_12m_bp": 42.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "CA",
+   "name": "Canada",
+   "region": "north-america",
+   "yield_10y": 3.67,
+   "spread_bp": -100,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 12.8,
+   "change_12m_bp": 25.2,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "MX",
+   "name": "Mexico",
+   "region": "latin-america",
+   "yield_10y": 9.16,
+   "spread_bp": 448,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 14.0,
+   "change_12m_bp": -23.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "CL",
+   "name": "Chile",
+   "region": "latin-america",
+   "yield_10y": 5.55,
+   "spread_bp": 95,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 3.0,
+   "change_12m_bp": -7.5,
+   "data_through": "2026-07-01"
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
+   "region": "europe",
+   "yield_10y": 3.18,
+   "spread_bp": 0,
+   "benchmark": "German Bund",
+   "change_1m_bp": 11.0,
+   "change_12m_bp": 50.7,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "GB",
+   "name": "United Kingdom",
+   "region": "europe",
+   "yield_10y": 4.99,
+   "spread_bp": 181,
+   "benchmark": "German Bund",
+   "change_1m_bp": 5.7,
+   "change_12m_bp": 35.2,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "region": "europe",
+   "yield_10y": 4.0,
+   "spread_bp": 82,
+   "benchmark": "German Bund",
+   "change_1m_bp": 15.0,
+   "change_12m_bp": 58.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "IT",
+   "name": "Italy",
+   "region": "europe",
+   "yield_10y": 3.99,
+   "spread_bp": 81,
+   "benchmark": "German Bund",
+   "change_1m_bp": 10.5,
+   "change_12m_bp": 44.8,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "region": "europe",
+   "yield_10y": 3.63,
+   "spread_bp": 45,
+   "benchmark": "German Bund",
+   "change_1m_bp": 10.0,
+   "change_12m_bp": 37.6,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "PL",
+   "name": "Poland",
+   "region": "europe",
+   "yield_10y": 5.5,
+   "spread_bp": 243,
+   "benchmark": "German Bund",
+   "change_1m_bp": -1.0,
+   "change_12m_bp": 16.0,
+   "data_through": "2026-07-01"
+  },
+  {
+   "code": "BE",
+   "name": "Belgium",
+   "region": "europe",
+   "yield_10y": 3.76,
+   "spread_bp": 58,
+   "benchmark": "German Bund",
+   "change_1m_bp": 12.0,
+   "change_12m_bp": 53.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "CH",
+   "name": "Switzerland",
+   "region": "europe",
+   "yield_10y": 0.47,
+   "spread_bp": -271,
+   "benchmark": "German Bund",
+   "change_1m_bp": -1.0,
+   "change_12m_bp": 15.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "JP",
+   "name": "Japan",
+   "region": "asia-pacific",
+   "yield_10y": 2.94,
+   "spread_bp": 0,
+   "benchmark": "JGB",
+   "change_1m_bp": 15.0,
+   "change_12m_bp": 134.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "KR",
+   "name": "South Korea",
+   "region": "asia-pacific",
+   "yield_10y": 4.29,
+   "spread_bp": 135,
+   "benchmark": "JGB",
+   "change_1m_bp": 0.0,
+   "change_12m_bp": 147.1,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "AU",
+   "name": "Australia",
+   "region": "asia-pacific",
+   "yield_10y": 5.01,
+   "spread_bp": 207,
+   "benchmark": "JGB",
+   "change_1m_bp": 9.6,
+   "change_12m_bp": 74.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "IL",
+   "name": "Israel",
+   "region": "middle-east",
+   "yield_10y": 3.93,
+   "spread_bp": -75,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 2.0,
+   "change_12m_bp": -24.0,
+   "data_through": "2026-08-01"
+  },
+  {
+   "code": "ZA",
+   "name": "South Africa",
+   "region": "africa",
+   "yield_10y": 8.75,
+   "spread_bp": 407,
+   "benchmark": "US Treasury",
+   "change_1m_bp": 3.5,
+   "change_12m_bp": -139.5,
+   "data_through": "2026-08-01"
+  }
+ ]
+}
