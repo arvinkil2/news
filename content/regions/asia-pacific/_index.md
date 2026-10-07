@@ -1,4 +1,5 @@
 ---
 title: "Asia-Pacific"
 ---
-China, Japan, India, Southeast Asia, and Oceania.
+
+Beijing, Tokyo, Delhi, and Southeast Asia.

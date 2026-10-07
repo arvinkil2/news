@@ -1,4 +1,5 @@
 ---
 title: "Middle East"
 ---
-The Gulf, Levant, and North Africa: energy, geopolitics, and capital flows.
+
+The Gulf and beyond: oil, capital, and geopolitics.

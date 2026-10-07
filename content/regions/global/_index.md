@@ -1,4 +1,5 @@
 ---
 title: "Global"
 ---
-Worldwide stories and cross-regional developments.
+
+Stories that span borders.

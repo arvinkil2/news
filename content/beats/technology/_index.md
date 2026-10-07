@@ -2,4 +2,4 @@
 title: "Technology"
 ---
 
-Daily coverage of big tech, semiconductors, AI infrastructure, and the regulation and capital flows shaping the sector.
+Chips, AI, and big tech: the buildout and the money behind it.

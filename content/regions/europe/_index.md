@@ -1,4 +1,5 @@
 ---
 title: "Europe"
 ---
-The EU, UK, and continental Europe: policy, markets, and energy.
+
+Brussels, Frankfurt, London: policy, energy, and markets.

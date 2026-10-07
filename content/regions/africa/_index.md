@@ -1,4 +1,5 @@
 ---
 title: "Africa"
 ---
-Sub-Saharan Africa: mining, energy, and markets.
+
+Mining, energy, and growth across the continent.

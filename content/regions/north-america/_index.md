@@ -1,4 +1,5 @@
 ---
 title: "North America"
 ---
-United States, Canada, and Mexico: policy, markets, and deals.
+
+Washington, Ottawa, and Mexico City, plus Wall Street.

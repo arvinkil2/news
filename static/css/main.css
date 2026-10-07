@@ -1,4 +1,4 @@
-/* Kilambi News — mobile-first redesign, October 2026 */
+/* Kilambi News: mobile-first redesign, October 2026 */
 :root {
   --ink: #16130e;
   --ink-soft: #3d382e;
@@ -220,8 +220,8 @@ a:hover { color: var(--accent); }
 @media (min-width: 720px) {
   .masthead-top { padding: 18px 24px 12px; }
   .brand { font-size: 32px; }
-  .nav { padding: 0; justify-content: center; }
-  .nav-inner { padding: 0 24px; justify-content: center; }
+  .nav { padding: 0; justify-content: center; overflow-x: visible; }
+  .nav-inner { padding: 0 24px; justify-content: center; overflow-x: visible; }
   .nav-link { padding: 12px 12px; }
   .lead-title { font-size: 42px; }
   .page-title { font-size: 38px; }
