@@ -2,13 +2,13 @@
 title: "EU disburses €1.24 billion to Ukraine for drones and missiles"
 date: 2026-10-07T06:59:42-04:00
 last_updated: 2026-10-07T06:59:42-04:00
-beats: ["politics"]
+beats: ["infra-deals", "politics"]
 status: "story"
 lede: "The European Commission has disbursed €1.24 billion to Ukraine for drones, drone interceptors, drone ammunition and missiles manufactured by Ukrainian entities, the fifth defence payment under the €90 billion Ukraine Support Loan."
 why_it_matters: "The payment is industrial policy as much as aid: it funds weapons built by Ukrainian firms, deepening Kyiv's defence-industrial base and integrating it into the EU's supply chain as drone warfare dominates the battlefield."
-featured: true
+featured: false
 update_bump: true
-evidence_grade: "A"
+evidence_grade: "C"
 sources:
   - title: "Commission disburses €1.24 billion to Ukraine for drones and missiles"
     publisher: "European Commission"
@@ -19,7 +19,7 @@ sources:
     url: "https://defence-industry-space.ec.europa.eu/commission-disburses-eur33-billion-defence-funding-ukraine-2026-09-18_en"
     published: "2026-09-18"
 tags: []
-data_as_of: "EC press release IP/26/2094 published October 6, 2026; page read October 7, 2026"
+data_as_of: "EC press release IP/26/2094 published October 6, 2026; page read October 7, 2026. Single-sourced: European Commission press release; no independent corroboration found."
 ---
 
 The European Commission has disbursed €1.24 billion to Ukraine for drones, drone interceptors, drone ammunition and missiles manufactured by Ukrainian entities. It is the fifth defence payment under the €90 billion Ukraine Support Loan.
