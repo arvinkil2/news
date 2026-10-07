@@ -66,23 +66,35 @@ a:hover { color: var(--accent); }
 
 /* ---------- dropdowns ---------- */
 .nav-dropdown { position: relative; }
-.nav-summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 4px; }
-.nav-summary::-webkit-details-marker { display: none; }
-.nav-summary::after { content: "▾"; font-size: 10px; color: var(--muted); }
-.nav-dropdown[open] .nav-summary { color: var(--accent); border-bottom-color: var(--accent); }
+.nav-trigger {
+  background: none; border: none; cursor: pointer; font: inherit;
+  display: inline-flex; align-items: center; gap: 4px; padding-bottom: 4px;
+}
+.nav-trigger::after { content: "▾"; font-size: 10px; color: var(--muted); }
 .dropdown-menu {
-  position: absolute; top: 100%; left: 0; z-index: 60;
+  display: none; position: absolute; top: 100%; left: 0; z-index: 60;
   min-width: 190px; background: var(--card); border: 1px solid var(--rule);
   border-radius: var(--radius); box-shadow: var(--shadow); padding: 6px;
-  display: flex; flex-direction: column;
+  flex-direction: column;
 }
 .dropdown-item {
   text-decoration: none; font-size: 14px; font-weight: 500; color: var(--ink-soft);
   padding: 9px 12px; border-radius: 6px; white-space: nowrap;
 }
 .dropdown-item:hover { background: #f5f1e8; color: var(--accent); }
+/* desktop: hover opens, moving away closes */
+@media (min-width: 720px) {
+  .nav-dropdown:hover .dropdown-menu,
+  .nav-dropdown:focus-within .dropdown-menu { display: flex; }
+  .nav-dropdown:hover .nav-trigger,
+  .nav-dropdown:focus-within .nav-trigger { color: var(--accent); border-bottom-color: var(--accent); }
+}
+/* mobile: tap toggles */
 @media (max-width: 719px) {
-  .dropdown-menu { position: fixed; left: 12px; right: 12px; top: auto; min-width: 0; }
+  .nav-dropdown.open .dropdown-menu {
+    display: flex; position: fixed; left: 12px; right: 12px; top: auto; min-width: 0;
+  }
+  .nav-dropdown.open .nav-trigger { color: var(--accent); border-bottom-color: var(--accent); }
 }
 
 .skip-link {
