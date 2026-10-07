@@ -1,20 +1,28 @@
 ---
-title: "EIA: crude prices and refinery margins rose through the third quarter"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:46:55-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Brent crude climbed from $72 to a peak of $109 a barrel in the third quarter while US refinery margins ran far above year-ago levels, the EIA said Monday."
-why_it_matters: "Refiners captured unusually wide margins on tight product supply, and with distillate inventories 13 percent below the five-year average, diesel markets head into winter with little cushion."
+title: 'EIA: crude prices and refinery margins rose through the third quarter'
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:46:55-04:00
+beats:
+- commodities
+status: story
+lede: Brent crude climbed from $72 to a peak of $109 a barrel in the third quarter
+  while US refinery margins ran far above year-ago levels, the EIA said Monday.
+why_it_matters: Refiners captured unusually wide margins on tight product supply,
+  and with distillate inventories 13 percent below the five-year average, diesel markets
+  head into winter with little cushion.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Crude oil prices and refinery margins generally increased throughout the third quarter"
-    publisher: "U.S. Energy Information Administration"
-    url: "https://www.eia.gov/todayinenergy/detail.php?id=68245"
-    published: "2026-10-05"
+- title: Crude oil prices and refinery margins generally increased throughout the
+    third quarter
+  publisher: U.S. Energy Information Administration
+  url: https://www.eia.gov/todayinenergy/detail.php?id=68245
+  published: '2026-10-05'
 tags: []
-data_as_of: "Q3 2026 (Jul 1-Sep 30); inventories week ending Sep 25, 2026"
+data_as_of: Q3 2026 (Jul 1-Sep 30); inventories week ending Sep 25, 2026
+regions:
+- asia-pacific
+- middle-east
 ---
 
 Brent front-month futures began the third quarter at $72 a barrel on July 1, the lowest since February 26, then climbed as military strikes resumed in the Middle East on July 7. Futures passed $100 on July 23 and again on September 9, peaking at $109 on September 15, while Brent spot prices reached as high as $132 around the same time. The September 9 move followed an escalation of military action against energy infrastructure: US and Iranian attacks on crude tankers, the US blockade on Iranian oil exports, attacks on pumping stations along Saudi Arabia's East-West pipeline, attacks on Saudi tankers around Bab el-Mandeb, and Ukrainian drone attacks on Novorossiysk. Prices averaged about $104 in the final two weeks of the quarter as markets weighed peace talks against the risk of a wider war.

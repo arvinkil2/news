@@ -1,32 +1,40 @@
 ---
-title: "Cenovus to buy Athabasca Oil for C$5.7 billion"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T19:38:00-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Cenovus Energy agreed Monday to acquire Athabasca Oil Corporation in a cash-and-stock deal with an implied enterprise value of C$5.7 billion, adding 45,000 barrels a day of oil sands production."
-why_it_matters: "Canadian oil sands consolidation continues: Cenovus gets 75-plus years of reserves next to its core Christina Lake assets and a path to 115,000 barrels a day by 2032."
+title: Cenovus to buy Athabasca Oil for C$5.7 billion
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 19:38:00-04:00
+beats:
+- infra-deals
+status: story
+lede: Cenovus Energy agreed Monday to acquire Athabasca Oil Corporation in a cash-and-stock
+  deal with an implied enterprise value of C$5.7 billion, adding 45,000 barrels a
+  day of oil sands production.
+why_it_matters: 'Canadian oil sands consolidation continues: Cenovus gets 75-plus
+  years of reserves next to its core Christina Lake assets and a path to 115,000 barrels
+  a day by 2032.'
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Cenovus announces agreement to acquire Athabasca Oil Corporation"
-    publisher: "BOE Report"
-    url: "https://boereport.com/2026/10/05/cenovus-announces-agreement-to-acquire-athabasca-oil-corporation/"
-    published: "2026-10-05"
-  - title: "Cenovus to acquire Athabasca Oil in C$5.7-billion deal"
-    publisher: "WorldOil"
-    url: "https://worldoil.com/news/2026/10/5/cenovus-to-acquire-athabasca-oil-in-c-5-7-billion-deal/"
-    published: "2026-10-05"
-  - title: "Canada's Cenovus Energy to buy Athabasca Oil in $5.7bn deal"
-    publisher: "Sharecast"
-    url: "https://www.hl.co.uk/shares/stock-market-news/company--news/canadas-cenovus-energy-to-buy-athabasca-oil-in-$6.7bn-deal"
-    published: "2026-10-05"
-  - title: "Cenovus Energy signs deal to buy Athabasca Oil in deal valued at $5.7 billion"
-    publisher: "CBC"
-    url: "https://www.cbc.ca/news/canada/calgary/cenovus-energy-athabasca-oil-9.7369384"
-    published: "2026-10-05"
+- title: Cenovus announces agreement to acquire Athabasca Oil Corporation
+  publisher: BOE Report
+  url: https://boereport.com/2026/10/05/cenovus-announces-agreement-to-acquire-athabasca-oil-corporation/
+  published: '2026-10-05'
+- title: Cenovus to acquire Athabasca Oil in C$5.7-billion deal
+  publisher: WorldOil
+  url: https://worldoil.com/news/2026/10/5/cenovus-to-acquire-athabasca-oil-in-c-5-7-billion-deal/
+  published: '2026-10-05'
+- title: Canada's Cenovus Energy to buy Athabasca Oil in $5.7bn deal
+  publisher: Sharecast
+  url: https://www.hl.co.uk/shares/stock-market-news/company--news/canadas-cenovus-energy-to-buy-athabasca-oil-in-$6.7bn-deal
+  published: '2026-10-05'
+- title: Cenovus Energy signs deal to buy Athabasca Oil in deal valued at $5.7 billion
+  publisher: CBC
+  url: https://www.cbc.ca/news/canada/calgary/cenovus-energy-athabasca-oil-9.7369384
+  published: '2026-10-05'
 tags: []
-data_as_of: "Deal announced Oct 5; expected close December 2026; premium figure via secondary reporting"
+data_as_of: Deal announced Oct 5; expected close December 2026; premium figure via
+  secondary reporting
+regions:
+- global
 ---
 
 Cenovus Energy announced Monday it has entered a definitive arrangement agreement to acquire Athabasca Oil Corporation in a cash-and-stock transaction with an implied enterprise value of C$5.7 billion (about US$4.1 billion). Cenovus will pay C$12 per share, with between 65 and 75 percent of consideration in cash and 25 to 35 percent in Cenovus shares, subject to shareholder elections and proration. The offer represents a 13-14 percent premium to recent trading levels, according to market reporting. The deal is expected to close in December.

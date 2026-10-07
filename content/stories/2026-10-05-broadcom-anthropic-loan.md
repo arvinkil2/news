@@ -1,24 +1,34 @@
 ---
-title: "Broadcom to lend Anthropic up to $42 billion"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:46:55-04:00
-beats: ["technology"]
-status: "story"
-lede: "Anthropic's IPO prospectus reveals Broadcom has agreed to lend the AI lab up to $42 billion to finance infrastructure spending, with the debt convertible into Anthropic shares, while Anthropic is set to become Broadcom's largest chip-design customer next year."
-why_it_matters: "It is the clearest example yet of circular AI financing, with a chipmaker funding its own biggest customer, and it underpins Broadcom's projection of $230 billion in AI semiconductor revenue by fiscal 2028."
+title: Broadcom to lend Anthropic up to $42 billion
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:46:55-04:00
+beats:
+- technology
+status: story
+lede: Anthropic's IPO prospectus reveals Broadcom has agreed to lend the AI lab up
+  to $42 billion to finance infrastructure spending, with the debt convertible into
+  Anthropic shares, while Anthropic is set to become Broadcom's largest chip-design
+  customer next year.
+why_it_matters: It is the clearest example yet of circular AI financing, with a chipmaker
+  funding its own biggest customer, and it underpins Broadcom's projection of $230
+  billion in AI semiconductor revenue by fiscal 2028.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says"
-    publisher: "Reuters"
-    url: "https://www.reuters.com"
-    published: "2026-10-01"
-  - title: "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com"
-    published: "2026-10-03"
+- title: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says
+  publisher: Reuters
+  url: https://www.reuters.com
+  published: '2026-10-01'
+- title: Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic
+  publisher: Bloomberg
+  url: https://www.bloomberg.com
+  published: '2026-10-03'
 tags: []
-data_as_of: "Event: Oct 1, 2026 (prospectus disclosure). Market data at Oct 5 close. Retrieved Oct 5, 2026; underlying S-1 not directly inspected"
+data_as_of: 'Event: Oct 1, 2026 (prospectus disclosure). Market data at Oct 5 close.
+  Retrieved Oct 5, 2026; underlying S-1 not directly inspected'
+regions:
+- asia-pacific
+- north-america
 ---
 
 Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending, according to Anthropic's IPO prospectus, in an arrangement disclosed October 1. The relationship spans compute supply, equipment leasing and financing, giving the semiconductor company a central role in Anthropic's infrastructure buildout that differentiates it from cloud-oriented partners such as Amazon. In turn, Anthropic stands to become the largest customer in Broadcom's chip-design business next year, as the lab readies a public offering that could value it at $2 trillion.

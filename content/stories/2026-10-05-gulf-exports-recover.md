@@ -1,28 +1,38 @@
 ---
-title: "Gulf oil exports hit 81 percent of pre-war levels in September"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-07T07:08:09-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Gulf oil flows excluding Iran averaged 81 percent of pre-war levels in September at 19.2 million barrels a day, led by a Saudi rebound from 4.2 to 6.6 million b/d, with crude exports at 91 percent of pre-war even as refined-fuel shipments lagged at 60 percent."
-why_it_matters: "The crude recovery is real but incomplete: products are where the global shortage bites, and the full-month average sits well below the pre-war weekly peaks celebrated earlier in the month."
+title: Gulf oil exports hit 81 percent of pre-war levels in September
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-07 07:08:09-04:00
+beats:
+- commodities
+status: story
+lede: Gulf oil flows excluding Iran averaged 81 percent of pre-war levels in September
+  at 19.2 million barrels a day, led by a Saudi rebound from 4.2 to 6.6 million b/d,
+  with crude exports at 91 percent of pre-war even as refined-fuel shipments lagged
+  at 60 percent.
+why_it_matters: 'The crude recovery is real but incomplete: products are where the
+  global shortage bites, and the full-month average sits well below the pre-war weekly
+  peaks celebrated earlier in the month.'
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September"
-    publisher: "Reuters"
-    url: "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/"
-    published: "2026-10-06"
-  - title: "Oil slips on rising Mideast crude exports, G7 stocks release"
-    publisher: "Reuters"
-    url: "https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/"
-    published: "2026-10-05"
-  - title: "Yahoo Finance market data"
-    publisher: "Yahoo Finance"
-    url: "https://finance.yahoo.com"
-    published: "2026-10-05"
+- title: Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September
+  publisher: Reuters
+  url: https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/
+  published: '2026-10-06'
+- title: Oil slips on rising Mideast crude exports, G7 stocks release
+  publisher: Reuters
+  url: https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/
+  published: '2026-10-05'
+- title: Yahoo Finance market data
+  publisher: Yahoo Finance
+  url: https://finance.yahoo.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "September 2026 full-month flows per Reuters October 6; Kpler/Vortexa tracking data. Caveat: TankerTrackers disputes Kpler's levels as too high"
+data_as_of: 'September 2026 full-month flows per Reuters October 6; Kpler/Vortexa
+  tracking data. Caveat: TankerTrackers disputes Kpler''s levels as too high'
+regions:
+- europe
+- middle-east
 ---
 
 September was the Gulf's best month since the Iran war began, but the recovery is uneven. Flows of crude, condensate and refined fuels including LPG averaged 19.2 million barrels a day from Saudi Arabia, Kuwait, Qatar, Oman, Bahrain, Iraq and the UAE, Vortexa data showed, against about 23.6 million b/d in the year before the war began February 28. Kpler put total September oil exports at 18.6 million b/d. The rebound came even as Iranian exports fell to zero under the US blockade and Kuwait and Qatar shipments declined.
