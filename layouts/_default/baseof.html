@@ -23,26 +23,38 @@
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="masthead">
-  <div class="masthead-inner">
+  <div class="masthead-top">
     <a class="brand" href="{{ "/" | relURL }}">Kilambi News</a>
-    <nav class="nav" aria-label="Sections">
-      <a href="{{ "/" | relURL }}">Latest</a>
-      <a href="{{ "/beats/commodities/" | relURL }}">Commodities</a>
-      <a href="{{ "/beats/mining/" | relURL }}">Mining</a>
-      <a href="{{ "/beats/infra-deals/" | relURL }}">Infrastructure</a>
-      <a href="{{ "/beats/politics/" | relURL }}">Politics</a>
-      <a href="{{ "/beats/rates/" | relURL }}">Rates</a>
-      <a href="{{ "/beats/technology/" | relURL }}">Technology</a>
-      <a href="{{ "/archive/" | relURL }}">Archive</a>
-      <a href="{{ "/search/" | relURL }}">Search</a>
-    </nav>
+    <div class="masthead-date">{{ now.Format "Monday, January 2, 2006" }}</div>
   </div>
+  <nav class="nav" aria-label="Sections">
+    <a href="{{ "/" | relURL }}" class="nav-link">Latest</a>
+    <details class="nav-dropdown">
+      <summary class="nav-link nav-summary">Sections</summary>
+      <div class="dropdown-menu">
+        {{ range site.Params.beat_order }}
+        <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.beat_names . }}</a>
+        {{ end }}
+      </div>
+    </details>
+    <details class="nav-dropdown">
+      <summary class="nav-link nav-summary">Regions</summary>
+      <div class="dropdown-menu">
+        {{ range site.Params.region_order }}
+        <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.region_names . }}</a>
+        {{ end }}
+      </div>
+    </details>
+    <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
+    <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
+  </nav>
 </header>
 <main class="content" id="main">
 {{ block "main" . }}{{ end }}
 </main>
 <footer class="footer">
   <div class="footer-inner">
+    <p class="footer-brand">Kilambi News</p>
     <p>Kilambi News is a personal morning briefing. Content is AI-generated from public sources. Verify before acting on it.</p>
     <p><a href="{{ "/archive/" | relURL }}">Archive</a> &middot; <a href="{{ "index.xml" | relURL }}">RSS</a></p>
   </div>

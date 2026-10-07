@@ -2,4 +2,4 @@
 title: "Rates"
 ---
 
-Daily coverage of sovereign debt, fixed income, and monetary policy worldwide.
+Central banks, bond markets, and the price of money around the world.

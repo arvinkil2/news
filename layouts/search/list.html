@@ -10,7 +10,7 @@
   var stories = [
   {{ $stories := where .Site.RegularPages "Section" "stories" }}
   {{ range $i, $s := $stories }}{{ if $i }},{{ end }}
-    {"t": {{ .Title | jsonify }}, "u": {{ .RelPermalink | jsonify }}, "d": {{ .Date.Format "2006-01-02" | jsonify }}, "b": {{ with .Params.beats }}{{ index . 0 | jsonify }}{{ else }}"-"{{ end }}, "l": {{ with .Params.lede }}{{ . | jsonify }}{{ else }}""{{ end }}}{{ end }}
+    {"t": {{ .Title | jsonify }}, "u": {{ .RelPermalink | jsonify }}, "d": {{ .Date.Format "2006-01-02" | jsonify }}, "b": {{ with .Params.beats }}{{ index . 0 | jsonify }}{{ else }}"•"{{ end }}, "l": {{ with .Params.lede }}{{ . | jsonify }}{{ else }}""{{ end }}}{{ end }}
   ];
   var input = document.getElementById('search-input');
   var results = document.getElementById('search-results');
@@ -26,7 +26,7 @@
     hits.slice(0, 50).forEach(function(s) {
       var a = document.createElement('article');
       a.className = 'river-item';
-      a.innerHTML = '<div class="kicker">' + s.b + ' - ' + s.d + '</div>' +
+      a.innerHTML = '<div class="kicker">' + s.b + ' · ' + s.d + '</div>' +
         '<h3><a href="' + s.u + '">' + s.t.replace(/</g, '&lt;') + '</a></h3>' +
         (s.l ? '<p>' + s.l.replace(/</g, '&lt;') + '</p>' : '');
       results.appendChild(a);

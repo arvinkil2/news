@@ -2,4 +2,4 @@
 title: "Infrastructure"
 ---
 
-Daily coverage of infrastructure deals, ownership changes, and the capital flows behind them.
+Who's buying, building, and financing the world's ports, grids, and data centers.

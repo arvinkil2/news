@@ -4,11 +4,13 @@ languageCode = "en"
 
 [taxonomies]
   beat = "beats"
+  region = "regions"
   tag = "tags"
 
 [params]
   description = "A personal daily briefing: commodities, mining, infrastructure, politics, rates, and technology."
-  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates", "technology"]
+  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates", "technology", "pharma"]
+  region_order = ["global", "north-america", "latin-america", "europe", "middle-east", "africa", "asia-pacific"]
 
   [params.beat_names]
     commodities = "Commodities"
@@ -17,6 +19,16 @@ languageCode = "en"
     politics = "Politics"
     rates = "Rates"
     technology = "Technology"
+    pharma = "Pharma"
+
+  [params.region_names]
+    global = "Global"
+    north-america = "North America"
+    latin-america = "Latin America"
+    europe = "Europe"
+    middle-east = "Middle East"
+    africa = "Africa"
+    asia-pacific = "Asia-Pacific"
 
 [markup]
   [markup.goldmark]

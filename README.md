@@ -17,7 +17,8 @@ custom domain `news.kilambi.com`.
 title: "G7 backs 100-million-barrel coordinated reserve release"  # headline, 6-12 words, sentence case
 date: 2026-10-04T07:00:00-04:00      # RFC3339 with numeric offset
 last_updated: 2026-10-04T07:00:00-04:00
-beats: ["commodities"]               # one of the four beats
+beats: ["commodities"]               # one of the seven beats
+regions: ["middle-east"]             # one or more of: global, north-america, latin-america, europe, middle-east, africa, asia-pacific — the region(s) the story is about
 status: "story"                      # or developing / resolved for catalyst stories (not displayed)
 lede: "..."                          # one sentence: the dek — what happened, with the key number
 why_it_matters: "..."                # one sentence: the consequence / why the reader should care
@@ -30,12 +31,14 @@ sources:                             # structured source list
     published: "2026-10-04"
     archive_url: "https://web.archive.org/..."
 tags: []
+data_as_of: "..."                    # data vintage note, rendered as subtle dateline
 ```
 
-Body conventions: the first three lines are `**Data as of:**`, `**Issued:**`,
-and the `**Evidence key:**` (CONFIRMED / REPORTED / RUMORED / ANALYTICAL).
+Body conventions: open directly with the story in clean newsroom prose.
+No metadata header lines, no evidence key legend, no inline evidence tags.
 Write in clean newsroom prose — plain headlines, natural paragraphs, structure
 that varies with the story. No producer process notes in reader-facing copy.
+Never use em dashes (—) anywhere in headlines, ledes, or body copy; use commas or periods instead.
 
 ## Homepage
 
@@ -60,7 +63,7 @@ the day's ~6-8 most important stories `featured: true`, validates
 pushes. Cloudflare Pages rebuilds automatically.
 
 The catalyst watcher appends timestamped updates to the relevant existing
-story in `content/stories/` (creating a new developing story only if none
+story in `content/stories/` (creating a new story only if none
 fits) and regenerates the `lede` and `why_it_matters` each time.
 
 ## Local build

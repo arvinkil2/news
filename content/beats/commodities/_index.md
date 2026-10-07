@@ -2,4 +2,4 @@
 title: "Commodities"
 ---
 
-Daily coverage of energy, metals, agriculture, and the positioning and inventory data behind their prices.
+Oil, gas, metals, and crops, plus the inventory data and positioning that move their prices.
