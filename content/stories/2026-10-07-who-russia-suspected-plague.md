@@ -1,7 +1,7 @@
 ---
 title: WHO still lacks full picture on Russia's suspected plague death
 date: 2026-10-07 17:53:40-04:00
-last_updated: 2026-10-07 17:53:40-04:00
+last_updated: 2026-10-07 18:00:05-04:00
 beats:
 - pharma
 status: story
@@ -32,6 +32,12 @@ data_as_of: WHO Director-General briefing October 7, 2026, reported by The Guard
 regions:
 - europe
 ---
+
+## Latest
+
+The Guardian on Wednesday identified the deceased worker as Darya Shipilova, 28, and reported that the WHO has asked Russia to address unconfirmed media reports of a second institute employee with pneumonia of undetermined cause. Tedros said the agency is waiting for Moscow's answer. WHO pandemic chief Maria Van Kerkhove said the agency still does not know how Shipilova became infected or with what, and asked, if pneumonic plague is ruled out, what she actually died of. Russian authorities deny any link between the institute and her death, describing it as pneumonia of an unknown aetiology, and say the region's epidemiological situation is stable.
+
+## Earlier
 
 WHO Director-General Tedros Adhanom Ghebreyesus said Wednesday the agency has asked Russia for more information on the death of a 28-year-old technician at the Irkutsk Anti-Plague Research Institute, who died last week of severe pneumonia after what media reports suggested could have been a lab exposure to plague. Moscow told the WHO on Tuesday that no plague had been reported in the Irkutsk region and that about 200 contacts had been quarantined, with no dangerous pathogens found among them.
 
