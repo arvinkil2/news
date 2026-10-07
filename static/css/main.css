@@ -39,7 +39,7 @@ a:hover { color: var(--accent); }
   max-width: 1120px; margin: 0 auto; padding: 14px 20px 10px;
   display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
 }
-.brand { font-family: var(--display); font-size: 30px; font-weight: 900; text-decoration: none; letter-spacing: -0.01em; }
+.brand { font-family: var(--sans); font-size: 24px; font-weight: 700; text-decoration: none; letter-spacing: -0.02em; }
 .brand:hover { color: var(--ink); }
 .masthead-date { font-size: 12.5px; color: var(--muted); white-space: nowrap; }
 
@@ -230,7 +230,7 @@ a:hover { color: var(--accent); }
 .footer { border-top: 2px solid var(--rule-strong); margin-top: 24px; background: #faf8f2; }
 .footer-inner { max-width: 1120px; margin: 0 auto; padding: 28px 20px; font-size: 13px; color: var(--muted); }
 .footer-inner p { margin: 6px 0; line-height: 1.6; }
-.footer-brand { font-family: var(--display); font-size: 20px; font-weight: 800; color: var(--ink); }
+.footer-brand { font-family: var(--sans); font-size: 17px; font-weight: 700; color: var(--ink); }
 
 /* ---------- desktop ---------- */
 @media (min-width: 720px) {
