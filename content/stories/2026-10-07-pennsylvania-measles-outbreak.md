@@ -3,7 +3,7 @@ title: Pennsylvania measles outbreak passes 1,000 cases and five deaths
 date: 2026-10-07 17:53:40-04:00
 last_updated: 2026-10-07 18:00:05-04:00
 beats:
-- pharma
+- life-sciences
 status: story
 developing: true
 update_bump: true

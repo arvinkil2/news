@@ -3,7 +3,7 @@ title: WHO still lacks full picture on Russia's suspected plague death
 date: 2026-10-07 17:53:40-04:00
 last_updated: 2026-10-07 18:00:05-04:00
 beats:
-- pharma
+- life-sciences
 status: story
 developing: true
 update_bump: true
