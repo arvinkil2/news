@@ -9,7 +9,7 @@ languageCode = "en"
 
 [params]
   description = "A personal daily briefing: commodities, mining, infrastructure, politics, rates, and technology."
-  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates", "technology"]
+  beat_order = ["commodities", "mining", "infra-deals", "politics", "rates", "technology", "pharma"]
   region_order = ["global", "north-america", "latin-america", "europe", "middle-east", "africa", "asia-pacific"]
 
   [params.beat_names]
@@ -19,6 +19,7 @@ languageCode = "en"
     politics = "Politics"
     rates = "Rates"
     technology = "Technology"
+    pharma = "Pharma"
 
   [params.region_names]
     global = "Global"

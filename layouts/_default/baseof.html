@@ -27,19 +27,26 @@
     <a class="brand" href="{{ "/" | relURL }}">Kilambi News</a>
     <div class="masthead-date">{{ now.Format "Monday, January 2, 2006" }}</div>
   </div>
-  <nav class="nav nav-beats" aria-label="Beats">
+  <nav class="nav" aria-label="Sections">
     <a href="{{ "/" | relURL }}" class="nav-link">Latest</a>
-    {{ range site.Params.beat_order }}
-    <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="nav-link">{{ index site.Params.beat_names . }}</a>
-    {{ end }}
+    <details class="nav-dropdown">
+      <summary class="nav-link nav-summary">Sections</summary>
+      <div class="dropdown-menu">
+        {{ range site.Params.beat_order }}
+        <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.beat_names . }}</a>
+        {{ end }}
+      </div>
+    </details>
+    <details class="nav-dropdown">
+      <summary class="nav-link nav-summary">Regions</summary>
+      <div class="dropdown-menu">
+        {{ range site.Params.region_order }}
+        <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.region_names . }}</a>
+        {{ end }}
+      </div>
+    </details>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
-  </nav>
-  <nav class="nav nav-regions" aria-label="Regions">
-    <span class="nav-label">Regions</span>
-    {{ range site.Params.region_order }}
-    <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="nav-link nav-region">{{ index site.Params.region_names . }}</a>
-    {{ end }}
   </nav>
 </header>
 <main class="content" id="main">
