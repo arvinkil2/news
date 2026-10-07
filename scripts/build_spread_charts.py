@@ -24,9 +24,9 @@ def load_csv(path):
         series[col] = vals
     return dates, series
 
-def svg_line(dates, series_dict, title, ylabel, width=900, height=320):
+def svg_line(dates, series_dict, title, ylabel, width=900, height=340):
     """Multi-series line chart as inline SVG."""
-    pad_l, pad_r, pad_t, pad_b = 56, 16, 28, 36
+    pad_l, pad_r, pad_t, pad_b = 56, 16, 64, 36
     iw, ih = width - pad_l - pad_r, height - pad_t - pad_b
     allv = [v for s in series_dict.values() for v in s if v is not None]
     lo, hi = min(allv), max(allv)
@@ -64,15 +64,16 @@ def svg_line(dates, series_dict, title, ylabel, width=900, height=320):
         paths += f'<path d="{d}" fill="none" stroke="{color}" stroke-width="1.8"/>'
     legend = ""
     lx = pad_l
+    ly = 34
     for idx, name in enumerate(series_dict.keys()):
         color = COLORS[idx % len(COLORS)]
-        legend += f'<rect x="{lx}" y="6" width="14" height="10" fill="{color}"/><text x="{lx+18}" y="15" font-size="12" fill="#333">{name}</text>'
-        lx += 18 + len(name) * 7 + 22
+        legend += f'<rect x="{lx}" y="{ly - 9}" width="14" height="10" fill="{color}"/><text x="{lx+18}" y="{ly}" font-size="12" fill="#333">{name}</text>'
+        lx += 18 + len(name) * 7 + 26
     return (
         f'<svg viewBox="0 0 {width} {height}" class="macro-chart" role="img" aria-label="{title}">'
-        f'<text x="{pad_l}" y="18" font-size="14" font-weight="600" fill="#111">{title}</text>'
-        f"{grid}{xlabels}{paths}{legend}"
-        f'<text x="14" y="{pad_t + ih/2}" font-size="11" fill="#666" transform="rotate(-90 14 {pad_t + ih/2})" text-anchor="middle">{ylabel}</text>'
+        f'<text x="{pad_l}" y="20" font-size="15" font-weight="600" fill="#111">{title}</text>'
+        f"{legend}{grid}{xlabels}{paths}"
+        f'<text x="16" y="{pad_t + ih/2:.0f}" font-size="11" fill="#666" text-anchor="middle" transform="rotate(-90 16 {pad_t + ih/2:.0f})">{ylabel}</text>'
         "</svg>"
     )
 
