@@ -1,11 +1,12 @@
 ---
 title: "Kenya clears Dangote refinery GDR route for local investors"
 date: 2026-10-07T07:07:32-04:00
-last_updated: 2026-10-07T07:07:32-04:00
+last_updated: 2026-10-07T12:02:08-04:00
 beats: ["infra-deals"]
 status: "story"
-lede: "Kenya's Capital Markets Authority approved a global depository receipt route letting eligible Kenyan investors buy into Dangote Petroleum Refinery's $1.6 billion IPO domestically."
-why_it_matters: "The approval extends Africa's largest-ever share sale beyond Nigeria and ties into Dangote's broader East Africa push, including a planned $16 billion refinery near Lamu, Kenya."
+update_bump: true
+lede: "Uganda's markets regulator has authorized Dangote Petroleum Refinery to market its IPO locally, widening the East Africa offer to two countries covering almost 20 percent of the IPO's shares, or about $300.4 million, Bloomberg reported Wednesday."
+why_it_matters: "The two-country East Africa allocation puts almost a fifth of Africa's largest-ever share sale in regional hands and tests cross-border retail demand for Nigerian assets."
 featured: false
 evidence_grade: "C"
 sources:
@@ -17,9 +18,17 @@ sources:
     publisher: "The Profiler"
     url: "https://theprofiler.co.za/africas-richest-refinerys-16-billion-ipo-opens-to-kenyan-investors-as-dangote-expands-east-africa-push"
     published: "2026-10-05"
+  - title: "Dangote Refinery Offers East Africa Almost 20% of IPO Shares"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-07/dangote-refinery-offers-east-africa-almost-20-of-ipo-shares"
+    published: "2026-10-07"
 tags: []
-data_as_of: "CMA approval issued October 5, 2026; IPO opened September 14, 2026 and closes October 13. Single-origin: reporting traces to one CMA approval; no primary CMA release located."
+data_as_of: "CMA approval issued October 5, 2026; IPO opened September 14, 2026 and closes October 13. Bloomberg reported October 7 that Uganda's CMA authorized local IPO marketing and that the two-country East Africa allocation covers almost 20 percent of shares (about $300.4 million); the allocation figure and Uganda detail trace to Bloomberg reporting only, and the remainder of the Bloomberg article sits behind a paywall. No primary CMA release located."
 ---
+
+## Latest
+
+Uganda's Capital Markets Authority has authorized Dangote Petroleum Refinery to market and distribute the IPO locally, Bloomberg reported Wednesday, making Uganda the second East African country in the offer alongside Kenya. The two-country allocation amounts to almost 20 percent of the IPO's shares, or about $300.4 million, according to Bloomberg, which said the Kenyan portion goes through global depository receipts rather than direct shares; the security type for Uganda was not specified in the portion of the article visible behind the paywall.
 
 The Kenyan regulator approved a global depository receipt submitted by Renaissance Capital (Kenya), allowing eligible local investors to participate in the Dangote Petroleum Refinery IPO through negotiable certificates representing the underlying shares, which remain in custody in Nigeria. The GDRs are expected to be listed on the Nairobi Securities Exchange, subject to Nigeria's SEC, and the authority also cleared at least seven other licensed intermediaries working with Nigerian counterparts.
 
