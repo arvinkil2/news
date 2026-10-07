@@ -1,28 +1,37 @@
 ---
-title: "French bonds rally as Le Pen raises pledged spending cuts"
-date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T13:53:30-04:00
-beats: ["rates"]
-status: "story"
-lede: "The French 10-year OAT yield fell 14bp to 4.72 percent Tuesday, its biggest one-day drop since May, as falling energy prices and Marine Le Pen's raised pledge of 140 billion euros in spending cuts calmed fiscal fears."
-why_it_matters: "The rally pulls the OAT-Bund spread back from its 2011-era record toward 129bp, but it rests on energy prices and campaign promises, not an approved budget, with France facing a record 340 billion euro issuance wall in 2027."
+title: French bonds rally as Le Pen raises pledged spending cuts
+date: 2026-10-06 12:41:35-04:00
+last_updated: 2026-10-06 13:53:30-04:00
+beats:
+- rates
+status: story
+lede: The French 10-year OAT yield fell 14bp to 4.72 percent Tuesday, its biggest
+  one-day drop since May, as falling energy prices and Marine Le Pen's raised pledge
+  of 140 billion euros in spending cuts calmed fiscal fears.
+why_it_matters: The rally pulls the OAT-Bund spread back from its 2011-era record
+  toward 129bp, but it rests on energy prices and campaign promises, not an approved
+  budget, with France facing a record 340 billion euro issuance wall in 2027.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Euro bounces as falling French bond yields temper debt concerns"
-    publisher: "Reuters"
-    url: "https://www.reuters.com/business/euro-faces-political-fiscal-reckoning-it-hovers-near-17-month-low-2026-10-06/"
-    published: "2026-10-06"
-  - title: "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency"
-    publisher: "Reuters"
-    url: "https://superhits979.com/2026/10/06/le-pen-eyes-bond-markets-with-bigger-spending-cuts-pledge-if-far-right-win-presidential-vote/"
-    published: "2026-10-06"
-  - title: "Le Pen's shadow budget narrows yield spreads a bit"
-    publisher: "FXStreet"
-    url: "https://www.fxstreet.com/analysis/le-pens-shadow-budget-narrows-yield-spreads-a-bit-202610060957"
-    published: "2026-10-06"
+- title: Euro bounces as falling French bond yields temper debt concerns
+  publisher: Reuters
+  url: https://www.reuters.com/business/euro-faces-political-fiscal-reckoning-it-hovers-near-17-month-low-2026-10-06/
+  published: '2026-10-06'
+- title: Le Pen eyes bond markets with promise of bigger spending cuts if far right
+    wins presidency
+  publisher: Reuters
+  url: https://superhits979.com/2026/10/06/le-pen-eyes-bond-markets-with-bigger-spending-cuts-pledge-if-far-right-win-presidential-vote/
+  published: '2026-10-06'
+- title: Le Pen's shadow budget narrows yield spreads a bit
+  publisher: FXStreet
+  url: https://www.fxstreet.com/analysis/le-pens-shadow-budget-narrows-yield-spreads-a-bit-202610060957
+  published: '2026-10-06'
 tags: []
-data_as_of: "Close of trading, Tuesday October 6, 2026; spread and issuance figures corroborated by FXStreet and Reuters day-end reporting"
+data_as_of: Close of trading, Tuesday October 6, 2026; spread and issuance figures
+  corroborated by FXStreet and Reuters day-end reporting
+regions:
+- europe
 ---
 
 French government bonds closed Tuesday with their biggest one-day rally since May. The 10-year OAT yield dropped 14bp to 4.72 percent after energy prices fell, easing the second energy-supply shock that ECB chief economist Philip Lane had flagged the prior day. Against a German 10-year Bund easing to 3.45 percent, the OAT-Bund spread sat near 129bp by the close, about 30bp inside Friday's widest since 2011.

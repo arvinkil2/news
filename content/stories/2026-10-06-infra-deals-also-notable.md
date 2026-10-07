@@ -1,68 +1,80 @@
 ---
-title: "Infra deals also notable on October 6"
-date: 2026-10-06T14:18:44-04:00
-last_updated: 2026-10-06T14:18:44-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Amazon pledges $1 billion to data-center host towns as $68 billion of projects face local blocks, Exus and Alight add 2.7 GW of solar portfolios, and DOT awards $426 million of freight grants."
-why_it_matters: "The day's smaller items show the same fault lines as the big deals: local opposition as the binding constraint on AI infrastructure, and steady capital into contracted solar and grid assets."
+title: Infra deals also notable on October 6
+date: 2026-10-06 14:18:44-04:00
+last_updated: 2026-10-06 14:18:44-04:00
+beats:
+- infra-deals
+status: story
+lede: Amazon pledges $1 billion to data-center host towns as $68 billion of projects
+  face local blocks, Exus and Alight add 2.7 GW of solar portfolios, and DOT awards
+  $426 million of freight grants.
+why_it_matters: 'The day''s smaller items show the same fault lines as the big deals:
+  local opposition as the binding constraint on AI infrastructure, and steady capital
+  into contracted solar and grid assets.'
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Amazon ends secret data center pacts and pledges $1 billion to host towns"
-    publisher: "Tom's Hardware"
-    url: "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans"
-    published: "2026-10-05"
-  - title: "Amazon warns $68 billion in blocked data centers threatens US AI lead"
-    publisher: "Tom's Hardware"
-    url: "https://www.tomshardware.com/tech-industry/data-centers/amazon-warns-usd68-billion-in-blocked-data-centers-threatens-us-ai-lead-aws-ceo-decries-100-proposed-bans-pledges-usd1b-community-fund"
-    published: "2026-10-05"
-  - title: "Exus Renewables North America Acquires 715 MW Solar Portfolio"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/exus-renewables-north-america-acquires-715mw-solar-portfolio/"
-    published: "2026-10-06"
-  - title: "Alight Acquires 2 GW Solar Portfolio in Sweden from Soltech Energy"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/alight-acquires-2-gw-solar-portfolio-in-sweden-from-soltech-energy/"
-    published: "2026-10-05"
-  - title: "MaxSolar Secures $176 Million from Copenhagen Infrastructure Partners"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/maxsolar-secures-176-million-from-copenhagen-infrastructure-partners/"
-    published: "2026-10-06"
-  - title: "Reverion Raises $175 Million to Scale Reversible Fuel Cell Technology"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/reverion-raises-175-million-to-scale-reversible-fuel-cell-technology/"
-    published: "2026-10-06"
-  - title: "Sunrock Secures $125 Million Green Financing for French Rooftop Solar"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/sunrock-secures-125-million-green-financing-french-rooftop-solar/"
-    published: "2026-10-06"
-  - title: "MET Group Acquires Majority Stake in Greece's Zephiros Energy Trading"
-    publisher: "Mercom Capital"
-    url: "https://mercomcapital.com/met-group-acquires-majority-stake-in-greeces-zephiros-energy-trading/"
-    published: "2026-10-05"
-  - title: "DOT awards $426M for critical infrastructure projects"
-    publisher: "Construction Dive"
-    url: "https://www.constructiondive.com/news/dot-awards-critical-infrastructure-projects/832265/"
-    published: "2026-10-06"
-  - title: "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement"
-    publisher: "Utility Dive"
-    url: "https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/"
-    published: "2026-10-06"
-  - title: "States, renewable developers back MISO's accelerated interconnection queue plan"
-    publisher: "Utility Dive"
-    url: "https://www.utilitydive.com/news/miso-accelerated-interconnection-queue-ferc/832246/"
-    published: "2026-10-06"
-  - title: "Iowa governor signs bill allowing $1.4B in tax incentives for steel project"
-    publisher: "Construction Dive"
-    url: "https://www.constructiondive.com/news/gov-reynolds-signs-bill-1b-tax-incentives-iowa-steel-mill-mesabi-metallics/832230/"
-    published: "2026-10-06"
-  - title: "Tutor Perini unit, Skanska land Coast Guard jobs worth a combined $586M"
-    publisher: "Construction Dive"
-    url: "https://www.constructiondive.com/news/tutor-perini-skanska-win-coast-guard-jobs/832227/"
-    published: "2026-10-06"
+- title: Amazon ends secret data center pacts and pledges $1 billion to host towns
+  publisher: Tom's Hardware
+  url: https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans
+  published: '2026-10-05'
+- title: Amazon warns $68 billion in blocked data centers threatens US AI lead
+  publisher: Tom's Hardware
+  url: https://www.tomshardware.com/tech-industry/data-centers/amazon-warns-usd68-billion-in-blocked-data-centers-threatens-us-ai-lead-aws-ceo-decries-100-proposed-bans-pledges-usd1b-community-fund
+  published: '2026-10-05'
+- title: Exus Renewables North America Acquires 715 MW Solar Portfolio
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/exus-renewables-north-america-acquires-715mw-solar-portfolio/
+  published: '2026-10-06'
+- title: Alight Acquires 2 GW Solar Portfolio in Sweden from Soltech Energy
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/alight-acquires-2-gw-solar-portfolio-in-sweden-from-soltech-energy/
+  published: '2026-10-05'
+- title: MaxSolar Secures $176 Million from Copenhagen Infrastructure Partners
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/maxsolar-secures-176-million-from-copenhagen-infrastructure-partners/
+  published: '2026-10-06'
+- title: Reverion Raises $175 Million to Scale Reversible Fuel Cell Technology
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/reverion-raises-175-million-to-scale-reversible-fuel-cell-technology/
+  published: '2026-10-06'
+- title: Sunrock Secures $125 Million Green Financing for French Rooftop Solar
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/sunrock-secures-125-million-green-financing-french-rooftop-solar/
+  published: '2026-10-06'
+- title: MET Group Acquires Majority Stake in Greece's Zephiros Energy Trading
+  publisher: Mercom Capital
+  url: https://mercomcapital.com/met-group-acquires-majority-stake-in-greeces-zephiros-energy-trading/
+  published: '2026-10-05'
+- title: DOT awards $426M for critical infrastructure projects
+  publisher: Construction Dive
+  url: https://www.constructiondive.com/news/dot-awards-critical-infrastructure-projects/832265/
+  published: '2026-10-06'
+- title: Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement
+  publisher: Utility Dive
+  url: https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/
+  published: '2026-10-06'
+- title: States, renewable developers back MISO's accelerated interconnection queue
+    plan
+  publisher: Utility Dive
+  url: https://www.utilitydive.com/news/miso-accelerated-interconnection-queue-ferc/832246/
+  published: '2026-10-06'
+- title: Iowa governor signs bill allowing $1.4B in tax incentives for steel project
+  publisher: Construction Dive
+  url: https://www.constructiondive.com/news/gov-reynolds-signs-bill-1b-tax-incentives-iowa-steel-mill-mesabi-metallics/832230/
+  published: '2026-10-06'
+- title: Tutor Perini unit, Skanska land Coast Guard jobs worth a combined $586M
+  publisher: Construction Dive
+  url: https://www.constructiondive.com/news/tutor-perini-skanska-win-coast-guard-jobs/832227/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Items dated October 5-6, 2026. Single-sourced: Mercom Capital (solar items), Construction Dive (DOT, Iowa, Tutor Perini/Skanska), Utility Dive (Maryland, MISO) report the underlying company/government releases; AltAssets-roundup items (Warburg/Ares, TDR/OCU, Niobrara, ABP) single-sourced via paywalled AltAssets; PE Hub add-on items single-sourced via paywalled PE Hub."
+data_as_of: 'Items dated October 5-6, 2026. Single-sourced: Mercom Capital (solar
+  items), Construction Dive (DOT, Iowa, Tutor Perini/Skanska), Utility Dive (Maryland,
+  MISO) report the underlying company/government releases; AltAssets-roundup items
+  (Warburg/Ares, TDR/OCU, Niobrara, ABP) single-sourced via paywalled AltAssets; PE
+  Hub add-on items single-sourced via paywalled PE Hub.'
+regions:
+- north-america
 ---
 
 **Amazon's data-center charm offensive.** AWS is ending secret non-disclosure pacts with host municipalities and pledging $1 billion over five years to towns that host its data centers under a "Built Together" program covering education, job training, energy affordability and 30,000 home efficiency retrofits, Tom's Hardware reported October 5. The move follows AWS CEO Matt Garman's October 2 essay warning that roughly $68 billion of data-center development across 27 states has been blocked or stalled by local opposition, with about 100 bans or moratoriums under consideration. Separately, Tom's Hardware reported October 6 that US data-center construction spending hit a record $85 billion annual pace, up 73 percent in a year.

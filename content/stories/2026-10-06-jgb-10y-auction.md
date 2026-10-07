@@ -1,24 +1,33 @@
 ---
-title: "Japan sets 10-year JGB coupon at 3.1 percent, highest in 30 years"
-date: 2026-10-06T13:48:38-04:00
-last_updated: 2026-10-06T13:48:38-04:00
-beats: ["rates"]
-status: "story"
-lede: "Japan's Finance Ministry set the coupon on new 10-year JGBs at 3.1 percent, the highest since August 1996, in an auction Tuesday that drew a 3.76x bid-to-cover, the strongest demand since May."
-why_it_matters: "A 3.1 percent 10-year coupon resets the benchmark for the world's second-largest bond market and the government budget that funds it, and the strong demand briefly steadied a curve where 20- and 30-year yields are near three-decade records."
+title: Japan sets 10-year JGB coupon at 3.1 percent, highest in 30 years
+date: 2026-10-06 13:48:38-04:00
+last_updated: 2026-10-06 13:48:38-04:00
+beats:
+- rates
+status: story
+lede: Japan's Finance Ministry set the coupon on new 10-year JGBs at 3.1 percent,
+  the highest since August 1996, in an auction Tuesday that drew a 3.76x bid-to-cover,
+  the strongest demand since May.
+why_it_matters: A 3.1 percent 10-year coupon resets the benchmark for the world's
+  second-largest bond market and the government budget that funds it, and the strong
+  demand briefly steadied a curve where 20- and 30-year yields are near three-decade
+  records.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Auction Result of 10-Year JGBs on October 6, 2026"
-    publisher: "Japan Ministry of Finance"
-    url: "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261006.htm"
-    published: "2026-10-06"
-  - title: "BoJ rate hike expectations continue to retreat ahead of Ueda"
-    publisher: "FXStreet"
-    url: "https://www.fxstreet.com/analysis/boj-rate-hike-expectations-continue-to-retreat-ahead-of-ueda-202610060543"
-    published: "2026-10-06"
+- title: Auction Result of 10-Year JGBs on October 6, 2026
+  publisher: Japan Ministry of Finance
+  url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261006.htm
+  published: '2026-10-06'
+- title: BoJ rate hike expectations continue to retreat ahead of Ueda
+  publisher: FXStreet
+  url: https://www.fxstreet.com/analysis/boj-rate-hike-expectations-continue-to-retreat-ahead-of-ueda-202610060543
+  published: '2026-10-06'
 tags: []
-data_as_of: "Auction held October 6, 2026, settled October 7, 2026; figures from the Ministry of Finance release and corroborating market coverage"
+data_as_of: Auction held October 6, 2026, settled October 7, 2026; figures from the
+  Ministry of Finance release and corroborating market coverage
+regions:
+- asia-pacific
 ---
 
 Japan's Finance Ministry set the coupon on its new 10-year bond at 3.1 percent in Tuesday's auction, the highest level in about 30 years, as the world's second-largest sovereign bond market continues to reprice around rising inflation and interest rates. The coupon, the interest rate the government pays annually on new issuance, rose from 2.7 percent at the previous auction in September, according to Kyodo News. The Ministry reviews the 10-year coupon quarterly to keep it aligned with prevailing market rates.

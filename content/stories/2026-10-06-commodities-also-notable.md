@@ -1,28 +1,36 @@
 ---
-title: "Commodities also notable: Oman tightens rules, Panama Canal reservations, cyber breach"
-date: 2026-10-06T13:46:37-04:00
-last_updated: 2026-10-06T13:46:37-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Oman tightened maritime rules around the Strait of Hormuz, the Panama Canal opened 2027 dry-season transit reservations, and investigators confirmed hackers breached a US-bound tanker's propulsion system."
-why_it_matters: "The second tier of today's tape is logistics and security policy, the channels through which conflict reprices commodity movement costs."
+title: 'Commodities also notable: Oman tightens rules, Panama Canal reservations,
+  cyber breach'
+date: 2026-10-06 13:46:37-04:00
+last_updated: 2026-10-06 13:46:37-04:00
+beats:
+- commodities
+status: story
+lede: Oman tightened maritime rules around the Strait of Hormuz, the Panama Canal
+  opened 2027 dry-season transit reservations, and investigators confirmed hackers
+  breached a US-bound tanker's propulsion system.
+why_it_matters: The second tier of today's tape is logistics and security policy,
+  the channels through which conflict reprices commodity movement costs.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Oman Tightens Maritime Rules For Foreign Ships In Its Territorial Waters"
-    publisher: "Marine Insight"
-    url: "https://www.marineinsight.com/oman-tightens-maritime-rules-for-foreign-ships-in-its-territorial-waters/?utm_source=rss&utm_medium=rss&utm_campaign=oman-tightens-maritime-rules-for-foreign-ships-in-its-territorial-waters"
-    published: "2026-10-06"
-  - title: "Panama Canal Expands Advance Transit Reservations for 2027 Dry Season"
-    publisher: "gCaptain"
-    url: "https://gcaptain.com/panama-canal-expands-advance-transit-reservations-for-2027-dry-season/"
-    published: "2026-10-06"
-  - title: "Hackers Breached Propulsion System of US-Bound Oil Tanker"
-    publisher: "gCaptain"
-    url: "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/"
-    published: "2026-10-05"
+- title: Oman Tightens Maritime Rules For Foreign Ships In Its Territorial Waters
+  publisher: Marine Insight
+  url: https://www.marineinsight.com/oman-tightens-maritime-rules-for-foreign-ships-in-its-territorial-waters/?utm_source=rss&utm_medium=rss&utm_campaign=oman-tightens-maritime-rules-for-foreign-ships-in-its-territorial-waters
+  published: '2026-10-06'
+- title: Panama Canal Expands Advance Transit Reservations for 2027 Dry Season
+  publisher: gCaptain
+  url: https://gcaptain.com/panama-canal-expands-advance-transit-reservations-for-2027-dry-season/
+  published: '2026-10-06'
+- title: Hackers Breached Propulsion System of US-Bound Oil Tanker
+  publisher: gCaptain
+  url: https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/
+  published: '2026-10-05'
 tags: []
-data_as_of: "October 5-6, 2026; Indian port record single-sourced: Marine Insight. EIA weekly retail fuel release is routine data"
+data_as_of: 'October 5-6, 2026; Indian port record single-sourced: Marine Insight.
+  EIA weekly retail fuel release is routine data'
+regions:
+- global
 ---
 
 **Oman tightened maritime rules for foreign ships in its territorial waters.** Foreign-flagged vessels operating under navigation licences must keep AIS switched on at all times, declare weapons and ammunition, and obtain departure certificates, under Ministerial Decision No. 30/2026 from the transport ministry. The Oman Maritime Security Centre announcement follows reported AIS anomalies and GPS jamming and spoofing around the Strait of Hormuz; non-compliance can draw fines, licence suspension or revocation. The rules target ships carrying out licensed activities in Omani waters, not routine port callers.

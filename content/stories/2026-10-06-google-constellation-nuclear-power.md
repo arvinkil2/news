@@ -1,22 +1,32 @@
 ---
-title: "Google signs 3.6-gigawatt power deal with Constellation Energy"
-date: 2026-10-06T12:53:00-04:00
-last_updated: 2026-10-06T12:53:00-04:00
-beats: ["technology"]
-status: "story"
-lede: "Google contracted 3,590 megawatts from Constellation Energy on Tuesday in the PJM grid, including a 20-year agreement for 890 MW of upgraded nuclear power and a 15-year agreement for another 2,700 MW; Constellation shares jumped 13.9 percent to $304.87."
-why_it_matters: "Hyperscalers are now directly underwriting nuclear uprates to secure firm power, confirming that electricity, not chips, is the binding constraint on the AI buildout."
+title: Google signs 3.6-gigawatt power deal with Constellation Energy
+date: 2026-10-06 12:53:00-04:00
+last_updated: 2026-10-06 12:53:00-04:00
+beats:
+- technology
+status: story
+lede: Google contracted 3,590 megawatts from Constellation Energy on Tuesday in the
+  PJM grid, including a 20-year agreement for 890 MW of upgraded nuclear power and
+  a 15-year agreement for another 2,700 MW; Constellation shares jumped 13.9 percent
+  to $304.87.
+why_it_matters: Hyperscalers are now directly underwriting nuclear uprates to secure
+  firm power, confirming that electricity, not chips, is the binding constraint on
+  the AI buildout.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Google enters massive 3.6-GW power deal with Constellation Energy"
-    publisher: "Reuters"
-    published: "2026-10-06"
-  - title: "Google squeezes more power from existing nuclear plants in Constellation deal"
-    publisher: "CNBC"
-    published: "2026-10-06"
+- title: Google enters massive 3.6-GW power deal with Constellation Energy
+  publisher: Reuters
+  published: '2026-10-06'
+- title: Google squeezes more power from existing nuclear plants in Constellation
+    deal
+  publisher: CNBC
+  published: '2026-10-06'
 tags: []
-data_as_of: "Announced October 6, 2026; quote data vintage about 12:00 PM EDT October 6"
+data_as_of: Announced October 6, 2026; quote data vintage about 12:00 PM EDT October
+  6
+regions:
+- global
 ---
 
 The deal covers 3,590 MW in PJM, the largest US power grid, with about a quarter coming from new nuclear. Constellation signed a 20-year power purchase agreement for 890 MW from upgraded nuclear plants and will invest more than $4.3 billion in fleet upgrades, with the first upgraded plant delivering power in 2028. Eleven nuclear units in Illinois are slated for upgrades. A separate 15-year supply agreement covers an additional 2,700 MW.

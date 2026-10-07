@@ -1,28 +1,37 @@
 ---
-title: "AfD wins first German state parliament presidency since war"
-date: 2026-10-06T14:24:06-04:00
-last_updated: 2026-10-06T14:24:06-04:00
-beats: ["politics"]
-status: "story"
-lede: "AfD candidate Tobias Rausch was elected president of Saxony-Anhalt's state parliament on October 6 with 48 of 82 votes, the first time a far-right politician has held such a post in postwar Germany."
-why_it_matters: "The breach of the cordon sanitaire at a German state-parliament presidency changes the arithmetic for coalition formation and previews the December fight over Saxony-Anhalt's Minister-President post."
+title: AfD wins first German state parliament presidency since war
+date: 2026-10-06 14:24:06-04:00
+last_updated: 2026-10-06 14:24:06-04:00
+beats:
+- politics
+status: story
+lede: AfD candidate Tobias Rausch was elected president of Saxony-Anhalt's state parliament
+  on October 6 with 48 of 82 votes, the first time a far-right politician has held
+  such a post in postwar Germany.
+why_it_matters: The breach of the cordon sanitaire at a German state-parliament presidency
+  changes the arithmetic for coalition formation and previews the December fight over
+  Saxony-Anhalt's Minister-President post.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "AfD Candidate Wins Sachsen-Anhalt State Parliament Presidency Amid Legal and Political Controversy"
-    publisher: "Osna.FM"
-    url: "https://news.osna.fm/?p=66762"
-    published: "2026-10-06"
-  - title: "CDU Faction Defies Orders in Sachsen-Anhalt Landtag President Vote"
-    publisher: "Osna.FM"
-    url: "https://news.osna.fm/?p=66768"
-    published: "2026-10-06"
-  - title: "AfD moves to take first German state parliament presidency"
-    publisher: "Brussels Signal"
-    url: "https://brusselssignal.eu/2026/10/afd-moves-to-take-first-german-state-parliament-presidency/"
-    published: "2026-10-06"
+- title: AfD Candidate Wins Sachsen-Anhalt State Parliament Presidency Amid Legal
+    and Political Controversy
+  publisher: Osna.FM
+  url: https://news.osna.fm/?p=66762
+  published: '2026-10-06'
+- title: CDU Faction Defies Orders in Sachsen-Anhalt Landtag President Vote
+  publisher: Osna.FM
+  url: https://news.osna.fm/?p=66768
+  published: '2026-10-06'
+- title: AfD moves to take first German state parliament presidency
+  publisher: Brussels Signal
+  url: https://brusselssignal.eu/2026/10/afd-moves-to-take-first-german-state-parliament-presidency/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Election October 6, 2026; state election September 6, 2026 (AfD 43.8 percent). Vote details reported by multiple outlets; no official Landtag tally sheet reviewed."
+data_as_of: Election October 6, 2026; state election September 6, 2026 (AfD 43.8 percent).
+  Vote details reported by multiple outlets; no official Landtag tally sheet reviewed.
+regions:
+- europe
 ---
 
 Tobias Rausch of the Alternative for Germany (AfD) was elected president of the Saxony-Anhalt Landtag on October 6, receiving 48 of 82 votes in a secret ballot at the chamber's inaugural sitting in Magdeburg. It is the first time a far-right politician has presided over a German state parliament since 1945; the Left party's Eva von Angern drew explicit parallels to Hermann Goring's Reichstag presidency (status: enacted).

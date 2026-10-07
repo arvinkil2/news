@@ -1,24 +1,33 @@
 ---
-title: "ECP closes $834 million continuation vehicle for Next Wave"
-date: 2026-10-06T13:59:44-04:00
-last_updated: 2026-10-06T13:59:44-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Energy Capital Partners closed a single-asset continuation vehicle with $834 million in commitments for Next Wave Energy Partners, giving ECP IV investors a full exit while ECP reinvests alongside new capital."
-why_it_matters: "It is a large GP-led secondary in downstream energy, locking in new institutional capital behind a contracted Gulf Coast alkylation plant while recycling the fund's stake."
+title: ECP closes $834 million continuation vehicle for Next Wave
+date: 2026-10-06 13:59:44-04:00
+last_updated: 2026-10-06 13:59:44-04:00
+beats:
+- infra-deals
+status: story
+lede: Energy Capital Partners closed a single-asset continuation vehicle with $834
+  million in commitments for Next Wave Energy Partners, giving ECP IV investors a
+  full exit while ECP reinvests alongside new capital.
+why_it_matters: It is a large GP-led secondary in downstream energy, locking in new
+  institutional capital behind a contracted Gulf Coast alkylation plant while recycling
+  the fund's stake.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Energy Capital Partners (ECP) Closes $834 Million Continuation Vehicle for Next Wave Energy Partners"
-    publisher: "ECP (press release, via vcaonline.com)"
-    url: "https://www.vcaonline.com/news/2026100522/energy-capital-partners-ecp-closes-834-million-continuation-vehicle-for-next-wave-energy-partners/"
-    published: "2026-10-05"
-  - title: "ECP raises $834m continuation vehicle for Fund IV-backed Next Wave"
-    publisher: "AltAssets"
-    url: "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ecp-raises-834m-continuation-vehicle-for-fund-iv-backed-next-wave.html"
-    published: "2026-10-06"
+- title: Energy Capital Partners (ECP) Closes $834 Million Continuation Vehicle for
+    Next Wave Energy Partners
+  publisher: ECP (press release, via vcaonline.com)
+  url: https://www.vcaonline.com/news/2026100522/energy-capital-partners-ecp-closes-834-million-continuation-vehicle-for-next-wave-energy-partners/
+  published: '2026-10-05'
+- title: ECP raises $834m continuation vehicle for Fund IV-backed Next Wave
+  publisher: AltAssets
+  url: https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ecp-raises-834m-continuation-vehicle-for-fund-iv-backed-next-wave.html
+  published: '2026-10-06'
 tags: []
-data_as_of: "Closing announced October 5, 2026 (ECP press release, Summit N.J. & Houston). Next Wave operating since early 2024; producing ~40 MBbl/d."
+data_as_of: Closing announced October 5, 2026 (ECP press release, Summit N.J. & Houston).
+  Next Wave operating since early 2024; producing ~40 MBbl/d.
+regions:
+- europe
 ---
 
 Energy Capital Partners announced on October 5 the closing of a single-asset continuation vehicle with $834 million in capital commitments for Next Wave Energy Partners, its Pasadena, Texas alkylation platform. ECP, part of London-listed Bridgepoint Group, will reinvest its proceeds into the vehicle, while investors in ECP IV get the chance to fully monetize their stakes and new investors take exposure to the operating asset.

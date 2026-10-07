@@ -1,36 +1,49 @@
 ---
-title: "Hormuz tanker campaign intensifies as six vessels hit since Sunday"
-date: 2026-10-06T13:46:37-04:00
-last_updated: 2026-10-06T13:46:37-04:00
-beats: ["commodities"]
-status: "story"
-lede: "The Strait of Hormuz tanker campaign produced its first casualty event Monday, with a dozen seafarers injured in a projectile strike on the Panama-flagged tanker On Peace, as UKMTO detailed five incidents and the IRGC ordered another vessel to turn back."
-why_it_matters: "The campaign is repricing war risk across energy shipping even as crude prices refuse a war premium, with freight, insurance and now crew casualties the transmission into commodity costs."
+title: Hormuz tanker campaign intensifies as six vessels hit since Sunday
+date: 2026-10-06 13:46:37-04:00
+last_updated: 2026-10-06 13:46:37-04:00
+beats:
+- commodities
+status: story
+lede: The Strait of Hormuz tanker campaign produced its first casualty event Monday,
+  with a dozen seafarers injured in a projectile strike on the Panama-flagged tanker
+  On Peace, as UKMTO detailed five incidents and the IRGC ordered another vessel to
+  turn back.
+why_it_matters: The campaign is repricing war risk across energy shipping even as
+  crude prices refuse a war premium, with freight, insurance and now crew casualties
+  the transmission into commodity costs.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "A Dozen Seafarers Injured in Strait of Hormuz Tanker Attack, India Says"
-    publisher: "gCaptain"
-    url: "https://gcaptain.com/a-dozen-seafarers-injured-in-strait-of-hormuz-tanker-attack-india-says/"
-    published: "2026-10-06"
-  - title: "Four Tankers Attacked, Another Vessel Threatened By Iran's IRGC In Strait Of Hormuz"
-    publisher: "Marine Insight"
-    url: "https://www.marineinsight.com/four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz"
-    published: "2026-10-06"
-  - title: "IMO Chief Decries Rising Toll on Seafarers Caught in Conflict"
-    publisher: "gCaptain"
-    url: "https://gcaptain.com/imo-chief-decries-rising-toll-on-seafarers-caught-in-conflict/"
-    published: "2026-10-06"
-  - title: "UKMTO incident reporting, October 5-6"
-    publisher: "UKMTO"
-    url: "https://www.ukmto.org"
-    published: "2026-10-06"
-  - title: "CENTCOM vessel escort update"
-    publisher: "US Central Command"
-    url: "https://www.centcom.mil"
-    published: "2026-10-05"
+- title: A Dozen Seafarers Injured in Strait of Hormuz Tanker Attack, India Says
+  publisher: gCaptain
+  url: https://gcaptain.com/a-dozen-seafarers-injured-in-strait-of-hormuz-tanker-attack-india-says/
+  published: '2026-10-06'
+- title: Four Tankers Attacked, Another Vessel Threatened By Iran's IRGC In Strait
+    Of Hormuz
+  publisher: Marine Insight
+  url: https://www.marineinsight.com/four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz
+  published: '2026-10-06'
+- title: IMO Chief Decries Rising Toll on Seafarers Caught in Conflict
+  publisher: gCaptain
+  url: https://gcaptain.com/imo-chief-decries-rising-toll-on-seafarers-caught-in-conflict/
+  published: '2026-10-06'
+- title: UKMTO incident reporting, October 5-6
+  publisher: UKMTO
+  url: https://www.ukmto.org
+  published: '2026-10-06'
+- title: CENTCOM vessel escort update
+  publisher: US Central Command
+  url: https://www.centcom.mil
+  published: '2026-10-05'
 tags: []
-data_as_of: "Through October 6, 2026; Brent/WTI are October 5 settlements. Casualty count: 12 injured per gCaptain citing India's Ministry of External Affairs; Indian outlets (indiandefensenews.in, INDIA New England News via Event Registry) report 11 injured"
+data_as_of: 'Through October 6, 2026; Brent/WTI are October 5 settlements. Casualty
+  count: 12 injured per gCaptain citing India''s Ministry of External Affairs; Indian
+  outlets (indiandefensenews.in, INDIA New England News via Event Registry) report
+  11 injured'
+regions:
+- asia-pacific
+- middle-east
 ---
 
 The tanker campaign in the Strait of Hormuz intensified Monday as UKMTO logged five separate incidents, including a projectile strike that set a tanker's engine room on fire. The casualty toll escalated sharply: twelve seafarers were injured after the Panama-flagged Aframax tanker On Peace (IMO 9893204) was struck by a projectile while transiting the strait, according to India's Ministry of External Affairs, with eleven of the injured Indian nationals among a crew of 19. The injured were evacuated with Omani assistance to Khasab for medical treatment. India called for an immediate end to attacks on commercial shipping, without attributing the strike. Indian outlets, including indiandefensenews.in and INDIA New England News, report 11 injured rather than 12.
