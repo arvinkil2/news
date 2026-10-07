@@ -1,20 +1,28 @@
 ---
-title: "POSCO takes stake in MinRes lithium arm"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T11:48:42-04:00
-beats: ["mining"]
-status: "story"
-lede: "Mineral Resources agreed to sell a minority interest in a new joint venture housing its lithium stakes to South Korea's POSCO for a substantial cash sum, with proceeds earmarked for debt reduction."
-why_it_matters: "MinRes is monetizing lithium exposure at a weak point in the price cycle to fix its balance sheet — a seller's signal on leverage, not a buyer's signal on lithium prices."
+title: POSCO takes stake in MinRes lithium arm
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 11:48:42-04:00
+beats:
+- mining
+status: story
+lede: Mineral Resources agreed to sell a minority interest in a new joint venture
+  housing its lithium stakes to South Korea's POSCO for a substantial cash sum, with
+  proceeds earmarked for debt reduction.
+why_it_matters: MinRes is monetizing lithium exposure at a weak point in the price
+  cycle to fix its balance sheet, a seller's signal on leverage, not a buyer's signal
+  on lithium prices.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Could Mineral Resources (ASX:MIN) Draw More Attention Across Lithium Stocks?"
-    publisher: "Kalkine Media"
-    url: "https://kalkinemedia.com/au/stocks/lithium/could-mineral-resources-asxmin-draw-more-attention-across-lithium-stocks"
-    published: "2026-09-29"
+- title: Could Mineral Resources (ASX:MIN) Draw More Attention Across Lithium Stocks?
+  publisher: Kalkine Media
+  url: https://kalkinemedia.com/au/stocks/lithium/could-mineral-resources-asxmin-draw-more-attention-across-lithium-stocks
+  published: '2026-09-29'
 tags: []
-data_as_of: "Binding agreement ~Sep 29; single-sourced: Kalkine Media"
+data_as_of: 'Binding agreement ~Sep 29; single-sourced: Kalkine Media'
+regions:
+- asia-pacific
+- latin-america
 ---
 
 Mineral Resources, the Perth-based group that runs the Wodgina and Mt Marion lithium mines alongside a large iron ore business, is working through a transaction that reshapes ownership of its lithium arm. Under a binding agreement with South Korea's POSCO, a minority interest in a newly incorporated joint venture housing the group's existing lithium stakes passes to the Korean steel and battery materials producer for a substantial upfront cash consideration.

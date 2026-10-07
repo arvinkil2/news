@@ -1,20 +1,29 @@
 ---
-title: "Huawei and Qualcomm sign multi-year patent license deal"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:46:55-04:00
-beats: ["technology"]
-status: "story"
-lede: "Huawei said Monday it signed a broad multi-year patent license with Qualcomm covering AI, 5G, computing and networking, including Qualcomm's purchase of certain Huawei US patents, pushing Huawei's total patent-licensing deal value above $6.9 billion."
-why_it_matters: "It converts Huawei's sanctioned-era R&D stockpile into recurring licensing income and marks the first time its Qualcomm agreement covers 5G, a notable IP detente between the two most litigated names in wireless."
+title: Huawei and Qualcomm sign multi-year patent license deal
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:46:55-04:00
+beats:
+- technology
+status: story
+lede: Huawei said Monday it signed a broad multi-year patent license with Qualcomm
+  covering AI, 5G, computing and networking, including Qualcomm's purchase of certain
+  Huawei US patents, pushing Huawei's total patent-licensing deal value above $6.9
+  billion.
+why_it_matters: It converts Huawei's sanctioned-era R&D stockpile into recurring licensing
+  income and marks the first time its Qualcomm agreement covers 5G, a notable IP detente
+  between the two most litigated names in wireless.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Huawei agrees to a multi-year patent licensing deal with Qualcomm"
-    publisher: "Reuters"
-    url: "https://www.reuters.com"
-    published: "2026-10-05"
+- title: Huawei agrees to a multi-year patent licensing deal with Qualcomm
+  publisher: Reuters
+  url: https://www.reuters.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "Event: Oct 5, 2026 (Huawei announcement). Retrieved Oct 5, 2026; single-sourced: no independent second account or company filing located"
+data_as_of: 'Event: Oct 5, 2026 (Huawei announcement). Retrieved Oct 5, 2026; single-sourced:
+  no independent second account or company filing located'
+regions:
+- global
 ---
 
 Huawei said on Monday it had agreed a broad multi-year patent license with Qualcomm covering artificial intelligence, 5G, computing and networking technologies. The agreement includes Qualcomm's purchase of certain Huawei US patents related to computing, AI and networking. It is the first licensing deal between the two companies to cover 5G technologies. Huawei said the deal should push the total value of its patent-licensing agreements above $6.9 billion once completed, and that its IP licensing business has generated positive revenue since 2021.

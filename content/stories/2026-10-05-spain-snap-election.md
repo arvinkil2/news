@@ -1,37 +1,47 @@
 ---
-title: "Sanchez calls snap Spanish election for November 29 after housing defeat"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:01:16-04:00
+title: Sanchez calls snap Spanish election for November 29 after housing defeat
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:01:16-04:00
 update_bump: true
-beats: ["politics"]
-status: "story"
-lede: "Pedro Sanchez called a snap general election for November 29 on Monday, after parliament rejected his government's emergency housing decrees last week."
-why_it_matters: "Polls point to a conservative People's Party government backed by Vox, which would put a far-right party in national government for the first time since Spain's return to democracy. The vote also tests whether housing anger reshapes European politics."
+beats:
+- politics
+status: story
+lede: Pedro Sanchez called a snap general election for November 29 on Monday, after
+  parliament rejected his government's emergency housing decrees last week.
+why_it_matters: Polls point to a conservative People's Party government backed by
+  Vox, which would put a far-right party in national government for the first time
+  since Spain's return to democracy. The vote also tests whether housing anger reshapes
+  European politics.
 featured: true
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Europe's last socialist heavyweight Sanchez calls snap Spanish election for Nov. 29"
-    publisher: "POLITICO Europe"
-    url: "https://www.politico.eu/article/spain-pedro-sanchez-calls-snap-elections/"
-    published: "2026-10-05"
-  - title: "Spanish PM Sanchez calls early election after housing protests"
-    publisher: "BBC"
-    url: "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o"
-    published: "2026-10-05"
-  - title: "Spain's Leader Calls Early Election After Housing Crisis Roils Government"
-    publisher: "The New York Times"
-    url: "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html"
-    published: "2026-10-05"
-  - title: "Sanchez Targets Toughest Comeback Yet With Early Spain Election"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-10-05/sanchez-targets-toughest-comeback-yet-with-early-"
-    published: "2026-10-05"
-  - title: "Sanchez's gamble: This 'all-in' election will have international impact"
-    publisher: "Chatham House"
-    url: "https://www.chathamhouse.org/2026/10/sanchezs-gamble-all-election-will-have-international-impact"
-    published: "2026-10-05"
+- title: Europe's last socialist heavyweight Sanchez calls snap Spanish election for
+    Nov. 29
+  publisher: POLITICO Europe
+  url: https://www.politico.eu/article/spain-pedro-sanchez-calls-snap-elections/
+  published: '2026-10-05'
+- title: Spanish PM Sanchez calls early election after housing protests
+  publisher: BBC
+  url: https://www.bbc.co.uk/news/articles/cmdx39k49xw0o
+  published: '2026-10-05'
+- title: Spain's Leader Calls Early Election After Housing Crisis Roils Government
+  publisher: The New York Times
+  url: https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html
+  published: '2026-10-05'
+- title: Sanchez Targets Toughest Comeback Yet With Early Spain Election
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2026-10-05/sanchez-targets-toughest-comeback-yet-with-early-
+  published: '2026-10-05'
+- title: 'Sanchez''s gamble: This ''all-in'' election will have international impact'
+  publisher: Chatham House
+  url: https://www.chathamhouse.org/2026/10/sanchezs-gamble-all-election-will-have-international-impact
+  published: '2026-10-05'
 tags: []
-data_as_of: "Election called Oct 5 (televised address); formal Cortes dissolution decree pending; vote Nov 29, 2026"
+data_as_of: Election called Oct 5 (televised address); formal Cortes dissolution decree
+  pending; vote Nov 29, 2026
+regions:
+- europe
+- north-america
 ---
 
 Pedro Sanchez announced in a televised institutional address on Monday that Spain will hold an early general election on November 29, seeking a broader progressive majority after Congress rejected two emergency housing decrees on Friday, October 2. The call is announced; the formal Cortes dissolution decree is the next required procedural step. Sanchez said Spain needed to renew popular support to overcome vested interests and deliver social reforms, while acknowledging his government had made mistakes and fallen short of its promises.

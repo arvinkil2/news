@@ -1,38 +1,48 @@
 ---
-title: "RBI set to hike for first time since 2023"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:17:38-04:00
+title: RBI set to hike for first time since 2023
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:17:38-04:00
 update_bump: true
-beats: ["rates"]
-status: "story"
-lede: "Economists at SBI, Bank of America, Yes Bank and IndusInd Bank now agree the Reserve Bank of India's MPC will raise the repo rate 25 basis points to 5.50 percent on Wednesday, ending a rate-hiking pause that began in February 2023."
-why_it_matters: "A hike in the world's most populous economy confirms the Iran-war energy shock has restarted a global tightening cycle — with Korea, the Philippines, Australia, the US, Japan, the euro area and New Zealand all hiking since August."
+beats:
+- rates
+status: story
+lede: Economists at SBI, Bank of America, Yes Bank and IndusInd Bank now agree the
+  Reserve Bank of India's MPC will raise the repo rate 25 basis points to 5.50 percent
+  on Wednesday, ending a rate-hiking pause that began in February 2023.
+why_it_matters: A hike in the world's most populous economy confirms the Iran-war
+  energy shock has restarted a global tightening cycle, with Korea, the Philippines,
+  Australia, the US, Japan, the euro area and New Zealand all hiking since August.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on October 05, 2026"
-    publisher: "Reserve Bank of India"
-    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63726"
-    published: "2026-10-05"
-  - title: "Auction of Government of India Dated Securities"
-    publisher: "Reserve Bank of India"
-    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63730"
-    published: "2026-10-05"
-  - title: "MPC set to begin rate hike cycle with at least 25 bps repo hike: SBI Economists"
-    publisher: "The Hindu BusinessLine"
-    url: "https://www.thehindubusinessline.com/economy/mpc-set-to-begin-rate-hike-cycle-with-at-least-25-bps-repo-hike-sbi-economists/article71535727.ece"
-    published: "2026-10-02"
-  - title: "RBI MPC meet: Economists forecast rate hike in October as inflation broadens"
-    publisher: "Nation Press"
-    url: "https://www.nationpress.com/business/rbi-set-to-hike-rates-at-october-mpc-meet"
-    published: "2026-10-04"
+- title: Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction
+    held on October 05, 2026
+  publisher: Reserve Bank of India
+  url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63726
+  published: '2026-10-05'
+- title: Auction of Government of India Dated Securities
+  publisher: Reserve Bank of India
+  url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63730
+  published: '2026-10-05'
+- title: 'MPC set to begin rate hike cycle with at least 25 bps repo hike: SBI Economists'
+  publisher: The Hindu BusinessLine
+  url: https://www.thehindubusinessline.com/economy/mpc-set-to-begin-rate-hike-cycle-with-at-least-25-bps-repo-hike-sbi-economists/article71535727.ece
+  published: '2026-10-02'
+- title: 'RBI MPC meet: Economists forecast rate hike in October as inflation broadens'
+  publisher: Nation Press
+  url: https://www.nationpress.com/business/rbi-set-to-hike-rates-at-october-mpc-meet
+  published: '2026-10-04'
 tags: []
-data_as_of: "MPC meets Oct 5-7, decision Oct 7 ~10am IST; August CPI 4.82%; repo 5.25%; VRRR result and GoI auction per RBI releases Oct 5"
+data_as_of: MPC meets Oct 5-7, decision Oct 7 ~10am IST; August CPI 4.82%; repo 5.25%;
+  VRRR result and GoI auction per RBI releases Oct 5
+regions:
+- asia-pacific
+- north-america
 ---
 
 The Reserve Bank of India's Monetary Policy Committee meets Monday through Wednesday, with its decision due Wednesday morning (10am IST). The consensus has moved fast: SBI's Economic Research Department, Bank of America, Yes Bank chief economist Indranil Pan and IndusInd's Gaurav Kapur (who puts the odds at 90 percent) all now expect a 25-basis-point increase from 5.25 to 5.50 percent. BofA brought its call forward from December to October. The move would be the first repo hike since February 2023.
 
-The case is inflation, and it is broadening. CPI rose to 4.82 percent in August from 4.45 percent in July — above the RBI's 4 percent target for a third straight month — with food and energy driving a generalization of price pressures. Brent above $100 has added imported-inflation risk. SBI also expects the RBI to upgrade its FY27 GDP forecast to 7.0 percent from 6.7 and inflation to 5.2 from 5.0.
+The case is inflation, and it is broadening. CPI rose to 4.82 percent in August from 4.45 percent in July, above the RBI's 4 percent target for a third straight month, with food and energy driving a generalization of price pressures. Brent above $100 has added imported-inflation risk. SBI also expects the RBI to upgrade its FY27 GDP forecast to 7.0 percent from 6.7 and inflation to 5.2 from 5.0.
 
 Monday's money-market operations showed pre-hike caution. The second overnight Variable Rate Reverse Repo auction drew offers of only ₹10,142 crore against ₹50,000 crore notified, with the full amount accepted at a 5.24% cut-off. A VRRR absorbs surplus liquidity, so the weak take-up suggests surplus cash is thinner than the RBI's estimate. Separately, the RBI announced a re-issue auction of ₹36,000 crore of Government of India dated securities for Friday, October 9: ₹23,000 crore of the 7.06% 2041 and ₹13,000 crore of the 7.43% 2076, with settlement October 12, an optional additional ₹2,000 crore per stock, and when-issued trading from October 6. An overnight VRRR auction is also scheduled for October 6.
 

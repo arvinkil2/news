@@ -1,28 +1,36 @@
 ---
-title: "Silver and copper climb as gold consolidates"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T19:06:13-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Silver settled up 2.5 percent at $61.46 an ounce on Monday and copper rose 2.3 percent to $6.64 a pound, while gold held at $4,171, as weak US payrolls kept October Fed-hike pricing near 18 percent."
-why_it_matters: "The metals bid is splitting between industrial optimism and haven demand — while gold's inability to rally on a dovish payrolls print says the 5.28 percent 10-year and the 102.25 dollar still dominate."
+title: Silver and copper climb as gold consolidates
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 19:06:13-04:00
+beats:
+- commodities
+status: story
+lede: Silver settled up 2.5 percent at $61.46 an ounce on Monday and copper rose 2.3
+  percent to $6.64 a pound, while gold held at $4,171, as weak US payrolls kept October
+  Fed-hike pricing near 18 percent.
+why_it_matters: The metals bid is splitting between industrial optimism and haven
+  demand, while gold's inability to rally on a dovish payrolls print says the 5.28
+  percent 10-year and the 102.25 dollar still dominate.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "COMEX futures settlement data"
-    publisher: "Yahoo Finance"
-    url: "https://finance.yahoo.com"
-    published: "2026-10-05"
-  - title: "A Gold Relief Rally on the Horizon?"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/videos/2026-10-05/a-gold-relief-rally-on-the-horizon-video"
-    published: "2026-10-05"
-  - title: "Stock Market Highlights, Oct 5"
-    publisher: "The Hindu BusinessLine"
-    url: "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-october-2026/article71544056.ece"
-    published: "2026-10-05"
+- title: COMEX futures settlement data
+  publisher: Yahoo Finance
+  url: https://finance.yahoo.com
+  published: '2026-10-05'
+- title: A Gold Relief Rally on the Horizon?
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/videos/2026-10-05/a-gold-relief-rally-on-the-horizon-video
+  published: '2026-10-05'
+- title: Stock Market Highlights, Oct 5
+  publisher: The Hindu BusinessLine
+  url: https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-october-2026/article71544056.ece
+  published: '2026-10-05'
 tags: []
-data_as_of: "Monday Oct 5 COMEX closes (single-sourced: Yahoo Finance); payrolls released Oct 2; 10Y/DXY figures carried from morning edition, not re-verified at close"
+data_as_of: 'Monday Oct 5 COMEX closes (single-sourced: Yahoo Finance); payrolls released
+  Oct 2; 10Y/DXY figures carried from morning edition, not re-verified at close'
+regions:
+- global
 ---
 
 December COMEX silver closed at $61.455 on Monday, up $1.48 (+2.5 percent) from Friday's $59.977, and December COMEX copper closed at $6.6415/lb, up 2.3 percent from Friday's $6.492. December COMEX gold closed at $4,171/oz, up about 0.2-0.3 percent from Friday's $4,162.30, fading from higher morning levels. All three settled off their intraday extremes.

@@ -1,28 +1,36 @@
 ---
-title: "LNG markets tighten as Europe outbids Asia ahead of winter"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T19:06:13-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Global LNG markets are tightening into winter as Europe pays crisis-era prices to refill storage while Asian buyers retreat, with spot benchmarks near four-year highs."
-why_it_matters: "With Qatari supply still largely offline and EU storage 16 points below the five-year average, Europe and Asia are bidding against each other for a shrinking pool of spot cargoes."
+title: LNG markets tighten as Europe outbids Asia ahead of winter
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 19:06:13-04:00
+beats:
+- commodities
+status: story
+lede: Global LNG markets are tightening into winter as Europe pays crisis-era prices
+  to refill storage while Asian buyers retreat, with spot benchmarks near four-year
+  highs.
+why_it_matters: With Qatari supply still largely offline and EU storage 16 points
+  below the five-year average, Europe and Asia are bidding against each other for
+  a shrinking pool of spot cargoes.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Asia LNG Spot Market Splits as China Exits and Coal Surges"
-    publisher: "Discovery Alert"
-    url: "https://discoveryalert.com/analysis/asia-lng-spot-market-split-september-2026/"
-    published: "2026-09-20"
-  - title: "LNG spot price surge deters Asian buyers, but saves Europe: Russell"
-    publisher: "BOE Report"
-    url: "https://boereport.com/2026/09/16/lng-spot-price-surge-deters-asian-buyers-but-saves-europe-russell/"
-    published: "2026-09-16"
-  - title: "TTF and Henry Hub futures data"
-    publisher: "Yahoo Finance"
-    url: "https://finance.yahoo.com"
-    published: "2026-10-05"
+- title: Asia LNG Spot Market Splits as China Exits and Coal Surges
+  publisher: Discovery Alert
+  url: https://discoveryalert.com/analysis/asia-lng-spot-market-split-september-2026/
+  published: '2026-09-20'
+- title: 'LNG spot price surge deters Asian buyers, but saves Europe: Russell'
+  publisher: BOE Report
+  url: https://boereport.com/2026/09/16/lng-spot-price-surge-deters-asian-buyers-but-saves-europe-russell/
+  published: '2026-09-16'
+- title: TTF and Henry Hub futures data
+  publisher: Yahoo Finance
+  url: https://finance.yahoo.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "Mid-September 2026 prices; Kpler September import estimates; Monday Oct 5 closes (single-sourced: Yahoo Finance)"
+data_as_of: 'Mid-September 2026 prices; Kpler September import estimates; Monday Oct
+  5 closes (single-sourced: Yahoo Finance)'
+regions:
+- global
 ---
 
 The global liquefied natural gas market is entering winter in its tightest position since 2022. October TTF futures at the Dutch hub reached about 84.07 euros per megawatt-hour on September 14, the first breach of the $1,000 per 1,000 cubic metres mark since December 2022. The Asian benchmark JKM touched a four-year high of $29.56 per MMBtu in September before easing toward $26.20 as a trickle of Qatari cargoes resumed transiting the Strait of Hormuz.

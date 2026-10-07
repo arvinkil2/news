@@ -1,24 +1,31 @@
 ---
-title: "Sainsbury's held merger talks with Morrisons earlier this year, reports say"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:28:02-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Sainsbury's held talks with rival grocer Morrisons over a potential multibillion-pound merger between November 2025 and February 2026 before walking away, according to reports published Monday."
-why_it_matters: "A combination would create a 23.6% market share grocer closing in on Tesco, but would face close CMA scrutiny after the regulator blocked Sainsbury's Asda bid in 2019."
+title: Sainsbury's held merger talks with Morrisons earlier this year, reports say
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 13:28:02-04:00
+beats:
+- infra-deals
+status: story
+lede: Sainsbury's held talks with rival grocer Morrisons over a potential multibillion-pound
+  merger between November 2025 and February 2026 before walking away, according to
+  reports published Monday.
+why_it_matters: A combination would create a 23.6% market share grocer closing in
+  on Tesco, but would face close CMA scrutiny after the regulator blocked Sainsbury's
+  Asda bid in 2019.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "UK grocer Sainsbury's held merger talks with rival Morrisons, reports say"
-    publisher: "SRN News"
-    url: "https://srnnews.com/uk-grocer-sainsburys-held-merger-talks-with-rival-morrisons-reports-say/"
-    published: "2026-10-05"
-  - title: "Sainsbury's and Morrisons held merger talks"
-    publisher: "Retail Week"
-    url: "https://www.retail-week.com/grocery/sainsburys-and-morrisons-held-merger-talks/7052284.article"
-    published: "2026-10-05"
+- title: UK grocer Sainsbury's held merger talks with rival Morrisons, reports say
+  publisher: SRN News
+  url: https://srnnews.com/uk-grocer-sainsburys-held-merger-talks-with-rival-morrisons-reports-say/
+  published: '2026-10-05'
+- title: Sainsbury's and Morrisons held merger talks
+  publisher: Retail Week
+  url: https://www.retail-week.com/grocery/sainsburys-and-morrisons-held-merger-talks/7052284.article
+  published: '2026-10-05'
 tags: []
-data_as_of: "Talks held Nov 2025 to Feb 2026; reported Oct 5, 2026"
+data_as_of: Talks held Nov 2025 to Feb 2026; reported Oct 5, 2026
+regions:
+- europe
 ---
 
 The Financial Times, citing people familiar with the matter, reported that preliminary talks over a combination took place between November 2025 and February this year before Sainsbury's decided to walk away, Reuters reported on Monday. The talks are no longer active, though people close to the situation did not rule out negotiations restarting in future. Sky News separately reported that Morrisons' owner, private equity firm Clayton Dubilier & Rice, would remain open to a tie-up with one of its major competitors. Spokespeople for both Sainsbury's and Morrisons declined to comment.
