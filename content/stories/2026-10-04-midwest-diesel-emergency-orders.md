@@ -1,16 +1,23 @@
 ---
-title: "Minnesota and South Dakota issue diesel emergency orders"
-date: 2026-10-04T07:00:00-04:00
-last_updated: 2026-10-04T07:00:00-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Minnesota's governor signed an executive order on Thursday granting truckers weight-limit relief as diesel prices topped $6 a gallon, following a similar South Dakota order five days earlier."
-why_it_matters: "The diesel squeeze has reached US end consumers during harvest season, turning a global refining story into domestic political pressure."
+title: Minnesota and South Dakota issue diesel emergency orders
+date: 2026-10-04 07:00:00-04:00
+last_updated: 2026-10-04 07:00:00-04:00
+beats:
+- commodities
+status: story
+lede: Minnesota's governor signed an executive order on Thursday granting truckers
+  weight-limit relief as diesel prices topped $6 a gallon, following a similar South
+  Dakota order five days earlier.
+why_it_matters: The diesel squeeze has reached US end consumers during harvest season,
+  turning a global refining story into domestic political pressure.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources: []
 tags: []
-data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
+data_as_of: Friday, October 2, 2026 (Friday closes); weekend official statements through
+  Sunday morning, October 4
+regions:
+- global
 ---
 
 Minnesota Gov. Tim Walz signed an executive order on Thursday giving farmers, loggers and truckers relief from weight limits amid diesel prices above $6 a gallon, local media reported. South Dakota Gov. Larry Rhoden issued a similar order five days earlier. The orders are designed to let haulers move more freight per trip during harvest.

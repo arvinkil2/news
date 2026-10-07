@@ -1,24 +1,36 @@
 ---
-title: "Morgan Stanley says power crunch spares Nvidia, Broadcom"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:46:55-04:00
-beats: ["technology"]
-status: "story"
-lede: "Morgan Stanley estimates US data-center developers face a 34 percent net power shortfall through 2028, equivalent to 32 GW, but says Nvidia's and Broadcom's 2027 forecasts are not at risk while memory, optics and power-management suppliers are most exposed."
-why_it_matters: "It puts a number on the physical constraint investors fear most in the AI trade and draws a line between the two best-positioned chipmakers and the secondary suppliers that would absorb any delivery pushouts."
+title: Morgan Stanley says power crunch spares Nvidia, Broadcom
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:46:55-04:00
+beats:
+- technology
+status: story
+lede: Morgan Stanley estimates US data-center developers face a 34 percent net power
+  shortfall through 2028, equivalent to 32 GW, but says Nvidia's and Broadcom's 2027
+  forecasts are not at risk while memory, optics and power-management suppliers are
+  most exposed.
+why_it_matters: It puts a number on the physical constraint investors fear most in
+  the AI trade and draws a line between the two best-positioned chipmakers and the
+  secondary suppliers that would absorb any delivery pushouts.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley"
-    publisher: "Reuters"
-    url: "https://www.reuters.com"
-    published: "2026-10-05"
-  - title: "Nvidia, Broadcom may be surprisingly safe from a 32-GW hole in the AI boom, Morgan Stanley says"
-    publisher: "Benzinga"
-    url: "https://www.benzinga.com"
-    published: "2026-10-05"
+- title: Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says
+    Morgan Stanley
+  publisher: Reuters
+  url: https://www.reuters.com
+  published: '2026-10-05'
+- title: Nvidia, Broadcom may be surprisingly safe from a 32-GW hole in the AI boom,
+    Morgan Stanley says
+  publisher: Benzinga
+  url: https://www.benzinga.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "Event: Oct 5, 2026 (research note publication; underlying estimate from September 2026). Shares at Oct 5 close. Retrieved Oct 5, 2026; underlying Morgan Stanley research not directly inspected"
+data_as_of: 'Event: Oct 5, 2026 (research note publication; underlying estimate from
+  September 2026). Shares at Oct 5 close. Retrieved Oct 5, 2026; underlying Morgan
+  Stanley research not directly inspected'
+regions:
+- global
 ---
 
 Nvidia and Broadcom are relatively insulated from a worsening US data-center power crunch, but delays in AI deployments could hit makers of memory, optical and other secondary chip components, Morgan Stanley said in a research note published Monday. The brokerage estimated last month that US data-center developers face a 34 percent net power shortfall through 2028, equivalent to 32 gigawatts, even after accounting for mitigation such as behind-the-meter generation and fuel cells. The figure was independently corroborated in separate coverage of the note.

@@ -1,36 +1,46 @@
 ---
-title: "Bolsonaro beats Lula in Brazil first round"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-06T14:11:39-04:00
+title: Bolsonaro beats Lula in Brazil first round
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-06 14:11:39-04:00
 update_bump: true
-beats: ["politics"]
-status: "story"
-lede: "Senator Flávio Bolsonaro won Brazil's presidential first round with 47.03 percent of valid votes against President Lula's 45.16 percent, forcing an October 25 runoff in the narrowest first-round margin since 1989."
-why_it_matters: "Polls had Lula ahead — the miss sets up three weeks of polarized campaigning with Brazil's fiscal trajectory, US tariff treatment and the real all repricing around the runoff."
+beats:
+- politics
+status: story
+lede: Senator Flávio Bolsonaro won Brazil's presidential first round with 47.03 percent
+  of valid votes against President Lula's 45.16 percent, forcing an October 25 runoff
+  in the narrowest first-round margin since 1989.
+why_it_matters: Polls had Lula ahead, the miss sets up three weeks of polarized campaigning
+  with Brazil's fiscal trajectory, US tariff treatment and the real all repricing
+  around the runoff.
 featured: true
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Lula seeks shake-up and Flavio Bolsonaro reaches for more support ahead of Brazil's election runoff"
-    publisher: "Associated Press"
-    published: "2026-10-05"
-  - title: "Bolsonaro Wins Endorsements From Right-Wing Rivals for Brazil Election Runoff"
-    publisher: "Bloomberg"
-    published: "2026-10-05"
-  - title: "Bolsonaro and Lula head to runoff: 5 takeaways from Brazil's election"
-    publisher: "The Washington Post"
-    url: "https://www.washingtonpost.com/world/2026/10/04/bolsonaro-lula-head-runoff-5-takeaways-brazils-elect"
-    published: "2026-10-05"
-  - title: "Brazil's presidential race heads to Lula-Bolsonaro run-off as right gains ground"
-    publisher: "KSUT (NPR)"
-    url: "https://www.ksut.org/2026-10-04/brazils-presidential-race-heads-to-lula-bolsonaro-run-off-as-right-gains-ground"
-    published: "2026-10-05"
+- title: Lula seeks shake-up and Flavio Bolsonaro reaches for more support ahead of
+    Brazil's election runoff
+  publisher: Associated Press
+  published: '2026-10-05'
+- title: Bolsonaro Wins Endorsements From Right-Wing Rivals for Brazil Election Runoff
+  publisher: Bloomberg
+  published: '2026-10-05'
+- title: 'Bolsonaro and Lula head to runoff: 5 takeaways from Brazil''s election'
+  publisher: The Washington Post
+  url: https://www.washingtonpost.com/world/2026/10/04/bolsonaro-lula-head-runoff-5-takeaways-brazils-elect
+  published: '2026-10-05'
+- title: Brazil's presidential race heads to Lula-Bolsonaro run-off as right gains
+    ground
+  publisher: KSUT (NPR)
+  url: https://www.ksut.org/2026-10-04/brazils-presidential-race-heads-to-lula-bolsonaro-run-off-as-right-gains-ground
+  published: '2026-10-05'
 tags: []
-data_as_of: "TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula reset Oct 5; equity/currency moves single-sourced, unconfirmed"
+data_as_of: TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
+  reset Oct 5; equity/currency moves single-sourced, unconfirmed
+regions:
+- global
 ---
 
 Brazil's presidential contest is heading to a second round after neither Senator Flávio Bolsonaro nor incumbent President Luiz Inácio Lula da Silva won the majority required for a first-round victory. The Superior Electoral Court confirmed Sunday that with 99.8 percent of the vote counted, Bolsonaro held just over 56 million votes (47.03 percent of valid votes) ahead of Lula's 53.7 million (45.16 percent).
 
-The 1.9-point gap is the narrowest margin between the top two candidates in a first round since direct elections returned in 1989 — and a major polling miss. Final polls had pointed the other way: Datafolha on October 3 showed Lula at 42 against Bolsonaro's 40. Bolsonaro carried 15 of the 27 states and the federal district, including the two largest electoral prizes — São Paulo (51.93 percent to Lula's 38.20) and Rio de Janeiro (53.01 to 39.41) — while Lula's strength held in the Northeast. Lula, 80, admitted the surprise: "I admit I was convinced I would win in the first round." Bolsonaro, 45, declared that "the era of Lula's Workers' Party is over."
+The 1.9-point gap is the narrowest margin between the top two candidates in a first round since direct elections returned in 1989, and a major polling miss. Final polls had pointed the other way: Datafolha on October 3 showed Lula at 42 against Bolsonaro's 40. Bolsonaro carried 15 of the 27 states and the federal district, including the two largest electoral prizes, São Paulo (51.93 percent to Lula's 38.20) and Rio de Janeiro (53.01 to 39.41), while Lula's strength held in the Northeast. Lula, 80, admitted the surprise: "I admit I was convinced I would win in the first round." Bolsonaro, 45, declared that "the era of Lula's Workers' Party is over."
 
 The runoff campaign began taking shape Monday as the Brazilian right consolidated around Bolsonaro. He received the backing of Goias governor Ronaldo Caiado and Minas Gerais governor Romeu Zema, two right-wing rivals from the first round, in endorsements reported Monday. Lula spent the day trying to shake up his campaign, according to AP reporting, a recognition inside the Planalto that the incumbent's strategy misfired. Third-place candidate Augusto Cury, under 3 percent, said he would endorse neither contender, leaving about 7.8 percent of first-round votes genuinely up for grabs. To pass 50 percent of valid votes, Bolsonaro needs about 3 more points and Lula about 5. The next presidential term begins January 5, 2027. Bolsonaro is the eldest son of former president Jair Bolsonaro, who is serving a 27-year sentence after being convicted of plotting to overturn the 2022 election; Lula is seeking a fourth non-consecutive term.
 

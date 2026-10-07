@@ -1,16 +1,22 @@
 ---
-title: "Sugar jumps 5 percent on El Nino fund buying"
-date: 2026-10-04T07:00:00-04:00
-last_updated: 2026-10-04T07:00:00-04:00
-beats: ["commodities"]
-status: "story"
-lede: "March New York sugar closed up 5.2 percent on Friday at about 19.9 cents a pound, a one-and-a-half-year high, as funds bought on El Nino dry-weather risk."
-why_it_matters: "Sugar is now the strongest soft commodity, and a very strong El Nino into 2027 poses asymmetric upside risk."
+title: Sugar jumps 5 percent on El Nino fund buying
+date: 2026-10-04 07:00:00-04:00
+last_updated: 2026-10-04 07:00:00-04:00
+beats:
+- commodities
+status: story
+lede: March New York sugar closed up 5.2 percent on Friday at about 19.9 cents a pound,
+  a one-and-a-half-year high, as funds bought on El Nino dry-weather risk.
+why_it_matters: Sugar is now the strongest soft commodity, and a very strong El Nino
+  into 2027 poses asymmetric upside risk.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources: []
 tags: []
-data_as_of: "Friday, October 2, 2026 (Friday closes); weekend official statements through Sunday morning, October 4"
+data_as_of: Friday, October 2, 2026 (Friday closes); weekend official statements through
+  Sunday morning, October 4
+regions:
+- global
 ---
 
 March NY #11 sugar (SBH27) closed up 0.99 cents (+5.23%) on Friday, posting a one-and-a-half-year nearest-futures high, as weather concerns tied to El Nino spurred fund buying, Barchart reported. London sugar also rose. The rally extends a 7.6% weekly gain.
