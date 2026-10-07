@@ -1,24 +1,33 @@
 ---
-title: "U.S.-Ukraine fund approves first critical minerals investments and grid projects"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T13:28:02-04:00
-beats: ["mining"]
-status: "story"
-lede: "The U.S.-Ukraine Reconstruction Investment Fund approved a critical minerals platform with BGV Group, equity for distributed power plants, and debt for DTEK's 200 MW battery network."
-why_it_matters: "This is the fund's first move into critical minerals, giving U.S.-aligned capital a direct stake in Ukrainian rare earths, beryllium and zirconium, and it puts near-term money behind winter grid resilience."
+title: U.S.-Ukraine fund approves first critical minerals investments and grid projects
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 13:28:02-04:00
+beats:
+- mining
+status: story
+lede: The U.S.-Ukraine Reconstruction Investment Fund approved a critical minerals
+  platform with BGV Group, equity for distributed power plants, and debt for DTEK's
+  200 MW battery network.
+why_it_matters: This is the fund's first move into critical minerals, giving U.S.-aligned
+  capital a direct stake in Ukrainian rare earths, beryllium and zirconium, and it
+  puts near-term money behind winter grid resilience.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
-    publisher: "U.S. Department of the Treasury"
-    url: "https://home.treasury.gov/news/press-releases/sb0648/"
-    published: "2026-10-05"
-  - title: "US-Ukrainian investment fund seals first critical minerals deal"
-    publisher: "Devdiscourse"
-    url: "https://www.devdiscourse.com/article/international/3985949-us-ukrainian-investment-fund-seals-first-critical-minerals-deal"
-    published: "2026-10-02"
+- title: URIF Approves Additional Investments and Partnerships in Energy and Critical
+    Minerals
+  publisher: U.S. Department of the Treasury
+  url: https://home.treasury.gov/news/press-releases/sb0648/
+  published: '2026-10-05'
+- title: US-Ukrainian investment fund seals first critical minerals deal
+  publisher: Devdiscourse
+  url: https://www.devdiscourse.com/article/international/3985949-us-ukrainian-investment-fund-seals-first-critical-minerals-deal
+  published: '2026-10-02'
 tags: []
-data_as_of: "Board approvals announced October 2026; DTEK battery system operational"
+data_as_of: Board approvals announced October 2026; DTEK battery system operational
+regions:
+- europe
+- north-america
 ---
 
 The joint U.S.-Ukrainian board of the Reconstruction Investment Fund (URIF) approved three investments. The first is a joint investment platform with Ukrainian company BGV Group Management to build a portfolio of early-stage mining projects across Ukraine, initially focused on identified rare earth, beryllium and zirconium deposits. Reuters reporting put the BGV platform at roughly $30 million and total URIF project values at about $70 million across six deals. The second is an equity investment in a multi-site distributed combined heat and power cogeneration platform to restore electricity and heat damaged by the war. The third is debt financing for DTEK's 200 MW/400 MWh battery energy storage system across six sites, which is already operational and can supply the equivalent of about 600,000 Ukrainian homes for two hours; the DFC separately agreed to lend nearly $100 million to DTEK for the battery system.

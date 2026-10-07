@@ -1,32 +1,42 @@
 ---
-title: "Trump set to expand tax-exempt diesel access as prices bite"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T19:06:13-04:00
-beats: ["commodities"]
-status: "story"
-lede: "President Trump plans to sign an executive order as soon as Monday widening access to tax-exempt dyed diesel, with US pump prices near record highs a month before the midterms."
-why_it_matters: "Diesel is the fuel of freight and farming; the order would trade about 24 cents a gallon in federal tax for political relief, without adding a barrel of supply."
+title: Trump set to expand tax-exempt diesel access as prices bite
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 19:06:13-04:00
+beats:
+- commodities
+status: story
+lede: President Trump plans to sign an executive order as soon as Monday widening
+  access to tax-exempt dyed diesel, with US pump prices near record highs a month
+  before the midterms.
+why_it_matters: Diesel is the fuel of freight and farming; the order would trade about
+  24 cents a gallon in federal tax for political relief, without adding a barrel of
+  supply.
 featured: true
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Trump to issue order expanding access to tax-exempt diesel fuel, sources say"
-    publisher: "Reuters"
-    url: "https://www.reuters.com/business/energy/us-expected-unveil-plan-ease-limits-red-dyed-diesel-monday-sources-say-2026-10-05/"
-    published: "2026-10-05"
-  - title: "Trump Plans to Ease Limits on Tax-Exempt Diesel Variety"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-10-05/trump-plans-to-ease-limits-on-tax-exempt-variety-"
-    published: "2026-10-05"
-  - title: "Daybreak Oct. 5: Trump says no to diesel export ban"
-    publisher: "Agri-Pulse"
-    url: "https://www.agri-pulse.com/articles/25333-daybreak-oct-5-trump-says-no-to-diesel-export-ban"
-    published: "2026-10-05"
-  - title: "Crude oil prices and refinery margins generally increased throughout the third quarter"
-    publisher: "EIA"
-    url: "https://www.eia.gov/todayinenergy/detail.php?id=68245"
-    published: "2026-10-05"
+- title: Trump to issue order expanding access to tax-exempt diesel fuel, sources
+    say
+  publisher: Reuters
+  url: https://www.reuters.com/business/energy/us-expected-unveil-plan-ease-limits-red-dyed-diesel-monday-sources-say-2026-10-05/
+  published: '2026-10-05'
+- title: Trump Plans to Ease Limits on Tax-Exempt Diesel Variety
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2026-10-05/trump-plans-to-ease-limits-on-tax-exempt-variety-
+  published: '2026-10-05'
+- title: 'Daybreak Oct. 5: Trump says no to diesel export ban'
+  publisher: Agri-Pulse
+  url: https://www.agri-pulse.com/articles/25333-daybreak-oct-5-trump-says-no-to-diesel-export-ban
+  published: '2026-10-05'
+- title: Crude oil prices and refinery margins generally increased throughout the
+    third quarter
+  publisher: EIA
+  url: https://www.eia.gov/todayinenergy/detail.php?id=68245
+  published: '2026-10-05'
 tags: []
-data_as_of: "Oct 5, 2026; diesel price data week ending Oct 2; order not confirmed signed as of 18:51 EDT Oct 5"
+data_as_of: Oct 5, 2026; diesel price data week ending Oct 2; order not confirmed
+  signed as of 18:51 EDT Oct 5
+regions:
+- north-america
 ---
 
 The expected order would expand the circumstances in which red-dyed diesel, normally restricted to off-road uses like farming and exempt from most federal fuel taxes, can be sold for broader use. Two sources familiar with the matter told Reuters the order could be unveiled as soon as Monday, with a third source saying it will likely direct the US Department of Transportation to coordinate with states on waiving taxes on road diesel. Bloomberg first reported the news, and Politico separately reported Monday that Trump plans an executive order seeking to bring down high diesel costs. Highway diesel carries a federal excise tax of 24.4 cents a gallon; dyed diesel is exempt apart from a 0.1-cent charge for the leaking underground storage tank fund.

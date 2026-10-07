@@ -1,29 +1,40 @@
 ---
-title: "Yemen front erupts as Houthis claim strikes on Riyadh and Aramco"
-date: 2026-10-05T07:00:00-04:00
-last_updated: 2026-10-05T20:01:16-04:00
+title: Yemen front erupts as Houthis claim strikes on Riyadh and Aramco
+date: 2026-10-05 07:00:00-04:00
+last_updated: 2026-10-05 20:01:16-04:00
 update_bump: true
-beats: ["politics"]
-status: "story"
-lede: "Yemen's Houthis claimed Monday to have hit Riyadh's international airport and a Saudi Aramco refinery with drones and missiles and warned airlines against Saudi airspace, as Saudi-backed forces launched an offensive to retake Sanaa and both sides battled over the Bab el-Mandeb strait."
-why_it_matters: "A second live energy chokepoint plus threats to civil aviation and a new Turkey-Pakistan-Saudi defense pact sharply raise the odds of sustained $100-plus oil, shipping insurance spikes and Gulf capex disruption."
+beats:
+- politics
+status: story
+lede: Yemen's Houthis claimed Monday to have hit Riyadh's international airport and
+  a Saudi Aramco refinery with drones and missiles and warned airlines against Saudi
+  airspace, as Saudi-backed forces launched an offensive to retake Sanaa and both
+  sides battled over the Bab el-Mandeb strait.
+why_it_matters: A second live energy chokepoint plus threats to civil aviation and
+  a new Turkey-Pakistan-Saudi defense pact sharply raise the odds of sustained $100-plus
+  oil, shipping insurance spikes and Gulf capex disruption.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Iran War Updates: Battle for control of Red Sea, attacks on energy infrastructure"
-    publisher: "CBS News"
-    url: "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/"
-    published: "2026-10-05"
-  - title: "Yemeni Forces Retake Bab el-Mandeb Strait From Houthis"
-    publisher: "Seoul Economic Daily"
-    url: "https://en.sedaily.com/international/2026/10/05/yemeni-forces-retake-bab-el-mandeb-strait-from-houthis"
-    published: "2026-10-05"
-  - title: "Yemen's Saudi-backed government announces major offensive against Iran-backed Houthis"
-    publisher: "CNN"
-    url: "https://kioncentralcoast.com/news/national-world/cnn-world/2026/10/04/yemens-saudi-backed-government-announces-major-offensive-against-iran-backed-houthis/"
-    published: "2026-10-04"
+- title: 'Iran War Updates: Battle for control of Red Sea, attacks on energy infrastructure'
+  publisher: CBS News
+  url: https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/
+  published: '2026-10-05'
+- title: Yemeni Forces Retake Bab el-Mandeb Strait From Houthis
+  publisher: Seoul Economic Daily
+  url: https://en.sedaily.com/international/2026/10/05/yemeni-forces-retake-bab-el-mandeb-strait-from-houthis
+  published: '2026-10-05'
+- title: Yemen's Saudi-backed government announces major offensive against Iran-backed
+    Houthis
+  publisher: CNN
+  url: https://kioncentralcoast.com/news/national-world/cnn-world/2026/10/04/yemens-saudi-backed-government-announces-major-offensive-against-iran-backed-houthis/
+  published: '2026-10-04'
 tags: []
-data_as_of: "Offensive announced Oct 4; escalation Oct 5; Houthi strike claims and pipeline-flow reports single-sourced or conflicting; battlefield control claims unverified by independent sources"
+data_as_of: Offensive announced Oct 4; escalation Oct 5; Houthi strike claims and
+  pipeline-flow reports single-sourced or conflicting; battlefield control claims
+  unverified by independent sources
+regions:
+- global
 ---
 
 The Yemen theater of the Iran war escalated sharply on Monday. The Houthis' military spokesman Yahya Saree said the group had struck King Khalid International Airport in Riyadh, the Aramco refinery in Rabigh and military sites and smaller airports in southern Saudi Arabia with drones, ballistic and cruise missiles, in response to Saudi-led coalition attacks earlier in the day. A Houthi-affiliated coordination center separately warned airlines that Saudi airspace "will be a theater for operations," language that puts civil aviation over the kingdom on notice for as long as Riyadh backs Yemen's government forces. The claims are reported, not independently verified.

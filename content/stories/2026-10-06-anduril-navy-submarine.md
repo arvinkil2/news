@@ -1,20 +1,29 @@
 ---
-title: "Anduril and Navy commit up to $6.6 billion to submarine parts"
-date: 2026-10-06T14:04:41-04:00
-last_updated: 2026-10-06T14:04:41-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Anduril Industries said October 6 it will invest $3.7 billion in a new Baltimore County shipyard for Virginia-class submarine components, alongside a Navy contract worth up to $2.9 billion, together valued at up to $6.6 billion."
-why_it_matters: "It is a major private-capital commitment to the submarine industrial base, with a defense startup financing its own shipyard and the Navy paying only for production outcomes."
+title: Anduril and Navy commit up to $6.6 billion to submarine parts
+date: 2026-10-06 14:04:41-04:00
+last_updated: 2026-10-06 14:04:41-04:00
+beats:
+- infra-deals
+status: story
+lede: Anduril Industries said October 6 it will invest $3.7 billion in a new Baltimore
+  County shipyard for Virginia-class submarine components, alongside a Navy contract
+  worth up to $2.9 billion, together valued at up to $6.6 billion.
+why_it_matters: It is a major private-capital commitment to the submarine industrial
+  base, with a defense startup financing its own shipyard and the Navy paying only
+  for production outcomes.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Anduril, US Navy invest $6.6 billion to boost submarine parts production"
-    publisher: "Defense News"
-    url: "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/"
-    published: "2026-10-06"
+- title: Anduril, US Navy invest $6.6 billion to boost submarine parts production
+  publisher: Defense News
+  url: https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Announced October 6, 2026 (Anduril announcement reported by Reuters). Single-wire-source account; the contract is outcome-based and Anduril bears most execution risk."
+data_as_of: Announced October 6, 2026 (Anduril announcement reported by Reuters).
+  Single-wire-source account; the contract is outcome-based and Anduril bears most
+  execution risk.
+regions:
+- global
 ---
 
 Defense technology firm Anduril Industries said on October 6 it will invest $3.7 billion to build a new shipyard in Baltimore County, Maryland, dubbed Arsenal-2, to manufacture critical components for the US Navy's Virginia-class nuclear attack submarines. The facility is expected to be operational by the end of the decade, creating 3,100 direct jobs and supporting more than 11,000 indirect jobs, Reuters reported.

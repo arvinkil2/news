@@ -1,21 +1,27 @@
 ---
-title: "Why markets moved overnight"
-date: 2026-10-05T20:58:24-04:00
-last_updated: 2026-10-05T20:58:24-04:00
-kicker: "Overnight markets"
+title: Why markets moved overnight
+date: 2026-10-05 20:58:24-04:00
+last_updated: 2026-10-05 20:58:24-04:00
+kicker: Overnight markets
 movers_note: true
-status: "story"
+status: story
 featured: true
-lede: "Tanker freight jumped 5.7% as Gulf crude exports recover under convoy logistics and the Black Sea corn-ship sinking added war-risk pricing across energy shipping."
-why_it_matters: "Freight and metals are repricing around conflict logistics while the long end of the rate curve keeps tightening, a split that frames Tuesday's 3-year auction and Wednesday's RBI decision and FOMC minutes."
-evidence_grade: "B"
+lede: Tanker freight jumped 5.7% as Gulf crude exports recover under convoy logistics
+  and the Black Sea corn-ship sinking added war-risk pricing across energy shipping.
+why_it_matters: Freight and metals are repricing around conflict logistics while the
+  long end of the rate curve keeps tightening, a split that frames Tuesday's 3-year
+  auction and Wednesday's RBI decision and FOMC minutes.
+evidence_grade: B
 sources:
-  - title: "Yahoo Finance market data"
-    publisher: "Yahoo Finance"
-    url: "https://finance.yahoo.com"
-    published: "2026-10-05"
+- title: Yahoo Finance market data
+  publisher: Yahoo Finance
+  url: https://finance.yahoo.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "Market close Monday, October 5, 2026; the technology table in today's feed still carries Friday, October 2 closes"
+data_as_of: Market close Monday, October 5, 2026; the technology table in today's
+  feed still carries Friday, October 2 closes
+regions:
+- global
 ---
 
 Tanker freight rose 5.67% to 873 on the day, extending a 33% weekly surge. The move tracks the war-risk repricing across energy shipping: Gulf crude exports are recovering under convoy and ship-to-ship logistics after the Hormuz attacks, while the Black Sea corn-carrier sinking, which killed the captain of the Royad Mammadov and ended with the vessel lost to fire, keeps conflict premiums in hull and cargo rates. See today's Gulf exports recover and Black Sea corn stories.

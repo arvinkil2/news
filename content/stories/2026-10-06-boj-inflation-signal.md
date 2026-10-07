@@ -1,24 +1,32 @@
 ---
-title: "Bank of Japan edging toward declaring inflation target met"
-date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T12:41:35-04:00
-beats: ["rates"]
-status: "story"
-lede: "The Bank of Japan may signal at its October meeting that underlying inflation has roughly hit its 2 percent target, Reuters reported Tuesday, citing three people familiar with the bank's thinking."
-why_it_matters: "A formal acknowledgment that the price-stability target is sustainably met would be the green light markets await on the path of further rate hikes, with the yen at 158 to the dollar."
+title: Bank of Japan edging toward declaring inflation target met
+date: 2026-10-06 12:41:35-04:00
+last_updated: 2026-10-06 12:41:35-04:00
+beats:
+- rates
+status: story
+lede: The Bank of Japan may signal at its October meeting that underlying inflation
+  has roughly hit its 2 percent target, Reuters reported Tuesday, citing three people
+  familiar with the bank's thinking.
+why_it_matters: A formal acknowledgment that the price-stability target is sustainably
+  met would be the green light markets await on the path of further rate hikes, with
+  the yen at 158 to the dollar.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Bank of Japan underlying inflation signal"
-    publisher: "Reuters"
-    url: "https://www.reuters.com"
-    published: "2026-10-06"
-  - title: "Output Gap, Potential Growth Rate, and Labor Market Indicators"
-    publisher: "Bank of Japan"
-    url: "https://www.boj.or.jp"
-    published: "2026-10-05"
+- title: Bank of Japan underlying inflation signal
+  publisher: Reuters
+  url: https://www.reuters.com
+  published: '2026-10-06'
+- title: Output Gap, Potential Growth Rate, and Labor Market Indicators
+  publisher: Bank of Japan
+  url: https://www.boj.or.jp
+  published: '2026-10-05'
 tags: []
-data_as_of: "Reported October 6, 2026; single-sourced to three unnamed people familiar with BoJ thinking, flagged accordingly"
+data_as_of: Reported October 6, 2026; single-sourced to three unnamed people familiar
+  with BoJ thinking, flagged accordingly
+regions:
+- asia-pacific
 ---
 
 The Bank of Japan may indicate at its October meeting that underlying inflation, the measure it watches most closely, has roughly reached the 2 percent target, Reuters reported Tuesday citing three people familiar with the central bank's thinking. Governor Kazuo Ueda has been laying the groundwork, saying recently that anchoring underlying inflation around 2 percent is becoming more important as the bank calibrates policy.

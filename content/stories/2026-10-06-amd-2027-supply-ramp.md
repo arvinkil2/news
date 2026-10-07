@@ -1,25 +1,33 @@
 ---
-title: "AMD plans to substantially increase chip supply in 2027, CEO says"
-date: 2026-10-06T12:53:00-04:00
-last_updated: 2026-10-06T12:53:00-04:00
-beats: ["technology"]
-status: "story"
-lede: "AMD CEO Lisa Su said in Taipei on Tuesday that the company plans to substantially increase chip supply in 2027 to meet booming AI demand and expects very high demand for the next several years; AMD shares rose 3.8 percent to a record $656.00."
-why_it_matters: "A foundry-constrained supplier publicly committing to a supply ramp is a demand-durability signal, and it sets up 2027 as the year the AI supply-glut debate gets settled."
+title: AMD plans to substantially increase chip supply in 2027, CEO says
+date: 2026-10-06 12:53:00-04:00
+last_updated: 2026-10-06 12:53:00-04:00
+beats:
+- technology
+status: story
+lede: AMD CEO Lisa Su said in Taipei on Tuesday that the company plans to substantially
+  increase chip supply in 2027 to meet booming AI demand and expects very high demand
+  for the next several years; AMD shares rose 3.8 percent to a record $656.00.
+why_it_matters: A foundry-constrained supplier publicly committing to a supply ramp
+  is a demand-durability signal, and it sets up 2027 as the year the AI supply-glut
+  debate gets settled.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "AMD plans to substantially increase supply in 2027, CEO says"
-    publisher: "Reuters"
-    published: "2026-10-06"
-  - title: "AMD real-time quote page with TipRanks analyst-target reporting"
-    publisher: "CNBC"
-    published: "2026-10-06"
-  - title: "Nokia CEO interview on AI data-center demand"
-    publisher: "CNBC"
-    published: "2026-10-05"
+- title: AMD plans to substantially increase supply in 2027, CEO says
+  publisher: Reuters
+  published: '2026-10-06'
+- title: AMD real-time quote page with TipRanks analyst-target reporting
+  publisher: CNBC
+  published: '2026-10-06'
+- title: Nokia CEO interview on AI data-center demand
+  publisher: CNBC
+  published: '2026-10-05'
 tags: []
-data_as_of: "Event October 6, 2026 (Taipei); quote data vintage about 12:00 PM EDT October 6; Nokia interview October 5"
+data_as_of: Event October 6, 2026 (Taipei); quote data vintage about 12:00 PM EDT
+  October 6; Nokia interview October 5
+regions:
+- asia-pacific
 ---
 
 Su said one purpose of her Taiwan visit is to ensure AMD's supply chain can ramp production of CPUs and GPUs, and that the company is working closely with TSMC and with memory chipmakers Samsung and SK Hynix to secure supplies. She described demand as very high for the next several years. TSMC is separately reported to be evaluating a Texas investment, Reuters noted.
