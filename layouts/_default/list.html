@@ -1,5 +1,8 @@
 {{ define "main" }}
-<h1 class="page-title">{{ .Title }}</h1>
+{{ $isRegion := eq .Data.Plural "regions" }}
+{{ $regionName := "" }}
+{{ if $isRegion }}{{ $regionName = index site.Params.region_names .Data.Term }}{{ end }}
+<h1 class="page-title">{{ if $isRegion }}{{ $regionName }}{{ else }}{{ .Title }}{{ end }}</h1>
 {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
 {{ if and (eq .Data.Plural "beats") (or (eq .Data.Term "commodities") (eq .Data.Term "mining") (eq .Data.Term "rates") (eq .Data.Term "technology")) }}
 {{ partial "market-table.html" (dict "Site" .Site "section" .Data.Term) }}
@@ -11,7 +14,7 @@
 {{ $rest := where .Pages "Params.update_bump" "!=" true }}
 {{ range (union $bumped $rest) }}
 <article class="river-item">
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if .Params.last_updated }}{{ $lu := .Params.last_updated | time.AsTime }}{{ if gt ($lu.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; <span class="updated-tag">Updated {{ $lu.Format "Jan 2" }}</span>{{ else if .Params.update_bump }} &middot; <span class="updated-tag">Updated {{ $lu.Format "3:04 PM" }}</span>{{ end }}{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ with .Params.regions }} &middot; {{ range $i, $r := . }}{{ if $i }}, {{ end }}{{ index site.Params.region_names $r | default $r }}{{ end }}{{ end }}{{ if .Params.last_updated }}{{ $lu := .Params.last_updated | time.AsTime }}{{ if gt ($lu.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; <span class="updated-tag">Updated {{ $lu.Format "Jan 2" }}</span>{{ else if .Params.update_bump }} &middot; <span class="updated-tag">Updated {{ $lu.Format "3:04 PM" }}</span>{{ end }}{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p>{{ . }}</p>{{ end }}
 </article>
