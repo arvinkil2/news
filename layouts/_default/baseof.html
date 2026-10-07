@@ -33,7 +33,7 @@
   <nav class="nav" aria-label="Sections">
     <a href="{{ "/" | relURL }}" class="nav-link">Latest</a>
     <div class="nav-dropdown">
-      <button class="nav-link nav-trigger" aria-haspopup="true" aria-expanded="false">Sections</button>
+      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Sections</button>
       <div class="dropdown-menu">
         {{ range site.Params.beat_order }}
         <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.beat_names . }}</a>
@@ -41,7 +41,7 @@
       </div>
     </div>
     <div class="nav-dropdown">
-      <button class="nav-link nav-trigger" aria-haspopup="true" aria-expanded="false">Regions</button>
+      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Regions</button>
       <div class="dropdown-menu">
         {{ range site.Params.region_order }}
         <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.region_names . }}</a>
