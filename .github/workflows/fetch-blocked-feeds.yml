@@ -1,0 +1,39 @@
+name: Fetch blocked feeds
+
+# Pulls RSS feeds that 403 our VM's datacenter IP, using GitHub's runners
+# (different egress IPs). Fetched XML is committed to proxied-feeds/ and read
+# back by the VM poller via the GitHub API (see feeds/poller.py github: scheme).
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch feeds
+        run: python3 .github/scripts/fetch_blocked_feeds.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "news-feed-bot"
+          git config user.email "news-feed-bot@kilambi.com"
+          git add proxied-feeds/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Proxied feed refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
