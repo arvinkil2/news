@@ -1,10 +1,17 @@
 {{ $section := .section }}
 {{ $site := .Site }}
-{{ $data := index $site.Data.market_tables $section }}
+{{ $tables := slice }}
+{{ if eq $section "rates" }}{{ $tables = slice "rates" "fx" }}
+{{ else if eq $section "technology" }}{{ $tables = slice "technology" "equities" }}
+{{ else }}{{ $tables = slice $section }}{{ end }}
+{{ $updated := (time $site.Data.market_tables.updated).Format "Jan 2, 3:04 PM" }}
+{{ range $tables }}
+{{ $key := . }}
+{{ $data := index $site.Data.market_tables $key }}
 {{ with $data }}
 <section class="market-table-wrap" aria-label="Market data">
-<h2 class="market-table-title">{{ if eq $section "commodities" }}Commodity prices{{ else if eq $section "mining" }}Mining equities{{ else if eq $section "technology" }}Tech equities{{ else }}Rates &amp; FX{{ end }}</h2>
-<p class="market-table-updated">Updated as of {{ (time $site.Data.market_tables.updated).Format "Jan 2, 3:04 PM" }} ET · 30-day trend</p>
+<h2 class="market-table-title">{{ if eq $key "commodities" }}Commodity prices{{ else if eq $key "mining" }}Mining equities{{ else if eq $key "technology" }}Tech equities{{ else if eq $key "rates" }}Sovereign yields{{ else if eq $key "fx" }}Currencies{{ else if eq $key "equities" }}Global equities{{ else }}{{ $key }}{{ end }}</h2>
+<p class="market-table-updated">Updated as of {{ $updated }} ET · 30-day trend</p>
 <div class="market-table-scroll">
 <table class="market-table">
 <thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>Trend</th></tr></thead>
@@ -22,4 +29,5 @@
 </table>
 </div>
 </section>
+{{ end }}
 {{ end }}
