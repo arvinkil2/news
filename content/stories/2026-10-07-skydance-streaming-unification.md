@@ -1,28 +1,37 @@
 ---
-title: "Skydance to fold HBO Max, Paramount+ and Discovery+ into one service"
-date: 2026-10-07T07:05:26-04:00
-last_updated: 2026-10-07T07:05:26-04:00
-beats: ["technology"]
-status: "story"
-lede: "Skydance said Tuesday it will unify HBO Max, Paramount+ and Discovery+ into a single streaming service over time, giving no timeline, in the first strategic move since its acquisition of Warner Bros. Discovery closed."
-why_it_matters: "Combining well over 200 million subscribers into one app is the largest streaming-library consolidation in US history and sets up the sector's next scale contest against Disney and Netflix."
+title: Skydance to fold HBO Max, Paramount+ and Discovery+ into one service
+date: 2026-10-07 07:05:26-04:00
+last_updated: 2026-10-07 07:05:26-04:00
+beats:
+- technology
+status: story
+lede: Skydance said Tuesday it will unify HBO Max, Paramount+ and Discovery+ into
+  a single streaming service over time, giving no timeline, in the first strategic
+  move since its acquisition of Warner Bros. Discovery closed.
+why_it_matters: Combining well over 200 million subscribers into one app is the largest
+  streaming-library consolidation in US history and sets up the sector's next scale
+  contest against Disney and Netflix.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "HBO Max, Paramount+, and Discovery+ \"will unify into a single service\""
-    publisher: "Ars Technica"
-    url: "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/"
-    published: "2026-10-06"
-  - title: "Skydance mashes proven properties of Paramount and Warner Bros. into an uncertain Hollywood hybrid"
-    publisher: "The Los Angeles Post (AP)"
-    url: "https://www.lapost.com/content/skydance-mashes-proven-properties-of-paramount-and-warner-bros-into-an-uncertain-hollywood-hybrid"
-    published: "2026-10-07"
-  - title: "Skydance Closes Warner Bros. Discovery Deal, Plans Single Streaming App"
-    publisher: "The Brief"
-    url: "https://www.thebrief.news/en/standard/article/28499/skydance-closes-warner-bros-discovery-deal-plans-single-streaming-app"
-    published: "2026-10-06"
+- title: HBO Max, Paramount+, and Discovery+ "will unify into a single service"
+  publisher: Ars Technica
+  url: https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/
+  published: '2026-10-06'
+- title: Skydance mashes proven properties of Paramount and Warner Bros. into an uncertain
+    Hollywood hybrid
+  publisher: The Los Angeles Post (AP)
+  url: https://www.lapost.com/content/skydance-mashes-proven-properties-of-paramount-and-warner-bros-into-an-uncertain-hollywood-hybrid
+  published: '2026-10-07'
+- title: Skydance Closes Warner Bros. Discovery Deal, Plans Single Streaming App
+  publisher: The Brief
+  url: https://www.thebrief.news/en/standard/article/28499/skydance-closes-warner-bros-discovery-deal-plans-single-streaming-app
+  published: '2026-10-06'
 tags: []
-data_as_of: "Announced October 6, 2026, the day the $110 billion acquisition closed; no unification timeline given"
+data_as_of: Announced October 6, 2026, the day the $110 billion acquisition closed;
+  no unification timeline given
+regions:
+- global
 ---
 
 The day after Paramount's $110 billion acquisition of Warner Bros. Discovery closed and the combined company became Skydance, management answered the question the whole industry had been asking. All of its direct-to-consumer services, including Discovery+, "will unify into a single service over time." No timeline was given, and the existing apps keep running for now while the company works on interim bundles, phased account moves and shared back-end systems.

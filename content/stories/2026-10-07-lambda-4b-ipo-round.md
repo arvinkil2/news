@@ -1,24 +1,33 @@
 ---
-title: "Lambda seeks up to $4 billion in final pre-IPO round"
-date: 2026-10-07T07:05:26-04:00
-last_updated: 2026-10-07T07:05:26-04:00
-beats: ["technology"]
-status: "story"
-lede: "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, led by Coatue Management and Blackstone, in what could be its last private round before a planned 2027 IPO, according to the Wall Street Journal's reporting."
-why_it_matters: "Lambda's backlog jumped from $15 billion to $50 billion in three months, mostly on one $35 billion Anthropic commitment, so the round tests whether the neocloud boom is diversified demand or concentration in a single lab."
+title: Lambda seeks up to $4 billion in final pre-IPO round
+date: 2026-10-07 07:05:26-04:00
+last_updated: 2026-10-07 07:05:26-04:00
+beats:
+- technology
+status: story
+lede: Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money
+  valuation, led by Coatue Management and Blackstone, in what could be its last private
+  round before a planned 2027 IPO, according to the Wall Street Journal's reporting.
+why_it_matters: Lambda's backlog jumped from $15 billion to $50 billion in three months,
+  mostly on one $35 billion Anthropic commitment, so the round tests whether the neocloud
+  boom is diversified demand or concentration in a single lab.
 featured: true
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "AI computing startup Lambda to raise $4B ahead of planned IPO"
-    publisher: "TechCrunch"
-    url: "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-    published: "2026-10-06"
-  - title: "Lambda seeks $4bn funding round ahead of planned IPO - report"
-    publisher: "Datacenter Dynamics"
-    url: "https://www.datacenterdynamics.com/en/news/lambda-seeks-4bn-funding-round-ahead-of-planned-ipo-report/"
-    published: "2026-10-07"
+- title: AI computing startup Lambda to raise $4B ahead of planned IPO
+  publisher: TechCrunch
+  url: https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/
+  published: '2026-10-06'
+- title: Lambda seeks $4bn funding round ahead of planned IPO - report
+  publisher: Datacenter Dynamics
+  url: https://www.datacenterdynamics.com/en/news/lambda-seeks-4bn-funding-round-ahead-of-planned-ipo-report/
+  published: '2026-10-07'
 tags: []
-data_as_of: "Reported October 6, 2026; company did not comment; single-origin: Wall Street Journal reporting"
+data_as_of: 'Reported October 6, 2026; company did not comment; single-origin: Wall
+  Street Journal reporting'
+regions:
+- europe
+- north-america
 ---
 
 Lambda is in the market for up to $4 billion at a $14.5 billion pre-money valuation, according to the Journal, with Coatue Management and Blackstone leading. Neither Lambda, Coatue nor Blackstone responded to requests for comment. The raise would set the tone for the company's IPO pricing ahead of a planned 2027 listing that was pushed back from this year amid market uncertainty.

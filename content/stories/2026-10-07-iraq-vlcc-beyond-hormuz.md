@@ -1,24 +1,32 @@
 ---
-title: "Iraq ships 2 million barrels past Hormuz, first time in decades"
-date: 2026-10-07T07:08:09-04:00
-last_updated: 2026-10-07T07:08:09-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Iraq's state tanker company loaded 2 million barrels of crude onto a chartered very large crude carrier and moved it beyond the Strait of Hormuz, the first such operation in decades and a break from the FOB Basra sales model."
-why_it_matters: "The move lets state marketer SOMO reach refiners that refuse to send vessels through the war zone and could shrink the discounts Iraq pays buyers to load at Basra."
+title: Iraq ships 2 million barrels past Hormuz, first time in decades
+date: 2026-10-07 07:08:09-04:00
+last_updated: 2026-10-07 07:08:09-04:00
+beats:
+- commodities
+status: story
+lede: Iraq's state tanker company loaded 2 million barrels of crude onto a chartered
+  very large crude carrier and moved it beyond the Strait of Hormuz, the first such
+  operation in decades and a break from the FOB Basra sales model.
+why_it_matters: The move lets state marketer SOMO reach refiners that refuse to send
+  vessels through the war zone and could shrink the discounts Iraq pays buyers to
+  load at Basra.
 featured: true
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz"
-    publisher: "Bloomberg (syndicated via gCaptain)"
-    url: "https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/"
-    published: "2026-10-04"
-  - title: "Iraq delivers two million barrels on its own VLCC run"
-    publisher: "Baird Maritime"
-    url: "https://www.bairdmaritime.com/shipping/tankers/first-in-decades-iraq-delivers-two-million-barrels-on-its-own-vlcc-run"
-    published: "2026-10-05"
+- title: Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz
+  publisher: Bloomberg (syndicated via gCaptain)
+  url: https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/
+  published: '2026-10-04'
+- title: Iraq delivers two million barrels on its own VLCC run
+  publisher: Baird Maritime
+  url: https://www.bairdmaritime.com/shipping/tankers/first-in-decades-iraq-delivers-two-million-barrels-on-its-own-vlcc-run
+  published: '2026-10-05'
 tags: []
-data_as_of: "Announced October 4, 2026; Iraqi Oil Ministry / INA statements"
+data_as_of: Announced October 4, 2026; Iraqi Oil Ministry / INA statements
+regions:
+- middle-east
+- north-america
 ---
 
 Iraq's state-owned Iraqi Oil Tankers Company has moved 2 million barrels of Iraqi crude beyond the Strait of Hormuz aboard a very large crude carrier, Director General Ali Qais Abdul Jabbar said Saturday, according to the Iraqi News Agency. It is the first time in decades the company has carried Iraqi crude past the strait, and the operation shifts part of Iraq's sales away from the decades-old model in which buyers arranged their own tankers to collect oil at the Port of Basra.

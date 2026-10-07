@@ -1,36 +1,49 @@
 ---
-title: "RBI hikes repo rate 25bp to 5.50 percent, shifts stance to calibrated tightening"
-date: 2026-10-07T03:58:49-04:00
-last_updated: 2026-10-07T07:08:09-04:00
-beats: ["rates"]
-status: "story"
-lede: "The Reserve Bank of India's MPC voted unanimously to raise the repo rate 25bp to 5.50 percent on Wednesday, its first hike since February 2023, and shifted the policy stance to calibrated tightening, while the rupee fell 22 paise to 96.57, near a record low."
-why_it_matters: "With the RBI forecasting FY27 inflation at 5.2 percent against 7.1 percent growth, Indian rates are now in an open-ended tightening cycle that will lift borrowing costs across Asia's third-largest economy while the rupee defends record-low territory."
+title: RBI hikes repo rate 25bp to 5.50 percent, shifts stance to calibrated tightening
+date: 2026-10-07 03:58:49-04:00
+last_updated: 2026-10-07 07:08:09-04:00
+beats:
+- rates
+status: story
+lede: The Reserve Bank of India's MPC voted unanimously to raise the repo rate 25bp
+  to 5.50 percent on Wednesday, its first hike since February 2023, and shifted the
+  policy stance to calibrated tightening, while the rupee fell 22 paise to 96.57,
+  near a record low.
+why_it_matters: With the RBI forecasting FY27 inflation at 5.2 percent against 7.1
+  percent growth, Indian rates are now in an open-ended tightening cycle that will
+  lift borrowing costs across Asia's third-largest economy while the rupee defends
+  record-low territory.
 featured: true
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026"
-    publisher: "Reserve Bank of India"
-    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742"
-    published: "2026-10-07"
-  - title: "Governor's Statement, October 7, 2026"
-    publisher: "Reserve Bank of India"
-    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744"
-    published: "2026-10-07"
-  - title: "RBI MPC Meeting Oct 7 Live: RBI MPC hikes repo rate by 25 bps to 5.5%, changes stance to 'calibrated tightening'"
-    publisher: "The Hindu BusinessLine"
-    url: "https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-octobe-7-2026-live-news-updates/article71551632.ece?utm_source=non-amp&utm_medium=quickdiscovery&utm_campaign=article"
-    published: "2026-10-07"
-  - title: "Rupee falls to 96.57 after RBI raises repo rate by 25 bps"
-    publisher: "The Hindu BusinessLine"
-    url: "https://www.thehindubusinessline.com/markets/forex/rupee-falls-22-paise-to-9657-against-us-dollar-after-rbi-rate-hike/article71554590.ece"
-    published: "2026-10-07"
-  - title: "Stock Market Today Live: Sensex, Nifty slip after RBI raises repo rate by 25 bps"
-    publisher: "The Hindu BusinessLine"
-    url: "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-october-2026/article71552907.ece"
-    published: "2026-10-07"
+- title: Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee
+    October 5 to 7, 2026
+  publisher: Reserve Bank of India
+  url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742
+  published: '2026-10-07'
+- title: Governor's Statement, October 7, 2026
+  publisher: Reserve Bank of India
+  url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744
+  published: '2026-10-07'
+- title: 'RBI MPC Meeting Oct 7 Live: RBI MPC hikes repo rate by 25 bps to 5.5%, changes
+    stance to ''calibrated tightening'''
+  publisher: The Hindu BusinessLine
+  url: https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-octobe-7-2026-live-news-updates/article71551632.ece?utm_source=non-amp&utm_medium=quickdiscovery&utm_campaign=article
+  published: '2026-10-07'
+- title: Rupee falls to 96.57 after RBI raises repo rate by 25 bps
+  publisher: The Hindu BusinessLine
+  url: https://www.thehindubusinessline.com/markets/forex/rupee-falls-22-paise-to-9657-against-us-dollar-after-rbi-rate-hike/article71554590.ece
+  published: '2026-10-07'
+- title: 'Stock Market Today Live: Sensex, Nifty slip after RBI raises repo rate by
+    25 bps'
+  publisher: The Hindu BusinessLine
+  url: https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-october-2026/article71552907.ece
+  published: '2026-10-07'
 tags: []
-data_as_of: "RBI MPC resolution released October 7, 2026; market reaction reflects midday Mumbai trading October 7; rupee at 96.57, down 22 paise"
+data_as_of: RBI MPC resolution released October 7, 2026; market reaction reflects
+  midday Mumbai trading October 7; rupee at 96.57, down 22 paise
+regions:
+- asia-pacific
 ---
 
 The Reserve Bank of India raised its policy repo rate by 25 basis points to 5.50 percent on Wednesday, the first increase since February 2023 and the mirror image of the 125bp of cuts it delivered through 2025. The six-member Monetary Policy Committee voted unanimously under Governor Sanjay Malhotra, also lifting the standing deposit facility to 5.25 percent and the marginal standing facility and Bank Rate to 5.75 percent.

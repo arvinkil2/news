@@ -1,37 +1,48 @@
 ---
-title: "FOMC minutes back another 2026 hike; 10-year auction draws heavy foreign bid"
-date: 2026-10-07T07:08:09-04:00
-last_updated: 2026-10-07T14:53:27-04:00
-beats: ["rates"]
-status: "story"
+title: FOMC minutes back another 2026 hike; 10-year auction draws heavy foreign bid
+date: 2026-10-07 07:08:09-04:00
+last_updated: 2026-10-07 14:53:27-04:00
+beats:
+- rates
+status: story
 update_bump: true
-lede: "The September FOMC minutes showed a unanimous 12-0 vote to lift the funds target to 3.75-4.00 percent with most participants expecting another hike by year end, while the $39 billion 10-year auction stopped at 5.300 percent with 80.3 percent going to indirect bidders, a sharp rebound in foreign demand."
-why_it_matters: "The minutes locked in the December hike markets had priced while the blockbuster foreign bid at the 10-year sale eased the supply fears Tuesday's weak 3-year auction had stoked, leaving the 10-year near 5.28 percent and gold sliding."
+lede: The September FOMC minutes showed a unanimous 12-0 vote to lift the funds target
+  to 3.75-4.00 percent with most participants expecting another hike by year end,
+  while the $39 billion 10-year auction stopped at 5.300 percent with 80.3 percent
+  going to indirect bidders, a sharp rebound in foreign demand.
+why_it_matters: The minutes locked in the December hike markets had priced while the
+  blockbuster foreign bid at the 10-year sale eased the supply fears Tuesday's weak
+  3-year auction had stoked, leaving the 10-year near 5.28 percent and gold sliding.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Minutes of the Federal Open Market Committee, September 15-16, 2026"
-    publisher: "Federal Reserve"
-    url: "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
-    published: "2026-10-07"
-  - title: "Treasury 10-year note auction results (CUSIP 91282CRF0)"
-    publisher: "U.S. Department of the Treasury"
-    url: "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261007_2.pdf"
-    published: "2026-10-07"
-  - title: "Ten-year note auction attracts strong demand"
-    publisher: "RTTNews"
-    url: "https://www.rttnews.com/3697286/ten-year-note-auction-attracts-strong-demand.aspx"
-    published: "2026-10-07"
-  - title: "U.S. Pays Highest Borrowing Costs for Three-Year Notes Since 2006"
-    publisher: "Dow Jones News Wires"
-    url: "https://www.tradingview.com/news/DJN_DN20261006006549:0-u-s-pays-highest-borrowing-costs-for-three-year-notes-since-2006/"
-    published: "2026-10-06"
-  - title: "Fed hike bets ease ahead of FOMC Minutes"
-    publisher: "FXStreet"
-    url: "https://www.fxstreet.com/analysis/fed-hike-bets-ease-ahead-of-fomc-minutes-202610070557"
-    published: "2026-10-07"
+- title: Minutes of the Federal Open Market Committee, September 15-16, 2026
+  publisher: Federal Reserve
+  url: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm
+  published: '2026-10-07'
+- title: Treasury 10-year note auction results (CUSIP 91282CRF0)
+  publisher: U.S. Department of the Treasury
+  url: https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261007_2.pdf
+  published: '2026-10-07'
+- title: Ten-year note auction attracts strong demand
+  publisher: RTTNews
+  url: https://www.rttnews.com/3697286/ten-year-note-auction-attracts-strong-demand.aspx
+  published: '2026-10-07'
+- title: U.S. Pays Highest Borrowing Costs for Three-Year Notes Since 2006
+  publisher: Dow Jones News Wires
+  url: https://www.tradingview.com/news/DJN_DN20261006006549:0-u-s-pays-highest-borrowing-costs-for-three-year-notes-since-2006/
+  published: '2026-10-06'
+- title: Fed hike bets ease ahead of FOMC Minutes
+  publisher: FXStreet
+  url: https://www.fxstreet.com/analysis/fed-hike-bets-ease-ahead-of-fomc-minutes-202610070557
+  published: '2026-10-07'
 tags: []
-data_as_of: "FOMC minutes released 2:00pm ET and Treasury auction results ~1:00pm ET, October 7, 2026; market levels as of ~3:00pm ET. Correction: this story's morning preview misstated the post-September-meeting funds target as 4.50-4.75 percent; the minutes confirm 3.75-4.00 percent."
+data_as_of: 'FOMC minutes released 2:00pm ET and Treasury auction results ~1:00pm
+  ET, October 7, 2026; market levels as of ~3:00pm ET. Correction: this story''s morning
+  preview misstated the post-September-meeting funds target as 4.50-4.75 percent;
+  the minutes confirm 3.75-4.00 percent.'
+regions:
+- north-america
 ---
 
 ## Latest
