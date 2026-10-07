@@ -1,24 +1,32 @@
 ---
-title: "UK appoints lead banks for first digital government bond"
-date: 2026-10-06T13:48:38-04:00
-last_updated: 2026-10-06T13:48:38-04:00
-beats: ["rates"]
-status: "story"
-lede: "The UK appointed six firms as joint lead managers for the pilot issuance of DIGIT, its first digitally native government bond, targeting issuance by the first quarter of 2027."
-why_it_matters: "DIGIT is the first sovereign experiment with distributed-ledger bond issuance and settlement at national scale, and its design will set a template for how government debt can move onto on-chain infrastructure."
+title: UK appoints lead banks for first digital government bond
+date: 2026-10-06 13:48:38-04:00
+last_updated: 2026-10-06 13:48:38-04:00
+beats:
+- rates
+status: story
+lede: The UK appointed six firms as joint lead managers for the pilot issuance of
+  DIGIT, its first digitally native government bond, targeting issuance by the first
+  quarter of 2027.
+why_it_matters: DIGIT is the first sovereign experiment with distributed-ledger bond
+  issuance and settlement at national scale, and its design will set a template for
+  how government debt can move onto on-chain infrastructure.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "UK takes next step towards first digitally native government bond"
-    publisher: "HM Treasury"
-    url: "https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond"
-    published: "2026-10-06"
-  - title: "Economic Secretary to the Treasury speech for UK Digital Assets Week"
-    publisher: "HM Treasury"
-    url: "https://www.gov.uk/government/speeches/economic-secretary-to-the-treasury-speech-for-uk-digital-assets-week"
-    published: "2026-10-06"
+- title: UK takes next step towards first digitally native government bond
+  publisher: HM Treasury
+  url: https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond
+  published: '2026-10-06'
+- title: Economic Secretary to the Treasury speech for UK Digital Assets Week
+  publisher: HM Treasury
+  url: https://www.gov.uk/government/speeches/economic-secretary-to-the-treasury-speech-for-uk-digital-assets-week
+  published: '2026-10-06'
 tags: []
-data_as_of: "Announced October 6, 2026; HM Treasury government announcement, single-origin (department's own release and ministerial speech)"
+data_as_of: Announced October 6, 2026; HM Treasury government announcement, single-origin
+  (department's own release and ministerial speech)
+regions:
+- europe
 ---
 
 The UK government appointed Barclays, HSBC, Lloyds, Morgan Stanley, NatWest and RBC Capital Markets as joint lead managers for the pilot issuance of DIGIT, the Digital Gilt Instrument, completing a competitive procurement process and clearing the way for investor engagement to begin. Economic Secretary to the Treasury Lucy Rigby KC MP announced the appointments Tuesday in her keynote speech at UK Digital Assets Week, calling issuance early next year a core part of the government's ambition to be a global hub for digital assets.

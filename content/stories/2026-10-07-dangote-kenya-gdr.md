@@ -1,29 +1,42 @@
 ---
-title: "Kenya clears Dangote refinery GDR route for local investors"
-date: 2026-10-07T07:07:32-04:00
-last_updated: 2026-10-07T12:02:08-04:00
-beats: ["infra-deals"]
-status: "story"
+title: Kenya clears Dangote refinery GDR route for local investors
+date: 2026-10-07 07:07:32-04:00
+last_updated: 2026-10-07 12:02:08-04:00
+beats:
+- infra-deals
+status: story
 update_bump: true
-lede: "Uganda's markets regulator has authorized Dangote Petroleum Refinery to market its IPO locally, widening the East Africa offer to two countries covering almost 20 percent of the IPO's shares, or about $300.4 million, Bloomberg reported Wednesday."
-why_it_matters: "The two-country East Africa allocation puts almost a fifth of Africa's largest-ever share sale in regional hands and tests cross-border retail demand for Nigerian assets."
+lede: Uganda's markets regulator has authorized Dangote Petroleum Refinery to market
+  its IPO locally, widening the East Africa offer to two countries covering almost
+  20 percent of the IPO's shares, or about $300.4 million, Bloomberg reported Wednesday.
+why_it_matters: The two-country East Africa allocation puts almost a fifth of Africa's
+  largest-ever share sale in regional hands and tests cross-border retail demand for
+  Nigerian assets.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Kenya Clears Dangote Refinery GDRs For Local Investors"
-    publisher: "Daba Finance"
-    url: "https://dabafinance.com/en/news/kenya-clears-dangote-refinery-gdrs-for-local-investors-2026-10-05"
-    published: "2026-10-05"
-  - title: "Africa's richest refinery's $1.6 billion IPO opens to Kenyan investors as Dangote expands East Africa push"
-    publisher: "The Profiler"
-    url: "https://theprofiler.co.za/africas-richest-refinerys-16-billion-ipo-opens-to-kenyan-investors-as-dangote-expands-east-africa-push"
-    published: "2026-10-05"
-  - title: "Dangote Refinery Offers East Africa Almost 20% of IPO Shares"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-10-07/dangote-refinery-offers-east-africa-almost-20-of-ipo-shares"
-    published: "2026-10-07"
+- title: Kenya Clears Dangote Refinery GDRs For Local Investors
+  publisher: Daba Finance
+  url: https://dabafinance.com/en/news/kenya-clears-dangote-refinery-gdrs-for-local-investors-2026-10-05
+  published: '2026-10-05'
+- title: Africa's richest refinery's $1.6 billion IPO opens to Kenyan investors as
+    Dangote expands East Africa push
+  publisher: The Profiler
+  url: https://theprofiler.co.za/africas-richest-refinerys-16-billion-ipo-opens-to-kenyan-investors-as-dangote-expands-east-africa-push
+  published: '2026-10-05'
+- title: Dangote Refinery Offers East Africa Almost 20% of IPO Shares
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2026-10-07/dangote-refinery-offers-east-africa-almost-20-of-ipo-shares
+  published: '2026-10-07'
 tags: []
-data_as_of: "CMA approval issued October 5, 2026; IPO opened September 14, 2026 and closes October 13. Bloomberg reported October 7 that Uganda's CMA authorized local IPO marketing and that the two-country East Africa allocation covers almost 20 percent of shares (about $300.4 million); the allocation figure and Uganda detail trace to Bloomberg reporting only, and the remainder of the Bloomberg article sits behind a paywall. No primary CMA release located."
+data_as_of: CMA approval issued October 5, 2026; IPO opened September 14, 2026 and
+  closes October 13. Bloomberg reported October 7 that Uganda's CMA authorized local
+  IPO marketing and that the two-country East Africa allocation covers almost 20 percent
+  of shares (about $300.4 million); the allocation figure and Uganda detail trace
+  to Bloomberg reporting only, and the remainder of the Bloomberg article sits behind
+  a paywall. No primary CMA release located.
+regions:
+- africa
 ---
 
 ## Latest

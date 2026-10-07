@@ -1,24 +1,32 @@
 ---
-title: "Yemeni forces claim Bab al-Mandeb gains as Houthis strike Saudi airports"
-date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T12:41:35-04:00
-beats: ["politics"]
-status: "story"
-lede: "Saudi-backed Yemeni forces claimed to capture Mocha and Dhubab near the Bab al-Mandeb strait on Oct 5-6, while Saudi Arabia confirmed Houthi projectiles wounded three civilians at two airports near the Yemen border."
-why_it_matters: "A ground campaign at Bab al-Mandeb raises the odds of sustained disruption to a strait carrying a large share of Europe-Asia container and tanker traffic, on top of the Hormuz pressure on crude and LNG."
+title: Yemeni forces claim Bab al-Mandeb gains as Houthis strike Saudi airports
+date: 2026-10-06 12:41:35-04:00
+last_updated: 2026-10-06 12:41:35-04:00
+beats:
+- politics
+status: story
+lede: Saudi-backed Yemeni forces claimed to capture Mocha and Dhubab near the Bab
+  al-Mandeb strait on Oct 5-6, while Saudi Arabia confirmed Houthi projectiles wounded
+  three civilians at two airports near the Yemen border.
+why_it_matters: A ground campaign at Bab al-Mandeb raises the odds of sustained disruption
+  to a strait carrying a large share of Europe-Asia container and tanker traffic,
+  on top of the Hormuz pressure on crude and LNG.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Yemen forces claim key gains near Bab al-Mandeb: What's the latest?"
-    publisher: "Al Jazeera"
-    url: "https://www.aljazeera.com"
-    published: "2026-10-06"
-  - title: "Saudi Arabia says three wounded in attacks on airports near Yemen border"
-    publisher: "Al Jazeera"
-    url: "https://www.aljazeera.com"
-    published: "2026-10-06"
+- title: 'Yemen forces claim key gains near Bab al-Mandeb: What''s the latest?'
+  publisher: Al Jazeera
+  url: https://www.aljazeera.com
+  published: '2026-10-06'
+- title: Saudi Arabia says three wounded in attacks on airports near Yemen border
+  publisher: Al Jazeera
+  url: https://www.aljazeera.com
+  published: '2026-10-06'
 tags: []
-data_as_of: "Events of Oct 5-6, 2026; battlefield claims unverified as of publication, casualty figures per WHO/IOM via Al Jazeera"
+data_as_of: Events of Oct 5-6, 2026; battlefield claims unverified as of publication,
+  casualty figures per WHO/IOM via Al Jazeera
+regions:
+- middle-east
 ---
 
 The Yemen theater moved from standoff strikes to a contested ground offensive overnight. Forces aligned with the internationally recognized Yemeni government said they seized strategic positions near Bab al-Mandeb, including the port city of Mocha and the district of Dhubab in Taiz province, under an operation named Dawn of Yemen announced Sunday. The Houthis insist they remain in control of their positions; neither claim has been independently verified.

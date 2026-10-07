@@ -1,28 +1,36 @@
 ---
-title: "Westwin commits $502 million to US nickel refinery"
-date: 2026-10-06T13:59:48-04:00
-last_updated: 2026-10-06T13:59:06-04:00
-beats: ["mining"]
-status: "story"
-lede: "Westwin Elements will invest $502 million over five years to build a commercial-scale Class 1 nickel refinery in Natchez, Mississippi, with 2029 commissioning and $1.7 billion in binding offtake behind it."
-why_it_matters: "The US has almost no domestic Class 1 nickel refining; a bankable 18,000-tonne plant with signed offtake is a direct onshoring win for the battery supply chain."
+title: Westwin commits $502 million to US nickel refinery
+date: 2026-10-06 13:59:48-04:00
+last_updated: 2026-10-06 13:59:06-04:00
+beats:
+- mining
+status: story
+lede: Westwin Elements will invest $502 million over five years to build a commercial-scale
+  Class 1 nickel refinery in Natchez, Mississippi, with 2029 commissioning and $1.7
+  billion in binding offtake behind it.
+why_it_matters: The US has almost no domestic Class 1 nickel refining; a bankable
+  18,000-tonne plant with signed offtake is a direct onshoring win for the battery
+  supply chain.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Westwin Elements to build $502M nickel refinery in Mississippi"
-    publisher: "Mining.com"
-    url: "https://www.mining.com/westwin-elements-to-build-502m-nickel-refinery-in-mississippi/"
-    published: "2026-10-05"
-  - title: "Westwin to build $502M nickel refinery in Mississippi"
-    publisher: "The Northern Miner"
-    url: "https://www.northernminer.com/news/westwin-to-build-502m-nickel-refinery-in-mississippi/1003895478/"
-    published: "2026-10-06"
-  - title: "Westwin to Establish Class 1 Nickel Refinery"
-    publisher: "Engineering and Mining Journal"
-    url: "https://www.e-mj.com/breaking-news/westwin-to-establish-class-1-nickel-refinery/"
-    published: "2026-10-06"
+- title: Westwin Elements to build $502M nickel refinery in Mississippi
+  publisher: Mining.com
+  url: https://www.mining.com/westwin-elements-to-build-502m-nickel-refinery-in-mississippi/
+  published: '2026-10-05'
+- title: Westwin to build $502M nickel refinery in Mississippi
+  publisher: The Northern Miner
+  url: https://www.northernminer.com/news/westwin-to-build-502m-nickel-refinery-in-mississippi/1003895478/
+  published: '2026-10-06'
+- title: Westwin to Establish Class 1 Nickel Refinery
+  publisher: Engineering and Mining Journal
+  url: https://www.e-mj.com/breaking-news/westwin-to-establish-class-1-nickel-refinery/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Announced October 5, 2026; second and third outlets confirm October 6; financing terms per company statements, not independently verified"
+data_as_of: Announced October 5, 2026; second and third outlets confirm October 6;
+  financing terms per company statements, not independently verified
+regions:
+- north-america
 ---
 
 Westwin Elements will invest $502 million over five years to build a commercial-scale Class 1 nickel refinery at the Belwood Industrial Site in Natchez, Mississippi, about 145 kilometers southwest of the state capital Jackson. Phase one is 18,000 tonnes a year of high-purity nickel with 2029 commissioning, building on the company's 20-tonne-per-year demonstration plant in Lawton, Oklahoma, which has completed multiple production runs of nickel powder using carbonyl refining technology at purities of at least 99.9 percent.

@@ -1,24 +1,31 @@
 ---
-title: "Greenland approves Tanbreez rare earth mine plan"
-date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T12:41:35-04:00
-beats: ["mining"]
-status: "story"
-lede: "Greenland's government approved the mining and closure plans for Critical Metals' Tanbreez heavy rare earths project, valid through 2050."
-why_it_matters: "Tanbreez is the West's most advanced heavy rare earths option outside China, and approval lands a month before the US-China rare-earth truce expires."
+title: Greenland approves Tanbreez rare earth mine plan
+date: 2026-10-06 12:41:35-04:00
+last_updated: 2026-10-06 12:41:35-04:00
+beats:
+- mining
+status: story
+lede: Greenland's government approved the mining and closure plans for Critical Metals'
+  Tanbreez heavy rare earths project, valid through 2050.
+why_it_matters: Tanbreez is the West's most advanced heavy rare earths option outside
+  China, and approval lands a month before the US-China rare-earth truce expires.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Critical Metals Tanbreez approval press release"
-    publisher: "Critical Metals Corp via GlobeNewswire"
-    url: "https://www.globenewswire.com"
-    published: "2026-10-05"
-  - title: "Tanbreez approval reporting"
-    publisher: "Mining.com"
-    url: "https://www.mining.com"
-    published: "2026-10-05"
+- title: Critical Metals Tanbreez approval press release
+  publisher: Critical Metals Corp via GlobeNewswire
+  url: https://www.globenewswire.com
+  published: '2026-10-05'
+- title: Tanbreez approval reporting
+  publisher: Mining.com
+  url: https://www.mining.com
+  published: '2026-10-05'
 tags: []
-data_as_of: "Approved October 5, 2026; activity-specific permits and financial security still gate construction"
+data_as_of: Approved October 5, 2026; activity-specific permits and financial security
+  still gate construction
+regions:
+- asia-pacific
+- europe
 ---
 
 Greenland's government approved the mining and closure plans for Critical Metals' Tanbreez project, the approvals valid through 2050 and covering 19 elements including the heavy rare earths terbium, dysprosium and yttrium plus neodymium and praseodymium. Activity-specific permits and financial security still gate construction; first ore is targeted for the fourth quarter of 2028 or first quarter of 2029. The exploitation licence requires financial security by the end of 2026.

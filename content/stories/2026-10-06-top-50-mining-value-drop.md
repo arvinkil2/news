@@ -1,20 +1,28 @@
 ---
-title: "Top 50 miners shed $264 billion as gold trade unwinds"
-date: 2026-10-06T13:59:06-04:00
-last_updated: 2026-10-06T13:59:06-04:00
-beats: ["mining"]
-status: "story"
-lede: "The world's 50 most valuable mining stocks were worth $2.26 trillion at the close of September, down $264 billion in the ranking's second-worst month on record."
-why_it_matters: "The September drawdown shows how quickly a metals unwind cascades through miner equities, with company-specific blowups stacked on top of the commodity pullback."
+title: Top 50 miners shed $264 billion as gold trade unwinds
+date: 2026-10-06 13:59:06-04:00
+last_updated: 2026-10-06 13:59:06-04:00
+beats:
+- mining
+status: story
+lede: The world's 50 most valuable mining stocks were worth $2.26 trillion at the
+  close of September, down $264 billion in the ranking's second-worst month on record.
+why_it_matters: The September drawdown shows how quickly a metals unwind cascades
+  through miner equities, with company-specific blowups stacked on top of the commodity
+  pullback.
 featured: true
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium stocks exit"
-    publisher: "Mining.com"
-    url: "https://www.mining.com/top-50-mining-companies-take-264-billion-hit-as-gold-trade-unwinds-lithium-stocks-exit/"
-    published: "2026-10-04"
+- title: Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium
+    stocks exit
+  publisher: Mining.com
+  url: https://www.mining.com/top-50-mining-companies-take-264-billion-hit-as-gold-trade-unwinds-lithium-stocks-exit/
+  published: '2026-10-04'
 tags: []
-data_as_of: "September 30, 2026 close; Mining.com Top 50 dataset, share data from primary-listed exchanges converted to US$"
+data_as_of: September 30, 2026 close; Mining.com Top 50 dataset, share data from primary-listed
+  exchanges converted to US$
+regions:
+- global
 ---
 
 The world's 50 most valuable mining stocks were worth $2.26 trillion at the close of September, a $264 billion monthly decline that is the second-largest in the history of Mining.com's ranking. September took back three-quarters of August's record $357 billion advance, and it did so for the same reason the gain arrived: gold. New York bullion futures slid from $4,441 an ounce at the end of August to $4,158 at the end of September, a 6.4 percent retreat. The macro worked against gold all month: the Federal Reserve raised rates for the first time since 2023 on September 16, a global bond selloff pushed yields to their highest since 2008, and the dollar firmed.
