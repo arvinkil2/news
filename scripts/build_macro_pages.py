@@ -26,8 +26,23 @@ data_as_of: "{vintage}"
 
 def spreads_page():
     d = json.load(open(os.path.join(DATA, "spreads.json")))
+    charts = json.load(open(os.path.join(DATA, "spread_charts.json")))
+    countries = d["countries"]
+    non_bench = [c for c in countries if c["spread_bp"] != 0]
+    widest = max(non_bench, key=lambda c: c["spread_bp"])
+    tightest = min(non_bench, key=lambda c: c["spread_bp"])
+    big_up = max(countries, key=lambda c: c["change_12m_bp"])
+    big_dn = min(countries, key=lambda c: c["change_12m_bp"])
+    stats = (
+        "<div class=\"stat-row\">\n"
+        f"<div class=\"stat\"><span class=\"stat-label\">Widest spread</span><span class=\"stat-value\">{widest['name']} {widest['spread_bp']:+.0f} bp</span></div>\n"
+        f"<div class=\"stat\"><span class=\"stat-label\">Tightest spread</span><span class=\"stat-value\">{tightest['name']} {tightest['spread_bp']:+.0f} bp</span></div>\n"
+        f"<div class=\"stat\"><span class=\"stat-label\">Biggest 12m widening</span><span class=\"stat-value\">{big_up['name']} {big_up['change_12m_bp']:+.0f} bp</span></div>\n"
+        f"<div class=\"stat\"><span class=\"stat-label\">Biggest 12m tightening</span><span class=\"stat-value\">{big_dn['name']} {big_dn['change_12m_bp']:+.0f} bp</span></div>\n"
+        "</div>\n"
+    )
     rows = []
-    for c in d["countries"]:
+    for c in countries:
         chg1 = c["change_1m_bp"]; chg12 = c["change_12m_bp"]
         rows.append(
             f"<tr><td>{c['name']}</td>"
@@ -43,6 +58,8 @@ def spreads_page():
         f"{d['data_through']} (monthly)",
     )
     body += (
+        stats
+        + "<h2>All countries</h2>\n"
         "<p class=\"data-vintage\">Yields in percent; spreads in basis points vs the regional benchmark. "
         "Changes are in basis points.</p>\n"
         "<div class=\"market-table-scroll\"><table class=\"market-table\">\n"
@@ -50,12 +67,9 @@ def spreads_page():
         "<th>1m chg (bp)</th><th>12m chg (bp)</th></tr></thead>\n<tbody>\n"
         + "\n".join(rows) +
         "\n</tbody></table></div>\n"
-        "<h2>Europe vs Bunds</h2>\n"
-        "<img src=\"/macro/spreads_europe.png\" alt=\"Sovereign 10-year spreads vs Germany\" class=\"chart\">\n"
-        "<h2>Benchmark yields</h2>\n"
-        "<img src=\"/macro/benchmark_yields.png\" alt=\"10-year benchmark yields\" class=\"chart\">\n"
-        "<h2>Then and now</h2>\n"
-        "<img src=\"/macro/spreads_then_now.png\" alt=\"Spreads then and now\" class=\"chart\">\n"
+        "<h2>Europe vs Bunds, 2006 to now</h2>\n" + charts["europe"] + "\n"
+        "<h2>Benchmark yields, 2006 to now</h2>\n" + charts["benchmarks"] + "\n"
+        "<h2>12-month spread moves</h2>\n" + charts["movers12m"] + "\n"
         f"<p class=\"data-vintage\">Source: {d['source']}. {d.get('refresh_note', '')}</p>\n"
     )
     return body
