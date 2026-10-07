@@ -1,7 +1,7 @@
 ---
 title: "Syria aims to more than double oil output by end-2027"
-date: 2026-10-07T18:00:42-04:00
-last_updated: 2026-10-07T18:00:42-04:00
+date: 2026-10-07T14:14:21-04:00
+last_updated: 2026-10-07T14:14:21-04:00
 beats: ["commodities"]
 status: "developing"
 developing: true

@@ -1,7 +1,7 @@
 ---
 title: "Boots sold to Canada's Weston family in $8.9 billion deal"
 date: 2026-10-07T13:49:03-04:00
-last_updated: 2026-10-07T18:00:42-04:00
+last_updated: 2026-10-07T14:14:21-04:00
 beats: ["infra-deals"]
 status: "developing"
 developing: true
