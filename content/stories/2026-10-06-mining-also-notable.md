@@ -1,48 +1,55 @@
 ---
-title: "Also notable: nickel records, drill hits and buybacks"
-date: 2026-10-06T13:59:06-04:00
-last_updated: 2026-10-06T13:59:06-04:00
-beats: ["mining"]
-status: "story"
-lede: "Atlantic Nickel set monthly production records, 1911 Gold extended its Manitoba zones, Greenland Mines authorized a $20 million buyback, and Cambria set a Q4 2027 restart target for Premier."
-why_it_matters: "The secondary stories show capital still moving at the operating margin: record throughput, mill restarts and M&A votes while majors dominate the headlines."
+title: 'Also notable: nickel records, drill hits and buybacks'
+date: 2026-10-06 13:59:06-04:00
+last_updated: 2026-10-06 13:59:06-04:00
+beats:
+- mining
+status: story
+lede: Atlantic Nickel set monthly production records, 1911 Gold extended its Manitoba
+  zones, Greenland Mines authorized a $20 million buyback, and Cambria set a Q4 2027
+  restart target for Premier.
+why_it_matters: 'The secondary stories show capital still moving at the operating
+  margin: record throughput, mill restarts and M&A votes while majors dominate the
+  headlines.'
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Atlantic Nickel record production as underground transition advances"
-    publisher: "International Mining"
-    url: "https://im-mining.com/2026/10/06/atlantic-nickel-record-production-as-underground-transition-advances/"
-    published: "2026-10-06"
-  - title: "1911 Gold hits 5 metres of 7.55 g/t gold, stock lifts"
-    publisher: "Canadian Mining Journal"
-    url: "https://www.canadianminingjournal.com/news/1911-gold-hits-5-metres-of-7-55-g-t-gold-stock-lifts/"
-    published: "2026-10-06"
-  - title: "Greenland Mines authorizes $20M share buyback"
-    publisher: "Canadian Mining Journal"
-    url: "https://www.canadianminingjournal.com/news/greenland-mines-authorizes-20m-share-buyback/"
-    published: "2026-10-06"
-  - title: "Cambria targets late 2027 Premier mill restart"
-    publisher: "Mining.com"
-    url: "https://www.mining.com/cambria-targets-late-2027-premier-mill-restart/"
-    published: "2026-10-05"
-  - title: "Metso wins $26M thickener modernization order in Chile"
-    publisher: "Canadian Mining Journal"
-    url: "https://www.canadianminingjournal.com/news/metso-wins-26m-thickener-modernization-order-in-chile/"
-    published: "2026-10-05"
-  - title: "Tivan multi-million-dollar Molyhil JV moves towards binding deal"
-    publisher: "Australian Mining"
-    url: "https://www.australianmining.com.au/tivan-multi-million-dollar-molyhil-jv-moves-towards-binding-deal/"
-    published: "2026-10-06"
-  - title: "Takeover of Hammer Metals heads to shareholder vote"
-    publisher: "Australian Mining"
-    url: "https://www.australianmining.com.au/takeover-of-hammer-metals-heads-to-shareholder-vote/"
-    published: "2026-10-06"
-  - title: "FC Graphite pushes towards first resource"
-    publisher: "The Northern Miner"
-    url: "https://www.northernminer.com/news/fc-graphite-pushes-towards-first-resource/1003895463/"
-    published: "2026-10-06"
+- title: Atlantic Nickel record production as underground transition advances
+  publisher: International Mining
+  url: https://im-mining.com/2026/10/06/atlantic-nickel-record-production-as-underground-transition-advances/
+  published: '2026-10-06'
+- title: 1911 Gold hits 5 metres of 7.55 g/t gold, stock lifts
+  publisher: Canadian Mining Journal
+  url: https://www.canadianminingjournal.com/news/1911-gold-hits-5-metres-of-7-55-g-t-gold-stock-lifts/
+  published: '2026-10-06'
+- title: Greenland Mines authorizes $20M share buyback
+  publisher: Canadian Mining Journal
+  url: https://www.canadianminingjournal.com/news/greenland-mines-authorizes-20m-share-buyback/
+  published: '2026-10-06'
+- title: Cambria targets late 2027 Premier mill restart
+  publisher: Mining.com
+  url: https://www.mining.com/cambria-targets-late-2027-premier-mill-restart/
+  published: '2026-10-05'
+- title: Metso wins $26M thickener modernization order in Chile
+  publisher: Canadian Mining Journal
+  url: https://www.canadianminingjournal.com/news/metso-wins-26m-thickener-modernization-order-in-chile/
+  published: '2026-10-05'
+- title: Tivan multi-million-dollar Molyhil JV moves towards binding deal
+  publisher: Australian Mining
+  url: https://www.australianmining.com.au/tivan-multi-million-dollar-molyhil-jv-moves-towards-binding-deal/
+  published: '2026-10-06'
+- title: Takeover of Hammer Metals heads to shareholder vote
+  publisher: Australian Mining
+  url: https://www.australianmining.com.au/takeover-of-hammer-metals-heads-to-shareholder-vote/
+  published: '2026-10-06'
+- title: FC Graphite pushes towards first resource
+  publisher: The Northern Miner
+  url: https://www.northernminer.com/news/fc-graphite-pushes-towards-first-resource/1003895463/
+  published: '2026-10-06'
 tags: []
-data_as_of: "October 5-6, 2026; individual items per their published dates above"
+data_as_of: October 5-6, 2026; individual items per their published dates above
+regions:
+- latin-america
 ---
 
 Atlantic Nickel and Appian Capital posted record monthly performance at the Santa Rita nickel sulphide mine in Bahia, Brazil: 12,464 tonnes of nickel concentrate in August and a record 86.72 percent metallurgical recovery, the highest since operations restarted in 2019. H1 adjusted EBITDA was $66.5 million on gross revenue of $163.3 million, with average C1 costs of $3.10 per pound holding the mine in the first quartile. The underground transition, with the inaugural South Portal blast completed in March and over 600 meters of tunnel since excavated, targets a mine life beyond 30 years at about 30,000 tonnes of nickel equivalent a year.

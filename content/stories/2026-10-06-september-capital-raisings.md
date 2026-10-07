@@ -1,20 +1,27 @@
 ---
-title: "September mining financings tumble 90% to $765 million"
-date: 2026-10-06T13:59:06-04:00
-last_updated: 2026-10-06T13:59:06-04:00
-beats: ["mining"]
-status: "story"
-lede: "Tracked mining financings fell nearly 90 percent year over year to $765 million in September, down 78 percent from August, in The Northern Miner's monthly ranking."
-why_it_matters: "The financing freeze shows developers are rationing raises into a volatile metals tape, with only government-backed critical-minerals deals getting done at size."
+title: September mining financings tumble 90% to $765 million
+date: 2026-10-06 13:59:06-04:00
+last_updated: 2026-10-06 13:59:06-04:00
+beats:
+- mining
+status: story
+lede: Tracked mining financings fell nearly 90 percent year over year to $765 million
+  in September, down 78 percent from August, in The Northern Miner's monthly ranking.
+why_it_matters: The financing freeze shows developers are rationing raises into a
+  volatile metals tape, with only government-backed critical-minerals deals getting
+  done at size.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Ranked: September capital raisings tumble 90%"
-    publisher: "The Northern Miner"
-    url: "https://www.northernminer.com/news/ranked-september-capital-raisings-tumble-90/1003895427/"
-    published: "2026-10-05"
+- title: 'Ranked: September capital raisings tumble 90%'
+  publisher: The Northern Miner
+  url: https://www.northernminer.com/news/ranked-september-capital-raisings-tumble-90/1003895427/
+  published: '2026-10-05'
 tags: []
-data_as_of: "September 2026; The Northern Miner tracked-financings series (data provider changed; figures may differ from earlier issues)"
+data_as_of: September 2026; The Northern Miner tracked-financings series (data provider
+  changed; figures may differ from earlier issues)
+regions:
+- latin-america
 ---
 
 Mining financings fell nearly 90 percent year over year to $765 million (C$1 billion) in September, down 78 percent from August, according to The Northern Miner's monthly ranking. Over the twelve months ended September 30, tracked financings totaled $23.34 billion, 6.9 percent below the previous twelve-month period. The Northern Miner changed data providers to expand its coverage, so the figures may differ from those published in earlier issues.

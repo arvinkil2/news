@@ -1,24 +1,33 @@
 ---
-title: "CD&R and McKesson take Option Care Health private for $5.8 billion"
-date: 2026-10-06T13:56:02-04:00
-last_updated: 2026-10-06T13:56:02-04:00
-beats: ["infra-deals"]
-status: "story"
-lede: "Clayton Dubilier & Rice and McKesson agreed to take infusion-therapy provider Option Care Health private for about $5.8 billion including debt, at $32.05 a share, a 37.1 percent premium to its last close."
-why_it_matters: "It is one of the largest healthcare take-privates of the year, pairing private-equity control with a strategic drug distributor taking a 49 percent stake and a path to full ownership."
+title: CD&R and McKesson take Option Care Health private for $5.8 billion
+date: 2026-10-06 13:56:02-04:00
+last_updated: 2026-10-06 13:56:02-04:00
+beats:
+- infra-deals
+status: story
+lede: Clayton Dubilier & Rice and McKesson agreed to take infusion-therapy provider
+  Option Care Health private for about $5.8 billion including debt, at $32.05 a share,
+  a 37.1 percent premium to its last close.
+why_it_matters: It is one of the largest healthcare take-privates of the year, pairing
+  private-equity control with a strategic drug distributor taking a 49 percent stake
+  and a path to full ownership.
 featured: true
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "McKesson, CD&R to take infusion therapy provider Option Care private in $5.8 billion deal"
-    publisher: "Reuters"
-    url: "https://kwsn.com/2026/10/06/mckesson-cdr-to-buy-infusion-therapy-provider-option-care-health-in-5-8-billion-deal/"
-    published: "2026-10-06"
-  - title: "CD&R and McKesson ink $5.8bn take-private deal for Option Care Health"
-    publisher: "PE Hub"
-    url: "https://www.pehub.com/cdr-and-mckesson-ink-5-8bn-take-private-deal-for-option-care-health/"
-    published: "2026-10-06"
+- title: McKesson, CD&R to take infusion therapy provider Option Care private in $5.8
+    billion deal
+  publisher: Reuters
+  url: https://kwsn.com/2026/10/06/mckesson-cdr-to-buy-infusion-therapy-provider-option-care-health-in-5-8-billion-deal/
+  published: '2026-10-06'
+- title: CD&R and McKesson ink $5.8bn take-private deal for Option Care Health
+  publisher: PE Hub
+  url: https://www.pehub.com/cdr-and-mckesson-ink-5-8bn-take-private-deal-for-option-care-health/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Definitive agreement announced October 6, 2026; reported by Reuters October 6, first reported by FT October 5. Deal expected to close H1 2027."
+data_as_of: Definitive agreement announced October 6, 2026; reported by Reuters October
+  6, first reported by FT October 5. Deal expected to close H1 2027.
+regions:
+- north-america
 ---
 
 Clayton Dubilier & Rice and McKesson agreed on October 6 to take Option Care Health private in a transaction worth about $5.8 billion including debt. The $32.05-per-share offer represents a 37.1 percent premium to Option Care's last closing price, and shares rose 32.8 percent to $31.03 on the announcement, Reuters reported.

@@ -1,36 +1,44 @@
 ---
-title: "Rates also notable: Bowman speech, BoC repo plans, NBFC credit"
-date: 2026-10-06T13:48:38-04:00
-last_updated: 2026-10-06T13:48:38-04:00
-beats: ["rates"]
-status: "story"
-lede: "Fed supervision chief Bowman laid out a deregulation agenda Tuesday, the Bank of Canada detailed repo-market reforms, and Indian NBFC credit grew 15.8 percent year-on-year in August."
-why_it_matters: "Regulatory direction and funding-market plumbing shape bank balance-sheet capacity and rate transmission, even when they are not the day's headline move."
+title: 'Rates also notable: Bowman speech, BoC repo plans, NBFC credit'
+date: 2026-10-06 13:48:38-04:00
+last_updated: 2026-10-06 13:48:38-04:00
+beats:
+- rates
+status: story
+lede: Fed supervision chief Bowman laid out a deregulation agenda Tuesday, the Bank
+  of Canada detailed repo-market reforms, and Indian NBFC credit grew 15.8 percent
+  year-on-year in August.
+why_it_matters: Regulatory direction and funding-market plumbing shape bank balance-sheet
+  capacity and rate transmission, even when they are not the day's headline move.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Bowman, Modernizing the Regulatory and Supervisory Landscape"
-    publisher: "Federal Reserve"
-    url: "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm"
-    published: "2026-10-06"
-  - title: "Repo markets and monetary policy implementation"
-    publisher: "Bank for International Settlements"
-    url: "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
-    published: "2026-10-06"
-  - title: "Sectoral Deployment of Credit by NBFC - August 2026"
-    publisher: "Reserve Bank of India"
-    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63739"
-    published: "2026-10-06"
-  - title: "BC passa a divulgar mensalmente indicadores de reajustes salariais negociados"
-    publisher: "Banco Central do Brasil"
-    url: "https://www.bcb.gov.br/detalhenoticia/21280/noticia"
-    published: "2026-10-06"
-  - title: "Man Group Disputes View That High Inflation Is Bad for Bonds"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-10-06/man-group-disputes-view-that-high-inflation-is-bad-for-us-bonds"
-    published: "2026-10-06"
+- title: Bowman, Modernizing the Regulatory and Supervisory Landscape
+  publisher: Federal Reserve
+  url: https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm
+  published: '2026-10-06'
+- title: Repo markets and monetary policy implementation
+  publisher: Bank for International Settlements
+  url: https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation
+  published: '2026-10-06'
+- title: Sectoral Deployment of Credit by NBFC - August 2026
+  publisher: Reserve Bank of India
+  url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63739
+  published: '2026-10-06'
+- title: BC passa a divulgar mensalmente indicadores de reajustes salariais negociados
+  publisher: Banco Central do Brasil
+  url: https://www.bcb.gov.br/detalhenoticia/21280/noticia
+  published: '2026-10-06'
+- title: Man Group Disputes View That High Inflation Is Bad for Bonds
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2026-10-06/man-group-disputes-view-that-high-inflation-is-bad-for-us-bonds
+  published: '2026-10-06'
 tags: []
-data_as_of: "October 6, 2026; Man Group item single-sourced to Bloomberg reporting (article behind paywall, not opened); StatCan release page did not render in this pass, figure not included"
+data_as_of: October 6, 2026; Man Group item single-sourced to Bloomberg reporting
+  (article behind paywall, not opened); StatCan release page did not render in this
+  pass, figure not included
+regions:
+- global
 ---
 
 Federal Reserve Vice Chair for Supervision Michelle Bowman delivered her "Modernizing the Regulatory and Supervisory Landscape" speech Tuesday at the Community Banking Research Conference, following her October 3 call for a broader agency overhaul. The new speech focused on community banks: the Fed updated the community bank leverage ratio to the statutory 8 percent with the OCC and FDIC, eliminated the Novel Activities Supervision Program, backs de novo bank formation, and will consider indexing outdated asset thresholds with five-year updates. She also pushed revisions to the CAMELS rating system so the Management rating no longer singularly drives a composite score, and announced a restructuring of Fed supervision for clearer accountability after an independent review of the Silicon Valley Bank failure. For rates, the direction matters more than the detail: looser supervisory friction on bank balance sheets feeds through to bank Treasury demand and credit conditions at the margin.

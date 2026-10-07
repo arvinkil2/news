@@ -1,24 +1,29 @@
 ---
-title: "Silver sets fresh record near $62 on industrial and haven bids"
-date: 2026-10-06T12:41:35-04:00
-last_updated: 2026-10-06T12:41:35-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Silver set a fresh record near $62 an ounce Monday, closing at $61.46, up 2.5 percent, while gold held steady at $4,171."
-why_it_matters: "Silver's record alongside flat gold says industrial demand, not just fear, is doing the work, with solar and AI hardware compounding the haven bid."
+title: Silver sets fresh record near $62 on industrial and haven bids
+date: 2026-10-06 12:41:35-04:00
+last_updated: 2026-10-06 12:41:35-04:00
+beats:
+- commodities
+status: story
+lede: Silver set a fresh record near $62 an ounce Monday, closing at $61.46, up 2.5
+  percent, while gold held steady at $4,171.
+why_it_matters: Silver's record alongside flat gold says industrial demand, not just
+  fear, is doing the work, with solar and AI hardware compounding the haven bid.
 featured: false
-evidence_grade: "B"
+evidence_grade: B
 sources:
-  - title: "Precious metals market reporting, October 5"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com"
-    published: "2026-10-05"
-  - title: "Morning market report"
-    publisher: "Kitco"
-    url: "https://www.kitco.com"
-    published: "2026-10-06"
+- title: Precious metals market reporting, October 5
+  publisher: Bloomberg
+  url: https://www.bloomberg.com
+  published: '2026-10-05'
+- title: Morning market report
+  publisher: Kitco
+  url: https://www.kitco.com
+  published: '2026-10-06'
 tags: []
-data_as_of: "Monday, October 5 closes; Tuesday morning spot per Kitco"
+data_as_of: Monday, October 5 closes; Tuesday morning spot per Kitco
+regions:
+- europe
 ---
 
 Silver printed a fresh record near $62 an ounce on Monday, closing at $61.46 for a 2.5 percent gain, while gold closed steady at $4,171. The divergence between the two metals is the story: silver's industrial bid from solar and AI hardware is compounding its haven bid, while gold is capped by real yields and a firm dollar.

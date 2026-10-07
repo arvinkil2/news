@@ -1,28 +1,36 @@
 ---
-title: "Paramount–Warner Bros. merger closes, becomes Skydance"
-date: 2026-10-06T12:58:00-04:00
-last_updated: 2026-10-06T13:45:50-04:00
-beats: ["technology"]
-status: "story"
-lede: "Paramount completed its $110 billion acquisition of Warner Bros. Discovery on Tuesday, a figure confirmed by Paramount's own announcement, and the combined company becomes Skydance Corporation with nearly $70 billion in annual revenue and Class B shares trading on the NYSE under the ticker SKYD."
-why_it_matters: "The year's biggest media merger is done, and the new company now faces a $6 billion cost-cutting target against more than $80 billion in combined debt."
+title: Paramount–Warner Bros. merger closes, becomes Skydance
+date: 2026-10-06 12:58:00-04:00
+last_updated: 2026-10-06 13:45:50-04:00
+beats:
+- technology
+status: story
+lede: Paramount completed its $110 billion acquisition of Warner Bros. Discovery on
+  Tuesday, a figure confirmed by Paramount's own announcement, and the combined company
+  becomes Skydance Corporation with nearly $70 billion in annual revenue and Class
+  B shares trading on the NYSE under the ticker SKYD.
+why_it_matters: The year's biggest media merger is done, and the new company now faces
+  a $6 billion cost-cutting target against more than $80 billion in combined debt.
 featured: false
-evidence_grade: "A"
+evidence_grade: A
 sources:
-  - title: "Paramount closes historic Warner Bros. merger to form Skydance"
-    publisher: "TechCrunch"
-    url: "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/"
-    published: "2026-10-06"
-  - title: "Paramount and Warner Bros. Discovery to become Skydance"
-    publisher: "TechCrunch"
-    url: "http://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
-    published: "2026-10-02"
-  - title: "Ellison and Kreiz reveal CEO structure for Skydance as Warner Bros. Discovery merger closes"
-    publisher: "Memorable TV"
-    url: "https://www.memorabletv.com/news/ellison-kreiz-reveal-ceo-structure-skydance-warner-bros-discovery/"
-    published: "2026-10-06"
+- title: Paramount closes historic Warner Bros. merger to form Skydance
+  publisher: TechCrunch
+  url: https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/
+  published: '2026-10-06'
+- title: Paramount and Warner Bros. Discovery to become Skydance
+  publisher: TechCrunch
+  url: http://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/
+  published: '2026-10-02'
+- title: Ellison and Kreiz reveal CEO structure for Skydance as Warner Bros. Discovery
+    merger closes
+  publisher: Memorable TV
+  url: https://www.memorabletv.com/news/ellison-kreiz-reveal-ceo-structure-skydance-warner-bros-discovery/
+  published: '2026-10-06'
 tags: []
-data_as_of: "Closed October 6, 2026; antitrust consent decree approved September 30"
+data_as_of: Closed October 6, 2026; antitrust consent decree approved September 30
+regions:
+- global
 ---
 
 David Ellison remains chairman and CEO, responsible for long-term strategy, creative direction and capital allocation, while former Mattel CEO Ynon Kreiz joins as co-CEO to manage day-to-day operations and integration. Paramount and Warner Bros. will continue as distinct studio brands beneath the Skydance corporate name, alongside HBO, HBO Max, CBS, CNN and DC Studios. Warner Bros. Discovery shares exit the S&P 500 and Nasdaq 100.

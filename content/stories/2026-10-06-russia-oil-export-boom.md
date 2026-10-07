@@ -1,24 +1,34 @@
 ---
-title: "Russia's crude export boom blunted by diesel sales ban"
-date: 2026-10-06T13:46:37-04:00
-last_updated: 2026-10-06T13:46:37-04:00
-beats: ["commodities"]
-status: "story"
-lede: "Russia's crude exports averaged 3.71 million barrels a day in the four weeks to September 27, the most since early August, but the revenue windfall is being offset by its ban on diesel exports, Bloomberg reported October 6."
-why_it_matters: "Moscow is exporting more crude at higher prices while withdrawing roughly a tenth of global seaborne diesel supply, keeping the world's tightest refined-product market starved into winter."
+title: Russia's crude export boom blunted by diesel sales ban
+date: 2026-10-06 13:46:37-04:00
+last_updated: 2026-10-06 13:46:37-04:00
+beats:
+- commodities
+status: story
+lede: Russia's crude exports averaged 3.71 million barrels a day in the four weeks
+  to September 27, the most since early August, but the revenue windfall is being
+  offset by its ban on diesel exports, Bloomberg reported October 6.
+why_it_matters: Moscow is exporting more crude at higher prices while withdrawing
+  roughly a tenth of global seaborne diesel supply, keeping the world's tightest refined-product
+  market starved into winter.
 featured: false
-evidence_grade: "C"
+evidence_grade: C
 sources:
-  - title: "Russia's Oil-Export Boom Undercut by Payouts, Diesel Sales Ban"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-10-06/russia-s-oil-export-boom-undercut-by-payouts-diesel-sales-ban"
-    published: "2026-10-06"
-  - title: "Russia extends diesel export ban for direct producers amid global supply concerns"
-    publisher: "Enerdata"
-    url: "https://www.enerdata.net/publications/daily-energy-news/russia-extends-diesel-export-ban-direct-producers-amid-global-supply-concerns.html"
-    published: "2026-10-01"
+- title: Russia's Oil-Export Boom Undercut by Payouts, Diesel Sales Ban
+  publisher: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2026-10-06/russia-s-oil-export-boom-undercut-by-payouts-diesel-sales-ban
+  published: '2026-10-06'
+- title: Russia extends diesel export ban for direct producers amid global supply
+    concerns
+  publisher: Enerdata
+  url: https://www.enerdata.net/publications/daily-energy-news/russia-extends-diesel-export-ban-direct-producers-amid-global-supply-concerns.html
+  published: '2026-10-01'
 tags: []
-data_as_of: "Four weeks through September 27, 2026; 3.71 mb/d figure single-sourced: Bloomberg tanker-tracking data. Diesel ban extension through October 31 confirmed independently by Enerdata; broader non-producer ban runs to January 31, 2027"
+data_as_of: 'Four weeks through September 27, 2026; 3.71 mb/d figure single-sourced:
+  Bloomberg tanker-tracking data. Diesel ban extension through October 31 confirmed
+  independently by Enerdata; broader non-producer ban runs to January 31, 2027'
+regions:
+- global
 ---
 
 Russia shipped the most crude in a month and a half in the four weeks through September 27, with overseas flows averaging 3.71 million barrels a day, the most since early August, Bloomberg's tanker-tracking data showed. Four-week average prices for the key Urals and ESPO grades hit their highest in more than three months, propelled by disruption to Saudi crude shipments during repairs to a pipeline attacked earlier in the month, pushing the value of the cargoes close to the highest since the invasion of Ukraine began in 2022.
