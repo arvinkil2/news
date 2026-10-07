@@ -1,14 +1,15 @@
 ---
 title: France halts police use of stun grenades after schoolboy maimed
 date: 2026-10-07 11:50:48-04:00
-last_updated: 2026-10-07 11:50:48-04:00
+last_updated: 2026-10-07 18:44:48-04:00
 beats:
 - politics
 status: story
 developing: true
 update_bump: true
 lede: France suspended police use of stun grenades at student protests after a 15-year-old's
-  hand was torn off by an anti-encirclement grenade Monday in Lens, near Lille.
+  hand was torn off by an anti-encirclement grenade Monday in Lens, near Lille, as
+  cumulative arrests since the demonstrations began passed 6,100.
 why_it_matters: The halt intensifies scrutiny of protest policing as France's school
   demonstrations escalate, with a fourth nationwide round planned Thursday and police
   unions warning of closer-quarters clashes.
@@ -20,11 +21,15 @@ sources:
   url: https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss
   published: '2026-10-07'
 tags: []
-data_as_of: BBC reporting published October 7, 2026. Single-sourced to BBC News; protester
-  and police casualty figures not independently corroborated in this pass.
+data_as_of: BBC reporting published October 7, 2026; France24 reported October 7 that cumulative
+  arrests since mid-September exceed 6,100 (headline figure only, article unreachable;
+  single-sourced and uncorroborated). Protester and police casualty figures not independently
+  corroborated in this pass.
 regions:
 - europe
 ---
+
+France24 reported Wednesday that more than 6,100 people have been arrested since the school demonstrations began in mid-September, a cumulative tally that frames the scale of the unrest. The article itself was unreachable from this desk, so the figure stands on France24's reporting alone pending corroboration.
 
 Interior Minister Laurent Nuñez ordered the pause "until the facts have been clarified," the BBC reported Wednesday, after conflicting accounts of the Lens incident: authorities say the boy picked up the grenade, while students allege he was hit directly by an officer's shot. The police watchdog IGPN has opened 18 investigations into whether officers used proportionate force during the protests.
 
