@@ -1,12 +1,12 @@
 ---
 title: Russian strike on Kramatorsk bus stop kills at least 30
 date: 2026-10-08T00:52:47-04:00
-last_updated: 2026-10-08T07:48:13-0400
+last_updated: 2026-10-08T13:50:39-04:00
+update_bump: true
 beats:
 - politics
 status: developing
 developing: true
-update_bump: true
 lede: A Russian glide-bomb strike on a bus stop in Kramatorsk killed at least 30 people, with AFP reporting 33, in one of the year's deadliest single attacks on civilians; the overnight barrage's toll in Pryluky rose to 22.
 why_it_matters: The Kramatorsk strike deliberately hit a crowded street where two city buses were operating, and prompted the halt of public transport in Kramatorsk and Sloviansk; Kyiv faces worsening blackouts as Russia's pre-winter air campaign intensifies.
 featured: true
@@ -28,11 +28,17 @@ sources:
   publisher: Sweden Herald
   url: https://swedenherald.com/article/at-least-12-killed-in-russian-attack-on-bus-in-ukraines-kramatorsk
   published: '2026-10-08'
+- title: Strike on Ukrainian public buses leaves 30 dead as blackouts worsen in Kyiv
+  publisher: Arab News (Associated Press)
+  url: https://www.arabnews.com/world/strike-on-ukrainian-public-buses-leaves-30-dead-as-blackouts-worsen-in-kyiv-3005330
+  published: '2026-10-08'
 tags: []
-data_as_of: October 8, 2026. Kramatorsk toll updated to 30-33 (AP via KNKX; AFP via Virgin Radio Dubai), Pryluky toll to 22 (AP), Kyiv morning strikes 3 killed 14 wounded (Mayor Klitschko via AFP); earlier figures from Ukraine's Interior Ministry and regional governors. Russia's defence ministry claims the overnight targets were military-industrial facilities. Awaiting independent corroboration.
+data_as_of: "October 8, 2026, 1:50pm ET. Kramatorsk toll updated to 30-33 (AP via Arab News and KNKX; AFP via Virgin Radio Dubai), Pryluky toll to 22 (AP), Kyiv morning strikes 3 killed 14 wounded (Mayor Klitschko via AFP); earlier figures from Ukraine's Interior Ministry and regional governors. Afternoon additions: emergency power outages in Kyiv ordered by grid operator Ukrenergo per DTEK (AP); Zelensky visited Pryluky with UK Foreign Secretary Ed Miliband and appealed for NATO defense support; Kyiv police reported defusing two unexploded ballistic-missile warheads and a late-Wednesday drone strike killing 4; Ukrainian strikes reported on a Yandex data center in Ryazan, the Salavat refinery and the Omsk region, with Russian official confirmation pending on several claims. Russia's defence ministry claims the overnight targets were military-industrial facilities. Awaiting independent corroboration."
 regions:
 - europe
 ---
+
+**Latest (Thursday afternoon ET):** The blackout picture in Kyiv worsened as the day went on: national grid operator Ukrenergo ordered emergency power outages in the capital, DTEK said, with scheduled rolling outages suspended during the emergency shutdowns, and officials urged families to prepare emergency kits and backup power. President Zelenskyy traveled to Pryluky on Thursday with visiting British Foreign Secretary Ed Miliband, warning Russia will likely escalate daily missile and drone attacks as winter approaches and appealing for concrete NATO defense packages, including anti-ballistic systems and interceptor funding. Kyiv police said bomb-disposal teams defused two unexploded ballistic-missile warheads, each about half a ton, near residential buildings, and reported a late-Wednesday drone strike on the Obolonskyi and Desnianskyi districts that killed four and wounded 12, including four children. On the other side of the exchange, Ukraine claimed strikes deep inside Russia: a Yandex data center in the Ryazan region was damaged and taken offline in a Ukrainian drone attack, Ukraine's General Staff said its forces struck the Salavat oil refinery complex about 1,200 kilometers east of Moscow, and drones reached the Omsk region in western Siberia, where independent outlet Astra reported the Omsk refinery on fire. Several of the Russian-side damage claims lack official confirmation.
 
 **Latest:** The Kramatorsk toll has risen sharply. A Russian satellite-guided glide bomb struck a street in Kramatorsk where two city buses were operating, killing at least 33 people and wounding 18, AFP reported Thursday, citing authorities; the Associated Press put the toll at 30 killed and at least 18 injured. President Zelenskyy described the site as a bus stop. Regional governor Vadym Filashkin accused Russia of deliberately targeting civilians and ordered public transport halted in Kramatorsk and the nearby city of Sloviansk. Russia has not commented; it denies targeting civilians. The overnight toll in Pryluky also rose to 22, including five children, and Kyiv mayor Vitali Klitschko said morning drone strikes on the capital killed three and wounded 14.
 
