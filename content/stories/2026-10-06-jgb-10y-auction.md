@@ -1,20 +1,25 @@
 ---
 title: Japan sets 10-year JGB coupon at 3.1 percent, highest in 30 years
 date: 2026-10-06 13:48:38-04:00
-last_updated: 2026-10-06 13:48:38-04:00
+last_updated: 2026-10-08T01:51:52-04:00
 beats:
 - rates
 status: story
-lede: Japan's Finance Ministry set the coupon on new 10-year JGBs at 3.1 percent,
-  the highest since August 1996, in an auction Tuesday that drew a 3.76x bid-to-cover,
-  the strongest demand since May.
-why_it_matters: A 3.1 percent 10-year coupon resets the benchmark for the world's
-  second-largest bond market and the government budget that funds it, and the strong
-  demand briefly steadied a curve where 20- and 30-year yields are near three-decade
-  records.
+update_bump: true
+lede: Japan's 30-year bond auction drew firm demand Thursday at a 4.2 percent coupon
+  with a 3.88x bid-to-cover, steadying the long end two days after the 10-year coupon
+  was set at a 30-year high of 3.1 percent.
+why_it_matters: Two clean auctions in three days ease the immediate pressure on the
+  world's second-largest bond market, but the 4.2 percent 30-year coupon shows how
+  far the government's funding costs have repriced as fiscal 2027 budget requests
+  head toward 140 trillion yen.
 featured: false
 evidence_grade: A
 sources:
+- title: Auction Result of 30-Year JGBs on October 8, 2026
+  publisher: Japan Ministry of Finance
+  url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261008.htm
+  published: '2026-10-08'
 - title: Auction Result of 10-Year JGBs on October 6, 2026
   publisher: Japan Ministry of Finance
   url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261006.htm
@@ -24,11 +29,17 @@ sources:
   url: https://www.fxstreet.com/analysis/boj-rate-hike-expectations-continue-to-retreat-ahead-of-ueda-202610060543
   published: '2026-10-06'
 tags: []
-data_as_of: Auction held October 6, 2026, settled October 7, 2026; figures from the
-  Ministry of Finance release and corroborating market coverage
+data_as_of: 'October 8, 2026. 30-year auction: 1,747.2 billion yen of competitive bids
+  against 450.7 billion accepted, a 3.88x bid-to-cover; yield at lowest accepted price
+  4.121 percent, weighted average yield 4.109 percent, from the Ministry of Finance
+  release. 10-year details from the October 6 release and corroborating market coverage'
 regions:
 - asia-pacific
 ---
+
+## Latest
+
+Japan's Finance Ministry sold 30-year bonds Thursday with a 4.2 percent coupon, the highest on the tenor in about 30 years, and demand was firm: competitive bidding totaled 1,747.2 billion yen against 450.7 billion accepted, a bid-to-cover ratio of 3.88x. The yield at the lowest accepted price was 4.121 percent and the weighted average yield 4.109 percent. The clean result steadies the long end that had been the tensest part of the curve, where the 30-year yield hovered near its record open around 4.24 percent earlier in the week.
 
 Japan's Finance Ministry set the coupon on its new 10-year bond at 3.1 percent in Tuesday's auction, the highest level in about 30 years, as the world's second-largest sovereign bond market continues to reprice around rising inflation and interest rates. The coupon, the interest rate the government pays annually on new issuance, rose from 2.7 percent at the previous auction in September, according to Kyodo News. The Ministry reviews the 10-year coupon quarterly to keep it aligned with prevailing market rates.
 
