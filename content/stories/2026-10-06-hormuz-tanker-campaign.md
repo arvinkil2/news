@@ -1,20 +1,20 @@
 ---
 title: Hormuz tanker campaign intensifies as six vessels hit since Sunday
 date: 2026-10-06 13:46:37-04:00
-last_updated: 2026-10-07 23:54:42-04:00
+last_updated: 2026-10-08T00:52:17-04:00
 beats:
 - commodities
 status: story
 update_bump: true
-lede: A tanker 94 km off Qatar's north coast was struck by multiple projectiles Wednesday
-  with casualties reported, the first attack in the western Persian Gulf in weeks,
-  as UKMTO logged nine Hormuz tanker attacks so far this month.
-why_it_matters: The campaign's spread into Qatari waters shows war-risk repricing
-  is no longer confined to the Strait of Hormuz, even as Middle East crude exports
-  hold at pre-war levels and the physical market keeps absorbing the attacks.
+lede: Hormuz tanker transits fell to their lowest since July 23 as attacks on the waterway hit their most intense week since the Iran war began, with crude flows through the strait down 27 percent from their wartime high, per Kpler data.
+why_it_matters: The transit collapse shows the tanker campaign is now biting into physical flows, not just freight and insurance, even as rerouted Gulf of Oman and Red Sea exports keep total Middle East crude at pre-war levels.
 featured: true
 evidence_grade: B
 sources:
+- title: Hormuz transits at lowest in over two months after attacks, data shows
+  publisher: Arab News (Kpler data)
+  url: https://www.arabnews.com/middle-east/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-3005180
+  published: '2026-10-08'
 - title: A Dozen Seafarers Injured in Strait of Hormuz Tanker Attack, India Says
   publisher: gCaptain
   url: https://gcaptain.com/a-dozen-seafarers-injured-in-strait-of-hormuz-tanker-attack-india-says/
@@ -41,7 +41,9 @@ sources:
   url: https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss
   published: '2026-10-08'
 tags: []
-data_as_of: 'Through October 6, 2026; Brent/WTI are October 5 settlements. Casualty
+data_as_of: 'Through October 7, 2026. Transit figures: Kpler via Arab News, October 8
+  (7 vessels Tuesday, lowest since July 23; crude 10.1M bpd, down 27% from wartime
+  high, 74% of pre-war). Earlier figures: October 5 settlements for Brent/WTI. Casualty
   count: 12 injured per gCaptain citing India''s Ministry of External Affairs; Indian
   outlets (indiandefensenews.in, INDIA New England News via Event Registry) report
   11 injured. Qatar tanker strike reported October 7-8 (UKMTO via Al Jazeera); casualty
@@ -52,6 +54,8 @@ regions:
 ---
 
 ## Latest
+
+Hormuz transits fell to their lowest in more than two months, Kpler data showed Thursday. Just seven commodity vessels crossed the strait on Tuesday, the fewest since July 23, and crude flows dropped 27 percent from the prior week's wartime high to 10.1 million barrels a day, back to the September average and 74 percent of the pre-war level. Most of the decline came from ship-to-ship transfers in the Gulf of Oman. Transits edged up to 10 vessels on Wednesday, still well short of the 20-plus daily tally from Sunday and Monday. The lost Hormuz barrels are being offset for now: Gulf of Oman coast and Red Sea exports rose to 6.7 million bpd, more than double pre-war levels, keeping overall Middle East crude at the pre-war level. Attacks on tankers in the strait reached their highest weekly level since the Iran war began, maritime security sources said.
 
 The tanker campaign spread into the western Persian Gulf on Wednesday. A tanker 94 kilometres (58 miles) north of Madinat ash Shamal, off Qatar's north coast, was struck by multiple projectiles, the United Kingdom Maritime Trade Operations agency said, with a number of casualties reported. UKMTO did not specify how many were killed or injured, did not identify the vessel, and said authorities were investigating. The location falls within Qatar's exclusive economic zone; Qatar had not commented. The Maritime Executive, a commercial shipping publication, said it was the first reported attack on a tanker in the western half of the Gulf in weeks. UKMTO said Tuesday there had been nine attacks on tankers in the Strait of Hormuz this month, half of September's total for the waterway and the Gulf combined. Despite the attacks, Middle East crude exports have held at or above pre-war levels: the seven-day moving average reached 18.3 million barrels per day on September 30, versus about 18 million bpd in the 12 months before the war, per Kpler.
 
