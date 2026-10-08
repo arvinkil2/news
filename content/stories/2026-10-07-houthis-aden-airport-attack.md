@@ -1,18 +1,19 @@
 ---
 title: Houthis strike Saudi airports, three killed as Yemen fighting widens
 date: 2026-10-07 07:08:09-04:00
-last_updated: 2026-10-07 16:50:10-04:00
+last_updated: 2026-10-07 23:54:42-04:00
 beats:
 - commodities
 status: story
 update_bump: true
 lede: Yemen's Houthis struck Aden International Airport and two airports inside Saudi
-  Arabia on Wednesday; Saudi authorities say three people were killed, an Egyptian
-  and an Algerian at Abha and a Sudanese national at Riyadh's King Khalid airport,
-  with 36 wounded.
+  Arabia on Wednesday, killing three people, and Saudi Arabia launched retaliatory
+  strikes late Wednesday as the exchange widened beyond the coalition's Yemen air
+  campaign.
 why_it_matters: Strikes reaching the Saudi capital's main airport widen the war's
-  threat to civil aviation and energy infrastructure, with the Houthis also claiming
-  an Aramco refinery hit, just as the Bab el-Mandeb strait becomes the critical alternative
+  threat to civil aviation and energy infrastructure, and Riyadh's retaliatory strikes
+  add a new rung to the escalation ladder, with the Houthis also claiming an Aramco
+  refinery hit, just as the Bab el-Mandeb strait becomes the critical alternative
   route for Middle East energy exports.
 featured: true
 evidence_grade: B
@@ -33,15 +34,22 @@ sources:
   publisher: MCI Group (Anadolu Ajansi)
   url: https://mcigroup.my/world-news/houthis-claim-attacks-on-saudi-airports-state-oil-refinery-military-sites/
   published: '2026-10-06'
+- title: Saudi Arabia strikes back after deadly Houthi attacks on airports
+  publisher: France24
+  url: https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports
+  published: '2026-10-08'
 tags: []
 data_as_of: Attacks reported October 7, 2026; Saudi casualty figures from the kingdom's
-  civil aviation authority via AFP reporting; battlefield control and refinery claims
-  single-sourced to the warring parties
+  civil aviation authority via AFP reporting; Saudi retaliatory strikes reported late
+  October 7 (France24), target details still emerging; battlefield control and refinery
+  claims single-sourced to the warring parties
 regions:
 - middle-east
 ---
 
 ## Latest
+
+Saudi Arabia struck back late Wednesday with retaliatory strikes after the deadly Houthi attacks on Abha and Riyadh's King Khalid airports, France24 reported, widening the exchange beyond the coalition's ongoing air campaign inside Yemen. Details of the targets hit were still emerging overnight.
 
 The conflict crossed into Saudi Arabia with deadly effect. Saudi Arabia's civil aviation authority said Wednesday that Abha International Airport and Riyadh's King Khalid International Airport were attacked on Tuesday and Wednesday, killing three people: an Egyptian and an Algerian national at Abha, and a Sudanese national at Riyadh's airport. Thirty-six people were wounded. The statement did not attribute blame, but the Houthis claimed responsibility for a flurry of strikes that included a ballistic missile fired at King Khalid airport, per AFP. The Saudi-led coalition said it destroyed the ballistic missile launch platform used in the Riyadh attack.
 

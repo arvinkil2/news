@@ -1,17 +1,17 @@
 ---
 title: Hormuz tanker campaign intensifies as six vessels hit since Sunday
 date: 2026-10-06 13:46:37-04:00
-last_updated: 2026-10-06 13:46:37-04:00
+last_updated: 2026-10-07 23:54:42-04:00
 beats:
 - commodities
 status: story
-lede: The Strait of Hormuz tanker campaign produced its first casualty event Monday,
-  with a dozen seafarers injured in a projectile strike on the Panama-flagged tanker
-  On Peace, as UKMTO detailed five incidents and the IRGC ordered another vessel to
-  turn back.
-why_it_matters: The campaign is repricing war risk across energy shipping even as
-  crude prices refuse a war premium, with freight, insurance and now crew casualties
-  the transmission into commodity costs.
+update_bump: true
+lede: A tanker 94 km off Qatar's north coast was struck by multiple projectiles Wednesday
+  with casualties reported, the first attack in the western Persian Gulf in weeks,
+  as UKMTO logged nine Hormuz tanker attacks so far this month.
+why_it_matters: The campaign's spread into Qatari waters shows war-risk repricing
+  is no longer confined to the Strait of Hormuz, even as Middle East crude exports
+  hold at pre-war levels and the physical market keeps absorbing the attacks.
 featured: true
 evidence_grade: B
 sources:
@@ -36,15 +36,26 @@ sources:
   publisher: US Central Command
   url: https://www.centcom.mil
   published: '2026-10-05'
+- title: Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says
+  publisher: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss
+  published: '2026-10-08'
 tags: []
 data_as_of: 'Through October 6, 2026; Brent/WTI are October 5 settlements. Casualty
   count: 12 injured per gCaptain citing India''s Ministry of External Affairs; Indian
   outlets (indiandefensenews.in, INDIA New England News via Event Registry) report
-  11 injured'
+  11 injured. Qatar tanker strike reported October 7-8 (UKMTO via Al Jazeera); casualty
+  count unconfirmed, vessel unidentified'
 regions:
 - asia-pacific
 - middle-east
 ---
+
+## Latest
+
+The tanker campaign spread into the western Persian Gulf on Wednesday. A tanker 94 kilometres (58 miles) north of Madinat ash Shamal, off Qatar's north coast, was struck by multiple projectiles, the United Kingdom Maritime Trade Operations agency said, with a number of casualties reported. UKMTO did not specify how many were killed or injured, did not identify the vessel, and said authorities were investigating. The location falls within Qatar's exclusive economic zone; Qatar had not commented. The Maritime Executive, a commercial shipping publication, said it was the first reported attack on a tanker in the western half of the Gulf in weeks. UKMTO said Tuesday there had been nine attacks on tankers in the Strait of Hormuz this month, half of September's total for the waterway and the Gulf combined. Despite the attacks, Middle East crude exports have held at or above pre-war levels: the seven-day moving average reached 18.3 million barrels per day on September 30, versus about 18 million bpd in the 12 months before the war, per Kpler.
+
+## Earlier
 
 The tanker campaign in the Strait of Hormuz intensified Monday as UKMTO logged five separate incidents, including a projectile strike that set a tanker's engine room on fire. The casualty toll escalated sharply: twelve seafarers were injured after the Panama-flagged Aframax tanker On Peace (IMO 9893204) was struck by a projectile while transiting the strait, according to India's Ministry of External Affairs, with eleven of the injured Indian nationals among a crew of 19. The injured were evacuated with Omani assistance to Khasab for medical treatment. India called for an immediate end to attacks on commercial shipping, without attributing the strike. Indian outlets, including indiandefensenews.in and INDIA New England News, report 11 injured rather than 12.
 
