@@ -1,19 +1,19 @@
 ---
 title: Houthi strikes on Saudi airports kill three
 date: 2026-10-07T22:52:29-04:00
-last_updated: 2026-10-08T11:48:47-04:00
+last_updated: 2026-10-08T19:45:40-04:00
 beats:
 - politics
 status: developing
 developing: true
 update_bump: true
-lede: The Houthis claimed Thursday that a ballistic missile struck Riyadh's King Khalid
-  International Airport, killing three and injuring several, a claim Saudi authorities
-  have not confirmed, as their spokesman warned airlines "for the last time" to avoid
-  Saudi airspace and flight disruptions mounted at the airport.
-why_it_matters: The strikes bring the Yemen war's renewed escalation directly onto Saudi
-  soil and test the Mecca defense pact activated two months ago; the daily tit-for-tat
-  is now hitting civilian aviation, and Riyadh is pressing Turkey and Pakistan for support.
+lede: Explosions rattled Riyadh again Thursday as the Houthis claimed another ballistic-missile
+  strike on King Khalid International Airport, the Saudi-led coalition said it intercepted
+  two missiles bound for the capital, and crude prices jumped on the widening conflict.
+why_it_matters: "The second strike on the capital's airport in as many days makes the
+  war a daily event over Riyadh, spiked oil prices, and exposed Washington's reluctance -
+  Trump has rebuffed Saudi requests to join the fight even as the US military prepares
+  options against Iran."
 featured: false
 evidence_grade: B
 sources:
@@ -37,11 +37,30 @@ sources:
   publisher: DW News
   url: https://www.dw.com/en/yemen-s-houthis-claim-strike-on-riyadh-airport-three-killed/a-79587815?maca=en-rss-en-all-1573-xml-mrss
   published: '2026-10-08'
+- title: Houthis claim new attack against airport in Saudi capital as witness reports evacuation
+  publisher: Associated Press (via LA Post)
+  url: https://www.lapost.com/content/explosions-are-heard-in-the-saudi-capital-as-riyadh-airport-is-reported-closed
+  published: '2026-10-08'
+- title: Explosions Rattle Saudi Capital
+  publisher: The New York Times (The Evening)
+  url: https://www.nytimes.com/2026/10/08/briefing/explosions-rattle-saudi-capital.html
+  published: '2026-10-08'
 tags: []
-data_as_of: October 8, 2026, 11:48am ET. Wednesday casualty figures from the Saudi General Authority of Civil Aviation; Thursday casualty claim from the Houthis only, not confirmed by Saudi authorities; coalition retaliation detail via coalition spokesman and Reuters (DW); Thursday airport-disruption and school shelter orders via DW. BBC Arabic and Le Monde/AFP corroborate the Wednesday airport attacks.
+data_as_of: "October 8, 2026, 7:45pm ET - Thursday evening developments: explosions in Riyadh
+  and airport closure via an Associated Press witness and Flightradar24 (carried by
+  AP affiliates); interception of two missiles toward Riyadh and one toward Khamis
+  Mushait via coalition spokesman Turki al-Malki; kindergarten and medical complex
+  damage via Saudi civil defense; oil price jump via the New York Times; Trump rebuffing
+  Saudi requests, US analysts in Saudi command centers, the tanker hit north of Qatar,
+  and US options against Iran via the NYT Evening briefing. Wednesday casualty figures
+  from the Saudi General Authority of Civil Aviation."
 regions:
 - middle-east
 ---
+
+**Latest (7:45pm ET Thursday):** Several explosions were heard across Riyadh on Thursday, including a large blast at King Khalid International Airport, a witness told the Associated Press, as the Houthis claimed a new ballistic-missile strike on the airport. Fire and ambulance crews were deployed and smoke was visible at the airport, where passengers were evacuated and told to leave checked-in luggage behind. Coalition spokesman Maj. Gen. Turki al-Malki said Saudi forces intercepted and destroyed two ballistic missiles launched by the Houthis toward Riyadh, plus a third fired toward Khamis Mushait near the Yemen border. Saudi civil defense authorities said interception debris damaged a kindergarten and a medical complex, reporting no casualties. Flightradar24 said the airport was "closed again," with no landings or takeoffs for over 80 minutes, and FlightAware reported hundreds of cancelled flights; crude oil prices jumped on the news.
+
+The escalation sharpened the US question. The New York Times reported that President Trump has rebuffed Saudi requests to join the fight against the Houthis, though hundreds of US intelligence and military analysts are assisting the Saudis from command centers inside the kingdom. The Times also reported that a tanker in waters north of Qatar was hit by "multiple projectiles" yesterday, causing casualties, and that the US military is preparing options to restart major combat operations against Iran, even as Trump said he would not attack before the midterm elections. India issued a safety advisory for its nationals in Saudi Arabia.
 
 **Latest (11:48am ET Thursday):** The Houthis claimed a ballistic missile struck King Khalid International Airport in Riyadh on Thursday, killing three people and injuring several, the third time this week they have claimed to target the airport. Saudi authorities had not confirmed the claim; Houthi military spokesperson Yahya Saree said on X the missile "accurately struck its target and disrupted airport operations," and warned "for the last time" that all international airlines must stop flying through Saudi airspace. FlightRadar24 showed numerous delayed arrivals and departures at Riyadh airport, and some Riyadh schools told parents of shelter-in-place orders, though no public alert was issued. Coalition spokesman Turki al-Maliki put the retaliation figure at 82 Houthi military targets destroyed, missile launch sites, command centers and weapons depots across Saada, Marib, Al Jawf and Al Hudaydah; the Saudi-backed Yemeni government announced a major counteroffensive the previous day, claiming to push Houthis from Red Sea coast areas and around Mocha. Reuters reported Saudi Arabia wants to eliminate the Houthis and is seeking support, even logistical or defensive, from Turkey and Pakistan. The UN says the conflict has displaced more than 200,000 within Yemen.
 
