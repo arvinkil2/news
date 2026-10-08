@@ -1,15 +1,20 @@
 ---
 title: "Long-end yields hit multi-decade highs across the US and Europe"
 date: 2026-10-08T07:33:47-0400
-last_updated: 2026-10-08T07:33:47-0400
+last_updated: 2026-10-08T08:49:29-04:00
+update_bump: true
 beats: ["rates"]
 regions: ["global"]
 status: "story"
-lede: "The 30-year Treasury touched a fresh 24-year high intraday Wednesday while the 10-year hit 5.364 percent, its highest since 2002, before a strong auction pulled both back from the brink."
-why_it_matters: "The records are a term-premium repricing, not just a rate-hike repricing: heavy Treasury supply, hyperscaler debt competition, and geopolitical risk are all demanding more compensation at the long end."
+lede: "Britain's 10-year borrowing costs hit a 19-year high Thursday as Brent crude jumped 5 percent to $105, dragging the UK into the global long-end selloff that has pushed the 30-year Treasury to a 24-year high."
+why_it_matters: "The UK move shows the selloff is now oil-and-inflation driven as much as supply driven: with 20- and 30-year gilts at 1998 highs, Britain's debt-service arithmetic is deteriorating exactly as the autumn Budget approaches."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "UK 10-year borrowing costs rise to 19-year high after oil prices jump"
+    publisher: "Reuters (via Investing.com)"
+    url: "https://www.investing.com/news/stock-market-news/uk-10year-borrowing-costs-rise-to-19year-high-after-oil-prices-jump-4938526"
+    published: "2026-10-08"
   - title: "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002"
     publisher: "Financial Times"
     url: "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1"
@@ -29,6 +34,8 @@ sources:
 tags: []
 data_as_of: "Intraday highs October 7, 2026 (per Reuters and the Financial Times); morning levels October 8 per market_tables.json (7:00 AM EDT)"
 ---
+
+**Latest:** Britain joined the global bond selloff on Thursday. The 10-year gilt yield rose to a 19-year high, while 20- and 30-year gilt yields hit their highest since early 1998 at 6.00 and 6.05 percent respectively, Reuters reported. The trigger was energy: Brent crude jumped 5 percent to $105 a barrel, its highest since September 29, as the Iran war and the Gulf tanker campaign keep supply risk priced in.
 
 Wednesday's selloff was the resumption of the global bond rout that has defined the autumn. The 10-year Treasury yield rose to a 24-year peak of 5.364 percent and the 30-year touched a fresh 24-year high, its highest since 2002 per the Financial Times, before the strong $39 billion 10-year auction knocked them back about 5bp. In afternoon trading the 10-year settled up 1.3bp at 5.284 percent and the 30-year up 2.8bp at 5.669 percent, per Reuters. Thursday morning the 10-year stood at 5.28 percent (up 0.8bp on the day) and the 30-year at 5.66 percent (up 2.0bp), with the auction relief already fading. Danske Bank analysts see a risk of both the 10- and 30-year reaching 6 percent as investors demand more long-end premium, citing not only Treasury supply but also the hyperscalers: Reuters reported SpaceX is seeking about $40 billion in financing for Nvidia chip purchases, and strategists say AI-infrastructure debt issuance is competing directly with sovereign paper for duration demand.
 
