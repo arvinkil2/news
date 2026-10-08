@@ -84,6 +84,8 @@ a:hover { color: var(--accent); }
   padding: 9px 12px; border-radius: 6px; white-space: nowrap;
 }
 .dropdown-item:hover { background: #f5f1e8; color: var(--accent); }
+/* click/tap toggles via .open (all viewports) */
+.nav-dropdown.open .dropdown-menu { display: flex; }
 /* desktop: hover opens, moving away closes */
 @media (min-width: 720px) {
   .nav-dropdown:hover .dropdown-menu,
