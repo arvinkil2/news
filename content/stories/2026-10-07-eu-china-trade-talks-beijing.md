@@ -1,15 +1,16 @@
 ---
 title: EU-China trade council opens in Beijing at Brussels deadline
 date: 2026-10-07T21:48:35-04:00
-last_updated: 2026-10-08T07:36:53-0400
+last_updated: 2026-10-08T14:48:08-04:00
 beats:
 - politics
 status: story
 developing: true
 update_bump: true
-lede: Trade Commissioner Maros Sefcovic co-chairs the second session of the EU-China
-  Trade and Investment Council with Commerce Minister Wang Wentao on October 8-9,
-  the self-imposed October deadline Brussels set in June for tangible results.
+lede: Trade Commissioner Maros Sefcovic met Commerce Minister Wang Wentao in Beijing
+  on October 8 as the EU's self-imposed deadline for tangible results arrived, with
+  Brussels now hoping Beijing accepts a unilateral EU cap on hybrid-car imports after
+  China rejected voluntary export restraints.
 why_it_matters: Brussels needs an extended rare-earth controls moratorium, import
   curbs and market access against a 360-billion-euro deficit; failure risks EU defensive
   trade instruments and retaliation that would hit EV, chemical and agri-food supply chains.
@@ -23,6 +24,10 @@ sources:
 - title: China rejects EU request for voluntary hybrid-car export curbs
   publisher: Financial Times
   published: '2026-10-07'
+- title: EU now seeks Beijing's acceptance of unilateral EU cap on hybrid imports
+  publisher: Newsquawk, citing Financial Times
+  url: https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---8th-october-2026
+  published: '2026-10-08'
 - title: Europe's October Deadline Arrives in Beijing
   publisher: European Business Magazine
   url: https://europeanbusinessmagazine.com/permalink-sefcovic-wang-beijing/
@@ -52,6 +57,8 @@ regions:
 - europe
 - asia-pacific
 ---
+
+**Latest (Thursday, October 8):** As the council's first day wrapped up, the Financial Times reported that Brussels is now hoping to get Beijing to accept a unilateral EU measure capping hybrid-car imports, after China rejected the EU's request for voluntary export restraints. The ask marks the latest evolution in the dispute: the EU asked Beijing to cap hybrid exports voluntarily, Beijing refused, and Brussels is now effectively seeking Beijing's acquiescence to a cap imposed from the EU side. No joint statement with commitments has emerged yet; the session runs through October 9.
 
 The second session of the EU-China Trade and Investment Council opens in Beijing today, with European Trade Commissioner Maros Sefcovic co-chairing alongside Chinese Commerce Minister Wang Wentao. Brussels set October as the deadline for tangible results when the council was launched in June, and Commission officials have said the outcome must be credible. The EU's trade deficit in goods with China was about 360 billion euros in 2025, roughly a billion euros a day, and it widened further in the first half of 2026.
 
