@@ -1,7 +1,7 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-08T12:04:46-04:00
+last_updated: 2026-10-08T17:45:16-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -27,11 +27,17 @@ sources:
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-10-08"
+  - title: "Hormuz transits at lowest in over two months after attacks, data shows"
+    publisher: "Arab News (Kpler data)"
+    url: "https://www.arabnews.com/middle-east/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-3005180"
+    published: "2026-10-07"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5)"
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5)"
 ---
 
 ## Latest
+
+Kpler shipping data put the damage to flows in numbers: seven commodity vessels transited Hormuz on Tuesday, the lowest daily figure since July 23, and crude crossing the strait fell 27 percent from the prior week's wartime high to at least 10.1 million barrels a day, 74 percent of the pre-war level. The offset came from the Gulf of Oman coast and the Red Sea, where exports rose to 6.7 million barrels a day, more than double pre-war levels, keeping total Middle East crude exports at the pre-war level. Transits edged up to 10 on Wednesday against 20-plus on Sunday and Monday, so the strait is still running far below normal while most of the fall sits in ship-to-ship transfers in the Gulf of Oman. That throughput detail matters for the TTF and diesel market as much as the crude price.
 
 The campaign widened beyond the strait on Wednesday. The chemical and oil tanker Acers, flagged in Antigua and Barbuda, was struck by multiple projectiles at about 19:00 UTC on October 7 roughly 51 nautical miles north of Madinat ash Shamal, Qatar, according to UK Maritime Trade Operations, with casualties reported among the crew. UKMTO did not specify how many seafarers were injured or killed, the extent of the damage, or the type of weapons involved, and it has not attributed the attack to any party. The strike location matters: this was well inside the Persian Gulf, west of Hormuz, demonstrating that the threat now reaches tankers already operating in the Gulf, not only vessels attempting to enter or leave through the strait.
 

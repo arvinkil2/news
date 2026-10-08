@@ -1,13 +1,13 @@
 ---
 title: "ECB accounts show no pressure to move again after September hike"
 date: 2026-10-08T07:33:47-0400
-last_updated: 2026-10-08T07:42:51-0400
+last_updated: 2026-10-08T17:45:16-0400
 update_bump: true
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "The ECB's account of its September meeting shows the Governing Council felt no immediate pressure to raise rates again, pushing back against fine-tuning policy around inflation fluctuations ahead of the live October 29 decision."
-why_it_matters: "With September's hike unanimous, the account was the first test of whether the door is open to a larger October move; the message was patience, and markets barely reacted, with EUR/USD down 0.1 percent at 1.1616."
+lede: "The ECB's account of its September meeting shows no immediate pressure to raise rates again, but its energy-volatility language, all members agreeing inflation risks tilt upward amid exceptional energy price swings, is the angle rate watchers were waiting for ahead of the live October 29 decision."
+why_it_matters: "The minutes point to a hold on October 29 with December the live meeting for a third hike, and the energy-driven inflation channel is now the swing variable money markets have to price."
 featured: true
 evidence_grade: "B"
 sources:
@@ -39,11 +39,17 @@ sources:
     publisher: "Scotiabank"
     url: "http://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.international-economics.europe-.ecb--september-10-2026-.html"
     published: "2026-09-10"
+  - title: "ECB tutanaklarında enerji fiyatlarındaki oynaklık ve enflasyon risklerine karşı ihtiyat vurgusu"
+    publisher: "Anadolu Ajansı (in Turkish)"
+    url: "https://www.aa.com.tr/tr/ekonomi/ecb-tutanaklarinda-enerji-fiyatlarindaki-oynaklik-ve-enflasyon-risklerine-karsi-ihtiyat-vurgusu/4082462"
+    published: "2026-10-08"
 tags: []
-data_as_of: "Account of the September 9-10, 2026 Governing Council meeting published 7:30am ET October 8. Outcome reported by Reuters via FXStreet; account document URL from the ECB's accounts index. Background figures from the September 10 statement and staff projections. Year-end pricing per Scotiabank's September 10 note."
+data_as_of: "Account of the September 9-10, 2026 Governing Council meeting published 7:30am ET October 8. Outcome reported by Reuters via FXStreet; account document URL from the ECB's accounts index. Background figures from the September 10 statement and staff projections. Year-end pricing per Scotiabank's September 10 note. Energy-volatility emphasis from Anadolu Ajansi's read of the published minutes, in Turkish, 5:45pm ET."
 ---
 
-**Latest (7:30am ET release):** The published account shows policymakers felt no immediate pressure to change the policy rate. The account says the monetary policy stance should not be fine-tuned in response to moderate fluctuations of inflation around the target, per Reuters. The publication triggered no noticeable market reaction: EUR/USD was down 0.1 percent on the day at 1.1616 at the time of press. On the October 29 decision, the account offers patience rather than guidance: no signal of an imminent second hike, and no dissent narrative large enough to move pricing on its own. The sources section below now includes the Reuters-sourced market coverage and the ECB's accounts index for the document itself.
+**Latest (5:45pm ET Thursday):** A Turkish state wire's read of the published minutes surfaced the energy angle rate watchers were waiting for: the account has all members agreeing that risks to the inflation outlook were tilted upward amid exceptional energy price volatility, warns that a cold winter combined with supply disruptions or low storage could push gas prices higher, and stresses that the longer elevated energy prices last, the greater the upside inflation risk. Anadolu reports the minutes deliberately used neutral language, to avoid implying the September hike was either part of a pre-set tightening cycle or the final move. Pricing still points to a hold at 2.50 percent on October 29, with December the live meeting for a third hike this year.
+
+**Earlier (7:30am ET release):** The published account shows policymakers felt no immediate pressure to change the policy rate. The account says the monetary policy stance should not be fine-tuned in response to moderate fluctuations of inflation around the target, per Reuters. The publication triggered no noticeable market reaction: EUR/USD was down 0.1 percent on the day at 1.1616 at the time of press. On the October 29 decision, the account offers patience rather than guidance: no signal of an imminent second hike, and no dissent narrative large enough to move pricing on its own. The sources section below now includes the Reuters-sourced market coverage and the ECB's accounts index for the document itself.
 
 The account covers the September 10 meeting where the Governing Council unanimously raised the three key rates 25bp, taking the deposit facility to 2.50 percent, the main refinancing rate to 2.65 percent and the marginal lending facility to 2.90 percent, effective September 16. President Lagarde's statement called inflation "set to remain well above target for an extended period," and staff projections put headline inflation at 3.0 percent in 2026, 2.5 percent in 2027 and 2.1 percent in 2028, with core at 2.5, 2.6 and 2.3 percent. Growth was revised up to 0.9 percent for 2026 and 1.4 percent for 2027.
 
