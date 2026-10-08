@@ -1,7 +1,7 @@
 ---
 title: Pakistan reaches staff-level deal to unlock $1.21 billion from IMF
-date: 2026-10-08T02:47:30-04:00
-last_updated: 2026-10-08T02:47:30-04:00
+date: 2026-10-08T02:55:26-04:00
+last_updated: 2026-10-08T02:55:26-04:00
 beats:
 - rates
 status: developing
