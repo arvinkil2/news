@@ -93,10 +93,11 @@ a:hover { color: var(--accent); }
   .nav-dropdown:hover .nav-trigger,
   .nav-dropdown:focus-within .nav-trigger { color: var(--accent); border-bottom-color: var(--accent); }
 }
-/* mobile: tap toggles */
+/* mobile: tap toggles; top is set inline by JS from the button's position */
 @media (max-width: 719px) {
   .nav-dropdown.open .dropdown-menu {
-    display: flex; position: fixed; left: 12px; right: 12px; top: auto; min-width: 0;
+    display: flex; position: fixed; left: 12px; right: 12px; min-width: 0;
+    max-height: 70vh; overflow-y: auto;
   }
   .nav-dropdown.open .nav-trigger { color: var(--accent); border-bottom-color: var(--accent); }
 }
