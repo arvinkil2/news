@@ -1,5 +1,5 @@
 ---
-title: Russian missile barrage kills 28 across Ukraine
+title: Russian strike on Kramatorsk bus stop kills at least 30
 date: 2026-10-08T00:52:47-04:00
 last_updated: 2026-10-08T07:48:13-0400
 beats:
