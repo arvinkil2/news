@@ -84,10 +84,32 @@ document.querySelectorAll('.nav-trigger').forEach(function(btn) {
       if (panel) {
         panel.classList.add('open');
         btn.setAttribute('aria-expanded', 'true');
+        positionPanel(btn, panel);
       }
     }
     e.stopPropagation();
   });
+});
+function positionPanel(btn, panel) {
+  // Align the open panel under its trigger on desktop; keep the
+  // full-width sheet behavior on mobile via CSS.
+  panel.style.left = '';
+  panel.style.right = '';
+  if (window.matchMedia('(min-width: 720px)').matches) {
+    var header = btn.closest('.masthead');
+    var hr = header.getBoundingClientRect();
+    var br = btn.getBoundingClientRect();
+    var width = panel.offsetWidth || 210;
+    var left = br.left - hr.left;
+    left = Math.max(12, Math.min(left, window.innerWidth - width - 12));
+    panel.style.left = left + 'px';
+    panel.style.right = 'auto';
+  }
+}
+window.addEventListener('resize', function() {
+  var openBtn = document.querySelector('.nav-trigger[aria-expanded="true"]');
+  var openPanel = document.querySelector('.dropdown-panel.open');
+  if (openBtn && openPanel) { positionPanel(openBtn, openPanel); }
 });
 document.addEventListener('click', function(e) {
   if (!e.target.closest('.nav-trigger') && !e.target.closest('.dropdown-panel')) {
