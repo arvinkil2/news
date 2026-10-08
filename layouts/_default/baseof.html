@@ -32,33 +32,27 @@
   </div>
   <nav class="nav" aria-label="Sections">
     <a href="{{ "/" | relURL }}" class="nav-link">Latest</a>
-    <div class="nav-dropdown">
-      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Sections</button>
-      <div class="dropdown-menu">
-        {{ range site.Params.beat_order }}
-        <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.beat_names . }}</a>
-        {{ end }}
-      </div>
-    </div>
-    <div class="nav-dropdown">
-      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Regions</button>
-      <div class="dropdown-menu">
-        {{ range site.Params.region_order }}
-        <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item">{{ index site.Params.region_names . }}</a>
-        {{ end }}
-      </div>
-    </div>
-    <div class="nav-dropdown">
-      <button class="nav-trigger" aria-haspopup="true" aria-expanded="false">Macro</button>
-      <div class="dropdown-menu">
-        <a href="{{ "/macro/spreads/" | relURL }}" class="dropdown-item">Sovereign Spreads</a>
-        <a href="{{ "/macro/central-banks/" | relURL }}" class="dropdown-item">Central Banks</a>
-        <a href="{{ "/macro/economies/" | relURL }}" class="dropdown-item">Economies</a>
-      </div>
-    </div>
+    <button class="nav-trigger" data-menu="menu-sections" aria-haspopup="true" aria-expanded="false">Sections</button>
+    <button class="nav-trigger" data-menu="menu-regions" aria-haspopup="true" aria-expanded="false">Regions</button>
+    <button class="nav-trigger" data-menu="menu-macro" aria-haspopup="true" aria-expanded="false">Macro</button>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
   </nav>
+  <div class="dropdown-panel" id="menu-sections" role="menu">
+    {{ range site.Params.beat_order }}
+    <a href="{{ (printf "/beats/%s/" .) | relURL }}" class="dropdown-item" role="menuitem">{{ index site.Params.beat_names . }}</a>
+    {{ end }}
+  </div>
+  <div class="dropdown-panel" id="menu-regions" role="menu">
+    {{ range site.Params.region_order }}
+    <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item" role="menuitem">{{ index site.Params.region_names . }}</a>
+    {{ end }}
+  </div>
+  <div class="dropdown-panel" id="menu-macro" role="menu">
+    <a href="{{ "/macro/spreads/" | relURL }}" class="dropdown-item" role="menuitem">Sovereign Spreads</a>
+    <a href="{{ "/macro/central-banks/" | relURL }}" class="dropdown-item" role="menuitem">Central Banks</a>
+    <a href="{{ "/macro/economies/" | relURL }}" class="dropdown-item" role="menuitem">Economies</a>
+  </div>
 </header>
 <main class="content" id="main">
 {{ block "main" . }}{{ end }}
@@ -72,32 +66,36 @@
 </footer>
 <script>
 function closeAllDropdowns() {
-  document.querySelectorAll('.nav-dropdown.open').forEach(function(d) {
-    d.classList.remove('open');
-    d.querySelector('.nav-trigger').setAttribute('aria-expanded', 'false');
+  document.querySelectorAll('.dropdown-panel.open').forEach(function(p) {
+    p.classList.remove('open');
+  });
+  document.querySelectorAll('.nav-trigger[aria-expanded="true"]').forEach(function(b) {
+    b.setAttribute('aria-expanded', 'false');
   });
 }
 document.querySelectorAll('.nav-trigger').forEach(function(btn) {
   btn.addEventListener('click', function(e) {
-    var dd = btn.closest('.nav-dropdown');
-    var wasOpen = dd.classList.contains('open');
-    closeAllDropdowns();
-    if (!wasOpen) {
-      dd.classList.add('open');
-      btn.setAttribute('aria-expanded', 'true');
-      var menu = dd.querySelector('.dropdown-menu');
-      if (window.matchMedia('(max-width: 719px)').matches) {
-        var r = btn.getBoundingClientRect();
-        menu.style.top = Math.round(r.bottom + 6) + 'px';
-      } else {
-        menu.style.top = '';
+    var wasOpen = btn.getAttribute('aria-expanded') === 'true';
+    if (wasOpen) {
+      closeAllDropdowns();
+    } else {
+      closeAllDropdowns();
+      var panel = document.getElementById(btn.getAttribute('data-menu'));
+      if (panel) {
+        panel.classList.add('open');
+        btn.setAttribute('aria-expanded', 'true');
       }
     }
     e.stopPropagation();
   });
 });
 document.addEventListener('click', function(e) {
-  if (!e.target.closest('.nav-dropdown')) { closeAllDropdowns(); }
+  if (!e.target.closest('.nav-trigger') && !e.target.closest('.dropdown-panel')) {
+    closeAllDropdowns();
+  }
+});
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') { closeAllDropdowns(); }
 });
 </script>
 </body>
