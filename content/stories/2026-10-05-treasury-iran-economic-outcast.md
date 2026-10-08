@@ -1,17 +1,13 @@
 ---
 title: Treasury sanctions Iran auto, rail, steel sectors and A7 banking network
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-06 14:11:39-04:00
+last_updated: 2026-10-08T14:00:10-04:00
 beats:
 - politics
 status: story
-lede: The U.S. Treasury designated Iran's automotive and rail sectors, metals producers
-  and their foreign suppliers, and separately sanctioned the A7 shadow banking network
-  used by Iran and Russia to evade sanctions.
-why_it_matters: The actions close off Iran's largest remaining non-oil revenue streams
-  and target the payment plumbing behind its oil sales. Foreign suppliers in Asia,
-  the Middle East and Europe now face a choice between Iranian business and U.S. market
-  access.
+update_bump: true
+lede: "The U.S. Treasury's Operation Economic Outcast moved to its third phase on October 8, designating roughly 50 individuals, companies and vessels tied to Iran's remaining shadow fleet, days after sanctioning Iran's auto, rail and steel sectors and the A7 shadow banking network."
+why_it_matters: "The designations target the tankers, managers and front companies that move Iranian oil to market, closing the logistics layer after earlier phases hit Iran's industrial revenue and its payment plumbing; Asian and Middle Eastern intermediaries now face the same U.S.-market-access choice."
 featured: false
 evidence_grade: B
 sources:
@@ -24,16 +20,25 @@ sources:
   publisher: U.S. Department of the Treasury
   url: https://home.treasury.gov/news/press-releases/sb0644/
   published: '2026-10-05'
+- title: Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network
+  publisher: U.S. Department of the Treasury
+  url: https://home.treasury.gov/news/press-releases/sb0653/
+  published: '2026-10-08'
+- title: Iran-related Designations; Issuance of Iran-related General License; Issuance of Amended Russia-related General License
+  publisher: OFAC
+  url: https://ofac.treasury.gov/recent-actions/20261008
+  published: '2026-10-08'
 - title: US hits Russian firm A7 with sanctions over Iran-linked payments network
   publisher: Briefs.co
   url: https://www.briefs.co/news/us-hits-russian-firm-a7-with-sanctions-over-iran-linked-paym/
   published: '2026-10-01'
 tags: []
-data_as_of: Designations announced October 2026; A7 network activity figures cover
-  January 2025 through June 2026
+data_as_of: "Designations announced October 2026; A7 network activity figures cover January 2025 through June 2026. October 8 shadow-fleet phase: OFAC recent-actions listing opened directly; roughly 50 new SDN entries (individuals, entities, vessels) plus Iran General License EE (Samudra Marine Services wind-down) and amended Russia General License 13S. Treasury press release sb0653 headline read via official site; release body not independently opened (site blocked to text fetch)."
 regions:
 - global
 ---
+
+**Latest (Thursday, October 8):** Treasury moved Operation Economic Outcast to its next phase, announcing that it had "neutralized" the Iranian regime's remaining shadow fleet network. OFAC added roughly 50 targets to the SDN list: six individuals in India and Turkey linked to marine-services and petrochemical logistics firms, about two dozen entities including ship managers and owners registered in the Marshall Islands, Hong Kong, the UAE, China, Turkey, India and the UK, and some 17 vessels, a mix of asphalt and bitumen tankers, chemical and products tankers, LPG carriers and a crude tanker. The designations hit the network around India's Samudra Marine Services and SSPL Solutions, Turkey's Noorzad petrochemical logistics group, and a cluster of single-ship Marshall Islands companies. Alongside the designations, OFAC issued Iran-related General License EE authorizing the wind-down of transactions involving Samudra Marine Services, and an amended Russia-related General License 13S covering certain administrative transactions under Directive 4 of Executive Order 14024.
 
 The Treasury Department issued two new sectoral sanctions determinations under Executive Order 13902 covering Iran's automotive and rail sectors, and designated the sector's major companies: automakers Iran Khodro (IKCO) and SAIPA, which together hold over 90 percent of the domestic market and produce nearly 1.5 million vehicles a year, plus Iran Khodro Diesel, Pars Khodro, Zamyad, and motorcycle maker Niroo Motor Shiraz. Treasury said the auto sector loses over $1 billion annually to corruption and mismanagement while serving as a cash source for the IRGC. Foreign suppliers were also designated, including firms in Indonesia, the UAE, Turkiye, Hong Kong and Germany. On rail, the state-owned Islamic Republic of Iran Railway Company, Raja Passenger Trains and the Railway Transportation Company were designated, along with metals and machinery firms including HEPCO and its Shanghai subsidiary, and a steel-and-oil export network run by Ramin Keshvardoust that moved tens of millions of dollars of Iranian steel and oil through Hong Kong shell companies.
 
