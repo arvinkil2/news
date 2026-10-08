@@ -36,12 +36,7 @@ sources:
   url: https://kenyanbusinessfeed.com/cma-approves-kenyan-access-to-dangote-refinery-ipo-via-gdrs/
   published: '2026-10-05'
 tags: []
-data_as_of: Information memorandum dated October 6, 2026. GDR offer: up to 728,971,962
-  unsponsored inward GDRs at Ksh53.50 each (about Ksh39 billion, roughly $300.4 million,
-  nearly 20 percent of the $1.6 billion IPO); minimum subscription 2,000 GDRs in increments
-  of 100; minimum success threshold 50 million Kenyan shillings. Offer closes October
-  13, 2026; allotments expected around November 11-12; NSE listing about 15 business
-  days after allotment. IPO opened September 14 and closes October 13.
+data_as_of: "Information memorandum dated October 6, 2026. GDR offer: up to 728,971,962 unsponsored inward GDRs at Ksh53.50 each (about Ksh39 billion, roughly $300.4 million, nearly 20 percent of the $1.6 billion IPO); minimum subscription 2,000 GDRs in increments of 100; minimum success threshold 50 million Kenyan shillings. Offer closes October 13, 2026; allotments expected around November 11-12; NSE listing about 15 business days after allotment. IPO opened September 14 and closes October 13."
 regions:
 - africa
 ---

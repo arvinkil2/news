@@ -12,7 +12,7 @@ why_it_matters: AI-assisted intrusion against banks is the next phase of the cyb
 featured: false
 evidence_grade: C
 sources:
-- title: Suspected Chinese-speaking hacker uses AI to breach South Korean banks: Report
+- title: "Suspected Chinese-speaking hacker uses AI to breach South Korean banks: Report"
   publisher: Anadolu Ajansi
   url: https://www.aa.com.tr/en/asia-pacific/suspected-chinese-speaking-hacker-uses-ai-to-breach-south-korean-banks-report/4081421
   published: '2026-10-08'

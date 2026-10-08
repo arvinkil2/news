@@ -30,7 +30,7 @@ sources:
   publisher: the-decoder
   url: https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/
   published: '2026-10-06'
-- title: Mistral Large 4 Benchmark: Legal Failures, Accounting Results & Cost
+- title: "Mistral Large 4 Benchmark: Legal Failures, Accounting Results & Cost"
   publisher: Digitrans
   url: https://digitrans.lu/blog/mistral-large-4-le-chonk-legal-accounting-benchmark/
   published: '2026-10-06'

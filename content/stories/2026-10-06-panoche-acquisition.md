@@ -22,11 +22,7 @@ sources:
   url: https://www.power-technology.com/news/middle-river-buys-427mw-panoche-plant/
   published: '2026-10-07'
 tags: []
-data_as_of: Closing announced October 6, 2026; price and contract terms undisclosed.
-  Plant: simple-cycle natural gas, four GE LMS100 aero-derivative turbines. MRP acquired
-  by Partners Group on behalf of its clients in 2025; Panoche is its third acquisition
-  this year after the 240 MW Midway-Sunset facility in Kern County and the 250 MW
-  Brush plant in Morgan County, Colorado, together adding more than 900 MW of capacity.
+data_as_of: "Closing announced October 6, 2026; price and contract terms undisclosed. Plant: simple-cycle natural gas, four GE LMS100 aero-derivative turbines. MRP acquired by Partners Group on behalf of its clients in 2025; Panoche is its third acquisition this year after the 240 MW Midway-Sunset facility in Kern County and the 250 MW Brush plant in Morgan County, Colorado, together adding more than 900 MW of capacity."
 regions:
 - north-america
 ---
