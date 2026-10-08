@@ -37,7 +37,7 @@ sources:
   url: https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html
   published: '2026-10-08'
 tags: []
-data_as_of: October 8, 2026. Wednesday reporting from Axios original reporting by Barak Ravid, published October 7, 2026, with The Atlantic's account read through secondary reports (Political Wire, JFeed). Thursday's Trump statement confirmed by Bloomberg and CNBC wire headlines; the Bloomberg and CNBC articles were blocked for direct opening from this environment, so the statement text is reported from wire headlines and corroborating wire-service quotes. Trump's claim that Hormuz oil flows at record volumes is his assertion: CENTCOM says traffic is flowing, while Kpler data cited by shipping intelligence puts crude exports through the strait near 12 million barrels per day, about 80 percent of pre-war levels.
+data_as_of: "October 8, 2026. Wednesday reporting from Axios original reporting by Barak Ravid, published October 7, 2026, with The Atlantic's account read through secondary reports (Political Wire, JFeed). Thursday's Trump statement confirmed by Bloomberg and CNBC wire headlines; the Bloomberg and CNBC articles were blocked for direct opening from this environment, so the statement text is reported from wire headlines and corroborating wire-service quotes. On Trump's claim that Hormuz oil flows at record volumes, his assertion stands against CENTCOM's statement that traffic is flowing and Kpler data cited by shipping intelligence putting crude exports through the strait near 12 million barrels per day, about 80 percent of pre-war levels."
 regions:
 - north-america
 - middle-east
