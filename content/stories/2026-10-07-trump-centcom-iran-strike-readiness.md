@@ -1,18 +1,14 @@
 ---
 title: US ordered CENTCOM to ready Iran strike plans as Trump weighs timing
 date: 2026-10-07T20:51:00-04:00
-last_updated: 2026-10-07T20:51:00-04:00
+last_updated: 2026-10-08T12:55:26-04:00
 beats:
 - politics
 status: story
-lede: The Pentagon instructed US Central Command several days ago to finish preparations
-  for resuming major combat operations against Iran, with no strike date set, as
-  US and Israeli sources tell Axios and The Atlantic that a renewed bombing campaign
-  could come before the November 3 midterm elections.
-why_it_matters: A return to massive strikes on Iranian energy, infrastructure and
-  nuclear targets would re-shock oil markets and put roughly 50,000 US troops in
-  the region at risk of retaliation, and the reports already jolted US equities
-  Wednesday evening.
+developing: true
+update_bump: true
+lede: President Trump said Thursday the United States will not attack Iran before the November 3 midterm elections and claimed "productive discussions" are underway with Tehran, reversing the before-the-midterms strike-timing narrative from Wednesday's reporting.
+why_it_matters: The statement takes the near-term strike timeline off the table publicly, though CENTCOM's ready posture stands; markets are now parsing whether the rhetoric is a negotiating tactic ahead of Israel's October 27 election or a genuine pause.
 featured: true
 evidence_grade: B
 sources:
@@ -32,15 +28,22 @@ sources:
   publisher: Ship & Bunker
   url: https://shipandbunker.com/news/world/224909-oil-prices-rise-as-trump-says-us-might-have-to-give-iran-another-big-hit
   published: '2026-10-06'
+- title: Trump Says US Won't Attack Iran Before November Midterm Election
+  publisher: Bloomberg Politics
+  url: https://www.bloomberg.com/news/articles/2026-10-08/trump-says-us-won-t-attack-iran-before-november-midterm-election
+  published: '2026-10-08'
+- title: Trump says U.S. will not attack Iran before midterm election
+  publisher: CNBC
+  url: https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html
+  published: '2026-10-08'
 tags: []
-data_as_of: Axios original reporting by Barak Ravid, published October 7, 2026, with
-  The Atlantic's account read through secondary reports (Political Wire, JFeed).
-  No strike date set and no final decision made; market reaction reflects Wednesday
-  evening trading.
+data_as_of: October 8, 2026. Wednesday reporting from Axios original reporting by Barak Ravid, published October 7, 2026, with The Atlantic's account read through secondary reports (Political Wire, JFeed). Thursday's Trump statement confirmed by Bloomberg and CNBC wire headlines; the Bloomberg and CNBC articles were blocked for direct opening from this environment, so the statement text is reported from wire headlines and corroborating wire-service quotes. Trump's claim that Hormuz oil flows at record volumes is his assertion: CENTCOM says traffic is flowing, while Kpler data cited by shipping intelligence puts crude exports through the strait near 12 million barrels per day, about 80 percent of pre-war levels.
 regions:
 - north-america
 - middle-east
 ---
+
+**Latest (Thursday):** President Trump said the US is holding "productive discussions" with Iran and declared the United States "will not attack Iran at any time before the US midterm elections on November 3," adding that Iran will not possess nuclear weapons and that sanctions will remain fully effective. He also asserted that oil is flowing through the Strait of Hormuz at record volumes, none of it Iranian, a claim that sits above independent shipping data. The statement directly answers Wednesday's Axios and Atlantic reporting, which had US and Israeli sources floating a renewed bombing campaign before the midterms. It does not withdraw CENTCOM's ready posture: the Pentagon's order to conclude strike preparations still stands, and Israeli sources have said post-midterm strike odds rise significantly.
 
 The Pentagon several days ago ordered US Central Command to conclude preparations for resuming major combat operations in Iran, US officials told Axios, a directive that moves a renewed campaign from contingency planning to a ready posture. President Trump has set no strike date and made no final decision, but US and Israeli sources say action could come before the November 3 midterm elections, possibly timed around Israel's general election on October 27.
 
