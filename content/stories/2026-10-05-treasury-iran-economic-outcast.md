@@ -1,7 +1,7 @@
 ---
 title: Treasury sanctions Iran auto, rail, steel sectors and A7 banking network
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-08T14:00:10-04:00
+last_updated: 2026-10-08T14:07:27-04:00
 beats:
 - politics
 status: story
@@ -33,10 +33,12 @@ sources:
   url: https://www.briefs.co/news/us-hits-russian-firm-a7-with-sanctions-over-iran-linked-paym/
   published: '2026-10-01'
 tags: []
-data_as_of: "Designations announced October 2026; A7 network activity figures cover January 2025 through June 2026. October 8 shadow-fleet phase: OFAC recent-actions listing opened directly; roughly 50 new SDN entries (individuals, entities, vessels) plus Iran General License EE (Samudra Marine Services wind-down) and amended Russia General License 13S. Treasury press release sb0653 headline read via official site; release body not independently opened (site blocked to text fetch)."
+data_as_of: "Designations announced October 2026; A7 network activity figures cover January 2025 through June 2026. October 8 shadow-fleet phase: OFAC recent-actions listing opened directly (roughly 50 SDN entries: individuals, entities, vessels; Iran General License EE for Samudra Marine Services wind-down; amended Russia General License 13S). Treasury press release sb0653 read in full via live browser: 17 vessels designated under E.O. 13902 with per-vessel cargo volumes; two vessels removed from SDN list (HAKUNA MATATA, PINOCCHIO); Bessent quote as stated."
 regions:
 - global
 ---
+
+**Latest (Thursday afternoon ET, release detail):** Treasury's press release (sb0653) names 17 vessels as the remnants of Iran's shadow fleet, all designated under Executive Order 13902 along with their owners and operators, and says the action effectively neutralizes the vast majority of the remaining network. The vessels carried Iranian crude, LPG, naphtha, ethylene, methanol, ammonia and bitumen to South and East Asian markets: among the largest, the SHENZHEN moved 3.5 million-plus barrels of crude since November 2025, STARWAY 3 million-plus barrels of naphtha, KANHA 3 million-plus barrels of high-sulfur fuel oil, SOGL and NOBLE SEA 2 million-plus barrels each of LPG and ammonia cargoes, and TINA 5 moved 1.5 million barrels of crude in August 2026 alone. OFAC also removed two vessels, HAKUNA MATATA and PINOCCHIO, from the SDN list, citing their sale to non-sanctioned operators and exit from the shadow fleet. Secretary Scott Bessent said Treasury is "starving the tyrannical regime in Tehran of the money it uses to wage war in the region" and warned no enabler of Iranian sanctions evasion is safe from Treasury's authorities. The release frames the move against the U.S. military blockade and dwindling shipments outside the blockade line, describing Operation Economic Outcast, launched August 24 and dubbed "Economic D-Day," as aimed at severing the regime's remaining economic lifelines in coordination with the EU, UK and Gulf partners.
 
 **Latest (Thursday, October 8):** Treasury moved Operation Economic Outcast to its next phase, announcing that it had "neutralized" the Iranian regime's remaining shadow fleet network. OFAC added roughly 50 targets to the SDN list: six individuals in India and Turkey linked to marine-services and petrochemical logistics firms, about two dozen entities including ship managers and owners registered in the Marshall Islands, Hong Kong, the UAE, China, Turkey, India and the UK, and some 17 vessels, a mix of asphalt and bitumen tankers, chemical and products tankers, LPG carriers and a crude tanker. The designations hit the network around India's Samudra Marine Services and SSPL Solutions, Turkey's Noorzad petrochemical logistics group, and a cluster of single-ship Marshall Islands companies. Alongside the designations, OFAC issued Iran-related General License EE authorizing the wind-down of transactions involving Samudra Marine Services, and an amended Russia-related General License 13S covering certain administrative transactions under Directive 4 of Executive Order 14024.
 
