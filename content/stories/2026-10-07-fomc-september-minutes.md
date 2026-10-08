@@ -1,15 +1,13 @@
 ---
-title: Fed minutes show unanimous September hike and a lean toward another by year end
+title: "Fed minutes confirm unanimous hike; Waller says dots point to more"
 date: 2026-10-07 15:45:25-04:00
-last_updated: 2026-10-07 16:43:45-04:00
+last_updated: 2026-10-08T07:33:47-0400
 beats:
 - rates
 status: story
 update_bump: true
-lede: The Federal Reserve released minutes of its September 15-16 meeting Wednesday showing all 12 voting members backed the 25bp hike to 3.75-4 percent, with most participants assessing another increase would likely be appropriate by year end. The minutes also disclosed the mechanics of the July joint US-Japan yen intervention,
-  with the Fed's desk acting purely as the Treasury's fiscal agent using Treasury
-  funds and the Fed's own portfolio uninvolved.
-why_it_matters: The minutes validate the December hike pricing markets already carry and keep upward pressure on long-end yields, with the 10-year holding near 24-year highs just as the Treasury's heavy auction week continues Thursday.
+lede: The Federal Reserve's September minutes, released Wednesday, show all 12 voting members backed the 25bp hike to 3.75 to 4 percent with most seeing another increase likely by year end, and Governor Waller said Thursday morning that 16 of 18 SEP dots expect at least one more hike this year.
+why_it_matters: The Fed's own record locks in the year-end tightening lean that markets already carry, and Waller's overnight reinforcement puts December hike pricing at 85 percent center stage for duration.
 featured: true
 evidence_grade: A
 sources:
@@ -17,6 +15,10 @@ sources:
   publisher: Board of Governors of the Federal Reserve System
   url: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm
   published: '2026-10-07'
+- title: Speech by Governor Waller on the economic outlook
+  publisher: Board of Governors of the Federal Reserve System
+  url: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+  published: '2026-10-08'
 - title: 10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears
   publisher: CNBC
   url: https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html
@@ -30,10 +32,16 @@ sources:
   url: https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention
   published: '2026-10-07'
 tags: []
-data_as_of: FOMC minutes released 2:00pm ET October 7, 2026; 10-year yield and auction internals reflect afternoon trading and CNBC reporting the same day. The intervention mechanics confirmed against the Fed's published minutes text.
+data_as_of: FOMC minutes released 2:00pm ET October 7, 2026; Governor Waller speech October 8, 2026. The intervention mechanics confirmed against the Fed's published minutes text.
 regions:
 - north-america
 ---
+
+## Thursday morning
+
+Governor Christopher Waller reinforced the dots in a speech to the Central Bank of Turkiye on Thursday. He said 16 of the 18 participants who submitted dots anticipate at least one more hike at the two remaining meetings this year, and four of them expect two. He disclosed the latest data in hand: August monthly core PCE at 0.25 percent, with the 12-month change at 3.0 percent under the revised methodology and stuck between 2.5 and 3.0 percent since the spring of 2024, and September payrolls solid with unemployment near the median of policymakers' longer-run projections. "For at least the near term, policy will be focused on the inflation side of our mandate," he said.
+
+Waller also proposed a "signaling" communications approach: policymakers could signal a likely terminal path, his example being 75bp over six months, without committing to pace, with the Summary of Economic Projections serving that role. Futures as of Wednesday priced an 85 percent chance of at least one hike by December and nearly 20 percent of two; by the March 2027 meeting, nearly 80 percent for at least two hikes and a 33 percent chance of three or more.
 
 ## Latest
 

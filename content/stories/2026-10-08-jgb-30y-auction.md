@@ -29,4 +29,4 @@ regions:
 - asia-pacific
 ---
 
-Japan's Ministry of Finance sold 450.7 billion yen of 30-year government bonds on October 8, attracting 1.75 trillion yen in competitive bids — a bid-to-cover ratio of about 3.9, edging up from roughly 3.8 at the September 3 sale. The auction cleared at a yield of 4.121% with a 4.2% coupon, up slightly from September's 4.100%.
+Japan's Ministry of Finance sold 450.7 billion yen of 30-year government bonds on October 8, attracting 1.75 trillion yen in competitive bids, a bid-to-cover ratio of about 3.9, edging up from roughly 3.8 at the September 3 sale. The auction cleared at a yield of 4.121% with a 4.2% coupon, up slightly from September's 4.100%.
