@@ -1,16 +1,20 @@
 ---
 title: Hormuz tanker campaign intensifies as six vessels hit since Sunday
 date: 2026-10-06 13:46:37-04:00
-last_updated: 2026-10-08T00:52:17-04:00
+last_updated: 2026-10-08T02:44:14-04:00
 beats:
 - commodities
 status: story
 update_bump: true
-lede: Hormuz tanker transits fell to their lowest since July 23 as attacks on the waterway hit their most intense week since the Iran war began, with crude flows through the strait down 27 percent from their wartime high, per Kpler data.
-why_it_matters: The transit collapse shows the tanker campaign is now biting into physical flows, not just freight and insurance, even as rerouted Gulf of Oman and Red Sea exports keep total Middle East crude at pre-war levels.
+lede: Brent climbed back above $100 to $102.50 on fresh reports of Iranian tanker attacks in Hormuz, even as transits hit their lowest since July 23 and crude flows through the strait fell 27 percent from their wartime high, per Kpler data.
+why_it_matters: Prices are now reacting to the campaign itself rather than the IEA/G7 release plan, which the market has priced in, while the transit collapse shows the campaign is biting into physical flows, not just freight and insurance.
 featured: true
 evidence_grade: B
 sources:
+- title: Oil Jumps 2% as Iran Steps Up Attacks on Hormuz Tankers
+  publisher: OilPrice.com
+  url: https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-2-as-Iran-Steps-Up-Attacks-on-Hormuz-Tankers.html
+  published: '2026-10-08'
 - title: Hormuz transits at lowest in over two months after attacks, data shows
   publisher: Arab News (Kpler data)
   url: https://www.arabnews.com/middle-east/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-3005180
@@ -41,19 +45,22 @@ sources:
   url: https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss
   published: '2026-10-08'
 tags: []
-data_as_of: 'Through October 7, 2026. Transit figures: Kpler via Arab News, October 8
+data_as_of: 'Through October 8, 2026. Transit figures: Kpler via Arab News, October 8
   (7 vessels Tuesday, lowest since July 23; crude 10.1M bpd, down 27% from wartime
-  high, 74% of pre-war). Earlier figures: October 5 settlements for Brent/WTI. Casualty
-  count: 12 injured per gCaptain citing India''s Ministry of External Affairs; Indian
-  outlets (indiandefensenews.in, INDIA New England News via Event Registry) report
-  11 injured. Qatar tanker strike reported October 7-8 (UKMTO via Al Jazeera); casualty
-  count unconfirmed, vessel unidentified'
+  high, 74% of pre-war). Price move: OilPrice.com intraday October 8 (Brent $102.50,
+  +2%+; WTI $89.96, +1.9%). Attack cadence: dozen attacks Sep 28-Oct 2 per U.S. Navy-led
+  outlet via Reuters. Casualty count: 12 injured per gCaptain citing India''s Ministry
+  of External Affairs; Indian outlets (indiandefensenews.in, INDIA New England News
+  via Event Registry) report 11 injured. Qatar tanker strike reported October 7-8
+  (UKMTO via Al Jazeera); casualty count unconfirmed, vessel unidentified'
 regions:
 - asia-pacific
 - middle-east
 ---
 
 ## Latest
+
+Oil prices jumped about 2 percent Thursday as reports of intensifying Iranian attacks on tankers in the Strait of Hormuz outweighed the IEA's update on the G7's planned 100-million-barrel release, which traders treated as already priced in since it draws on a 400-million-barrel plan announced in March. Brent traded at $102.50 at the time of reporting, up more than 2 percent from Wednesday's close, with WTI at $89.96, up 1.9 percent. A U.S. Navy-led information outlet counted a dozen attacks on tankers between September 28 and October 2, Reuters reported Thursday, and ANZ analyst Daniel Hynes told Reuters producers are willing to risk damaged vessels because "there is no alternative way to get their oil to international markets."
 
 Hormuz transits fell to their lowest in more than two months, Kpler data showed Thursday. Just seven commodity vessels crossed the strait on Tuesday, the fewest since July 23, and crude flows dropped 27 percent from the prior week's wartime high to 10.1 million barrels a day, back to the September average and 74 percent of the pre-war level. Most of the decline came from ship-to-ship transfers in the Gulf of Oman. Transits edged up to 10 vessels on Wednesday, still well short of the 20-plus daily tally from Sunday and Monday. The lost Hormuz barrels are being offset for now: Gulf of Oman coast and Red Sea exports rose to 6.7 million bpd, more than double pre-war levels, keeping overall Middle East crude at the pre-war level. Attacks on tankers in the strait reached their highest weekly level since the Iran war began, maritime security sources said.
 
