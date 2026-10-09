@@ -1,7 +1,7 @@
 ---
 title: Flydubai cockpit attack becomes election battleground in Israel
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-05 20:01:16-04:00
+last_updated: 2026-10-09T15:58:56-04:00
 update_bump: true
 beats:
 - politics
@@ -15,6 +15,10 @@ why_it_matters: Netanyahu is campaigning on security while opponents call the br
 featured: false
 evidence_grade: A
 sources:
+- title: UAE prosecutor says Flydubai co-pilot confessed to 9/11-inspired suicide attack plot on Tel Aviv airport
+  publisher: DW / Euronews / France24 / Le Monde / ANSA / Anadolu (via feeds)
+  url: https://www.aa.com.tr/tr/dunya/bae-bassavcisi-flydubai-yardimci-pilotu-sanik-11-eylul-den-esinlenerek-saldiriyi-planladi
+  published: '2026-10-09'
 - title: FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing
     investigation finds
   publisher: KEDM (NPR)
@@ -33,11 +37,12 @@ sources:
   url: https://www.washingtonpost.com/world/2026/10/05/israeli-settlers-race-reshape-west-bank-election-nea
   published: '2026-10-05'
 tags: []
-data_as_of: Incident Sep 30; investigation ongoing Oct 5; exact Israeli election date
-  unconfirmed in sources reviewed
+data_as_of: Incident Sep 30; UAE prosecutor announced co-pilot's confession to a 9/11-inspired suicide attack plot on October 9 (via Anadolu, in Turkish; DW, Euronews, France24, Le Monde, ANSA carried the same prosecutor statement); exact Israeli election date unconfirmed in sources reviewed
 regions:
 - global
 ---
+
+**Latest (Friday, October 9):** The United Arab Emirates' prosecutor general said the Omani co-pilot has confessed during interrogation to planning a 9/11-inspired suicide attack on Tel Aviv's Ben Gurion airport, according to DW, Euronews, France24, Le Monde, ANSA and Anadolu. Investigators say he deliberately chose Flydubai because the carrier operates scheduled flights to Tel Aviv, and that he had flown to Tel Aviv as a passenger earlier this year to evaluate cockpit access and airborne vulnerabilities, intending to hijack that flight but opting not to. The confession recasts the September 30 midair attack as a long-premeditated terrorist plot rather than an in-flight breakdown, and it lands as Israel's election campaign enters its final stretch with security already the central battleground.
 
 A person familiar with the investigation told NPR the Omani co-pilot attacked the captain with a crash axe midflight and tried to seize the controls of the Dubai to Tel Aviv flight, which was carrying 172 people. Flight data showed the plane descending more than 14,000 feet in under 30 seconds before passengers subdued the attacker and the plane diverted to Tabuk, Saudi Arabia. Both pilots survived and were transferred to the UAE for questioning.
 

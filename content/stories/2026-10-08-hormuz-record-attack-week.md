@@ -1,16 +1,20 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-09T10:55:06-04:00
+last_updated: 2026-10-09T15:58:56-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
 update_bump: true
-lede: "A second ship in three days was struck inside the Persian Gulf on Friday, spreading the tanker war beyond the Strait of Hormuz as earnings hit a record $500,000 a day and Vitol's chief warned of $200 oil."
+lede: "A third ship in a week was struck inside the Persian Gulf on Friday, the fully laden supertanker GEM NO.2 hit off the UAE coast, as the tanker war spreads beyond the Strait of Hormuz and earnings hold records above $500,000 a day."
 why_it_matters: "Attacks are moving from Hormuz into the Gulf itself: tankers tied up for weeks have slashed fleet availability, pushing freight costs that add more than $0.50 to a liter of European diesel and make every barrel's delivered price unknowable day to day."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says"
+    publisher: "gCaptain (Reuters)"
+    url: "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/"
+    published: "2026-10-09"
   - title: "Tanker Attack Off Qatar Signals Wider Threat Beyond Hormuz"
     publisher: "gCaptain"
     url: "https://gcaptain.com/tanker-attack-off-qatar-signals-wider-threat-beyond-hormuz/"
@@ -72,6 +76,8 @@ An adviser to the Revolutionary Guards' commander said transit routes in the Str
 The price of persuading crews to run the strait is now public. Tanker captains are being offered $100,000 a month plus bonuses to transit Hormuz, reflecting a crew-risk market that has detached from ordinary wage levels. The pay premium sits alongside record vessel earnings above $500,000 a day and supertankers racing to the Middle East, a combination that is worsening the global ship crunch as hulls tie up in Gulf shuttles instead of serving other routes.
 
 ## Latest
+
+**Latest (Friday, October 9, afternoon):** A third ship in a week was struck inside the Persian Gulf on Friday, when an unknown projectile hit a vessel 13 nautical miles west of Al Jazeera in the United Arab Emirates, UKMTO said, citing multiple sources. A fire broke out and was extinguished. Two shipping and security sources identified the vessel as the Panama-flagged crude supertanker GEM NO.2; British maritime risk group Vanguard said it was struck at about 1000 GMT and issued a distress alert indicating a fire on board. LSEG ship-tracking data showed the fully laden tanker at anchor off the UAE coast. UKMTO said the crew's status, the extent of damage, and any environmental impact remain unknown, with authorities investigating. Maritime security sources said the strike fell outside the Hormuz area, indicating a widening of risk for ships, and it follows the tanker struck off Qatar earlier this week. The US Navy-led Joint Maritime Information Center said Thursday that attacks have grown more frequent in recent days and called for added crew vigilance.
 
 Iranian media reported "massive explosions" in the southern Strait of Hormuz late Thursday, with Fars citing unnamed military sources, according to Al Jazeera's live blog. Trade aggregators attributed the blasts to tankers striking mines, but the claim is uncorroborated: no shipping authority has confirmed a new incident, and Iran is a party to the conflict, so this should be read as Tehran's narrative until independently verified. The live blog also noted Trump saying the US will not strike Iran before the midterms.
 
