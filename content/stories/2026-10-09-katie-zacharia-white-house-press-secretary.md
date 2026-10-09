@@ -1,13 +1,13 @@
 ---
-title: "Katie Zacharia offered White House press secretary role"
+title: "Katie Zacharia accepts White House press secretary role"
 date: 2026-10-09T15:59:20-04:00
-last_updated: 2026-10-09T15:59:20-04:00
+last_updated: 2026-10-09T18:48:11-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "Katie Zacharia, a conservative commentator and senior communications adviser to Trump Media, has been offered the White House press secretary job, succeeding Karoline Leavitt."
+lede: "Katie Zacharia has accepted the White House press secretary job after President Trump announced her selection Friday, putting a Trump media loyalist behind the briefing-room podium weeks before the midterms."
 why_it_matters: "The pick puts a Trump media loyalist behind the briefing-room podium weeks before the midterms, signaling the White House wants a combative on-camera presence for the campaign stretch."
 featured: false
 evidence_grade: "B"
@@ -33,9 +33,11 @@ sources:
     url: "https://thehill.com/homenews/media/6139415-trump-katie-zacharia-white-house-press-secretary/"
     published: "2026-10-09"
 tags: []
-data_as_of: "Offer reported Friday afternoon, October 9, 2026; Fox News confirmed the offer, Axios and Bloomberg report her as tapped to succeed Leavitt, who left the role in late August. Acceptance not yet confirmed in sources reviewed."
+data_as_of: "Acceptance confirmed Friday evening, October 9, 2026: President Trump announced the selection on Truth Social, and Zacharia confirmed acceptance on X, calling it 'the honor of a lifetime' (TIME, updated 5:05 PM ET). No start date announced. Earlier reporting: offer reported Friday afternoon; Karoline Leavitt left the role in late August."
 ---
 
-Katie Zacharia has been offered the role of White House press secretary, Fox News confirmed Friday afternoon. She currently serves as senior communications adviser to Trump Media and Technology Group, the parent of Truth Social, and is an attorney and frequent television commentator who briefly served as a spokesperson for the Department of Homeland Security.
+**Latest (Friday, October 9, evening):** Katie Zacharia has accepted the role of White House press secretary. President Trump announced Friday that he had "selected" her as the next press secretary, posting on Truth Social, and Zacharia herself confirmed acceptance on X, calling the selection "the honor of a lifetime" and vowing to communicate the Administration's wins. No start date has been given. She succeeds Karoline Leavitt, who left the role in late August.
 
-She would succeed Karoline Leavitt, who left the role in late August. Multiple outlets including Bloomberg, CNBC, Axios and The Hill reported the move on Friday. Whether Zacharia has accepted the offer was not confirmed in the reporting reviewed.
+Katie Zacharia was offered the role of White House press secretary earlier Friday, Fox News confirmed. She currently serves as senior communications adviser to Trump Media and Technology Group, the parent of Truth Social, and is an attorney and frequent television commentator who briefly served as a spokesperson for the Department of Homeland Security.
+
+She succeeds Karoline Leavitt, who left the role in late August. Multiple outlets including Bloomberg, CNBC, Axios and The Hill reported the move on Friday.
