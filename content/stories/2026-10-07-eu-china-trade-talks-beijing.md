@@ -1,19 +1,18 @@
 ---
 title: EU-China trade council opens in Beijing at Brussels deadline
 date: 2026-10-07T21:48:35-04:00
-last_updated: 2026-10-08T14:48:08-04:00
+last_updated: 2026-10-08T22:44:48-04:00
 beats:
 - politics
 status: story
 developing: true
 update_bump: true
-lede: Trade Commissioner Maros Sefcovic met Commerce Minister Wang Wentao in Beijing
-  on October 8 as the EU's self-imposed deadline for tangible results arrived, with
-  Brussels now hoping Beijing accepts a unilateral EU cap on hybrid-car imports after
-  China rejected voluntary export restraints.
-why_it_matters: Brussels needs an extended rare-earth controls moratorium, import
-  curbs and market access against a 360-billion-euro deficit; failure risks EU defensive
-  trade instruments and retaliation that would hit EV, chemical and agri-food supply chains.
+lede: The People's Bank of China issued a statement, in Chinese and English, rebutting
+  EU claims that the yuan is undervalued, as Trade Commissioner Maros Sefcovic opened
+  two days of talks with Commerce Minister Wang Wentao in Beijing on October 8.
+why_it_matters: The central bank's intervention adds the exchange rate to the trade
+  agenda just as Brussels weighs defensive instruments; ING's Francesco Pesole read it
+  as a signal Beijing may act more forcefully against further yuan appreciation.
 featured: true
 evidence_grade: B
 sources:
@@ -44,6 +43,10 @@ sources:
   publisher: Bloomberg
   url: https://businessmirror.com.ph/2026/10/06/germany-france-push-new-trade-weapon-before-eu-china-talks/
   published: '2026-10-06'
+- title: China rebuts yuan-undervaluation claims as EU trade talks open (via Yonhap, in Korean)
+  publisher: Yonhap
+  url: https://www.yna.co.kr/view/AKR20261009023800009
+  published: '2026-10-08'
 - title: China says industrial, supply chains with EU 'mutually dependent,' urges dialogue over trade 'concerns'
   publisher: Cumhuriyet Daily
   url: https://www.cumhuriyetdaily.com/world/china-says-industrial-supply-chains-with-eu-mutually-dependent-2140616
@@ -52,11 +55,16 @@ tags: []
 data_as_of: Council session October 8-9, 2026; EU deficit 360 billion euros for 2025
   per Commission statements September-October 2026; Macron/Merz letter October 5; Beijing
   anti-dumping probe opened October 3; rare-earth moratorium expires in coming weeks
-  (exact date unconfirmed in sources read).
+  (exact date unconfirmed in sources read). Per the 10:44pm ET update, the PBOC yuan statement via
+  Yonhap, in Korean, reporting Bloomberg and Xinhua; IMF REER estimate (12-20% undervaluation
+  cited in the article), euro down more than 10% vs yuan from January high, and ING's
+  Francesco Pesole assessment are per the same report.
 regions:
 - europe
 - asia-pacific
 ---
+
+**Latest (Thursday, October 8, 10:44pm ET):** China's central bank weighed into the talks directly, issuing a statement in Chinese and English rebutting the EU-centered claim that the yuan is undervalued. The People's Bank of China said it has neither the need nor the intent to gain competitive advantage through depreciation, argued that China's export competitiveness comes from industrial competitiveness rather than exchange-rate policy, dismissed IMF real-effective-exchange-rate estimates as misused as official evidence, and pledged to start reporting foreign-exchange-market operations data to the IMF from next year. The statement landed as Sefcovic began two days of talks with Wang Wentao, against a backdrop of EU officials increasingly blaming the exchange rate for the trade imbalance. The yuan has strengthened against the dollar and euro this year while the euro has fallen more than 10 percent against the yuan from its January high, though IMF estimates put the yuan's REER 12 to 20 percent below competitors. ING's Francesco Pesole said he expects no major policy shift and read the statement as Beijing signaling it may act more forcefully to curb further yuan appreciation.
 
 **Latest (Thursday, October 8):** As the council's first day wrapped up, the Financial Times reported that Brussels is now hoping to get Beijing to accept a unilateral EU measure capping hybrid-car imports, after China rejected the EU's request for voluntary export restraints. The ask marks the latest evolution in the dispute: the EU asked Beijing to cap hybrid exports voluntarily, Beijing refused, and Brussels is now effectively seeking Beijing's acquiescence to a cap imposed from the EU side. No joint statement with commitments has emerged yet; the session runs through October 9.
 
