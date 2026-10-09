@@ -1,7 +1,7 @@
 ---
 title: "Eurogroup tells France to fix bond crisis alone"
 date: 2026-10-09T07:13:35-04:00
-last_updated: 2026-10-09T07:13:35-04:00
+last_updated: 2026-10-09T13:50:29-04:00
 beats:
 - rates
 regions:
@@ -12,6 +12,14 @@ why_it_matters: With no eurozone backstop available, French yields stay at the m
 featured: false
 evidence_grade: "C"
 sources:
+- title: What's the Matter With France?
+  publisher: Paul Krugman (Substack)
+  url: https://paulkrugman.substack.com/p/whats-the-matter-with-france
+  published: '2026-10-09'
+- title: Nobel winner Krugman says France may have become 'too big to save'
+  publisher: CNBC (RSS feed headline; article not directly accessible)
+  url: https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html
+  published: '2026-10-09'
 - title: "Euro zone ministers to tell France to pass 2027 budget to calm markets"
   publisher: "Reuters"
   url: "https://northlandnewsradio.com/2026/10/08/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets/"
@@ -25,8 +33,10 @@ sources:
   url: "https://www.democrata.es/en/europe/brussels-requests-temporary-and-specific-energy-aid-in-the-face-of-the-risk-of-new-spikes/"
   published: "2026-10-08"
 tags: []
-data_as_of: "Eurogroup meeting October 8, 2026, Luxembourg. Single-sourced: all quoted officials trace to one Reuters dispatch (by Jan Strupczewski, October 8), relayed by Yonhap October 9 in Korean. Corporate-bond and spread figures via Bloomberg relayed by Yonhap."
+data_as_of: "Eurogroup meeting October 8, 2026, Luxembourg; Krugman Substack post opened and read October 9, 2026. Single-sourced: all quoted officials trace to one Reuters dispatch (by Jan Strupczewski, October 8), relayed by Yonhap October 9 in Korean. Corporate-bond and spread figures via Bloomberg relayed by Yonhap. Krugman's views are the economist's analysis, not market data."
 ---
+
+**Latest (Friday, October 9, afternoon):** Nobel laureate economist Paul Krugman warned of a possible "explosive debt crisis" in France, writing that markets treat France as the Western world's "economic sick man." Krugman notes that French five-year CDS imply only a 1.2 percent default probability, which he calls too low, and argues the euro makes the classic doom loop easy to imagine: investors stop buying the bonds, default fears deepen, capital flees, rates rise. His sharper point is that Draghi's "whatever it takes" playbook may not transfer. In 2012, the periphery nations had imposed massive austerity cuts, giving the ECB a political cover to rescue them; France, by contrast, is moving further from fiscal responsibility, which would invite huge opposition from creditor nations, especially Germany. And as the eurozone's second-largest economy, France may have crossed the line from too big to fail to too big to save. CNBC also reported former ECB head Jean-Claude Trichet said French politicians must compromise. Krugman's is an analytical voice, not a market position, and he flags his own ideological caveats at length.
 
 The eurozone's finance ministers looked at France's bond crisis on Thursday and walked away. At their monthly meeting in Luxembourg, Eurogroup ministers agreed that no European institution is prepared to intervene to bring down France's borrowing costs, and that the political uncertainty French politicians created must be resolved by French politicians. The message to Paris: pass the 2027 budget. One senior eurozone official told Reuters the answer on intervention was a clear no and that "France has all the means to respond." A second added: everybody should do their own job, the ECB keeps price stability, governments keep fiscal stability.
 

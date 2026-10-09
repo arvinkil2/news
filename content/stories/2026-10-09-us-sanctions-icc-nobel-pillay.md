@@ -1,7 +1,7 @@
 ---
 title: "US sanctions the ICC itself, hours after former judge Pillay wins Nobel Peace Prize"
 date: 2026-10-09T11:47:00-04:00
-last_updated: 2026-10-09T11:47:00-04:00
+last_updated: 2026-10-09T13:48:44-04:00
 beats:
 - politics
 regions:
@@ -25,9 +25,15 @@ sources:
   publisher: "US Department of State"
   url: "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
   published: "2026-10-09"
+- title: Joint statement on support for the International Criminal Court
+  publisher: UK Government (gov.uk)
+  url: https://www.gov.uk/government/news/joint-statement-on-support-for-the-international-criminal-court
+  published: 2026-10-09
 tags: []
 data_as_of: "Arab News/Reuters reporting October 9, 2026 (article opened and read directly); EC Press Corner statement read via live browser session; State Department release URL confirmed live but content blocked to the page fetcher."
 ---
+
+**Latest (1:48pm ET Friday):** Eight foreign ministers, Canada, Denmark, Germany, France, Italy, Japan, the Netherlands and the UK, issued a joint statement reaffirming "continued and unwavering support" for the ICC's independence, impartiality and integrity, saying they "regret and strongly disagree" with the US sanctions announcement. The statement praised the court's preparations so the court can continue to fulfil its mandate under the Rome Statute, but warned that if the sanctions take effect they "will have a significant impact on the Court's work, its dedicated staff and their families." The ministers committed to constructive dialogue with non-States Parties ahead of the Assembly of States Parties in December 2026 and to working together to uphold the rules-based international system.
 
 The Trump administration imposed sanctions on the International Criminal Court itself on Friday, hours after one of the court's former judges won the Nobel Peace Prize, escalating Washington's campaign against the tribunal from targeting individual officials to targeting the institution. Secretary of State Marco Rubio said the United States would ban transactions with the court, cutting off its resources and crippling its ability to operate. "President Trump will never allow the International Criminal Court to prosecute Americans," Rubio said in a statement.
 

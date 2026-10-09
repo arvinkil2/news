@@ -1,7 +1,7 @@
 ---
 title: Hurricane Isaias strengthens to Category 3 ahead of Gulf Coast landfall
 date: 2026-10-07 14:50:46-04:00
-last_updated: 2026-10-09T10:49:13-04:00
+last_updated: 2026-10-09T13:48:22-04:00
 beats:
 - commodities
 status: story
@@ -12,6 +12,14 @@ why_it_matters: With 62.9 percent of Gulf oil output already shut in, a major hu
 featured: false
 evidence_grade: C
 sources:
+- title: Isaias Puts 500,000 Barrels a Day of Refining Capacity at Risk
+  publisher: gCaptain (citing Bloomberg)
+  url: https://gcaptain.com/isaias-puts-500000-barrels-a-day-of-refining-capacity-at-risk/
+  published: '2026-10-09'
+- title: Category 2 Hurricane Isaias nears landfall, leading to production shut-ins
+  publisher: Gov Energy Bodies Important (official release)
+  url: ""
+  published: '2026-10-09'
 - title: Hurricane Isaias Shuts Down Nearly Two-Thirds of Gulf Oil Production
   publisher: gCaptain (citing the Marine Minerals Administration and the National Hurricane Center)
   url: https://gcaptain.com/hurricane-isaias-shuts-down-nearly-two-thirds-of-gulf-oil-production/
@@ -25,10 +33,14 @@ sources:
   url: https://zarknews.com/hurricane-isaias-first-atlantic-hurricane-2026/
   published: '2026-10-09'
 tags: []
-data_as_of: NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday. Single-sourced on the latest advisory.
+data_as_of: NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures. Single-sourced on the latest advisory.
 regions:
 - global
 ---
+
+## Latest: 500,000 barrels a day of refining capacity in the path
+
+Nearly 500,000 barrels a day of oil-refining capacity sits in Isaias's projected path, Bloomberg reported via gCaptain, raising the risk that a US fuel market with no supplies to spare loses critical output. The exposed facilities: Chevron's 356,000 barrel-a-day Pascagoula refinery in Mississippi, on the western edge of the NHC's projected path with the southeast Mississippi coast under a hurricane warning, where Chevron says it is monitoring the storm and making appropriate preparations; Vertex Energy's 88,000 barrel-a-day Mobile, Alabama, facility, directly in the projected path; and Hunt Refining's 50,000 barrel-a-day Tuscaloosa refinery, further inland but under a tropical storm watch and in the forecast path. Gasoline averaged $4.36 a gallon nationally as of Wednesday per AAA, while diesel set an all-time record in September and stood around $6.28 a gallon on Wednesday, so even small production losses could hit pump prices fast.
 
 ## Latest: Category 3, 120 mph winds, landfall tonight or early Saturday
 

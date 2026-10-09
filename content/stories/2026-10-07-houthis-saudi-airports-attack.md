@@ -1,15 +1,13 @@
 ---
 title: Houthi strikes on Saudi airports kill three
 date: 2026-10-07T22:52:29-04:00
-last_updated: 2026-10-08T19:45:40-04:00
+last_updated: 2026-10-09T13:46:35-04:00
 beats:
 - politics
 status: developing
 developing: true
 update_bump: true
-lede: Explosions rattled Riyadh again Thursday as the Houthis claimed another ballistic-missile
-  strike on King Khalid International Airport, the Saudi-led coalition said it intercepted
-  two missiles bound for the capital, and crude prices jumped on the widening conflict.
+lede: Saudi Arabia confirmed two Houthi attacks on Riyadh's King Khalid International Airport, one striking airport facilities and the second a Saudia aircraft, killing pilot Captain Hamoud Ali AlKalthami and two others, as Britain condemned the escalation and the UK pushed for a Houthi terror designation.
 why_it_matters: "The second strike on the capital's airport in as many days makes the
   war a daily event over Riyadh, spiked oil prices, and exposed Washington's reluctance -
   Trump has rebuffed Saudi requests to join the fight even as the US military prepares
@@ -17,6 +15,18 @@ why_it_matters: "The second strike on the capital's airport in as many days make
 featured: false
 evidence_grade: B
 sources:
+- title: Saudia pilot killed in attack on Riyadh airport
+  publisher: Arab News
+  url: https://www.arabnews.com/saudi-arabia/saudia-pilot-killed-in-attack-on-riyadh-airport-3005428
+  published: '2026-10-09'
+- title: The United Kingdom unequivocally condemns the dangerous escalation by the Houthis in Yemen
+  publisher: UK Government (gov.uk)
+  url: https://www.gov.uk/government/speeches/the-united-kingdom-unequivocally-condemns-the-dangerous-escalation-by-the-houthis-in-yemen-uk-statement-at-the-un-security-council
+  published: '2026-10-09'
+- title: Lord Sarfraz calls on UK minister to designate Houthis as terror group after Riyadh airport attack
+  publisher: Arab News
+  url: https://www.arabnews.com/world/lord-sarfraz-calls-on-uk-minister-to-designate-houthis-as-terror-group-after-riyadh-airport-attack-3005501
+  published: '2026-10-09'
 - title: L'Arabie saoudite déplore trois morts dans des attaques houthistes contre des aéroports
   publisher: Le Monde (AFP)
   url: https://www.lemonde.fr/international/article/2026/10/08/l-arabie-saoudite-deplore-trois-morts-dans-des-attaques-houthistes-contre-des-aeroports_6789723_3210.html
@@ -46,17 +56,14 @@ sources:
   url: https://www.nytimes.com/2026/10/08/briefing/explosions-rattle-saudi-capital.html
   published: '2026-10-08'
 tags: []
-data_as_of: "October 8, 2026, 7:45pm ET - Thursday evening developments: explosions in Riyadh
-  and airport closure via an Associated Press witness and Flightradar24 (carried by
-  AP affiliates); interception of two missiles toward Riyadh and one toward Khamis
-  Mushait via coalition spokesman Turki al-Malki; kindergarten and medical complex
-  damage via Saudi civil defense; oil price jump via the New York Times; Trump rebuffing
-  Saudi requests, US analysts in Saudi command centers, the tanker hit north of Qatar,
-  and US options against Iran via the NYT Evening briefing. Wednesday casualty figures
-  from the Saudi General Authority of Civil Aviation."
+data_as_of: "October 9, 2026, afternoon ET - Friday developments: GACA confirmation of two Riyadh airport attacks and Saudia pilot's death via Arab News (article opened and read); Saudia flight resumption 6pm Thursday; UK condemnation at UNSC via UK Government feed; Lord Sarfraz terror-designation call via Arab News. Thursday developments as before: explosions in Riyadh and airport closure via an Associated Press witness and Flightradar24 (carried by AP affiliates); interception of two missiles toward Riyadh and one toward Khamis Mushait via coalition spokesman Turki al-Malki; kindergarten and medical complex damage via Saudi civil defense; oil price jump via the New York Times; Trump rebuffing Saudi requests, US analysts in Saudi command centers, the tanker hit north of Qatar, and US options against Iran via the NYT Evening briefing. Wednesday casualty figures from the Saudi General Authority of Civil Aviation."
 regions:
 - middle-east
 ---
+
+**Latest (1:46pm ET Friday):** Saudi Arabia's civil aviation authority confirmed on Friday that King Khalid International Airport in Riyadh was subjected to two attacks, killing three people including a Saudia pilot. The first attack targeted airport facilities and the second a Saudia aircraft on the ground; no passengers were aboard. Saudia identified the pilot as Captain Hamoud Ali AlKalthami and said the airline honors his memory with deep respect for his career with the national flag carrier. Injuries ranged from minor to severe among citizens and residents. Saudia said its flights and operations at the airport returned to normal at 6pm on Thursday, and GACA said it is assessing damage and maintaining aviation security measures.
+
+Internationally, the pressure is building. The UK government issued a statement at the UN Security Council unequivocally condemning the Houthis' dangerous escalation in Yemen, and Arab News reported that Lord Sarfraz is calling on the UK minister to designate the Houthis as a terror group after the Riyadh airport attack.
 
 **Latest (7:45pm ET Thursday):** Several explosions were heard across Riyadh on Thursday, including a large blast at King Khalid International Airport, a witness told the Associated Press, as the Houthis claimed a new ballistic-missile strike on the airport. Fire and ambulance crews were deployed and smoke was visible at the airport, where passengers were evacuated and told to leave checked-in luggage behind. Coalition spokesman Maj. Gen. Turki al-Malki said Saudi forces intercepted and destroyed two ballistic missiles launched by the Houthis toward Riyadh, plus a third fired toward Khamis Mushait near the Yemen border. Saudi civil defense authorities said interception debris damaged a kindergarten and a medical complex, reporting no casualties. Flightradar24 said the airport was "closed again," with no landings or takeoffs for over 80 minutes, and FlightAware reported hundreds of cancelled flights; crude oil prices jumped on the news.
 
