@@ -1,11 +1,12 @@
 ---
 title: "Australia high court voids coal mine approval on emissions"
 date: 2026-10-08T07:33:41-0400
-last_updated: 2026-10-08T07:33:41-0400
+last_updated: 2026-10-09T07:13:22-0400
+update_bump: true
 beats: ["mining"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "The High Court of Australia ruled 3-2 that approval of MACH Energy's Mount Pleasant coal mine expansion was invalid because planners failed to consider conditions cutting the project's greenhouse gas emissions."
+lede: "The High Court of Australia ruled 3-2 that approval of MACH Energy's Mount Pleasant coal mine expansion was invalid because planners failed to consider conditions cutting the project's greenhouse gas emissions; MACH has since committed to responsible operation and the mining union backed the mine's future."
 why_it_matters: "The first climate case to reach Australia's highest court sets a binding precedent for 17 coal proposals in the NSW pipeline and reshapes fossil-fuel permitting nationally."
 featured: false
 evidence_grade: "B"
@@ -18,8 +19,16 @@ sources:
     publisher: "DAMS HEG (via Medianet)"
     url: "https://newshub.medianet.com.au/2026/10/high-court-rules-in-favour-of-hunter-valley-community-landmark-climate-ruling-will-reshape-fossil-fuel-approvals-across-australia/175259/"
     published: "2026-10-07"
+  - title: "MACH Energy commits to responsible operation following court ruling"
+    publisher: "Australian Mining"
+    url: "https://www.australianmining.com.au/mach-energy-commits-to-responsible-operation-following-court-ruling"
+    published: "2026-10-08"
+  - title: "MEU backs Mount Pleasant mine future"
+    publisher: "Australian Mining"
+    url: "https://www.australianmining.com.au/meu-backs-mount-pleasant-mine-future/"
+    published: "2026-10-08"
 tags: []
-data_as_of: "Judgment handed down Oct 7, 2026; expansion approved 2022; current permission expires December 2026"
+data_as_of: "Judgment handed down Oct 7, 2026; MACH commitment and MEU backing reported Oct 8, 2026 (Australian Mining pages blocked at fetch, cited via article URLs); expansion approved 2022; current permission expires December 2026; last_updated 2026-10-09T07:13:22-0400"
 ---
 
 The court dismissed MACH Energy's appeal on Wednesday, with Justices Gordon, Edelman and Beech-Jones finding the state's Independent Planning Commission had failed its duty to consider conditions cutting emissions "to the greatest extent practicable" as state planning policy requires. The failure concerned scope 3 emissions, released when the coal is burned overseas, which make up about 98 percent of the project's emissions. The commission had set conditions only on the mine's own emissions. Chief Justice Gageler and Justice Jagot dissented on that point.
@@ -27,3 +36,5 @@ The court dismissed MACH Energy's appeal on Wednesday, with Justices Gordon, Ede
 The expansion, approved by the commission in 2022, would double the open-cut mine's output from the currently permitted 10.5 million tonnes a year to 21 million tonnes and extend operations to 2048 near Muswellbrook in the Hunter Valley. It would allow extraction of an additional 406 million tonnes of coal, generating an estimated 870 million tonnes of carbon dioxide, 98 percent of it as scope 3. The current permission runs out this December. The case now returns to the NSW Land and Environment Court, and the approval remains invalid in the meantime.
 
 The challenge was brought by the Denman Aberdeen Muswellbrook Scone Healthy Environment Group, a local residents' group that lost in the Land and Environment Court before the NSW Court of Appeal ruled the approval unlawful in July 2025. The High Court ruling is binding across the NSW planning system and directly affects 17 coal proposals currently in the pipeline, with advocates calling it a template for other states and future climate litigation. MACH Energy is owned by MACH Energy Australia, a subsidiary of Indonesia's Salim Group.
+
+Post-ruling reactions have been carefully political. MACH Energy said it remains committed to operating the mine responsibly while the matter is remitted back to the NSW Land and Environment Court, Australian Mining reported October 8. The Mining and Energy Union backed the mine's future the same day, giving the company political cover from labor as the approval limbo stretches toward the December expiry of the current permission. Neither response changes the legal position: the expansion approval is invalid until the court reconsiders it with emissions-cutting conditions properly weighed.

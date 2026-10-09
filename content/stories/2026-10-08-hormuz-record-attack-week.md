@@ -1,7 +1,7 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-08T21:42:49-04:00
+last_updated: 2026-10-09T07:16:44-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -39,9 +39,27 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait"
     published: "2026-10-08"
+  - title: "Iranian official says 'illegal routes' in Strait of Hormuz to soon be blocked"
+    publisher: "Reuters via LA Post"
+    url: "https://www.lapost.com/content/iranian-official-says-illegal-routes-in-strait-of-hormuz-to-soon-be-blocked"
+    published: "2026-10-07"
+  - title: "U.S. Confirms 20 Million Barrels Moving Through Hormuz, Rejecting Iran's Blockade Claims"
+    publisher: "Marine Insight"
+    url: "https://www.marineinsight.com/u-s-confirms-20-million-barrels-moving-through-hormuz-rejecting-irans-blockade-claims/"
+    published: "2026-10-08"
+  - title: "Tanker Captains Offered $100,000 A Month Plus Bonus To Transit Strait Of Hormuz"
+    publisher: "Marine Insight"
+    url: "https://www.marineinsight.com/tanker-captains-offered-100000-a-month-plus-bonus-to-transit-strait-of-hormuz/"
+    published: "2026-10-08"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; the claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident."
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident."
 ---
+
+## Friday: Iran vows to close "illegal" routes; US says 20 million barrels a day still flowing
+
+An adviser to the Revolutionary Guards' commander said transit routes in the Strait of Hormuz deemed illegal by Iran will soon be closed, referring to the southern pathway hugging Oman's coast, Mohammadreza Naqdi told the semi-official Fars News Agency on Wednesday, per Reuters. Naqdi said the "few routes" had been created by blasting and damaging rocky passages in the waterway and were used by small boats smuggling oil and transferring it to tankers, and he challenged the narrative that Gulf oil exports are regaining pre-war levels. "The Strait of Hormuz is closed, and the armed forces of the Islamic Republic of Iran have full control over it. This situation will continue until Iran's legitimate demands are met," he added. The vow is Tehran's narrative until tested against independent shipping data: a Kpler seven-day moving average put regional crude exports at 18.3 million barrels a day on September 30, with volumes topping pre-war levels on 14 days in September, and US sources said about 20 million barrels a day are still moving through the strait, rejecting Iran's blockade claims. A second IRGC adviser, Majid Mirahmadi, countered Thursday that a daily average of 10 ships transit the waterway against 125 before the war, a figure irreconcilable with the Kpler data.
+
+The price of persuading crews to run the strait is now public. Tanker captains are being offered $100,000 a month plus bonuses to transit Hormuz, reflecting a crew-risk market that has detached from ordinary wage levels. The pay premium sits alongside record vessel earnings above $500,000 a day and supertankers racing to the Middle East, a combination that is worsening the global ship crunch as hulls tie up in Gulf shuttles instead of serving other routes.
 
 ## Latest
 

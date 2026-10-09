@@ -1,11 +1,11 @@
 ---
 title: France presents 2027 budget as OAT spread holds near 136bp
 date: 2026-10-06 12:41:35-04:00
-last_updated: 2026-10-08T07:33:47-0400
+last_updated: 2026-10-09T07:16:20-04:00
 beats:
 - rates
 status: story
-lede: France formally presents its 2027 Budget Act on Thursday with a 5.0 percent deficit target and 54 billion euros of adjustment, while the 10Y OAT-Bund spread holds near 136bp, off Friday's roughly 159bp peak but still the eurozone's widest stress point.
+lede: The Eurogroup refused Thursday to promise any intervention in France's bond rout, leaving the 10-year OAT just short of 5 percent and the 2027 budget's October 13 parliamentary debate as the only circuit-breaker.
 why_it_matters: The budget's legislative path decides whether the ECB's October 29 meeting happens against a contained spread or a fiscal crisis, and Lecornu has already threatened to force it through with special constitutional powers.
 featured: true
 evidence_grade: B
@@ -42,11 +42,26 @@ sources:
   publisher: Regfollower
   url: https://regfollower.com/france-submits-2027-social-security-finance-bill-to-national-assembly/
   published: '2026-10-08'
+- title: Euro zone ministers to tell France to pass 2027 budget to calm markets
+  publisher: Reuters
+  url: https://northlandnewsradio.com/2026/10/08/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets/
+  published: '2026-10-08'
+- title: 프랑스 국채위기 알아서 해결하라…ECB 개입 차단
+  publisher: Yonhap (in Korean)
+  url: https://www.yna.co.kr/view/AKR20261009054600082
+  published: '2026-10-09'
 tags: []
-data_as_of: Budget Act formally presented October 8, 2026; spread and yield levels from October 7 Tradeweb data via Dow Jones. Assembly debate on Part I of the budget bill runs October 13-19 with a formal vote October 20.
+data_as_of: Budget Act formally presented October 8, 2026; spread and yield levels from October 7 Tradeweb data via Dow Jones. Assembly debate on Part I of the budget bill runs October 13-19 with a formal vote October 20. Eurogroup outcome and latest yield and spread levels per Reuters, October 8; intervention quotes single-sourced to the Reuters dispatch, relayed by Yonhap in Korean October 9.
 regions:
 - europe
 ---
+
+## Friday: no rescue coming
+
+The Eurogroup ended any hope of a European rescue on Thursday. Finance ministers meeting in Luxembourg agreed that no eurozone institution is prepared to intervene to bring down France's borrowing costs, per Reuters, telling Paris to resolve its own political uncertainty by passing the 2027 budget. ECB President Lagarde stressed the transmission protection instrument has strict criteria, deficit at or below 3 percent of GDP and debt at or below 60 percent, that France cannot meet at 5.1 percent and 115.6 percent.
+
+The refusal lands against a brutal tape. The OAT-Bund spread broke 150bp on October 2, the widest since the 2010 to 2012 eurozone debt crisis, and French 10-year yields sit just short of 5 percent, the highest since July 2002, up nearly 80bp since early September. Thirty-eight percent of French corporate bonds now trade wider than the sovereign, 18 times the share at the start of the year, per Bloomberg, as investors price France like the periphery rather than the core. Assembly debate on Part I of the budget bill starts October 13, with a formal vote October 20. The spread, not the ECB's October 29 meeting, is what will decide French financial conditions.
+
 
 ## Thursday
 

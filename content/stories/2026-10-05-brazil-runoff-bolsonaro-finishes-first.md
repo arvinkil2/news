@@ -1,7 +1,7 @@
 ---
 title: Flavio Bolsonaro vows to "re-democratise" Brazil
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-08T21:42:49-04:00
+last_updated: 2026-10-09T07:14:02-04:00
 update_bump: true
 beats:
 - politics
@@ -36,6 +36,12 @@ sources:
   publisher: The Guardian
   url: https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election
   published: '2026-10-07'
+- title: Brazil Election - Bolsonaro Says He Would Work With US, China as President
+  publisher: Bloomberg
+  published: '2026-10-08'
+- title: Brazil Election - Flavio Bolsonaro Surge Attracts Top Finance Minister Names
+  publisher: Bloomberg
+  published: '2026-10-08'
 tags: []
 data_as_of: TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
   reset Oct 5; equity/currency moves single-sourced, unconfirmed; vow reported October
@@ -62,6 +68,8 @@ Markets moved fast on the upset. Brazilian equities were reported up about 8 per
 The result also reverberates beyond Brazil. Bolsonaro is an open ally of Donald Trump, and a victory would align Brasilia with Washington just as the US heads into its own midterms, with implications for trade, Amazon and climate diplomacy, and critical-minerals partnerships. The Washington Post reported October 5 that Trump deliberately kept silent during the campaign, a restraint that may have helped his ally by denying Lula a foreign-adversary foil. Flavio Bolsonaro has pledged to bring Brazil into the Americas Shield, the Washington-backed security coalition Brazil is currently absent from, a commitment with implications for hemispheric security financing. Lula, meanwhile, retains the machinery of incumbency and a record of second-round comebacks, having won runoffs before.
 
 Flavio Bolsonaro vowed to "re-democratise" Brazil, according to The Guardian's October 7 reporting, as the presidential runoff enters its final stretch. The phrasing has alarmed critics, who read it as a signal of institutional confrontation if the senator defeats Luiz Inacio Lula da Silva on October 25, and as an unnerving echo of his father Jair Bolsonaro's attacks on Brazil's democratic institutions. Jair Bolsonaro is serving a 27-year prison sentence for attempting to overturn his 2022 election defeat.
+
+**Latest (Friday, October 9, morning):** Bolsonaro broadened his foreign-policy pitch, telling Bloomberg on October 8 that as president he would work with both the United States and China, a balancing act between the hemispheric alignment his backers expect and the trade dependence Brasilia cannot unwind. The same outlet reported his first-round surge is attracting top finance-minister names, the early-market signal that a Bolsonaro economic team would staff up with orthodox credentials, though the specific names have not been verified in this pass. Both items are single-sourced to Bloomberg reporting and should be treated as reported, not confirmed. A first post-first-round Datafolha poll (2,520 in-person interviews, October 6-7) showed Bolsonaro at 49 percent to Lula's 45 in a simulated runoff, a technical tie within the 2-point margin, with 5 percent blank and 1 percent undecided.
 
 The vow lands against a Supreme Court decision to weigh any review of Jair Bolsonaro's sentence only after the runoff, a deliberate move to keep the former president's liberty out of the final campaign stretch. Flavio finished first in the October 4 first round and faces Lula in a runoff that all major pollsters' pre-round simulations rate a technical tie.
 

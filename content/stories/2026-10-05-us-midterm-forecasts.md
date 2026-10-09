@@ -1,7 +1,7 @@
 ---
 title: Cook shifts three Senate races toward Democrats
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-08T07:36:53-0400
+last_updated: 2026-10-09T07:14:13-04:00
 beats:
 - politics
 status: story
@@ -39,12 +39,38 @@ sources:
   publisher: Political.org
   url: https://political.org/2026/10/06/cook-political-report-shifts-kansas-new-hampshire-and-north-carolina-senate-races-toward-democrats-putting-majority-within-reach/
   published: '2026-10-06'
+- title: Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers
+  publisher: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers
+  published: '2026-10-09'
+- title: Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran
+  publisher: Fox News
+  url: https://www.foxnews.com/politics/michigan-senate-debate-erupts-personal-attacks-rogers-el-sayed-clash-over-israel-iran-m
+  published: '2026-10-08'
+- title: Insults Punctuate El-Sayed, Rogers Fiery Michigan Senate Debate
+  publisher: Bloomberg
+  published: '2026-10-09'
+- title: Fiery Senate Debates in Maine, Michigan and Georgia - Five Takeaways
+  publisher: The New York Times
+  published: '2026-10-09'
+- title: Brown holds 6-point lead over Husted in Ohio Senate race survey
+  publisher: The Hill
+  url: https://thehill.com/homenews/campaign/6136241-brown-leads-husted-ohio-poll/
+  published: '2026-10-08'
+- title: Tillis backs Whatley in North Carolina Senate race
+  publisher: The Hill
+  url: https://thehill.com/homenews/campaign/6134102-tillis-backs-whatley-senate-election/
+  published: '2026-10-08'
 tags: []
 data_as_of: Cook Political Report ratings update October 6, 2026; Michigan, Iowa and
   Maine first debates October 7-8.
 regions:
 - north-america
 ---
+
+**Latest (Friday, October 9, morning):** The Senate campaign moved to the debate stage in three battlegrounds. In Michigan, the October 8 debate between Republican Mike Rogers and Democrat Abdul El-Sayed turned heated and personal: Rogers repeatedly insinuated that El-Sayed, who would be the first Muslim US senator if elected, had family on a terrorism watch list, while El-Sayed called Rogers a yacht-owning millionaire out of touch with voters. On policy the two converged on one point, both agreeing the US-Israeli war against Iran should end, while splitting over Israel aid (Rogers backs it; El-Sayed calls for ending it) and the Canada trade war, which Rogers sought to distance himself from even as El-Sayed tied him to Trump's tariffs. Rogers also called the militarised immigration operations in Minnesota "not appropriate," a notable break from Trump. The debate was covered by Al Jazeera, Fox News and Bloomberg, all corroborating the outline.
+
+Georgia and Maine went the same way. Jon Ossoff and Mike Collins traded personal attacks in their Georgia debate, covered by The Hill and the New York Times, and Susan Collins and Troy Jackson's second Maine debate was described as testy by both outlets, with heating-oil costs reportedly putting Collins on the defensive. In polling, The Hill reported a survey putting Ohio Democrat Sherrod Brown six points ahead of Republican Jon Husted, while Iowa produced conflicting surveys: one with Democrat Rob Sand up 12 on Republican Randy Feistner for governor and Ashley Hinson trailing Josh Turek in the Senate race, another with Hinson leading the Senate contest, both single-sourced through blocked domains and treated as reported. In North Carolina, Republican Senator Thom Tillis endorsed Michael Whatley, formalising the GOP establishment line behind one candidate in the race Cook just moved to Likely Democrat.
 
 The midterm picture as of Monday evening favors Democrats in the House and a coin flip in the Senate. The Call the Map forecast, updated 6:17 PM ET on Oct 5, puts Democratic House control at 80 in 100 and Democratic Senate control at 52 in 100, with Democrats winning both chambers at 49 in 100 and a Republican Senate alongside a Democratic House at 31 in 100. The generic congressional ballot stands at D+7.4, per polling aggregators tracking surveys through Oct 5. Decision Desk HQ's latest update likewise has Democrats gaining ground in the House race with the Senate firmly up for grabs.
 

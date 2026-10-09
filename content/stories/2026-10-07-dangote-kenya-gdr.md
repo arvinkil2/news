@@ -1,7 +1,7 @@
 ---
 title: Kenya clears Dangote refinery GDR route for local investors
 date: 2026-10-07 07:07:32-04:00
-last_updated: 2026-10-08T07:36:40-0400
+last_updated: 2026-10-09T07:13:47-04:00
 beats:
 - infra-deals
 status: story
@@ -35,8 +35,16 @@ sources:
   publisher: Kenyan Business Feed
   url: https://kenyanbusinessfeed.com/cma-approves-kenyan-access-to-dangote-refinery-ipo-via-gdrs/
   published: '2026-10-05'
+- title: Dangote Petroleum Refinery IPO Opens for Subscription
+  publisher: Vanguard Nigeria
+  url: https://www.vanguardngr.com/2026/10/dangote-petroleum-refinery-ipo-opens-for-subscription/
+  published: '2026-10-08'
+- title: AELEX plays key role in Dangote Refinery's $1.5bn IPO
+  publisher: Vanguard Nigeria
+  url: https://www.vanguardngr.com/2026/10/aelex-plays-key-role-in-dangote-refinerys-1-5bn-ipo/
+  published: '2026-10-08'
 tags: []
-data_as_of: "Information memorandum dated October 6, 2026. GDR offer: up to 728,971,962 unsponsored inward GDRs at Ksh53.50 each (about Ksh39 billion, roughly $300.4 million, nearly 20 percent of the $1.6 billion IPO); minimum subscription 2,000 GDRs in increments of 100; minimum success threshold 50 million Kenyan shillings. Offer closes October 13, 2026; allotments expected around November 11-12; NSE listing about 15 business days after allotment. IPO opened September 14 and closes October 13."
+data_as_of: "Information memorandum dated October 6, 2026. GDR offer: up to 728,971,962 unsponsored inward GDRs at Ksh53.50 each (about Ksh39 billion, roughly $300.4 million, nearly 20 percent of the $1.6 billion IPO); minimum subscription 2,000 GDRs in increments of 100; minimum success threshold 50 million Kenyan shillings. Offer closes October 13, 2026; allotments expected around November 11-12; NSE listing about 15 business days after allotment. IPO opened September 14 and closes October 13. Nigerian subscription formally opened October 8 (Vanguard); AELEX acting on the transaction."
 regions:
 - africa
 ---
@@ -50,5 +58,7 @@ The minimum subscription is 2,000 GDRs, in multiples of 100, with a 50 million K
 Kenya's Capital Markets Authority approved the programme on October 5, and Uganda's markets regulator has separately authorized Dangote to market the IPO locally, making Uganda the second East African country in the offer. It would be the first unsponsored inward GDR programme of its kind in Africa, according to Renaissance Capital. The CMA stressed its approval does not constitute a recommendation, and noted the GDRs carry different rights from directly held Nigerian shares.
 
 The IPO itself opened September 14 as a 4.1 billion-share offer at N525 per share, aiming to raise about N2.15 trillion (roughly $1.6 billion) to fund a capacity doubling from 700,000 to 1.4 million barrels per day. It is described as Africa's largest share sale, with strong early demand reportedly exceeding $7 million committed in the first hour.
+
+Nigerian subscription formally opened for the offer on October 8, with the closing date of October 13 holding. Law firm AELEX is acting on the transaction, Vanguard reported, and coverage this week frames the float as a test of Nigeria's roughly six-million-strong investor base and its ability to absorb a record domestic equity issue. The East Africa GDR window closes on the same October 13 date.
 
 The move is part of a wider East Africa strategy: at the September 30 groundbreaking of a proposed Kenyan refinery, Dangote offered East African countries a combined 30 percent equity stake in a roughly $17 billion project expected to take about five years, with Kenyan presidential adviser David Ndii disclosing that Kenya would take 10 percent and Ethiopia and Rwanda expressing interest. The refinery is planned near Lamu on the LAPSSET corridor.

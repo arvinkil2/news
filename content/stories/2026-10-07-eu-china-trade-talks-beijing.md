@@ -1,18 +1,14 @@
 ---
-title: EU-China trade council opens in Beijing at Brussels deadline
+title: EU-China trade council enters final day with no outcome yet
 date: 2026-10-07T21:48:35-04:00
-last_updated: 2026-10-08T22:44:48-04:00
+last_updated: 2026-10-09T07:13:10-04:00
 beats:
 - politics
 status: story
 developing: true
 update_bump: true
-lede: The People's Bank of China issued a statement, in Chinese and English, rebutting
-  EU claims that the yuan is undervalued, as Trade Commissioner Maros Sefcovic opened
-  two days of talks with Commerce Minister Wang Wentao in Beijing on October 8.
-why_it_matters: The central bank's intervention adds the exchange rate to the trade
-  agenda just as Brussels weighs defensive instruments; ING's Francesco Pesole read it
-  as a signal Beijing may act more forcefully against further yuan appreciation.
+lede: With the second EU-China Trade and Investment Council entering its final day in Beijing on October 9, no joint statement or tangible commitment had emerged publicly by Friday morning, as Brussels' October deadline for results arrives.
+why_it_matters: Without an announced outcome on rare-earth export controls, import management or market access, EU leaders head into the October 15-16 European Council with Sefcovic's defensive-trade instruments and the France-Germany retaliation tool as the live alternatives.
 featured: true
 evidence_grade: B
 sources:
@@ -52,17 +48,15 @@ sources:
   url: https://www.cumhuriyetdaily.com/world/china-says-industrial-supply-chains-with-eu-mutually-dependent-2140616
   published: '2026-10-07'
 tags: []
-data_as_of: Council session October 8-9, 2026; EU deficit 360 billion euros for 2025
+data_as_of: Council session October 8-9, 2026; no public joint statement or commitment as of October 9, 07:13 ET. EU deficit 360 billion euros for 2025
   per Commission statements September-October 2026; Macron/Merz letter October 5; Beijing
-  anti-dumping probe opened October 3; rare-earth moratorium expires in coming weeks
-  (exact date unconfirmed in sources read). Per the 10:44pm ET update, the PBOC yuan statement via
-  Yonhap, in Korean, reporting Bloomberg and Xinhua; IMF REER estimate (12-20% undervaluation
-  cited in the article), euro down more than 10% vs yuan from January high, and ING's
-  Francesco Pesole assessment are per the same report.
+  anti-dumping probe opened October 3; rare-earth moratorium expiry reported November 10 (Brussels Signal) vs "coming weeks" in earlier reporting.
 regions:
 - europe
 - asia-pacific
 ---
+
+**Latest (Friday, October 9, morning):** The council's second and final day is under way in Beijing, and as of this morning neither the European Commission nor China's Commerce Ministry had published a joint statement, readout or commitment. That silence matters: Brussels set October as the deadline for "tangible results" when the council launched in June, and Commission spokespeople have said the outcome must be credible. If the talks close with no public deliverable, EU leaders will take stock of that absence at the European Council on October 15-16, where the defensive instruments Sefcovic has threatened and the Franco-German rapid-retaliation proposal are the waiting alternatives. The rare-earth export-control moratorium, which Brussels Signal reported expires November 10, is the most time-sensitive ask, and nothing announced so far indicates its extension.
 
 **Latest (Thursday, October 8, 10:44pm ET):** China's central bank weighed into the talks directly, issuing a statement in Chinese and English rebutting the EU-centered claim that the yuan is undervalued. The People's Bank of China said it has neither the need nor the intent to gain competitive advantage through depreciation, argued that China's export competitiveness comes from industrial competitiveness rather than exchange-rate policy, dismissed IMF real-effective-exchange-rate estimates as misused as official evidence, and pledged to start reporting foreign-exchange-market operations data to the IMF from next year. The statement landed as Sefcovic began two days of talks with Wang Wentao, against a backdrop of EU officials increasingly blaming the exchange rate for the trade imbalance. The yuan has strengthened against the dollar and euro this year while the euro has fallen more than 10 percent against the yuan from its January high, though IMF estimates put the yuan's REER 12 to 20 percent below competitors. ING's Francesco Pesole said he expects no major policy shift and read the statement as Beijing signaling it may act more forcefully to curb further yuan appreciation.
 

@@ -1,14 +1,14 @@
 ---
 title: "Black Sea tanker and grain ships hit in drone strikes"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-08T12:04:46-04:00
+last_updated: 2026-10-09T07:16:59-04:00
 update_bump: true
 beats: ["commodities"]
 regions: ["europe", "asia-pacific"]
 status: "story"
-lede: "Turkey's foreign minister warned on Thursday that Russian and Ukrainian attacks in the Black Sea are intensifying ahead of winter and endangering navigational safety, days after drone strikes sank one vessel and set two others ablaze."
-why_it_matters: "Ankara, which keeps working ties with both Moscow and Kyiv, is pressing both sides to stop the attacks before winter, but its proposal to halt the strikes and protect grain shipments has drawn no response yet."
-featured: true
+lede: "India condemned the Black Sea shipping attacks Thursday, saying four vessels were hit in 48 hours with two Indian seafarers injured, as Turkey warned Russia and Ukraine against intensifying strikes ahead of winter."
+why_it_matters: "New Delhi is now an active diplomatic player in the Black Sea shipping war, in continuous contact with both Moscow and Kyiv on protecting grain and energy exports, which raises the pressure for a maritime ceasefire before winter."
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Two Commercial Ships Hit By Drones In Bulgaria's EEZ, One Sinks And Crew Remains Missing"
@@ -23,9 +23,17 @@ sources:
     publisher: "Marine Insight"
     url: "https://www.marineinsight.com/oil-tanker-carrying-23-indians-catches-fire-after-drone-attack-off-russias-black-sea-coast/"
     published: "2026-10-07"
+  - title: "Two Indian Seafarers Suffer Injuries After Attack On 3 Cargo Ships In The Black Sea"
+    publisher: "Marine Insight"
+    url: "https://www.marineinsight.com/two-indian-seafarers-suffer-injuries-after-attack-on-3-cargo-ships-in-the-black-sea/"
+    published: "2026-10-08"
 tags: []
-data_as_of: "Attacks October 6, 2026; Alfa Watan crew search ended with no survivors as of October 7; attribution undetermined; Fidan statement October 8, 2026 (Reuters reporting from Ankara)"
+data_as_of: "Attacks October 6, 2026; Alfa Watan crew search ended with no survivors as of October 7; attribution undetermined; Fidan statement October 8, 2026 (Reuters reporting from Ankara). Oct 9 morning update: India MEA condemnation and casualty tally (4 vessels in 48h, 2 Indians injured), per Marine Insight October 8, 2026, opened and read."
 ---
+
+## Friday: India condemns attacks as four vessels hit in 48 hours
+
+India's Ministry of External Affairs condemned the series of attacks on commercial vessels in the Black Sea on Wednesday, calling the incidents targeting merchant shipping deeply concerning. MEA spokesperson Randhir Jaiswal said at a press briefing that four vessels had been hit within 48 hours, with two Indian seafarers injured, and called for an immediate end to the attacks to ensure peace and stability. The three Indians aboard the Royad Mammadov when it was attacked were rescued, with one injured person receiving treatment. The Palau-flagged grain carrier Able was struck by a drone; among its 18 crew, seven were Indian, and Bulgarian authorities helped evacuate them to Varna, where the injured received treatment. The status of the crew on the sunken Togo-flagged Alfa Watan remains unknown, with the MEA still awaiting information. All 23 crew aboard the Liberian-flagged Aframax Rio were rescued without serious injuries. Jaiswal said India believes dialogue and diplomacy are the way forward, and that New Delhi is in continuous contact with both Russia and Ukraine on the safety of Black Sea shipping and the protection of grain and energy exports.
 
 ## Latest
 
