@@ -1,16 +1,20 @@
 ---
-title: "Trump announces Russian diesel supply deal with Putin"
+title: "Trump announces Russian diesel supply deal with Putin; OFAC issues authorizing license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-09T15:56:28-04:00
+last_updated: 2026-10-09T17:42:25-04:00
 beats: ["commodities"]
 regions: ["north-america", "europe", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump said Friday he had agreed with Vladimir Putin that Russia will immediately supply more than 300,000 tons of diesel to US and global markets, with 500,000 tons in November and 1,000,000 tons after that, a sanctions-policy pivot aimed at record fuel prices weeks before the midterms."
-why_it_matters: "The deal reverses Putin's October 1 line that no Russian diesel would reach global markets until sanctions are lifted, and it puts Washington on course to buy fuel from Moscow even as the Ukraine war grinds on, a move Kyiv and European allies are expected to condemn."
+lede: "OFAC issued Russia-related General License 135, authorizing transactions for the sale, delivery, offloading and importation of Russian-origin diesel, the formal sanctions mechanism behind President Trump's Friday announcement that Russia will supply more than 300,000 tons of diesel to US and global markets."
+why_it_matters: "The license is the first concrete paperwork of the sanctions pivot: with the export-authorization mechanism now published, tankers can legally move Russian diesel even before Congress or Kyiv responds, turning Friday's announcement into an executable trade."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Issuance of Russia-related General License"
+    publisher: "OFAC"
+    url: "https://ofac.treasury.gov/recent-actions/20261009_33"
+    published: "2026-10-09"
   - title: "Trump Makes Deal with Putin for Russian Diesel Fuel"
     publisher: "Political Wire, citing New York Post"
     url: "https://politicalwire.com/2026/10/09/trump-makes-deal-with-putin-for-russian-diesel-fuel/"
@@ -38,6 +42,8 @@ sources:
 tags: []
 data_as_of: "Announcement Friday, October 9, 2026, in Trump's own statement; volumes are Trump's figures. Exact sanctions-lifting mechanism not yet detailed in sources reviewed; several outlet pages (CNBC, Axios, The Hill, DW) would not render and are cited from feed metadata."
 ---
+
+**Latest:** OFAC published Russia-related General License 135 on Friday, "Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin" — the sanctions mechanism that makes the Trump-Putin diesel announcement executable. This is the first concrete paperwork behind the pivot.
 
 President Trump announced Friday that he had concluded what he called a highly successful discussion with Russian President Vladimir Putin, with an agreement that Russia will immediately supply more than 300,000 tons of diesel fuel to American and global markets, followed by another 500,000 tons in November and 1,000,000 tons immediately after that. Politico reported that Trump is lifting sanctions on Russian diesel and suggested the United States itself may buy, framing the move around surging fuel prices.
 
