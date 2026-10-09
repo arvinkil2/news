@@ -1,7 +1,7 @@
 ---
 title: Flavio Bolsonaro vows to "re-democratise" Brazil
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-08T07:36:53-0400
+last_updated: 2026-10-08T21:42:49-04:00
 update_bump: true
 beats:
 - politics
@@ -40,10 +40,16 @@ tags: []
 data_as_of: TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
   reset Oct 5; equity/currency moves single-sourced, unconfirmed; vow reported October
   7, 2026, single-sourced (The Guardian via feed; domain blocked for direct fetch,
-  so uncorroborated).
+  so uncorroborated). Oct 8 evening update (Cury endorsement, Caiado/Santos positions,
+  Datafolha 49-45 runoff poll via Arab News Reuters-sourced; Eduardo Bolsonaro
+  arrest warrant via Arab News AP-sourced, opened and read).
 regions:
 - latin-america
 ---
+
+The runoff consolidation continued Thursday. Third-place finisher Augusto Cury reversed his earlier neutrality and endorsed Flavio Bolsonaro for the October 25 runoff, announcing it in a social media video; Cury, an author-psychiatrist from the Avante party, took 2.89 percent of valid votes in the first round. Governor Ronaldo Caiado endorsed Bolsonaro earlier in the week while Renan Santos said he would back neither candidate. A first post-first-round Datafolha poll showed Bolsonaro at 49 percent to Lula's 45 in a simulated runoff, a technical tie within the 2-point margin of error, with 5 percent blank and 1 percent undecided; Datafolha surveyed 2,520 people in person October 6-7.
+
+Separately, Supreme Court Justice Alexandre de Moraes issued an arrest warrant Thursday for Eduardo Bolsonaro, one of the candidate's brothers, ordering the former lawmaker to start serving his sentence immediately. Eduardo, 42, who lives in Texas as a green card holder, was sentenced in June to four years in prison for lobbying the Trump administration to impose sanctions and higher tariffs on Brazil during his father's coup-attempt trial. De Moraes also canceled his Brazilian passport. Extradition is unlikely: the US-Brazil 1961 treaty does not clearly cover his offense and the Trump administration would have to approve any request, legal scholars told AP.
 
 Brazil's presidential contest is heading to a second round after neither Senator Flávio Bolsonaro nor incumbent President Luiz Inácio Lula da Silva won the majority required for a first-round victory. The Superior Electoral Court confirmed Sunday that with 99.8 percent of the vote counted, Bolsonaro held just over 56 million votes (47.03 percent of valid votes) ahead of Lula's 53.7 million (45.16 percent).
 

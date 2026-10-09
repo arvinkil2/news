@@ -1,7 +1,7 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-08T20:48:52-04:00
+last_updated: 2026-10-08T21:42:49-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -35,11 +35,17 @@ sources:
     publisher: "Arab News (Kpler data)"
     url: "https://www.arabnews.com/middle-east/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-3005180"
     published: "2026-10-07"
+  - title: "Iran war live: Iranian media reports 'massive explosions' in Hormuz Strait"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait"
+    published: "2026-10-08"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read."
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; the claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident."
 ---
 
 ## Latest
+
+Iranian media reported "massive explosions" in the southern Strait of Hormuz late Thursday, with Fars citing unnamed military sources, according to Al Jazeera's live blog. Trade aggregators attributed the blasts to tankers striking mines, but the claim is uncorroborated: no shipping authority has confirmed a new incident, and Iran is a party to the conflict, so this should be read as Tehran's narrative until independently verified. The live blog also noted Trump saying the US will not strike Iran before the midterms.
 
 Vitol chief executive Russell Hardy told the Energy Intelligence Forum in London this week that ship-to-ship transfers in the Gulf of Oman, which have soared in recent weeks, are the lifeline keeping Middle East oil flowing: "Without it, you do have that $200-a-barrel scenario, so it is pretty important it continues," he said, adding that "there aren't any more inventories to drain in the West." About 14 million barrels a day of oil left the Middle East over the past 7-10 days, 12 million of it crude, still well below pre-war levels, while fuel shipments have collapsed since March and not recovered. Hardy said the war has turned from a crude crisis into a product crisis and now a shipping crisis: shuttle-shipping through Hormuz is "very inefficient," with many tankers tied up in the area for days or weeks waiting for cargoes, slashing tanker availability on other routes and sending rates to record highs. ING's Rico Luman put numbers on it: average global crude vessel earnings exceeded $500,000 a day in early October, 10 times the 2025 average, and shipments from Saudi Arabia's Ras Tanura to Rotterdam cost more than $35 a barrel in September versus about $2 a year earlier. Record shipping costs plus European refinery margins at 2.5 times the 2025 average could add more than $0.50 to the base price of a liter of diesel at the pump, Luman said, a spike "beyond levels ever seen before," worse than 2022 after the Russia sanctions.
 
