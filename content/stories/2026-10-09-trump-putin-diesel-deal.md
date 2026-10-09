@@ -40,7 +40,7 @@ sources:
     url: "https://www.dw.com/"
     published: "2026-10-09"
 tags: []
-data_as_of: "Announcement Friday, October 9, 2026, in Trump's own statement; volumes are Trump's figures. Exact sanctions-lifting mechanism not yet detailed in sources reviewed; several outlet pages (CNBC, Axios, The Hill, DW) would not render and are cited from feed metadata."
+data_as_of: "OFAC General License 135 published Friday, October 9, 2026 (the sanctions-lifting mechanism); announcement in Trump's own statement; volumes are Trump's figures. Several outlet pages (CNBC, Axios, The Hill, DW) would not render and are cited from feed metadata."
 ---
 
 **Latest:** OFAC published Russia-related General License 135 on Friday, "Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin" — the sanctions mechanism that makes the Trump-Putin diesel announcement executable. This is the first concrete paperwork behind the pivot.
