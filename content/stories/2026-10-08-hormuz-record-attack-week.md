@@ -1,13 +1,13 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-09T07:16:44-04:00
+last_updated: 2026-10-09T10:55:06-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
 update_bump: true
-lede: "Vitol's chief executive warned ship-to-ship transfers in the Gulf of Oman are the only thing standing between oil and $200 a barrel, as tanker earnings hit a record $500,000 a day and Hormuz shipping rates reach levels never seen before."
-why_it_matters: "The war has moved from a crude crisis to a shipping crisis: tankers tied up for weeks in the Gulf have slashed fleet availability, pushing freight costs that add more than $0.50 to a liter of European diesel and make every barrel's delivered price unknowable day to day."
+lede: "A second ship in three days was struck inside the Persian Gulf on Friday, spreading the tanker war beyond the Strait of Hormuz as earnings hit a record $500,000 a day and Vitol's chief warned of $200 oil."
+why_it_matters: "Attacks are moving from Hormuz into the Gulf itself: tankers tied up for weeks have slashed fleet availability, pushing freight costs that add more than $0.50 to a liter of European diesel and make every barrel's delivered price unknowable day to day."
 featured: true
 evidence_grade: "B"
 sources:
@@ -51,11 +51,21 @@ sources:
     publisher: "Marine Insight"
     url: "https://www.marineinsight.com/tanker-captains-offered-100000-a-month-plus-bonus-to-transit-strait-of-hormuz/"
     published: "2026-10-08"
+  - title: "Second Ship Struck Inside Persian Gulf in Three Days"
+    publisher: "gCaptain (citing UKMTO)"
+    url: "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident."
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident. 10:55am ET update: second ship struck inside the Persian Gulf in three days (gCaptain citing UKMTO Warning 160-26); UKMTO weekly overview documents 11 attacks in the seven days to October 7."
 ---
 
-## Friday: Iran vows to close "illegal" routes; US says 20 million barrels a day still flowing
+## Friday (update): second ship struck inside the Persian Gulf in three days
+
+A commercial vessel was struck by a projectile in the Persian Gulf on Friday morning, sparking a fire onboard that has since been extinguished, in the second reported attack on shipping inside the Gulf in just three days. The United Kingdom Maritime Trade Operations said it received reports from multiple sources that the vessel was struck at approximately 1000 UTC, about 13 nautical miles west of Al Jazeera, United Arab Emirates. The condition of the crew, the extent of damage and any environmental impact remain unknown, and UKMTO has not identified the vessel or publicly established responsibility.
+
+The incident follows an October 7 attack on a tanker near the coast of Qatar, marking the second time in three days a vessel has been struck inside the Persian Gulf rather than while transiting the Strait of Hormuz. Maritime security analyst Martin Kelly noted the October 7 strike was the first reported Iranian attack on a vessel inside the Gulf, away from Hormuz, since September 9, when two vessels were hit in separate locations and two seafarers were killed aboard the HERCULES STAR.
+
+In its weekly maritime security overview released Friday, UKMTO documented 11 attacks during the seven days ending October 7, including 10 in the Strait of Hormuz and one in the Arabian Gulf; 41 of 59 incidents since July 6 have occurred along the southern Hormuz route. Transits showed modest recovery: 275 combined inbound and outbound movements in the latest week, up from 247 the week before, but still roughly 75 percent below pre-conflict levels. The Joint Maritime Information Center keeps the Hormuz threat at SEVERE while the Arabian Gulf and Gulf of Oman remain at MODERATE.
 
 An adviser to the Revolutionary Guards' commander said transit routes in the Strait of Hormuz deemed illegal by Iran will soon be closed, referring to the southern pathway hugging Oman's coast, Mohammadreza Naqdi told the semi-official Fars News Agency on Wednesday, per Reuters. Naqdi said the "few routes" had been created by blasting and damaging rocky passages in the waterway and were used by small boats smuggling oil and transferring it to tankers, and he challenged the narrative that Gulf oil exports are regaining pre-war levels. "The Strait of Hormuz is closed, and the armed forces of the Islamic Republic of Iran have full control over it. This situation will continue until Iran's legitimate demands are met," he added. The vow is Tehran's narrative until tested against independent shipping data: a Kpler seven-day moving average put regional crude exports at 18.3 million barrels a day on September 30, with volumes topping pre-war levels on 14 days in September, and US sources said about 20 million barrels a day are still moving through the strait, rejecting Iran's blockade claims. A second IRGC adviser, Majid Mirahmadi, countered Thursday that a daily average of 10 ships transit the waterway against 125 before the war, a figure irreconcilable with the Kpler data.
 
