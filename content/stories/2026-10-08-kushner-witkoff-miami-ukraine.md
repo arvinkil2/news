@@ -1,14 +1,14 @@
 ---
 title: "Witkoff, Kushner to pitch Ukraine peace ideas in Miami"
 date: 2026-10-08T19:08:48-04:00
-last_updated: 2026-10-08T19:48:32-04:00
+last_updated: 2026-10-09T14:44:08-04:00
 beats: ["politics"]
 regions: ["north-america", "europe"]
 status: "story"
 developing: true
 update_bump: true
-lede: "US envoys Steve Witkoff and Jared Kushner will meet Ukrainian negotiators and European officials in Miami on Friday to present 'new ideas' to break the Russia-Ukraine stalemate, Axios reported."
-why_it_matters: "A Miami session with the US envoys puts a fresh American proposal on the table weeks before the midterms, even as Russian missile strikes on Ukraine continue."
+lede: "US envoys Steve Witkoff and Jared Kushner opened talks in Miami on Friday with Ukraine's delegation, led by chief of staff Kyrylo Budanov, and European officials, with Italy's ANSA reporting the sides are working on a truce proposal."
+why_it_matters: "The Miami session is the first time the US has brought Ukrainian and European negotiators together around fresh American proposals in months, and any truce framework would land weeks before the midterms with winter approaching on the front."
 featured: false
 evidence_grade: "C"
 sources:
@@ -20,9 +20,23 @@ sources:
     publisher: "Anadolu Agency (Turkish)"
     url: "https://www.aa.com.tr/tr/dunya/zelenskiy-ukrayna-muzakere-heyetinin-yarin-witkoff-ve-kushner-ile-gorusecegini-belirtti/4082765"
     published: "2026-10-08"
+  - title: "Witkoff, Kushner to meet Ukrainians for talks on the war, says US source"
+    publisher: "Reuters (via US radio affiliates)"
+    url: "https://northlandnewsradio.com/2026/10/08/witkoff-kushner-to-meet-ukrainians-in-miami-on-friday-says-us-source/"
+    published: "2026-10-08"
+  - title: "US leads fresh Ukraine peace push with Miami talks"
+    publisher: "AFP (via Berliner Tageblatt)"
+    url: "https://www.berlinertageblatt.de/en/Politics/780445-us-leads-fresh-ukraine-peace-push-with-miami-talks.html"
+    published: "2026-10-09"
+  - title: "Ucraini e europei a Miami, si lavora a una proposta di tregua"
+    publisher: "ANSA (Italian)"
+    url: "https://www.ansa.it/sito/notizie/mondo/2026/10/09/ucraini-e-europei-a-miami-si-lavora-a-una-proposta-di-tregua_5069bc7b-1078-4767-b47e-c09f4ae8c960.html"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Axios article by Barak Ravid, October 8, 2026; lede and 'Why it matters' read in full, body behind a newsletter-signup wall. Single-sourced: proposal details and attendee names unknown from the accessible text. Ukrainian participation confirmed by President Zelenskyy via Anadolu Agency, in Turkish; Russian outlets' claims of a planned Witkoff/Kushner Moscow visit in October, citing Axios, not independently verified."
+data_as_of: "Meeting convened Friday, October 9, 2026. Delegation composition and agenda from Reuters reporting October 8 (read in full via affiliate reprint); two-day format, Rubio's Lisbon warning and the partial-ceasefire idea from AFP reporting October 9 (read in full via Berliner Tageblatt). ANSA (Italian) reports Ukrainian and European negotiators are working on a truce proposal; the ANSA article body could not be retrieved (ansa.it blocked to the page fetcher), so the proposal's substance is unknown beyond the headline. Russian outlets' claims of a planned Witkoff/Kushner Moscow visit in October, citing Axios, not independently verified."
 ---
+
+**Latest (2:44pm ET Friday):** The Miami talks convened on Friday, with Ukraine's delegation led by chief of staff Kyrylo Budanov alongside intelligence chief Rustem Umerov and top negotiator David Arakhamia, Reuters reported. National security advisers from the UK, France and Germany were invited, along with NATO and EU officials and representatives of the White House National Security Council and US Treasury. Italy's ANSA reported that Ukrainian and European negotiators in Miami are working on a truce proposal, though the article itself could not be retrieved, so the proposal's substance is unknown. Secretary of State Marco Rubio warned Thursday in Lisbon that the war is at a "dangerous stalemate" with a risk of escalation into neighboring NATO countries. Axios reported that among the ideas on the table is a partial ceasefire covering attacks on energy infrastructure and grain shipments, which Ukraine has indicated a willingness to explore but Russia has shown little enthusiasm for, according to AFP.
 
 **Latest (7:48pm ET Thursday):** Ukrainian President Volodymyr Zelenskyy confirmed that Ukraine's negotiation delegation will meet Witkoff and Kushner on Friday, according to Anadolu Agency. Russian state outlets (TASS, Interfax, RT) are separately claiming the envoys may visit Moscow later in October, citing Axios; that claim has not been independently verified and is not present in the accessible Axios text.
 
