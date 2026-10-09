@@ -1,7 +1,7 @@
 ---
 title: "Pimco warns 10-year Treasury yields could hit 6 percent"
 date: 2026-10-09T01:48:35-04:00
-last_updated: 2026-10-09T01:48:35-04:00
+last_updated: 2026-10-09T07:17:26-04:00
 beats:
 - rates
 regions:
@@ -32,3 +32,4 @@ data_as_of: Financial Times interview with Dan Ivascyn by Harriet Clarfelt, Octo
 Pimco chief investment officer Dan Ivascyn warned that 10-year US Treasury yields risk hitting 6 percent for the first time in 26 years, as high oil prices, inflation and America's public debt roil the bond market. A further sharp rise from the current 5.29 percent is "feasible," he said, driven partly by negative technicals and stop-out activity among hedge funds and levered investors dumping losing bond bets in the $32 trillion Treasury market.
 
 Ivascyn described a "vicious loop" of selling pushing yields higher and prompting others such as real estate investment trusts to sell, and said yields at 5.5 percent or above would bring "decent weakness" in risk markets, both credit and equity. US mortgage rates hit their highest since 2023 at 7.4 percent for the 30-year fixed as of October 8, while borrowing costs for the lowest-rated companies reached 17 percent this month, the highest since May 2020; Ivascyn predicted problems "in slow motion" for private markets including commercial real estate with "fragile capital structures."
+**Latest (7:17am ET Friday):** Thursday's $22 billion 30-year auction pushed back on the demand-strike side of the 6 percent call: it cleared at 5.618 percent, the highest since August 2000, with a 2.54x bid-to-cover and 72.3 percent indirect take, pulling the 10-year back 5bp to 5.227 percent. A day earlier the $39 billion 10-year cleared at 5.300 percent with a record 80.3 percent indirect take. Infrastructure Capital's Jay Hatfield called 5.30 percent the probable 10-year peak, arguing markets have seen peak pessimism on Fed hikes. The auctions show buyers stepping in at 5.3 to 5.6 percent rather than capitulating, though neither resolves Ivascyn's fiscal and oil-driven case.
