@@ -1,7 +1,7 @@
 ---
 title: US sanctions Iran's remaining shadow fleet in new offensive
 date: 2026-10-09T07:14:58-04:00
-last_updated: 2026-10-09T07:14:58-04:00
+last_updated: 2026-10-09T11:48:02-04:00
 beats:
 - politics
 regions:
@@ -18,9 +18,15 @@ sources:
   publisher: US Treasury
   url: https://home.treasury.gov/news/press-releases/sb0653/
   published: '2026-10-08'
+- title: U.S. Sanctions 22 Vessels And 27 Companies Tied To Iran's Shadow Fleet And Oil Sales
+  publisher: Marine Insight
+  url: https://www.marineinsight.com/u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales
+  published: '2026-10-09'
 tags: []
-data_as_of: Treasury press release SB0653, October 8, 2026 (read directly). OFAC recent actions for October 8 also list Iran-related designations, an Iran-related general license and an amended Russia-related general license; the specific designations in this action are per E.O. 13902.
+data_as_of: "Treasury press release SB0653, October 8, 2026 (read directly). OFAC recent actions for October 8 also list Iran-related designations, an Iran-related general license and an amended Russia-related general license; the specific designations in this action are per E.O. 13902. Midday update: State Department's separate tranche (10 entities, six individuals, five vessels) per Marine Insight, October 9; article opened and read directly."
 ---
+
+The State Department announced a separate tranche of sanctions the same day, targeting 10 entities, six individuals and five vessels involved in trading Iranian-origin petroleum or petrochemical products. Treasury separately sanctioned another 17 entities and vessels linked to the shadow fleet as part of the campaign. Rolling the Treasury and State actions together, the combined designations cover 22 vessels and 27 companies plus six individuals, spanning operators, maritime management companies and trading firms in Turkiye, China, the UAE, the UK and the Marshall Islands. Named vessels include the Panama-flagged STARWAY, reported to have carried more than three million barrels of Iranian naphtha since 2025, and the Bahamas-flagged LPG tanker GAS LUCKY, reported to have moved more than 500,000 barrels of Iranian ethylene. Two vessels previously listed in June 2025, the HAKUNA MATATA and PINOCCHIO, were delisted after being sold to non-sanctioned, US-aligned operators.
 
 The US Department of the Treasury on October 8 took action against the remnants of Iran's shadow fleet under Operation Economic Outcast, designating 17 vessels and 19 companies that Treasury says move billions of dollars' worth of Iranian petroleum and petrochemicals to foreign markets. "Treasury is starving the tyrannical regime in Tehran of the money it uses to wage war in the region," Secretary Scott Bessent said, warning that no enabler of Iranian sanctions evasion is safe.
 
