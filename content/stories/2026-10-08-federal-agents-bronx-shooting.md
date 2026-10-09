@@ -1,7 +1,6 @@
 ---
 title: "Federal agents involved in Bronx shooting, one person wounded"
 date: 2026-10-08T19:42:45-04:00
-last_updated: 2026-10-08T22:44:23-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -31,8 +30,6 @@ sources:
 tags: []
 data_as_of: "NYPD statement October 8, 2026, via Fox News and Bloomberg. 10:44pm ET update: Le Monde (in French), reporting Mayor Mamdani's statement that a 5-year-old was in the car and unhurt, the driver shot in the neck, Mamdani's call with the president, Governor Hochul's demand for a full accounting, and NY Post video/reporting (bullet holes including one in the windshield; unconfirmed claim agents were checking whether the man is a gang member linked to a 2025 shooting of an off-duty federal agent). ICE did not respond to Le Monde. Overnight update: TASS (in Russian, reporting NYPD Commissioner Jessica Tisch at a press conference) says the wounded man was arrested twice in New York before, once for robbery in 2023 (pleaded guilty to fourth-degree theft, five years' probation) and once on suspicion of illegal drug trafficking in 2025 (case still pending). This claim is single-sourced via TASS, a Russian state outlet, citing an on-record US official; no independent corroboration has been read yet."
 last_updated: 2026-10-09T01:47:49-04:00
-regions:
-- north-america
 ---
 
 ## Latest
