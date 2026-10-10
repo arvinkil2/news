@@ -1,13 +1,13 @@
 ---
-title: Hurricane Isaias strengthens to Category 3 ahead of Gulf Coast landfall
+title: Hurricane Isaias makes landfall near Destin, Florida as Category 2
 date: 2026-10-07 14:50:46-04:00
-last_updated: 2026-10-09T13:48:22-04:00
+last_updated: 2026-10-09T22:54:49-04:00
 beats:
 - commodities
 status: story
 developing: true
 update_bump: true
-lede: Hurricane Isaias strengthened into a Category 3 hurricane Friday morning with 120 mph winds, about 240 miles south of Pensacola and tracking toward a Friday night landfall on the northern Gulf Coast.
+lede: Hurricane Isaias made landfall near Destin, Florida at 9:30pm ET Friday as a Category 2 storm with 105 mph winds, after peaking earlier as a major Category 3; nearly 500,000 customers had lost power across Alabama and Florida by evening.
 why_it_matters: With 62.9 percent of Gulf oil output already shut in, a major hurricane landfall threatens the biggest US supply disruption of the year in a market pricing Iran-linked crude above $100.
 featured: false
 evidence_grade: C
@@ -32,11 +32,19 @@ sources:
   publisher: Zark News (citing NHC 7:20 a.m. CDT tropical cyclone update)
   url: https://zarknews.com/hurricane-isaias-first-atlantic-hurricane-2026/
   published: '2026-10-09'
+- title: "Hurricane Isaias makes landfall in Florida with severe effects expected across several states"
+  publisher: "The Guardian"
+  url: "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
+  published: "2026-10-09"
 tags: []
-data_as_of: NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures. Single-sourced on the latest advisory.
+data_as_of: NHC landfall report via The Guardian October 9, 2026 (landfall facts read via live browser extraction); NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures.
 regions:
-- global
+- north-america
 ---
+
+## Latest: landfall near Destin, 9:30pm ET, 105 mph winds
+
+Hurricane Isaias made landfall near Destin, Florida at 9:30pm ET Friday as a Category 2 hurricane with sustained winds of 105 mph, the season's first Atlantic hurricane, after peaking earlier in the day as a major Category 3. Nearly 500,000 customers had lost power across Alabama and Florida by Friday evening, per PowerOutage.com. The storm pushed a life-threatening surge of up to 7 feet along the Alabama-Florida line; NOAA recorded water levels 5.4 feet above average at Panama City Beach and a 102 mph gust at Pensacola City Hall, and hurricane-force winds were expected up to 100 miles inland. The governors of Mississippi, Alabama and Florida declared states of emergency, and Trump approved Alabama's emergency declaration; about 5,000 Florida National Guard soldiers and airmen deployed. Governor Ron DeSantis told residents, "The storm is here. Buckle down at this point," while the National Hurricane Center's Jamie Rhome warned, "Things are going to get really, really treacherous."
 
 ## Latest: 500,000 barrels a day of refining capacity in the path
 
