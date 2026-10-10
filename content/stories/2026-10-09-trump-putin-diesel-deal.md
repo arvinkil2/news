@@ -1,12 +1,12 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-10T07:11:06-0400
+last_updated: 2026-10-10T08:48:47-0400
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin came under fire within hours: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, Australia ruled out taking any Russian diesel, and Zelensky kept up his criticism as US diesel prices stayed near record highs."
+lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin came under fire within hours: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, Australia ruled out taking any Russian diesel, the UK reaffirmed its sanctions line, and Zelensky kept up his criticism as US diesel prices stayed near record highs."
 why_it_matters: "Kyiv's strike directly undercuts Trump's stated rationale for buying from Moscow, the reaction map limits where the 4.8 million tons can clear, and Witkoff's parallel diplomacy now has to carry the peace track while the refinery war escalates."
 featured: true
 evidence_grade: "B"
@@ -83,9 +83,15 @@ sources:
     publisher: "AAP"
     url: "https://aapnews.aap.com.au/news/minister-issues-hard-no-on-russian-diesel-imports"
     published: "2026-10-10"
+  - title: "UK government response to agreement between US and Russia: 9 October"
+    publisher: "UK Government (gov.uk)"
+    url: "https://www.gov.uk/government/news/uk-government-response-to-agreement-between-us-and-russia-9-october"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
+data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. UK government response via gov.uk October 9, 2026 (statement opened and read in full). OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
 ---
+
+**Latest (Saturday, October 10):** The UK added its voice to the pushback, with a government spokesperson reaffirming Britain's commitment to "the toughest sanctions regime ever imposed by the UK" and to keeping Ukraine supplied militarily and financially "for as long as it takes." The statement said Russia has "repeatedly rejected full and partial ceasefires while continuing attacks on Ukrainian civilians and energy," and noted the government is monitoring energy-market fallout from the deal closely. The UK line contrasts with Washington's: full support for US-led peace efforts, but no sanctions relief.
 
 **Latest (Saturday, October 10):** Germany joined the stock-release side of the diesel scramble Friday: Economy Minister Katherina Reiche said Berlin will release as much as 15 million barrels of diesel, heating oil and crude from strategic reserves, with diesel and heating oil moving first, as part of the IEA's accelerated draw. France committed another 10 million barrels of diesel, and Italy said it has already completed its 10-million-barrel commitment; the IEA says roughly 100 million barrels remain to be released from the 400-million-barrel program. Together, the Russian and European barrels give diesel buyers something they have had very little of this year: additional supply arriving from more than one direction, though neither tranche is large enough to repair the market on its own.
 
