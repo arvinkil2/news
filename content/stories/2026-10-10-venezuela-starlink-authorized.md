@@ -1,7 +1,7 @@
 ---
 title: "Venezuela authorizes Starlink to operate under deal with SpaceX"
-date: 2026-10-10T04:56:44-04:00
-last_updated: 2026-10-10T04:56:44-04:00
+date: 2026-10-10T04:46:12-04:00
+last_updated: 2026-10-10T04:46:12-04:00
 beats: ["politics", "technology"]
 regions: ["latin-america"]
 status: "story"

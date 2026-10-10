@@ -1,7 +1,7 @@
 ---
 title: "Trump asks Supreme Court to revive Clinton election lawsuit"
-date: 2026-10-10T04:47:11-04:00
-last_updated: 2026-10-10T04:47:11-04:00
+date: 2026-10-10T04:46:07-04:00
+last_updated: 2026-10-10T04:46:07-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"

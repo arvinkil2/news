@@ -1,7 +1,7 @@
 ---
 title: "Saudi-led coalition launches wide operation against Houthis"
-date: 2026-10-10T05:08:33-04:00
-last_updated: 2026-10-10T05:08:33-04:00
+date: 2026-10-10T04:46:14-04:00
+last_updated: 2026-10-10T04:46:14-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"

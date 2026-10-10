@@ -1,7 +1,7 @@
 ---
 title: "CFTC draws a swap line: event contracts in, casino wagers out"
-date: 2026-10-10T04:53:20-04:00
-last_updated: 2026-10-10T04:53:20-04:00
+date: 2026-10-10T04:46:09-04:00
+last_updated: 2026-10-10T04:46:09-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"

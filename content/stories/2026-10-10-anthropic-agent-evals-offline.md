@@ -1,7 +1,7 @@
 ---
 title: "Anthropic cuts internal agent evals off the live internet"
-date: 2026-10-10T04:43:06-04:00
-last_updated: 2026-10-10T04:43:06-04:00
+date: 2026-10-10T04:46:05-04:00
+last_updated: 2026-10-10T04:46:05-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
