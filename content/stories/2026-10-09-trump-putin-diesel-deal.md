@@ -1,13 +1,13 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-10T09:59:22-04:00
+last_updated: 2026-10-10T13:52:51-04:00
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
 update_bump: true
-lede: "The Trump-Putin diesel deal triggered a transatlantic split on Saturday: Germany and the EU vowed to keep sanctions pressure on Moscow, while the Miami talks collapsed early after the US reportedly threatened to cut intelligence sharing with Kyiv over its refinery strikes, and Russia said it is immediately lifting its diesel export curbs."
-why_it_matters: "Washington is now squeezing Kyiv and Moscow in opposite directions at once, the EU is set to widen its sanctions list on Monday, and the physical question of how much Russian diesel can actually flow is in doubt, with Ukrainian strikes estimated to have cut several major refineries."
+lede: "Trump escalated his pressure on Kyiv on Saturday, publicly urging Ukraine to replace Volodymyr Zelensky with a president who would end the war and demanding an immediate halt to strikes on Russian refineries, deepening the rupture opened by Friday's diesel deal with Putin."
+why_it_matters: "A US president openly calling for an allied wartime leader's replacement marks a new phase in the war's diplomacy, two days before EU foreign ministers vote on their largest Russia sanctions package."
 featured: true
 evidence_grade: "B"
 sources:
@@ -103,9 +103,23 @@ sources:
     publisher: "Lenta.ru (Russian), citing Financial Times"
     url: "https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/"
     published: "2026-10-10"
+  - title: "Trump tells Ukraine to replace Zelensky over Russia fuel deal"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel"
+    published: "2026-10-10"
+  - title: "Ukraine needs new president who will agree to end war, says Trump"
+    publisher: "Vanguard News (Nigeria)"
+    url: "https://www.vanguardngr.com/2026/10/ukraine-needs-new-president-who-will-agree-to-end-war-says-trump/"
+    published: "2026-10-10"
+  - title: "EN DIRECT, guerre en Ukraine: Donald Trump somme Volodymyr Zelensky d'arreter de frapper les raffineries russes (live)"
+    publisher: "Le Monde (French)"
+    url: "https://www.lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-les-dernieres-informations_6787996_3210.html"
+    published: "2026-10-10"
 tags: []
-data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. UK government response via gov.uk October 9, 2026 (statement opened and read in full). OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting). Midday update: German government sanctions commitment via DW liveblog, October 10 (read in full via live browser); Kallas EU sanctions-package statement and EU Monday vote, Zelensky Zaporizhzhia strike account, and FT-reported intel-sharing threat via ANSA (in Italian, translated; ANSA cites FT unnamed sources; US side disputes a threat was issued), October 10. Miami talks early end per Kyiv Post's Alex Raufoglu via RIA Novosti; FT's diesel-deal-as-cause claim via Lenta.ru (Russian state-affiliated; unnamed sources only, flagged as uncorroborated). Novak export-restriction lifting via Espreso (Ukrainian, translated), October 10; Treasury license April 7, 2027 date and refinery-capacity estimates per that item."
+data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. UK government response via gov.uk October 9, 2026 (statement opened and read in full). OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting). Midday update: German government sanctions commitment via DW liveblog, October 10 (read in full via live browser); Kallas EU sanctions-package statement and EU Monday vote, Zelensky Zaporizhzhia strike account, and FT-reported intel-sharing threat via ANSA (in Italian, translated; ANSA cites FT unnamed sources; US side disputes a threat was issued), October 10. Miami talks early end per Kyiv Post's Alex Raufoglu via RIA Novosti; FT's diesel-deal-as-cause claim via Lenta.ru (Russian state-affiliated; unnamed sources only, flagged as uncorroborated). Novak export-restriction lifting via Espreso (Ukrainian, translated), October 10; Treasury license April 7, 2027 date and refinery-capacity estimates per that item. Saturday afternoon update: Trump's replace-Zelensky remarks and refinery-strike demand via Axios and Vanguard (Vanguard item opened and read in full; direct quotes kept brief); Le Monde live blog corroborates the refinery-strike demand (cited from feed metadata). NRK, Yle, UOL and ANSA carried the same remarks."
 ---
+
+**Latest (Saturday afternoon, October 10):** Trump told reporters at the White House that Ukraine should install a new president willing to end the war, lashing out at Zelensky over strikes on Russian oil refineries that he blames for high pre-election diesel prices. He said he had told Zelensky to "do what you want" against Russia but "don't hit refineries," adding "He better damn well stop" and that "it's time for Ukraine to get a new president," per Axios and Nigeria's Vanguard, which published the remarks in full. Le Monde's live coverage also reported Trump demanding Zelensky halt the refinery strikes. The remarks make explicit the linkage behind the diesel deal: Trump wants the strikes stopped to ease fuel prices, while Kyiv has said it would stop only if Russia halts attacks on Ukrainian power plants, a condition Trump rejected.
 
 **Latest (Saturday, October 10, midday):** The Miami talks collapsed early. The US-Ukraine-European delegations' meeting in Miami, meant to run two days, ended after one by the Ukrainian team's decision, and there will be no second day, per Kyiv Post journalist Alex Raufoglu. The Financial Times reported, via unnamed sources, that the breakdown was triggered by Trump's diesel announcement catching the Ukrainian team off guard, and that envoys Steve Witkoff and Jared Kushner raised the prospect of the US halting intelligence sharing with Kyiv unless Ukraine stops striking Russian oil refineries. The US side disputes that a threat was issued, saying the envoys only explained that the strikes were causing problems in the US. This revives the intelligence-leverage thread the US official denied to Axios on Friday evening.
 
