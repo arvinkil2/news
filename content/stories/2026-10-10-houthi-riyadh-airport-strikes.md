@@ -1,7 +1,7 @@
 ---
 title: "Trump weighs U.S. airstrikes on Houthis after fourth Riyadh airport attack"
 date: 2026-10-10T01:46:47-04:00
-last_updated: "2026-10-10T15:51:56-04:00"
+last_updated: 2026-10-10T16:56:43-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
@@ -52,9 +52,19 @@ sources:
   publisher: "Arab News"
   url: "https://www.arabnews.com/middle-east/trump-looking-at-airstrikes-against-houthis-after-riyadh-airport-attacks-3005682"
   published: "2026-10-10"
+- title: "EgyptAir отменила рейсы в Эр-Рияд после атаки на аэропорт (EgyptAir cancelled flights to Riyadh after airport attack)"
+  publisher: "TASS (Russian)"
+  url: "https://tass.ru/ekonomika/28202329"
+  published: "2026-10-10"
+- title: "ТАСС: аэропорт Эр-Рияда будет закрыт еще сутки (TASS: Riyadh airport to remain closed another day)"
+  publisher: "TASS (Russian)"
+  url: "https://tass.ru/ekonomika/28202301"
+  published: "2026-10-10"
 tags: []
-data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna) and Deutsche Welle (blast confirmed, no Saudi statement, no Houthi claim; embassy warnings from Germany, Canada and Spain; Etihad, Qatar Airways and Kuwait Airways cancellations). Reuters reported several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT's higher casualty figures (dozens injured, five critical) come from unnamed diplomatic sources and conflict with DW's account; treated as uncorroborated. Saturday afternoon update: official suspension of airport operations via Bloomberg; NYT confirmation of a renewed attack; Guardian report of dozens injured (feed headline and URL as published; live page not opened); ANSA in Italian, translated, reporting five injured and the airport closed. Casualty counts remain inconsistent across outlets and unconfirmed by Saudi authorities, who had not issued a public statement as of Saturday afternoon Riyadh time. Houthi attribution is outlet reporting; no group has claimed responsibility for the Saturday strike. Saturday evening update: Trump's remarks and the White House quotes via Arab News, opened and read in full; coalition 'large-scale operations' claim and the Bab al-Mandab offensive via the same article. Arab News reports four killed and dozens injured in the week's airport strikes; Saudi authorities have not issued a consolidated casualty statement, so figures remain provisional."
+data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna) and Deutsche Welle (blast confirmed, no Saudi statement, no Houthi claim; embassy warnings from Germany, Canada and Spain; Etihad, Qatar Airways and Kuwait Airways cancellations). Reuters reported several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT's higher casualty figures (dozens injured, five critical) come from unnamed diplomatic sources and conflict with DW's account; treated as uncorroborated. Saturday afternoon update: official suspension of airport operations via Bloomberg; NYT confirmation of a renewed attack; Guardian report of dozens injured (feed headline and URL as published; live page not opened); ANSA in Italian, translated, reporting five injured and the airport closed. Casualty counts remain inconsistent across outlets and unconfirmed by Saudi authorities, who had not issued a public statement as of Saturday afternoon Riyadh time. Houthi attribution is outlet reporting; no group has claimed responsibility for the Saturday strike. Saturday evening update: Trump's remarks and the White House quotes via Arab News, opened and read in full; coalition 'large-scale operations' claim and the Bab al-Mandab offensive via the same article. Arab News reports four killed and dozens injured in the week's airport strikes; Saudi authorities have not issued a consolidated casualty statement, so figures remain provisional. Saturday late-evening update: EgyptAir flight cancellations and the one-day airport closure extension via TASS (Russian state-affiliated), cited from feed metadata; not independently corroborated."
 ---
+
+**Latest (Saturday late evening, October 10):** EgyptAir cancelled its Riyadh flights after the airport attack, and the airport is expected to remain closed for another day, according to TASS. An extended closure would make Saturday's strike the most disruptive of the week, stranding schedules carriers had already rerouted on Friday. TASS is Russian state-affiliated and both items are cited from feed metadata, so treat them as uncorroborated until a carrier or Saudi authority confirms.
 
 **Latest (Saturday evening, October 10):** Trump told reporters at the White House that the United States may decide "very quickly" to join airstrikes on the Houthi militia in Yemen after the fourth attack in a week on Riyadh's King Khalid International Airport. "We're going to look at it. We just found out about the recent attack (on the Saudi airport), so we'll make a decision," he said, adding "We move very quickly." The coalition backing Yemen's government said it had already launched "large-scale operations" against the Houthis on Friday, destroying more than 130 targets, as Yemeni government forces push offensives near the Bab al-Mandab Strait, which they seized last month and where the Houthis have previously attacked commercial vessels. Arab News reports four people killed and dozens injured in the week's airport strikes; Saudi authorities have not issued a consolidated casualty statement, so counts remain provisional.
 

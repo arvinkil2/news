@@ -1,7 +1,7 @@
 ---
 title: Trump rules out Iran strikes before November 3 midterms
 date: 2026-10-09T07:14:49-04:00
-last_updated: 2026-10-10T06:42:22-04:00
+last_updated: 2026-10-10T16:56:43-04:00
 beats:
 - politics
 regions:
@@ -9,14 +9,22 @@ regions:
 - north-america
 status: story
 update_bump: true
-lede: President Donald Trump said on October 8 that the US will not attack Iran before the November 3 midterm elections, citing "productive" talks to end the six-month-old war, and on Saturday the Kremlin said Putin had relayed Tehran's position on a possible resolution directly to Trump with the Iranian president's backing.
-why_it_matters: The statement sets a de-escalation window for oil markets and the Strait of Hormuz, while confirming the war is now a midterm campaign variable the White House cannot ignore.
+lede: "The Pentagon acknowledged Saturday that 21 American soldiers have been killed in the war with Iran, two more than its official count, after the Washington Post reported the toll was being undercounted, hours after Putin offered Moscow as go-between in the diplomacy Trump called productive."
+why_it_matters: "An official casualty revision after the defense secretary called the undercount claims 'completely false' puts the war's human cost back at the center of the midterm debate just as Trump froze strikes until November 3."
 featured: true
 evidence_grade: B
 sources:
 - title: "Kremlin says Putin relayed Iran's position on resolving conflict to Trump"
   publisher: "Arab News (Interfax)"
   url: "https://www.arabnews.com/world/kremlin-says-putin-relayed-irans-position-on-resolving-conflict-to-trump-3005603"
+  published: "2026-10-10"
+- title: "Pentagon, İran ile savaşta ölen ABD askerlerinin sayısını 21 olarak güncelledi (Pentagon updates number of US soldiers killed in war with Iran to 21)"
+  publisher: "Anadolu Agency (Turkish)"
+  url: "https://www.aa.com.tr/tr/dunya/pentagon-iran-ile-savasta-olen-abd-askerlerinin-sayisini-21-olarak-guncelledi/4084741"
+  published: "2026-10-10"
+- title: "İran Dışişleri Bakanı: Netanyahu kumarbaz gibi daha fazla Amerikan kanıyla kendini kurtarmaya çalışıyor (Iranian FM: Netanyahu like a gambler trying to save himself with more American blood)"
+  publisher: "Anadolu Agency (Turkish)"
+  url: "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-netanyahu-kumarbaz-gibi-daha-fazla-amerikan-kaniyla-kendini-kurtarmaya-calisiyor/4084436"
   published: "2026-10-10"
 - title: Trump says US will not attack Iran before midterm elections in November
   publisher: Reuters
@@ -27,8 +35,10 @@ sources:
   url: https://www.moneyweb.co.za/news/international/trump-says-us-wont-attack-iran-before-midterm-elections/
   published: '2026-10-09'
 tags: []
-data_as_of: Trump Truth Social post October 8, 2026; Reuters and Bloomberg reporting October 8-9. The Atlantic and New York Times reporting on pre-election strike plans and the three-day campaign option is per Bloomberg's account, not independently read. Kremlin statement on Putin relaying Iran's position to Trump October 10, 2026, via Arab News/Interfax (article opened and read; the relay claim is the Kremlin's narrative as relayed by Peskov).
+data_as_of: Trump Truth Social post October 8, 2026; Reuters and Bloomberg reporting October 8-9. The Atlantic and New York Times reporting on pre-election strike plans and the three-day campaign option is per Bloomberg's account, not independently read. Kremlin statement on Putin relaying Iran's position to Trump October 10, 2026, via Arab News/Interfax (article opened and read; the relay claim is the Kremlin's narrative as relayed by Peskov). Saturday evening update, Pentagon casualty revision via Anadolu Agency, in Turkish (article opened and read in full, translated); the WaPo undercount claim and Hegseth's denial are Anadolu's account of the US reporting. The Iranian foreign minister's Netanyahu remarks via Anadolu, cited from feed metadata.
 ---
+
+**Latest (Saturday evening, October 10):** The Pentagon acknowledged it had undercounted American military deaths in the war with Iran, raising the official number from 19 to 21 by including two non-combat deaths: a 46-year-old Army National Guard major who died in Kuwait on March 6 and a Navy service member who died by suicide in September, per the Pentagon's DCAS casualty database. The Pentagon separately confirmed a 26-year-old sergeant died in a training accident in Iraq in May, unrelated to the Iran operations, bringing total US military deaths in the Middle East since the war began February 28 to 22, with 865 wounded. The revision came after the Washington Post reported last month, citing six US officials, that the death toll exceeded the official public figure; Defense Secretary Pete Hegseth had called that report "completely false." Separately, Iran's foreign minister accused Israeli Prime Minister Netanyahu of behaving like a gambler trying to save himself with more American blood, per Anadolu.
 
 **Latest (Saturday, October 10):** The Kremlin said President Vladimir Putin relayed Iran's position on a possible resolution of the US-Iran war directly to President Trump, in coordination with and with the backing of the Iranian president. Kremlin spokesman Dmitry Peskov said, per Interfax, that Putin had conveyed Tehran's view on resolving the conflict during the two leaders' contact, making Moscow an explicit go-between in the diplomacy Trump called "productive" this week. The claim is the Kremlin's account; neither the White House nor Tehran has publicly detailed the contents of the position conveyed.
 

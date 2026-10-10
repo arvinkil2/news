@@ -1,7 +1,7 @@
 ---
 title: "Vance suspends Microsoft, Adobe from green card program over visa abuse claim"
 date: 2026-10-10T12:02:01-04:00
-last_updated: "2026-10-10T12:26:16-04:00"
+last_updated: "2026-10-10T16:56:43-04:00"
 beats: ["politics", "technology"]
 regions: ["north-america"]
 status: "story"
@@ -24,10 +24,16 @@ sources:
     publisher: "Fox Business (via Finvestly)"
     url: "https://finvestly.com/business/vance-suspends-microsoft-others-from-foreign-workers-applying-for-green-cards-alleges-visa-abuse/"
     published: "2026-10-10"
+  - title: "Infosys sees no material impact from U.S. PERM suspension"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230"
+    published: "2026-10-10"
 tags: []
-data_as_of: "October 10, 2026: CNBC article (opened via browser, full details including USCIS data-hub figures and the Amazon/Meta comparison), TechSpot summary and Fox Business report (read in full) agree on the suspension, the numbers cited by both sides, and the list of affected companies."
+data_as_of: "October 10, 2026: CNBC article (opened via browser, full details including USCIS data-hub figures and the Amazon/Meta comparison), TechSpot summary and Fox Business report (read in full) agree on the suspension, the numbers cited by both sides, and the list of affected companies. Saturday afternoon update: Infosys comment via Investing.com, cited from feed metadata."
 ---
 
 Vice President JD Vance announced Thursday that the administration is suspending Microsoft, Adobe and six outsourcing firms, Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies and Capgemini, from the Permanent Labor Certification (PERM) program used to sponsor foreign workers for green cards. Labor officials will stop accepting new applications and processing pending ones from the companies. Vance said Microsoft laid off 6,000 American workers last year while benefiting from 6,300 H-1B visas and nearly 3,000 green cards, calling it a scandalous system.
 
 Microsoft pushed back, saying the vast majority of its U.S. employees are Americans and that of the roughly 6,000 H-1B applications it submitted in the last fiscal year, 80 percent were to extend or change the status of existing employees rather than hire new people. CNBC's review of USCIS visa data cuts both ways: Microsoft did receive more than 6,000 H-1B approvals last year, but two-thirds went to people already working at the company. Notably, Amazon (19,178 approvals) and Meta (6,294), the two largest H-1B sponsors in the country, were not suspended; all eight suspended firms rank in the top 50 sponsors, with Adobe the smallest at number 45. The suspension blocks the path to permanent residency but does not shut down H-1B or cancel existing visas.
+
+**Latest (Saturday afternoon):** Infosys told investors the suspension would have no material impact on its business, per Investing.com, the first of the six suspended outsourcing firms to publicly downplay the financial fallout. The claim may face skepticism: the PERM freeze blocks new green-card filings, a pipeline Indian IT services firms use heavily for long-term U.S. staffing, even if existing H-1B visas and filed applications remain untouched.
