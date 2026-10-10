@@ -1,17 +1,21 @@
 ---
 title: Hurricane Isaias makes landfall near Destin, Florida as Category 2
 date: 2026-10-07 14:50:46-04:00
-last_updated: 2026-10-10T01:43:42-04:00
+last_updated: 2026-10-10T06:43:00-04:00
 beats:
 - commodities
 status: story
 developing: true
 update_bump: true
-lede: Hurricane Isaias made landfall near Destin, Florida at 9:30pm ET Friday as a Category 2 storm with 105 mph winds, after peaking earlier as a major Category 3; millions across Florida, Georgia and Alabama were under evacuation orders, and nearly 500,000 customers had lost power across Alabama and Florida by evening.
-why_it_matters: With 62.9 percent of Gulf oil output already shut in, a major hurricane landfall threatens the biggest US supply disruption of the year in a market pricing Iran-linked crude above $100, and the multi-state evacuation is the largest Gulf hurricane displacement in years.
+lede: Hurricane Isaias weakened into a post-tropical storm over southern Alabama early Saturday after making landfall near Destin, Florida as a Category 2, with more than 664,000 customers without power across Florida and Alabama as flash flooding pushed inland.
+why_it_matters: The storm came ashore at the heart of the Gulf energy complex with 62.9 percent of offshore oil output already shut in, and the weakening track now moves the damage question to inland refining and pipeline assets in Alabama and Mississippi, in a market pricing diesel near records.
 featured: false
 evidence_grade: C
 sources:
+- title: "Isaias weakens after making landfall in US Gulf Coast as hurricane"
+  publisher: "Al Jazeera"
+  url: "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane"
+  published: "2026-10-10"
 - title: Isaias Puts 500,000 Barrels a Day of Refining Capacity at Risk
   publisher: gCaptain (citing Bloomberg)
   url: https://gcaptain.com/isaias-puts-500000-barrels-a-day-of-refining-capacity-at-risk/
@@ -41,10 +45,16 @@ sources:
   url: "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
   published: "2026-10-09"
 tags: []
-data_as_of: NHC landfall report via The Guardian October 9, 2026 (landfall facts read via live browser extraction); NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures; evacuation and forecast detail from The Guardian explainer October 9, 2026 (read in full via live browser extraction).
+data_as_of: NHC landfall report via The Guardian October 9, 2026 (landfall facts read via live browser extraction); Saturday downgrade to post-tropical storm and post-landfall conditions from Al Jazeera October 10, 2026 (article opened and read in full, NHC figures); NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures; evacuation and forecast detail from The Guardian explainer October 9, 2026 (read in full via live browser extraction).
 regions:
 - north-america
 ---
+
+## Latest (Saturday): weakened to post-tropical storm over Alabama
+
+Isaias lost hurricane strength early Saturday and was downgraded to a post-tropical storm as it moved over southern Alabama, the National Hurricane Center said, with maximum sustained winds of 65 mph centered about 55 miles south-southwest of Montgomery. Flash flooding and strong winds remain a threat further inland.
+
+More than 664,000 customers in Florida and Alabama were without power early Saturday, per PowerOutage.com. Roads in Destin were flooded and Pensacola police warned residents to stay off streets because of debris; most Friday flights were grounded, including all flights in and out of Destin-Fort Walton Beach Airport. The NHC warned of a 3-to-5-foot storm surge from Dauphin Island, Alabama, to Florida's Aucilla River. Florida's National Guard deployed about 5,000 soldiers and airmen, and some prisons evacuated inmates. Homeland Security Secretary Markwayne Mullin said federal emergency declarations were approved for Florida and Alabama. President Trump told reporters the storm was "under control."
 
 ## Latest: millions under evacuation orders; surge forecast up to 9 feet
 

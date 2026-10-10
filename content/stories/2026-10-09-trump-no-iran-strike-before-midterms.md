@@ -1,18 +1,23 @@
 ---
 title: Trump rules out Iran strikes before November 3 midterms
 date: 2026-10-09T07:14:49-04:00
-last_updated: 2026-10-09T07:14:49-04:00
+last_updated: 2026-10-10T06:42:22-04:00
 beats:
 - politics
 regions:
 - middle-east
 - north-america
 status: story
-lede: President Donald Trump said on October 8 that the US will not attack Iran before the November 3 midterm elections, citing "productive" talks to end the six-month-old war.
+update_bump: true
+lede: President Donald Trump said on October 8 that the US will not attack Iran before the November 3 midterm elections, citing "productive" talks to end the six-month-old war, and on Saturday the Kremlin said Putin had relayed Tehran's position on a possible resolution directly to Trump with the Iranian president's backing.
 why_it_matters: The statement sets a de-escalation window for oil markets and the Strait of Hormuz, while confirming the war is now a midterm campaign variable the White House cannot ignore.
 featured: true
 evidence_grade: B
 sources:
+- title: "Kremlin says Putin relayed Iran's position on resolving conflict to Trump"
+  publisher: "Arab News (Interfax)"
+  url: "https://www.arabnews.com/world/kremlin-says-putin-relayed-irans-position-on-resolving-conflict-to-trump-3005603"
+  published: "2026-10-10"
 - title: Trump says US will not attack Iran before midterm elections in November
   publisher: Reuters
   url: https://www.lapost.com/content/trump-says-us-will-not-attack-iran-before-midterm-elections-in-november
@@ -22,8 +27,10 @@ sources:
   url: https://www.moneyweb.co.za/news/international/trump-says-us-wont-attack-iran-before-midterm-elections/
   published: '2026-10-09'
 tags: []
-data_as_of: Trump Truth Social post October 8, 2026; Reuters and Bloomberg reporting October 8-9. The Atlantic and New York Times reporting on pre-election strike plans and the three-day campaign option is per Bloomberg's account, not independently read.
+data_as_of: Trump Truth Social post October 8, 2026; Reuters and Bloomberg reporting October 8-9. The Atlantic and New York Times reporting on pre-election strike plans and the three-day campaign option is per Bloomberg's account, not independently read. Kremlin statement on Putin relaying Iran's position to Trump October 10, 2026, via Arab News/Interfax (article opened and read; the relay claim is the Kremlin's narrative as relayed by Peskov).
 ---
+
+**Latest (Saturday, October 10):** The Kremlin said President Vladimir Putin relayed Iran's position on a possible resolution of the US-Iran war directly to President Trump, in coordination with and with the backing of the Iranian president. Kremlin spokesman Dmitry Peskov said, per Interfax, that Putin had conveyed Tehran's view on resolving the conflict during the two leaders' contact, making Moscow an explicit go-between in the diplomacy Trump called "productive" this week. The claim is the Kremlin's account; neither the White House nor Tehran has publicly detailed the contents of the position conveyed.
 
 "We are having productive discussions with the Islamic Republic of Iran," President Donald Trump wrote on Truth Social on October 8. "We will not be attacking Iran at any time prior to the midterm elections to be held in the United States on November 3rd." The war began in February when the US and Israel launched strikes on Iran, and the statement marks an unusual blending of military planning and electoral politics from the White House.
 
