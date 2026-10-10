@@ -1,14 +1,14 @@
 ---
 title: "Hegseth says Fort Hood shooter's execution will be public and livestreamed"
 date: 2026-10-08T19:45:16-04:00
-last_updated: 2026-10-09T14:47:12-04:00
+last_updated: 2026-10-09T20:43:12-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Vice President JD Vance said he doubts the Pentagon will actually livestream the December 3 firing-squad execution of Fort Hood shooter Nidal Hasan, while FCC chair Brendan Carr deferred to the Pentagon on whether US networks may air it."
-why_it_matters: "Even the vice president is hedging on the Pentagon's unprecedented plan to broadcast a military execution, and the FCC's legal standing to intervene at all is doubtful."
+lede: "The Pentagon's plan to livestream the December 3 firing-squad execution of Fort Hood shooter Nidal Hasan drew condemnation from the UN human rights office and bipartisan lawmakers on Friday, while President Trump declined to firmly endorse the broadcast."
+why_it_matters: "Opposition now spans the UN, Senate Republicans and Democrats, and US Catholic bishops — and even Trump is hedging — leaving Hegseth's unprecedented plan politically exposed ahead of the midterms."
 featured: false
 evidence_grade: "B"
 sources:
@@ -48,9 +48,15 @@ sources:
     publisher: "SABC News"
     url: "https://www.sabcnews.com/sabcnews/fcc-chief-defers-to-pentagon-on-airing-us-execution-on-tv-networks/"
     published: "2026-10-09"
+  - title: "Vance says he does not know if Pentagon will proceed with livestream of Fort Hood gunman's execution"
+    publisher: "Reuters (via Devdiscourse)"
+    url: "https://www.devdiscourse.com/article/international/3989990-wrapup-1-vance-says-he-does-not-know-if-pentagon-will-proceed-with-livestream-of-fort-hood-gunmans-execution"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Defense Secretary Hegseth's statements and Pentagon briefing, October 8, 2026, as reported by The Hill (opened and read in full), Military Times, Bloomberg, the Guardian and France 24. Vance's remarks via Press Association wire, October 9 (opened and read in full). FCC chair Carr's remarks via SABC News, October 9 (opened and read in full). The Axios Vance article could not be retrieved (axios.com blocked to the page fetcher); the PA and SABC accounts carry the substance."
+data_as_of: "Defense Secretary Hegseth's statements and Pentagon briefing, October 8, 2026, as reported by The Hill (opened and read in full), Military Times, Bloomberg, the Guardian and France 24. Vance's remarks via Press Association wire, October 9 (opened and read in full). FCC chair Carr's remarks via SABC News, October 9 (opened and read in full). The Axios Vance article could not be retrieved (axios.com blocked to the page fetcher); the PA and SABC accounts carry the substance. UN human rights office condemnation, congressional pushback and Catholic bishops' response via Reuters wrapup, October 9 (opened and read in full via Devdiscourse)."
 ---
+
+**Latest (Friday evening):** The UN human rights office condemned the Pentagon's plan, with spokeswoman Shabia Mantoo telling a Geneva briefing that public executions constitute cruel, inhuman or degrading treatment or punishment and would breach the absolute prohibition of torture. Bipartisan opposition hardened in Congress: Republican Senator Thom Tillis called livestreaming the execution "beyond disgusting," saying it was something "oppressive dictatorships like Iran and Afghanistan do"; Representative Austin Scott of Georgia also opposed the broadcast while supporting the death sentence; and Senate Armed Services ranking Democrat Jack Reed called it "a gift to anti-American terrorist recruiters," saying it was "absolutely shameful and damaging to America's interests and core values." Archbishop Paul Coakley, president of the US Conference of Catholic Bishops, called the plan a "barbaric promotion of a culture of death," and Trump's former National Counterterrorism Center chief Joe Kent said streaming the execution would give terrorists "free propaganda" to radicalize and recruit. Trump himself stopped short of endorsing the broadcast, telling reporters Friday that officials were "still making a determination" on whether it would be shown, and the Pentagon declined to say whether victims' families would be invited to attend.
 
 **Latest (2:47pm ET Friday):** Vice President JD Vance cast doubt on whether the livestream will actually happen, telling reporters "I don't know that that's actually going to happen" and adding "I'm not going to be watching it." President Trump, at a White House event, called Hasan "a maniac" and said he deserves "the death penalty through firing squad," without mentioning the livestream plan. Separately, FCC chair Brendan Carr told CNBC on Friday that he would defer to the Pentagon on whether US networks can air the December 3 execution, saying it was his understanding the broadcast would not air on network television. A media-law expert told SABC News there is no legal basis for the FCC to tell broadcasters whether to carry the event.
 
