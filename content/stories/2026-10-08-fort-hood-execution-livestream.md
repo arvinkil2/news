@@ -1,7 +1,7 @@
 ---
 title: "Hegseth says Fort Hood shooter's execution will be public and livestreamed"
 date: 2026-10-08T19:45:16-04:00
-last_updated: 2026-10-09T20:43:12-04:00
+last_updated: 2026-10-10T07:55:19-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -55,6 +55,8 @@ sources:
 tags: []
 data_as_of: "Defense Secretary Hegseth's statements and Pentagon briefing, October 8, 2026, as reported by The Hill (opened and read in full), Military Times, Bloomberg, the Guardian and France 24. Vance's remarks via Press Association wire, October 9 (opened and read in full). FCC chair Carr's remarks via SABC News, October 9 (opened and read in full). The Axios Vance article could not be retrieved (axios.com blocked to the page fetcher); the PA and SABC accounts carry the substance. UN human rights office condemnation, congressional pushback and Catholic bishops' response via Reuters wrapup, October 9 (opened and read in full via Devdiscourse)."
 ---
+
+**Latest (8:10am ET Saturday):** Republican opposition widened Saturday: Rep. Rob Bresnahan joined the GOP critics, saying "The focus should be on justice for the victims and their families" and "Their pain deserves respect, not a public show." Senator Thom Tillis, already on record against the broadcast, publicly expressed regret for his 2025 vote to confirm Hegseth as defense secretary, per Al Jazeera reporting.
 
 **Latest (Friday evening):** The UN human rights office condemned the Pentagon's plan, with spokeswoman Shabia Mantoo telling a Geneva briefing that public executions constitute cruel, inhuman or degrading treatment or punishment and would breach the absolute prohibition of torture. Bipartisan opposition hardened in Congress: Republican Senator Thom Tillis called livestreaming the execution "beyond disgusting," saying it was something "oppressive dictatorships like Iran and Afghanistan do"; Representative Austin Scott of Georgia also opposed the broadcast while supporting the death sentence; and Senate Armed Services ranking Democrat Jack Reed called it "a gift to anti-American terrorist recruiters," saying it was "absolutely shameful and damaging to America's interests and core values." Archbishop Paul Coakley, president of the US Conference of Catholic Bishops, called the plan a "barbaric promotion of a culture of death," and Trump's former National Counterterrorism Center chief Joe Kent said streaming the execution would give terrorists "free propaganda" to radicalize and recruit. Trump himself stopped short of endorsing the broadcast, telling reporters Friday that officials were "still making a determination" on whether it would be shown, and the Pentagon declined to say whether victims' families would be invited to attend.
 
