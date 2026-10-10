@@ -1,13 +1,13 @@
 ---
 title: "Trump weighs U.S. airstrikes on Houthis after fourth Riyadh airport attack"
 date: 2026-10-10T01:46:47-04:00
-last_updated: 2026-10-10T16:56:43-04:00
+last_updated: 2026-10-10T17:52:22-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Trump said Saturday the U.S. may decide 'very quickly' to join airstrikes on the Houthi militia in Yemen after a fourth attack in a week on Riyadh's airport, as Saudi Arabia suspended operations at King Khalid International and the Saudi-led coalition said Friday's strikes hit more than 130 Houthi targets."
+lede: "Trump said Saturday the U.S. may decide 'very quickly' to join airstrikes on the Houthi militia in Yemen after a fourth attack in a week on Riyadh's airport, as the Wall Street Journal reported two airport terminals took direct missile hits and Saudi Arabia's aviation authority confirmed several people injured, with a projectile also reported near Dammam's airport."
 why_it_matters: "A U.S. decision to intervene would internationalize the Gulf's aviation crisis; the airport shutdown already holds regional fuel-flow and aviation risk premia elevated ahead of the WPC Energy Congress."
 featured: false
 evidence_grade: "B"
@@ -60,9 +60,23 @@ sources:
   publisher: "TASS (Russian)"
   url: "https://tass.ru/ekonomika/28202301"
   published: "2026-10-10"
+- title: "Damage seen inside Saudi airport after third attack this week"
+  publisher: "Al Jazeera"
+  url: "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week"
+  published: "2026-10-10"
+- title: "WSJ: два терминала аэропорта Эр-Рияда подверглись прямым ракетным попаданиям (WSJ: two Riyadh airport terminals hit by direct missile strikes)"
+  publisher: "TASS (Russian), citing WSJ"
+  url: "https://tass.ru/proisshestviya/28202431"
+  published: "2026-10-10"
+- title: "В районе международного аэропорта Даммама упал снаряд (Projectile fell near Dammam international airport)"
+  publisher: "TASS (Russian)"
+  url: "https://tass.ru/mezhdunarodnaya-panorama/28202407"
+  published: "2026-10-10"
 tags: []
-data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna) and Deutsche Welle (blast confirmed, no Saudi statement, no Houthi claim; embassy warnings from Germany, Canada and Spain; Etihad, Qatar Airways and Kuwait Airways cancellations). Reuters reported several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT's higher casualty figures (dozens injured, five critical) come from unnamed diplomatic sources and conflict with DW's account; treated as uncorroborated. Saturday afternoon update: official suspension of airport operations via Bloomberg; NYT confirmation of a renewed attack; Guardian report of dozens injured (feed headline and URL as published; live page not opened); ANSA in Italian, translated, reporting five injured and the airport closed. Casualty counts remain inconsistent across outlets and unconfirmed by Saudi authorities, who had not issued a public statement as of Saturday afternoon Riyadh time. Houthi attribution is outlet reporting; no group has claimed responsibility for the Saturday strike. Saturday evening update: Trump's remarks and the White House quotes via Arab News, opened and read in full; coalition 'large-scale operations' claim and the Bab al-Mandab offensive via the same article. Arab News reports four killed and dozens injured in the week's airport strikes; Saudi authorities have not issued a consolidated casualty statement, so figures remain provisional. Saturday late-evening update: EgyptAir flight cancellations and the one-day airport closure extension via TASS (Russian state-affiliated), cited from feed metadata; not independently corroborated."
+data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna) and Deutsche Welle (blast confirmed, no Saudi statement, no Houthi claim; embassy warnings from Germany, Canada and Spain; Etihad, Qatar Airways and Kuwait Airways cancellations). Reuters reported several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT's higher casualty figures (dozens injured, five critical) come from unnamed diplomatic sources and conflict with DW's account; treated as uncorroborated. Saturday afternoon update: official suspension of airport operations via Bloomberg; NYT confirmation of a renewed attack; Guardian report of dozens injured (feed headline and URL as published; live page not opened); ANSA in Italian, translated, reporting five injured and the airport closed. Casualty counts remain inconsistent across outlets and unconfirmed by Saudi authorities, who had not issued a public statement as of Saturday afternoon Riyadh time. Houthi attribution is outlet reporting; no group has claimed responsibility for the Saturday strike. Saturday evening update: Trump's remarks and the White House quotes via Arab News, opened and read in full; coalition 'large-scale operations' claim and the Bab al-Mandab offensive via the same article. Arab News reports four killed and dozens injured in the week's airport strikes; Saudi authorities have not issued a consolidated casualty statement, so figures remain provisional. Saturday late-evening update: EgyptAir flight cancellations and the one-day airport closure extension via TASS (Russian state-affiliated), cited from feed metadata; not independently corroborated. Saturday night update: Al Jazeera confirmed Saudi Arabia's Civil Aviation Authority said several people were injured in the third attack this week, with video showing damage inside the terminal building (opened and read in full). TASS, citing the Wall Street Journal, reported two King Khalid International terminals took direct missile hits; the same wire cited the New York Times on 12 dead and the Financial Times on about 50 injured — none of those casualty figures are confirmed by Saudi authorities and remain provisional. Separately, TASS and RT (both Russian state-affiliated) reported a projectile fell near Dammam's international airport in the east of the kingdom; uncorroborated. TASS separately reported Abha and Dammam airports operating normally for arrivals and departures, from feed metadata."
 ---
+
+**Latest (Saturday night, October 10):** Al Jazeera confirmed Saudi Arabia's Civil Aviation Authority said several people were injured in the third attack this week, with video showing damage inside the terminal building. The Wall Street Journal, via TASS, reported two King Khalid International terminals took direct missile hits. Separately, Russian state-affiliated outlets reported a projectile fell near Dammam's international airport in eastern Saudi Arabia; uncorroborated. NYT and FT casualty figures cited by the same wires (12 dead, about 50 injured) remain unconfirmed by Saudi authorities.
 
 **Latest (Saturday late evening, October 10):** EgyptAir cancelled its Riyadh flights after the airport attack, and the airport is expected to remain closed for another day, according to TASS. An extended closure would make Saturday's strike the most disruptive of the week, stranding schedules carriers had already rerouted on Friday. TASS is Russian state-affiliated and both items are cited from feed metadata, so treat them as uncorroborated until a carrier or Saudi authority confirms.
 
