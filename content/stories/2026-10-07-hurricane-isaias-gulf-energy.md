@@ -1,14 +1,14 @@
 ---
 title: Hurricane Isaias makes landfall near Destin, Florida as Category 2
 date: 2026-10-07 14:50:46-04:00
-last_updated: 2026-10-09T22:54:49-04:00
+last_updated: 2026-10-10T01:43:42-04:00
 beats:
 - commodities
 status: story
 developing: true
 update_bump: true
-lede: Hurricane Isaias made landfall near Destin, Florida at 9:30pm ET Friday as a Category 2 storm with 105 mph winds, after peaking earlier as a major Category 3; nearly 500,000 customers had lost power across Alabama and Florida by evening.
-why_it_matters: With 62.9 percent of Gulf oil output already shut in, a major hurricane landfall threatens the biggest US supply disruption of the year in a market pricing Iran-linked crude above $100.
+lede: Hurricane Isaias made landfall near Destin, Florida at 9:30pm ET Friday as a Category 2 storm with 105 mph winds, after peaking earlier as a major Category 3; millions across Florida, Georgia and Alabama were under evacuation orders, and nearly 500,000 customers had lost power across Alabama and Florida by evening.
+why_it_matters: With 62.9 percent of Gulf oil output already shut in, a major hurricane landfall threatens the biggest US supply disruption of the year in a market pricing Iran-linked crude above $100, and the multi-state evacuation is the largest Gulf hurricane displacement in years.
 featured: false
 evidence_grade: C
 sources:
@@ -32,15 +32,23 @@ sources:
   publisher: Zark News (citing NHC 7:20 a.m. CDT tropical cyclone update)
   url: https://zarknews.com/hurricane-isaias-first-atlantic-hurricane-2026/
   published: '2026-10-09'
+- title: "Key things to know about Hurricane Isaias as millions under evacuation orders"
+  publisher: "The Guardian"
+  url: "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation"
+  published: "2026-10-09"
 - title: "Hurricane Isaias makes landfall in Florida with severe effects expected across several states"
   publisher: "The Guardian"
   url: "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
   published: "2026-10-09"
 tags: []
-data_as_of: NHC landfall report via The Guardian October 9, 2026 (landfall facts read via live browser extraction); NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures.
+data_as_of: NHC landfall report via The Guardian October 9, 2026 (landfall facts read via live browser extraction); NHC 7:20 a.m. CDT tropical cyclone update October 9, 2026, as relayed by Zark News; Marine Minerals Administration shut-in figures as of Thursday; gCaptain/Bloomberg (article opened and read) for the refining-capacity exposure and AAA/retail price figures; evacuation and forecast detail from The Guardian explainer October 9, 2026 (read in full via live browser extraction).
 regions:
 - north-america
 ---
+
+## Latest: millions under evacuation orders; surge forecast up to 9 feet
+
+Millions of people across Florida, Georgia and Alabama were under evacuation orders as Isaias came ashore Friday night, with mandatory evacuations in some coastal communities, more than 370 Red Cross workers deployed, and about 5,000 Florida National Guard troops mobilizing. NOAA forecast a life-threatening storm surge of up to 9 feet between Dauphin Island, Alabama, and Indian Pass, Florida, with the surge zone stretching from southeast Louisiana to Florida's Suwannee River. Rainfall was forecast at 4 to 8 inches with local totals up to 15 inches, bringing flash and river flooding risk to southern Alabama, the Florida Panhandle and southwest Georgia, and hurricane-force winds were expected to reach 100 miles inland from the Alabama coast. All three states declared states of emergency.
 
 ## Latest: landfall near Destin, 9:30pm ET, 105 mph winds
 
