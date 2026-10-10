@@ -1,7 +1,7 @@
 ---
 title: "Kalshi probes suspicious bets on new press secretary pick"
 date: 2026-10-10T12:00:49-04:00
-last_updated: 2026-10-10T12:00:49-04:00
+last_updated: "2026-10-10T12:26:16-04:00"
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -21,9 +21,9 @@ sources:
     url: "https://wncy.com/2026/10/09/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports/"
     published: "2026-10-09"
 tags: []
-data_as_of: "Reuters, October 9, 2026 (article read in full), reporting the Wall Street Journal citing a Kalshi spokesperson; The Hill's October 10 item (opened via browser) matches. Kalshi declined to comment on the Reuters report."
+data_as_of: "Reuters, October 9, 2026 (article read in full), reporting the Wall Street Journal citing a Kalshi spokesperson; The Hill's October 10 item (opened via browser, full details on Zacharia succession, Truth Social praise, and the Perez fine). Kalshi declined to comment on the Reuters report."
 ---
 
-Kalshi has launched an investigation into suspicious trades tied to the selection of Katie Zacharia as President Trump's new White House press secretary, the Wall Street Journal reported, citing a company spokesperson. At least three small wagers were placed before news of Zacharia's selection emerged: a 19-dollar bet placed late Thursday is set to pay 1,896 dollars, while wagers of about 74 and 80 dollars placed Friday are expected to pay 3,689 and 4,023 dollars. Zacharia, a conservative commentator who previously worked briefly at the Department of Homeland Security, had been given about a 1 percent chance of securing the role on Kalshi before the announcement.
+Kalshi has launched an investigation into suspicious trades tied to the selection of Katie Zacharia as President Trump's new White House press secretary, the Wall Street Journal reported, citing a company spokesperson. At least three small wagers were placed before news of Zacharia's selection emerged: a 19-dollar bet placed late Thursday is set to pay 1,896 dollars, while wagers of about 74 and 80 dollars placed Friday are expected to pay 3,689 and 4,023 dollars. Zacharia, a conservative commentator who previously worked briefly at the Department of Homeland Security, had been given about a 1 percent chance of securing the role on Kalshi before the announcement. She succeeds Karoline Leavitt, who left earlier this year after having a child and is now a Fox News commentator; Trump praised Zacharia on Truth Social as a devoted MAGA supporter.
 
-The episode follows growing scrutiny of prediction markets over traders profiting from inside information; in July, Trump's teleprompter operator came under CFTC investigation over potential insider trading.
+The episode follows growing scrutiny of prediction markets over traders profiting from inside information. In July, Trump's teleprompter operator Gabriel Perez was removed after earning more than 100,000 dollars on Kalshi bets on presidential speeches, and the CFTC fined him 172,000 dollars.

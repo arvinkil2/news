@@ -1,13 +1,13 @@
 ---
 title: "Houthi strikes kill three at Riyadh airport, new Saturday blast injures several"
 date: 2026-10-10T01:46:47-04:00
-last_updated: 2026-10-10T11:59:50-04:00
+last_updated: "2026-10-10T12:26:16-04:00"
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Houthi-claimed missile strikes on Riyadh's King Khalid International Airport killed three Saudi nationals on Thursday, and a new blast on Saturday injured several people, forced an evacuation and halted air traffic, per the Associated Press and Reuters."
+lede: "Houthi-claimed missile strikes on Riyadh's King Khalid International Airport killed three Saudi nationals on Thursday, and a new blast on Saturday injured several people, forced an evacuation and halted air traffic, drawing embassy warnings and Gulf airline cancellations."
 why_it_matters: "Two airport attacks within three days keep Riyadh's airspace on edge days before the city hosts the WPC Energy Congress, and keep the risk premium on Gulf aviation and Red Sea shipping alternatives to Hormuz elevated."
 featured: false
 evidence_grade: "B"
@@ -33,9 +33,9 @@ sources:
   url: "https://timessquire.com/bangladesh-condemns-houthi-attacks-on-saudi-arabia-2/"
   published: "2026-10-09"
 tags: []
-data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna), with Reuters reporting several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT separately reported a missile strike with Western embassies on alert and flight cancellations; that account is so far uncorroborated. No group has claimed the Saturday blast and Saudi authorities had not issued a new statement at the time of writing."
+data_as_of: "Saturday midday update, October 10, 2026: the new incident is reported by the Associated Press via two regional officials (evacuation and air traffic halted, per Akhbrna) and Deutsche Welle (blast confirmed, no Saudi statement, no Houthi claim; embassy warnings from Germany, Canada and Spain; Etihad, Qatar Airways and Kuwait Airways cancellations). Reuters reported several injured. Air Arabia suspended Sharjah-Riyadh flights for October 10-11. Greek state broadcaster ERT's higher casualty figures (dozens injured, five critical) come from unnamed diplomatic sources and conflict with DW's account; treated as uncorroborated."
 ---
 
 Houthi-claimed missile strikes hit Riyadh's King Khalid International Airport on Thursday in two waves, killing three Saudi nationals including Saudia pilot Captain Hamoud Ali Alkalthami and destroying a parked Saudia aircraft that had no passengers aboard, with several more people of various nationalities wounded. The attacks forced more than 124 flight cancellations on Friday per FlightAware, drew suspensions from Air India, Lufthansa Group and Pakistan International Airlines, and prompted the EU Aviation Safety Agency to recommend airlines avoid additional sections of Saudi airspace. The Saudi-led coalition said it destroyed three Houthi rocket launch platforms and struck targets in Sanaa overnight, where Houthi officials reported six injured including a child.
 
-**Latest (Saturday midday, October 10):** The Associated Press, citing two regional officials speaking anonymously, reported another attack on the airport on Saturday: one official said the airport had been evacuated, another that air traffic had stopped, per Akhbrna's aggregation of the AP reporting. Reuters reported that several people were injured in the blast, and Air Arabia suspended its Sharjah-Riyadh flights for October 10 and 11. Saudi authorities had not issued a new official statement at the time of writing, and no group has claimed the new blast. Greek state broadcaster ERT separately reported a missile strike with Western embassies on alert and further flight cancellations, an account that remains uncorroborated.
+**Latest (Saturday midday, October 10):** The Associated Press, citing two regional officials speaking anonymously, reported another attack on the airport on Saturday: one official said the airport had been evacuated, another that air traffic had stopped, per Akhbrna's aggregation of the AP reporting. Deutsche Welle, reporting from the same incident, said witnesses and local officials confirmed the evacuation and blast but that there were no immediate reports of damage or injuries and no Saudi official statement yet; Reuters separately reported several people injured. Etihad, Qatar Airways and Kuwait Airways canceled Riyadh flights, with some cancellations extending into Monday. Germany's and Canada's embassies urged citizens to avoid the airport, while Spain's embassy referred to a "new attack" by the Houthis. No group has claimed the Saturday blast. Greek state broadcaster ERT, citing unnamed diplomatic and regional sources, reported a Houthi missile strike with dozens injured and at least five in critical condition; those casualty figures conflict with other outlets' reporting and remain uncorroborated.

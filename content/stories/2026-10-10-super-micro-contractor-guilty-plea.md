@@ -1,7 +1,7 @@
 ---
 title: "Super Micro contractor pleads guilty in AI chip smuggling case"
 date: 2026-10-10T12:01:16-04:00
-last_updated: 2026-10-10T12:01:16-04:00
+last_updated: "2026-10-10T12:26:16-04:00"
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
@@ -21,9 +21,9 @@ sources:
     url: "https://superhits979.com/2026/10/09/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/"
     published: "2026-10-09"
 tags: []
-data_as_of: "Reuters, October 9, 2026 (article read in full, by Karen Freifeld and Jaspreet Singh); Tom's Hardware October 10 item (opened via browser) matches the plea. Court filing and indictment details are per Reuters."
+data_as_of: "Reuters, October 9, 2026 (article read in full, by Karen Freifeld and Jaspreet Singh); Tom's Hardware October 10 item (opened via browser, full details on sentencing date, scheme mechanics, and Alibaba denial). Court filing and indictment details are per Reuters."
 ---
 
-Ting-Wei "Willy" Sun, a contractor linked to Super Micro Computer, pleaded guilty on Thursday in U.S. District Court in Manhattan to four counts, including conspiracies to violate U.S. export controls, smuggle goods from the United States, defraud the country and obstruct justice, in a scheme to illegally export servers containing advanced Nvidia AI chips to China. In March, prosecutors charged Sun and two others associated with Super Micro, including co-founder Yih-Shyan "Wally" Liaw, with conspiring to divert about 2.5 billion dollars of U.S. AI technology to China in violation of export laws. The indictment covers Nvidia's B200, H100 and H200 chips and the servers containing them, and says a Southeast Asian company was used as a pass-through to conceal the China-based end customers.
+Ting-Wei "Willy" Sun, a contractor linked to Super Micro Computer, pleaded guilty on Thursday in U.S. District Court in Manhattan to four counts, including conspiracies to violate U.S. export controls, smuggle goods from the United States, defraud the country and obstruct justice, in a scheme to illegally export servers containing advanced Nvidia AI chips to China. Sentencing is set for September 8, 2027, with cooperation details undisclosed. In March, prosecutors charged Sun and two others associated with Super Micro, including co-founder Yih-Shyan "Wally" Liaw, with conspiring to divert about 2.5 billion dollars of U.S. AI technology to China in violation of export laws. The indictment covers Nvidia's B200, H100 and H200 chips and the servers containing them; per Tom's Hardware, the scheme routed servers through a Thailand-based corporation that faked paperwork and built dummy servers for inspectors, while workers used hair dryers to move serial numbers from the real servers to the shells, with the real machines delivered to China-based customers including Alibaba, which denied receiving banned Nvidia hardware.
 
 Super Micro said it was not named as a defendant in the indictment and that the case had no impact on its business operations; the company terminated Sun and cut ties with the other defendants earlier this year. A lawyer for Sun declined to comment.
