@@ -1,18 +1,30 @@
 ---
 title: "Italy adopts Meloni's electoral overhaul with winner bonus"
 date: 2026-10-08T07:36:53-0400
-last_updated: 2026-10-08T07:36:53-0400
+last_updated: 2026-10-10T07:11:57-0400
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Italy's lower house gave final sign-off on October 8 to Prime Minister Giorgia Meloni's contested electoral reform, a fully proportional system with bonus seats guaranteeing a parliamentary majority to any alliance topping 42 percent of the vote."
-why_it_matters: "The law could hand the next winning coalition a decisive majority from a plurality of the vote, reshaping Italian governability ahead of an election due by the end of 2027."
+lede: "Italy's Chamber of Deputies gave final approval in a secret ballot on October 8 to Prime Minister Giorgia Meloni's contested electoral reform, a fully proportional system with bonus seats for any alliance topping 42 percent of the vote, and the opposition has pledged a Constitutional Court challenge once the law takes effect."
+why_it_matters: "The law could hand the next winning coalition a decisive majority from a plurality of the vote, reshaping Italian governability ahead of an election due by the end of 2027; a successful court challenge could force a rewrite before then."
 featured: false
 evidence_grade: "B"
 sources:
   - title: "Italy Adopts Meloni's Electoral Overhaul"
     publisher: "Political Wire (Bloomberg reporting)"
     url: "https://politicalwire.com/2026/10/08/italy-adopts-melonis-electoral-overhaul/"
+    published: "2026-10-08"
+  - title: "Italy's parliament gives final approval to Meloni's electoral reform"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/world/italys-parliament-gives-final-approval-to-melonis-electoral-reform-3005336"
+    published: "2026-10-09"
+  - title: "Italy's parliament gives final approval to Meloni's electoral reform"
+    publisher: "Associated Press (via WCIA)"
+    url: "https://www.wcia.com/news/international/ap-italys-parliament-gives-final-approval-to-melonis-electoral-reform/"
+    published: "2026-10-08"
+  - title: "Meloni's electoral reform secures final approval from parliament"
+    publisher: "European Interest"
+    url: "https://www.europeaninterest.eu/melonis-electoral-reform-secures-final-approval-from-parliament/"
     published: "2026-10-08"
   - title: "Italy's electoral reform clears initial confidence vote hurdle"
     publisher: "Reuters (via LA Post)"
@@ -23,8 +35,10 @@ sources:
     url: "https://intrieste.com/2026/10/07/italys-lower-house-to-vote-on-electoral-law-as-meloni-stakes-political-future/"
     published: "2026-10-07"
 tags: []
-data_as_of: "Final Chamber vote October 8, 2026 (227-164) per Bloomberg; Senate approval September 15, 2026 (113-71); confidence votes October 6 per Reuters."
+data_as_of: "Final Chamber vote October 8, 2026 (227-164, secret ballot) per Arab News, AP and European Interest; Senate approval September 15, 2026 (113-71); confidence votes October 6 per Reuters. Opposition Constitutional Court pledge per Arab News, AP and European Interest."
 ---
+
+**Latest (Saturday, October 10):** The full reporting on Thursday's vote filled in details that matter for what comes next. The Chamber approved the measure in a secret ballot, 227 to 164, after Meloni made it an explicit test of coalition unity, warning lawmakers from Brothers of Italy, Forza Italia and the League that defeat could plunge the government into crisis. The centre-left opposition, which calls the law a "scam law," has pledged to take it to Italy's Constitutional Court once it takes effect, arguing the majority prize distorts voter representation and could conflict with previous court rulings that struck down elements of earlier electoral laws. If the court challenge succeeds, Meloni's government could be forced to revise the system before the next general election. The vote caps a season in which Meloni's coalition became Italy's longest-serving government since World War II, but resistance also surfaced inside her own bloc: some coalition lawmakers fear Roberto Vannacci's nationalist Futuro Nazionale could siphon votes and make the 42 percent threshold harder to reach, while others object to provisions they say raise campaign costs for individual candidates and reduce women's representation in parliament. The vote was also Meloni's latest institutional reshape attempt after voters rejected her proposed justice-system overhaul in a constitutional referendum earlier this year.
 
 Italy's Chamber of Deputies gave final approval to the electoral overhaul on October 8 by a vote of 227 to 164, capping a months-long process that revealed fractures in Meloni's coalition. The Senate had approved the measure on September 15 by 113 votes to 71, and the lower house had cleared the first articles in confidence votes on October 6. Meloni had staked her government on the bill, saying she could resign if it were rejected.
 

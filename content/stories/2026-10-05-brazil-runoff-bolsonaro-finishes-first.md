@@ -1,7 +1,7 @@
 ---
 title: Flavio Bolsonaro vows to "re-democratise" Brazil
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-09T07:14:02-04:00
+last_updated: 2026-10-10T07:11:04-04:00
 update_bump: true
 beats:
 - politics
@@ -9,9 +9,10 @@ status: story
 lede: Flavio Bolsonaro vowed to "re-democratise" Brazil in the runoff's final stretch,
   a phrase critics read as a signal of institutional confrontation if he defeats
   Lula on October 25.
-why_it_matters: The runoff remains a technical tie in all major pollsters' pre-round
-  simulations, and the vow puts democratic-institution risk back at the centre of
-  the BRL and Bovespa calculus.
+why_it_matters: "New post-first-round polls put Bolsonaro ahead (PoderData/Aya 53-47, Datafolha
+  49-45, still a technical tie), and markets have repriced: the Bovespa hit a record,
+  EWZ jumped 12.6% and the real broke past R$5. The 're-democratise' vow remains
+  single-sourced Guardian reporting."
 featured: true
 evidence_grade: C
 sources:
@@ -42,13 +43,37 @@ sources:
 - title: Brazil Election - Flavio Bolsonaro Surge Attracts Top Finance Minister Names
   publisher: Bloomberg
   published: '2026-10-08'
+- title: Third-place finisher in Brazil election endorses Flavio Bolsonaro for runoff
+    against Lula
+  publisher: Arab News
+  url: https://www.arabnews.com/world/third-place-finisher-in-brazil-election-endorses-flavio-bolsonaro-for-runoff-against-lula-3005389
+  published: '2026-10-08'
+- title: Flavio chega a 53% e Lula cai a 47% em pesquisa PoderData para o segundo turno
+  publisher: 011 News
+  url: https://011news.com.br/flavio-chega-a-53-e-lula-cai-a-47-em-pesquisa-poderdata-para-o-segundo-turno/
+  published: '2026-10-08'
+- title: Can Brazil Replicate Argentina's 200% Rally? Election Upset Jolts Brazilian
+    Markets
+  publisher: Yonhap Infomax
+  url: https://en.infomaxai.com/news/articleView.html?idxno=142414
+  published: '2026-10-08'
+- title: Sao Paulo stock exchange surges after Flavio Bolsonaro election result
+  publisher: Daily Guardian Europe
+  url: https://dailyguardian.eu/sao-paulo-stock-exchange-surges-after-flavio-bolsonaro-election-result/
+  published: '2026-10-05'
 tags: []
-data_as_of: TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
-  reset Oct 5; equity/currency moves single-sourced, unconfirmed; vow reported October
-  7, 2026, single-sourced (The Guardian via feed; domain blocked for direct fetch,
-  so uncorroborated). Oct 8 evening update (Cury endorsement, Caiado/Santos positions,
-  Datafolha 49-45 runoff poll via Arab News Reuters-sourced; Eduardo Bolsonaro
-  arrest warrant via Arab News AP-sourced, opened and read).
+data_as_of: "TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
+  reset Oct 5; vow reported October 7, 2026, single-sourced (The Guardian via feed;
+  domain blocked for direct fetch, so uncorroborated). Oct 8 evening update (Cury
+  endorsement, Caiado/Santos positions, Datafolha 49-45 runoff poll via Arab News
+  Reuters-sourced; Eduardo Bolsonaro arrest warrant via Arab News AP-sourced, opened
+  and read). Oct 10 AM update: PoderData/Aya 53-47 valid-vote runoff poll (fielded
+  Oct 5-7, 3,000 interviews, 705 municipalities, plus/minus 1.8pp, TSE BR-08134/2026;
+  corroborated across multiple independent Brazilian outlets in Portuguese, noted
+  in sources); Cury endorsement confirmed via Arab News direct open; market moves
+  corroborated via Yonhap Infomax and AFP/Daily Guardian Europe (Bovespa up 7.7%
+  to record close, EWZ up 12.6%, real 4.98 per USD). Bloomberg poll and markets
+  articles fetch-blocked, not restated."
 regions:
 - latin-america
 ---
@@ -74,3 +99,7 @@ Flavio Bolsonaro vowed to "re-democratise" Brazil, according to The Guardian's O
 The vow lands against a Supreme Court decision to weigh any review of Jair Bolsonaro's sentence only after the runoff, a deliberate move to keep the former president's liberty out of the final campaign stretch. Flavio finished first in the October 4 first round and faces Lula in a runoff that all major pollsters' pre-round simulations rate a technical tie.
 
 The claim rests on a single outlet's reporting and should be treated as reported, not confirmed: the vow's exact wording and context have not been corroborated by a second independent source in this pass. What is confirmed is the runoff calendar and the tied polling picture, which keep Brazil's democratic-institution risk live for markets through October 25.
+
+**Latest (Saturday, October 10):** A PoderData/Aya poll released Thursday gave Bolsonaro 53 percent of valid votes to Lula's 47 in the October 25 runoff, a six-point lead outside the survey's 1.8-point margin of error. The pollster interviewed 3,000 voters by phone across 705 municipalities October 5-7 (TSE registration BR-08134/2026), its first reading since the first round, in which it had called the race a tie; in total votes it read 49 to 44, and 54 percent of respondents said they expected Bolsonaro to win. A Datafolha poll released the same day was tighter at 49 to 45, a technical tie, matching Friday's reporting. The Cury endorsement also holds up in this pass: third-place finisher Augusto Cury of the Avante party (2.89 percent of valid votes) announced his backing of Bolsonaro in a social media video, with Ronaldo Caiado endorsing earlier in the week and Renan Santos backing neither candidate.
+
+Markets have fully repriced for the upset. The Bovespa jumped 7.7 percent on Monday to a record close, the iShares MSCI Brazil ETF (EWZ) rose 12.6 percent, and the real strengthened more than 4 percent, trading at 4.98 to the dollar against 5.22 at the previous Friday's close. Financials led the rally: XP rose roughly 31 percent and StoneCo about 21 percent in Monday's US session, according to single-sourced Crowdfund Insider reporting, while Petrobras gained 2.1 percent on the oil bid (TradingView News, single-sourced). BTG Pactual analysts estimate a Bolsonaro win could push B3 shares up as much as 45 percent, a projection carried in AFP-sourced reporting and not independently verified.

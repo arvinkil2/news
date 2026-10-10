@@ -1,7 +1,7 @@
 ---
 title: Cook shifts three Senate races toward Democrats
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-09T07:14:13-04:00
+last_updated: 2026-10-10T07:12:10-04:00
 beats:
 - politics
 status: story
@@ -61,12 +61,43 @@ sources:
   publisher: The Hill
   url: https://thehill.com/homenews/campaign/6134102-tillis-backs-whatley-senate-election/
   published: '2026-10-08'
+- title: US Senate Map Moves in Democrats' Favor as Kansas Rated 'Tossup'
+  publisher: Bloomberg Government
+  url: https://news.bgov.com/bloomberg-government-news/us-senate-map-moves-in-democrats-favor-as-kansas-rated-tossup
+  published: '2026-10-06'
+- title: Hinson Narrowly Leads Turek in Iowa
+  publisher: Political Wire
+  url: https://politicalwire.com/2026/10/09/hinson-narrowly-leads-turek-in-iowa/
+  published: '2026-10-09'
+- title: Democrats drop $5M into Kansas Senate race
+  publisher: 2dy News
+  url: https://2dynews.com/democrats-drop-5m-into-kansas-senate-race/
+  published: '2026-10-09'
+- title: Pennsylvania Will Be an Early Election Day Bellwether
+  publisher: Political Wire
+  url: https://politicalwire.com/2026/10/08/pennsylvania-will-be-an-early-election-day-bellwether/
+  published: '2026-10-08'
+- title: James Talarico Returns to Campaign Trail After Sickness
+  publisher: Political Wire
+  url: https://politicalwire.com/2026/10/09/james-talarico-returns-to-campaign-trail-after-sickness/
+  published: '2026-10-09'
+- title: Vice President JD Vance votes and campaigns in Ohio for GOP
+  publisher: Signal Ohio
+  url: https://signalohio.org/vice-president-jd-vance-campaigns-to-keep-his-former-u-s-senate-seat-in-republican-hands/
+  published: '2026-10-09'
 tags: []
-data_as_of: Cook Political Report ratings update October 6, 2026; Michigan, Iowa and
-  Maine first debates October 7-8.
+data_as_of: "October 10 Saturday update adds state-by-state Senate deltas. Poll numbers traced to named pollsters with field dates in body; polls reported only through secondary aggregators (The Hill, NYT, Bloomberg blocked by policy) are flagged in text. Pennsylvania bellwether and NYT wave-caution items single-sourced."
 regions:
 - north-america
 ---
+
+**Latest (Saturday, October 10):** Kansas is now a full-fledged battleground and the Senate map kept moving on Friday. New York Times/Siena polling (605 likely voters, September 22-30) has Kansas dead even, Roger Marshall and Adam Hamilton at 45 percent each, with Libertarian David Graham at 5; Emerson (mid-September) had Hamilton up 45-43 and ahead with independents 42-27, a Democratic-leaning GBAO poll (October 4) had Hamilton up 49-44, and a Republican-aligned co/efficient survey (early September) had Marshall ahead 49-44. Money followed: the Schumer-aligned Senate Majority PAC is launching a $5 million television and digital blitz through Election Day, while the Republican Senate Leadership Fund has booked roughly $8 to $10 million defending Marshall, per AdImpact data. Two former Republican governors have now endorsed Hamilton, the second being Mike Hayden on Friday, and NRSC chair Tim Scott acknowledged the race is "very competitive."
+
+Iowa produced two competing readings. An Emerson College poll (October 9) has Ashley Hinson leading Josh Turek 47-45 with Libertarian Thomas Laehn at 2, and Rob Sand leading Zach Lahn 49-45 for governor; a CNN poll (October 8) had Hinson up 45-43 and Sand up 51-42. But a Suffolk University poll (October 7) found Turek ahead 48-44 and Sand up 55-43, consistent with earlier NYT/Siena and Fox News surveys that also put Turek slightly ahead. In New Hampshire, Republican John Sununu, the former senator, is tightening the race against Democrat Chris Pappas: a UNH poll (September 17-21), a Rasmussen survey (October 2-4) and a YouGov poll (October 5) all show the lead narrowing, though polling averages still put Pappas ahead by roughly six points. In Maine, Troy Jackson holds a slight edge over Susan Collins: Marist (October 1-4) had Jackson up 51-47, the Washington Post/GW poll (September 30-October 5) had him up 50-46, CBS News/YouGov showed a 50-50 tie, and a Republican-aligned Rasmussen survey (October 5-8) had Jackson up 49-47; only a GOP co/efficient poll had Collins ahead.
+
+In Ohio, Vice President JD Vance rallied in Lima on Friday for Jon Husted and gubernatorial candidate Vivek Ramaswamy, warning firms that offshore jobs or replace American workers with legal immigrants could face steep tariffs; President Trump rallied for Husted in Vandalia on October 3 and returns to Youngstown on Monday. The polls favor Sherrod Brown: CNN/SSRS (September 29-October 5) had Brown up 49-43, NYT/Siena had him up 49-46, YouGov 49-45 and Marist 51-43, while a Republican-aligned co/efficient survey (October 5-6) had Husted ahead 46-45. In Michigan, Trump used Truth Social after Thursday's debate to declare Mike Rogers had "completely obliterated" Abdul El-Sayed, repeatedly misnaming him "Mohammad" and calling him a "Jihadist lunatic"; the attack, reported across outlets, followed a Reuters-reported pre-debate label of El-Sayed as a "radical extremist." Recent Michigan polls have El-Sayed narrowly ahead: Quantus Insights 48-47, YouGov 49-48.
+
+In Texas, James Talarico returned to the trail Friday at the Austin City Limits festival after roughly ten days out of public view, telling the Times he had a "nasty case of the flu" after a September 30 urgent-care diagnosis; Trump had taunted him as "MISSING IN ACTION" on Truth Social while Ken Paxton led a "Where is Talarico?" chant at Trump's San Antonio rally on October 7. Talarico's campaign says he resumes a full schedule ahead of an October 14 CNN town hall. Paxton got a high-wire surrogate the same week: his estranged wife, state Senator Angela Paxton, cut a 30-second television ad for the Thune-linked Texas PAC backing "the Republican ticket" without ever naming him, her first public show of support since she stayed neutral in the primary and filed for divorce in July 2025. Bloomberg's election newsletter (October 8) argues Pennsylvania will serve as an early Election Day bellwether, with four critical House races and Trump polling in a steep decline there while Governor Josh Shapiro climbs. And a New York Times analysis (October 9) cautioned that the election could be more complicated for Democrats than the polls suggest: Republican Senate candidates are outrunning Trump's popularity, sometimes by double digits, and Republican voters report feeling far more united than Democrats.
 
 **Latest (Friday, October 9, morning):** The Senate campaign moved to the debate stage in three battlegrounds. In Michigan, the October 8 debate between Republican Mike Rogers and Democrat Abdul El-Sayed turned heated and personal: Rogers repeatedly insinuated that El-Sayed, who would be the first Muslim US senator if elected, had family on a terrorism watch list, while El-Sayed called Rogers a yacht-owning millionaire out of touch with voters. On policy the two converged on one point, both agreeing the US-Israeli war against Iran should end, while splitting over Israel aid (Rogers backs it; El-Sayed calls for ending it) and the Canada trade war, which Rogers sought to distance himself from even as El-Sayed tied him to Trump's tariffs. Rogers also called the militarised immigration operations in Minnesota "not appropriate," a notable break from Trump. The debate was covered by Al Jazeera, Fox News and Bloomberg, all corroborating the outline.
 

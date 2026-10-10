@@ -1,7 +1,7 @@
 ---
 title: C.H. Robinson to buy RXO for $5.8 billion
 date: 2026-10-06 14:07:52-04:00
-last_updated: 2026-10-06 14:07:52-04:00
+last_updated: 2026-10-10T07:10:52-04:00
 beats:
 - infra-deals
 status: story
@@ -22,6 +22,10 @@ sources:
   publisher: FreightWaves
   url: https://www.freightwaves.com/news/c-h-robinson-buys-rxo-historys-largest-brokerage-deal
   published: '2026-10-05'
+- title: $185M Breakup Fee? Inside the CH Robinson-RXO Merger
+  publisher: FreightWaves
+  url: https://www.freightwaves.com/news/185m-breakup-fee-inside-the-ch-robinson-rxo-merger
+  published: '2026-10-09'
 tags: []
 data_as_of: Agreement announced October 5, 2026 (joint company release). Expected
   to close in H1 2027, subject to regulatory clearance and RXO shareholder approval.
@@ -34,3 +38,5 @@ C.H. Robinson Worldwide plans to acquire brokerage and transportation provider R
 The combined company will have an enterprise value topping $25 billion, with roughly 93,000 shippers and 600,000 carriers, plus RXO's brokerage, expedited and last-mile services folded into C.H. Robinson's global multimodal network. The merger agreement includes a $175 million termination fee, a $4.5 billion bridge loan commitment and a voting agreement with a 17.04 percent RXO stockholder, per the SEC 8-K.
 
 C.H. Robinson expects about $300 million of net run-rate cost synergies within two years of closing by applying its "Lean AI" operating model and AI agents across RXO's workflows, consolidating real estate and moving RXO's external services to existing C.H. Robinson vendors. Navisphere becomes the system of record for overlapping truckload and less-than-truckload services. Closing is expected in the first half of 2027.
+
+Deal-detail update (October 10): FreightWaves reports the merger agreement carries a $185 million breakup fee payable if the transaction falls through, calling the deal's credibility dependent on the pledged $300 million of cost savings within two years, even as RXO continues integrating its Coyote acquisition. Note on figures: this file's original sources cite the SEC 8-K's $175 million termination fee, while FreightWaves' October 9 analysis states $185 million; the discrepancy has not been reconciled here and both numbers are carried as reported by their respective sources. The analysis also flags trailer-network scale, with the parties managing 3,000 to 4,000 drop-and-hook trailers each, as an underappreciated driver of brokerage consolidation.

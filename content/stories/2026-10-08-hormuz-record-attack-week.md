@@ -1,7 +1,7 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-09T15:58:56-04:00
+last_updated: 2026-10-10T07:11:06-0400
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -59,9 +59,21 @@ sources:
     publisher: "gCaptain (citing UKMTO)"
     url: "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/"
     published: "2026-10-09"
+  - title: "Global Oil Tanker Shortage Is Getting Worse By the Day"
+    publisher: "Bloomberg via gCaptain"
+    url: "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident. 10:55am ET update: second ship struck inside the Persian Gulf in three days (gCaptain citing UKMTO Warning 160-26); UKMTO weekly overview documents 11 attacks in the seven days to October 7."
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident. 10:55am ET update: second ship struck inside the Persian Gulf in three days (gCaptain citing UKMTO Warning 160-26); UKMTO weekly overview documents 11 attacks in the seven days to October 7. Saturday morning update: Bloomberg tanker-shortage reporting (SSY 1960s comparison, $80M US-China hire, $41/bbl transport cost, Suezmax >$680k/day, secondhand tanker value record $240M, Shell trading update, RBC refiner margins $15/bbl) via gCaptain, opened and read; Saturday 7:00 AM ET market table (Brent $104.72 +0.42%, WTI $91.85 +0.39%, tanker freight $998.30 -1.43%)."
 ---
+
+## Latest (Saturday morning): tanker shortage hits 1960s extremes
+
+Bloomberg put the tanker shortage in historic terms Friday: broker SSY says inflation-adjusted rates are now the highest since the first supertankers hit the oceans in the 1960s, surpassing the 1980s tanker wars. Hiring a tanker from the US to China costs about $80 million, shipbroker Gibson said, more than a SpaceX Falcon 9 launch at $74 million; the same money could have bought a near-identical tanker outright earlier this year. One US booking went through at a transport cost of $41 a barrel, about 45 percent of the WTI price, against $4.50 a barrel for the same route last year.
+
+The economics are starting to bite refiners. Shell said in a trading update that some third-quarter results were hit by higher variable costs on long-term shipping leases. RBC put European refining margins at about $15 a barrel in October, down from $36 in the third quarter, partly on tanker costs. Average Suezmax earnings have jumped past $680,000 a day, about five times their level at the start of October, and the value of a secondhand tanker hit a record $240 million, up more than 60 percent from end of last year. Middle East producers including Iraq, the UAE and Kuwait have been buying tankers outright to work around the squeeze. In West Africa, crude values are falling as sellers discount cargoes to cover freight on the 10,000-mile route to China. Vitol's Russell Hardy: Hormuz traffic is recovering toward 80 percent of pre-war levels, which is deepening the crunch rather than relieving it, because the shuttle system adds roughly a week to every voyage.
+
+The overnight table held the risk: Brent $104.72, up 0.42 percent, and WTI $91.85, up 0.39 percent, at the 7:00 AM check Saturday, with Brent above $100 into the weekend. The tanker freight proxy pulled back 1.43 percent to $998.30 but remains up 14.35 percent on the week.
 
 ## Friday (update): second ship struck inside the Persian Gulf in three days
 

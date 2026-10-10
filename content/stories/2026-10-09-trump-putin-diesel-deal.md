@@ -1,7 +1,7 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-10T04:46:16-04:00
+last_updated: 2026-10-10T07:11:06-0400
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
@@ -75,13 +75,19 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss"
     published: "2026-10-10"
+  - title: "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html"
+    published: "2026-10-09"
   - title: "Minister issues hard 'no' on Russian diesel imports"
     publisher: "AAP"
     url: "https://aapnews.aap.com.au/news/minister-issues-hard-no-on-russian-diesel-imports"
     published: "2026-10-10"
 tags: []
-data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
+data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
 ---
+
+**Latest (Saturday, October 10):** Germany joined the stock-release side of the diesel scramble Friday: Economy Minister Katherina Reiche said Berlin will release as much as 15 million barrels of diesel, heating oil and crude from strategic reserves, with diesel and heating oil moving first, as part of the IEA's accelerated draw. France committed another 10 million barrels of diesel, and Italy said it has already completed its 10-million-barrel commitment; the IEA says roughly 100 million barrels remain to be released from the 400-million-barrel program. Together, the Russian and European barrels give diesel buyers something they have had very little of this year: additional supply arriving from more than one direction, though neither tranche is large enough to repair the market on its own.
 
 **Latest (Saturday, October 10):** Kyiv kept hitting Russian refineries hours after the deal was announced: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, with the governor saying more than 50 drones were intercepted and no injuries reported. The strike lands directly on the contradiction Trump cited as his rationale for the deal.
 
@@ -97,7 +103,7 @@ The Miami talks that preceded the call were more substantive than they looked. I
 
 Pushback widened. Senate Democrats Chuck Schumer, Jeanne Shaheen and Elizabeth Warren called the move a betrayal of Ukraine that jeopardizes American national security. The sanctions-law contradiction sharpened too: last month Trump signed a sweeping Russia sanctions law directing tariffs of up to 100 percent on top importers of Russian oil and gas, and critics say Friday's license undercuts it. Russian presidential envoy Kirill Dmitriev reposted the Treasury announcement on X, saying Russian-US cooperation on diesel and energy "will benefit the world." Kremlin foreign policy adviser Yuri Ushakov said Putin, in the 90-minute call, declined to commit to resuming peace talks, blaming Ukrainian strikes on Moscow during Russia's parliamentary elections.
 
-**Latest:** The full scope is now clear: 300,000 tons immediately, 500,000 tons in November, another million immediately after that, and up to 3 million more within a short period depending on the condition of Russian refineries — more than 4.8 million tons in total. The Treasury's temporary general license covers Russian diesel loaded onto tankers as of Friday, running without sanctions until April 2027.
+**Latest:** The full scope is now clear: 300,000 tons immediately, 500,000 tons in November, another million immediately after that, and up to 3 million more within a short period depending on the condition of Russian refineries, more than 4.8 million tons in total. The Treasury's temporary general license covers Russian diesel loaded onto tankers as of Friday, running without sanctions until April 2027.
 
 The Kremlin confirmed the arrangement, saying Putin and Trump devoted significant attention to Ukraine-crisis prospects and that Russia confirmed readiness to supply oil and oil products to American and global markets. Deputy Prime Minister Alexander Novak said Moscow would start lifting diesel export restrictions ahead of schedule and could begin supplies to the US as early as October, with the domestic market fully supplied.
 
@@ -105,7 +111,7 @@ Pushback was immediate. Ukrainian President Volodymyr Zelenskyy called it "a wea
 
 Markets were unimpressed. Diesel futures dipped Friday, but AAA still showed the national average at $6.23 a gallon, down from the record $6.52 on September 22. One strategist told MarketWatch the move may be too little, too late for meaningful relief before the midterms: the IEA says Russian diesel output has fallen about 30 percent on Ukrainian refinery strikes, constraining how much Moscow can physically ship. The deal is also the largest easing of Russian fuel sanctions since the Ukraine war began, coming weeks after Trump signed a sweeping Russia sanctions law directing tariffs of up to 100 percent on top importers of Russian oil and gas.
 
-**Earlier:** OFAC published Russia-related General License 135 on Friday, "Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin" — the sanctions mechanism that makes the Trump-Putin diesel announcement executable.
+**Earlier:** OFAC published Russia-related General License 135 on Friday, "Authorizing Transactions Related to the Sale, Delivery, Offloading, and Importation of Diesel Fuel of Russian Federation Origin," the sanctions mechanism that makes the Trump-Putin diesel announcement executable.
 
 The announcement caps a week of escalating diesel brinkmanship. On October 1, Putin told the Valdai Forum that Russia would not supply diesel to global markets until sanctions against Moscow are lifted, and Moscow extended its diesel export ban through the end of October. Trump had spent weeks blaming Ukrainian strikes on Russian refineries for the global diesel shortage and pressing Kyiv to stop them. US diesel prices have set records above $6.50 a gallon, with the midterm elections weeks away.
 
