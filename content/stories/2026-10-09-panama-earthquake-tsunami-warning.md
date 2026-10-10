@@ -1,7 +1,7 @@
 ---
 title: "7.7-magnitude earthquake strikes Panama, tsunami warnings issued"
 date: 2026-10-09T14:50:42-04:00
-last_updated: 2026-10-09T14:50:42-04:00
+last_updated: 2026-10-09T21:47:31-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
@@ -32,8 +32,26 @@ sources:
     publisher: "Wikipedia"
     url: "https://en.wikipedia.org/wiki/2026_Panama_earthquake"
     published: "2026-10-09"
+  - title: "Strong earthquakes shake Panama, buildings damaged"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-xml-mrss"
+    published: "2026-10-09"
+  - title: "Earthquake in Panama"
+    publisher: "US Department of State"
+    url: "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
+    published: "2026-10-09"
+  - title: "Panama reported no earthquake casualties"
+    publisher: "TASS (Russian), citing Panamanian officials"
+    url: "https://tass.ru/obschestvo/28200551"
+    published: "2026-10-10"
+  - title: "US to aid earthquake-hit Panama"
+    publisher: "Interfax (Russian)"
+    url: "https://www.interfax.ru/world/1121533"
+    published: "2026-10-10"
 tags: []
-data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Magnitude and damage figures may change as official assessments update."
+data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Evening follow-ups: no-casualty report and US aid mobilization from Russian wire services (TASS, Interfax), treated as those outlets' narratives pending independent corroboration; DW and the State Department pages would not render and are cited from feed metadata. Magnitude and damage figures may change as official assessments update."
 ---
+
+**Latest (Friday, October 9, evening):** Panama reported no casualties from the earthquake, according to Panamanian officials cited by TASS late Friday, while buildings in the affected zone were damaged, DW reported. The US is mobilizing resources to assist Panama, Russian wire services reported, and the State Department issued its own statement on the quake Friday evening. The tsunami warnings that had covered Colombia, Ecuador and Central America's Pacific coast are the immediate focus of continued monitoring.
 
 A magnitude 7.7 earthquake struck near Pitaloza Arriba on Panama's southern coast at 12:56pm local time on Friday, the US Geological Survey said, at a shallow depth of about 10 km. The quake, initially estimated at magnitude 8.0 before being downgraded, prompted a US National Weather Service tsunami warning for Colombia, Ecuador and much of Central America's Pacific coast. There were no immediate reports of damage or casualties, according to Reuters.

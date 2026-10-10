@@ -1,13 +1,13 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-09T19:56:14-04:00
+last_updated: 2026-10-09T21:46:41-04:00
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump announced Friday that Vladimir Putin agreed to supply more than 4.8 million tons of diesel to US and global markets through April 2027 — 300,000 tons immediately, 500,000 in November, another million after that, and up to 3 million more depending on Russian refinery conditions — under a temporary Treasury general license. OFAC's General License 135, published the same day, is the formal sanctions mechanism."
-why_it_matters: "The license is the first concrete paperwork of the sanctions pivot: with the authorization mechanism published, tankers can legally move Russian diesel even before Congress or Kyiv responds. Zelenskyy called it 'a weak decision'; sanctions hawks in Congress are pushing back. Diesel futures dipped on the news but AAA still shows $6.23 a gallon, and one strategist called the relief too little, too late before the midterms."
+lede: "President Trump struck the 4.8-million-ton diesel deal with Vladimir Putin on Friday after Zelensky ignored roughly half a dozen US requests to stop hitting Russian refineries, a US official told Axios, rupturing ties with Kyiv as Zelensky called the move 'not fair and not honest.'"
+why_it_matters: "The trigger story turns a market intervention into a lever against an ally: Washington is easing fuel sanctions to punish Kyiv's defiance just weeks after signing a sweeping Russia sanctions law, and the blowup now clouds the peace talks the envoys were meant to advance."
 featured: true
 evidence_grade: "B"
 sources:
@@ -31,6 +31,18 @@ sources:
     publisher: "MarketWatch"
     url: "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories"
     published: "2026-10-09"
+  - title: "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war"
+    published: "2026-10-09"
+  - title: "Zelensky Says Trump's Diesel Deal with Putin 'Not Honest'"
+    publisher: "Political Wire, citing Axios"
+    url: "https://politicalwire.com/2026/10/09/zelensky-says-trumps-diesel-deal-with-putin-not-honest/"
+    published: "2026-10-09"
+  - title: "Trump Signs Shock Deal With Putin for Russian Diesel"
+    publisher: "Ontario Chronicle"
+    url: "https://ontariochronicle.ca/usa-politics/trump-signs-shock-deal-with-putin-for-russian-diesel/"
+    published: "2026-10-10"
   - title: "Trump Makes Deal with Putin for Russian Diesel Fuel"
     publisher: "Political Wire, citing New York Post"
     url: "https://politicalwire.com/2026/10/09/trump-makes-deal-with-putin-for-russian-diesel-fuel/"
@@ -56,8 +68,16 @@ sources:
     url: "https://www.dw.com/"
     published: "2026-10-09"
 tags: []
-data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, Axios, The Hill, DW) would not render and are cited from feed metadata."
+data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative."
 ---
+
+**Latest (Friday, October 9, evening):** Axios reported the inside story of how the deal happened, citing a US official with direct knowledge: Trump decided to buy Russian diesel after Zelensky ignored roughly half a dozen US requests to stop Ukrainian strikes on Russian oil refineries. The official said Trump wanted a unilateral Ukrainian halt because the strikes were contributing to high American gas prices, and warned that Zelensky is "misreading the room" and eroding months of goodwill with Trump. The detail reframes the announcement: not just a market play, but pressure on Kyiv for defying Washington.
+
+Zelensky, blindsided, told Axios the deal was "not fair and not honest," an unwarranted gift to Putin. He said he had told Trump and envoys Steve Witkoff and Jared Kushner he would stop hitting refineries if Russia halted attacks on Ukrainian power plants, a linkage Trump reportedly rejected. Trump, taking questions at the White House, called the arrangement "a big deal" and thanked Putin, dodging questions about Zelensky's criticism.
+
+The Miami talks that preceded the call were more substantive than they looked. In eight hours on Friday, Witkoff and Kushner discussed security guarantees the US, Europe and NATO would provide Ukraine, new territorial proposals, a postwar package covering reconstruction funding and military rebuilding, a roadmap for Ukraine's EU accession and its postwar relationship with NATO, and a possible Europe-Russia postwar security framework, according to Axios. A Ukrainian official claimed the envoys threatened to cut off US intelligence if Kyiv kept ignoring Trump's requests; the US official denied it. The blowup now clouds plans for the envoys to visit Moscow and Kyiv next week.
+
+Pushback widened. Senate Democrats Chuck Schumer, Jeanne Shaheen and Elizabeth Warren called the move a betrayal of Ukraine that jeopardizes American national security. The sanctions-law contradiction sharpened too: last month Trump signed a sweeping Russia sanctions law directing tariffs of up to 100 percent on top importers of Russian oil and gas, and critics say Friday's license undercuts it. Russian presidential envoy Kirill Dmitriev reposted the Treasury announcement on X, saying Russian-US cooperation on diesel and energy "will benefit the world." Kremlin foreign policy adviser Yuri Ushakov said Putin, in the 90-minute call, declined to commit to resuming peace talks, blaming Ukrainian strikes on Moscow during Russia's parliamentary elections.
 
 **Latest:** The full scope is now clear: 300,000 tons immediately, 500,000 tons in November, another million immediately after that, and up to 3 million more within a short period depending on the condition of Russian refineries — more than 4.8 million tons in total. The Treasury's temporary general license covers Russian diesel loaded onto tankers as of Friday, running without sanctions until April 2027.
 

@@ -1,7 +1,7 @@
 ---
 title: "Witkoff, Kushner to pitch Ukraine peace ideas in Miami"
 date: 2026-10-08T19:08:48-04:00
-last_updated: 2026-10-09T14:44:08-04:00
+last_updated: 2026-10-09T21:48:09-04:00
 beats: ["politics"]
 regions: ["north-america", "europe"]
 status: "story"
@@ -32,9 +32,19 @@ sources:
     publisher: "ANSA (Italian)"
     url: "https://www.ansa.it/sito/notizie/mondo/2026/10/09/ucraini-e-europei-a-miami-si-lavora-a-una-proposta-di-tregua_5069bc7b-1078-4767-b47e-c09f4ae8c960.html"
     published: "2026-10-09"
+  - title: "Уиткофф назвал конструктивными консультации с делегациями Украины и европейских стран"
+    publisher: "Interfax (Russian), relaying Witkoff's X post"
+    url: "https://www.interfax.ru/world/1121536"
+    published: "2026-10-10"
+  - title: "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war"
+    published: "2026-10-09"
 tags: []
-data_as_of: "Meeting convened Friday, October 9, 2026. Delegation composition and agenda from Reuters reporting October 8 (read in full via affiliate reprint); two-day format, Rubio's Lisbon warning and the partial-ceasefire idea from AFP reporting October 9 (read in full via Berliner Tageblatt). ANSA (Italian) reports Ukrainian and European negotiators are working on a truce proposal; the ANSA article body could not be retrieved (ansa.it blocked to the page fetcher), so the proposal's substance is unknown beyond the headline. Russian outlets' claims of a planned Witkoff/Kushner Moscow visit in October, citing Axios, not independently verified."
+data_as_of: "Meeting convened Friday, October 9, 2026. Delegation composition and agenda from Reuters reporting October 8 (read in full via affiliate reprint); two-day format, Rubio's Lisbon warning and the partial-ceasefire idea from AFP reporting October 9 (read in full via Berliner Tageblatt). ANSA (Italian) reports Ukrainian and European negotiators are working on a truce proposal; the ANSA article body could not be retrieved (ansa.it blocked to the page fetcher), so the proposal's substance is unknown beyond the headline. Witkoff's Friday-evening readout is his own X post relayed by Interfax (Russian state-affiliated outlet); its topic list is corroborated by Axios reporting from US officials read in full via a live browser extraction. Russian outlets' claims of a planned Witkoff/Kushner Moscow visit in October remain uncorroborated."
 ---
+
+**Latest (9:48pm ET Friday):** Witkoff posted his own readout of the Miami session on X, describing the meeting with representatives of the US, France, Germany, the UK, the European Commission, Ukraine and NATO as constructive. Per his account, relayed by Interfax, the talks covered de-escalation and ending the war before winter, winter-adjacent issues like grain exports and energy infrastructure, security guarantees for Kyiv, long-term security measures for Ukraine and Europe, and Ukraine's post-conflict reconstruction and EU accession. The topic list lines up with what Axios reported independently from US officials: security guarantees from the US, Europe and NATO, new territorial proposals, a postwar reconstruction and military-rebuilding package, a roadmap for Ukraine's EU accession and postwar NATO relationship, and a possible Europe-Russia postwar security framework. Russian outlets also claim the envoys briefed both sides on potential US-Russia energy deals aimed at lowering energy prices and inducing Russian concessions, and that Moscow and Kyiv visits are being considered next week; the energy-deals claim comes from the same Axios piece and is not independently corroborated.
 
 **Latest (2:44pm ET Friday):** The Miami talks convened on Friday, with Ukraine's delegation led by chief of staff Kyrylo Budanov alongside intelligence chief Rustem Umerov and top negotiator David Arakhamia, Reuters reported. National security advisers from the UK, France and Germany were invited, along with NATO and EU officials and representatives of the White House National Security Council and US Treasury. Italy's ANSA reported that Ukrainian and European negotiators in Miami are working on a truce proposal, though the article itself could not be retrieved, so the proposal's substance is unknown. Secretary of State Marco Rubio warned Thursday in Lisbon that the war is at a "dangerous stalemate" with a risk of escalation into neighboring NATO countries. Axios reported that among the ideas on the table is a partial ceasefire covering attacks on energy infrastructure and grain shipments, which Ukraine has indicated a willingness to explore but Russia has shown little enthusiasm for, according to AFP.
 
