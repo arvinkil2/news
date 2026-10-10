@@ -1,7 +1,7 @@
 ---
 title: "US sanctions the ICC itself, hours after former judge Pillay wins Nobel Peace Prize"
 date: 2026-10-09T11:47:00-04:00
-last_updated: 2026-10-09T22:53:56-04:00
+last_updated: 2026-10-10T07:41:58-04:00
 beats:
 - politics
 regions:
@@ -9,7 +9,7 @@ regions:
 - europe
 status: story
 update_bump: true
-lede: "The Trump administration sanctioned the International Criminal Court itself on Friday, hours after former ICC judge Navi Pillay won the Nobel Peace Prize, and Trump lashed out at Norway over the prize snub, calling the decision an indelible stain the country will not be forgotten for."
+lede: "The Trump administration sanctioned the International Criminal Court itself on Friday, hours after former ICC judge Navi Pillay won the Nobel Peace Prize, and Trump kept escalating through the night, posting a nearly 600-word Truth Social broadside just before midnight claiming he had 'settled 8 Wars' and 'should have won 8 Nobel Peace Prizes.'"
 why_it_matters: "Washington has escalated from sanctioning court officials to targeting the institution while the president attacks the Nobel committee itself, forcing European allies to choose between their ICC membership and US financial access, and the Nobel committee framed its prize as a reminder that international law is under political attack."
 featured: true
 evidence_grade: A
@@ -34,9 +34,15 @@ sources:
   publisher: "Arab News (Reuters)"
   url: "https://www.arabnews.com/world/trump-says-norway-has-indelible-stain-for-not-awarding-him-nobel-peace-prize-3005565"
   published: "2026-10-09"
+- title: "Trump rages over Nobel Peace Prize loss"
+  publisher: "Axios"
+  url: "https://www.axios.com/2026/10/10/trump-nobel-peace-prize-reaction"
+  published: "2026-10-10"
 tags: []
 data_as_of: "Arab News/Reuters reporting October 9, 2026 (articles opened and read directly, including Trump's Syracuse rally remarks on the Nobel decision); EC Press Corner statement read via live browser session; State Department release URL confirmed live but content blocked to the page fetcher."
 ---
+
+**Latest (12:05am ET Saturday):** Trump escalated his attack on the Nobel decision again late Friday night with a nearly 600-word Truth Social post published just before midnight. He claimed he had "settled 8 Wars" and is "about to settle, or win, two more, Iran and, Russia/Ukraine"; said any one of them, "in particular, Pakistan and India," would have been "far more than necessary to win the Nobel Prize"; and declared, "I should have won 8 Nobel Peace Prizes, not just 1." He attacked the UN as "of no help," dismissed winner Navi Pillay as unknown and biased, and called the decision "an indelible stain on Norway," declaring the prize "forever discredited," according to Axios, which read the post in full.
 
 **Latest (10:54pm ET Friday):** Trump escalated his attack on the Nobel decision at a campaign rally in Syracuse, New York, calling the prize "a disgraceful and embarrassing decision" that left "an indelible stain on the country of Norway," which hosts the Nobel committee. He dismissed Pillay as a "mystery person" nobody had heard of, declared the Nobel Peace Prize "forever discredited by a handful of radical ideologues," and warned, "we will not forget, Norway." He listed conflicts he claimed a role in resolving, saying he had helped prevent wars between North and South Korea, Japan and North Korea, and China and Taiwan, without providing evidence.
 
