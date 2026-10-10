@@ -1,13 +1,13 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-10T00:44:37-04:00
+last_updated: 2026-10-10T05:02:18-04:00
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin split US allies further on Saturday: Australia's energy minister said Canberra does not need or want any Russian fuel and its blocking policy will not change, as Zelensky kept up his criticism and US diesel prices stayed near record highs."
-why_it_matters: "The reaction map now defines the deal's real limit: Washington can waive its own sanctions, but buyers like Australia are refusing the barrels, so the 4.8 million tons must clear through markets willing to take Russian fuel despite the sanctions-law contradiction at home."
+lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin came under fire within hours: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, Australia ruled out taking any Russian diesel, and Zelensky kept up his criticism as US diesel prices stayed near record highs."
+why_it_matters: "Kyiv's strike directly undercuts Trump's stated rationale for buying from Moscow, the reaction map limits where the 4.8 million tons can clear, and Witkoff's parallel diplomacy now has to carry the peace track while the refinery war escalates."
 featured: true
 evidence_grade: "B"
 sources:
@@ -67,13 +67,25 @@ sources:
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/"
     published: "2026-10-09"
+  - title: "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
+    published: "2026-10-10"
+  - title: "US hosts 'productive' trilateral talks to end Russia-Ukraine war"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss"
+    published: "2026-10-10"
   - title: "Minister issues hard 'no' on Russian diesel imports"
     publisher: "AAP"
     url: "https://aapnews.aap.com.au/news/minister-issues-hard-no-on-russian-diesel-imports"
     published: "2026-10-10"
 tags: []
-data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full."
+data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
 ---
+
+**Latest (Saturday, October 10):** Kyiv kept hitting Russian refineries hours after the deal was announced: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, with the governor saying more than 50 drones were intercepted and no injuries reported. The strike lands directly on the contradiction Trump cited as his rationale for the deal.
+
+Separately, Witkoff said in a Friday statement posted to X that the Miami talks with Ukraine, the E3, the European Commission and NATO were "productive," with constructive discussion of de-escalation avenues, energy resilience, grain exports, security guarantees and Ukraine's post-war EU accession. Secretary of State Rubio warned Thursday that the conflict has reached a dangerous "stalemate" that risks escalation spreading to neighboring NATO countries.
 
 **Latest (Saturday, October 10):** Australia ruled out taking any Russian diesel under the Trump-Putin arrangement. Energy Minister Chris Bowen told reporters "we don't need or want it," adding that Australia has trading-partner arrangements in place to keep Russian fuel out and that the policy "is not changing, will not change." Bowen said Russia should not be rewarded for its "illegal and immoral invasion" of Ukraine and that what the US decided is "a matter for them." He reported Australia holds 43 days of petrol, 31 days of diesel and 30 days of jet fuel, with 51 supply ships en route and 3.2 billion litres of fuel contracted for delivery over the next four weeks.
 
