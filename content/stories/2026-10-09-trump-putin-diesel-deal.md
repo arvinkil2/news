@@ -1,13 +1,13 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-09T21:46:41-04:00
+last_updated: 2026-10-10T00:44:37-04:00
 beats: ["commodities", "politics"]
-regions: ["north-america", "europe", "global"]
+regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump struck the 4.8-million-ton diesel deal with Vladimir Putin on Friday after Zelensky ignored roughly half a dozen US requests to stop hitting Russian refineries, a US official told Axios, rupturing ties with Kyiv as Zelensky called the move 'not fair and not honest.'"
-why_it_matters: "The trigger story turns a market intervention into a lever against an ally: Washington is easing fuel sanctions to punish Kyiv's defiance just weeks after signing a sweeping Russia sanctions law, and the blowup now clouds the peace talks the envoys were meant to advance."
+lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin split US allies further on Saturday: Australia's energy minister said Canberra does not need or want any Russian fuel and its blocking policy will not change, as Zelensky kept up his criticism and US diesel prices stayed near record highs."
+why_it_matters: "The reaction map now defines the deal's real limit: Washington can waive its own sanctions, but buyers like Australia are refusing the barrels, so the 4.8 million tons must clear through markets willing to take Russian fuel despite the sanctions-law contradiction at home."
 featured: true
 evidence_grade: "B"
 sources:
@@ -67,9 +67,15 @@ sources:
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/"
     published: "2026-10-09"
+  - title: "Minister issues hard 'no' on Russian diesel imports"
+    publisher: "AAP"
+    url: "https://aapnews.aap.com.au/news/minister-issues-hard-no-on-russian-diesel-imports"
+    published: "2026-10-10"
 tags: []
-data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative."
+data_as_of: "OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full."
 ---
+
+**Latest (Saturday, October 10):** Australia ruled out taking any Russian diesel under the Trump-Putin arrangement. Energy Minister Chris Bowen told reporters "we don't need or want it," adding that Australia has trading-partner arrangements in place to keep Russian fuel out and that the policy "is not changing, will not change." Bowen said Russia should not be rewarded for its "illegal and immoral invasion" of Ukraine and that what the US decided is "a matter for them." He reported Australia holds 43 days of petrol, 31 days of diesel and 30 days of jet fuel, with 51 supply ships en route and 3.2 billion litres of fuel contracted for delivery over the next four weeks.
 
 **Latest (Friday, October 9, evening):** Axios reported the inside story of how the deal happened, citing a US official with direct knowledge: Trump decided to buy Russian diesel after Zelensky ignored roughly half a dozen US requests to stop Ukrainian strikes on Russian oil refineries. The official said Trump wanted a unilateral Ukrainian halt because the strikes were contributing to high American gas prices, and warned that Zelensky is "misreading the room" and eroding months of goodwill with Trump. The detail reframes the announcement: not just a market play, but pressure on Kyiv for defying Washington.
 
