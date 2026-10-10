@@ -1,14 +1,14 @@
 ---
 title: "Hurricane Isaias kills two as it weakens over Florida panhandle"
 date: 2026-10-10T12:02:50-04:00
-last_updated: 2026-10-10T12:02:50-04:00
+last_updated: 2026-10-10T12:11:08-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
 developing: true
 update_bump: true
 lede: "Hurricane Isaias made landfall on Florida's panhandle as a Category 2 storm, killing two people and knocking out power to thousands before weakening to a post-tropical cyclone."
-why_it_matters: "A second Gulf hurricane landfall in the same week compounds the damage toll on the Florida panhandle and keeps regional fuel and power markets on watch through the weekend."
+why_it_matters: "The Category 2 landfall makes it a busy storm week for both U.S. coasts, keeping regional power restoration and fuel logistics under pressure through the weekend."
 featured: false
 evidence_grade: "B"
 sources:
