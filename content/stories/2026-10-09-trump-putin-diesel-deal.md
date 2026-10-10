@@ -1,13 +1,13 @@
 ---
 title: "Trump-Putin diesel deal: 4.8M tons through April 2027 under Treasury license"
 date: 2026-10-09T15:56:28-04:00
-last_updated: 2026-10-10T08:48:47-0400
+last_updated: 2026-10-10T09:59:22-04:00
 beats: ["commodities", "politics"]
 regions: ["north-america", "europe", "asia-pacific", "global"]
 status: "story"
 update_bump: true
-lede: "President Trump's 4.8-million-ton diesel deal with Vladimir Putin came under fire within hours: a Ukrainian drone strike set a fuel facility in Russia's Rostov region ablaze, Australia ruled out taking any Russian diesel, the UK reaffirmed its sanctions line, and Zelensky kept up his criticism as US diesel prices stayed near record highs."
-why_it_matters: "Kyiv's strike directly undercuts Trump's stated rationale for buying from Moscow, the reaction map limits where the 4.8 million tons can clear, and Witkoff's parallel diplomacy now has to carry the peace track while the refinery war escalates."
+lede: "The Trump-Putin diesel deal triggered a transatlantic split on Saturday: Germany and the EU vowed to keep sanctions pressure on Moscow, while the Miami talks collapsed early after the US reportedly threatened to cut intelligence sharing with Kyiv over its refinery strikes, and Russia said it is immediately lifting its diesel export curbs."
+why_it_matters: "Washington is now squeezing Kyiv and Moscow in opposite directions at once, the EU is set to widen its sanctions list on Monday, and the physical question of how much Russian diesel can actually flow is in doubt, with Ukrainian strikes estimated to have cut several major refineries."
 featured: true
 evidence_grade: "B"
 sources:
@@ -87,9 +87,33 @@ sources:
     publisher: "UK Government (gov.uk)"
     url: "https://www.gov.uk/government/news/uk-government-response-to-agreement-between-us-and-russia-9-october"
     published: "2026-10-09"
+  - title: "Germany sticks to Russia sanctions after Trump diesel deal"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811"
+    published: "2026-10-10"
+  - title: "Gli Usa minacciano lo stop alla condivisione di informazione di intelligence con Kiev"
+    publisher: "ANSA (Italian), citing Financial Times"
+    url: "https://www.ansa.it/sito/notizie/mondo/2026/10/10/gli-usa-minacciano-lo-stop-alla-condivisione-di-informazione-di-intelligence-con-kiev_d50f315d-6dd5-4025-922d-638d7519a1b9.html"
+    published: "2026-10-10"
+  - title: "Rosiya dostrokovo znimaye obmezhennya na eksport dizelyu (Russia lifting diesel export restrictions early)"
+    publisher: "Espreso (Ukrainian)"
+    url: "https://espreso.tv/svit-rosiya-dostrokovo-znimae-obmezhennya-na-eksport-dizelyu-pislya-domovlenosti-putina-z-trampom"
+    published: "2026-10-10"
+  - title: "Nazvana prichina dosrochnogo zaversheniya peregovorov (Reason named for early end of Miami talks)"
+    publisher: "Lenta.ru (Russian), citing Financial Times"
+    url: "https://lenta.ru/news/2026/10/10/nazvana-prichina-dosrochnogo-zaversheniya-peregovorov-ssha-i-ukrainy-v-mayami/"
+    published: "2026-10-10"
 tags: []
-data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. UK government response via gov.uk October 9, 2026 (statement opened and read in full). OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting)."
+data_as_of: "Saturday morning update: Germany 15M-barrel release (Economy Minister Reiche), Italy 10M completed, IEA ~100M remaining from 400M program via OilPrice October 9, opened and read. UK government response via gov.uk October 9, 2026 (statement opened and read in full). OFAC General License 135 published Friday, October 9, 2026; Trump announcement and Kremlin readout October 9; Treasury temporary general license runs through April 2027; volumes are Trump's figures. Several outlet pages (CNBC, The Hill, DW) would not render and are cited from feed metadata; the Axios Ravid evening piece was read in full via a live browser extraction, with brief quotes kept within limits. Ushakov's account of the 90-minute call is the Kremlin's narrative. Australia energy minister's hard-no statement October 10 via AAP, read in full. Rostov fuel-facility strike and Witkoff's Miami-talks statement from Al Jazeera, October 10 (video newsfeed items, opened and read; the coalition-of-facts account is Al Jazeera's reporting). Midday update: German government sanctions commitment via DW liveblog, October 10 (read in full via live browser); Kallas EU sanctions-package statement and EU Monday vote, Zelensky Zaporizhzhia strike account, and FT-reported intel-sharing threat via ANSA (in Italian, translated; ANSA cites FT unnamed sources; US side disputes a threat was issued), October 10. Miami talks early end per Kyiv Post's Alex Raufoglu via RIA Novosti; FT's diesel-deal-as-cause claim via Lenta.ru (Russian state-affiliated; unnamed sources only, flagged as uncorroborated). Novak export-restriction lifting via Espreso (Ukrainian, translated), October 10; Treasury license April 7, 2027 date and refinery-capacity estimates per that item."
 ---
+
+**Latest (Saturday, October 10, midday):** The Miami talks collapsed early. The US-Ukraine-European delegations' meeting in Miami, meant to run two days, ended after one by the Ukrainian team's decision, and there will be no second day, per Kyiv Post journalist Alex Raufoglu. The Financial Times reported, via unnamed sources, that the breakdown was triggered by Trump's diesel announcement catching the Ukrainian team off guard, and that envoys Steve Witkoff and Jared Kushner raised the prospect of the US halting intelligence sharing with Kyiv unless Ukraine stops striking Russian oil refineries. The US side disputes that a threat was issued, saying the envoys only explained that the strikes were causing problems in the US. This revives the intelligence-leverage thread the US official denied to Axios on Friday evening.
+
+Europe hardened its line. Germany's government said Saturday it remains committed to sanctions pressure on Moscow despite Washington's move: government spokesperson Stefan Kornelius said Berlin had "taken note" of the US decision and is working with European partners on further sanctions, while the Economic Affairs Ministry said "Germany stands fully behind the sanctions packages" and noted the country, which has imported no Russian oil or oil products since 2023, is "independent of Russian oil." EU foreign policy chief Kaja Kallas said Europe will not ease pressure and that EU foreign ministers intend on Monday to approve the largest sanctions-listing package since the war began. Poland's foreign minister Radoslaw Sikorski cited "serious sources" claiming Ukraine has damaged about 50 percent of Russian refining capacity, questioning where exportable surpluses would come from.
+
+Moscow moved to make the deal real. Deputy Prime Minister Alexander Novak told Radio Svoboda that Russia "immediately begins lifting" its diesel export restrictions rather than waiting for the previously set deadline, with volumes of 300,000 tons in October, 500,000 in November and a million in December, then up to 3 million tons a month. The US Treasury license is valid until April 7, 2027. But the physical capacity is contested: a September Reuters estimate said three of Russia's six largest diesel producers had cut or fully stopped output after Ukrainian drone strikes.
+
+The reaction map kept widening. Zelensky said Russia "thanked" the diesel decision with five guided bombs on residential buildings in Zaporizhzhia, killing at least 15 people including three children (17 per one linked update). Senator Richard Blumenthal called the deal a "disgrace" making the US "complicit," and Finland called it a "terrible disappointment." Kremlin spokesman Dmitry Peskov said Putin showed "great understanding" of some US de-escalation proposals during Friday's Trump-initiated 90-minute call.
 
 **Latest (Saturday, October 10):** The UK added its voice to the pushback, with a government spokesperson reaffirming Britain's commitment to "the toughest sanctions regime ever imposed by the UK" and to keeping Ukraine supplied militarily and financially "for as long as it takes." The statement said Russia has "repeatedly rejected full and partial ceasefires while continuing attacks on Ukrainian civilians and energy," and noted the government is monitoring energy-market fallout from the deal closely. The UK line contrasts with Washington's: full support for US-led peace efforts, but no sanctions relief.
 
