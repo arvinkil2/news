@@ -1,14 +1,14 @@
 ---
 title: "7.7-magnitude earthquake strikes Panama, tsunami warnings issued"
 date: 2026-10-09T14:50:42-04:00
-last_updated: 2026-10-09T21:47:31-04:00
+last_updated: 2026-10-10T03:53:44-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "A magnitude 7.7 earthquake struck Panama's southern coast on Friday afternoon, prompting tsunami warnings for Colombia, Ecuador and much of Central America's Pacific coast."
-why_it_matters: "The shallow quake near the Pacific side of the isthmus is the strongest to hit Panama in years, and the tsunami warning puts coastal infrastructure and shipping on alert."
+lede: "A magnitude 7.7 earthquake struck Panama's southern coast on Friday afternoon, prompting tsunami warnings for Colombia, Ecuador and much of Central America's Pacific coast, and the injury toll has since climbed to at least 27."
+why_it_matters: "The shallow quake near the Pacific side of the isthmus is the strongest to hit Panama in years; the rising injury count and hundreds of damaged buildings keep coastal infrastructure and shipping on alert as 80-plus aftershocks continue."
 featured: false
 evidence_grade: "C"
 sources:
@@ -49,8 +49,10 @@ sources:
     url: "https://www.interfax.ru/world/1121533"
     published: "2026-10-10"
 tags: []
-data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Evening follow-ups: no-casualty report and US aid mobilization from Russian wire services (TASS, Interfax), treated as those outlets' narratives pending independent corroboration; DW and the State Department pages would not render and are cited from feed metadata. Magnitude and damage figures may change as official assessments update."
+data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Evening follow-ups: no-casualty report and US aid mobilization from Russian wire services (TASS, Interfax), treated as those outlets' narratives pending independent corroboration; DW and the State Department pages would not render and are cited from feed metadata. Magnitude and damage figures may change as official assessments update. Saturday, Oct 10 casualty and damage tally from the Wikipedia page's cited sources (Swissinfo, El Tiempo, Infobae, AP)."
 ---
+
+**Latest (Saturday, October 10):** At least 27 people were injured, including 17 in Coclé province, at least five in Los Santos and one in Soná, per the latest compiled tally of official reports. The damage count widened sharply: at least 142 homes, four residential buildings, 188 schools, 20 health facilities, 26 government buildings, 13 churches, seven hotels and nine bridges damaged nationwide, with power outages affecting six provinces. A hotel and several homes collapsed in Tonosí; a government building, a church and the Dos Continentes hotel in Penonomé partially collapsed. Seismologists at the University of Panama have recorded more than 80 aftershocks, the largest a magnitude 6.6 about two and a half hours after the main shock. The earlier TASS-cited "no casualties" line from late Friday has been superseded by the injury reports.
 
 **Latest (Friday, October 9, evening):** Panama reported no casualties from the earthquake, according to Panamanian officials cited by TASS late Friday, while buildings in the affected zone were damaged, DW reported. The US is mobilizing resources to assist Panama, Russian wire services reported, and the State Department issued its own statement on the quake Friday evening. The tsunami warnings that had covered Colombia, Ecuador and Central America's Pacific coast are the immediate focus of continued monitoring.
 
