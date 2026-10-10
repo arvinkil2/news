@@ -1,13 +1,13 @@
 ---
 title: "More than 100 NGOs say Gaza ceasefire exists in name only"
 date: 2026-10-09T15:59:20-04:00
-last_updated: 2026-10-10T07:11:52-04:00
+last_updated: 2026-10-10T08:44:48-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "More than 100 humanitarian and rights groups said Friday that the year-old Gaza ceasefire exists in name only, with Israeli forces killing over 1,400 Palestinians since the deal and aid restrictions blocking recovery."
+lede: "More than 100 humanitarian and rights groups said Friday that the year-old Gaza ceasefire exists in name only, with Israeli forces killing over 1,400 Palestinians since the deal, and Saturday brought fresh strikes that killed five more in Gaza City."
 why_it_matters: "The joint statement, on the ceasefire's first anniversary, puts the biggest aid organizations on record that the truce framework has failed to stop the killing or allow rebuilding."
 featured: false
 evidence_grade: "B"
@@ -28,9 +28,15 @@ sources:
     publisher: "France24 (AFP)"
     url: "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire"
     published: "2026-10-10"
+  - title: "Israeli strikes kill five people in Gaza, medics say"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/middle-east/israeli-strikes-kill-five-people-in-gaza-medics-say-3005610"
+    published: "2026-10-10"
 tags: []
-data_as_of: "Joint statement issued Friday, October 9, 2026, one year after the October 10, 2025 ceasefire announcement; year-later assessment reporting October 9-10, 2026. Casualty and damage figures are the NGOs' and the Palestinian Health Ministry's, uncorroborated by independent observers. France24 page fetch-blocked to the text fetcher; its AFP wire substance corroborated via syndicated copies of the same wire."
+data_as_of: "Joint statement issued Friday, October 9, 2026, one year after the October 10, 2025 ceasefire announcement; year-later assessment reporting October 9-10, 2026. Saturday strikes: Arab News, October 10, 2026 (article opened and read in full; casualty figures from Gaza health officials; IDF statement carried as the military's account). Casualty and damage figures are the NGOs' and the Palestinian Health Ministry's, uncorroborated by independent observers. France24 page fetch-blocked to the text fetcher; its AFP wire substance corroborated via syndicated copies of the same wire."
 ---
+
+**Latest (Saturday afternoon):** Israeli strikes killed at least five Palestinians in the Gaza Strip on Saturday, health officials said: four died in a strike near Panda Mall in Gaza City and one in the Tuffah neighborhood. The Israeli military said the two strikes targeted militants, without giving further information. Israel has stepped up strikes against Hamas in recent weeks, saying the group has been rearming and attacking in violation of the ceasefire; Hamas denies rebuilding its arsenal and accuses Israel of undermining the US-brokered deal agreed a year ago.
 
 **Latest (Saturday, October 10):** A year into the truce, the deal's grand promises have collapsed into stalemate. Arab News reported Saturday that Trump's 20-point agreement halted major military operations, freed all remaining hostages and increased humanitarian access, but has failed on a new Palestinian administration, the disarmament of Hamas, a full Israeli withdrawal and a postwar reconstruction process, with almost nothing rebuilt. Hamas officially dissolved its government in July but remains the dominant power in the roughly 40 percent of Gaza not controlled by the Israeli military, while an International Stabilization Force announced in February never materialized after Indonesia, which had pledged 8,000 troops, put its plans on hold. Netanyahu, facing elections on October 27, hardened his stance over the summer, openly defying Trump by declaring Israel would not withdraw from any part of Gaza until Hamas is completely disarmed. The Gaza Health Ministry counts over 1,400 Palestinians killed and five Israeli soldiers killed since the ceasefire took effect, and reconstruction is estimated at 71.4 billion dollars, barely begun.
 
