@@ -1,14 +1,14 @@
 ---
 title: "Hegseth says Fort Hood shooter's execution will be public and livestreamed"
 date: 2026-10-08T19:45:16-04:00
-last_updated: 2026-10-10T07:55:19-04:00
+last_updated: 2026-10-10T08:00:26-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "The Pentagon's plan to livestream the December 3 firing-squad execution of Fort Hood shooter Nidal Hasan drew condemnation from the UN human rights office and bipartisan lawmakers on Friday, while President Trump declined to firmly endorse the broadcast."
-why_it_matters: "Opposition now spans the UN, Senate Republicans and Democrats, and US Catholic bishops — and even Trump is hedging — leaving Hegseth's unprecedented plan politically exposed ahead of the midterms."
+lede: "The Pentagon's plan to livestream the December 3 firing-squad execution of Fort Hood shooter Nidal Hasan drew condemnation from the UN human rights office and bipartisan lawmakers Friday, and Saturday brought a deepening GOP revolt, with Senators Curtis and Murkowski joining the critics and Senator Mark Kelly calling for Hegseth's removal, while Trump gave mixed signals on the broadcast."
+why_it_matters: "Opposition now spans the UN, GOP senators and House members, Senate Democrats, and US Catholic bishops, with only one Republican defender so far, leaving Hegseth's unprecedented plan politically exposed ahead of the midterms."
 featured: false
 evidence_grade: "B"
 sources:
@@ -52,11 +52,15 @@ sources:
     publisher: "Reuters (via Devdiscourse)"
     url: "https://www.devdiscourse.com/article/international/3989990-wrapup-1-vance-says-he-does-not-know-if-pentagon-will-proceed-with-livestream-of-fort-hood-gunmans-execution"
     published: "2026-10-09"
+  - title: "GOP lawmakers push back on Hegseth decision to livestream execution"
+    publisher: "The Hill"
+    url: "https://thehill.com/policy/defense/6139961-republicans-condemn-hegseth-execution-spectacle/"
+    published: "2026-10-10"
 tags: []
 data_as_of: "Defense Secretary Hegseth's statements and Pentagon briefing, October 8, 2026, as reported by The Hill (opened and read in full), Military Times, Bloomberg, the Guardian and France 24. Vance's remarks via Press Association wire, October 9 (opened and read in full). FCC chair Carr's remarks via SABC News, October 9 (opened and read in full). The Axios Vance article could not be retrieved (axios.com blocked to the page fetcher); the PA and SABC accounts carry the substance. UN human rights office condemnation, congressional pushback and Catholic bishops' response via Reuters wrapup, October 9 (opened and read in full via Devdiscourse)."
 ---
 
-**Latest (8:10am ET Saturday):** Republican opposition widened Saturday: Rep. Rob Bresnahan joined the GOP critics, saying "The focus should be on justice for the victims and their families" and "Their pain deserves respect, not a public show." Senator Thom Tillis, already on record against the broadcast, publicly expressed regret for his 2025 vote to confirm Hegseth as defense secretary, per Al Jazeera reporting.
+**Latest (8:00am ET Saturday):** Republican opposition hardened further, per The Hill. Senator John Curtis urged Hegseth to reconsider, writing, "A civilization erodes when it cultivates an appetite for executions as a form of entertainment" and "Broadcasting a death diminishes us." Senator Lisa Murkowski said livestreaming is what she expects from "terrorists and dictators, but not here in America," warning it would give Hasan "the martyrdom he seeks." Representative Rob Bresnahan called the plan a "spectacle," saying "The focus should be on justice for the victims and their families" and "Their pain deserves respect, not a public show," and Senator Thom Tillis expressed regret for his 2025 vote confirming Hegseth. Senator Mark Kelly called for Hegseth's removal, and retired Lt. Gen. Sean MacFarland called the broadcast a "terrible idea." One Republican dissenter backed the plan: Representative Andy Ogles called it "excellent," saying "Public execution is what this terrorist deserves. We will be watching." Hegseth's office declined comment, and Trump gave mixed signals Friday, first saying "we'll be making a determination," then "Did I approve? Absolutely," without clarifying whether he meant the execution or the livestream.
 
 **Latest (Friday evening):** The UN human rights office condemned the Pentagon's plan, with spokeswoman Shabia Mantoo telling a Geneva briefing that public executions constitute cruel, inhuman or degrading treatment or punishment and would breach the absolute prohibition of torture. Bipartisan opposition hardened in Congress: Republican Senator Thom Tillis called livestreaming the execution "beyond disgusting," saying it was something "oppressive dictatorships like Iran and Afghanistan do"; Representative Austin Scott of Georgia also opposed the broadcast while supporting the death sentence; and Senate Armed Services ranking Democrat Jack Reed called it "a gift to anti-American terrorist recruiters," saying it was "absolutely shameful and damaging to America's interests and core values." Archbishop Paul Coakley, president of the US Conference of Catholic Bishops, called the plan a "barbaric promotion of a culture of death," and Trump's former National Counterterrorism Center chief Joe Kent said streaming the execution would give terrorists "free propaganda" to radicalize and recruit. Trump himself stopped short of endorsing the broadcast, telling reporters Friday that officials were "still making a determination" on whether it would be shown, and the Pentagon declined to say whether victims' families would be invited to attend.
 
