@@ -1,7 +1,7 @@
 ---
 title: "Houthis claim Riyadh airport strike as Trump weighs response"
 date: 2026-10-11T07:18:03-04:00
-last_updated: 2026-10-11T07:52:36-04:00
+last_updated: 2026-10-11T10:06:42-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
@@ -40,11 +40,21 @@ sources:
   publisher: "CNBC"
   url: "https://www.cnbc.com/2026/10/11/trump-saudi-arablia-iran-houthis.html"
   published: "2026-10-11"
+- title: "Latest Riyadh airport attack kills 12, injures 309 as more than 200 flights cancelled"
+  publisher: "Gulf Business"
+  url: "https://gulfbusiness.com/en/2026/middle-east/riyadh-airport-attack-12-killed-309-injured-flights-cancelled"
+  published: "2026-10-11"
 tags: []
-data_as_of: "Strike Saturday, October 10, 2026; responsibility claim and US response deliberation Sunday, October 11; international condemnation Sunday morning. Casualty figures are Saudi GACA's and described as preliminary; the responsibility claim is the Houthis' own account via a Russian state-affiliated outlet; the Interfax item (in Russian) opened and read in full, reporting EFE's account of the UN/EU/AU statements. Sunday: CNBC's Sunday-dated piece reports Trump's Saturday remarks (read in full via live-browser extraction); the Saudi request for urgent US defense support is per two Saudi officials cited by MS NOW via CNBC, and the Rough Rider context is the Critical Threats Project's account."
+data_as_of: "Strike Saturday, October 10, 2026; responsibility claim and US response deliberation Sunday, October 11; international condemnation Sunday morning. Casualty figures are Saudi GACA's and described as preliminary; the responsibility claim is the Houthis' own account via a Russian state-affiliated outlet; the Interfax item (in Russian) opened and read in full, reporting EFE's account of the UN/EU/AU statements. Sunday: CNBC's Sunday-dated piece reports Trump's Saturday remarks (read in full via live-browser extraction); the Saudi request for urgent US defense support is per two Saudi officials cited by MS NOW via CNBC, and the Rough Rider context is the Critical Threats Project's account. Sunday mid-morning: Gulf Business article opened and read in full (Dammam projectile per Saudi coalition spokesman, Flightradar24 271/73% Sunday Riyadh cancellations, FlightAware 291+ via Arab News, carrier suspensions); the Saree airspace-warning reiteration is the Houthis' own claim via a Korean wire; Jeddah/Dammam Sunday cancellation counts are from a Pakistani aggregator citing flight-schedule figures."
 ---
 
-## Latest
+## Latest (Sunday, October 11, mid-morning): flight chaos spreads to Jeddah and Dammam, projectile lands near Dammam airport
+
+The aviation shutdown is widening beyond Riyadh. Saudi coalition spokesman Maj. Gen. Turki Al-Maliki said a projectile landed near King Fahd International Airport in Dammam on Saturday, hours after the Riyadh strike, per Gulf Business. Flightradar24 data at 5:34 a.m. Saudi time Sunday showed 271 departing flights cancelled at King Khalid International Airport, 73 percent of the day's departures, with the airport's disruption index at 5.0, the highest level; FlightAware data cited by Arab News put cancellations above 290 in 24 hours. Jeddah, Dammam and Madinah are absorbing diverted Riyadh-bound flights, with reported Sunday cancellations of 92 of 830 scheduled flights at Jeddah and 39 of 240 at Dammam.
+
+The carrier pullback is broadening. Etihad and Qatar Airways cancelled several Riyadh services, Kuwait Airways confirmed cancellations, and Emirates suspended Dubai services to Riyadh, Jeddah and Dammam for October 11-12, joining Air India, IndiGo, Akasa Air, flydubai, the Lufthansa Group, Pakistan International Airlines and others that had already suspended Riyadh routes after the week's earlier attacks. Houthi military spokesman Yahya Saree reiterated on Sunday the group's warning against using Saudi airports and airspace, exempting only Mecca and Medina, and Saudi authorities moved schools nationwide to remote learning until October 15.
+
+## Latest (Sunday, October 11, morning): claim of responsibility, Trump weighs joining strikes
 
 Two Saudi officials told MS NOW the kingdom is requesting "urgent defense support" from the US "as soon as possible," per CNBC, as Trump weighs whether to join Saudi strikes against the Houthis. Any US involvement would mark the first direct American military action against the Houthis since Operation Rough Rider ended in May 2025, per the Critical Threats Project. Trump's exact words Saturday outside the White House, when asked if the US would back Saudi strikes: "We may. We're going to look at it." UK Defence Secretary Wes Streeting told the BBC on Sunday that Britain is examining how to support Saudi Arabia but is not joining offensive operations "at this stage."
 
