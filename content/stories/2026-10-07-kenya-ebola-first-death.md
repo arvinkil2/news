@@ -1,7 +1,7 @@
 ---
 title: Kenya records first Ebola death, races to trace contacts
 date: 2026-10-07T18:44:34-04:00
-last_updated: 2026-10-10T01:43:42-04:00
+last_updated: 2026-10-10T21:51:52-04:00
 beats:
 - life-sciences
 status: developing
@@ -28,13 +28,21 @@ sources:
   publisher: DW
   url: https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-africa-8291-rdf
   published: '2026-10-06'
+- title: Ebola spreads in eastern DRC as Kenya confirms imported case
+  publisher: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss
+  published: '2026-10-11'
 tags: []
 data_as_of: WHO Representative briefing in Nairobi October 7, 2026, via UN News; first
   death reported October 6. Africa CDC travel-timeline reconstruction and Kenya screening
   figures via BBC Africa October 10, 2026 (read in full via live browser extraction).
+  Saturday night update - WHO October 8 situation figures and MSF treatment-capacity
+  reporting via Al Jazeera October 11, 2026 (opened and read in full).
 regions:
 - africa
 ---
+
+**Latest (Saturday night, October 10):** The WHO said in an October 8 update that the DRC outbreak has spread to a new health zone, Alimbongo in North Kivu, which reported its first cases: four confirmed, including two deaths, as of October 6. DRC-wide totals stood at 8,728 confirmed cases and 4,205 confirmed deaths, with 2,269 recoveries and a 48.2 percent crude case fatality ratio. North Kivu is accounting for a growing share of newly confirmed infections, nearly 40 percent per Doctors Without Borders, and treatment capacity is stretched: as of late September, 34 percent of confirmed patients were being treated in non-specialized facilities that lack sufficient beds and Ebola management resources. A suspected Ebola case in Kenya's Wajir County tested negative on October 8, easing fears of a second Kenyan case, though monitoring continues. The WHO says response teams were following up 23,741 of 29,535 identified contacts as of October 4 (80.4 percent), below the 85 percent target; Africa CDC chief Jean Kaseya called for a community-centered response with active case finding and daily follow-up. There are no approved vaccines or specific treatments for the Bundibugyo virus.
 
 **Latest (Saturday, October 10):** The Africa CDC has reconstructed the patient's month-long route, and it explains how he crossed three countries undetected. The 40-year-old Kenyan businessman, who had lived in the DRC for seven years, was in Bas-Uele province (Buta, Aketi, Likati) in late August and early September. Symptoms emerged around September 15; he was admitted to Tongo Etandi Health Centre in Bondo from September 17 to 19 and misdiagnosed with a skin infection. He flew to Kisangani on September 20 and spent more than ten days seeking care there, then took a domestic flight to Beni on October 1, moved on to Kasindi in North Kivu, crossed into Uganda by road to Kampala, and flew Entebbe to Nairobi on October 3, where a relative drove him to Nairobi Hospital. He died on October 5.
 
