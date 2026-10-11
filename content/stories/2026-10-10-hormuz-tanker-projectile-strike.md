@@ -1,14 +1,14 @@
 ---
 title: "Outbound tanker struck by projectile in Strait of Hormuz"
 date: 2026-10-10T20:01:50-04:00
-last_updated: 2026-10-11T03:51:29-04:00
+last_updated: 2026-10-11T11:43:05-04:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Israeli media reported Sunday that Israel is preparing for a possible resumption of war on Iran ahead of the October 27 Knesset elections, with Trump and Netanyahu said to have held urgent discussions on a new attack, as the fallout from weekend strikes on tankers in the Strait of Hormuz kept war-risk premia elevated."
-why_it_matters: "A confirmed projectile strike inside the strait, on top of the IRGC's mine claims and the Gulf tanker fire, keeps war-risk premia at crisis levels on the world's most important oil chokepoint."
+lede: "A second outbound tanker was struck by an unidentified projectile in the Strait of Hormuz on Sunday, one day after a tanker fire, as gCaptain reported two tankers hit over the weekend and CENTCOM said it disabled a fourth blockade-running vessel since July."
+why_it_matters: "Back-to-back projectile strikes on two consecutive days show the tanker war is accelerating beyond the Strait, with commercial shipping now caught between Iranian attacks and US blockade enforcement on the world's most important oil chokepoint."
 featured: false
 evidence_grade: "B"
 sources:
@@ -28,9 +28,15 @@ sources:
     publisher: "Al Jazeera Arabic"
     url: "https://www.aljazeera.net/news/2026/10/11/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%86%d8%a7%d9%82%d9%84%d8%aa%d9%8a-%d9%86%d9%81%d8%b7-%d9%81%d9%8a-%d9%87%d8%b1%d9%85%d8%b2-%d9%88%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%a8%d8%ad%d8%ab?traffic_source=rss"
     published: "2026-10-11"
+  - title: "More Tankers Hit in Hormuz as U.S. Strikes Cargo Ship"
+    publisher: "gCaptain"
+    url: "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/"
+    published: "2026-10-11"
 tags: []
 data_as_of: "October 11, 2026, 00:49 ET: UKMTO advisory via defconlevel relay (UKMTO is the authoritative maritime reporting body). RT's shelling account, in Russian, cited from feed metadata; RT is Russian state-affiliated, treat its characterization as its narrative. Overnight, Iran's IRGC claimed via official Iranian media, as relayed by Al Jazeera English (opened and read in full), that it struck the LPG carrier NV Sunshine south of the strait for using an 'illegal route' and asserted Iranian 'control of the administration of the strait'; that is a conflict-party claim with no independent corroboration and may or may not be the same vessel UKMTO reported. Vessel name, flag and damage assessment unknown. Sunday, Oct 11: Indian consulate in Dubai said all 22 Indian crew members of the tanker involved in the Ras Al Khaimah incident were rescued safely, via Al Jazeera Arabic (opened and read in full, in Arabic). Israeli-attack-planning reporting via Al Jazeera Arabic relaying Israeli media (Qatari state-affiliated relaying Israeli outlets; uncorroborated by named officials)."
 ---
+
+**Latest (Sunday, October 11):** UKMTO reported a second tanker strike on Sunday: the company security officer of another outbound tanker reported the vessel struck on its port side by an unidentified projectile. UKMTO said the vessel sustained damage but all crew were safe, with no environmental impact reported, per gCaptain, which was opened and read in full. Neither vessel was identified and UKMTO attributed responsibility for neither attack. gCaptain also noted UKMTO's Saturday advisories: several shipmasters near Ras Al Khaimah reported VHF broadcasts directing them to leave their anchorages, and the US-led Joint Maritime Information Center warned Thursday that attacks had become more frequent.
 
 **Latest (Sunday, October 11):** Israeli media reported preparations for a possible resumption of war on Iran ahead of Israel's Knesset elections on October 27, with the public broadcaster reporting that Israel is bracing for the chance Trump orders a restart of the war and Channel 13 saying Trump and Netanyahu held "urgent discussions" on a possible new attack. One scenario reported is a US "green light" for a solo Israeli strike; separately, Walla reported the US had asked Israel to strike Tehran independently before the idea was dropped after IDF chief Eyal Zamir warned it would delay Israel's elections. Israeli outlet Maariv, citing a military official, said no preemptive strike is currently being prepared, Iran has not crossed the "red line" Israel set, and some parties have an interest in heating up the front - while noting Israeli forces are at maximum alert. On Thursday, Trump said Washington has "useful talks" with Tehran and does not intend to attack Iran before November's US midterms. Al Jazeera Arabic (opened and read in full, in Arabic) relayed all of these Israeli-media claims; none has been corroborated by named US or Israeli officials beyond the outlets' own sourcing.
 
