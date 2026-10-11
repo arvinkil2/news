@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Simon strengthens to Category 4 off Mexico's Pacific coast"
 date: 2026-10-10T03:51:57-04:00
-last_updated: 2026-10-10T17:54:25-04:00
+last_updated: 2026-10-10T22:53:15-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
@@ -20,9 +20,15 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
     published: "2026-10-10"
+  - title: "Decretan Alerta Roja en Colima y Jalisco por 'Simon' (Red Alert declared in Colima and Jalisco for Simon)"
+    publisher: "Reforma (Spanish)"
+    url: "https://www.reforma.com/decretan-alerta-roja-en-colima-y-jalisco-por-simon/ar3292394"
+    published: "2026-10-10"
 tags: []
 data_as_of: "National Hurricane Center bulletin October 10, 2026, via Clarín (in Spanish), article opened and read in full. Saturday afternoon update: Al Jazeera (opened and read in full) reported NHC's Saturday advisory: 150 mph winds, storm 115 miles south-southwest of Manzanillo, expected to approach or move inland late Saturday or early Sunday, hurricane warning for the Pacific coast south of Puerto Vallarta including the Manzanillo area, tropical storm watch toward Lázaro Cárdenas, 10-20 inches of rain through Sunday, dangerous storm surge and destructive waves near landfall."
 ---
+
+**Latest (Saturday night, October 10):** Mexico's civil protection system declared a Red Alert, its highest warning level, for the states of Colima and Jalisco as Simon approached, per Reforma (in Spanish, translated). The declaration escalates Saturday's existing flood and landslide warnings as the Category 4 storm nears landfall on the Pacific coast.
 
 **Latest (Saturday afternoon, October 10):** Simon strengthened further to a Category 4 storm with winds up to 150 mph, the National Hurricane Center said Saturday, with the storm about 115 miles south-southwest of Manzanillo and expected to approach or move just inland of Mexico's west-central coast late Saturday or early Sunday. Authorities issued a hurricane warning for parts of the Pacific coast south of Puerto Vallarta, including the area around Manzanillo, Mexico's largest Pacific port, and a tropical storm watch toward Lázaro Cárdenas. The NHC warned of 10 to 20 inches of rain through Sunday, life-threatening flooding and mudslides in steep terrain, and a dangerous storm surge with large destructive waves near landfall.
 

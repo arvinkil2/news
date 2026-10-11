@@ -1,7 +1,7 @@
 ---
 title: "Hegseth says Fort Hood shooter's execution will be public and livestreamed"
 date: 2026-10-08T19:45:16-04:00
-last_updated: 2026-10-10T08:00:26-04:00
+last_updated: 2026-10-10T22:53:15-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -56,9 +56,15 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/policy/defense/6139961-republicans-condemn-hegseth-execution-spectacle/"
     published: "2026-10-10"
+  - title: "Trump says he will 'ultimately make decision' on Fort Hood shooter execution livestream"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/"
+    published: "2026-10-10"
 tags: []
 data_as_of: "Defense Secretary Hegseth's statements and Pentagon briefing, October 8, 2026, as reported by The Hill (opened and read in full), Military Times, Bloomberg, the Guardian and France 24. Vance's remarks via Press Association wire, October 9 (opened and read in full). FCC chair Carr's remarks via SABC News, October 9 (opened and read in full). The Axios Vance article could not be retrieved (axios.com blocked to the page fetcher); the PA and SABC accounts carry the substance. UN human rights office condemnation, congressional pushback and Catholic bishops' response via Reuters wrapup, October 9 (opened and read in full via Devdiscourse)."
 ---
+
+**Latest (Saturday night, October 10):** Trump told reporters he will 'ultimately make the decision' on whether the Fort Hood shooter's execution is livestreamed, per The Hill, putting the final call with him after days of mixed signals and a growing congressional revolt against the Pentagon's plan.
 
 **Latest (8:00am ET Saturday):** Republican opposition hardened further, per The Hill. Senator John Curtis urged Hegseth to reconsider, writing, "A civilization erodes when it cultivates an appetite for executions as a form of entertainment" and "Broadcasting a death diminishes us." Senator Lisa Murkowski said livestreaming is what she expects from "terrorists and dictators, but not here in America," warning it would give Hasan "the martyrdom he seeks." Representative Rob Bresnahan called the plan a "spectacle," saying "The focus should be on justice for the victims and their families" and "Their pain deserves respect, not a public show," and Senator Thom Tillis expressed regret for his 2025 vote confirming Hegseth. Senator Mark Kelly called for Hegseth's removal, and retired Lt. Gen. Sean MacFarland called the broadcast a "terrible idea." One Republican dissenter backed the plan: Representative Andy Ogles called it "excellent," saying "Public execution is what this terrorist deserves. We will be watching." Hegseth's office declined comment, and Trump gave mixed signals Friday, first saying "we'll be making a determination," then "Did I approve? Absolutely," without clarifying whether he meant the execution or the livestream.
 

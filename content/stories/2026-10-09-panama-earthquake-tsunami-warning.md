@@ -1,7 +1,7 @@
 ---
 title: "7.7-magnitude earthquake strikes Panama, tsunami warnings issued"
 date: 2026-10-09T14:50:42-04:00
-last_updated: 2026-10-10T03:53:44-04:00
+last_updated: 2026-10-10T22:53:15-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
@@ -48,9 +48,15 @@ sources:
     publisher: "Interfax (Russian)"
     url: "https://www.interfax.ru/world/1121533"
     published: "2026-10-10"
+  - title: "Panamá suspende clases desde el próximo lunes (Panama suspends classes starting next Monday)"
+    publisher: "Prensa Latina (Spanish, Cuban state-affiliated)"
+    url: "https://www.prensa-latina.cu/2026/10/10/panama-suspende-clases-desde-el-proximo-lunes/"
+    published: "2026-10-10"
 tags: []
 data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Evening follow-ups: no-casualty report and US aid mobilization from Russian wire services (TASS, Interfax), treated as those outlets' narratives pending independent corroboration; DW and the State Department pages would not render and are cited from feed metadata. Magnitude and damage figures may change as official assessments update. Saturday, Oct 10 casualty and damage tally from the Wikipedia page's cited sources (Swissinfo, El Tiempo, Infobae, AP)."
 ---
+
+**Latest (Saturday night, October 10):** Panama suspended classes starting Monday as damage assessments continue, per Prensa Latina (in Spanish, translated), following reports that at least 188 schools were damaged nationwide in Friday's earthquake.
 
 **Latest (Saturday, October 10):** At least 27 people were injured, including 17 in Coclé province, at least five in Los Santos and one in Soná, per the latest compiled tally of official reports. The damage count widened sharply: at least 142 homes, four residential buildings, 188 schools, 20 health facilities, 26 government buildings, 13 churches, seven hotels and nine bridges damaged nationwide, with power outages affecting six provinces. A hotel and several homes collapsed in Tonosí; a government building, a church and the Dos Continentes hotel in Penonomé partially collapsed. Seismologists at the University of Panama have recorded more than 80 aftershocks, the largest a magnitude 6.6 about two and a half hours after the main shock. The earlier TASS-cited "no casualties" line from late Friday has been superseded by the injury reports.
 
