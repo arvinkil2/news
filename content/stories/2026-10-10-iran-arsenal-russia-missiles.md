@@ -38,3 +38,4 @@ sources:
   published: "2026-09-02"
 tags: []
 data_as_of: "Saturday night, October 10, 2026: the Bloomberg claims via the Yahoo-syndicated Bloomberg story (bypassed paywall through syndication) and three independent outlets (Jewish Breaking News, JBizNews, NewsCord's 12-outlet comparison); the Financial Times C430L investigation via Iran International's write-up; the White House rebuttal via the same outlets. The commissioned live-browser deep-research task completed after the initial publish and its full findings are now folded in. The underlying intelligence claims come from anonymous Western officials (a party to the conflict) and are presented as their assessment, contested by the administration; Russia's Defense Ministry did not respond to Bloomberg."
+---
