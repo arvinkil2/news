@@ -1,13 +1,13 @@
 ---
 title: "Houthi siege of Taiz tightens as fuel prices triple"
 date: 2026-10-10T06:44:00-04:00
-last_updated: 2026-10-10T06:44:00-04:00
+last_updated: 2026-10-11T02:42:54-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Houthi fighters have captured the al-Turbah area south of Taiz, cutting the last main road into the city of nearly 3 million people, and black-market petrol prices have tripled in less than a week."
+lede: "Yemen's health ministry warned Saturday of an 'imminent health and humanitarian catastrophe' in besieged Taiz, saying medicines, IV fluids and fuel are nearing depletion and hospitals could be forced to stop emergency care, surgery, dialysis and neonatal services, as Houthi fighters keep the city cut off."
 why_it_matters: "Taiz is the largest Yemeni city under government control in the southwest, and a full siege there would deepen the country's worst humanitarian crisis just as the Saudi-led coalition escalates its air campaign."
 featured: false
 evidence_grade: "C"
@@ -16,8 +16,16 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise"
     published: "2026-10-10"
+  - title: "Taiz hospitals near collapse as Houthis tighten siege: Yemen government"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss"
+    published: "2026-10-11"
 tags: []
-data_as_of: "Al Jazeera reporting October 10, 2026 (article opened and read in full). Single-sourced: territorial claims, price figures and the UN letter are Al Jazeera's reporting, pending independent corroboration."
+data_as_of: "Al Jazeera reporting October 10, 2026 (article opened and read in full). Single-sourced: territorial claims, price figures and the UN letter are Al Jazeera's reporting, pending independent corroboration. Sunday, October 11: Yemen health ministry's hospitals-near-collapse warning via Al Jazeera (article opened and read in full); ministry claims and UN/WHO warnings remain that outlet's reporting."
+
+---
+
+**Latest (Sunday, October 11):** Yemen's Ministry of Public Health and Population warned on Saturday of an "imminent health and humanitarian catastrophe" in Taiz, saying medicines, intravenous fluids, medical supplies and fuel at the city's health facilities were "nearing depletion." The ministry said emergency care, surgery, intensive care, dialysis and neonatal services could be forced to stop, putting patients, the injured, pregnant women and newborns at immediate risk, and warned fuel shortages threaten electricity generators, ambulances and the cold chains that keep medicines and vaccines usable. It demanded the siege be lifted immediately with safe passage for patients, ambulances, health workers and aid, and called on the United Nations and humanitarian organizations to deliver medicines, fluids, supplies, oxygen and fuel, saying every delay increases the risk of service interruption and loss of life. The UN refugee agency and the World Health Organization have separately warned the fighting is putting Yemen's fragile health system in peril, per the same reporting.
 ---
 
 The Houthis captured the town of al-Turbah by October 4, severing the only remaining main road between Taiz city and other government-held areas, and the vital eastern crossing reopened in 2024 has been closed again after attempted Houthi incursions, according to Al Jazeera. Local planning chief Nabil Jamil called the siege more comprehensive than the devastating 2015-2016 blockade, warning that 2.8 million people in government-held areas plus 200,000 newly displaced face deteriorating conditions.

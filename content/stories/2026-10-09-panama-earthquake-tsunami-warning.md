@@ -1,13 +1,13 @@
 ---
 title: "7.7-magnitude earthquake strikes Panama, tsunami warnings issued"
 date: 2026-10-09T14:50:42-04:00
-last_updated: 2026-10-10T22:53:15-04:00
+last_updated: 2026-10-11T02:42:54-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "A magnitude 7.7 earthquake struck Panama's southern coast on Friday afternoon, prompting tsunami warnings for Colombia, Ecuador and much of Central America's Pacific coast, and the injury toll has since climbed to at least 27."
+lede: "Panama declared a state of emergency Saturday to coordinate relief after Friday's magnitude 7.7 earthquake, with Presidency Minister Juan Carlos Orillac saying government agencies would stay on standby and President Jose Raul Mulino ordering a relief commission, as the injury toll stands at 27 and damage assessments continue."
 why_it_matters: "The shallow quake near the Pacific side of the isthmus is the strongest to hit Panama in years; the rising injury count and hundreds of damaged buildings keep coastal infrastructure and shipping on alert as 80-plus aftershocks continue."
 featured: false
 evidence_grade: "C"
@@ -52,9 +52,19 @@ sources:
     publisher: "Prensa Latina (Spanish, Cuban state-affiliated)"
     url: "https://www.prensa-latina.cu/2026/10/10/panama-suspende-clases-desde-el-proximo-lunes/"
     published: "2026-10-10"
+  - title: "EAM Jaishankar expresses solidarity with Panama following 7.7 magnitude earthquake"
+    publisher: "ANI (via LatestLY)"
+    url: "https://www.latestly.com/agency-news/world-news-eam-jaishankar-expresses-solidarity-with-panama-following-7-7-magnitude-earthquake-7640168.html"
+    published: "2026-10-11"
+  - title: "State of emergency declared in Panama following earthquake"
+    publisher: "panamaandtheworld.com"
+    url: "https://panamaandtheworld.com/state-of-emergency-declared-in-panama-following-earthquake/"
+    published: "2026-10-11"
 tags: []
 data_as_of: "Wikipedia page '2026 Panama earthquake' (opened and read in full), citing USGS, Reuters and the US National Weather Service tsunami page, October 9, 2026. Wire reporting from France24, BBC Mundo, El Pais Uruguay, Tal Cual, DR, Folha and ANSA corroborates the quake and tsunami warnings at headline level; article bodies could not be retrieved (most domains blocked to the page fetcher, one page returned 404, one rendered a footer only). Evening follow-ups: no-casualty report and US aid mobilization from Russian wire services (TASS, Interfax), treated as those outlets' narratives pending independent corroboration; DW and the State Department pages would not render and are cited from feed metadata. Magnitude and damage figures may change as official assessments update. Saturday, Oct 10 casualty and damage tally from the Wikipedia page's cited sources (Swissinfo, El Tiempo, Infobae, AP)."
 ---
+
+**Latest (Sunday, October 11):** Panama declared a state of emergency on Saturday to coordinate relief efforts for communities affected by Friday's earthquake, Xinhua and ANI reported. Presidency Minister Juan Carlos Orillac, speaking at a press conference at the presidential palace, said the declaration keeps government agencies on standby with the resources needed to help affected communities, and that President Jose Raul Mulino ordered the formation of a commission to coordinate relief operations, manage resources and address affected families' needs. The government set up donation collection centers, including one at Omar Park in Panama City, with provincial government offices serving as additional collection points. India's External Affairs Minister S. Jaishankar expressed solidarity with Panama on Saturday. One outlet reported the government authorized up to $100 million for emergency response; that figure is single-sourced and unconfirmed.
 
 **Latest (Saturday night, October 10):** Panama suspended classes starting Monday as damage assessments continue, per Prensa Latina (in Spanish, translated), following reports that at least 188 schools were damaged nationwide in Friday's earthquake.
 
