@@ -27,12 +27,18 @@ sources:
     publisher: "TASS (in Russian)"
     url: "https://tass.ru/obschestvo/28196687"
     published: "2026-10-09"
+  - title: "ICE agent in New York shooting also involved in assault of pregnant woman"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman"
+    published: "2026-10-11"
 tags: []
-data_as_of: "NYPD statement October 8, 2026, via Fox News and Bloomberg. 10:44pm ET update: Le Monde (in French), reporting Mayor Mamdani's statement that a 5-year-old was in the car and unhurt, the driver shot in the neck, Mamdani's call with the president, Governor Hochul's demand for a full accounting, and NY Post video/reporting (bullet holes including one in the windshield; unconfirmed claim agents were checking whether the man is a gang member linked to a 2025 shooting of an off-duty federal agent). ICE did not respond to Le Monde. Overnight update: TASS (in Russian, reporting NYPD Commissioner Jessica Tisch at a press conference) says the wounded man was arrested twice in New York before, once for robbery in 2023 (pleaded guilty to fourth-degree theft, five years' probation) and once on suspicion of illegal drug trafficking in 2025 (case still pending). This claim is single-sourced via TASS, a Russian state outlet, citing an on-record US official; no independent corroboration has been read yet."
-last_updated: 2026-10-09T01:47:49-04:00
+data_as_of: "NYPD statement October 8, 2026, via Fox News and Bloomberg. 10:44pm ET update: Le Monde (in French), reporting Mayor Mamdani's statement that a 5-year-old was in the car and unhurt, the driver shot in the neck, Mamdani's call with the president, Governor Hochul's demand for a full accounting, and NY Post video/reporting (bullet holes including one in the windshield; unconfirmed claim agents were checking whether the man is a gang member linked to a 2025 shooting of an off-duty federal agent). ICE did not respond to Le Monde. Overnight update: TASS (in Russian, reporting NYPD Commissioner Jessica Tisch at a press conference) says the wounded man was arrested twice in New York before, once for robbery in 2023 (pleaded guilty to fourth-degree theft, five years' probation) and once on suspicion of illegal drug trafficking in 2025 (case still pending). This claim is single-sourced via TASS, a Russian state outlet, citing an on-record US official; no independent corroboration has been read yet. Overnight Sunday: Al Jazeera's newsfeed reported that the ICE supervisor seen brandishing a rifle in video from the shooting scene was also involved in a controversial arrest in Minneapolis in December in which agents knelt on and dragged a pregnant woman through the street. This claim is single-sourced to Al Jazeera's newsfeed item; no independent corroboration has been read yet."
+last_updated: 2026-10-11T01:48:58-04:00
 ---
 
 ## Latest
+
+**Latest (overnight, Sunday, October 11):** Al Jazeera reported that the ICE supervisor seen brandishing a rifle in video from the scene of the October 8 Bronx shooting was also involved in a controversial arrest in Minneapolis in December, in which agents knelt on and dragged a pregnant woman through the street. The claim is single-sourced to Al Jazeera's newsfeed; no independent corroboration has been read yet.
 
 **Latest (overnight, Friday, October 9):** NYPD Commissioner Jessica Tisch said at a press conference that the man wounded by ICE agents had been arrested twice in New York before the shooting, TASS reported: once for robbery in 2023, on which he pleaded guilty to fourth-degree theft and received five years' probation, and once on suspicion of illegal drug trafficking in 2025, a case that is still pending. The report is single-sourced to TASS, a Russian state outlet, citing Tisch on the record; no independent outlet has been read confirming the press-conference account yet.
 
