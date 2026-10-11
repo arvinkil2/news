@@ -1,13 +1,13 @@
 ---
 title: "Houthis claim Riyadh airport strike as Trump weighs response"
 date: 2026-10-11T07:18:03-04:00
-last_updated: 2026-10-11T07:42:07-04:00
+last_updated: 2026-10-11T07:52:36-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "A senior Houthi official confirmed the group carried out Saturday's missile strike on Riyadh's King Khalid International Airport, which killed 12 and wounded 309, drawing condemnation from the UN, EU and African Union as President Trump weighed joining Saudi retaliatory strikes."
+lede: "A senior Houthi official confirmed the group carried out Saturday's missile strike on Riyadh's King Khalid International Airport, which killed 12 and wounded 309, drawing condemnation from the UN, EU and African Union as Riyadh pressed Washington for urgent defense support and President Trump weighed joining retaliatory strikes."
 why_it_matters: "The first direct Houthi claim of responsibility, an American among the dead, open US deliberation about joining strikes, and a widening international condemnation wave mark the sharpest escalation of the Saudi-Houthi confrontation in years, with direct exposure for aviation, energy shipping, and regional risk assets."
 featured: true
 evidence_grade: "B"
@@ -36,11 +36,17 @@ sources:
   publisher: "Interfax (in Russian, via EFE)"
   url: "https://www.interfax.ru/world/1121680"
   published: "2026-10-11"
+- title: "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis"
+  publisher: "CNBC"
+  url: "https://www.cnbc.com/2026/10/11/trump-saudi-arablia-iran-houthis.html"
+  published: "2026-10-11"
 tags: []
-data_as_of: "Strike Saturday, October 10, 2026; responsibility claim and US response deliberation Sunday, October 11; international condemnation Sunday morning. Casualty figures are Saudi GACA's and described as preliminary; the responsibility claim is the Houthis' own account via a Russian state-affiliated outlet; the Interfax item (in Russian) opened and read in full, reporting EFE's account of the UN/EU/AU statements."
+data_as_of: "Strike Saturday, October 10, 2026; responsibility claim and US response deliberation Sunday, October 11; international condemnation Sunday morning. Casualty figures are Saudi GACA's and described as preliminary; the responsibility claim is the Houthis' own account via a Russian state-affiliated outlet; the Interfax item (in Russian) opened and read in full, reporting EFE's account of the UN/EU/AU statements. Sunday: CNBC's Sunday-dated piece reports Trump's Saturday remarks (read in full via live-browser extraction); the Saudi request for urgent US defense support is per two Saudi officials cited by MS NOW via CNBC, and the Rough Rider context is the Critical Threats Project's account."
 ---
 
 ## Latest
+
+Two Saudi officials told MS NOW the kingdom is requesting "urgent defense support" from the US "as soon as possible," per CNBC, as Trump weighs whether to join Saudi strikes against the Houthis. Any US involvement would mark the first direct American military action against the Houthis since Operation Rough Rider ended in May 2025, per the Critical Threats Project. Trump's exact words Saturday outside the White House, when asked if the US would back Saudi strikes: "We may. We're going to look at it." UK Defence Secretary Wes Streeting told the BBC on Sunday that Britain is examining how to support Saudi Arabia but is not joining offensive operations "at this stage."
 
 UN Yemen envoy Hans Grundberg strongly condemned the strike on King Khalid International Airport and called on the Houthis to end such attacks, while EU foreign policy chief Kaja Kallas called it a "horrible terrorist attack," saying attacks on civilian infrastructure have no justification. The African Union offered condolences to the victims' families and called for de-escalation, widening the international backlash as the Saudi-led coalition vows a firm response and Washington weighs joining retaliatory strikes.
 
