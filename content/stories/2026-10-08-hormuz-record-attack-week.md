@@ -1,7 +1,7 @@
 ---
 title: "Tanker attacks in Hormuz hit worst week since war began"
 date: 2026-10-08T07:33:42-0400
-last_updated: 2026-10-10T07:11:06-0400
+last_updated: 2026-10-11T07:16:08-0400
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -59,13 +59,35 @@ sources:
     publisher: "gCaptain (citing UKMTO)"
     url: "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/"
     published: "2026-10-09"
+  - title: "Tanker war spreads across Gulf"
+    publisher: "Splash247"
+    url: "https://splash247.com/tanker-war-spreads-across-gulf/"
+    published: "2026-10-11"
+  - title: "High-level crisis team under PM needed: Seafarers' Union petitions Govt after Sharjah tanker attack"
+    publisher: "The Hindu BusinessLine"
+    url: "https://www.thehindubusinessline.com/news/high-level-crisis-team-under-pm-needed-seafarers-union-petitions-govt-after-sharjah-tanker-attack/article71567645.ece"
+    published: "2026-10-10"
+  - title: "Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage"
+    publisher: "Marine Insight"
+    url: "https://www.marineinsight.com/oil-tanker-with-22-indian-seafarers-becomes-target-of-drone-attack-at-sharjah-anchorage/"
+    published: "2026-10-10"
+  - title: "All 22 Indian crew members safe after drone attack on tanker off UAE"
+    publisher: "TBS News"
+    url: "https://www.tbsnews.net/worldbiz/middle-east/all-22-indian-crew-members-safe-after-drone-attack-tanker-uae-1568711"
+    published: "2026-10-11"
   - title: "Global Oil Tanker Shortage Is Getting Worse By the Day"
     publisher: "Bloomberg via gCaptain"
     url: "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/"
     published: "2026-10-09"
 tags: []
-data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident. 10:55am ET update: second ship struck inside the Persian Gulf in three days (gCaptain citing UKMTO Warning 160-26); UKMTO weekly overview documents 11 attacks in the seven days to October 7. Saturday morning update: Bloomberg tanker-shortage reporting (SSY 1960s comparison, $80M US-China hire, $41/bbl transport cost, Suezmax >$680k/day, secondhand tanker value record $240M, Shell trading update, RBC refiner margins $15/bbl) via gCaptain, opened and read; Saturday 7:00 AM ET market table (Brent $104.72 +0.42%, WTI $91.85 +0.39%, tanker freight $998.30 -1.43%)."
+data_as_of: "Reuters reporting October 7, 2026; attack week September 28-October 5; On Peace attack October 6; Acers attack off Qatar October 7, ~19:00 UTC, per UKMTO (casualties reported, number unspecified, attribution undetermined); Brent at 7:00 AM EDT October 8 (site market table). Kpler transit data published October 7 via Arab News, 5:45pm ET update. Tally methodology differs by source: security-source field data (12, incl. attempts and harassment), IMO verified incidents (9), maritime intel firm Marisks (at least seven tanker incidents in the past week), IRGC claims (seven tankers hit October 1-5). 8:48pm ET update: Vitol CEO Russell Hardy remarks at Energy Intelligence Forum, London, and ING's Rico Luman tanker-rate note, both via OilPrice.com, opened and read. 9:42pm ET update: Iranian media reports of 'massive explosions' in the southern Strait of Hormuz, carried by Al Jazeera's live blog; Oct 9 morning update: IRGC adviser Naqdi 'illegal routes' vow (Reuters via Fars, October 7; independently carried by Marine Insight), US 20M b/d counter-claim (Marine Insight), tanker captain $100k/month pay (Marine Insight). URLs verified live (HTTP 200). The 'massive explosions' claim comes from Fars citing unnamed military sources, is attributed to tankers striking mines by trade aggregators, and is uncorroborated. Treat as an Iranian claim, not a confirmed incident. 10:55am ET update: second ship struck inside the Persian Gulf in three days (gCaptain citing UKMTO Warning 160-26); UKMTO weekly overview documents 11 attacks in the seven days to October 7. Saturday morning update: Bloomberg tanker-shortage reporting (SSY 1960s comparison, $80M US-China hire, $41/bbl transport cost, Suezmax >$680k/day, secondhand tanker value record $240M, Shell trading update, RBC refiner margins $15/bbl) via gCaptain, opened and read; Saturday 7:00 AM ET market table (Brent $104.72 +0.42%, WTI $91.85 +0.39%, tanker freight $998.30 -1.43%). Sunday morning update: GEM NO.2 identity, 22 Indian crew safe per Indian ports minister's X post (Marine Insight, The Hindu BusinessLine, TBS News, October 10-11); Vanguard identification and U-Ming link per Splash247, October 11; seafarers' union crisis-team petition per The Hindu BusinessLine, October 10. The drone characterization is the minister's, not an independent weapon finding."
 ---
+
+## Latest (Sunday morning): GEM NO.2 identified, all 22 Indian crew safe
+
+The Friday strike on the supertanker inside the Gulf now has a confirmed vessel and a diplomatic response. India's ports, shipping and waterways minister Sarbananda Sonowal said on X that all 22 Indian seafarers aboard the Panama-flagged crude tanker MT GEM NO.2 were safe after a drone attack at Sharjah Anchorage on October 9, and that India is continuously monitoring the situation and in contact with the ship management company. The account was carried independently by Marine Insight, The Hindu BusinessLine and TBS News.
+
+Maritime security firm Vanguard identified the vessel struck Friday about 13 nautical miles west of Al Jazeera, UAE, as the 302,000-deadweight-ton GEM NO.2, managed in Taiwan and linked to U-Ming Marine Transport, in a Splash247 weekend recap. The recap notes the attack was carried out by an unidentified projectile, the fire was extinguished, and the extent of damage remains unclear; the Indian minister's characterization of the weapon as a drone is New Delhi's, not an independent finding. India's seafarers' union petitioned the government for a PM-level high-level crisis team to coordinate protection of Indian seafarers, citing the string of recent vessel attacks in the Black Sea and the Hormuz Strait. The identification closes a gap in Friday's coverage and keeps the war-risk premium on Gulf sailings where it is: ships struck at anchor inside the UAE, not just in the strait.
 
 ## Latest (Saturday morning): tanker shortage hits 1960s extremes
 

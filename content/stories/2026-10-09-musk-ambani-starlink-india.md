@@ -1,7 +1,7 @@
 ---
-title: "Musk calls Ambani India's 'prime minister' as Starlink stalls; New Delhi denies blocking"
+title: "Musk calls Ambani India's 'prime minister' as Starlink stalls in India"
 date: 2026-10-09T01:48:05-04:00
-last_updated: 2026-10-10T00:44:37-04:00
+last_updated: 2026-10-11T07:11:48-0400
 beats:
 - technology
 regions:
@@ -9,10 +9,10 @@ regions:
 status: story
 developing: true
 update_bump: true
-lede: Elon Musk escalated his fight over Starlink's stalled India launch on Friday,
-  mockingly calling Mukesh Ambani the country's "prime minister" and asking him to
-  let Starlink compete, while India's communications ministry and telecom minister
-  denied the service is being blocked or singled out.
+lede: Elon Musk renewed his attack on Mukesh Ambani on Sunday, accusing the billionaire's
+  supporters of "absurd hypocrisy and hyperbole" over Starlink's stalled India launch,
+  days after mockingly calling Ambani the country's "prime minister," while India's
+  communications ministry insists the licensing process is fair and non-discriminatory.
 why_it_matters: The spat has drawn in India's government for the first time, which
   insists Starlink faces the same pending security assessments as every other licensed
   operator, so the standoff now hinges on whether regulators clear the spectrum or
@@ -33,14 +33,21 @@ sources:
   publisher: CNBC
   url: https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html
   published: '2026-10-09'
+- title: "Elon Musk accuses Ambani supporters of 'hypocrisy' over Starlink's India entry"
+  publisher: "The Hindu BusinessLine (PTI)"
+  url: "https://www.thehindubusinessline.com/news/elon-musk-accuses-ambani-supporters-of-hypocrisy-over-starlinks-india-entry/article71570514.ece/amp/"
+  published: '2026-10-11'
 tags: []
 data_as_of: TechCrunch article by Jagmeet Singh, October 9, 2026, read in full; Al
   Jazeera newsfeed item October 10 from feed metadata; CNBC October 9 via browser
-  task. Musk's posts are his own narrative; claims about regulatory treatment rest
+  task; PTI via The Hindu BusinessLine October 11 (Sunday escalation). Musk's posts
+  are his own narrative; claims about regulatory treatment rest
   on the Indian communications ministry's own statements.
 ---
 
-**Latest (Friday, October 9):** Musk stepped up his attack in a Friday post on X, mockingly calling Ambani the country's "prime minister" to suggest he wields outsized control over its government, and asked: "Naturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to compete?" He argued Starlink could bring internet access to unconnected areas, giving children more learning opportunities and helping small businesses reach customers worldwide. Reliance Jio did not immediately respond.
+**Latest (Sunday, October 11):** Musk renewed the attack on Sunday, accusing Ambani's supporters of "absurd hypocrisy and hyperbole" for arguing both that Starlink cannot compete with Jio's prices and that it poses a competitive threat. He said competition would expand consumer choice and make satellite internet more affordable, and that if Starlink's pricing were too high, Indians simply would not buy it. The Sunday escalation follows Friday's "prime minister" post and Thursday's "Is Ambani the real boss of India?" question.
+
+**Friday, October 9:** Musk stepped up his attack in a Friday post on X, mockingly calling Ambani the country's "prime minister" to suggest he wields outsized control over its government, and asked: "Naturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to compete?" He argued Starlink could bring internet access to unconnected areas, giving children more learning opportunities and helping small businesses reach customers worldwide. Reliance Jio did not immediately respond.
 
 India's communications ministry rejected the blocking allegations, saying the satellite-communications framework is "fair and non-discriminatory" and that Starlink plus two other licensed operators are at "broadly the same regulatory stage," undergoing security assessments that must finish before satellite spectrum is assigned. Telecom minister Jyotiraditya Scindia pushed back as well, saying India "does not allow a monopoly in any sector."
 

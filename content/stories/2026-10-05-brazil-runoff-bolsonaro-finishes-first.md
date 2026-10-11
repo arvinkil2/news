@@ -1,7 +1,7 @@
 ---
 title: Flavio Bolsonaro vows to "re-democratise" Brazil
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-10T07:11:04-04:00
+last_updated: 2026-10-11T07:11:55-0400
 update_bump: true
 beats:
 - politics
@@ -61,6 +61,14 @@ sources:
   publisher: Daily Guardian Europe
   url: https://dailyguardian.eu/sao-paulo-stock-exchange-surges-after-flavio-bolsonaro-election-result/
   published: '2026-10-05'
+- title: Brazil's Lula scraps gasoline tax ahead of runoff election
+  publisher: Arab News
+  url: https://www.arabnews.com/world/brazils-lula-scraps-gasoline-tax-ahead-of-runoff-election-3005629
+  published: '2026-10-10'
+- title: Lula's government in Brazil lowers fuel prices ahead of runoff vote against Flavio Bolsonaro
+  publisher: Associated Press
+  url: https://www.barchart.com/story/news/5497201/lula-s-government-in-brazil-lowers-fuel-prices-ahead-of-runoff-vote-against-flavio-bolsonaro
+  published: '2026-10-09'
 tags: []
 data_as_of: "TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and Lula
   reset Oct 5; vow reported October 7, 2026, single-sourced (The Guardian via feed;
@@ -73,10 +81,14 @@ data_as_of: "TSE results Oct 4, 99.8% counted; runoff Oct 25; endorsements and L
   in sources); Cury endorsement confirmed via Arab News direct open; market moves
   corroborated via Yonhap Infomax and AFP/Daily Guardian Europe (Bovespa up 7.7%
   to record close, EWZ up 12.6%, real 4.98 per USD). Bloomberg poll and markets
-  articles fetch-blocked, not restated."
+  articles fetch-blocked, not restated. Oct 11 AM update: Lula's Friday fuel measures (gasoline tax 0.89 reais/liter waived 30 days; diesel importer subsidy of 1.40 reais/liter for 30 days on top of 2.12 in effect) corroborated by Arab News (opened and read) and AP; IPCA +0.82% September via IBGE as reported; Bolsonaro's 'irresponsible'/'bomb' response per Arab News."
 regions:
 - latin-america
 ---
+
+**Latest (Sunday, October 11):** Lula moved to defuse the fuel-price grievance two weeks before the runoff. On Friday the government announced gasoline taxes would be temporarily scrapped: the tax of 0.89 reais ($0.18) per liter would be waived for 30 days, with the measure taking effect the same day prior relief expired. AP reporting adds that the decree extends a tax exemption and increases a subsidy for ethanol, and that diesel importers will receive an additional 1.40 reais ($0.28) per liter for 30 days on top of the 2.12 reais already in effect. "The objective is to ensure that imports remain viable at a critical moment for supply," the presidency said. The government says the fiscal impact will be offset by "extraordinary revenues" from oil exports. Lula, seeking his fourth term, is trying to contain rising fuel prices amid a global oil spike driven by the Middle East war; Brazil's statistics authority reported September IPCA inflation of 0.82 percent on Friday.
+
+Bolsonaro called the move "irresponsible," warning Lula was placing a "bomb" on consumers' laps and that diesel prices could rise after the election. The incumbent is spending incumbency powers against a 53-47 polling deficit with 14 days left.
 
 The runoff consolidation continued Thursday. Third-place finisher Augusto Cury reversed his earlier neutrality and endorsed Flavio Bolsonaro for the October 25 runoff, announcing it in a social media video; Cury, an author-psychiatrist from the Avante party, took 2.89 percent of valid votes in the first round. Governor Ronaldo Caiado endorsed Bolsonaro earlier in the week while Renan Santos said he would back neither candidate. A first post-first-round Datafolha poll showed Bolsonaro at 49 percent to Lula's 45 in a simulated runoff, a technical tie within the 2-point margin of error, with 5 percent blank and 1 percent undecided; Datafolha surveyed 2,520 people in person October 6-7.
 

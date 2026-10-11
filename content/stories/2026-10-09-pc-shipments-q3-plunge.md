@@ -1,7 +1,7 @@
 ---
 title: "Global PC shipments plunge 21 percent as AI memory shortage bites"
 date: 2026-10-09T11:48:02-04:00
-last_updated: 2026-10-09T11:48:02-04:00
+last_updated: 2026-10-11T07:12:03-0400
 beats:
 - technology
 regions:
@@ -18,8 +18,12 @@ sources:
   publisher: "The Register"
   url: "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264"
   published: "2026-10-09"
+- title: "PC Market Woes Continue: Shipments Fall 20.1% in Q3 2026 as Pull-In Hangover and Supply Constraints Bite"
+  publisher: "IDC"
+  url: "https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/"
+  published: "2026-10-08"
 tags: []
-data_as_of: "The Register reporting October 9, 2026, citing Omdia and IDC Q3 2026 figures; article opened and read directly."
+data_as_of: "IDC Q3 2026 tracker (published Oct 8) and Omdia estimates, via The Register October 9, 2026; IDC's own press release confirms the 20.1% decline to 62.7M units and the 9.1% sequential drop. Article and press release both read directly."
 ---
 
 Worldwide shipments of desktops, notebooks and workstations fell 21.2 percent year on year to 58.1 million units in the third quarter, according to Omdia, with IDC estimating a 20.1 percent decline to 62.7 million units. The downturn follows a first-half rush in which manufacturers and corporate buyers pulled orders forward to beat anticipated price increases, leaving the channel with excess inventory and fewer buyers in Q3.

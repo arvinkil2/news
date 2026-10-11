@@ -1,7 +1,7 @@
 ---
 title: "Standard Bank backs OPay with up to $200 million IPO stake"
 date: 2026-10-10T07:10:52-04:00
-last_updated: 2026-10-10T07:10:52-04:00
+last_updated: 2026-10-11T07:14:05-04:00
 beats:
 - infra-deals
 regions:
@@ -16,6 +16,10 @@ sources:
   publisher: "BusinessDay Nigeria"
   url: "https://businessday.ng/technology/article/standard-bank-moves-for-up-to-200m-opay-stake-ahead-of-nyse-listing/"
   published: "2026-10-09"
+- title: "SoftBank-backed OPay secures $185m ahead of US IPO"
+  publisher: "Tech in Asia (via Bloomberg)"
+  url: "https://www.techinasia.com/news/softbankbacked-opay-secures-185m-ipo"
+  published: "2026-10-11"
 tags: []
 data_as_of: "Reported October 9, 2026, per OPay's SEC registration statement. Private placement subject to the IPO completing and regulatory approvals."
 ---
@@ -25,3 +29,5 @@ Standard Bank Group will invest as much as $200 million in OPay through Stanbic 
 OPay's numbers show why the bank wants in: revenue more than doubled to $467.1 million in the first half of 2026 with net income of $90.9 million, after $536.3 million of 2025 revenue and a swing to $72.5 million of net income from a $50.8 million 2024 loss. It had 50.1 million monthly active users at the end of July and $339.1 billion of gross transaction value in the first half, with Nigeria accounting for 89.5 percent of revenue. Pre-offering shareholders include founder Zhou Yahui at 21.3 percent, Opera at 8.6 percent and SoftBank at 6.6 percent from its 2021 round at a roughly $2 billion valuation.
 
 The relationship goes beyond capital: the companies signed a non-binding memorandum of understanding in August to explore combining Standard Bank's banking infrastructure and African footprint with OPay's merchant network across digital banking, payments, lending and remittances. Standard Bank of South Africa is also one of four representatives of the IPO underwriters alongside Citigroup, Deutsche Bank and CICC, and Africa Regions chief executive Lungisa Fuzile is expected to join OPay's board as a non-executive director once the placement closes.
+
+A follow-on reading of the October 9 prospectus puts the expected private-placement amount at about $185 million, below the $200 million ceiling, with the final figure dependent on currency movements and the IPO price. OPay plans the NYSE listing first, before a later listing on the Nigerian Exchange.

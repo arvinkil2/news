@@ -1,7 +1,7 @@
 ---
 title: US sanctions Iran's remaining shadow fleet in new offensive
 date: 2026-10-09T07:14:58-04:00
-last_updated: 2026-10-10T09:56:13-04:00
+last_updated: 2026-10-11T07:12:10-0400
 beats:
 - politics
 regions:
@@ -31,13 +31,19 @@ sources:
   publisher: Marine Insight
   url: https://www.marineinsight.com/sri-lanka-weighs-u-s-sanction-risks-as-stranded-iranian-ships-run-low-on-supplies/
   published: '2026-10-10'
+- title: "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms"
+  publisher: "Associated Press"
+  url: "https://www.nprillinois.org/2026-10-09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
+  published: '2026-10-09'
 tags: []
-data_as_of: "Treasury press release SB0653, October 8, 2026 (read directly). OFAC recent actions for October 8 also list Iran-related designations, an Iran-related general license and an amended Russia-related general license; the specific designations in this action are per E.O. 13902. Midday update: State Department's separate tranche (10 entities, six individuals, five vessels) per Marine Insight, October 9; article opened and read directly. October 10 update: OFAC recent actions page for October 9 (read directly) issuing Russia-related General License 135 on Russian diesel fuel transactions. Sri Lanka strandings per Marine Insight, October 10 (article opened and read in full); the US Embassy instruction to deny resupply is per unnamed sources in that report."
+data_as_of: "Treasury press release SB0653, October 8, 2026 (read directly). OFAC recent actions for October 8 also list Iran-related designations, an Iran-related general license and an amended Russia-related general license; the specific designations in this action are per E.O. 13902. Midday update: State Department's separate tranche (10 entities, six individuals, five vessels) per Marine Insight, October 9; article opened and read directly. October 10 update: OFAC recent actions page for October 9 (read directly) issuing Russia-related General License 135 on Russian diesel fuel transactions. Sri Lanka strandings per Marine Insight, October 10 (article opened and read in full); the US Embassy instruction to deny resupply is per unnamed sources in that report. October 11 AM update: Trump-Putin diesel call details and phased delivery volumes (300,000/500,000/1 million/3 million tons; licence through April 7, 2027) per AP and PTI; Zelenskyy reaction per AP."
 ---
 
 **Latest (Saturday, October 10):** The sanctions are now stranding ships at sea: at least 19 Iranian cargo vessels sit at anchor about 24 nautical miles off Sri Lanka, running low on fuel, food and fresh water, with companies refusing to resupply them for fear of US sanctions. Sri Lanka's Foreign Ministry confirmed their position and said it received no formal US message asking it not to help, but per unnamed sources the US Embassy in Colombo has been tracking the vessels and instructed local businesses to deny resupply or risk sanctions. The stranded crews are described as being in poor conditions, told to bring their own food and unable to wash to save water, while Iran's corn and industrial-equipment imports stall.
 
 **Latest (Saturday, October 10):** OFAC published its October 9 action issuing Russia-related General License 135, authorizing transactions related to the sale, delivery, offloading and importation of diesel fuel of Russian Federation origin. The new license lands one day after the shadow-fleet designations, suggesting Treasury is calibrating the pressure campaign: tightening the squeeze on Iranian barrels while carving out space for Russian diesel flows, a move oil markets will read against Trump's promise that fuel prices will drop after the November 3 midterms.
+
+The diesel carve-out is now attached to a phone call. Trump said Friday he struck a diesel supply arrangement with Vladimir Putin in a conversation initially expected to cover a suspected plague case in Russia: per Trump's posts, Russia would immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November and a million tons "immediately thereafter," with another 3 million tons after that depending on refinery conditions. The Treasury licence text authorizes the transactions through 12:01 a.m. EDT on April 7, 2027. The reversal is stark against the sweeping Russia sanctions law Trump signed last month; Zelenskyy called it "a weak decision, unfortunately, a weak decision by strong partners," and warned the arrangement finances Moscow's war machine, per the Associated Press. The announcement came as envoys Steve Witkoff and Jared Kushner were meeting Ukrainian officials about a settlement proposal.
 
 The State Department announced a separate tranche of sanctions the same day, targeting 10 entities, six individuals and five vessels involved in trading Iranian-origin petroleum or petrochemical products. Treasury separately sanctioned another 17 entities and vessels linked to the shadow fleet as part of the campaign. Rolling the Treasury and State actions together, the combined designations cover 22 vessels and 27 companies plus six individuals, spanning operators, maritime management companies and trading firms in Turkiye, China, the UAE, the UK and the Marshall Islands. Named vessels include the Panama-flagged STARWAY, reported to have carried more than three million barrels of Iranian naphtha since 2025, and the Bahamas-flagged LPG tanker GAS LUCKY, reported to have moved more than 500,000 barrels of Iranian ethylene. Two vessels previously listed in June 2025, the HAKUNA MATATA and PINOCCHIO, were delisted after being sold to non-sanctioned, US-aligned operators.
 
