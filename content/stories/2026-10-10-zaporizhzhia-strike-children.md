@@ -1,13 +1,13 @@
 ---
-title: "Russian glide bombs kill at least 15 in Zaporizhzhia, including three children"
+title: "Russian glide bombs kill 23 in Zaporizhzhia, including four children"
 date: 2026-10-10T05:42:24-04:00
-last_updated: 2026-10-10T16:56:43-04:00
+last_updated: 2026-10-11T06:42:01-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
 developing: true
 update_bump: true
-lede: "The death toll from Saturday's Russian glide-bomb strike on Zaporizhzhia rose to around 20, including children, France24 reported Saturday evening, as rescue work continued at the destroyed apartment block."
+lede: "The death toll from Saturday's Russian glide-bomb strike on Zaporizhzhia rose to 23, including four children, Zelensky said Sunday, after rescue workers cleared 320 tons of rubble from the destroyed apartment block."
 why_it_matters: "The deadliest strike in a week that has killed dozens across Ukraine landed hours after Trump's diesel deal with Putin, and Zelensky used it to argue that any easing of pressure on Moscow reads as permission to keep attacking."
 featured: false
 evidence_grade: "C"
@@ -28,9 +28,15 @@ sources:
     publisher: "France24 (English)"
     url: "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children"
     published: "2026-10-10"
+  - title: "Ukraine will halt strikes on refineries if Russia stops energy attacks, Zelenskiy says"
+    publisher: "Reuters"
+    url: "https://q1019fm.com/2026/10/11/ukraine-will-halt-strikes-on-refineries-if-russia-stops-energy-attacks-zelenskiy-says/"
+    published: "2026-10-11"
 tags: []
-data_as_of: "Accordmere October 10, 2026 (article opened and read in full; cites AP and Ukrinform). MyJoyOnline October 10, 2026 (article opened and read in full; casualty figures from Zelensky and Ukrainian emergency services). Casualty figures are Ukrainian officials' claims and the toll is provisional; weapon-type and responsibility claims are not independently verified. France24's live coverage of the same strike corroborates the headline facts. Saturday evening update: France24's French service put the Zaporizhzhia toll at 20 and its English service at 21 including children, both cited from feed metadata; figures remain provisional and Ukrainian-sourced."
+data_as_of: "Accordmere October 10, 2026 (article opened and read in full; cites AP and Ukrinform). MyJoyOnline October 10, 2026 (article opened and read in full; casualty figures from Zelensky and Ukrainian emergency services). Casualty figures are Ukrainian officials' claims and the toll is provisional; weapon-type and responsibility claims are not independently verified. France24's live coverage of the same strike corroborates the headline facts. Saturday evening update: France24's French service put the Zaporizhzhia toll at 20 and its English service at 21 including children, both cited from feed metadata; figures remain provisional and Ukrainian-sourced. Sunday, October 11: Zelensky put the toll at 23, including four children, per Reuters wire text read through syndicated republications; figures remain provisional."
 ---
+
+**Latest (Sunday):** Zelensky said the Zaporizhzhia death toll had risen to 23, including four children, after rescue workers cleared 320 tons of rubble from the apartment block destroyed by Saturday's glide-bomb strike. The toll had stood at around 20-21 on Saturday evening. Figures remain provisional and come from Ukrainian officials.
 
 **Latest (Saturday evening):** France24 reported the Zaporizhzhia death toll had reached around 20, its French service citing 20 dead and its English service reporting 21 killed across the Russian strikes including children, as rescue workers continued searching the rubble of the destroyed apartment block. The toll had stood at 15 on Saturday morning. Figures remain provisional and come from Ukrainian officials.
 
