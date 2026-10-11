@@ -28,8 +28,12 @@ sources:
   publisher: "TSN (Ukrainian)"
   url: "https://tsn.ua/svit/u-polshchi-hotuvaly-zamakh-na-premyera-tuska-ta-hlavu-minoborony-3186639.html"
   published: "2026-10-11"
+- title: "Tusk: 'Arrestato il presunto attentatore che voleva colpire me e il ministro della difesa' (in Italian)"
+  publisher: "ANSA"
+  url: "https://www.ansa.it/sito/notizie/mondo/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_e7bb0423-a604-4634-b0d9-a5fab7717e33.html"
+  published: "2026-10-11"
 tags: []
-data_as_of: "Sunday morning, October 11, 2026: AP article opened and read in full; TSN (in Ukrainian) opened and read in full; Reuters wire text read via syndicated republication. All three report the same Polish government announcement. The underlying threat is the Polish authorities' claim; no further detail about the plot or its source has been disclosed. Sunday midday: DW article (by Karl Sexton, with AP/dpa/Reuters) opened and read in full via a live browser; Tusk's X post and the Interior Minister's confirmation of the arrest are their own announcements; the man's identity was not disclosed."
+data_as_of: "Sunday morning, October 11, 2026: AP article opened and read in full; TSN (in Ukrainian) opened and read in full; Reuters wire text read via syndicated republication. All three report the same Polish government announcement. The underlying threat is the Polish authorities' claim; no further detail about the plot or its source has been disclosed. Sunday midday: DW article (by Karl Sexton, with AP/dpa/Reuters) opened and read in full via a live browser; Tusk's X post and the Interior Minister's confirmation of the arrest are their own announcements; the man's identity was not disclosed. Sunday evening: ANSA (in Italian, read via live browser) corroborates the arrest — Tusk announced it on X at 18:03 Warsaw time and Interior Minister Kierwinski confirmed it on X; the man's identity remains undisclosed and no Russian link is alleged in the ANSA account."
 ---
 
 **Latest (Sunday, October 11, midday):** a man has been detained. Poland on Sunday detained a man accused of plotting to assassinate Prime Minister Donald Tusk and Defence Minister Władysław Kosiniak-Kamysz, Deutsche Welle reported. Tusk confirmed the arrest on X, writing that "the man threatening an attack has been detained" and praising the police for "swift and decisive action"; the Interior Minister also confirmed it. The arrest followed an emergency meeting of Poland's security services convened after the morning's tip-off. No details of the man's identity have been made public.
