@@ -1,7 +1,7 @@
 ---
 title: "Week ahead: CPI prints, French budget debate, EU summit"
-date: 2026-10-12T07:00:00-04:00
-last_updated: 2026-10-11T18:02:47-04:00
+date: 2026-10-11T18:08:56-04:00
+last_updated: 2026-10-11T18:08:56-04:00
 beats: ["politics"]
 regions: ["global"]
 status: "story"
