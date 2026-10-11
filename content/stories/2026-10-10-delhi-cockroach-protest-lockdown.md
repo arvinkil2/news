@@ -1,14 +1,14 @@
 ---
 title: "Delhi locks down as youth movement leaders detained before protest"
 date: 2026-10-10T03:52:11-04:00
-last_updated: 2026-10-10T07:10:55-04:00
+last_updated: 2026-10-11T03:53:03-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Indian police detained Cockroach Janta Party founder Abhijeet Dipke and two other leaders off their plane at New Delhi airport on Saturday as a sealed capital, 57 metro stations shut and mobile internet cut around the protest site, awaited the movement's planned rally demanding the Election Commission chief's resignation."
-why_it_matters: "The 'Season 2' protest tests whether the irreverent Gen-Z movement that forced an education minister's resignation in July can generate street pressure on the Election Commission itself, mid-way through a voter-roll purge that has struck more than 130 million names from draft lists."
+lede: "A Delhi court ordered the release of the three Cockroach Janta Party leaders early Sunday on a one-year no-breach-of-peace bond after nearly 24 hours in detention, as the movement called a fresh march to Jantar Mantar and India's Supreme Court held a rare Sunday hearing on the capital's transport lockdown."
+why_it_matters: "The court-ordered release plus a rare Sunday Supreme Court hearing turn Saturday's street confrontation into a legal test of the detentions and Delhi's lockdown measures, while the movement's push into Mumbai and more cities keeps pressure on the Election Commission mid-way through a voter-roll purge affecting more than 130 million names."
 featured: false
 evidence_grade: "B"
 sources:
@@ -32,9 +32,21 @@ sources:
     publisher: "The Business Standard (Dhaka)"
     url: "https://www.tbsnews.net/world/south-asia/pressure-mounts-india-poll-chief-gyanesh-kumar-over-voter-list-changes-1567976"
     published: "2026-10-10"
+  - title: "India court orders release of 'cockroach' movement leaders"
+    publisher: "DW (live blog)"
+    url: "https://www.dw.com/en/india-court-orders-release-of-cockroach-movement-leaders/live-79631190?maca=en-rss-en-all-1573-xml-mrss"
+    published: "2026-10-11"
+  - title: "India's 'Cockroach' Leaders Released as New Delhi Braces for More Protests"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
+    published: "2026-10-11"
 tags: []
-data_as_of: "Arab News, October 10, 2026 (article opened and read in full; detentions as reported by the party; 57 metro stations and 4km internet radius per ANI via Arab News, single-sourced). SIR background (130M+ names, 14 objections) corroborated by a Reuters-sourced newsmaker via The Business Standard; France24 and Al Jazeera corroborate the detentions at headline level. France24 and DW explainer domains were fetch-blocked for text; their claims were not restated."
+data_as_of: "Arab News, October 10, 2026 (article opened and read in full; detentions as reported by the party; 57 metro stations and 4km internet radius per ANI via Arab News, single-sourced). SIR background (130M+ names, 14 objections) corroborated by a Reuters-sourced newsmaker via The Business Standard; France24 and Al Jazeera corroborate the detentions at headline level. France24 and DW explainer domains were fetch-blocked for text; their claims were not restated. Sunday, Oct 11: court-ordered release of Dipke, Ranka and Das with one-year no-breach-of-peace condition (Rs 50,000 bond per ANI/Delhi Police); Rathee released overnight per anonymous Interior Ministry official via Reuters (single-sourced); Supreme Court rare Sunday hearing; Saturday detention counts (Shinde 15,000+ claim vs The Hindu's police-source 2,500+1,000); fresh Sunday Jantar Mantar march and Mumbai 4 p.m. protest announced - via DW live blog and NYT, both opened and read in full by a browser task."
 ---
+**Latest (Sunday, October 11):** A Delhi executive court ordered the release of CJP founder Abhijeet Dipke, co-convener Ashutosh Ranka and Saurav Das early Sunday after nearly 24 hours in detention, with a one-year condition of "no breach of peace" (ANI cited Delhi Police saying a 50,000-rupee bond was imposed for "maintaining peace and good behavior"). The party had alleged the three were held at an undisclosed location without access to lawyers. Influencer Dhruv Rathee, detained at his Gurugram home on Saturday, was released overnight on condition he take part in no further protests, per an anonymous Interior Ministry official cited by Reuters (single-sourced). India's Supreme Court held a rare Sunday hearing on a contempt petition over the capital's transport restrictions, alongside petitions challenging the detentions. The movement called a fresh march to Jantar Mantar on Sunday, announced a Mumbai protest at 4 p.m. local time with more cities to follow, and scheduled a 2 p.m. press conference; interim leader Ajinkya Shinde said "We're not backing down!" The CJP's X account posted "Cockroaches never die" after the release.
+
+**Latest (Sunday, October 11):** DW reported Saturday's Delhi protest was met by a "mammoth deployment" of police and paramilitary who outnumbered demonstrators, with mobile internet suspended in central Delhi, more than 50 metro stations closed and trains to two major stations canceled (partly reversed after a Supreme Court order). Organization chief Ajinkya Shinde claimed 15,000+ supporters were detained across India; The Hindu cited police sources saying 2,500 were detained in Delhi plus 1,000 in overnight preventive pickups, all released Saturday per Delhi Police. Four former chief ministers were briefly detained. In Mumbai, about 600 protesters including Tushar Gandhi and actor Imran Khan were detained and later released. France24's article could not be read (france24.com unreachable from the fetcher); the court-release facts are carried by DW's live blog and the NYT, both read in full.
+
 
 Indian police boarded a plane on Saturday to detain Abhijeet Dipke, founder of the satirical Cockroach Janta Party (CJP), as he landed at New Delhi's Indira Gandhi International Airport for the youth movement's planned protest, the party said. Dipke, co-conveners Saurav Das and Ashutosh Ranka were stopped inside the aircraft after their flight arrived from Mumbai; the party said police had detained thousands of supporters in several states on Friday.
 
