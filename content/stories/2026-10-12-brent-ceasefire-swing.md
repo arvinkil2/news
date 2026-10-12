@@ -1,13 +1,13 @@
 ---
 title: "Brent slips below $104 as ceasefire hopes offset Gulf attacks"
 date: 2026-10-12T07:14:41-04:00
-last_updated: 2026-10-12T10:01:16-04:00
+last_updated: 2026-10-12T18:05:13-04:00
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
 update_bump: true
-lede: "Brent crude fell about 1.5 percent Monday morning to around $103.50 a barrel on hopes of a Russia-Ukraine energy ceasefire, even as the truce was already fraying by midday: Zelenskyy accused Moscow of violating the deal within hours of Trump's Sunday announcement, Macron saw no Russian compliance in 48 hours, and the EU answered with its largest sanctions expansion of the war."
-why_it_matters: "The supply-reprieve trade may be short-lived: Kyiv says Russian strikes on its energy infrastructure continued through the weekend while Brussels added nearly 1,600 sanctions listings, the war's largest expansion, undercutting the bullish-for-supply thesis. Oil is now trading two competing wars, and with Goldman estimating a $20-plus risk premium, Brent is holding the $100 line regardless."
+lede: "President Trump conceded Monday evening that both sides had violated the energy ceasefire he announced on Sunday, while insisting Russia and Ukraine had agreed to it because he told them they must; Brent had fallen about 1.5 percent Monday morning to around $103.50 a barrel on ceasefire hopes, even as Zelenskyy accused Moscow of violating the deal within hours and the EU answered with its largest sanctions expansion of the war."
+why_it_matters: "The ceasefire's own author now describes it as breached by both sides, which leaves the supply-reprieve trade resting on a truce neither belligerent has publicly accepted in detail. Kyiv says Russian strikes on its energy infrastructure continued through the weekend while Brussels added nearly 1,600 sanctions listings, the war's largest expansion. Oil is now trading two competing wars, and with Goldman estimating a $20-plus risk premium, Brent is holding the $100 line regardless."
 featured: false
 evidence_grade: "B"
 sources:
@@ -31,9 +31,15 @@ sources:
     publisher: "OilPrice.com"
     url: "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html"
     published: "2026-10-12"
+  - title: "Trump says Putin wants a deal more than Zelenskyy does (in Ukrainian)"
+    publisher: "UNIAN"
+    url: "https://www.unian.ua/world/tramp-stverdzhuye-shcho-putin-bilshe-hoche-ukladannya-ugodi-nizh-zelenskiy-13526847.html"
+    published: "2026-10-12"
 tags: []
-data_as_of: "Monday, October 12, 2026. Brent December futures and WTI November futures Monday morning per Interfax (Moscow 8:14 AM); Monday 0154 GMT moves per Reuters relay; BMI forecast per CNBC via OilPrice. Friday closes $104.72 (Brent) and $91.85 (WTI). Monday mid-morning: Al Jazeera article opened and read in full (Zelenskyy's Warsaw Security Forum remarks, Macron and Tusk comments, EU sanctions expansion, Naftogaz Kharkiv attack); OilPrice 'Oil Stuck' piece opened and read in full (Monday early-morning price levels, ING analysts' note on Persian Gulf flows and gasoil cracks)."
+data_as_of: "Updated Monday evening, October 12, 2026: UNIAN report (in Ukrainian, opened and read in full) of Trump's Monday-evening exchange with journalists. Earlier Monday, October 12, 2026. Brent December futures and WTI November futures Monday morning per Interfax (Moscow 8:14 AM); Monday 0154 GMT moves per Reuters relay; BMI forecast per CNBC via OilPrice. Friday closes $104.72 (Brent) and $91.85 (WTI). Monday mid-morning: Al Jazeera article opened and read in full (Zelenskyy's Warsaw Security Forum remarks, Macron and Tusk comments, EU sanctions expansion, Naftogaz Kharkiv attack); OilPrice 'Oil Stuck' piece opened and read in full (Monday early-morning price levels, ING analysts' note on Persian Gulf flows and gasoil cracks)."
 ---
+
+**Latest (Monday, October 12, evening):** Trump himself now says the ceasefire has been breached by both sides. Asked by journalists on Monday evening about reports that Russia had violated the energy ceasefire he announced on Sunday, Trump replied that there had been violations from both sides, UNIAN reported. He insisted both countries had genuinely agreed to the arrangement, saying they did so because he told them they had to agree. He also said he believes Putin wants to conclude a deal and that Zelenskyy needs to be persuaded to want one too, and he described his diesel arrangement with Russia as a deal made for the rest of the world, not for himself. Treasury Secretary Scott Bessent, in the same news cycle, called European criticism of the diesel deal hypocritical, arguing Europeans have sent Russia more money than Ukraine since the war began because they still buy Russian energy. None of it changes the underlying gap: Kyiv still says it has not seen the deal's terms, and Moscow has not publicly confirmed a ceasefire it is now accused by Washington of breaching.
 
 **Latest (Monday, October 12, mid-morning):** the truce that drove the morning price drop is already fraying. Ukraine's Volodymyr Zelenskyy told the Warsaw Security Forum on Monday that Russia had already violated the "energy ceasefire" Trump announced Sunday, saying Kyiv was surprised by the announcement ("news to him") and was still waiting for the details of the US-Russia conditions. Zelenskyy urged Washington to step in and ensure Moscow respected the arrangement: "If Russia does not agree to an energy ceasefire, we will respond." European leaders backed his skepticism: French President Emmanuel Macron said he had seen no sign of an energy ceasefire from the Russian side in the previous 48 hours, and Polish Prime Minister Donald Tusk said Russia was not interested in de-escalation and that he would urge EU partners in Brussels to increase sanctions. The EU answered Monday by adding almost 1,600 new listings targeting Russia's military-industrial complex, the single largest expansion of its sanctions list since the war began, per foreign policy chief Kaja Kallas. On the ground, Russia attacked Ukrainian gas production facilities belonging to state company Naftogaz in the Kharkiv region overnight, sparking a fire that damaged critical equipment, the company said Monday. Zelenskyy added Sunday that Ukraine was ready to halt strikes on Russian oil refineries if Moscow stopped attacking Ukrainian energy infrastructure.
 

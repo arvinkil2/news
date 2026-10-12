@@ -1,13 +1,13 @@
 ---
 title: "North Korea fired two ballistic missiles, Seoul says"
 date: 2026-10-11T21:51:23-04:00
-last_updated: 2026-10-11T22:58:01-04:00
+last_updated: 2026-10-12T18:05:13-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "North Korea fired two ballistic missiles of different types from near Pyongyang early Monday, South Korea's military said, with one flying more than 900 km; Seoul called it a show of force answering the South's own hypersonic test last week."
+lede: "North Korea has confirmed Monday's launches were a tactical ballistic missile test, with state media KCNA saying the Missile General Bureau tested a renewed core element and calling the result a major achievement; South Korea's military said several missiles were fired from near Pyongyang, one flying more than 900 km."
 why_it_matters: "The launches, the North's fourth missile test in a month, sharpen the tit-for-tat cycle between the Koreas and, analysts say, build Pyongyang's leverage ahead of a possible Kim-Trump summit."
 featured: false
 evidence_grade: "B"
@@ -20,9 +20,15 @@ sources:
     publisher: "TASS (Russian state-affiliated), account of Japan's claim"
     url: "https://tass.ru/mezhdunarodnaya-panorama/28204079"
     published: "2026-10-11"
+  - title: "North confirms tactical ballistic missile test, calls it a major achievement heralding significant change (in Korean)"
+    publisher: "Yonhap"
+    url: "https://www.yna.co.kr/view/AKR20261013011000504"
+    published: "2026-10-13"
 tags: []
-data_as_of: "Sunday, October 11, 2026 (ET): the Daily Maverick piece relaying Reuters (Seoul/Tokyo reporting) was opened and read in full; the earlier TASS item (in Russian) carried Japan's Coast Guard claim. Pyongyang has not commented; missile-type characterizations are the militaries', not independently verified."
+data_as_of: "Updated Monday, October 12, 2026 (ET): Yonhap report (in Korean, opened and read in full) of KCNA's October 13 statement confirming the October 12 test; KCNA is North Korean state media and its performance claims are Pyongyang's account. Earlier: the Daily Maverick piece relaying Reuters (Seoul/Tokyo reporting) was opened and read in full; the earlier TASS item (in Russian) carried Japan's Coast Guard claim."
 ---
+
+**Latest (Monday evening):** Pyongyang has now confirmed the launches. KCNA said the Missile General Bureau conducted a tactical ballistic missile test launch on October 12 to verify the technical renewal of an important core element, describing the work as part of the bureau's normal activity to upgrade weapons systems, Yonhap reported. The bureau called the confirmed renewal a major achievement that heralds a significant change in improving the performance and precision of all its offensive weapon systems. The announcement ran only on KCNA, the North's external-facing state wire, and not in the Rodong Sinmun newspaper read inside the country. South Korea's Joint Chiefs said analysis so far shows several ballistic missiles of different types were fired, with one type flying more than 900 km, and that the 900 km weapon may have been a medium-range missile tested at reduced range.
 
 **Latest (Sunday night):** South Korea's military has now confirmed the launches in detail, upgrading the story beyond the earlier Japanese claim. The two ballistic missiles, which appeared to be of different types, were fired at around 9:20 a.m. local time Monday (0020 GMT) from near Pyongyang, and one type flew more than 900 km (559 miles), South Korea's Joint Chiefs of Staff said. Japan's coast guard had earlier said North Korea fired two unidentified projectiles, believed to be ballistic missiles, that appeared to have already fallen. South Korea's National Security Office convened an emergency meeting, condemned the launches as violations of UN Security Council resolutions, and urged an immediate stop.
 
