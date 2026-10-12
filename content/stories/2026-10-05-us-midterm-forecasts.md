@@ -1,15 +1,18 @@
 ---
 title: Cook shifts three Senate races toward Democrats
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-10T07:12:10-04:00
+last_updated: 2026-10-12T07:15:36-04:00
 beats:
 - politics
 status: story
-lede: The Cook Political Report's October 6 update moved Kansas to Toss Up, New Hampshire
-  to Lean Democrat and North Carolina to Likely Democrat, and now projects a two-to-six-seat
-  Democratic pickup, inside the four seats needed for a Senate majority.
+lede: Elon Musk has funneled more than $276 million into Republican groups and his
+  super PAC since July, the New York Times reports, making him the largest known
+  donor of the midterms, as South Carolina's lone Senate debate turned testy Sunday
+  night and the Cook Political Report's October 6 update moved three Senate races
+  toward Democrats.
 why_it_matters: A Democratic Senate would hand the party control of judicial confirmations
-  and Iran-war spending oversight 26 days before the midterms.
+  and Iran-war spending oversight 22 days before the midterms; Musk's money is the
+  GOP's answer to the map's drift toward Democrats.
 featured: false
 evidence_grade: B
 sources:
@@ -85,11 +88,28 @@ sources:
   publisher: Signal Ohio
   url: https://signalohio.org/vice-president-jd-vance-campaigns-to-keep-his-former-u-s-senate-seat-in-republican-hands/
   published: '2026-10-09'
+- title: "Inside Elon Musk's Midterm Rescue Mission for Republicans"
+  publisher: The New York Times (via Political Wire)
+  url: https://politicalwire.com/2026/10/12/inside-elon-musks-midterm-rescue-mission-for-republicans/
+  published: '2026-10-12'
+- title: "Musk donated over $276M to Republican groups since July: NYT"
+  publisher: Seeking Alpha
+  url: https://seekingalpha.com/news/4651988-musk-donated-over-276m-to-republican-groups-since-july-nyt
+  published: '2026-10-12'
+- title: Online feud spills onto South Carolina stage as Darline Graham, Annie Andrews
+    snipe in Senate debate
+  publisher: Associated Press (via Reflector)
+  url: https://www.reflector.com/news/national/online-feud-spills-onto-south-carolina-stage-as-darline-graham-annie-andrews-snipe-in-senate/article_079391e4-6a73-5fe0-aaa3-8bcba26a2cb8.html
+  published: '2026-10-11'
 tags: []
-data_as_of: "October 10 Saturday update adds state-by-state Senate deltas. Poll numbers traced to named pollsters with field dates in body; polls reported only through secondary aggregators (The Hill, NYT, Bloomberg blocked by policy) are flagged in text. Pennsylvania bellwether and NYT wave-caution items single-sourced."
+data_as_of: "October 10 Saturday update adds state-by-state Senate deltas. Poll numbers traced to named pollsters with field dates in body; polls reported only through secondary aggregators (The Hill, NYT, Bloomberg blocked by policy) are flagged in text. Pennsylvania bellwether and NYT wave-caution items single-sourced. October 12: Musk $276M figures are single-sourced to the NYT dispatch (via Political Wire and Seeking Alpha relays); the SC debate outline is corroborated by AP (via Reflector) and an independent debate summary."
 regions:
 - north-america
 ---
+
+**Latest (Monday, October 12):** the money race went vertical. Elon Musk has "quietly funneled more than $276 million into Republican groups and his super PAC since the start of July," the New York Times reports, building a turnout operation to battle the party's midterm headwinds. The breakdown: $158 million to the Senate Leadership Fund and more than $76 million to his own America PAC, per the same reporting. The Times calls Musk "by far the largest known donor in the midterms." Both figures trace to a single NYT dispatch (via relays; nytimes.com is blocked for direct fetch), so treat the totals as reported, not independently confirmed. They also extend the known pattern: Axios reporting earlier this fall had Musk reviving his dormant super PAC for door-knocking and digital ads aimed at low-propensity conservatives, after he spent at least $288 million helping Republicans in 2024.
+
+**Latest (Monday, October 12):** South Carolina's Senate race finally got its debate, and it was the only one scheduled. Republican Sen. Darline Graham, appointed to the seat and in office just three months, faced Democrat Annie Andrews, a pediatrician, and Libertarian Kasie Whitener on Sunday night in Columbia, hosted by South Carolina ETV and Public Radio, per the Associated Press. Graham sought to tie Andrews to the Democratic Socialists of America and called her a "radical liberal" over Medicare for All-style policies; Andrews questioned Graham's readiness for a full six-year term, reviving Graham's primary-debate gaffe on Taiwan ("national security is not my thing") and asking, "If your surgeon said that appendectomies aren't really his thing, would you still hand him a scalpel?" The issues ran from the Iran war (Graham cited her support for the Lindsey O. Graham Sanctioning Russia and Iran Act; Andrews noted 21 American lives lost) to the economy and AI data centers. Graham is the favorite, with Decision Desk HQ forecasting a 70 percent probability she wins, and national Republican groups have pledged about $5 million to shore up the seat. Two weeks of early voting in South Carolina starts October 19. The AP and an independent debate summary corroborate the outline above.
 
 **Latest (Saturday, October 10):** Kansas is now a full-fledged battleground and the Senate map kept moving on Friday. New York Times/Siena polling (605 likely voters, September 22-30) has Kansas dead even, Roger Marshall and Adam Hamilton at 45 percent each, with Libertarian David Graham at 5; Emerson (mid-September) had Hamilton up 45-43 and ahead with independents 42-27, a Democratic-leaning GBAO poll (October 4) had Hamilton up 49-44, and a Republican-aligned co/efficient survey (early September) had Marshall ahead 49-44. Money followed: the Schumer-aligned Senate Majority PAC is launching a $5 million television and digital blitz through Election Day, while the Republican Senate Leadership Fund has booked roughly $8 to $10 million defending Marshall, per AdImpact data. Two former Republican governors have now endorsed Hamilton, the second being Mike Hayden on Friday, and NRSC chair Tim Scott acknowledged the race is "very competitive."
 
