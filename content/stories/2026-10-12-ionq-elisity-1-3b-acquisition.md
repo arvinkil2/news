@@ -1,7 +1,7 @@
 ---
 title: "IonQ to buy cybersecurity firm Elisity for up to $1.3 billion"
 date: 2026-10-12T14:57:08-04:00
-last_updated: 2026-10-12T14:57:08-04:00
+last_updated: 2026-10-12T15:04:52-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
@@ -21,9 +21,9 @@ sources:
     url: "https://kelofm.com/2026/10/12/ionq-to-buy-cybersecurity-firm-elisity-in-up-to-1-3-billion-deal/"
     published: "2026-10-12"
 tags: []
-data_as_of: "Monday, October 12, 2026. Company announcement opened and read in full; deal terms corroborated by Reuters. Developing item, 2 to 3 sentences by design."
+data_as_of: "Monday, October 12, 2026. Company announcement opened and read in full; deal terms corroborated by Reuters; afternoon share move per CNBC, read in full via browser. Developing item, 2 to 3 sentences by design."
 ---
 
 IonQ, the quantum computing company, announced a definitive agreement on Monday to buy San Jose based Elisity, founded in 2019, in stock priced off a 20 day average at closing, collared between $33.07 and $49.61 per IonQ share. Elisity sells identity based microsegmentation software, has more than 100 global customer deployments, and says it has doubled revenue and customers year over year with no churn among deployed customers.
 
-Elisity chief executive James Winebrenner will keep leading the business after closing, which needs regulatory approval. IonQ chief executive Niccolo de Masi argued the moment when quantum machines can break widely used encryption is arriving faster than predicted, and Reuters reported IonQ shares fell 2.7 percent in premarket trading on the news.
+Elisity chief executive James Winebrenner will keep leading the business after closing, which needs regulatory approval. IonQ chief executive Niccolo de Masi argued the moment when quantum machines can break widely used encryption is arriving faster than predicted, and the market marked the deal down: IonQ shares fell 2.7 percent in premarket trading per Reuters and were down more than 9 percent in Monday afternoon trading per CNBC, with peers Rigetti Computing and D-Wave Quantum also lower.
