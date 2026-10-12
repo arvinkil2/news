@@ -1,13 +1,13 @@
 ---
 title: "Also notable in politics today around the world"
 date: 2026-10-12T07:15:36-04:00
-last_updated: 2026-10-12T07:15:36-04:00
+last_updated: 2026-10-12T18:52:21-04:00
 beats: ["politics"]
 regions: ["global"]
 status: "story"
 developing: false
-update_bump: false
-lede: "A Senate Republican questions a Trump nominee's finances, Wall Street decamps to Hong Kong ahead of a Trump-Xi summit, Nigeria's 2027 campaign churns, and Zambia's election petition dies on procedure."
+update_bump: true
+lede: "President Trump says he is considering firing Ambassador to Greece Kimberly Guilfoyle, Wall Street decamps to Hong Kong ahead of a Trump-Xi summit, Nigeria's 2027 campaign churns, and Zambia's election petition dies on procedure."
 why_it_matters: "None of these items moves a market on its own, but together they mark the personnel, procedural and diplomatic undercurrents beneath today's headline events."
 featured: false
 evidence_grade: "B"
@@ -15,6 +15,14 @@ sources:
   - title: "Top Senate Republican calls Guilfoyle reports 'very troubling'"
     publisher: "The Hill"
     url: "https://thehill.com/homenews/senate/6142003-barrasso-concerns-guilfoyle-finances/"
+    published: "2026-10-12"
+  - title: "Trump says he is considering firing US ambassador to Greece"
+    publisher: "MyJoyOnline"
+    url: "https://www.myjoyonline.com/trump-says-he-is-considering-firing-us-ambassador-to-greece/"
+    published: "2026-10-12"
+  - title: "Trump says he is looking into Guilfoyle allegations, 'not happy'"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-12/trump-says-he-s-looking-into-guilfoyle-allegations-not-happy"
     published: "2026-10-12"
   - title: "Wall Street, Global Bank Chiefs Convene in Hong Kong Before Trump-Xi Summit"
     publisher: "Bloomberg Markets"
@@ -49,10 +57,10 @@ sources:
     url: "https://www.yna.co.kr/view/AKR20261011054600071"
     published: "2026-10-11"
 tags: []
-data_as_of: "Monday, October 12, 2026. Guilfoyle item is single-sourced to The Hill (thehill.com blocked for direct fetch, cited from feed metadata). Hong Kong bank summit is single-sourced to Bloomberg (paywalled, cited from feed metadata). Korea LNG item is Yonhap (in Korean, cited from feed metadata, translated). EC methane item is a primary Commission publication. All other items are cited from feed metadata at headline level."
+data_as_of: "Updated Monday evening, October 12, 2026: Trump's Guilfoyle remarks via Bloomberg and MyJoyOnline, both opened and read in full. Earlier Monday, October 12, 2026. Guilfoyle finances item is single-sourced to The Hill (thehill.com blocked for direct fetch, cited from feed metadata). Hong Kong bank summit is single-sourced to Bloomberg (paywalled, cited from feed metadata). Korea LNG item is Yonhap (in Korean, cited from feed metadata, translated). EC methane item is a primary Commission publication. All other items are cited from feed metadata at headline level."
 ---
 
-**US: Barrasso questions Guilfoyle reports.** Senate Majority Whip John Barrasso called reports about Kimberly Guilfoyle's finances "very troubling," The Hill reported Monday, a rare public wobble from the Senate GOP leadership toward a Trump nominee. The underlying reports were not readable from here (The Hill is blocked for direct fetch), so treat this as a headline-level development.
+**US: Trump says he may fire Guilfoyle.** President Trump told reporters on Monday that he was considering firing US Ambassador to Greece Kimberly Guilfoyle, saying his administration was looking into the allegations about her and was not happy, Bloomberg and MyJoyOnline reported, in reports opened and read in full. Earlier Monday, Senate Majority Whip John Barrasso called reports about Guilfoyle's finances "very troubling," The Hill reported, a rare public wobble from the Senate GOP leadership toward a Trump appointee. The underlying reports about her finances were not readable from here (The Hill is blocked for direct fetch), so treat that part as a headline-level development.
 
 **Finance/diplomacy: bankers gather in Hong Kong before Trump-Xi summit.** Wall Street and global bank chiefs are convening in Hong Kong ahead of a Trump-Xi summit, Bloomberg reported Monday, a scheduling signal that a leader-level US-China meeting is taking concrete shape. The summit itself has no announced date in the reporting seen; treat as single-sourced.
 
