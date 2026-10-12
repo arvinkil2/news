@@ -1,12 +1,13 @@
 ---
 title: "Brent slips below $104 as ceasefire hopes offset Gulf attacks"
 date: 2026-10-12T07:14:41-04:00
-last_updated: 2026-10-12T07:14:41-04:00
+last_updated: 2026-10-12T10:01:16-04:00
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
-lede: "Brent crude fell about 1.5 percent Monday morning to around $103.50 a barrel as traders priced a possible Russia-Ukraine energy ceasefire, even as the weekend's tanker attacks in the Strait of Hormuz kept prices above $100."
-why_it_matters: "Oil is now trading two competing wars: any Russian supply reprieve pulls prices down while Gulf tanker attacks push them up, and with Goldman estimating a $20-plus risk premium, Brent is holding the $100 line regardless."
+update_bump: true
+lede: "Brent crude fell about 1.5 percent Monday morning to around $103.50 a barrel on hopes of a Russia-Ukraine energy ceasefire, even as the truce was already fraying by midday: Zelenskyy accused Moscow of violating the deal within hours of Trump's Sunday announcement, Macron saw no Russian compliance in 48 hours, and the EU answered with its largest sanctions expansion of the war."
+why_it_matters: "The supply-reprieve trade may be short-lived: Kyiv says Russian strikes on its energy infrastructure continued through the weekend while Brussels added nearly 1,600 sanctions listings, the war's largest expansion, undercutting the bullish-for-supply thesis. Oil is now trading two competing wars, and with Goldman estimating a $20-plus risk premium, Brent is holding the $100 line regardless."
 featured: false
 evidence_grade: "B"
 sources:
@@ -22,9 +23,19 @@ sources:
     publisher: "OilPrice.com"
     url: "https://oilprice.com/Latest-Energy-News/World-News/BMI-Predicts-Brent-Crude-Will-Remain-Above-100-for-Months"
     published: "2026-10-12"
+  - title: "Ukraine's Zelenskyy accuses Russia of violating Trump's 'energy ceasefire'"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss"
+    published: "2026-10-12"
+  - title: "Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html"
+    published: "2026-10-12"
 tags: []
-data_as_of: "Monday, October 12, 2026. Brent December futures and WTI November futures Monday morning per Interfax (Moscow 8:14 AM); Monday 0154 GMT moves per Reuters relay; BMI forecast per CNBC via OilPrice. Friday closes $104.72 (Brent) and $91.85 (WTI)."
+data_as_of: "Monday, October 12, 2026. Brent December futures and WTI November futures Monday morning per Interfax (Moscow 8:14 AM); Monday 0154 GMT moves per Reuters relay; BMI forecast per CNBC via OilPrice. Friday closes $104.72 (Brent) and $91.85 (WTI). Monday mid-morning: Al Jazeera article opened and read in full (Zelenskyy's Warsaw Security Forum remarks, Macron and Tusk comments, EU sanctions expansion, Naftogaz Kharkiv attack); OilPrice 'Oil Stuck' piece opened and read in full (Monday early-morning price levels, ING analysts' note on Persian Gulf flows and gasoil cracks)."
 ---
+
+**Latest (Monday, October 12, mid-morning):** the truce that drove the morning price drop is already fraying. Ukraine's Volodymyr Zelenskyy told the Warsaw Security Forum on Monday that Russia had already violated the "energy ceasefire" Trump announced Sunday, saying Kyiv was surprised by the announcement ("news to him") and was still waiting for the details of the US-Russia conditions. Zelenskyy urged Washington to step in and ensure Moscow respected the arrangement: "If Russia does not agree to an energy ceasefire, we will respond." European leaders backed his skepticism: French President Emmanuel Macron said he had seen no sign of an energy ceasefire from the Russian side in the previous 48 hours, and Polish Prime Minister Donald Tusk said Russia was not interested in de-escalation and that he would urge EU partners in Brussels to increase sanctions. The EU answered Monday by adding almost 1,600 new listings targeting Russia's military-industrial complex, the single largest expansion of its sanctions list since the war began, per foreign policy chief Kaja Kallas. On the ground, Russia attacked Ukrainian gas production facilities belonging to state company Naftogaz in the Kharkiv region overnight, sparking a fire that damaged critical equipment, the company said Monday. Zelenskyy added Sunday that Ukraine was ready to halt strikes on Russian oil refineries if Moscow stopped attacking Ukrainian energy infrastructure.
 
 Brent crude futures for December fell $1.17, or 1.12 percent, to $103.55 a barrel by Monday morning Moscow time, Interfax reported, after Friday's session closed at $104.72 with a 42-cent gain. November WTI fell $1.35, or 1.47 percent, to $90.50, following Friday's close at $91.85. Reuters put the Monday decline slightly wider by 0154 GMT: Brent down $1.54 to $103.18 and WTI down $1.54 to $90.31, with ICE gasoil futures off 3 percent at $1,436 a barrel.
 
