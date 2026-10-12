@@ -1,13 +1,13 @@
 ---
 title: "Delhi locks down as youth movement leaders detained before protest"
 date: 2026-10-10T03:52:11-04:00
-last_updated: 2026-10-11T03:53:03-04:00
+last_updated: 2026-10-12T03:47:52-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
 developing: true
 update_bump: true
-lede: "A Delhi court ordered the release of the three Cockroach Janta Party leaders early Sunday on a one-year no-breach-of-peace bond after nearly 24 hours in detention, as the movement called a fresh march to Jantar Mantar and India's Supreme Court held a rare Sunday hearing on the capital's transport lockdown."
+lede: "Opposition parties and Cockroach Janta Party supporters marched to India's Supreme Court on Monday demanding the removal of chief election commissioner Gyanesh Kumar over the voter-roll purge, as Delhi police shut six metro stations and warned of traffic disruptions."
 why_it_matters: "The court-ordered release plus a rare Sunday Supreme Court hearing turn Saturday's street confrontation into a legal test of the detentions and Delhi's lockdown measures, while the movement's push into Mumbai and more cities keeps pressure on the Election Commission mid-way through a voter-roll purge affecting more than 130 million names."
 featured: false
 evidence_grade: "B"
@@ -40,9 +40,19 @@ sources:
     publisher: "The New York Times"
     url: "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
     published: "2026-10-11"
+  - title: "India protest live: Opposition to march to Supreme Court over 'vote theft'"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss"
+    published: "2026-10-12"
+  - title: "Delhi police shut metro stations ahead of election protest march"
+    publisher: "The Guardian (Reuters)"
+    url: "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
+    published: "2026-10-12"
 tags: []
-data_as_of: "Arab News, October 10, 2026 (article opened and read in full; detentions as reported by the party; 57 metro stations and 4km internet radius per ANI via Arab News, single-sourced). SIR background (130M+ names, 14 objections) corroborated by a Reuters-sourced newsmaker via The Business Standard; France24 and Al Jazeera corroborate the detentions at headline level. France24 and DW explainer domains were fetch-blocked for text; their claims were not restated. Sunday, Oct 11: court-ordered release of Dipke, Ranka and Das with one-year no-breach-of-peace condition (Rs 50,000 bond per ANI/Delhi Police); Rathee released overnight per anonymous Interior Ministry official via Reuters (single-sourced); Supreme Court rare Sunday hearing; Saturday detention counts (Shinde 15,000+ claim vs The Hindu's police-source 2,500+1,000); fresh Sunday Jantar Mantar march and Mumbai 4 p.m. protest announced - via DW live blog and NYT, both opened and read in full by a browser task."
+data_as_of: "Arab News, October 10, 2026 (article opened and read in full; detentions as reported by the party; 57 metro stations and 4km internet radius per ANI via Arab News, single-sourced). SIR background (130M+ names, 14 objections) corroborated by a Reuters-sourced newsmaker via The Business Standard; France24 and Al Jazeera corroborate the detentions at headline level. France24 and DW explainer domains were fetch-blocked for text; their claims were not restated. Sunday, Oct 11: court-ordered release of Dipke, Ranka and Das with one-year no-breach-of-peace condition (Rs 50,000 bond per ANI/Delhi Police); Rathee released overnight per anonymous Interior Ministry official via Reuters (single-sourced); Supreme Court rare Sunday hearing; Saturday detention counts (Shinde 15,000+ claim vs The Hindu's police-source 2,500+1,000); fresh Sunday Jantar Mantar march and Mumbai 4 p.m. protest announced - via DW live blog and NYT, both opened and read in full by a browser task. Monday, Oct 12: Congress announced a march to the Supreme Court demanding CEC Gyanesh Kumar's resignation over the voter-roll revision (Al Jazeera live blog lead); six Delhi metro stations shut with traffic-disruption warnings ahead of the march (Reuters via Guardian lead paragraph only - full article behind sign-in gate, station names and timing not visible)."
 ---
+**Latest (Monday, October 12):** the street protest is merging with the opposition's campaign. Opposition parties and supporters of the Cockroach Janta Party's youth movement planned to march to India's Supreme Court on Monday to protest the controversial voter-list revision, demanding the resignation of chief election commissioner Gyanesh Kumar, Reuters reported via the Guardian. Delhi police shut six metro stations and warned of traffic disruptions ahead of the march, according to the same reporting; the station names and closure timing were not visible because the article body sits behind the Guardian's sign-in gate. Al Jazeera's live blog confirms the main opposition Congress party announced the rally to the top court over what it calls "vote theft," marking the first time a major national party has formally joined the march on the Election Commission issue.
+
 **Latest (Sunday, October 11):** A Delhi executive court ordered the release of CJP founder Abhijeet Dipke, co-convener Ashutosh Ranka and Saurav Das early Sunday after nearly 24 hours in detention, with a one-year condition of "no breach of peace" (ANI cited Delhi Police saying a 50,000-rupee bond was imposed for "maintaining peace and good behavior"). The party had alleged the three were held at an undisclosed location without access to lawyers. Influencer Dhruv Rathee, detained at his Gurugram home on Saturday, was released overnight on condition he take part in no further protests, per an anonymous Interior Ministry official cited by Reuters (single-sourced). India's Supreme Court held a rare Sunday hearing on a contempt petition over the capital's transport restrictions, alongside petitions challenging the detentions. The movement called a fresh march to Jantar Mantar on Sunday, announced a Mumbai protest at 4 p.m. local time with more cities to follow, and scheduled a 2 p.m. press conference; interim leader Ajinkya Shinde said "We're not backing down!" The CJP's X account posted "Cockroaches never die" after the release.
 
 **Latest (Sunday, October 11):** DW reported Saturday's Delhi protest was met by a "mammoth deployment" of police and paramilitary who outnumbered demonstrators, with mobile internet suspended in central Delhi, more than 50 metro stations closed and trains to two major stations canceled (partly reversed after a Supreme Court order). Organization chief Ajinkya Shinde claimed 15,000+ supporters were detained across India; The Hindu cited police sources saying 2,500 were detained in Delhi plus 1,000 in overnight preventive pickups, all released Saturday per Delhi Police. Four former chief ministers were briefly detained. In Mumbai, about 600 protesters including Tushar Gandhi and actor Imran Khan were detained and later released. France24's article could not be read (france24.com unreachable from the fetcher); the court-release facts are carried by DW's live blog and the NYT, both read in full.

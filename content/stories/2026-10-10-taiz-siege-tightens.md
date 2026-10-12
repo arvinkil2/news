@@ -1,7 +1,7 @@
 ---
 title: "Houthi siege of Taiz tightens as fuel prices triple"
 date: 2026-10-10T06:44:00-04:00
-last_updated: 2026-10-11T02:42:54-04:00
+last_updated: 2026-10-12T03:47:52-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
@@ -20,9 +20,16 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss"
     published: "2026-10-11"
+  - title: "Clashes reported in Yemen as Houthis advance towards Taiz"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss"
+    published: "2026-10-12"
 tags: []
-data_as_of: "Al Jazeera reporting October 10, 2026 (article opened and read in full). Single-sourced: territorial claims, price figures and the UN letter are Al Jazeera's reporting, pending independent corroboration. Sunday, October 11: Yemen health ministry's hospitals-near-collapse warning via Al Jazeera (article opened and read in full); ministry claims and UN/WHO warnings remain that outlet's reporting."
+data_as_of: "Al Jazeera reporting October 10, 2026 (article opened and read in full). Single-sourced: territorial claims, price figures and the UN letter are Al Jazeera's reporting, pending independent corroboration. Sunday, October 11: Yemen health ministry's hospitals-near-collapse warning via Al Jazeera (article opened and read in full); ministry claims and UN/WHO warnings remain that outlet's reporting. Monday, October 12: Al Jazeera video-newsfeed item on heavy clashes and the Houthi advance toward Taiz opened; only the summary rendered (reporter's standup from Sanaa), so battlefield detail remains that outlet's account."
 
+---
+
+**Latest (Monday, October 12):** the fight around Taiz turned kinetic again. Heavy clashes were reported between Houthi fighters and Yemeni government forces near the southern city, Al Jazeera reported, with its correspondent Yousef Mawry reporting from Sanaa on what the city's fall could mean for the internationally recognized government. The report describes a Houthi advance toward the city; territorial and battlefield claims remain that outlet's reporting pending corroboration.
 ---
 
 **Latest (Sunday, October 11):** Yemen's Ministry of Public Health and Population warned on Saturday of an "imminent health and humanitarian catastrophe" in Taiz, saying medicines, intravenous fluids, medical supplies and fuel at the city's health facilities were "nearing depletion." The ministry said emergency care, surgery, intensive care, dialysis and neonatal services could be forced to stop, putting patients, the injured, pregnant women and newborns at immediate risk, and warned fuel shortages threaten electricity generators, ambulances and the cold chains that keep medicines and vaccines usable. It demanded the siege be lifted immediately with safe passage for patients, ambulances, health workers and aid, and called on the United Nations and humanitarian organizations to deliver medicines, fluids, supplies, oxygen and fuel, saying every delay increases the risk of service interruption and loss of life. The UN refugee agency and the World Health Organization have separately warned the fighting is putting Yemen's fragile health system in peril, per the same reporting.
