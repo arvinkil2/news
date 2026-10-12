@@ -1,16 +1,20 @@
 ---
 title: "Trump urges Ukraine to elect a new president"
 date: 2026-10-11T07:10:40-0400
-last_updated: 2026-10-11T07:42:18-04:00
+last_updated: 2026-10-11T23:55:03-04:00
 beats: ["politics"]
 regions: ["north-america", "europe"]
 status: "story"
 update_bump: true
-lede: "President Donald Trump said Saturday that Ukraine should elect a new president and stop its strikes on Russian refineries; on Sunday, Volodymyr Zelenskyy replied that Kyiv would stop the strikes if Russia stops hitting Ukrainian energy infrastructure, with mutual steps and genuine guarantees."
-why_it_matters: "Zelenskyy's conditional offer answers Trump's pressure campaign directly and puts a reciprocal off-ramp on the table one day after Washington licensed Russian diesel imports, framing the refinery campaign as Kyiv's leverage rather than an expendable concession before the November 3 midterms."
+lede: "President Donald Trump said Sunday that Russia and Ukraine had agreed to an 'energy ceasefire' effective immediately, hours after Volodymyr Zelenskyy offered to halt refinery strikes in exchange for Russian restraint; Zelenskyy said Ukraine supports the ceasefire but is awaiting details, having told Axios the announcement took him by surprise."
+why_it_matters: "Trump's claim converts Zelenskyy's conditional offer into a declared bilateral deal, but neither Moscow nor Kyiv has confirmed an agreement was actually reached, while the diesel arrangement drawing bipartisan condemnation in Congress and opposition from Canada keeps the sanctions architecture under open pressure before the November 3 midterms."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Trump Says Russia and Ukraine Agreed to 'Energy Ceasefire'"
+    publisher: "Bloomberg (via gCaptain)"
+    url: "https://gcaptain.com/trump-says-russia-and-ukraine-agreed-to-energy-ceasefire/"
+    published: "2026-10-11"
   - title: "Trump calls for Ukraine election, says Zelenskyy failed to end war"
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss"
@@ -28,8 +32,10 @@ sources:
     url: "https://news.telegraf.com.ua/ukraina/5952179-zelenskiy-nazval-uslovie-ostanovki-udarov-po-npz-rossii-realno-li-eto-do-kontsa-goda"
     published: "2026-10-11"
 tags: []
-data_as_of: "Remarks delivered at the White House on Saturday, October 10, 2026, reported October 10-11; Zelenskyy's Sunday response per Telegraf (in Ukrainian), opened and read in full, quoting his Telegram post. Al Jazeera item opened and read, AP and PTI accounts via full-text search extracts. Trump's territorial (30%) and casualty (2 million+) figures are his own assertions, not independently verified; AP notes independent estimates put Russian territorial control near 20%. Diesel-deal volumes and the April 7, 2027 licence expiry are per the Treasury licence text and Trump's posts."
+data_as_of: "Remarks delivered at the White House on Saturday, October 10, 2026, reported October 10-11; Zelenskyy's Sunday response per Telegraf (in Ukrainian), opened and read in full, quoting his Telegram post. Al Jazeera item opened and read, AP and PTI accounts via full-text search extracts. Sunday evening: Trump's 'energy ceasefire' announcement and Zelenskyy's response via Bloomberg via gCaptain, opened and read in full; Trump's claim that both parties agreed is uncorroborated (Zelenskyy said he was surprised and is awaiting details; Russia has not confirmed), and the Senate/Carney statements are quoted from that same account. Trump's territorial (30%) and casualty (2 million+) figures are his own assertions, not independently verified; AP notes independent estimates put Russian territorial control near 20%. Diesel-deal volumes and the April 7, 2027 licence expiry are per the Treasury licence text and Trump's posts."
 ---
+
+**Latest (Sunday, October 11, evening):** President Trump said Sunday that Russia and Ukraine had agreed to an "energy ceasefire" effective immediately, writing on Truth Social: "Both parties have agreed. Do not break it!" He provided no further details, and the White House did not respond to requests for more information, per Bloomberg via gCaptain, which was opened and read in full. The announcement came shortly after Zelenskyy, in an interview on ABC's This Week, said Ukraine was ready to begin de-escalation "from any kind of steps," including an energy ceasefire if Russia agreed to similar steps. Responding to Trump's announcement, Zelenskyy said Ukraine supports the ceasefire and that it is important Russia support it as well, adding that Kyiv is awaiting details from the US; he had earlier told Axios the announcement took him by surprise. Trump had previously announced an energy ceasefire last month, though Zelenskyy later said no deal had been finalized. Russia has not confirmed the agreement. The diesel deal at the center of the dispute is meanwhile drawing formal opposition: seven US senators, four Republicans and three Democrats, released a statement saying Congress banned Russian energy imports in 2022 and that Trump's deal to import Russian diesel was illegal, adding the administration failed to consult Congress as required by statute. Canadian Prime Minister Mark Carney's office said the agreement runs "in direct opposition" to the peace efforts of Ukraine, Canada and their allies. Bloomberg noted the cargoes total about 13.5 million barrels of Russian diesel into global markets, the first US imports since March 2022 per Energy Information Administration data; Russia, which accounted for about 10 percent of global seaborne diesel before its July export ban (recently extended through October), had those volumes compounded by the disruption of flows through the Strait of Hormuz.
 
 President Donald Trump said Saturday that Ukraine should choose a new president, delivering his sharpest public break yet with Volodymyr Zelenskyy and demanding an end to Ukrainian attacks on Russian oil infrastructure. Speaking to reporters at the White House on October 10, Trump said, "I suggest they get a new leader who could make a deal because he could have made many deals and for some reason he never does," adding, "I think it's time for Ukraine to get a new president."
 
