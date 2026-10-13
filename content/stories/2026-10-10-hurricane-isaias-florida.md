@@ -1,14 +1,14 @@
 ---
-title: "Hurricane Isaias kills four, triggers emergency oil release"
+title: "Hurricane Isaias death toll rises to six in Florida"
 date: 2026-10-10T12:02:50-04:00
-last_updated: "2026-10-12T05:42:38-04:00"
+last_updated: "2026-10-13T19:54:03-04:00"
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Hurricane Isaias's death toll rose to four and the Energy Department approved an emergency release of 4 million barrels of oil from the Strategic Petroleum Reserve, as cleanup began across the Florida panhandle after the Category 2 landfall left more than 868,000 customers without power."
-why_it_matters: "An emergency SPR release in the middle of an already depleted reserve draw underscores how tight U.S. fuel supplies are this storm season, with refineries still assessing the shutdowns."
+lede: "Florida officials confirmed six deaths linked to Hurricane Isaias on Tuesday, up from four reported over the weekend, while about 5,000 customers in the state remained without power northwest of the landfall zone."
+why_it_matters: "The rising toll, including a death linked to a generator running in a garage, underlines the recovery-phase risks after the storm, even as outages have fallen from more than 868,000 at the peak."
 featured: false
 evidence_grade: "B"
 sources:
@@ -36,9 +36,15 @@ sources:
     publisher: "Kommersant (Russian)"
     url: "https://www.kommersant.ru/doc/9023858"
     published: "2026-10-10"
+  - title: "Florida officials say six people dead from Hurricane Isaias"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida"
+    published: "2026-10-13"
 tags: []
-data_as_of: "October 10, 2026: the Guardian article (opened via browser, full details: Destin landfall, 105 mph, death locations, 868,000+ outages per PowerOutage.us, NHC rainfall forecast, governors' statements, latest-forming record); Politico and ANSA (in Italian) corroborate the Category 2 landfall and outages. Saturday afternoon update: death toll now four per the BBC and CNN, cited from feed metadata. DOE emergency SPR transfer approved per RIA Novosti; 4 million barrels with ExxonMobil and BP America named as recipients per Kommersant, in Russian (feed metadata, translated). Monday, October 12: Shell, Chevron and BP were seeking to redeploy personnel and restore production at their Gulf of Mexico platforms after Isaias's landfall, per a Reuters-relayed Ghanaian outlet opened and read in full."
+data_as_of: "Tuesday, October 13, 2026 update: the Guardian report of Governor DeSantis's press conference that day, read in full via live browser (six Florida deaths confirmed, circumstances as described by officials, about 5,000 customers still without power). October 10, 2026: the Guardian article (opened via browser, full details: Destin landfall, 105 mph, death locations, 868,000+ outages per PowerOutage.us, NHC rainfall forecast, governors' statements, latest-forming record); Politico and ANSA (in Italian) corroborate the Category 2 landfall and outages. Saturday afternoon update: death toll now four per the BBC and CNN, cited from feed metadata. DOE emergency SPR transfer approved per RIA Novosti; 4 million barrels with ExxonMobil and BP America named as recipients per Kommersant, in Russian (feed metadata, translated). Monday, October 12: Shell, Chevron and BP were seeking to redeploy personnel and restore production at their Gulf of Mexico platforms after Isaias's landfall, per a Reuters-relayed Ghanaian outlet opened and read in full."
 ---
+
+**Latest (Tuesday, October 13):** Florida officials confirmed six deaths linked to Hurricane Isaias, Governor Ron DeSantis said at a press conference on Tuesday, up from the four reported over the weekend. The cases officials described included a person killed when a tree fell on a home, a person found dead in an Escambia County garage where a generator was running, a vehicle crash at an intersection, and two people whose medical treatment was disrupted by the storm. About 5,000 people in Florida remained without power, in an area northwest of the landfall zone, down from more than 868,000 customers at the peak, and free supplies were being handed out at distribution points for affected residents.
 
 **Latest (Monday, October 12):** the Gulf of Mexico is coming back online. Energy majors Shell, Chevron and BP were seeking to redeploy personnel and restore production at their platforms in the Gulf of Mexico after Hurricane Isaias made landfall early Saturday, per a Reuters-relayed report read in full. The restoration effort follows the Energy Department's emergency release of 4 million barrels from the Strategic Petroleum Reserve over the weekend.
 
