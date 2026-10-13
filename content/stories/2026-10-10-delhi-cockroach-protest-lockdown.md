@@ -1,7 +1,7 @@
 ---
 title: "Delhi locks down as youth movement leaders detained before protest"
 date: 2026-10-10T03:52:11-04:00
-last_updated: 2026-10-12T07:15:36-04:00
+last_updated: 2026-10-13T07:02:19-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
@@ -52,6 +52,14 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss"
     published: "2026-10-12"
+  - title: "Supreme Court adjourns Delhi protest matter to October 15"
+    publisher: "Live Law"
+    url: "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413"
+    published: "2026-10-13"
+  - title: "India election row faces court challenge, protest threat"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-13/india-election-row-faces-fresh-court-challenge-protest-threat"
+    published: "2026-10-13"
 tags: []
 data_as_of: "Arab News, October 10, 2026 (article opened and read in full; detentions as reported by the party; 57 metro stations and 4km internet radius per ANI via Arab News, single-sourced). SIR background (130M+ names, 14 objections) corroborated by a Reuters-sourced newsmaker via The Business Standard; France24 and Al Jazeera corroborate the detentions at headline level. France24 and DW explainer domains were fetch-blocked for text; their claims were not restated. Sunday, Oct 11: court-ordered release of Dipke, Ranka and Das with one-year no-breach-of-peace condition (Rs 50,000 bond per ANI/Delhi Police); Rathee released overnight per anonymous Interior Ministry official via Reuters (single-sourced); Supreme Court rare Sunday hearing; Saturday detention counts (Shinde 15,000+ claim vs The Hindu's police-source 2,500+1,000); fresh Sunday Jantar Mantar march and Mumbai 4 p.m. protest announced - via DW live blog and NYT, both opened and read in full by a browser task. Monday, Oct 12: Congress announced a march to the Supreme Court demanding CEC Gyanesh Kumar's resignation over the voter-roll revision (Al Jazeera live blog lead); six Delhi metro stations shut with traffic-disruption warnings ahead of the march (Reuters via Guardian lead paragraph only - full article behind sign-in gate, station names and timing not visible). Monday morning, Oct 12: Al Jazeera's features piece (opened and read in full) adds Gandhi's return to the streets, the Monday press briefing quotes, the CJP's Tuesday protest threat, flash-mobilisation tactics, and the Asim Ali and Rasheed Kidwai analyst commentary."
 ---
@@ -73,3 +81,5 @@ Delhi Police said on Friday that it had denied permission for the demonstration:
 At the center of the dispute is the Election Commission's Special Intensive Revision (SIR) of electoral rolls, an exercise the commission says is meant to remove duplicate and ineligible voters. Election Commission data shows more than 130 million names have been struck from draft voter lists across 30 states and union territories, a figure larger than the population of Japan. The campaign against Kumar gathered pace after the Indian Express reported that his two deputies, election commissioners Sukhbir Singh Sandhu and Vivek Joshi, had raised at least 14 formal objections over a ten-month period to orders they said were issued in the commission's name without their knowledge. The commission and the BJP have denied the charges of list manipulation, which opposition parties say are aimed at stripping eligible voters to benefit Prime Minister Narendra Modi's party.
 
 The opposition has joined the pressure on the commission this week: India's INDIA bloc alliance marched on the commission's building on October 7, during which opposition leader Rahul Gandhi scuffled with a policeman, and its MPs staged a separate protest at the gates on October 6. The CJP began in May as a Gen-Z internet joke and in July forced the government's biggest climbdown in years, when education minister Dharmendra Pradhan stepped down after weeks of sit-ins and marches over an exam-paper leaks scandal. Key state elections begin in early 2027, including in the BJP-ruled most populous state of Uttar Pradesh, raising the stakes of the fight over the rolls.
+
+The legal track moved on Tuesday. The Supreme Court adjourned the protest related pleas to October 15, citing a judge's ill health, extended the deadline for a compliance report on its October 9 directions, and issued notice on a fresh petition from the Association for Democratic Reforms challenging the statutory immunity given to election commissioners for acts in office. A separate public interest petition from opposition leaders seeks disclosure of the Election Commission's files on the voter roll revision and an independent examination of how the decisions were taken. The court has not suspended the chief election commissioner, and no finding on the underlying allegations has been made. Status: litigated, hearing now set for October 15.

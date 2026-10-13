@@ -1,7 +1,7 @@
 ---
 title: "Australia nears gas reservation bill for LNG exporters"
 date: 2026-10-10T07:11:03-0400
-last_updated: 2026-10-10T07:11:03-0400
+last_updated: 2026-10-13T06:59:50-04:00
 beats: ["commodities"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,6 +18,10 @@ sources:
     publisher: "TradingView News (Seeking Alpha/Reuters)"
     url: "https://www.tradingview.com/news/seekingalpha:5a7d40954094b:0-australia-relaxes-previously-flagged-gas-reserve-rules-for-lng-exporters/"
     published: "2026-09-11"
+  - title: "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market"
+    publisher: "OilPrice.com (quoting Reuters)"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html"
+    published: "2026-10-13"
 tags: []
 data_as_of: "Bill introduction expected week of October 12, 2026, per OilPrice October 9; exposure draft released September 10, 2026."
 ---
@@ -29,3 +33,5 @@ The legislation follows the softened exposure draft Energy Minister Chris Bowen 
 The concessions came after months of lobbying by buyers in Japan, South Korea and Malaysia, whose state-backed energy companies are among the largest customers of Australian LNG, and by domestic producers warning that a hard mandate could force sales below cost and crowd out smaller domestic-focused players. Australian Energy Producers backed the better calibration but kept warning the framework sends concerning signals on contract sanctity.
 
 For LNG markets, the sequencing matters: existing long-term contracts are protected, the ceiling is flexible downward when domestic demand is weak, and the July 2027 start gives one more contract year to adjust. The reservation still permanently changes the east coast supply balance, and any tightening in the 2027 winter demand outlook will now be read against the regulator's annual setting, which becomes the new price-forming mechanism for Australian domestic gas.
+
+Update, Tuesday October 13: Shell has attacked the reservation design in public. Shell Australia chairwoman Cecile Wake called the mandate a sledgehammer to crack a nut and an extraordinarily heavy-handed intervention into a market that is actually working well, speaking at an industry event in Australia, Reuters reported. Shell's deeper objection is to the stipulation that LNG producers must supply volumes equal to 110 percent of demand on the east coast, rather than merely offer those volumes to domestic buyers, which Wake said would sow the seeds of tomorrow's market failure. The current proposal would reserve up to 20 percent of output for the domestic market. OilPrice reported the plan is scheduled to take effect from 2028, which differs from the July 1, 2027 start date in the scheme as introduced; the discrepancy is unresolved in the available reporting.

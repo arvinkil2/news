@@ -1,7 +1,7 @@
 ---
 title: Cook shifts three Senate races toward Democrats
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-12T07:15:36-04:00
+last_updated: 2026-10-13T07:02:19-04:00
 beats:
 - politics
 status: story
@@ -101,6 +101,18 @@ sources:
   publisher: Associated Press (via Reflector)
   url: https://www.reflector.com/news/national/online-feud-spills-onto-south-carolina-stage-as-darline-graham-annie-andrews-snipe-in-senate/article_079391e4-6a73-5fe0-aaa3-8bcba26a2cb8.html
   published: '2026-10-11'
+- title: "Cooper leads Whatley by at least 7 points in new NC Senate polls"
+  publisher: The Hill
+  url: https://thehill.com/homenews/campaign/6144234-roy-cooper-leads-whatley-nc/
+  published: '2026-10-12'
+- title: "Montana Democratic Party chair resigns, endorses independent in Senate race"
+  publisher: The Hill
+  url: https://thehill.com/homenews/campaign/6144107-montana-democrats-chair-resigns/
+  published: '2026-10-12'
+- title: "Flanagan leads Tafoya by 4 points in new Minnesota Senate poll"
+  publisher: The Hill
+  url: https://thehill.com/homenews/campaign/6142948-minnesota-senate-poll-flanagan-tafoya/
+  published: '2026-10-12'
 tags: []
 data_as_of: "October 10 Saturday update adds state-by-state Senate deltas. Poll numbers traced to named pollsters with field dates in body; polls reported only through secondary aggregators (The Hill, NYT, Bloomberg blocked by policy) are flagged in text. Pennsylvania bellwether and NYT wave-caution items single-sourced. October 12: Musk $276M figures are single-sourced to the NYT dispatch (via Political Wire and Seeking Alpha relays); the SC debate outline is corroborated by AP (via Reflector) and an independent debate summary."
 regions:
@@ -136,3 +148,5 @@ Senate and Governors Editor Jessica Taylor wrote that while Republicans retain a
 Cook notes Republicans remain hopeful about picking up Michigan and holding Maine, which could limit Democratic gains and narrowly protect the GOP majority. But the firm now frames the question as not whether Democrats gain seats, but how many. The update is analytical, not a result: Senate control decides judicial confirmations and any post-midterm legislative agenda, while a Democratic House, which forecasters put at roughly 80-in-100 odds, would gain subpoena and appropriations leverage over Iran-war spending, trade and tariff policy.
 
 The rating moves landed alongside a busy debate calendar: Michigan's Rogers and El-Sayed faced off for the first time, Iowa's Turek and Hinson clashed in their first Senate debate, and Maine's Collins and Jackson held their first debate. Trump defended his border policies in Texas as the Senate race there heats up, and Republican nominee Ken Paxton acknowledged the Iran war is a drag on his Texas campaign.
+
+Three weeks out, the state level picture kept moving. New North Carolina polling reported by The Hill put Democrat Roy Cooper at least seven points ahead of Republican Whatley in North Carolina, and Minnesota polling put Flanagan four points ahead of Tafoya in that Senate race, and Montana's Democratic Party chair resigned and endorsed an independent in the Senate race there, a split that complicates the party's path in a state it needs to hold. Former New Jersey governor Chris Christie called the Republican midterm effort malpractice, and a former Trump spokesperson said he was absolutely concerned about Kansas, where Cook already moved the race to a toss up. These are polls and party disputes, not results, and individual surveys carry their usual margins of error. Status: reported.
