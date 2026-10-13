@@ -1,14 +1,14 @@
 ---
 title: "Hurricane Simon strengthens to Category 4 off Mexico's Pacific coast"
 date: 2026-10-10T03:51:57-04:00
-last_updated: 2026-10-10T22:53:15-04:00
+last_updated: 2026-10-12T21:50:24-04:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Hurricane Simon strengthened into a Category 4 storm with 150 mph winds Saturday afternoon, 115 miles south-southwest of Manzanillo, with landfall expected late Saturday or early Sunday and a hurricane warning now up for the Pacific coast south of Puerto Vallarta."
-why_it_matters: "A major hurricane landfall near Puerto Vallarta would hit one of Mexico's most visited tourist corridors and test emergency response across four states already under flood and landslide warnings."
+lede: "At least two people have died in Mexico from Hurricane Simon and former storm Rachel, state governors confirmed Monday, with at least 10 more missing in Baja California, while Simon, weakened to a Category 2, is now forecast to make landfall Thursday or Friday."
+why_it_matters: "The storms have turned deadly before Simon has even landed, and with the hurricane still offshore and drifting slowly, officials warn the toll could rise as floodwaters and landslides continue across the Pacific coast states."
 featured: false
 evidence_grade: "C"
 sources:
@@ -24,9 +24,15 @@ sources:
     publisher: "Reforma (Spanish)"
     url: "https://www.reforma.com/decretan-alerta-roja-en-colima-y-jalisco-por-simon/ar3292394"
     published: "2026-10-10"
+  - title: "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico's coast"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast"
+    published: "2026-10-12"
 tags: []
-data_as_of: "National Hurricane Center bulletin October 10, 2026, via Clarín (in Spanish), article opened and read in full. Saturday afternoon update: Al Jazeera (opened and read in full) reported NHC's Saturday advisory: 150 mph winds, storm 115 miles south-southwest of Manzanillo, expected to approach or move inland late Saturday or early Sunday, hurricane warning for the Pacific coast south of Puerto Vallarta including the Manzanillo area, tropical storm watch toward Lázaro Cárdenas, 10-20 inches of rain through Sunday, dangerous storm surge and destructive waves near landfall."
+data_as_of: "Monday, October 12, 2026 update: Al Jazeera, opened and read in full; death and missing figures are the Guerrero and Baja California governors' accounts at Monday briefings and remain preliminary, with local newspaper La Jornada reporting a higher Baja California toll of two dead and 11 missing; a Mazatlan cliff diver's death reported by El Pais has not been confirmed as storm-linked. Earlier: National Hurricane Center bulletin October 10, 2026, via Clarín (in Spanish), article opened and read in full. Saturday afternoon update: Al Jazeera (opened and read in full) reported NHC's Saturday advisory: 150 mph winds, storm 115 miles south-southwest of Manzanillo, expected to approach or move inland late Saturday or early Sunday, hurricane warning for the Pacific coast south of Puerto Vallarta including the Manzanillo area, tropical storm watch toward Lázaro Cárdenas, 10-20 inches of rain through Sunday, dangerous storm surge and destructive waves near landfall."
 ---
+
+**Latest (Monday, October 12):** the storms have turned deadly. Guerrero Governor Evelyn Salgado confirmed at a Monday briefing that a 71-year-old man died during Hurricane Simon when a retaining wall collapsed under intense rain on the outskirts of Chilpancingo, and Baja California Governor Marina del Pilar said a young girl died from the effects of former Hurricane Rachel, which made landfall in the state as a post-tropical cyclone. At least 10 more people remain missing in Baja California, eight in Ensenada and two in San Felipe, and officials warn the toll could rise; the figures are preliminary, and La Jornada reported a higher Baja California count of two dead and 11 missing. Simon itself has weakened from a Category 4 to a Category 2, with winds around 100 mph late Monday morning, its centre about 115 km west-southwest of Cabo Corrientes and drifting slowly west; forecasters now expect landfall on Thursday or Friday, with hurricane warnings still in effect for western Mexico.
 
 **Latest (Saturday night, October 10):** Mexico's civil protection system declared a Red Alert, its highest warning level, for the states of Colima and Jalisco as Simon approached, per Reforma (in Spanish, translated). The declaration escalates Saturday's existing flood and landslide warnings as the Category 4 storm nears landfall on the Pacific coast.
 
