@@ -1,16 +1,16 @@
 ---
-title: "Saudi energy minister vows serious response to Houthi attacks"
+title: "Debris from intercepted missile sparks fires at Aramco headquarters"
 date: 2026-10-12T13:50:53-04:00
-last_updated: 2026-10-13T13:49:13-04:00
+last_updated: 2026-10-13T17:53:17-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Saudi-led coalition aircraft struck an oil station in Sanaa on Tuesday after ordering civilians to leave it, and the Houthis answered by telling civilians to evacuate Aramco sites in Dammam and Riyadh and King Khalid airport, as both sides traded threats against oil facilities"
-why_it_matters: "The fight has now moved onto energy infrastructure on both sides, with Aramco facilities and Riyadh's airport named as targets again, which puts Saudi crude installations back in the line of fire days after the airport killings"
+lede: "Debris from a missile intercepted over Dhahran sparked fires in an employee parking area at Saudi Aramco's headquarters on Tuesday night, Bloomberg reported, hours after the Houthis named the headquarters as a target; Aramco said there were no casualties, no damage to the headquarters or process facilities, and no impact on production."
+why_it_matters: "The headquarters of the world's largest oil company is now inside the battlespace the Houthis promised earlier the same day, and even an interception that leaves production untouched tests how much risk premium crude markets attach to Saudi Arabia's Eastern Province."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
   - title: "Saudi minister vows 'serious response' to Houthi attacks on airports"
     publisher: "MyJoyOnline"
@@ -36,9 +36,19 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row"
     published: "2026-10-12"
+  - title: "Aramco HQ hit in Houthi attack as fire extinguished in Dhahran"
+    publisher: "Bloomberg, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574"
+    published: "2026-10-13"
+  - title: "Forti esplosioni udite a Riad e nei pressi di un impianto Aramco nell'est"
+    publisher: "ANSA, reporting Reuters, in Italian"
+    url: "https://www.ansa.it/sito/notizie/mondo/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_065a141f-f7f6-4f6d-962d-2be15f97f188.html"
+    published: "2026-10-13"
 tags: []
-data_as_of: "Updated Tuesday, October 13, 2026. Latest: Al Jazeera report, opened and read in full, with its correspondent in Sanaa reporting explosions after the coalition evacuation order for the al-Sabah oil station and strikes on Ras Isa and Hodeidah oil sites; the strike attribution is Houthi-affiliated media's account, and the Houthi evacuation warning and target list are the group's own statement. The Houthi claim of 104 Saudi strikes in a day, relayed by TASS, is uncorroborated. Earlier updates as previously noted. Developing item"
+data_as_of: "Updated Tuesday, October 13, 2026. Latest: Bloomberg report read via Investing.com republication, and ANSA, in Italian, reporting a Reuters source with direct knowledge; the two accounts differ in emphasis, with Bloomberg reporting on Aramco's statement that only interception debris reached the site and started parking-area fires, while the Reuters source described the headquarters as struck without establishing whether directly or by debris. The coalition interception claim is Saudi Arabia's account. Earlier updates as previously noted, including the Al Jazeera Sanaa reporting and the Houthi target warnings, which are that group's own statements. Developing item"
 ---
+
+**Latest (Tuesday, October 13, night):** the Aramco headquarters compound in Dhahran was reached by debris from a missile intercepted overhead on Tuesday night, Bloomberg reported, after a series of attacks across Saudi Arabia in which Dammam, Dhahran and Haradh were among the places targeted. Aramco confirmed debris had reached the site and said falling debris ignited fires in an employee parking area and scattered fires elsewhere on the grounds, all of which were extinguished; the company said there were no casualties, no damage to the headquarters building or its process facilities, and no impact on production or operations. A source with direct knowledge of the matter told Reuters the headquarters had been struck, though it was unclear whether the building was hit directly or by falling debris, and loud explosions were heard in the area; Aramco had not commented at the time of that report. Coalition spokesman Turki al-Maliki said a ballistic missile launched by the Houthis toward Dammam was intercepted and destroyed, and Al Jazeera reported shrapnel from an interception fell in a residential area of Dhahran. The attack landed hours after the Houthis told civilians to evacuate the area around the headquarters, naming it as a target. No oil price reaction had been reported in the accounts read.
 
 **Latest (Tuesday, October 13):** the Saudi-led coalition ordered civilians to evacuate the Yemeni Oil Company's al-Sabah central station in Sanaa on Tuesday, and explosions were heard in the capital shortly after, Al Jazeera reported, with Houthi-affiliated media saying air strikes hit an oil facility in the al-Sabah area. Al Jazeera's correspondent in Sanaa also reported strikes on oil storage tanks at the Ras Isa port and on an oil station in Hodeidah province. Houthi spokesman Yahya Saree answered with a warning of a harsh reprisal against Riyadh and told civilians to evacuate the Aramco headquarters in Dammam, King Khalid International Airport and an Aramco refinery in Riyadh, naming all three as targets. The coalition said it intercepted three drones north of Riyadh on Tuesday, and the Saudi cabinet, chaired by Crown Prince Mohammed bin Salman, said the Houthis would face consequences for the attacks. President Trump said the Houthis were behaving very badly and that he might ask President Erdogan of Turkey to intervene in support of Saudi interests. Yemeni government forces separately said they carried out nine air strikes on Houthi positions in Taiz governorate on Tuesday.
 
