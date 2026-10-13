@@ -1,13 +1,13 @@
 ---
 title: "Debris from intercepted missile sparks fires at Aramco headquarters"
 date: 2026-10-12T13:50:53-04:00
-last_updated: 2026-10-13T17:53:17-04:00
+last_updated: 2026-10-13T18:58:18-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Debris from a missile intercepted over Dhahran sparked fires in an employee parking area at Saudi Aramco's headquarters on Tuesday night, Bloomberg reported, hours after the Houthis named the headquarters as a target; Aramco said there were no casualties, no damage to the headquarters or process facilities, and no impact on production."
+lede: "Debris from a missile intercepted over Dhahran sparked fires in an employee parking area at Saudi Aramco's headquarters on Tuesday night, Bloomberg reported, hours after the Houthis named the headquarters as a target; Aramco said there were no casualties there and no impact on production, while in Riyadh debris from two intercepted cruise missiles injured four people and damaged 15 homes, Saudi Civil Defence said."
 why_it_matters: "The headquarters of the world's largest oil company is now inside the battlespace the Houthis promised earlier the same day, and even an interception that leaves production untouched tests how much risk premium crude markets attach to Saudi Arabia's Eastern Province."
 featured: false
 evidence_grade: "B"
@@ -44,9 +44,15 @@ sources:
     publisher: "ANSA, reporting Reuters, in Italian"
     url: "https://www.ansa.it/sito/notizie/mondo/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_065a141f-f7f6-4f6d-962d-2be15f97f188.html"
     published: "2026-10-13"
+  - title: "Four injured from missile debris in Riyadh, attack on Aramco building in Dhahran"
+    publisher: "ERT News, in Greek"
+    url: "https://www.ertnews.gr/eidiseis/saoudiki-aravia-tesseris-traymaties-apo-syntrimmia-pyraylon-sto-riant-epithesi-se-ktirio-tis-aramco-stin-ntaxran/"
+    published: "2026-10-13"
 tags: []
-data_as_of: "Updated Tuesday, October 13, 2026. Latest: Bloomberg report read via Investing.com republication, and ANSA, in Italian, reporting a Reuters source with direct knowledge; the two accounts differ in emphasis, with Bloomberg reporting on Aramco's statement that only interception debris reached the site and started parking-area fires, while the Reuters source described the headquarters as struck without establishing whether directly or by debris. The coalition interception claim is Saudi Arabia's account. Earlier updates as previously noted, including the Al Jazeera Sanaa reporting and the Houthi target warnings, which are that group's own statements. Developing item"
+data_as_of: "Updated Tuesday, October 13, 2026. Latest: Bloomberg report read via Investing.com republication, and ANSA, in Italian, reporting a Reuters source with direct knowledge; the two accounts differ in emphasis, with Bloomberg reporting on Aramco's statement that only interception debris reached the site and started parking-area fires, while the Reuters source described the headquarters as struck without establishing whether directly or by debris. The coalition interception claim is Saudi Arabia's account. Riyadh toll update: ERT News, in Greek, read in full via live browser, reporting Saudi Civil Defence via the Saudi Press Agency (four injured, 15 homes damaged by debris from two intercepted cruise missiles); an Al Jazeera Arabic urgent item in the feed batch carried the same Civil Defence figures. The Energy Ministry's description of the Dhahran administrative building as targeted is the ministry's account, via ERT. Earlier updates as previously noted, including the Al Jazeera Sanaa reporting and the Houthi target warnings, which are that group's own statements. Developing item"
 ---
+
+**Latest (Tuesday, October 13, evening):** the same interception wave that reached Dhahran also hurt people in the capital. Saudi Civil Defence said debris from two intercepted cruise missiles injured four people in Riyadh and damaged 15 homes, the Saudi Press Agency reported via ERT News. In Dhahran, the Energy Ministry said the attack targeted Aramco's headquarters administrative building; the company said a small fire in a parking area was quickly brought under control, with no injuries at the site and operations unaffected.
 
 **Latest (Tuesday, October 13, night):** the Aramco headquarters compound in Dhahran was reached by debris from a missile intercepted overhead on Tuesday night, Bloomberg reported, after a series of attacks across Saudi Arabia in which Dammam, Dhahran and Haradh were among the places targeted. Aramco confirmed debris had reached the site and said falling debris ignited fires in an employee parking area and scattered fires elsewhere on the grounds, all of which were extinguished; the company said there were no casualties, no damage to the headquarters building or its process facilities, and no impact on production or operations. A source with direct knowledge of the matter told Reuters the headquarters had been struck, though it was unclear whether the building was hit directly or by falling debris, and loud explosions were heard in the area; Aramco had not commented at the time of that report. Coalition spokesman Turki al-Maliki said a ballistic missile launched by the Houthis toward Dammam was intercepted and destroyed, and Al Jazeera reported shrapnel from an interception fell in a residential area of Dhahran. The attack landed hours after the Houthis told civilians to evacuate the area around the headquarters, naming it as a target. No oil price reaction had been reported in the accounts read.
 
