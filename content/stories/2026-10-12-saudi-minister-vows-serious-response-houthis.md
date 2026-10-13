@@ -1,14 +1,14 @@
 ---
 title: "Saudi energy minister vows serious response to Houthi attacks"
 date: 2026-10-12T13:50:53-04:00
-last_updated: 2026-10-12T21:17:14-04:00
+last_updated: 2026-10-13T13:49:13-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Riyadh's King Khalid International Airport will stay closed until Saturday after a third straight day of Houthi missile fire at the capital, with Etihad and Gulf Air cancelling Riyadh flights and Delta delaying its planned Atlanta to Riyadh launch."
-why_it_matters: "The capital's airport is now shut for most of a week and foreign carriers are pulling Riyadh services, which turns a missile exchange into a standing disruption of the kingdom's main air hub and raises the pressure for the serious Saudi response the energy minister promised."
+lede: "Saudi-led coalition aircraft struck an oil station in Sanaa on Tuesday after ordering civilians to leave it, and the Houthis answered by telling civilians to evacuate Aramco sites in Dammam and Riyadh and King Khalid airport, as both sides traded threats against oil facilities"
+why_it_matters: "The fight has now moved onto energy infrastructure on both sides, with Aramco facilities and Riyadh's airport named as targets again, which puts Saudi crude installations back in the line of fire days after the airport killings"
 featured: false
 evidence_grade: "C"
 sources:
@@ -28,13 +28,19 @@ sources:
     publisher: "Vanguard, relaying AFP"
     url: "https://www.vanguardngr.com/2026/10/ronaldo-asian-champions-league-match-delayed-due-to-missile-alert/"
     published: "2026-10-12"
+  - title: "Houthis threaten Saudi Arabia's Aramco facilities and airports"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+    published: "2026-10-13"
   - title: "Houthi missile attack targets Saudi capital Riyadh for third day in a row"
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row"
     published: "2026-10-12"
 tags: []
-data_as_of: "Updated Monday night, October 12, 2026. Latest: Al Jazeera report, opened and read in full, on the third day of attacks, the airport closure to Saturday, airline cancellations and the Associated Press account of the air-defence inquiry, sourced to two regional officials speaking anonymously. Earlier Monday evening: the Houthi claim of a strike on the airport is the group's own account, reported by JFeed and opened and read in full; it is not corroborated, and the coalition says the missile was intercepted. AFP reporting via Vanguard, opened and read in full, corroborates explosions heard in Riyadh, phone alerts to residents, and the match delay. Earlier: minister's remarks via a single wire report, opened and read in full; the Monday interception is the Saudi-led coalition spokesman's statement via Arab News, opened and read in full, with Yonhap reporting three explosions heard in Riyadh. Casualty figures are Saudi authorities' account and the Houthi account of a Saudi strike on Sanaa is the Houthi-run health ministry's. Developing item."
+data_as_of: "Updated Tuesday, October 13, 2026. Latest: Al Jazeera report, opened and read in full, with its correspondent in Sanaa reporting explosions after the coalition evacuation order for the al-Sabah oil station and strikes on Ras Isa and Hodeidah oil sites; the strike attribution is Houthi-affiliated media's account, and the Houthi evacuation warning and target list are the group's own statement. The Houthi claim of 104 Saudi strikes in a day, relayed by TASS, is uncorroborated. Earlier updates as previously noted. Developing item"
 ---
+
+**Latest (Tuesday, October 13):** the Saudi-led coalition ordered civilians to evacuate the Yemeni Oil Company's al-Sabah central station in Sanaa on Tuesday, and explosions were heard in the capital shortly after, Al Jazeera reported, with Houthi-affiliated media saying air strikes hit an oil facility in the al-Sabah area. Al Jazeera's correspondent in Sanaa also reported strikes on oil storage tanks at the Ras Isa port and on an oil station in Hodeidah province. Houthi spokesman Yahya Saree answered with a warning of a harsh reprisal against Riyadh and told civilians to evacuate the Aramco headquarters in Dammam, King Khalid International Airport and an Aramco refinery in Riyadh, naming all three as targets. The coalition said it intercepted three drones north of Riyadh on Tuesday, and the Saudi cabinet, chaired by Crown Prince Mohammed bin Salman, said the Houthis would face consequences for the attacks. President Trump said the Houthis were behaving very badly and that he might ask President Erdogan of Turkey to intervene in support of Saudi interests. Yemeni government forces separately said they carried out nine air strikes on Houthi positions in Taiz governorate on Tuesday.
 
 **Latest (Monday, October 12, night):** the fallout from three days of attacks is hardening into a longer shutdown. Saudi authorities said King Khalid International Airport would remain closed until Saturday, Al Jazeera reported, after Saturday's strike killed at least 13 people and Sunday's killed one more. Etihad Airways cancelled all flights to and from Riyadh until next week and suspended Dammam and Jeddah services, Gulf Air cancelled its Riyadh flights until Saturday, and Delta delayed the launch of its direct Atlanta to Riyadh flights planned for October 23. The coalition said Monday night's ballistic missile at Riyadh and two more fired at Khamis Mushait were all intercepted and destroyed. Saudi authorities have opened an investigation into why the air defences failed to stop Saturday's barrage, according to two regional officials who spoke to the Associated Press; an initial inquiry found the Houthis first sent drones to clear a path for a mix of cruise and ballistic missiles. President Trump, asked what he planned to do about the group, said the Houthis were misbehaving very badly but gave no indication Washington would intervene. A Houthi political bureau member, Mohammed al-Bukhaiti, told AFP that US involvement would bring a swift response against US interests in the region, and warned workers at Saudi oil facilities and airports to stay away from sites the group calls legitimate targets.
 
