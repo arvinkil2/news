@@ -1,13 +1,14 @@
 ---
 title: "Eurozone yields dip as France budget debate looms"
 date: 2026-10-12T07:19:02-04:00
-last_updated: 2026-10-13T07:02:19-04:00
+last_updated: 2026-10-13T13:07:54-04:00
 beats: ["rates"]
 regions: ["europe", "global"]
 status: "story"
+update_bump: true
 featured: false
-lede: "Eurozone government bond yields fell in early Monday trade while the US Treasury market was shut, with the 10-year German Bund down 2.6 basis points to 3.463% and the French OAT down 1.5 basis points to 4.847%, leaving the France-Germany spread near 138 basis points."
-why_it_matters: "The spread remains close to its widest since the 2012 euro crisis as France's National Assembly opens debate Tuesday on a 2027 budget the market has already rejected once."
+lede: "France's National Assembly opened floor debate on the 2027 budget on Tuesday evening, with a Socialist motion to reject the revenue text at the outset set to fail after the National Rally said it would vote against it."
+why_it_matters: "The debate is the market's live test of whether the Lecornu government can pass a 5.0 percent deficit budget without a majority, with the OAT-Bund spread still near its widest since the 2012 euro crisis and a Moody's review due October 23."
 evidence_grade: "B"
 sources:
   - title: "Eurozone Bond Yields Fall, Investors Await Wednesday's U.S. Inflation Data for Guidance"
@@ -34,9 +35,15 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-13/france-yield-surge-is-no-risk-to-nation-s-banks-watchdog-says"
     published: "2026-10-13"
+  - title: "France budget debate faces rocky start as Socialists vow to fight"
+    publisher: "AFP, via Morning Chronicle"
+    url: "https://www.morningchronicle.co.uk/Politics/779251-france-budget-debate-faces-rocky-start-as-socialists-vow-to-fight.html"
+    published: "2026-10-13"
 tags: []
-data_as_of: "Monday, October 12, 2026, updated Tuesday October 13; Bund/OAT levels are Tradeweb mid-morning quotes via Dow Jones. The 138bp spread is computed from those quotes. Budget figures from the October 1 government presentation. ACPR bank exposure figures (190 billion euros, 24% of sovereign holdings, 2% of assets) are single-sourced: Bloomberg headline via the triage feed, with detail from one secondary summary of the ACPR press conference; the underlying Bloomberg text was not opened."
+data_as_of: "Monday, October 12, 2026, updated Tuesday October 13; Bund/OAT levels are Tradeweb mid-morning quotes via Dow Jones. The 138bp spread is computed from those quotes. Budget figures from the October 1 government presentation. ACPR bank exposure figures (190 billion euros, 24% of sovereign holdings, 2% of assets) are single-sourced: Bloomberg headline via the triage feed, with detail from one secondary summary of the ACPR press conference; the underlying Bloomberg text was not opened. Debate-opening detail from AFP reporting, opened and read in full."
 ---
+
+**Latest (Tuesday, October 13):** The floor debate opened on Tuesday evening with the government's survival arithmetic intact for now. The Socialist Party, whose support carried the 2026 budget, planned to table a motion rejecting the revenue part of the bill at the outset, backed by the rest of the left; the National Rally announced it would vote against the motion, saying it wants the confrontation in the chamber, which effectively dooms the attempt to halt the debate before it starts. Prime Minister Sebastien Lecornu wrote to Socialist leaders urging them to withdraw the motion and compromise, calling a refusal to debate the worst signal the Assembly could send; the Socialists rejected the appeal. Public Accounts Minister David Amiel labelled the move a boycott motion, arguing that with interest rates soaring, parliament cannot look the other way. The revenue-part vote remains set for October 20.
 
 European bonds caught a mild bid on Monday while US markets sat out Columbus Day, but the relief was thin. The 10-year German Bund yield fell 2.6 basis points to 3.463% and the French OAT declined 1.5 basis points to 4.847% in early trade, according to Tradeweb quotes carried by Dow Jones, putting the OAT-Bund spread at roughly 138 basis points. That is a touch inside the 141 basis points that followed the October 1 budget presentation and the 159 basis point intraday peak of October 2, the widest since the 2012 euro crisis, yet still wider than Italy's spread to Bund, a line France crossed this month for the first time in the modern era.
 
