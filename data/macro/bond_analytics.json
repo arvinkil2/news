@@ -1,0 +1,2817 @@
+{
+ "as_of": "2026-10-14",
+ "analyses": {
+  "fund_dispersion": {
+   "method": "Per-fund implied marks (value / principal x 100) from N-PORT holdings at each CUSIP's latest report period, against the principal-weighted aggregate mark.",
+   "limits": "Dispersion measures disagreement between funds at one period end. It does not measure staleness against the tape: no tape exists at the July period end.",
+   "summary": {
+    "cusips_with_5plus_funds": 57,
+    "widest_range_pts": 2.59,
+    "widest_cusip": "92212KAK2"
+   },
+   "rows": [
+    {
+     "cusip": "92212KAK2",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "period": "2026-06-30",
+     "funds": 5,
+     "aggregate": 96.09,
+     "median": 95.52,
+     "min": 95.52,
+     "max": 98.11,
+     "range_pts": 2.59,
+     "deviant_fund": "1290 VT DoubleLine Opportunistic Bond Portfolio",
+     "deviation_pts": 2.02
+    },
+    {
+     "cusip": "01627AAD0",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "period": "2026-06-30",
+     "funds": 12,
+     "aggregate": 100.07,
+     "median": 100.1,
+     "min": 99.47,
+     "max": 100.45,
+     "range_pts": 0.97,
+     "deviant_fund": "JNL/DoubleLine Total Return Fund  ",
+     "deviation_pts": -0.59
+    },
+    {
+     "cusip": "21882DAB6",
+     "issuer": "CoreWeave Financing DDTL V LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 79,
+     "aggregate": 99.84,
+     "median": 100.06,
+     "min": 99.75,
+     "max": 100.6,
+     "range_pts": 0.85,
+     "deviant_fund": "Nomura Floating Rate Fund",
+     "deviation_pts": 0.76
+    },
+    {
+     "cusip": "21881PAB0",
+     "issuer": "CoreWeave Compute Acquisition Co. VIII, LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 12,
+     "aggregate": 99.81,
+     "median": 100.25,
+     "min": 99.5,
+     "max": 100.25,
+     "range_pts": 0.75,
+     "deviant_fund": "Invesco Total Return Bond ETF",
+     "deviation_pts": 0.44
+    },
+    {
+     "cusip": "21873SAH1",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 19,
+     "aggregate": 88.22,
+     "median": 87.8,
+     "min": 87.55,
+     "max": 88.28,
+     "range_pts": 0.73,
+     "deviant_fund": "THE HARTFORD STRATEGIC INCOME FUND",
+     "deviation_pts": -0.67
+    },
+    {
+     "cusip": "83577VAA8",
+     "issuer": "SOPAIPILLA INVESTOR LLC",
+     "security": "7.534% senior secured notes due 2048",
+     "period": "2026-07-31",
+     "funds": 105,
+     "aggregate": 103.66,
+     "median": 103.65,
+     "min": 103.1,
+     "max": 103.79,
+     "range_pts": 0.68,
+     "deviant_fund": "1290 Loomis Sayles Multi-Asset Income Fund",
+     "deviation_pts": -0.56
+    },
+    {
+     "cusip": "21873SAB4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.25% senior notes due 2030",
+     "period": "2026-07-31",
+     "funds": 88,
+     "aggregate": 93.56,
+     "median": 93.46,
+     "min": 93.25,
+     "max": 93.9,
+     "range_pts": 0.65,
+     "deviant_fund": "BondBloxx B Rated USD High Yield Corporate Bond ETF",
+     "deviation_pts": 0.34
+    },
+    {
+     "cusip": "92212KAH9",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 18,
+     "aggregate": 97.45,
+     "median": 97.48,
+     "min": 96.97,
+     "max": 97.61,
+     "range_pts": 0.64,
+     "deviant_fund": "Victory Short-Term Bond Fund",
+     "deviation_pts": -0.48
+    },
+    {
+     "cusip": "20469BAJ6",
+     "issuer": "Compass Datacenters Issuer III LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 7,
+     "aggregate": 100.59,
+     "median": 100.71,
+     "min": 100.11,
+     "max": 100.71,
+     "range_pts": 0.6,
+     "deviant_fund": "BlackRock Credit Relative Value Fund",
+     "deviation_pts": -0.48
+    },
+    {
+     "cusip": "21873SAK4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.625% senior notes due 2032",
+     "period": "2026-07-31",
+     "funds": 62,
+     "aggregate": 89.55,
+     "median": 89.5,
+     "min": 89.18,
+     "max": 89.72,
+     "range_pts": 0.54,
+     "deviant_fund": "Integrity High Income Fund",
+     "deviation_pts": -0.37
+    },
+    {
+     "cusip": "92212KAJ5",
+     "issuer": "Vantage Data Centers Issuer",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 12,
+     "aggregate": 96.38,
+     "median": 96.36,
+     "min": 96.36,
+     "max": 96.89,
+     "range_pts": 0.53,
+     "deviant_fund": "VanEck Green Bond ETF",
+     "deviation_pts": 0.51
+    },
+    {
+     "cusip": "21873SAG3",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% senior notes due 2031",
+     "period": "2026-07-31",
+     "funds": 91,
+     "aggregate": 90.76,
+     "median": 90.74,
+     "min": 90.34,
+     "max": 90.87,
+     "range_pts": 0.52,
+     "deviant_fund": "Dunham High Yield Bond Fund",
+     "deviation_pts": -0.42
+    },
+    {
+     "cusip": "21873SAD0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 18,
+     "aggregate": 94.23,
+     "median": 94.24,
+     "min": 93.94,
+     "max": 94.44,
+     "range_pts": 0.5,
+     "deviant_fund": "THE HARTFORD STRATEGIC INCOME FUND",
+     "deviation_pts": -0.29
+    },
+    {
+     "cusip": "21873SAC2",
+     "issuer": "COREWEAVE, INC.",
+     "security": "9.00% senior notes due 2031",
+     "period": "2026-07-31",
+     "funds": 83,
+     "aggregate": 90.31,
+     "median": 90.27,
+     "min": 90.23,
+     "max": 90.7,
+     "range_pts": 0.47,
+     "deviant_fund": "BondBloxx B Rated USD High Yield Corporate Bond ETF",
+     "deviation_pts": 0.39
+    },
+    {
+     "cusip": "76134KAH7",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 6,
+     "aggregate": 97.69,
+     "median": 97.78,
+     "min": 97.45,
+     "max": 97.88,
+     "range_pts": 0.43,
+     "deviant_fund": "VanEck Green Bond ETF",
+     "deviation_pts": -0.24
+    },
+    {
+     "cusip": "74690FBC9",
+     "issuer": "QTS Issuer ABS II LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 14,
+     "aggregate": 98.46,
+     "median": 98.48,
+     "min": 98.1,
+     "max": 98.48,
+     "range_pts": 0.38,
+     "deviant_fund": "Victory Income Fund",
+     "deviation_pts": -0.36
+    },
+    {
+     "cusip": "74690FAY2",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "period": "2026-06-30",
+     "funds": 5,
+     "aggregate": 99.31,
+     "median": 99.22,
+     "min": 99.22,
+     "max": 99.59,
+     "range_pts": 0.37,
+     "deviant_fund": "STERLING CAPITAL ENHANCED CORE BOND ETF",
+     "deviation_pts": 0.28
+    },
+    {
+     "cusip": "74746PAD0",
+     "issuer": "QTS Thunder Managing Issuer LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 25,
+     "aggregate": 98.61,
+     "median": 98.75,
+     "min": 98.42,
+     "max": 98.78,
+     "range_pts": 0.35,
+     "deviant_fund": "NYLIM Floating Rate Fund",
+     "deviation_pts": -0.18
+    },
+    {
+     "cusip": "076912AA2",
+     "issuer": "BEIGNET INVESTOR LLC",
+     "security": "6.581% senior secured notes due 2049",
+     "period": "2026-07-31",
+     "funds": 77,
+     "aggregate": 96.86,
+     "median": 96.95,
+     "min": 96.7,
+     "max": 97.02,
+     "range_pts": 0.32,
+     "deviant_fund": "Franklin Managed Income Fund",
+     "deviation_pts": 0.17
+    },
+    {
+     "cusip": "74690DAA9",
+     "issuer": "QTS ISSUER ABS I LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 6,
+     "aggregate": 98.53,
+     "median": 98.53,
+     "min": 98.53,
+     "max": 98.84,
+     "range_pts": 0.32,
+     "deviant_fund": "Harbor Disciplined Bond ETF",
+     "deviation_pts": 0.32
+    },
+    {
+     "cusip": "92212KAC0",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 5,
+     "aggregate": 96.09,
+     "median": 95.96,
+     "min": 95.96,
+     "max": 96.27,
+     "range_pts": 0.31,
+     "deviant_fund": "Victory Core Plus Intermediate Bond Fund",
+     "deviation_pts": 0.18
+    },
+    {
+     "cusip": "20469AAA7",
+     "issuer": "COMPASS DATACENTERS ISSUER II LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 7,
+     "aggregate": 99.78,
+     "median": 99.63,
+     "min": 99.63,
+     "max": 99.92,
+     "range_pts": 0.3,
+     "deviant_fund": "PACE Strategic Fixed Income Investments",
+     "deviation_pts": -0.15
+    },
+    {
+     "cusip": "74690FBK1",
+     "issuer": "QTSII 2026-6A  5.34% 07/05/31",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 10,
+     "aggregate": 98.9,
+     "median": 98.9,
+     "min": 98.89,
+     "max": 99.19,
+     "range_pts": 0.29,
+     "deviant_fund": "Morningstar Total Return Bond Fund",
+     "deviation_pts": 0.29
+    },
+    {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "period": "2026-07-31",
+     "funds": 70,
+     "aggregate": 100.31,
+     "median": 100.27,
+     "min": 100.27,
+     "max": 100.55,
+     "range_pts": 0.28,
+     "deviant_fund": "BNY Mellon High Yield ETF",
+     "deviation_pts": 0.24
+    },
+    {
+     "cusip": "74690FAS5",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 8,
+     "aggregate": 98.71,
+     "median": 98.61,
+     "min": 98.61,
+     "max": 98.87,
+     "range_pts": 0.26,
+     "deviant_fund": "TCW Flexible Income ETF",
+     "deviation_pts": 0.16
+    },
+    {
+     "cusip": "01627AAF5",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 8,
+     "aggregate": 99.62,
+     "median": 99.62,
+     "min": 99.54,
+     "max": 99.79,
+     "range_pts": 0.25,
+     "deviant_fund": "Virtus Newfleet Multi-Sector Bond ETF",
+     "deviation_pts": 0.17
+    },
+    {
+     "cusip": "76134KAM6",
+     "issuer": "Retained Vantage Data Centers Issuer LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 11,
+     "aggregate": 97.18,
+     "median": 97.18,
+     "min": 97.07,
+     "max": 97.32,
+     "range_pts": 0.25,
+     "deviant_fund": "BNY Mellon Core Plus Fund",
+     "deviation_pts": 0.14
+    },
+    {
+     "cusip": "92212KAB2",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "period": "2025-08-31",
+     "funds": 5,
+     "aggregate": 100.0,
+     "median": 100.0,
+     "min": 99.75,
+     "max": 100.0,
+     "range_pts": 0.25,
+     "deviant_fund": "ActivePassive Core Bond ETF",
+     "deviation_pts": -0.25
+    },
+    {
+     "cusip": "74751AAA1",
+     "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 47,
+     "aggregate": 91.45,
+     "median": 91.44,
+     "min": 91.33,
+     "max": 91.51,
+     "range_pts": 0.18,
+     "deviant_fund": "1290 Diversified Bond Fund",
+     "deviation_pts": -0.12
+    },
+    {
+     "cusip": "85236KAR3",
+     "issuer": "Stack Infrastructure Issuer LLC",
+     "security": "",
+     "period": "2026-07-31",
+     "funds": 13,
+     "aggregate": 96.02,
+     "median": 96.0,
+     "min": 95.96,
+     "max": 96.12,
+     "range_pts": 0.16,
+     "deviant_fund": "Putnam Income Fund",
+     "deviation_pts": 0.1
+    }
+   ]
+  },
+  "gap_convergence": {
+   "method": "Gap = last TRACE trade price minus latest fund mark. The implied adjustment is the move the next mark must make to reach the current tape, if the tape holds.",
+   "limits": "Convergence speed is first measurable when the 2026-10-31 marks are filed (about 60 days after period end). This section measures the stock of unadjusted gap, not yet its decay rate.",
+   "summary": {
+    "bonds_with_both": 76,
+    "median_gap": -1.73,
+    "gap_below_minus15": 3,
+    "gap_above_plus5": 0,
+    "largest_negative_gap": -17.78
+   },
+   "rows": [
+    {
+     "cusip": "U2069EAB6",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "last_trade": 81.5,
+     "trade_date": "2026-10-14",
+     "mark": 99.2848,
+     "period": "2026-04-30",
+     "gap": -17.78
+    },
+    {
+     "cusip": "21873SAH1",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "last_trade": 72.25,
+     "trade_date": "2026-10-14",
+     "mark": 88.2193,
+     "period": "2026-07-31",
+     "gap": -15.97
+    },
+    {
+     "cusip": "21873SAD0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "last_trade": 78.6464,
+     "trade_date": "2026-10-14",
+     "mark": 94.2279,
+     "period": "2026-07-31",
+     "gap": -15.58
+    },
+    {
+     "cusip": "21873SAK4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.625% senior notes due 2032",
+     "last_trade": 77.875,
+     "trade_date": "2026-10-14",
+     "mark": 89.5486,
+     "period": "2026-07-31",
+     "gap": -11.67
+    },
+    {
+     "cusip": "U2069EAE0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "last_trade": 78.0,
+     "trade_date": "2026-10-14",
+     "mark": 89.3083,
+     "period": "2026-07-31",
+     "gap": -11.31
+    },
+    {
+     "cusip": "U2069EAA8",
+     "issuer": "CoreWeave Inc.",
+     "security": "",
+     "last_trade": 87.361,
+     "trade_date": "2026-10-14",
+     "mark": 98.4956,
+     "period": "2026-01-31",
+     "gap": -11.13
+    },
+    {
+     "cusip": "21873SAG3",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% senior notes due 2031",
+     "last_trade": 81.4375,
+     "trade_date": "2026-10-14",
+     "mark": 90.7633,
+     "period": "2026-07-31",
+     "gap": -9.33
+    },
+    {
+     "cusip": "21873SAC2",
+     "issuer": "COREWEAVE, INC.",
+     "security": "9.00% senior notes due 2031",
+     "last_trade": 81.21875,
+     "trade_date": "2026-10-14",
+     "mark": 90.3111,
+     "period": "2026-07-31",
+     "gap": -9.09
+    },
+    {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "last_trade": 92.1875,
+     "trade_date": "2026-10-14",
+     "mark": 100.3104,
+     "period": "2026-07-31",
+     "gap": -8.12
+    },
+    {
+     "cusip": "74690FAY2",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "last_trade": 92.38,
+     "trade_date": "2026-09-22",
+     "mark": 99.306,
+     "period": "2026-06-30",
+     "gap": -6.93
+    },
+    {
+     "cusip": "21873SAB4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.25% senior notes due 2030",
+     "last_trade": 86.75,
+     "trade_date": "2026-10-14",
+     "mark": 93.5597,
+     "period": "2026-07-31",
+     "gap": -6.81
+    },
+    {
+     "cusip": "83577VAA8",
+     "issuer": "SOPAIPILLA INVESTOR LLC",
+     "security": "7.534% senior secured notes due 2048",
+     "last_trade": 98.150957,
+     "trade_date": "2026-10-14",
+     "mark": 103.6616,
+     "period": "2026-07-31",
+     "gap": -5.51
+    },
+    {
+     "cusip": "076912AA2",
+     "issuer": "BEIGNET INVESTOR LLC",
+     "security": "6.581% senior secured notes due 2049",
+     "last_trade": 91.533,
+     "trade_date": "2026-10-14",
+     "mark": 96.8584,
+     "period": "2026-07-31",
+     "gap": -5.33
+    },
+    {
+     "cusip": "74751AAA1",
+     "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+     "security": "",
+     "last_trade": 87.357,
+     "trade_date": "2026-10-14",
+     "mark": 91.4537,
+     "period": "2026-07-31",
+     "gap": -4.1
+    },
+    {
+     "cusip": "74690FBC9",
+     "issuer": "QTS Issuer ABS II LLC",
+     "security": "",
+     "last_trade": 94.4375,
+     "trade_date": "2026-10-14",
+     "mark": 98.4558,
+     "period": "2026-07-31",
+     "gap": -4.02
+    },
+    {
+     "cusip": "74690FAA4",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "last_trade": 92.8125,
+     "trade_date": "2026-10-14",
+     "mark": 96.7687,
+     "period": "2026-07-31",
+     "gap": -3.96
+    },
+    {
+     "cusip": "74690FAQ9",
+     "issuer": "QTSII 2026-1A 5.364% 01/05/31",
+     "security": "",
+     "last_trade": 94.23,
+     "trade_date": "2026-09-29",
+     "mark": 97.6206,
+     "period": "2026-07-31",
+     "gap": -3.39
+    },
+    {
+     "cusip": "01627AAF5",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 96.25,
+     "trade_date": "2026-10-13",
+     "mark": 99.6186,
+     "period": "2026-07-31",
+     "gap": -3.37
+    },
+    {
+     "cusip": "85236KAP7",
+     "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+     "security": "",
+     "last_trade": 93.19,
+     "trade_date": "2026-09-17",
+     "mark": 96.4776,
+     "period": "2026-07-31",
+     "gap": -3.29
+    },
+    {
+     "cusip": "20469BAG2",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "last_trade": 94.64,
+     "trade_date": "2026-10-06",
+     "mark": 97.9204,
+     "period": "2026-07-31",
+     "gap": -3.28
+    },
+    {
+     "cusip": "74690FBR6",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "last_trade": 94.88,
+     "trade_date": "2026-09-24",
+     "mark": 98.083,
+     "period": "2026-07-31",
+     "gap": -3.2
+    },
+    {
+     "cusip": "74690FBK1",
+     "issuer": "QTSII 2026-6A  5.34% 07/05/31",
+     "security": "",
+     "last_trade": 95.79,
+     "trade_date": "2026-09-28",
+     "mark": 98.9005,
+     "period": "2026-07-31",
+     "gap": -3.11
+    },
+    {
+     "cusip": "20469BAF4",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "last_trade": 94.43,
+     "trade_date": "2026-10-02",
+     "mark": 97.4538,
+     "period": "2026-07-31",
+     "gap": -3.02
+    },
+    {
+     "cusip": "20469BAB3",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 96.96,
+     "trade_date": "2026-09-15",
+     "mark": 99.9714,
+     "period": "2026-07-31",
+     "gap": -3.01
+    },
+    {
+     "cusip": "20469CAE5",
+     "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
+     "security": "",
+     "last_trade": 94.351562,
+     "trade_date": "2026-10-13",
+     "mark": 97.2861,
+     "period": "2026-07-31",
+     "gap": -2.93
+    },
+    {
+     "cusip": "76134KAE4",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 95.24,
+     "trade_date": "2026-09-21",
+     "mark": 98.0039,
+     "period": "2026-07-31",
+     "gap": -2.76
+    },
+    {
+     "cusip": "74690DAA9",
+     "issuer": "QTS ISSUER ABS I LLC",
+     "security": "",
+     "last_trade": 95.89,
+     "trade_date": "2026-09-28",
+     "mark": 98.5284,
+     "period": "2026-07-31",
+     "gap": -2.64
+    },
+    {
+     "cusip": "85236KAR3",
+     "issuer": "Stack Infrastructure Issuer LLC",
+     "security": "",
+     "last_trade": 93.47,
+     "trade_date": "2026-09-24",
+     "mark": 96.0225,
+     "period": "2026-07-31",
+     "gap": -2.55
+    },
+    {
+     "cusip": "76134KAJ3",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 94.742187,
+     "trade_date": "2026-10-07",
+     "mark": 97.1376,
+     "period": "2026-07-31",
+     "gap": -2.4
+    },
+    {
+     "cusip": "78520EAC0",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "last_trade": 95.73,
+     "trade_date": "2026-09-24",
+     "mark": 98.1313,
+     "period": "2026-06-30",
+     "gap": -2.4
+    },
+    {
+     "cusip": "76134KAH7",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 95.35,
+     "trade_date": "2026-09-23",
+     "mark": 97.6909,
+     "period": "2026-07-31",
+     "gap": -2.34
+    },
+    {
+     "cusip": "20469CAA3",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 97.03,
+     "trade_date": "2026-09-28",
+     "mark": 99.2093,
+     "period": "2026-07-31",
+     "gap": -2.18
+    },
+    {
+     "cusip": "20469AAB5",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "last_trade": 98.2,
+     "trade_date": "2026-10-05",
+     "mark": 100.2779,
+     "period": "2026-07-31",
+     "gap": -2.08
+    },
+    {
+     "cusip": "01627AAH1",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC 6.688% BDS 15/06/56 USD25000144A",
+     "security": "",
+     "last_trade": 97.5,
+     "trade_date": "2026-09-15",
+     "mark": 99.5211,
+     "period": "2026-07-31",
+     "gap": -2.02
+    },
+    {
+     "cusip": "92212KAJ5",
+     "issuer": "Vantage Data Centers Issuer",
+     "security": "",
+     "last_trade": 94.402343,
+     "trade_date": "2026-10-07",
+     "mark": 96.3807,
+     "period": "2026-07-31",
+     "gap": -1.98
+    },
+    {
+     "cusip": "20469BAA5",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 98.13,
+     "trade_date": "2026-09-22",
+     "mark": 100.0375,
+     "period": "2026-07-31",
+     "gap": -1.91
+    },
+    {
+     "cusip": "20469AAC3",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "last_trade": 98.99,
+     "trade_date": "2026-09-24",
+     "mark": 100.8198,
+     "period": "2026-07-31",
+     "gap": -1.83
+    },
+    {
+     "cusip": "85236KAM4",
+     "issuer": "Stack Infrastructure Issuer LL",
+     "security": "",
+     "last_trade": 98.63,
+     "trade_date": "2026-09-21",
+     "mark": 100.3782,
+     "period": "2026-07-31",
+     "gap": -1.75
+    },
+    {
+     "cusip": "92212KAG1",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "last_trade": 96.25,
+     "trade_date": "2026-09-24",
+     "mark": 97.9679,
+     "period": "2026-07-31",
+     "gap": -1.72
+    },
+    {
+     "cusip": "20469AAD1",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "last_trade": 97.11,
+     "trade_date": "2026-09-18",
+     "mark": 98.6147,
+     "period": "2026-07-31",
+     "gap": -1.5
+    },
+    {
+     "cusip": "78520EAG1",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "last_trade": 98.81,
+     "trade_date": "2026-09-21",
+     "mark": 100.2208,
+     "period": "2026-07-31",
+     "gap": -1.41
+    },
+    {
+     "cusip": "85236KAK8",
+     "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+     "security": "",
+     "last_trade": 98.76,
+     "trade_date": "2026-09-23",
+     "mark": 100.1031,
+     "period": "2026-07-31",
+     "gap": -1.34
+    },
+    {
+     "cusip": "76134KAA2",
+     "issuer": "Retained Vantage Data Centers Issuer, LLC",
+     "security": "",
+     "last_trade": 97.472656,
+     "trade_date": "2026-10-14",
+     "mark": 98.6862,
+     "period": "2026-07-31",
+     "gap": -1.21
+    },
+    {
+     "cusip": "20469BAD9",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "last_trade": 96.76,
+     "trade_date": "2026-09-15",
+     "mark": 97.8234,
+     "period": "2026-07-31",
+     "gap": -1.06
+    },
+    {
+     "cusip": "20469AAE9",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 99.78,
+     "trade_date": "2026-07-28",
+     "mark": 100.6679,
+     "period": "2026-06-30",
+     "gap": -0.89
+    },
+    {
+     "cusip": "01627AAB4",
+     "issuer": "Aligned Data Centers Issuer LLC",
+     "security": "",
+     "last_trade": 98.87,
+     "trade_date": "2026-03-25",
+     "mark": 99.6265,
+     "period": "2026-06-30",
+     "gap": -0.76
+    },
+    {
+     "cusip": "92212KAH9",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 96.79,
+     "trade_date": "2026-09-03",
+     "mark": 97.4502,
+     "period": "2026-07-31",
+     "gap": -0.66
+    },
+    {
+     "cusip": "74690FBQ8",
+     "issuer": "QTSII 2026-7A 5.931% 07/05/33",
+     "security": "",
+     "last_trade": 97.61,
+     "trade_date": "2026-09-04",
+     "mark": 98.0018,
+     "period": "2026-07-31",
+     "gap": -0.39
+    },
+    {
+     "cusip": "74690FBL9",
+     "issuer": "QTSII 2026-6A 5.682% 07/05/31",
+     "security": "",
+     "last_trade": 98.86,
+     "trade_date": "2026-08-25",
+     "mark": 99.1792,
+     "period": "2026-07-31",
+     "gap": -0.32
+    },
+    {
+     "cusip": "74690FBE5",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "last_trade": 99.25,
+     "trade_date": "2026-08-24",
+     "mark": 99.5331,
+     "period": "2026-07-31",
+     "gap": -0.28
+    },
+    {
+     "cusip": "85236KAE2",
+     "issuer": "Stack Infrastructure Issuer LLC",
+     "security": "",
+     "last_trade": 99.5,
+     "trade_date": "2026-01-27",
+     "mark": 99.7443,
+     "period": "2026-02-28",
+     "gap": -0.24
+    },
+    {
+     "cusip": "76134KAC8",
+     "issuer": "Retained Vantage Data Centers",
+     "security": "",
+     "last_trade": 97.96,
+     "trade_date": "2026-09-09",
+     "mark": 98.115,
+     "period": "2026-07-31",
+     "gap": -0.16
+    },
+    {
+     "cusip": "01627AAA6",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 99.56,
+     "trade_date": "2026-06-17",
+     "mark": 99.6724,
+     "period": "2026-06-30",
+     "gap": -0.11
+    },
+    {
+     "cusip": "92212KAB2",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 99.89,
+     "trade_date": "2025-09-02",
+     "mark": 99.9976,
+     "period": "2025-08-31",
+     "gap": -0.11
+    },
+    {
+     "cusip": "74690DAB7",
+     "issuer": "QTS ISSUER ABS I LLC",
+     "security": "",
+     "last_trade": 96.43,
+     "trade_date": "2026-07-31",
+     "mark": 96.4864,
+     "period": "2026-07-31",
+     "gap": -0.06
+    },
+    {
+     "cusip": "74690FBN5",
+     "issuer": "QTSII 2026-6A 7.142% 07/05/31",
+     "security": "",
+     "last_trade": 99.34,
+     "trade_date": "2026-08-26",
+     "mark": 99.3955,
+     "period": "2026-07-31",
+     "gap": -0.06
+    },
+    {
+     "cusip": "20469AAF6",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 99.26,
+     "trade_date": "2026-07-27",
+     "mark": 99.3127,
+     "period": "2026-07-31",
+     "gap": -0.05
+    },
+    {
+     "cusip": "74690FBP0",
+     "issuer": "QTSII 2026-7A 5.589% 07/05/33",
+     "security": "",
+     "last_trade": 98.02,
+     "trade_date": "2026-09-03",
+     "mark": 98.0683,
+     "period": "2026-07-31",
+     "gap": -0.05
+    },
+    {
+     "cusip": "92212KAE6",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "last_trade": 100.47,
+     "trade_date": "2025-10-31",
+     "mark": 100.5174,
+     "period": "2025-10-31",
+     "gap": -0.05
+    },
+    {
+     "cusip": "78520EAK2",
+     "issuer": "SABEY DATA CENTER ISSUER LLC",
+     "security": "",
+     "last_trade": 98.25,
+     "trade_date": "2026-07-29",
+     "mark": 98.2137,
+     "period": "2026-07-31",
+     "gap": 0.04
+    },
+    {
+     "cusip": "78520EAE6",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "last_trade": 100.38,
+     "trade_date": "2026-01-12",
+     "mark": 100.3055,
+     "period": "2026-01-31",
+     "gap": 0.07
+    },
+    {
+     "cusip": "01627AAE8",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LL ADC 2023 2A A2 144A",
+     "security": "",
+     "last_trade": 100.71,
+     "trade_date": "2026-06-17",
+     "mark": 100.63,
+     "period": "2026-06-30",
+     "gap": 0.08
+    },
+    {
+     "cusip": "01627AAC2",
+     "issuer": "Aligned Data Centers Issuer LLC",
+     "security": "",
+     "last_trade": 100.08,
+     "trade_date": "2026-05-19",
+     "mark": 99.9943,
+     "period": "2026-06-30",
+     "gap": 0.09
+    },
+    {
+     "cusip": "74690FAS5",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "last_trade": 98.8,
+     "trade_date": "2026-08-04",
+     "mark": 98.7107,
+     "period": "2026-07-31",
+     "gap": 0.09
+    },
+    {
+     "cusip": "78520EAB2",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "last_trade": 99.94,
+     "trade_date": "2026-06-11",
+     "mark": 99.8252,
+     "period": "2026-05-31",
+     "gap": 0.11
+    },
+    {
+     "cusip": "92212KAD8",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 99.6,
+     "trade_date": "2026-08-13",
+     "mark": 99.4774,
+     "period": "2026-07-31",
+     "gap": 0.12
+    },
+    {
+     "cusip": "74690FAB2",
+     "issuer": "QTSII 2025-1A 5.778% 10/05/30",
+     "security": "",
+     "last_trade": 95.31,
+     "trade_date": "2026-05-11",
+     "mark": 95.1096,
+     "period": "2026-07-31",
+     "gap": 0.2
+    },
+    {
+     "cusip": "01627AAD0",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "last_trade": 100.47,
+     "trade_date": "2026-03-31",
+     "mark": 100.0661,
+     "period": "2026-06-30",
+     "gap": 0.4
+    },
+    {
+     "cusip": "78520EAH9",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "last_trade": 100.13,
+     "trade_date": "2026-07-15",
+     "mark": 99.6804,
+     "period": "2026-07-31",
+     "gap": 0.45
+    },
+    {
+     "cusip": "92212KAC0",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "last_trade": 96.539062,
+     "trade_date": "2026-10-08",
+     "mark": 96.0863,
+     "period": "2026-07-31",
+     "gap": 0.45
+    },
+    {
+     "cusip": "74690FBM7",
+     "issuer": "QTS Issuer ABS II LLC",
+     "security": "",
+     "last_trade": 99.74,
+     "trade_date": "2026-08-14",
+     "mark": 99.0008,
+     "period": "2026-07-31",
+     "gap": 0.74
+    },
+    {
+     "cusip": "20469BAC1",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC",
+     "security": "",
+     "last_trade": 100.84,
+     "trade_date": "2026-04-14",
+     "mark": 100.06,
+     "period": "2026-07-31",
+     "gap": 0.78
+    },
+    {
+     "cusip": "74690FAU0",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "last_trade": 98.3,
+     "trade_date": "2026-08-14",
+     "mark": 96.6221,
+     "period": "2026-07-31",
+     "gap": 1.68
+    },
+    {
+     "cusip": "20469BAH0",
+     "issuer": "Compass Datacenters Issuer III LLC",
+     "security": "",
+     "last_trade": 99.23,
+     "trade_date": "2026-04-08",
+     "mark": 97.3053,
+     "period": "2026-07-31",
+     "gap": 1.92
+    },
+    {
+     "cusip": "76134KAN4",
+     "issuer": "Retained Vantage Data Centers Issuer, LLC",
+     "security": "",
+     "last_trade": 98.08,
+     "trade_date": "2026-03-03",
+     "mark": 96.0879,
+     "period": "2026-06-30",
+     "gap": 1.99
+    },
+    {
+     "cusip": "20469CAC9",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "last_trade": 101.34,
+     "trade_date": "2025-11-05",
+     "mark": 98.5022,
+     "period": "2026-07-31",
+     "gap": 2.84
+    }
+   ]
+  },
+  "issuer_curves": {
+   "method": "Spread to Treasury (bp) against years to maturity, one point per bond. Price basis is the last TRACE trade where one exists, else the latest fund mark; the basis is stated per point. Yield is yield-to-worst on the page convention.",
+   "limits": "Mark-based points are period-end valuations, not trades; a curve that mixes bases is an approximation and is labelled as such per point.",
+   "summary": {
+    "issuers_with_2plus_points": 13,
+    "largest_curve_points": 9
+   },
+   "curves": [
+    {
+     "issuer": "COREWEAVE",
+     "issuer_display": "COREWEAVE INC",
+     "points": [
+      {
+       "cusip": "21873SAB4",
+       "security": "9.25% senior notes due 2030",
+       "years": 3.63,
+       "price": 86.75,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 14.019742522803892,
+       "spread_bp": 903
+      },
+      {
+       "cusip": "U2069EAA8",
+       "security": "",
+       "years": 3.63,
+       "price": 87.361,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 13.77991499255915,
+       "spread_bp": 879
+      },
+      {
+       "cusip": "21873SAC2",
+       "security": "9.00% senior notes due 2031",
+       "years": 4.3,
+       "price": 81.21875,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 15.083613370701542,
+       "spread_bp": 1009
+      },
+      {
+       "cusip": "U2069EAB6",
+       "security": "",
+       "years": 4.3,
+       "price": 81.5,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 14.979804416420372,
+       "spread_bp": 999
+      },
+      {
+       "cusip": "21873SAG3",
+       "security": "9.75% senior notes due 2031",
+       "years": 4.96,
+       "price": 81.4375,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 15.20757417283949,
+       "spread_bp": 1022
+      },
+      {
+       "cusip": "21873SAD0",
+       "security": "",
+       "years": 5.13,
+       "price": 78.6464,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 6.741675920417456,
+       "spread_bp": 175
+      },
+      {
+       "cusip": "21873SAK4",
+       "security": "9.625% senior notes due 2032",
+       "years": 5.75,
+       "price": 77.875,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 15.574332671053636,
+       "spread_bp": 1055
+      },
+      {
+       "cusip": "U2069EAE0",
+       "security": "",
+       "years": 5.75,
+       "price": 78.0,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 15.534775918943499,
+       "spread_bp": 1051
+      },
+      {
+       "cusip": "21873SAH1",
+       "security": "",
+       "years": 5.97,
+       "price": 72.25,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 7.627797544192805,
+       "spread_bp": 260
+      }
+     ]
+    },
+    {
+     "issuer": "COMPASS DATACENTERS ISSUER II",
+     "issuer_display": "Compass Datacenters Issuer II, LLC",
+     "points": [
+      {
+       "cusip": "20469AAB5",
+       "security": "",
+       "years": 22.39,
+       "price": 98.2,
+       "basis": "trade",
+       "basis_date": "2026-10-05",
+       "yield_pct": 5.895241146954766,
+       "spread_bp": 49
+      },
+      {
+       "cusip": "20469AAC3",
+       "security": "",
+       "years": 22.42,
+       "price": 98.99,
+       "basis": "trade",
+       "basis_date": "2026-09-24",
+       "yield_pct": 7.089874240894312,
+       "spread_bp": 169
+      },
+      {
+       "cusip": "20469AAD1",
+       "security": "",
+       "years": 22.93,
+       "price": 97.11,
+       "basis": "trade",
+       "basis_date": "2026-09-18",
+       "yield_pct": 5.239717772358632,
+       "spread_bp": -17
+      },
+      {
+       "cusip": "20469AAE9",
+       "security": "",
+       "years": 23.08,
+       "price": 99.78,
+       "basis": "trade",
+       "basis_date": "2026-07-28",
+       "yield_pct": 6.016299324478669,
+       "spread_bp": 60
+      },
+      {
+       "cusip": "20469AAF6",
+       "security": "",
+       "years": 23.08,
+       "price": 99.26,
+       "basis": "trade",
+       "basis_date": "2026-07-27",
+       "yield_pct": 6.0584774998022395,
+       "spread_bp": 65
+      },
+      {
+       "cusip": "20469BAA5",
+       "security": "",
+       "years": 23.43,
+       "price": 98.13,
+       "basis": "trade",
+       "basis_date": "2026-09-22",
+       "yield_pct": 5.802600407127501,
+       "spread_bp": 38
+      },
+      {
+       "cusip": "20469CAA3",
+       "security": "",
+       "years": 23.66,
+       "price": 97.03,
+       "basis": "trade",
+       "basis_date": "2026-09-28",
+       "yield_pct": 5.54223482231857,
+       "spread_bp": 12
+      },
+      {
+       "cusip": "20469CAC9",
+       "security": "",
+       "years": 24.55,
+       "price": 101.34,
+       "basis": "trade",
+       "basis_date": "2025-11-05",
+       "yield_pct": 5.65409237352037,
+       "spread_bp": 22
+      }
+     ]
+    },
+    {
+     "issuer": "SABEY DATA CENTER ISSUER",
+     "issuer_display": "Sabey Data Center Issuer LLC",
+     "points": [
+      {
+       "cusip": "78520EAB2",
+       "security": "",
+       "years": 20.02,
+       "price": 99.94,
+       "basis": "trade",
+       "basis_date": "2026-06-11",
+       "yield_pct": 1.8845984150662298,
+       "spread_bp": -348
+      },
+      {
+       "cusip": "78520EAC0",
+       "security": "",
+       "years": 20.74,
+       "price": 95.73,
+       "basis": "trade",
+       "basis_date": "2026-09-24",
+       "yield_pct": 5.342414307944288,
+       "spread_bp": -3
+      },
+      {
+       "cusip": "78520EAE6",
+       "security": "",
+       "years": 22.27,
+       "price": 100.38,
+       "basis": "trade",
+       "basis_date": "2026-01-12",
+       "yield_pct": 6.21726613536866,
+       "spread_bp": 82
+      },
+      {
+       "cusip": "78520EAG1",
+       "security": "",
+       "years": 22.58,
+       "price": 98.81,
+       "basis": "trade",
+       "basis_date": "2026-09-21",
+       "yield_pct": 6.097235753713348,
+       "spread_bp": 69
+      },
+      {
+       "cusip": "78520EAH9",
+       "security": "",
+       "years": 23.61,
+       "price": 100.13,
+       "basis": "trade",
+       "basis_date": "2026-07-15",
+       "yield_pct": 5.722377281130098,
+       "spread_bp": 30
+      },
+      {
+       "cusip": "78520EAK2",
+       "security": "",
+       "years": 24.48,
+       "price": 98.25,
+       "basis": "trade",
+       "basis_date": "2026-07-29",
+       "yield_pct": 5.6142593573020205,
+       "spread_bp": 18
+      }
+     ]
+    },
+    {
+     "issuer": "ALIGNED DATA CENTERS ISSUER",
+     "issuer_display": "ALIGNED DATA CENTERS ISSUER LLC",
+     "points": [
+      {
+       "cusip": "01627AAA6",
+       "security": "",
+       "years": 20.16,
+       "price": 99.56,
+       "basis": "trade",
+       "basis_date": "2026-06-17",
+       "yield_pct": 1.9634713155658234,
+       "spread_bp": -340
+      },
+      {
+       "cusip": "01627AAB4",
+       "security": "",
+       "years": 20.39,
+       "price": 98.87,
+       "basis": "trade",
+       "basis_date": "2026-03-25",
+       "yield_pct": 2.553354216560133,
+       "spread_bp": -281
+      },
+      {
+       "cusip": "01627AAC2",
+       "security": "",
+       "years": 21.41,
+       "price": 100.08,
+       "basis": "trade",
+       "basis_date": "2026-05-19",
+       "yield_pct": 6.3424665975502,
+       "spread_bp": 96
+      },
+      {
+       "cusip": "01627AAD0",
+       "security": "",
+       "years": 22.38,
+       "price": 100.47,
+       "basis": "trade",
+       "basis_date": "2026-03-31",
+       "yield_pct": 5.9610442331888835,
+       "spread_bp": 56
+      },
+      {
+       "cusip": "01627AAF5",
+       "security": "",
+       "years": 29.67,
+       "price": 96.25,
+       "basis": "trade",
+       "basis_date": "2026-10-13",
+       "yield_pct": 6.7059032486063375,
+       "spread_bp": 118
+      }
+     ]
+    },
+    {
+     "issuer": "QTS ISSUER ABS II",
+     "issuer_display": "QTS ISSUER ABS II LLC",
+     "points": [
+      {
+       "cusip": "74690FAA4",
+       "security": "",
+       "years": 28.97,
+       "price": 92.8125,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 5.5452078722786124,
+       "spread_bp": 3
+      },
+      {
+       "cusip": "74690FAY2",
+       "security": "",
+       "years": 29.29,
+       "price": 92.38,
+       "basis": "trade",
+       "basis_date": "2026-09-22",
+       "yield_pct": 6.755601141276135,
+       "spread_bp": 124
+      },
+      {
+       "cusip": "74690FAU0",
+       "security": "",
+       "years": 29.39,
+       "price": 98.3,
+       "basis": "trade",
+       "basis_date": "2026-08-14",
+       "yield_pct": 5.970869264142187,
+       "spread_bp": 45
+      },
+      {
+       "cusip": "74690FAS5",
+       "security": "",
+       "years": 29.42,
+       "price": 98.8,
+       "basis": "trade",
+       "basis_date": "2026-08-04",
+       "yield_pct": 6.823488524863186,
+       "spread_bp": 130
+      },
+      {
+       "cusip": "74690FBE5",
+       "security": "",
+       "years": 29.56,
+       "price": 99.25,
+       "basis": "trade",
+       "basis_date": "2026-08-24",
+       "yield_pct": 6.233486271547206,
+       "spread_bp": 71
+      }
+     ]
+    },
+    {
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER",
+     "issuer_display": "Retained Vantage Data Centers Issuer, LLC",
+     "points": [
+      {
+       "cusip": "76134KAA2",
+       "security": "",
+       "years": 21.92,
+       "price": 97.472656,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 5.194141429427757,
+       "spread_bp": -20
+      },
+      {
+       "cusip": "76134KAE4",
+       "security": "",
+       "years": 21.98,
+       "price": 95.24,
+       "basis": "trade",
+       "basis_date": "2026-09-21",
+       "yield_pct": 5.796362294404989,
+       "spread_bp": 40
+      },
+      {
+       "cusip": "76134KAJ3",
+       "security": "",
+       "years": 22.94,
+       "price": 94.742187,
+       "basis": "trade",
+       "basis_date": "2026-10-07",
+       "yield_pct": 6.207494769705213,
+       "spread_bp": 80
+      },
+      {
+       "cusip": "76134KAH7",
+       "security": "",
+       "years": 22.98,
+       "price": 95.35,
+       "basis": "trade",
+       "basis_date": "2026-09-23",
+       "yield_pct": 5.345761535749083,
+       "spread_bp": -6
+      }
+     ]
+    },
+    {
+     "issuer": "STACK INFRASTRUCTURE ISSUER",
+     "issuer_display": "Stack Infrastructure Issuer LLC",
+     "points": [
+      {
+       "cusip": "85236KAE2",
+       "security": "",
+       "years": 20.16,
+       "price": 99.5,
+       "basis": "trade",
+       "basis_date": "2026-01-27",
+       "yield_pct": 1.9069266018943987,
+       "spread_bp": -346
+      },
+      {
+       "cusip": "85236KAK8",
+       "security": "",
+       "years": 22.09,
+       "price": 98.76,
+       "basis": "trade",
+       "basis_date": "2026-09-23",
+       "yield_pct": 6.001517987287586,
+       "spread_bp": 61
+      },
+      {
+       "cusip": "85236KAP7",
+       "security": "",
+       "years": 23.69,
+       "price": 93.19,
+       "basis": "trade",
+       "basis_date": "2026-09-17",
+       "yield_pct": 5.518004900429729,
+       "spread_bp": 10
+      },
+      {
+       "cusip": "85236KAR3",
+       "security": "",
+       "years": 29.51,
+       "price": 93.47,
+       "basis": "trade",
+       "basis_date": "2026-09-24",
+       "yield_pct": 5.447258506676866,
+       "spread_bp": -7
+      }
+     ]
+    },
+    {
+     "issuer": "VANTAGE DATA CENTERS ISSUER",
+     "issuer_display": "VANTAGE DATA CENTERS ISSUER LLC",
+     "points": [
+      {
+       "cusip": "92212KAB2",
+       "security": "",
+       "years": 20.04,
+       "price": 99.89,
+       "basis": "trade",
+       "basis_date": "2025-09-02",
+       "yield_pct": 1.6514574739075139,
+       "spread_bp": -371
+      },
+      {
+       "cusip": "92212KAD8",
+       "security": "",
+       "years": 20.17,
+       "price": 99.6,
+       "basis": "trade",
+       "basis_date": "2026-08-13",
+       "yield_pct": 2.189554280690964,
+       "spread_bp": -317
+      },
+      {
+       "cusip": "92212KAH9",
+       "security": "",
+       "years": 28.95,
+       "price": 96.79,
+       "basis": "trade",
+       "basis_date": "2026-09-03",
+       "yield_pct": 5.351112631601951,
+       "spread_bp": -16
+      },
+      {
+       "cusip": "92212KAJ5",
+       "security": "",
+       "years": 29.11,
+       "price": 94.402343,
+       "basis": "trade",
+       "basis_date": "2026-10-07",
+       "yield_pct": 5.631947191807929,
+       "spread_bp": 12
+      }
+     ]
+    },
+    {
+     "issuer": "COMPASS DATACENTERS ISSUER III / (PARTNERSHIP)",
+     "issuer_display": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "points": [
+      {
+       "cusip": "20469BAD9",
+       "security": "",
+       "years": 23.86,
+       "price": 96.76,
+       "basis": "trade",
+       "basis_date": "2026-09-15",
+       "yield_pct": 5.531636687598751,
+       "spread_bp": 11
+      },
+      {
+       "cusip": "20469BAG2",
+       "security": "",
+       "years": 29.39,
+       "price": 94.64,
+       "basis": "trade",
+       "basis_date": "2026-10-06",
+       "yield_pct": 5.665126788912711,
+       "spread_bp": 15
+      },
+      {
+       "cusip": "20469BAF4",
+       "security": "",
+       "years": 29.4,
+       "price": 94.43,
+       "basis": "trade",
+       "basis_date": "2026-10-02",
+       "yield_pct": 5.271465140638409,
+       "spread_bp": -25
+      }
+     ]
+    },
+    {
+     "issuer": "VANTAGE DATA CENTERS",
+     "issuer_display": "Vantage Data Centers LLC",
+     "points": [
+      {
+       "cusip": "92212KAC0",
+       "security": "",
+       "years": 18.94,
+       "price": 96.539062,
+       "basis": "trade",
+       "basis_date": "2026-10-08",
+       "yield_pct": 2.216762196611355,
+       "spread_bp": -313
+      },
+      {
+       "cusip": "92212KAE6",
+       "security": "",
+       "years": 22.37,
+       "price": 100.47,
+       "basis": "trade",
+       "basis_date": "2025-10-31",
+       "yield_pct": 6.275872616019362,
+       "spread_bp": 88
+      },
+      {
+       "cusip": "92212KAG1",
+       "security": "",
+       "years": 22.98,
+       "price": 96.25,
+       "basis": "trade",
+       "basis_date": "2026-09-24",
+       "yield_pct": 5.386341792280924,
+       "spread_bp": -2
+      }
+     ]
+    },
+    {
+     "issuer": "BEIGNET INVESTOR",
+     "issuer_display": "BEIGNET INVESTOR LLC",
+     "points": [
+      {
+       "cusip": "076912AA2",
+       "security": "6.581% senior secured notes due 2049",
+       "years": 22.63,
+       "price": 91.533,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 7.353536587690335,
+       "spread_bp": 195
+      },
+      {
+       "cusip": "U06930AA6",
+       "security": "",
+       "years": 22.63,
+       "price": 91.53,
+       "basis": "trade",
+       "basis_date": "2026-10-14",
+       "yield_pct": 7.353829438346904,
+       "spread_bp": 195
+      }
+     ]
+    },
+    {
+     "issuer": "COMPASS DATACENTERS ISSUER III",
+     "issuer_display": "COMPASS DATACENTERS ISSUER III LLC",
+     "points": [
+      {
+       "cusip": "20469BAC1",
+       "security": "",
+       "years": 23.87,
+       "price": 100.84,
+       "basis": "trade",
+       "basis_date": "2026-04-14",
+       "yield_pct": 5.7860007158774485,
+       "spread_bp": 36
+      },
+      {
+       "cusip": "20469BAH0",
+       "security": "",
+       "years": 29.88,
+       "price": 99.23,
+       "basis": "trade",
+       "basis_date": "2026-04-08",
+       "yield_pct": 5.492280069319233,
+       "spread_bp": -4
+      }
+     ]
+    },
+    {
+     "issuer": "QTS ISSUER ABS I",
+     "issuer_display": "QTS ISSUER ABS I LLC",
+     "points": [
+      {
+       "cusip": "74690DAA9",
+       "security": "",
+       "years": 28.65,
+       "price": 95.89,
+       "basis": "trade",
+       "basis_date": "2026-09-28",
+       "yield_pct": 5.732148670476289,
+       "spread_bp": 23
+      },
+      {
+       "cusip": "74690DAB7",
+       "security": "",
+       "years": 28.82,
+       "price": 96.43,
+       "basis": "trade",
+       "basis_date": "2026-07-31",
+       "yield_pct": 6.194418284442471,
+       "spread_bp": 68
+      }
+     ]
+    }
+   ]
+  },
+  "twin_basis": {
+   "method": "Last print of the Rule 144A line minus last print of the registered line of the same security.",
+   "limits": "The two lines rarely print on the same day; the basis mixes the liquidity premium with timing differences. Both print dates are stated.",
+   "summary": {
+    "pairs": 4,
+    "mean_abs_basis": 0.25
+   },
+   "rows": [
+    {
+     "registered_cusip": "076912AA2",
+     "twin_cusip": "U06930AA6",
+     "issuer": "BEIGNET INVESTOR LLC",
+     "security": "6.581% senior secured notes due 2049",
+     "registered_price": 91.533,
+     "registered_date": "2026-10-14",
+     "twin_price": 91.53,
+     "twin_date": "2026-10-14",
+     "basis_pts": -0.0
+    },
+    {
+     "registered_cusip": "21873SAB4",
+     "twin_cusip": "U2069EAA8",
+     "issuer": "COREWEAVE INC",
+     "security": "9.25% senior notes due 2030",
+     "registered_price": 86.75,
+     "registered_date": "2026-10-14",
+     "twin_price": 87.361,
+     "twin_date": "2026-10-14",
+     "basis_pts": 0.61
+    },
+    {
+     "registered_cusip": "21873SAC2",
+     "twin_cusip": "U2069EAB6",
+     "issuer": "COREWEAVE, INC.",
+     "security": "9.00% senior notes due 2031",
+     "registered_price": 81.21875,
+     "registered_date": "2026-10-14",
+     "twin_price": 81.5,
+     "twin_date": "2026-10-14",
+     "basis_pts": 0.28
+    },
+    {
+     "registered_cusip": "21873SAK4",
+     "twin_cusip": "U2069EAE0",
+     "issuer": "COREWEAVE INC",
+     "security": "9.625% senior notes due 2032",
+     "registered_price": 77.875,
+     "registered_date": "2026-10-14",
+     "twin_price": 78.0,
+     "twin_date": "2026-10-14",
+     "basis_pts": 0.12
+    }
+   ]
+  },
+  "liquidity": {
+   "method": "Stored TRACE trades per watched bond over the collection window, with the trailing 7-day count and days since the last trade, both measured at the tape end date.",
+   "limits": "The window starts 2026-10-07 and lengthens daily. Absence of trades is evidence about liquidity, not about value.",
+   "summary": {
+    "window_start": "2026-10-07",
+    "tape_end": "2026-10-14",
+    "total_trades": 1425,
+    "traded_last_7d": 20,
+    "silent_last_7d": 60
+   },
+   "rows": [
+    {
+     "cusip": "21873SAG3",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% senior notes due 2031",
+     "trades_window": 194,
+     "trades_last_7d": 194,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "21873SAK4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.625% senior notes due 2032",
+     "trades_window": 184,
+     "trades_last_7d": 184,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "21873SAB4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.25% senior notes due 2030",
+     "trades_window": 182,
+     "trades_last_7d": 182,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "trades_window": 114,
+     "trades_last_7d": 114,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "21873SAH1",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "trades_window": 112,
+     "trades_last_7d": 112,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "U2069EAA8",
+     "issuer": "CoreWeave Inc.",
+     "security": "",
+     "trades_window": 106,
+     "trades_last_7d": 106,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "21873SAC2",
+     "issuer": "COREWEAVE, INC.",
+     "security": "9.00% senior notes due 2031",
+     "trades_window": 102,
+     "trades_last_7d": 102,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "U2069EAE0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "trades_window": 90,
+     "trades_last_7d": 90,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "83577VAA8",
+     "issuer": "SOPAIPILLA INVESTOR LLC",
+     "security": "7.534% senior secured notes due 2048",
+     "trades_window": 79,
+     "trades_last_7d": 79,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "21873SAD0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "trades_window": 69,
+     "trades_last_7d": 69,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "U2069EAB6",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "trades_window": 66,
+     "trades_last_7d": 66,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "076912AA2",
+     "issuer": "BEIGNET INVESTOR LLC",
+     "security": "6.581% senior secured notes due 2049",
+     "trades_window": 57,
+     "trades_last_7d": 57,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "74751AAA1",
+     "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+     "security": "",
+     "trades_window": 54,
+     "trades_last_7d": 54,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "U06930AA6",
+     "issuer": "Beignet Investor LLC",
+     "security": "",
+     "trades_window": 6,
+     "trades_last_7d": 6,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "76134KAA2",
+     "issuer": "Retained Vantage Data Centers Issuer, LLC",
+     "security": "",
+     "trades_window": 2,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "92212KAC0",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "trades_window": 2,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-08",
+     "days_since_last": 6
+    },
+    {
+     "cusip": "01627AAF5",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-13",
+     "days_since_last": 1
+    },
+    {
+     "cusip": "20469CAE5",
+     "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-13",
+     "days_since_last": 1
+    },
+    {
+     "cusip": "74690FAA4",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "74690FBC9",
+     "issuer": "QTS Issuer ABS II LLC",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 1,
+     "last_trade_date": "2026-10-14",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "76134KAJ3",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 0,
+     "last_trade_date": "2026-10-07",
+     "days_since_last": 7
+    },
+    {
+     "cusip": "92212KAJ5",
+     "issuer": "Vantage Data Centers Issuer",
+     "security": "",
+     "trades_window": 1,
+     "trades_last_7d": 0,
+     "last_trade_date": "2026-10-07",
+     "days_since_last": 7
+    },
+    {
+     "cusip": "01627AAA6",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "01627AAB4",
+     "issuer": "Aligned Data Centers Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "01627AAC2",
+     "issuer": "Aligned Data Centers Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "01627AAD0",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "01627AAE8",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LL ADC 2023 2A A2 144A",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "01627AAH1",
+     "issuer": "ALIGNED DATA CENTERS ISSUER LLC 6.688% BDS 15/06/56 USD25000144A",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469AAB5",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469AAC3",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469AAD1",
+     "issuer": "Compass Datacenters Issuer II, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469AAE9",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469AAF6",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAA5",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAB3",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAC1",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAD9",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAF4",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAG2",
+     "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469BAH0",
+     "issuer": "Compass Datacenters Issuer III LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469CAA3",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "20469CAC9",
+     "issuer": "Compass Datacenters Issuer II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690DAA9",
+     "issuer": "QTS ISSUER ABS I LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690DAB7",
+     "issuer": "QTS ISSUER ABS I LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FAB2",
+     "issuer": "QTSII 2025-1A 5.778% 10/05/30",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FAQ9",
+     "issuer": "QTSII 2026-1A 5.364% 01/05/31",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FAS5",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FAU0",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FAY2",
+     "issuer": "QTS ISSUER ABS II, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBE5",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBK1",
+     "issuer": "QTSII 2026-6A  5.34% 07/05/31",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBL9",
+     "issuer": "QTSII 2026-6A 5.682% 07/05/31",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBM7",
+     "issuer": "QTS Issuer ABS II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBN5",
+     "issuer": "QTSII 2026-6A 7.142% 07/05/31",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBP0",
+     "issuer": "QTSII 2026-7A 5.589% 07/05/33",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBQ8",
+     "issuer": "QTSII 2026-7A 5.931% 07/05/33",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "74690FBR6",
+     "issuer": "QTS ISSUER ABS II LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "76134KAC8",
+     "issuer": "Retained Vantage Data Centers",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "76134KAE4",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "76134KAH7",
+     "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "76134KAN4",
+     "issuer": "Retained Vantage Data Centers Issuer, LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAB2",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAC0",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAE6",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAG1",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAH9",
+     "issuer": "Sabey Data Center Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "78520EAK2",
+     "issuer": "SABEY DATA CENTER ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "85236KAE2",
+     "issuer": "Stack Infrastructure Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "85236KAK8",
+     "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "85236KAM4",
+     "issuer": "Stack Infrastructure Issuer LL",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "85236KAP7",
+     "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "85236KAR3",
+     "issuer": "Stack Infrastructure Issuer LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "92212KAB2",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "92212KAD8",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "92212KAE6",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "92212KAG1",
+     "issuer": "Vantage Data Centers LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "92212KAH9",
+     "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+     "security": "",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "21873SAL2",
+     "issuer": "COREWEAVE INC",
+     "security": "2.875% Convertible Notes due 2033",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "U2069EAC4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% Senior Notes due 2031 (144A line)",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    },
+    {
+     "cusip": "U2069EAD2",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% Senior Notes due 2031 (144A line 2)",
+     "trades_window": 0,
+     "trades_last_7d": 0,
+     "last_trade_date": null,
+     "days_since_last": null
+    }
+   ]
+  },
+  "event_study": {
+   "method": "For each material filing (8-K, 10-Q, 10-K, 6-K, S-1, 424B) by a watched issuer inside the tape window: the issuer's nearest-trading bond, its last print before the filing date and its first print on or after it.",
+   "limits": "Coverage is limited to issuers whose CIK is recorded in the forensic dataset and whose name matches the registry. The window is short and lengthens daily.",
+   "summary": {
+    "issuers_covered": [
+     "COREWEAVE, INC."
+    ],
+    "filings_with_prints": 0
+   },
+   "rows": []
+  },
+  "alert_backtest": {
+   "method": "The standing flag rule applied to history. Marks leg: a mark below 90 or a fall of 5+ points in one period fires; the knowledge date is the period end plus 60 days (the N-PORT filing lag). Tape leg: the first stored trade below 90. Reference date: 2026-10-14, the first press report of the CoreWeave slide.",
+   "limits": "The marks rule is an adaptation: the live rule uses trade-versus-mark gaps, which history cannot supply before the tape begins. The 60-day lag is the standard N-PORT deadline, not a measured per-fund lag.",
+   "summary": {
+    "bonds_fired_by_either_leg": 14,
+    "fired_on_marks_before_the_news": 10,
+    "earliest_knowledge_date": "2025-11-29",
+    "earliest_cusip": "76134KAG9"
+   },
+   "rows": [
+    {
+     "cusip": "76134KAG9",
+     "issuer": "Retained Vantage Data Centers Issuer LLC",
+     "security": "",
+     "marks_fire_period": "2025-09-30",
+     "marks_knowledge_date": "2025-11-29",
+     "tape_fire_date": null,
+     "days_marks_before_news": 319,
+     "days_tape_before_news": null
+    },
+    {
+     "cusip": "21873SAB4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.25% senior notes due 2030",
+     "marks_fire_period": "2025-11-28",
+     "marks_knowledge_date": "2026-01-27",
+     "tape_fire_date": "2026-10-13",
+     "days_marks_before_news": 260,
+     "days_tape_before_news": 1
+    },
+    {
+     "cusip": "21873SAC2",
+     "issuer": "COREWEAVE, INC.",
+     "security": "9.00% senior notes due 2031",
+     "marks_fire_period": "2025-11-28",
+     "marks_knowledge_date": "2026-01-27",
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": 260,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "21873SAD0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "marks_fire_period": "2026-02-27",
+     "marks_knowledge_date": "2026-04-28",
+     "tape_fire_date": "2026-10-13",
+     "days_marks_before_news": 169,
+     "days_tape_before_news": 1
+    },
+    {
+     "cusip": "29409YAF8",
+     "issuer": "COREWEAVE FINANCING DDTL V, LLC",
+     "security": "",
+     "marks_fire_period": "2026-05-31",
+     "marks_knowledge_date": "2026-07-30",
+     "tape_fire_date": null,
+     "days_marks_before_news": 76,
+     "days_tape_before_news": null
+    },
+    {
+     "cusip": "21873SAH1",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "marks_fire_period": "2026-06-30",
+     "marks_knowledge_date": "2026-08-29",
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": 46,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "076912AA2",
+     "issuer": "BEIGNET INVESTOR LLC",
+     "security": "6.581% senior secured notes due 2049",
+     "marks_fire_period": "2026-07-31",
+     "marks_knowledge_date": "2026-09-29",
+     "tape_fire_date": null,
+     "days_marks_before_news": 15,
+     "days_tape_before_news": null
+    },
+    {
+     "cusip": "21873SAG3",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% senior notes due 2031",
+     "marks_fire_period": "2026-07-31",
+     "marks_knowledge_date": "2026-09-29",
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": 15,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "21873SAK4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.625% senior notes due 2032",
+     "marks_fire_period": "2026-07-31",
+     "marks_knowledge_date": "2026-09-29",
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": 15,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "U2069EAE0",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "marks_fire_period": "2026-07-31",
+     "marks_knowledge_date": "2026-09-29",
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": 15,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "marks_fire_period": null,
+     "marks_knowledge_date": null,
+     "tape_fire_date": "2026-10-14",
+     "days_marks_before_news": null,
+     "days_tape_before_news": 0
+    },
+    {
+     "cusip": "74751AAA1",
+     "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+     "security": "",
+     "marks_fire_period": null,
+     "marks_knowledge_date": null,
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": null,
+     "days_tape_before_news": 6
+    },
+    {
+     "cusip": "U2069EAA8",
+     "issuer": "CoreWeave Inc.",
+     "security": "",
+     "marks_fire_period": null,
+     "marks_knowledge_date": null,
+     "tape_fire_date": "2026-10-13",
+     "days_marks_before_news": null,
+     "days_tape_before_news": 1
+    },
+    {
+     "cusip": "U2069EAB6",
+     "issuer": "COREWEAVE INC",
+     "security": "",
+     "marks_fire_period": null,
+     "marks_knowledge_date": null,
+     "tape_fire_date": "2026-10-08",
+     "days_marks_before_news": null,
+     "days_tape_before_news": 6
+    }
+   ]
+  }
+ }
+}
