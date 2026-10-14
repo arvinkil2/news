@@ -222,16 +222,20 @@ aliases:
 document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   var ths = t.querySelectorAll('thead th');
   var cg = document.createElement('colgroup');
+  var widths = [];
   ths.forEach(function(th, i){
     var col = document.createElement('col');
     var saved = null;
     try { saved = localStorage.getItem('colw-' + ti + '-' + i); } catch (e) {}
-    col.style.width = saved ? saved + 'px' : th.offsetWidth + 'px';
+    var w0 = saved ? parseInt(saved, 10) : th.offsetWidth;
+    widths.push(w0);
+    col.style.width = w0 + 'px';
     cg.appendChild(col);
   });
   t.insertBefore(cg, t.firstChild);
   t.style.tableLayout = 'fixed';
-  t.style.width = '100%';
+  function totalW(){ return widths.reduce(function(a, b){ return a + b; }, 0); }
+  t.style.width = totalW() + 'px';
   var lastDrag = 0;
   ths.forEach(function(th, i){
     var handle = document.createElement('span');
@@ -243,7 +247,9 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
       var startW = cg.children[i].offsetWidth || th.offsetWidth;
       function move(e){
         var w = Math.max(45, startW + (e.clientX - startX));
+        widths[i] = w;
         cg.children[i].style.width = w + 'px';
+        t.style.width = totalW() + 'px';
         lastDrag = Date.now();
       }
       function up(){
