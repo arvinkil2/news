@@ -1,24 +1,23 @@
 ---
 title: "Bond Price Watch"
+date: "2026-10-14"
 lede: "Fund-reported prices for the bonds that finance the AI infrastructure buildout."
 data_as_of: "Fund marks to 2026-07-31"
 aliases:
   - "/macro/bond-watch/"
 ---
 
-<div class="stat-row">
-<div class="stat"><span class="stat-label">Bonds tracked</span><span class="stat-value">59</span></div>
-<div class="stat"><span class="stat-label">Marks as of</span><span class="stat-value">2026-07-31</span></div>
-<div class="stat"><span class="stat-label">Largest latest fall</span><span class="stat-value">Coreweave Inc 1.75% due 2031 -25.0 pts</span></div>
-<div class="stat"><span class="stat-label">Marked below 90</span><span class="stat-value">2</span></div>
-</div>
-<div class="stat-row">
-<div class="stat"><span class="stat-label">TRACE prints as of</span><span class="stat-value">2026-10-14</span></div>
-<div class="stat"><span class="stat-label">Trading below 90</span><span class="stat-value">10 of 77</span></div>
-<div class="stat"><span class="stat-label">Widest gap to fund mark</span><span class="stat-value">-17.5 pts</span></div>
-</div>
+<dl class="bw-summary">
+<div class="bw-sum-item"><dt>Bonds tracked</dt><dd>59</dd></div>
+<div class="bw-sum-item"><dt>Marks as of</dt><dd>2026-07-31</dd></div>
+<div class="bw-sum-item"><dt>Largest latest fall</dt><dd>Coreweave Inc 1.75% due 2031 -25.0 pts</dd></div>
+<div class="bw-sum-item"><dt>Marked below 90</dt><dd>2</dd></div>
+<div class="bw-sum-item"><dt>TRACE prints as of</dt><dd>2026-10-14</dd></div>
+<div class="bw-sum-item"><dt>Trading below 90</dt><dd>10 of 77</dd></div>
+<div class="bw-sum-item"><dt>Widest gap to fund mark</dt><dd>-17.5 pts</dd></div>
+</dl>
 <h2>Latest TRACE prints</h2>
-<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, read daily through FINRA's public bond lookup. A bond updates only when it trades; the Traded column is the date of the last trade, and a bond that has not traded keeps its last print. Yield is the yield to maturity computed from the last trade (method note below). Spread is that yield less the interpolated US Treasury yield at the same maturity (5, 10 and 30-year points), in basis points. Duration is modified duration. A print tagged stale has not traded in over 30 days. Select a column heading to sort the table. To resize a column, drag near the boundary between two headings, or use the Columns buttons above the table.</p>
+<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, read daily through FINRA's public bond lookup. A bond updates only when it trades; the Traded column is the date of the last trade, and a bond that has not traded keeps its last print. Yield is the yield to maturity computed from the last trade (method note below). Spread is that yield less the interpolated US Treasury yield at the same maturity (5, 10 and 30-year points), in basis points. Duration is modified duration. A print tagged stale has not traded in over 30 days. Select a column heading to sort the table. To resize a column, drag near the boundary between two headings. Select the + beside a bond name to see its recent trades.</p>
 <div class="market-table-scroll"><table class="market-table sortable-trace trace-table">
 <thead><tr><th>Bond</th><th>Last trade</th><th>Yield</th><th>Spread</th><th>Gap</th><th>Fund mark</th><th>Duration</th><th>Traded</th><th>Coupon</th><th>Matures</th><th>CUSIP</th><th>Trend</th></tr></thead>
 <tbody>
@@ -102,12 +101,12 @@ aliases:
 </tbody></table></div>
 <h2>Market breadth</h2>
 <p class="data-vintage">Advances against declines across the whole US corporate bond market, from FINRA's aggregate datasets (the API layer; it names no individual bond). Data is T+1 and refreshes in the same daily pull as the prints above.</p>
-<div class="stat-row">
-<div class="stat"><span class="stat-label">Corporate, 2026-10-13</span><span class="stat-value">7,584 / 4,834</span><span class="stat-sub">61% advancing</span></div>
-<div class="stat"><span class="stat-label">Rule 144A, 2026-10-13</span><span class="stat-value">1,546 / 1,553</span><span class="stat-sub">50% advancing</span></div>
-<div class="stat"><span class="stat-label">High yield, 2026-10-13</span><span class="stat-value">788 / 722</span><span class="stat-sub">52% advancing</span></div>
-<div class="stat"><span class="stat-label">Convertibles, 2026-10-13</span><span class="stat-value">49 / 124</span><span class="stat-sub">28% advancing</span></div>
-</div>
+<dl class="bw-summary">
+<div class="bw-sum-item"><dt>Corporate, 2026-10-13</dt><dd>7,584 / 4,834 <span class="muted">61% advancing</span></dd></div>
+<div class="bw-sum-item"><dt>Rule 144A, 2026-10-13</dt><dd>1,546 / 1,553 <span class="muted">50% advancing</span></dd></div>
+<div class="bw-sum-item"><dt>High yield, 2026-10-13</dt><dd>788 / 722 <span class="muted">52% advancing</span></dd></div>
+<div class="bw-sum-item"><dt>Convertibles, 2026-10-13</dt><dd>49 / 124 <span class="muted">28% advancing</span></dd></div>
+</dl>
 <div class="market-table-scroll"><table class="market-table">
 <thead><tr><th>Date</th><th>Corporate adv</th><th>Corporate dec</th><th>144A adv</th><th>144A dec</th><th>High-yield adv</th><th>High-yield dec</th></tr></thead>
 <tbody>
@@ -278,28 +277,6 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   }
   function save(){ try { localStorage.setItem(key, JSON.stringify(pcts)); } catch (e) {} }
   apply();
-  var bar = document.createElement('div');
-  bar.className = 'col-presets';
-  var lab = document.createElement('span');
-  lab.className = 'muted'; lab.textContent = 'Columns: ';
-  bar.appendChild(lab);
-  [['Default', 0], ['Wide names', 44], ['Compact', 18]].forEach(function(pr){
-    var b = document.createElement('button');
-    b.type = 'button'; b.textContent = pr[0]; b.className = 'col-preset-btn';
-    b.addEventListener('click', function(){
-      if (pr[1] === 0) { pcts = DEFAULTS.slice(); }
-      else {
-        var rest = 100 - pr[1];
-        var others = pcts.slice(1);
-        var os = others.reduce(function(a, c){ return a + c; }, 0) || 1;
-        pcts[0] = pr[1];
-        for (var j = 1; j < n; j++) pcts[j] = others[j - 1] / os * rest;
-      }
-      apply(); save();
-    });
-    bar.appendChild(b);
-  });
-  t.parentNode.insertBefore(bar, t);
   var head = t.querySelector('thead');
   head.addEventListener('pointerdown', function(ev){
     var rects = ths.map(function(th){ return th.getBoundingClientRect(); });
@@ -335,7 +312,8 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
       var asc = !th.classList.contains('sasc');
       ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
       th.classList.add(asc ? 'sasc' : 'sdesc');
-      var rows = Array.prototype.slice.call(t.querySelectorAll('tbody tr'));
+      var rows = Array.prototype.slice.call(t.querySelectorAll('tbody tr')).filter(function(r){ return !r.classList.contains('trade-detail'); });
+      rows.forEach(function(r){ var nx = r.nextElementSibling; r._det = (nx && nx.classList.contains('trade-detail')) ? nx : null; });
       rows.sort(function(a, b){
         var x = a.children[i], y = b.children[i];
         var xv = x.hasAttribute('data-v') ? x.getAttribute('data-v') : x.textContent.trim();
@@ -345,8 +323,14 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
         return asc ? c : -c;
       });
       var tb = t.querySelector('tbody');
-      rows.forEach(function(r){ tb.appendChild(r); });
+      rows.forEach(function(r){ tb.appendChild(r); if (r._det) tb.appendChild(r._det); });
     });
   });
+});
+document.addEventListener('click', function(e){
+  if (!e.target.classList || !e.target.classList.contains('trades-toggle')) return;
+  var tr = e.target.closest('tr');
+  var nx = tr ? tr.nextElementSibling : null;
+  if (nx && nx.classList.contains('trade-detail')) { nx.hidden = !nx.hidden; e.target.textContent = nx.hidden ? '+' : '\u2212'; }
 });
 </script>

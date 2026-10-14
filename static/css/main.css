@@ -290,7 +290,7 @@ a:hover { color: var(--accent); }
 .trace-table { font-size: 0.94em; }
 
 /* Staleness tag + column resize handles (Bond Price Watch) */
-.stale-tag { font-size: .72em; text-transform: uppercase; letter-spacing: .05em; color: #7a5b00; background: #fdf0cd; padding: 1px 4px; border-radius: 3px; white-space: nowrap; }
+.stale-tag { display: inline-block; font-size: .72em; text-transform: uppercase; letter-spacing: .05em; color: #7a5b00; background: #fdf0cd; border: 1px solid #d9b83c; padding: 0 4px; border-radius: 2px; white-space: nowrap; margin-left: 6px; vertical-align: baseline; }
 .trace-price-cell.stale { color: #888; font-weight: 400; }
 .sortable-trace th { position: relative; }
 .col-resizer { position: absolute; top: 0; right: 0; width: 10px; height: 100%; cursor: col-resize; z-index: 3; touch-action: none; }
@@ -310,3 +310,27 @@ a:hover { color: var(--accent); }
 .prose table.sortable-trace { display: table; table-layout: fixed; width: 100%; }
 .prose table.sortable-trace th { overflow: hidden; }
 .prose table.sortable-trace td:first-child { white-space: normal; overflow-wrap: anywhere; }
+
+/* Bond Price Watch summary strip: editorial definition list between
+   hairlines. Replaces the rounded stat-card grid (design-rules.md). */
+.bw-summary { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0 28px; border-top: 2px solid var(--rule-strong); border-bottom: 1px solid var(--rule); padding: 10px 0 12px; margin: 18px 0 6px; }
+.bw-sum-item { padding: 5px 0; min-width: 0; }
+.bw-sum-item dt { font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 2px; }
+.bw-sum-item dd { font-family: var(--sans); font-size: 17px; font-weight: 650; margin: 0; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+@media (max-width: 760px) { .bw-summary { grid-template-columns: repeat(2, 1fr); } }
+
+/* Resizable tables: cells clip with an ellipsis instead of spilling
+   over neighbours when a column is dragged narrow. The name column
+   wraps (rule above) and is exempt. */
+.prose table.sortable-trace td { overflow: hidden; text-overflow: ellipsis; }
+.prose table.sortable-trace td:first-child { overflow: visible; text-overflow: clip; }
+
+/* Expandable trade history (Bond Price Watch) */
+.trades-toggle { display: inline-block; width: 17px; height: 17px; line-height: 15px; text-align: center; border: 1px solid #c9c2ae; border-radius: 2px; background: #fff; cursor: pointer; font: inherit; font-size: 12px; margin-right: 6px; padding: 0; }
+.trades-toggle:hover { background: #f3efe2; }
+.trade-detail td { background: #faf8f1; white-space: normal; }
+.trade-detail-box { padding: 4px 2px 10px; }
+.trade-detail-box p { margin: 2px 0 6px; }
+.mini-trades { font-size: 12.5px; border-collapse: collapse; }
+.mini-trades th, .mini-trades td { padding: 3px 16px 3px 0; border-bottom: 1px solid #eee7d3; white-space: nowrap; text-align: left; }
+.mini-trades .num { text-align: right; }
