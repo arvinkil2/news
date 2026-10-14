@@ -18,7 +18,7 @@ aliases:
 <div class="stat"><span class="stat-label">Widest gap to fund mark</span><span class="stat-value">-17.5 pts</span></div>
 </div>
 <h2>Latest TRACE prints</h2>
-<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, read daily through FINRA's public bond lookup. A bond updates only when it trades; the Traded column is the date of the last trade, and a bond that has not traded keeps its last print. Yield is the yield to maturity computed from the last trade (method note below). Spread is that yield less the interpolated US Treasury yield at the same maturity (5, 10 and 30-year points), in basis points. Duration is modified duration. A print tagged stale has not traded in over 30 days. Select a column heading to sort the table; drag a heading's right edge to resize its column.</p>
+<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, read daily through FINRA's public bond lookup. A bond updates only when it trades; the Traded column is the date of the last trade, and a bond that has not traded keeps its last print. Yield is the yield to maturity computed from the last trade (method note below). Spread is that yield less the interpolated US Treasury yield at the same maturity (5, 10 and 30-year points), in basis points. Duration is modified duration. A print tagged stale has not traded in over 30 days. Select a column heading to sort the table. To resize a column, drag near the boundary between two headings, or use the Columns buttons above the table.</p>
 <div class="market-table-scroll"><table class="market-table sortable-trace trace-table">
 <thead><tr><th>Bond</th><th>Last trade</th><th>Yield</th><th>Spread</th><th>Gap</th><th>Fund mark</th><th>Duration</th><th>Traded</th><th>Coupon</th><th>Matures</th><th>CUSIP</th><th>Trend</th></tr></thead>
 <tbody>
@@ -258,50 +258,78 @@ aliases:
 <p class="data-vintage">Source: SEC Form N-PORT bulk data, fund-reported holdings; implied price = 100 x reported value / reported principal, aggregated across reporting funds. Monthly fund marks. Funds file about 60 days after period end, so the newest mark lags the market. Not live trade prices. Yield to maturity computed by Kilambi Research from price, coupon and maturity: semiannual compounding, 30/360 day count, settlement at the report period end for marks and at the trade date for TRACE prints. Convertible yields are straight-bond yields and ignore the conversion option. A yield is shown only where coupon and maturity are on record. Securities whose reported units make the implied price unreliable are excluded. Marks are compiled by Kilambi Research from the SEC bulk data; the watch covers the bond inventory assembled for working paper KR-WP-2026-27.</p>
 <script>
 document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
-  var ths = t.querySelectorAll('thead th');
+  var ths = Array.prototype.slice.call(t.querySelectorAll('thead th'));
+  var n = ths.length;
+  var DEFAULTS = (n === 12) ? [27,8,7,9,6,8,7,10,6,5,7,5] : [34,11,9,10,9,13,7,7];
+  while (DEFAULTS.length < n) DEFAULTS.push(8);
+  var key = 'colw4-' + ti;
+  var pcts = null;
+  try { var raw = localStorage.getItem(key); if (raw) pcts = JSON.parse(raw); } catch (e) {}
+  if (!pcts || pcts.length !== n) pcts = DEFAULTS.slice();
   var cg = document.createElement('colgroup');
-  var widths = [];
-  ths.forEach(function(th, i){
-    var col = document.createElement('col');
-    var saved = null;
-    try { saved = localStorage.getItem('colw3-' + ti + '-' + i); } catch (e) {}
-    var w0 = saved ? parseInt(saved, 10) : th.offsetWidth;
-    widths.push(w0);
-    col.style.width = w0 + 'px';
-    cg.appendChild(col);
-  });
+  pcts.forEach(function(){ cg.appendChild(document.createElement('col')); });
   t.insertBefore(cg, t.firstChild);
   t.style.tableLayout = 'fixed';
   t.style.width = '100%';
   var lastDrag = 0;
-  ths.forEach(function(th, i){
-    if (i >= ths.length - 1) return;
-    var handle = document.createElement('span');
-    handle.className = 'col-resizer';
-    th.appendChild(handle);
-    handle.addEventListener('pointerdown', function(ev){
-      ev.preventDefault(); ev.stopPropagation();
-      var startX = ev.clientX;
-      var startW = widths[i];
-      var startNext = widths[i + 1];
-      var pair = startW + startNext;
-      function move(e){
-        var w = startW + (e.clientX - startX);
-        w = Math.max(45, Math.min(pair - 45, w));
-        widths[i] = w;
-        widths[i + 1] = pair - w;
-        cg.children[i].style.width = w + 'px';
-        cg.children[i + 1].style.width = (pair - w) + 'px';
-        lastDrag = Date.now();
+  function apply(){
+    var sum = pcts.reduce(function(a, b){ return a + b; }, 0) || 1;
+    pcts.forEach(function(p, i){ cg.children[i].style.width = (p / sum * 100) + '%'; });
+  }
+  function save(){ try { localStorage.setItem(key, JSON.stringify(pcts)); } catch (e) {} }
+  apply();
+  var bar = document.createElement('div');
+  bar.className = 'col-presets';
+  var lab = document.createElement('span');
+  lab.className = 'muted'; lab.textContent = 'Columns: ';
+  bar.appendChild(lab);
+  [['Default', 0], ['Wide names', 44], ['Compact', 18]].forEach(function(pr){
+    var b = document.createElement('button');
+    b.type = 'button'; b.textContent = pr[0]; b.className = 'col-preset-btn';
+    b.addEventListener('click', function(){
+      if (pr[1] === 0) { pcts = DEFAULTS.slice(); }
+      else {
+        var rest = 100 - pr[1];
+        var others = pcts.slice(1);
+        var os = others.reduce(function(a, c){ return a + c; }, 0) || 1;
+        pcts[0] = pr[1];
+        for (var j = 1; j < n; j++) pcts[j] = others[j - 1] / os * rest;
       }
-      function up(){
-        document.removeEventListener('pointermove', move);
-        document.removeEventListener('pointerup', up);
-        try { localStorage.setItem('colw3-' + ti + '-' + i, widths[i]); localStorage.setItem('colw3-' + ti + '-' + (i + 1), widths[i + 1]); } catch (e) {}
-      }
-      document.addEventListener('pointermove', move);
-      document.addEventListener('pointerup', up);
+      apply(); save();
     });
+    bar.appendChild(b);
+  });
+  t.parentNode.insertBefore(bar, t);
+  var head = t.querySelector('thead');
+  head.addEventListener('pointerdown', function(ev){
+    var rects = ths.map(function(th){ return th.getBoundingClientRect(); });
+    var best = -1, bestD = 17;
+    for (var i = 0; i < n - 1; i++) {
+      var d = Math.abs(ev.clientX - rects[i].right);
+      if (d < bestD) { bestD = d; best = i; }
+    }
+    if (best < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    var i = best;
+    var startX = ev.clientX;
+    var startPct = pcts[i], pairPct = pcts[i] + pcts[i + 1];
+    var tw = t.offsetWidth || 1;
+    var minPct = 45 / tw * 100;
+    function move(e){
+      var w = startPct + (e.clientX - startX) / tw * 100;
+      w = Math.max(minPct, Math.min(pairPct - minPct, w));
+      pcts[i] = w; pcts[i + 1] = pairPct - w;
+      apply(); lastDrag = Date.now();
+    }
+    function up(){
+      document.removeEventListener('pointermove', move);
+      document.removeEventListener('pointerup', up);
+      save();
+    }
+    document.addEventListener('pointermove', move);
+    document.addEventListener('pointerup', up);
+  });
+  ths.forEach(function(th, i){
     th.addEventListener('click', function(){
       if (Date.now() - lastDrag < 250) return;
       var asc = !th.classList.contains('sasc');

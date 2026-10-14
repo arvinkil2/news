@@ -295,3 +295,10 @@ a:hover { color: var(--accent); }
 .sortable-trace th { position: relative; }
 .col-resizer { position: absolute; top: 0; right: 0; width: 10px; height: 100%; cursor: col-resize; z-index: 3; touch-action: none; }
 .col-resizer:hover { background: rgba(0,0,0,.08); }
+
+/* Column preset controls (Bond Price Watch tables) */
+.col-presets { margin: 4px 0 8px; font-size: 13px; }
+.col-preset-btn { margin-left: 6px; padding: 2px 12px; border: 1px solid #c9c2ae; background: #fff; border-radius: 12px; cursor: pointer; font: inherit; font-size: 13px; }
+.col-preset-btn:hover { background: #f3efe2; }
+.sortable-trace thead { cursor: col-resize; }
+.sortable-trace thead th { cursor: pointer; }
