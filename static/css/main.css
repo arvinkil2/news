@@ -274,3 +274,10 @@ a:hover { color: var(--accent); }
   .trace-row { grid-template-columns: 1fr; gap: 6px; }
   .trace-nums { text-align: left; }
 }
+
+/* Sortable tables (Bond Price Watch) */
+.sortable-trace th { cursor: pointer; user-select: none; }
+.sortable-trace th.sasc::after { content: " \2191"; }
+.sortable-trace th.sdesc::after { content: " \2193"; }
+.trace-price-cell { font-weight: 700; font-size: 1.05em; }
+.trace-price-cell.low { color: var(--down, #b3261e); }
