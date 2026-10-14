@@ -1,14 +1,14 @@
 ---
 title: "Debris from intercepted missile sparks fires at Aramco headquarters"
 date: 2026-10-12T13:50:53-04:00
-last_updated: 2026-10-13T18:58:18-04:00
+last_updated: 2026-10-13T20:54:50-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
 developing: true
 update_bump: true
-lede: "Debris from a missile intercepted over Dhahran sparked fires in an employee parking area at Saudi Aramco's headquarters on Tuesday night, Bloomberg reported, hours after the Houthis named the headquarters as a target; Aramco said there were no casualties there and no impact on production, while in Riyadh debris from two intercepted cruise missiles injured four people and damaged 15 homes, Saudi Civil Defence said."
-why_it_matters: "The headquarters of the world's largest oil company is now inside the battlespace the Houthis promised earlier the same day, and even an interception that leaves production untouched tests how much risk premium crude markets attach to Saudi Arabia's Eastern Province."
+lede: "The Saudi-led coalition confirmed on Tuesday evening that it struck the Yemen Petroleum Company's Sabah station in Sanaa and other sites in Hodeidah and Dhamar, saying they supplied the Houthi missile and drone arsenal, on the same day debris from an intercepted missile sparked fires at Aramco's Dhahran headquarters and injured four people in Riyadh."
+why_it_matters: "Both sides are now striking the energy system the other relies on, Saudi aircraft hitting Houthi supply sites across Yemen while Houthi missiles reach the Eastern Province, and even interceptions that leave Saudi production untouched test how much risk premium crude markets attach to the region."
 featured: false
 evidence_grade: "B"
 sources:
@@ -48,9 +48,15 @@ sources:
     publisher: "ERT News, in Greek"
     url: "https://www.ertnews.gr/eidiseis/saoudiki-aravia-tesseris-traymaties-apo-syntrimmia-pyraylon-sto-riant-epithesi-se-ktirio-tis-aramco-stin-ntaxran/"
     published: "2026-10-13"
+  - title: "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate"
+    publisher: "Reuters, via WABX"
+    url: "https://wabx.net/2026/10/13/saudi-led-coalition-orders-evacuation-of-yemen-oil-facility-in-sanaa-ahead-of-operation/"
+    published: "2026-10-13"
 tags: []
-data_as_of: "Updated Tuesday, October 13, 2026. Latest: Bloomberg report read via Investing.com republication, and ANSA, in Italian, reporting a Reuters source with direct knowledge; the two accounts differ in emphasis, with Bloomberg reporting on Aramco's statement that only interception debris reached the site and started parking-area fires, while the Reuters source described the headquarters as struck without establishing whether directly or by debris. The coalition interception claim is Saudi Arabia's account. Riyadh toll update: ERT News, in Greek, read in full via live browser, reporting Saudi Civil Defence via the Saudi Press Agency (four injured, 15 homes damaged by debris from two intercepted cruise missiles); an Al Jazeera Arabic urgent item in the feed batch carried the same Civil Defence figures. The Energy Ministry's description of the Dhahran administrative building as targeted is the ministry's account, via ERT. Earlier updates as previously noted, including the Al Jazeera Sanaa reporting and the Houthi target warnings, which are that group's own statements. Developing item"
+data_as_of: "Updated Tuesday, October 13, 2026. Coalition confirmation update: Reuters report opened and read in full via WABX republication (updated 18:52 UTC Tuesday); the coalition's account of why the Sanaa, Hodeidah and Dhamar sites were struck and the Yemen Petroleum Company's statement that the Sabah station held no petroleum stocks are each side's own account. Turkey's support pledge is the Turkish presidency's account via Reuters. Earlier: Bloomberg report read via Investing.com republication, and ANSA, in Italian, reporting a Reuters source with direct knowledge; the two accounts differ in emphasis, with Bloomberg reporting on Aramco's statement that only interception debris reached the site and started parking-area fires, while the Reuters source described the headquarters as struck without establishing whether directly or by debris. The coalition interception claim is Saudi Arabia's account. Riyadh toll update: ERT News, in Greek, read in full via live browser, reporting Saudi Civil Defence via the Saudi Press Agency (four injured, 15 homes damaged by debris from two intercepted cruise missiles); an Al Jazeera Arabic urgent item in the feed batch carried the same Civil Defence figures. The Energy Ministry's description of the Dhahran administrative building as targeted is the ministry's account, via ERT. Earlier updates as previously noted, including the Al Jazeera Sanaa reporting and the Houthi target warnings, which are that group's own statements. Developing item"
 ---
+
+**Latest (Tuesday, October 13, evening):** the coalition confirmed in a Tuesday evening statement that it attacked the Yemen Petroleum Company's Sabah central station in Sanaa and other sites, saying the operation aimed to neutralise Houthi capabilities threatening Saudi Arabia, Yemen and international waterways, and that sites in Sanaa, Hodeidah and Dhamar were being used to supply the group's missile and drone arsenal against the kingdom and Red Sea shipping, Reuters reported. The Yemen Petroleum Company said the Sabah facility held no petroleum stocks at the time, so the strike did not affect oil reserves or supply chains. The Houthis renewed their warning to oil workers in Saudi Arabia to stay away from potential target sites, and President Erdogan told Crown Prince Mohammed bin Salman on Tuesday that Turkey would stand by the kingdom, the Turkish presidency said; Turkey and Pakistan signed a mutual defence pact with Saudi Arabia this summer, though Ankara still needs to ratify it in parliament. Washington has so far rebuffed Saudi efforts to bring it directly into the war, Reuters reported.
 
 **Latest (Tuesday, October 13, evening):** the same interception wave that reached Dhahran also hurt people in the capital. Saudi Civil Defence said debris from two intercepted cruise missiles injured four people in Riyadh and damaged 15 homes, the Saudi Press Agency reported via ERT News. In Dhahran, the Energy Ministry said the attack targeted Aramco's headquarters administrative building; the company said a small fire in a parking area was quickly brought under control, with no injuries at the site and operations unaffected.
 
