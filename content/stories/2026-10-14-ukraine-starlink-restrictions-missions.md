@@ -1,14 +1,14 @@
 ---
 title: "Ukraine says Starlink curbs failed missions without warning"
 date: 2026-10-14T05:48:43-04:00
-last_updated: 2026-10-14T17:13:23-04:00
+last_updated: 2026-10-14T19:53:16-04:00
 beats: ["politics", "technology"]
 regions: ["europe", "north-america"]
 status: "story"
 update_bump: true
 featured: false
-lede: "Starlink speed limits that disrupted Ukrainian military missions on Tuesday night were being partially lifted on Wednesday, with Kyiv saying service at speeds up to 160 kilometres per hour was being restored, as President Volodymyr Zelenskyy accused Washington of halting intelligence sharing and a Republican senator pressed Elon Musk to confirm the disruption was a glitch."
-why_it_matters: "The dispute has moved from a technical outage to a public test of American support: Kyiv says it has lost both satellite guidance for drones and United States warning of missile strikes, and whether the limits are fully removed will show how much leverage a private network and Washington now hold over Ukraine's war effort."
+lede: "Washington warned Kyiv on Monday that intelligence sharing would stop at once if Ukraine kept striking Russian energy sites, the Washington Post reported, while United States officials said on Wednesday that sharing continues, as Starlink speed limits on Ukraine's military network were being partially lifted."
+why_it_matters: "The distinction between a threat and a cutoff matters for Ukraine's air defence: the American missile warning Kyiv says it missed on two straight nights has not been switched off, according to US officials, but Washington has now stated the condition that could switch it off, tying intelligence support directly to the refinery campaign."
 evidence_grade: "B"
 sources:
   - title: "Ukrainian soldiers in combat have access to Starlink satellite internet restricted"
@@ -31,9 +31,19 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
     published: "2026-10-14"
+  - title: "US officially threatened Ukraine with ending intelligence sharing, the Washington Post reports (in Ukrainian)"
+    publisher: "UNIAN, reporting the Washington Post"
+    url: "https://www.unian.ua/world/ssha-oficiyno-prigrozili-ukrajini-pripiniti-obmin-rozviddanimi-the-washington-post-13529160.html"
+    published: "2026-10-14"
+  - title: "U.S. Continues to Provide Intelligence to Ukraine, Officials Say"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html"
+    published: "2026-10-14"
 tags: []
 data_as_of: "Updated Wednesday afternoon, October 14, 2026, Toronto time. The Hill report (published 3:22 PM ET) and the Guardian's Wednesday reports were read in full in live browser sessions. Former defence minister Mykhailo Fedorov's statement that speeds up to 160 kilometres per hour were being restored is a Ukrainian official's account reported by The Hill; no direct reply from Musk or SpaceX to Senator Tillis appears in that report. Musk's statement that the Starshield limits were set by the United States military is reported by the Guardian. Zelenskyy's intelligence sharing claim is his, as reported by the Guardian, and President Trump denied cutting intelligence sharing on Tuesday, also per the Guardian; the claim is not independently confirmed in the reporting opened. Earlier note, Wednesday early morning: the original Guardian report was opened and read in full in a live browser session; Ukrainian outlets (Ukrainska Pravda, UNIAN, NV, TSN, in Ukrainian) and Russian state outlets (TASS, RIA, RT, Lenta) reported the restrictions the same morning. Reported speed thresholds differ between outlets."
 ---
+
+**Latest (19:53 ET):** The intelligence dispute now has a paper trail. United States intelligence officials warned Ukraine's embassy in Washington on Monday that all intelligence sharing would stop immediately if Ukrainian strikes on Russian energy facilities continued, the Washington Post reported, in a report carried by UNIAN. A source familiar with the matter told the Post that sharing had not in fact been halted, at least not in full, though the threat stands, and described the warnings as delivered so widely that calls reached everyone with a Ukrainian sounding name. Separately, US officials told the New York Times on Wednesday that the United States continues to provide intelligence to Ukraine. That formal position sits against President Zelenskyy's claim that sharing had halted, and against the missed American missile warnings Kyiv reported on two consecutive nights.
 
 **Latest (17:13 ET):** Elon Musk has said the curbs were not his decision: the military Starshield network is owned and controlled by the United States government, with limits set by the US military and ultimately by the president, the Guardian reported. That statement moves the argument from SpaceX to Washington. It also reported the first quantified military cost Kyiv has put on the limits: adviser Serhiy Beskrestnov said interception of jet powered Shahed drones had already fallen from over 90 percent to about 60 percent, a Ukrainian figure that is not independently verified. On intelligence, the two presidents now contradict each other in public: President Donald Trump denied cutting intelligence sharing on Tuesday, while President Volodymyr Zelenskyy told NPR that US officials had threatened his advisers with future limits, and said Russia attacked for a second night without the customary American missile warning.
 
