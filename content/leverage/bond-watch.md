@@ -243,7 +243,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   ths.forEach(function(th, i){
     var col = document.createElement('col');
     var saved = null;
-    try { saved = localStorage.getItem('colw2-' + ti + '-' + i); } catch (e) {}
+    try { saved = localStorage.getItem('colw3-' + ti + '-' + i); } catch (e) {}
     var w0 = saved ? parseInt(saved, 10) : th.offsetWidth;
     widths.push(w0);
     col.style.width = w0 + 'px';
@@ -251,28 +251,32 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   });
   t.insertBefore(cg, t.firstChild);
   t.style.tableLayout = 'fixed';
-  function totalW(){ return widths.reduce(function(a, b){ return a + b; }, 0); }
-  t.style.width = totalW() + 'px';
+  t.style.width = '100%';
   var lastDrag = 0;
   ths.forEach(function(th, i){
+    if (i >= ths.length - 1) return;
     var handle = document.createElement('span');
     handle.className = 'col-resizer';
     th.appendChild(handle);
     handle.addEventListener('pointerdown', function(ev){
       ev.preventDefault(); ev.stopPropagation();
       var startX = ev.clientX;
-      var startW = cg.children[i].offsetWidth || th.offsetWidth;
+      var startW = widths[i];
+      var startNext = widths[i + 1];
+      var pair = startW + startNext;
       function move(e){
-        var w = Math.max(45, startW + (e.clientX - startX));
+        var w = startW + (e.clientX - startX);
+        w = Math.max(45, Math.min(pair - 45, w));
         widths[i] = w;
+        widths[i + 1] = pair - w;
         cg.children[i].style.width = w + 'px';
-        t.style.width = totalW() + 'px';
+        cg.children[i + 1].style.width = (pair - w) + 'px';
         lastDrag = Date.now();
       }
       function up(){
         document.removeEventListener('pointermove', move);
         document.removeEventListener('pointerup', up);
-        try { localStorage.setItem('colw2-' + ti + '-' + i, parseInt(cg.children[i].style.width, 10)); } catch (e) {}
+        try { localStorage.setItem('colw3-' + ti + '-' + i, widths[i]); localStorage.setItem('colw3-' + ti + '-' + (i + 1), widths[i + 1]); } catch (e) {}
       }
       document.addEventListener('pointermove', move);
       document.addEventListener('pointerup', up);
