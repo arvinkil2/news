@@ -1,39 +1,27 @@
 ---
 title: "US CPI and Warsh speech anchor week for rate bets"
 date: 2026-10-12T07:16:44-04:00
-last_updated: 2026-10-13T07:01:57-04:00
+last_updated: 2026-10-14T07:07:20-04:00
 beats: ["rates"]
 regions: ["north-america", "global"]
 status: "story"
+lede: "Treasury yields eased on Wednesday morning ahead of the September CPI at 08:30 ET, with the 10-year at 5.22 percent, down 2.3 basis points in the morning market table, and consensus expecting headline inflation of 3.6 percent, up from 3.4 percent in August."
+why_it_matters: "With money markets putting about a 78 percent chance on no change on October 28 and December still priced for a hike, a hot core print is the one outcome that could pull October back into play."
 featured: true
-lede: "Treasuries reopened lower on Tuesday after the Columbus Day closure, with the 10-year down 4.4 basis points to 5.199% in Asian trade on Tradeweb quotes, as pricing settled on a low 19% chance of an October hike ahead of Wednesday's September CPI."
-why_it_matters: "With three hikes fully priced over the next 12 months and the 10-year term premium at 91 basis points, its highest since 2014, Wednesday's print decides whether the October 28 meeting stays a placeholder or becomes a live decision."
 evidence_grade: "B"
 sources:
-  - title: "Dollar Index stalls under its high as the Fed's hawks repeat themselves"
-    publisher: "Mitrade"
-    url: "https://www.mitrade.com/insights/news/live-news/article-4-2152207-20261010"
-    published: "2026-10-10"
-  - title: "Tokyo and US Treasury Markets Close Monday Ahead of a Heavy CPI and Bank Earnings Week"
-    publisher: "PrimeXBT"
-    url: "https://primexbt.com/news/tokyo-and-us-treasury-markets-close-monday-ahead-of-a-heavy-cpi-and-bank-earning/"
-    published: "2026-10-11"
-  - title: "Here's how Treasury yields could rise to 6% - even without market upheaval"
-    publisher: "MarketWatch"
-    url: "https://www.morningstar.com/news/marketwatch/20261009181/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval"
-    published: "2026-10-09"
-  - title: "US treasury yields rise as bond market stress worsens: 4 key signs"
-    publisher: "IDNFinancials"
-    url: "https://www.idnfinancials.com/news/70119/us-treasury-yields-rise-as-bond-market-stress-worsens-4-key-signs"
-    published: "2026-10-12"
-  - title: "U.S. Treasury to auction $119 billion in 3-, 10- and 30-year debt over three days starting October 6"
-    publisher: "EconomyGlobal"
-    url: "https://economyglobal.com/news/u-s-treasury-to-auction-119-billion-in-3-10-and-30-year-debt-over-three-days-starting-october-6/"
-    published: "2026-10-02"
-  - title: "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA"
-    publisher: "ANI"
-    url: "https://apnamatvchannel.com/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa/"
-    published: "2026-10-12"
+  - title: "U.S. Treasury Yields Fall Ahead of CPI Data"
+    publisher: "Dow Jones"
+    url: "https://www.morningstar.com/news/dow-jones/20261014997/us-treasury-yields-fall-ahead-of-cpi-data"
+    published: "2026-10-14"
+  - title: "Treasury Yields, European Government Bond Yields Fall Ahead of U.S. Inflation Data"
+    publisher: "Dow Jones"
+    url: "https://www.morningstar.com/news/dow-jones/202610141944/treasury-yields-european-government-bond-yields-fall-ahead-of-us-inflation-data-update"
+    published: "2026-10-14"
+  - title: "U.S. Treasury yields inch lower as investors await key inflation report"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html"
+    published: "2026-10-14"
   - title: "U.S. Treasury Yields Fall as Markets Look to U.S. Inflation Data"
     publisher: "Dow Jones"
     url: "https://www.morningstar.com/news/dow-jones/20261013616/us-treasury-yields-fall-as-markets-look-to-us-inflation-data"
@@ -43,13 +31,13 @@ sources:
     url: "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories"
     published: "2026-10-12"
 tags: []
-data_as_of: "Updated Tuesday, October 13, 2026. Dashboard levels are the 06:00 EDT market table (10Y 5.24%, down 0.4bp on the day); the 5.199% figure is the Tuesday Asian-session Tradeweb quote via Dow Jones. October hike probability 19% per LSEG via Dow Jones; CME FedWatch hold probability via secondary reporting. CPI consensus is the Wall Street Journal poll (3.6% y/y headline)."
+data_as_of: "Updated Wednesday, October 14, 2026, before the 08:30 ET release; the CPI itself had not been published at write time and no print is reported here. Morning levels are the 03:45 ET market table (10-year 5.22 percent); Tradeweb quotes via Dow Jones are labelled by session. Consensus is the Wall Street Journal poll; October pricing is LSEG via Dow Jones."
 ---
 
-The week opens with the $32 trillion Treasury market shut for Columbus Day and Japan on holiday for Sports Day, thinning liquidity before the two data mornings that will set the Fed's path into the October 27-28 FOMC. September CPI lands Wednesday at 8:30 AM ET with consensus at 0.6% month on month, up from 0.4%, and 3.6% year on year, up from 3.4%, while core is seen cooling to 0.2% from 0.3% for a 2.5% annual rate. Thursday brings September PPI, retail sales and jobless claims at the same hour, and then Fed Chair Kevin Warsh at 15:30 GMT, his final scheduled appearance before officials go quiet on October 17.
+September CPI lands Wednesday at 08:30 ET with the Wall Street Journal poll expecting headline inflation of 3.6 percent year on year, up from 3.4 percent in August, on a 0.6 percent monthly rise, and core inflation of 2.5 percent, up from 2.4 percent, on a slower 0.2 percent monthly rise. The Federal Reserve Beige Book follows at 14:00 ET. Thursday brings September PPI, retail sales and jobless claims, and Chair Kevin Warsh speaks later this week at the IMF annual meetings, his last scheduled appearance before the October 17 blackout ahead of the October 27 to 28 FOMC.
 
-The setup is a market that has not stopped repricing upward. The 10-year closed September with its biggest quarterly jump since 1994 and sits at 5.24%, its highest since 2002, with the 30-year at 5.60%. Last week's supply was absorbed without visible strain: the Treasury's $119 billion three-day round of 3-, 10- and 30-year auctions on October 6-8 drew strong demand at yields above 5%, in line with its regular financing calendar. But stress markers are flashing beneath the calm: the cost of hedging against a 200-basis-point rise in rates over three months has reached 132 basis points, its highest since the March 2023 banking crisis, and implied volatility on one-month 10-year swap options sits at 21.4 basis points.
+Markets went into the release quietly bid. In Asian trade the two year Treasury yield fell 1 basis point to 4.782 percent, the 10-year fell 1.3 basis points to 5.203 percent and the 30-year eased 0.7 basis points to 5.555 percent on Tradeweb quotes. In European trade the 10-year was down 2.3 basis points at 5.194 percent. The morning market table, on its own vintage, showed the 5-year at 5.01 percent, down 1.2 basis points, the 10-year at 5.22 percent, down 2.3 basis points, and the 30-year at 5.56 percent, down 3.5 basis points, all still near last week's 24 year highs of 5.365 percent and 5.733 percent.
 
-Bank of America raised the stakes Monday, forecasting the Fed hikes twice more this year, in October and December, arguing the central bank risks falling behind the curve if it pauses, and lifting its third-quarter GDP estimate to 3.5% annualized from 2.4%. The bank's own framing admits the tension: policymakers appear to prefer a quarterly pace, which would mean December and March rather than back-to-back moves. Warsh has been reshaping expectations himself, telling the ECB forum in Sintra that the era of forward guidance is over in favor of a meeting-by-meeting, data-dependent approach, which makes Thursday's remarks the first unscripted read on how he weighs a 0.6% headline month against a cooling core.
+Pricing has settled, for now, on a pause this month. LSEG data put the probability of no change on October 28 at 78 percent, broadly in line with the 19 percent October hike probability reported on Tuesday, while a December hike remains the baseline in strategist notes and three hikes in total are priced over the next 12 months. The week's Fed commentary pointed both ways and is already on the record: New York's John Williams backed one more hike this year but saw none needed in 2027, Boston's Susan Collins expected rates to rise a bit further this year, and Cleveland's Beth Hammack has argued for a quicker move to restrictive policy.
 
-**Update (Tuesday, October 13):** the market reopened calmer than it closed. Yields fell in the Asian session as trading resumed after Columbus Day, helped by lower oil prices, with the 10-year down 4.4 basis points to 5.199% and the 30-year down 4.1 basis points to 5.557% on Tradeweb quotes, both now below last week's 24-year highs of 5.365% and 5.733%. The morning market table, on a different vintage, shows the 10-year at 5.24%, down 0.4 basis points on the day, the 5-year at 5.02% and the 30-year at 5.60%. Pricing has also clarified: LSEG data put the probability of a hike at the October 28 meeting at a low 19%, even as a total of three hikes are fully priced over the next 12 months, and Macquarie's Thierry Wizman argued an anticipated acceleration in September inflation is unlikely to sway the Fed into hiking this month. DZ Bank estimates the 10-year term premium at 91 basis points, in line with its average since the early 1990s but the highest since 2014, which its analysts read as leaving manageable scope for further yield rises if hawkish expectations keep scaling back. The Wall Street Journal poll consensus for Wednesday is a 3.6% year-on-year headline print, up from August's 3.4%.
+That is why the composition of Wednesday's print matters more than the headline. An energy led headline at consensus with core at 0.2 percent on the month leaves the October pause intact. A core reading at 0.4 percent or higher would force markets to revisit both October and the terminal rate, in a market where the 10-year term premium was recently estimated at 91 basis points, its highest since 2014.

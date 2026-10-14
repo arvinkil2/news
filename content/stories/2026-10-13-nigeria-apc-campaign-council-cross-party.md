@@ -1,7 +1,7 @@
 ---
 title: "Tinubu campaign names opposition governors as state coordinators"
 date: 2026-10-13T07:03:31-04:00
-last_updated: 2026-10-13T07:03:31-04:00
+last_updated: 2026-10-14T07:06:35-04:00
 beats: ["politics"]
 regions: ["africa"]
 status: "story"
@@ -18,6 +18,10 @@ sources:
     publisher: "Premium Times"
     url: "https://www.premiumtimesng.com/news/more-news/916615-2027-apc-to-inaugurate-presidential-campaign-council-for-tinubus-re-election-wednesday.html"
     published: "2026-10-13"
+  - title: "Wike defends cross-party coalition for Tinubu's re-election"
+    publisher: "News Agency of Nigeria"
+    url: "https://nannews.ng/wike-defends-cross-party-coalition-for-tinubus-re-election/"
+    published: "2026-10-13"
 tags: []
 data_as_of: "Premium Times, October 13, 2026, opened and read in full. Council list is the APC's revised expanded list following its August 22, 2026 initial list. Inauguration expected Wednesday at the Presidential Villa, Abuja."
 ---
@@ -29,3 +33,5 @@ President Bola Tinubu, the party's candidate, chairs the council himself, with V
 The list follows an August controversy over an earlier council published on August 22. The Presidency said then that the initial list had not been withdrawn and that adjustments would follow, and this expanded version reworks several senior roles while adding the cross party state coordinators.
 
 Cross party coordination is not a formal coalition, and none of the three men has changed party. Its practical effect is organisational: in Rivers, Osun and Anambra the president's campaign will run through the sitting state machinery rather than against it, which is the advantage incumbency is supposed to buy. Tinubu is expected to inaugurate the council at the Presidential Villa on Wednesday. Status: announced list, inauguration pending.
+
+Update, Wednesday October 14: Wike publicly defended the cross party arrangement in his monthly media chat in Abuja on Tuesday, as reported by the News Agency of Nigeria. He called the backing for Tinubu a rainbow coalition bringing together figures from the APC, APGA, PDP and other platforms, said he would lead the president's campaign in the FCT and Rivers despite remaining in the PDP, and argued that Soludo and Adeleke supporting the president nationally while their parties contest sub national seats is political strength rather than contradiction. He dismissed claims of internal crisis. The council inauguration is expected today, Wednesday, at the Presidential Villa. Sources added: News Agency of Nigeria, October 13, 2026, opened and read in full.

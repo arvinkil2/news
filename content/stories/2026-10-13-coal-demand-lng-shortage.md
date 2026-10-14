@@ -1,7 +1,7 @@
 ---
 title: "Coal demand rises as LNG shortage deepens into winter"
 date: 2026-10-13T06:59:50-04:00
-last_updated: 2026-10-13T06:59:50-04:00
+last_updated: 2026-10-14T07:05:29-04:00
 beats: ["commodities"]
 regions: ["asia-pacific", "europe", "global"]
 status: "story"
@@ -25,3 +25,5 @@ Coal is filling the gap because of price. Australian benchmark coal is trading a
 In September, the International Energy Agency said it expected demand for coal this year to rise to an all-time high, and coal buying is set for an especially strong fourth quarter as peak demand season begins. Japan, South Korea and China imported a collective 122 million tons of coal during the third quarter of this year, according to Kpler data reported by Reuters, and the three were importing at a rate of 143 million tons per quarter in the last three months of both 2024 and 2025. European coal imports have also risen strongly this year, with the June total up by 43 percent on the year.
 
 Supply policy could tighten the market further into the peak season. Indonesia, the world's largest coal exporter, has pursued production quotas and policy changes that saw its exports drop by as much as 23 percent in August, and the IEA expects Indonesian coal production to decline this year by over 12 million tons. Davenport Energy managing partner Toby Copson told Reuters that Asian demand remains price-sensitive, with Chinese buyers particularly unlikely to chase spot LNG cargoes unless prices mean-revert, which is currently unlikely.
+
+Update, Wednesday October 14: the demand side of the LNG shortage is now moving as well. Wood Mackenzie analysis reported this week expects South Asian LNG demand to fall by around 6 million tonnes this year, against pre-war expectations of growth of 2.7 million tonnes, or 7 percent, with the outlook beyond 2026 materially downgraded. Pakistan, Bangladesh and India are highly exposed to Qatari term supply, and Qatari cargoes have mostly disappeared from the market. OilPrice.com also reported that damaged Ras Laffan trains will take three years to repair, that QatarEnergy has extended force majeure on deliveries to Asia and Europe through the end of November, and that European storage stands at about 73 percent against over 86 percent a year earlier, consistent with the figures in the original story. Source added: "Stranded Middle East LNG supply upends gas markets", OilPrice.com, October 13, 2026, https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html (read in full). The update is single-sourced to the same publisher's synthesis, so the grade stays C.

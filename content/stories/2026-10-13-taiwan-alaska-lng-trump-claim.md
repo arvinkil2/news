@@ -1,7 +1,7 @@
 ---
 title: "Trump says Taiwan will take 30 percent of Alaska LNG gas"
 date: 2026-10-13T23:21:41-04:00
-last_updated: 2026-10-13T23:34:52-04:00
+last_updated: 2026-10-14T07:05:29-04:00
 beats: ["infra-deals"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
@@ -31,3 +31,5 @@ data_as_of: "Tuesday, October 13, 2026, night. CNBC report read via a live brows
 President Trump said at a Republican rally in Alaska on Tuesday that Taiwan has agreed to buy 30 percent of the gas carried by the Alaska LNG pipeline over 20 years, and Clarin put the accompanying Taiwanese investment at $4.4 billion. CPC, the state energy company, pushed back: it said no final procurement agreement has been signed, though it is discussing investment and offtake with the project and values the opportunity. Its documented step before Tuesday was a letter of intent signed in March 2025 covering possible purchases and investment.
 
 The project, an 807 mile pipeline from the North Slope to an export terminal near Anchorage with a price tag put at $44 billion, capacity of up to 20 million metric tons of LNG a year and Glenfarne Group as lead developer, has spent decades looking for exactly this kind of anchor buyer; Glenfarne aims to take a final investment decision on the pipeline this year.
+
+**Update, Wednesday October 14 (commodities beat):** Taiwan has since confirmed its intention to spend over $4 billion on the Alaska LNG project, and Focus Taiwan reported that state energy company CPC Corp will buy 6 million tons of liquefied gas annually from the facility starting in 2032, in line with CPC's earlier plans to lift the US share of Taiwan's LNG imports to as much as a third. OilPrice.com reported the confirmation on Wednesday, citing the Focus Taiwan report and the AFP account of the President's rally remarks putting the Taiwanese investment at up to $4.4 billion and the offtake at 30 percent of output over 20 years. The new detail narrows the volume and start date but does not resolve the core discrepancy in the original story: CPC has still not signed a final procurement agreement, so the commitment remains an intention, not a closed offtake contract. Source added: "Taiwan commits up to $4.4 billion to Alaska LNG megaproject", OilPrice.com, October 14, 2026, https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Commits-Up-to-44-Billion-to-Alaska-LNG-Megaproject.html (read in full). Grade remains C pending a signed agreement or a CPC statement confirming final terms.
