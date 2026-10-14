@@ -2384,6 +2384,57 @@
    "principal_usd": 224000.0,
    "twin_of": "21873SAK4",
    "finra_symbol": "CRWV6424532"
+  },
+  {
+   "cusip": "21873SAL2",
+   "issuer": "COREWEAVE INC",
+   "security": "2.875% Convertible Notes due 2033",
+   "class": "convertible",
+   "coupon_pct": 2.875,
+   "maturity": "2033-04-01",
+   "deal": "CoreWeave converts",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "CRWV6518881",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer search 2026-10-14; the $4.2B converts issued 2026-09-22 whose CUSIP no filing stated."
+  },
+  {
+   "cusip": "U2069EAC4",
+   "issuer": "COREWEAVE INC",
+   "security": "9.75% Senior Notes due 2031 (144A line)",
+   "class": "bond",
+   "coupon_pct": 9.75,
+   "maturity": "2031-10-01",
+   "deal": "CoreWeave",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "CRWV6364371",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer search 2026-10-14."
+  },
+  {
+   "cusip": "U2069EAD2",
+   "issuer": "COREWEAVE INC",
+   "security": "9.75% Senior Notes due 2031 (144A line 2)",
+   "class": "bond",
+   "coupon_pct": 9.75,
+   "maturity": "2031-10-01",
+   "deal": "CoreWeave",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "CRWV6369804",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer search 2026-10-14; second 144A line on the same terms."
   }
  ]
 }
