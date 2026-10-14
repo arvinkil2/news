@@ -2,6 +2,8 @@
 title: "Bond Price Watch"
 lede: "Fund-reported prices for the bonds that finance the AI infrastructure buildout."
 data_as_of: "Fund marks to 2026-07-31"
+aliases:
+  - "/macro/bond-watch/"
 ---
 
 <div class="stat-row">

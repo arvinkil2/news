@@ -35,6 +35,7 @@
     <button class="nav-trigger" data-menu="menu-sections" aria-haspopup="true" aria-expanded="false">Sections</button>
     <button class="nav-trigger" data-menu="menu-regions" aria-haspopup="true" aria-expanded="false">Regions</button>
     <button class="nav-trigger" data-menu="menu-macro" aria-haspopup="true" aria-expanded="false">Macro</button>
+    <button class="nav-trigger" data-menu="menu-leverage" aria-haspopup="true" aria-expanded="false">Leverage</button>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
   </nav>
@@ -52,7 +53,10 @@
     <a href="{{ "/macro/spreads/" | relURL }}" class="dropdown-item" role="menuitem">Sovereign Spreads</a>
     <a href="{{ "/macro/central-banks/" | relURL }}" class="dropdown-item" role="menuitem">Central Banks</a>
     <a href="{{ "/macro/economies/" | relURL }}" class="dropdown-item" role="menuitem">Economies</a>
-    <a href="{{ "/macro/bond-watch/" | relURL }}" class="dropdown-item" role="menuitem">Bond Price Watch</a>
+  </div>
+  <div class="dropdown-panel" id="menu-leverage" role="menu">
+    <a href="{{ "/leverage/bond-watch/" | relURL }}" class="dropdown-item" role="menuitem">Bond Price Watch</a>
+    <a href="{{ "/leverage/" | relURL }}" class="dropdown-item" role="menuitem">Leverage Monitor</a>
   </div>
 </header>
 <main class="content" id="main">
