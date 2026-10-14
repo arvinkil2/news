@@ -252,3 +252,25 @@ a:hover { color: var(--accent); }
 .stat-label { display: block; font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 4px; }
 .stat-value { display: block; font-size: 20px; font-weight: 700; color: #111; }
 .macro-chart { width: 100%; height: auto; margin: 8px 0 28px; background: #fff; border: 1px solid #eee; border-radius: 6px; }
+
+/* ---------- bond watch: trace ladder ---------- */
+.trace-ladder { margin: 4px 0 10px; }
+.trace-row { display: grid; grid-template-columns: minmax(170px, 250px) 1fr 168px; gap: 14px; align-items: center; padding: 10px 2px; border-bottom: 1px solid var(--rule); }
+.trace-row:last-child { border-bottom: none; }
+.trace-name { font-size: 13.5px; line-height: 1.4; }
+.trace-name .cusip { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
+.trace-track { position: relative; height: 26px; border: 1px solid var(--rule); border-radius: 4px; background: linear-gradient(to right, rgba(180,35,24,0.10) 0 60%, rgba(0,0,0,0.02) 60% 100%); }
+.trace-gap { position: absolute; top: 50%; height: 5px; transform: translateY(-50%); border-radius: 2px; }
+.trace-gap.neg { background: #b42318; }
+.trace-gap.pos { background: #1a7f37; }
+.trace-dot { position: absolute; top: 50%; width: 11px; height: 11px; border-radius: 50%; transform: translate(-50%, -50%); background: #111; border: 2px solid #fff; box-shadow: 0 0 0 1px #111; z-index: 2; }
+.trace-mark { position: absolute; top: 50%; width: 10px; height: 10px; transform: translate(-50%, -50%) rotate(45deg); background: #fff; border: 2px solid #666; z-index: 1; }
+.trace-scale { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-top: 3px; font-variant-numeric: tabular-nums; }
+.trace-nums { text-align: right; font-variant-numeric: tabular-nums; }
+.trace-price { font-size: 19px; font-weight: 700; }
+.trace-sub { font-size: 12px; color: var(--muted); margin-top: 1px; }
+.trace-spark { margin-top: 4px; }
+@media (max-width: 680px) {
+  .trace-row { grid-template-columns: 1fr; gap: 6px; }
+  .trace-nums { text-align: left; }
+}

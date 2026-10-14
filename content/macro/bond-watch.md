@@ -10,34 +10,39 @@ data_as_of: "Fund marks to 2026-07-31"
 <div class="stat"><span class="stat-label">Largest latest fall</span><span class="stat-value">Coreweave Inc 1.75% -25.0 pts</span></div>
 <div class="stat"><span class="stat-label">Marked below 90</span><span class="stat-value">2</span></div>
 </div>
+<div class="stat-row">
+<div class="stat"><span class="stat-label">TRACE prints as of</span><span class="stat-value">2026-10-14</span></div>
+<div class="stat"><span class="stat-label">Trading below 90</span><span class="stat-value">4 of 7</span></div>
+<div class="stat"><span class="stat-label">Widest gap to fund mark</span><span class="stat-value">-11.7 pts</span></div>
+</div>
 <h2>Latest TRACE prints</h2>
-<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, via FINRA's public bond lookup. A bond updates only when it trades. The gap compares the last trade with the latest fund mark; it measures how far the marks lag the market.</p>
-<div class="market-table-scroll"><table class="market-table">
-<thead><tr><th>Bond</th><th>CUSIP</th><th>Last trade</th><th>Date</th><th>Latest fund mark</th><th>Gap (pts)</th></tr></thead>
-<tbody>
-<tr><td>CoreWeave, Inc. 9.625% senior notes due 2032</td><td class="muted">21873SAK4</td><td class="num">77.86</td><td class="muted">2026-10-14</td><td class="num">89.55</td><td class="num down">-11.69</td></tr>
-<tr><td>CoreWeave, Inc. 9.75% senior notes due 2031</td><td class="muted">21873SAG3</td><td class="num">79.53</td><td class="muted">2026-10-14</td><td class="num">90.76</td><td class="num down">-11.23</td></tr>
-<tr><td>CoreWeave, Inc. 9.00% senior notes due 2031</td><td class="muted">21873SAC2</td><td class="num">81.25</td><td class="muted">2026-10-14</td><td class="num">90.31</td><td class="num down">-9.06</td></tr>
-<tr><td>CoreWeave, Inc. 9.25% senior notes due 2030</td><td class="muted">21873SAB4</td><td class="num">85.00</td><td class="muted">2026-10-14</td><td class="num">93.56</td><td class="num down">-8.56</td></tr>
-<tr><td>Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031</td><td class="muted">36322DAA4</td><td class="num">91.50</td><td class="muted">2026-10-14</td><td class="num">100.31</td><td class="num down">-8.81</td></tr>
-<tr><td>Beignet Investor LLC 6.581% senior secured notes due 2049</td><td class="muted">076912AA2</td><td class="num">91.68</td><td class="muted">2026-10-14</td><td class="num">96.86</td><td class="num down">-5.18</td></tr>
-<tr><td>Sopaipilla Investor LLC 7.534% senior secured notes due 2048</td><td class="muted">83577VAA8</td><td class="num">98.16</td><td class="muted">2026-10-14</td><td class="num">103.66</td><td class="num down">-5.50</td></tr>
-</tbody></table></div>
+<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, via FINRA's public bond lookup. A bond updates only when it trades. The black dot is the last trade; the diamond is the latest fund mark (2026-07-31); the bar between them is the gap. The shaded zone is below 90. Prices are per 100 of principal.</p>
+<div class="trace-ladder">
+<div class="trace-row"><div class="trace-name">CoreWeave, Inc. 9.625% senior notes due 2032<span class="cusip">21873SAK4</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:35.7%;width:23.4%"></div><div class="trace-mark" style="left:59.1%" title="Fund mark 89.55"></div><div class="trace-dot" style="left:35.7%" title="Last trade 77.86"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">77.86</span><div class="trace-sub">gap <span class="down">-11.69</span> vs mark 89.55</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">CoreWeave, Inc. 9.75% senior notes due 2031<span class="cusip">21873SAG3</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:39.1%;width:22.5%"></div><div class="trace-mark" style="left:61.5%" title="Fund mark 90.76"></div><div class="trace-dot" style="left:39.1%" title="Last trade 79.53"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">79.53</span><div class="trace-sub">gap <span class="down">-11.23</span> vs mark 90.76</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">CoreWeave, Inc. 9.00% senior notes due 2031<span class="cusip">21873SAC2</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:42.5%;width:18.1%"></div><div class="trace-mark" style="left:60.6%" title="Fund mark 90.31"></div><div class="trace-dot" style="left:42.5%" title="Last trade 81.25"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">81.25</span><div class="trace-sub">gap <span class="down">-9.06</span> vs mark 90.31</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">CoreWeave, Inc. 9.25% senior notes due 2030<span class="cusip">21873SAB4</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:50.0%;width:17.1%"></div><div class="trace-mark" style="left:67.1%" title="Fund mark 93.56"></div><div class="trace-dot" style="left:50.0%" title="Last trade 85.00"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">85.00</span><div class="trace-sub">gap <span class="down">-8.56</span> vs mark 93.56</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031<span class="cusip">36322DAA4</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:63.0%;width:17.6%"></div><div class="trace-mark" style="left:80.6%" title="Fund mark 100.31"></div><div class="trace-dot" style="left:63.0%" title="Last trade 91.50"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">91.50</span><div class="trace-sub">gap <span class="down">-8.81</span> vs mark 100.31</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">Beignet Investor LLC 6.581% senior secured notes due 2049<span class="cusip">076912AA2</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:63.4%;width:10.4%"></div><div class="trace-mark" style="left:73.7%" title="Fund mark 96.86"></div><div class="trace-dot" style="left:63.4%" title="Last trade 91.68"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">91.68</span><div class="trace-sub">gap <span class="down">-5.18</span> vs mark 96.86</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+<div class="trace-row"><div class="trace-name">Sopaipilla Investor LLC 7.534% senior secured notes due 2048<span class="cusip">83577VAA8</span></div><div><div class="trace-track"><div class="trace-gap neg" style="left:76.3%;width:11.0%"></div><div class="trace-mark" style="left:87.3%" title="Fund mark 103.66"></div><div class="trace-dot" style="left:76.3%" title="Last trade 98.16"></div></div><div class="trace-scale"><span>60</span><span>90</span><span>110</span></div></div><div class="trace-nums"><span class="trace-price">98.16</span><div class="trace-sub">gap <span class="down">-5.50</span> vs mark 103.66</div><div class="trace-sub">traded 2026-10-14</div></div></div>
+</div>
 <p class="data-vintage">Market context, 2026-10-13: US high yield: 788 advances against 722 declines; Rule 144A: 1546 advances against 1553 declines. Source: FINRA Query API aggregate datasets. Breadth counts securities across the whole market, not only the bonds watched here.</p>
 <p class="data-vintage">Prints as of 2026-10-14. Source: FINRA Fixed Income Security Lookup (public, no credential), browser session 2026-10-14.</p>
-<h2>Flags</h2>
+<h2>Flags on fund marks</h2>
 <p class="data-vintage">A flag is a mechanical rule, not a judgement: a move of 5 points or more between the two most recent reported periods, or a latest mark below 90.</p>
-<ul>
-<li>MOVE 076912AA2 (BEIGNET INVESTOR LLC): 102.06 -> 96.86 (-5.20 pts) at 2026-07-31</li>
-<li>MOVE 21873SAB4 (COREWEAVE INC): 100.68 -> 93.56 (-7.12 pts) at 2026-07-31</li>
-<li>MOVE 21873SAC2 (COREWEAVE, INC.): 98.9 -> 90.31 (-8.59 pts) at 2026-07-31</li>
-<li>MOVE 21873SAD0 (COREWEAVE INC): 119.24 -> 94.23 (-25.01 pts) at 2026-07-31</li>
-<li>MOVE 21873SAG3 (COREWEAVE INC): 99.81 -> 90.76 (-9.05 pts) at 2026-07-31</li>
-<li>MOVE 21873SAH1 (COREWEAVE INC): 110.23 -> 88.22 (-22.01 pts) at 2026-07-31</li>
-<li>LOW 21873SAH1 (COREWEAVE INC): latest mark 88.22 at 2026-07-31 (below 90)</li>
-<li>MOVE 21873SAK4 (COREWEAVE INC): 98.57 -> 89.55 (-9.02 pts) at 2026-07-31</li>
-<li>LOW 21873SAK4 (COREWEAVE INC): latest mark 89.55 at 2026-07-31 (below 90)</li>
-</ul>
+<div class="market-table-scroll"><table class="market-table">
+<thead><tr><th>Bond</th><th>CUSIP</th><th>Rule</th><th>Detail</th></tr></thead>
+<tbody>
+<tr><td>Beignet Investor Llc</td><td class="muted">076912AA2</td><td>Move of 5 pts or more</td><td class="muted">102.06 -> 96.86 (-5.20 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAB4</td><td>Move of 5 pts or more</td><td class="muted">100.68 -> 93.56 (-7.12 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave, Inc.</td><td class="muted">21873SAC2</td><td>Move of 5 pts or more</td><td class="muted">98.9 -> 90.31 (-8.59 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAD0</td><td>Move of 5 pts or more</td><td class="muted">119.24 -> 94.23 (-25.01 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAG3</td><td>Move of 5 pts or more</td><td class="muted">99.81 -> 90.76 (-9.05 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAH1</td><td>Move of 5 pts or more</td><td class="muted">110.23 -> 88.22 (-22.01 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAH1</td><td>Mark below 90</td><td class="muted">latest mark 88.22 at 2026-07-31 (below 90)</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAK4</td><td>Move of 5 pts or more</td><td class="muted">98.57 -> 89.55 (-9.02 pts) at 2026-07-31</td></tr>
+<tr><td>Coreweave Inc</td><td class="muted">21873SAK4</td><td>Mark below 90</td><td class="muted">latest mark 89.55 at 2026-07-31 (below 90)</td></tr>
+</tbody></table></div>
 <h2>Latest marks</h2>
 <p class="data-vintage">Prices are per 100 of principal. Change is against the prior reported period. Recent marks run oldest to newest, up to four periods. Funds is the number of fund positions in the latest period.</p>
 <div class="market-table-scroll"><table class="market-table">
