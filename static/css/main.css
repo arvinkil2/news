@@ -284,3 +284,7 @@ a:hover { color: var(--accent); }
 
 /* Sticky table headers inside scroll containers */
 .market-table thead th { position: sticky; top: 0; background: #fff; z-index: 1; }
+
+/* Trace table: tighter fit so the important columns need no scrolling */
+.trace-table td, .trace-table th { padding-left: 8px; padding-right: 8px; }
+.trace-table { font-size: 0.94em; }
