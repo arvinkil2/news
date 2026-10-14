@@ -1966,7 +1966,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.09,
    "positions": 5,
-   "principal_usd": 21956000.0
+   "principal_usd": 21956000.0,
+   "finra_symbol": "VDCL5049267"
   },
   {
    "cusip": "92212KAD8",
