@@ -122,6 +122,261 @@
    ],
    "coupon_pct": 9.875,
    "maturity": "2031-08-01"
+  },
+  {
+   "cusip": "21873SAD0",
+   "issuer": "CoreWeave",
+   "security": "1.75% converts due 2031",
+   "coupon_pct": 1.75,
+   "maturity": "2031-12-01",
+   "last_trade_price": 79.16,
+   "last_trade_date": "2026-10-14",
+   "latest_fund_mark": 94.23,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "price": 79.16
+    }
+   ]
+  },
+  {
+   "cusip": "21873SAH1",
+   "issuer": "CoreWeave",
+   "security": "1.75% converts due 2032",
+   "coupon_pct": 1.75,
+   "maturity": "2032-10-01",
+   "last_trade_price": 71.75,
+   "last_trade_date": "2026-10-14",
+   "latest_fund_mark": 88.22,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "price": 71.75
+    }
+   ]
+  },
+  {
+   "cusip": "74751AAA1",
+   "issuer": "QTS Fayetteville I",
+   "security": "5.70% due 2036",
+   "coupon_pct": 5.7,
+   "maturity": "2036-04-15",
+   "last_trade_price": 87.6,
+   "last_trade_date": "2026-10-14",
+   "latest_fund_mark": 91.45,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "price": 87.6
+    }
+   ]
+  },
+  {
+   "cusip": "92212KAH9",
+   "issuer": "Vantage Data Centers",
+   "security": "5.132% due 2055",
+   "coupon_pct": 5.132,
+   "maturity": "2055-08-16",
+   "last_trade_price": 96.79,
+   "last_trade_date": "2026-09-03",
+   "latest_fund_mark": 97.45,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-09-03",
+     "price": 96.79
+    }
+   ]
+  },
+  {
+   "cusip": "01627AAA6",
+   "issuer": "Aligned Data Centers",
+   "security": "1.937% due 2046",
+   "coupon_pct": 1.937,
+   "maturity": "2046-08-15",
+   "last_trade_price": 99.56,
+   "last_trade_date": "2026-06-17",
+   "latest_fund_mark": 99.67,
+   "mark_period": "2026-06-30",
+   "history": [
+    {
+     "date": "2026-06-17",
+     "price": 99.56
+    }
+   ]
+  },
+  {
+   "cusip": "20469CAE5",
+   "issuer": "Compass Datacenters",
+   "security": "4.926% due 2050",
+   "coupon_pct": 4.926,
+   "maturity": "2050-11-25",
+   "last_trade_price": 94.35,
+   "last_trade_date": "2026-10-13",
+   "latest_fund_mark": 97.29,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 94.35
+    }
+   ]
+  },
+  {
+   "cusip": "78520EAK2",
+   "issuer": "Sabey Data Centers",
+   "security": "5.482% due 2051",
+   "coupon_pct": 5.482,
+   "maturity": "2051-01-20",
+   "last_trade_price": 98.25,
+   "last_trade_date": "2026-07-29",
+   "latest_fund_mark": 98.21,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-07-29",
+     "price": 98.25
+    }
+   ]
+  },
+  {
+   "cusip": "85236KAP7",
+   "issuer": "STACK Infrastructure",
+   "security": "5.00% due 2050",
+   "coupon_pct": 5.0,
+   "maturity": "2050-05-25",
+   "last_trade_price": 93.19,
+   "last_trade_date": "2026-09-17",
+   "latest_fund_mark": 96.48,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-09-17",
+     "price": 93.19
+    }
+   ]
+  },
+  {
+   "cusip": "74690FAQ9",
+   "issuer": "QTS Issuer ABS II",
+   "security": "due 2056",
+   "coupon_pct": null,
+   "maturity": "2056-01-05",
+   "last_trade_price": 94.23,
+   "last_trade_date": "2026-09-29",
+   "latest_fund_mark": 97.62,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 94.23
+    }
+   ]
+  },
+  {
+   "cusip": "92212KAJ5",
+   "issuer": "Vantage Data Centers",
+   "security": "5.239% due 2055",
+   "coupon_pct": 5.239,
+   "maturity": "2055-11-15",
+   "last_trade_price": 94.4,
+   "last_trade_date": "2026-10-07",
+   "latest_fund_mark": 96.38,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 94.4
+    }
+   ]
+  },
+  {
+   "cusip": "01627AAD0",
+   "issuer": "Aligned Data Centers",
+   "security": "6.00% due 2048",
+   "coupon_pct": 6.0,
+   "maturity": "2048-08-17",
+   "last_trade_price": 100.47,
+   "last_trade_date": "2026-03-31",
+   "latest_fund_mark": 100.07,
+   "mark_period": "2026-06-30",
+   "history": [
+    {
+     "date": "2026-03-31",
+     "price": 100.47
+    }
+   ]
+  },
+  {
+   "cusip": "20469BAD9",
+   "issuer": "Compass Datacenters III",
+   "security": "5.286% due 2050",
+   "coupon_pct": 5.286,
+   "maturity": "2050-07-25",
+   "last_trade_price": 96.76,
+   "last_trade_date": "2026-09-15",
+   "latest_fund_mark": 97.82,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-09-15",
+     "price": 96.76
+    }
+   ]
+  },
+  {
+   "cusip": "76134KAA2",
+   "issuer": "Retained Vantage",
+   "security": "5.00% due 2048",
+   "coupon_pct": 5.0,
+   "maturity": "2048-09-15",
+   "last_trade_price": 97.5,
+   "last_trade_date": "2026-10-07",
+   "latest_fund_mark": 98.69,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 97.5
+    }
+   ]
+  },
+  {
+   "cusip": "01627AAF5",
+   "issuer": "Aligned Data Centers",
+   "security": "due 2056",
+   "coupon_pct": null,
+   "maturity": "2056-06-15",
+   "last_trade_price": 96.25,
+   "last_trade_date": "2026-10-13",
+   "latest_fund_mark": 99.62,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 96.25
+    }
+   ]
+  },
+  {
+   "cusip": "20469BAG2",
+   "issuer": "Compass Datacenters III",
+   "security": "due 2056",
+   "coupon_pct": null,
+   "maturity": "2056-02-25",
+   "last_trade_price": 94.64,
+   "last_trade_date": "2026-10-06",
+   "latest_fund_mark": 97.92,
+   "mark_period": "2026-07-31",
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 94.64
+    }
+   ]
   }
  ],
  "source": "FINRA Fixed Income Security Lookup (public, no credential), browser session 2026-10-14"
