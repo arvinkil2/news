@@ -302,3 +302,11 @@ a:hover { color: var(--accent); }
 .col-preset-btn:hover { background: #f3efe2; }
 .sortable-trace thead { cursor: col-resize; }
 .sortable-trace thead th { cursor: pointer; }
+
+/* Bond Price Watch resizable tables: .prose table sets display:block,
+   which removes table-layout semantics and makes colgroup widths dead.
+   Restore display:table for the sortable tables so percentage widths
+   govern; the name column wraps inside its share. */
+.prose table.sortable-trace { display: table; table-layout: fixed; width: 100%; }
+.prose table.sortable-trace th { overflow: hidden; }
+.prose table.sortable-trace td:first-child { white-space: normal; overflow-wrap: anywhere; }
