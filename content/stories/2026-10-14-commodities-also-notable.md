@@ -1,7 +1,7 @@
 ---
 title: "Also notable: gold steady, US gasoline, diesel pardons, crop progress"
 date: 2026-10-14T07:05:29-04:00
-last_updated: 2026-10-14T07:05:29-04:00
+last_updated: 2026-10-14T12:34:48-04:00
 beats: ["commodities"]
 regions: ["global", "north-america", "asia-pacific"]
 status: "story"
@@ -30,7 +30,7 @@ tags: []
 data_as_of: "Wednesday, October 14, 2026 morning. Roundup grade C: several items rest on single reports or headlines in the feed (Bloomberg gold headline, Yonhap steel report in Korean) and are summarised, not developed. Market figures are from the site tables fetched 03:45 ET. US September CPI is owned by the rates beat; the gasoline figures here are as reported by OilPrice.com citing AAA and a Reuters economist poll ahead of the release."
 ---
 
-Gold held steady in early Wednesday trade as remarks by a Federal Reserve official tempered bets on further rate hikes, Bloomberg reported, ahead of US consumer price data due later in the day. The site market tables show gold at $4,169.30 an ounce, down 0.19 percent on the day but up 0.69 percent on the week, and silver at $58.78, down 0.64 percent. New York Fed President John Williams said he still sees one more hike as appropriate this year and does not expect another will be needed in 2027, comments that also framed the copper session.
+Gold held steady in early Wednesday trade as remarks by a Federal Reserve official tempered bets on further rate hikes, Bloomberg reported, ahead of US consumer price data due later in the day. The site market tables, refreshed at midday, show gold at $4,097.70 an ounce, down 1.91 percent on the day and down 1.04 percent on the week, and silver at $55.78, down 5.71 percent. New York Fed President John Williams said he still sees one more hike as appropriate this year and does not expect another will be needed in 2027, comments that also framed the copper session.
 
 US gasoline prices rose 7.1 percent in September, OilPrice.com reported, citing the latest daily national average of $4.3413 a gallon from AAA, while diesel remains above $6 a gallon, off its high of over $6.50. Economists polled by Reuters expected September consumer inflation of 0.6 percent on the month, driven largely by energy, with the twelve month reading reported at 3.6 percent against core inflation of 2.4 percent. The figures frame the fuel politics running through the diesel deal fight in Washington.
 
