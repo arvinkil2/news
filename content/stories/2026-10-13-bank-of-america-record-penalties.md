@@ -1,13 +1,13 @@
 ---
 title: "Treasury hits Bank of America with record $1.21 billion in penalties"
 date: 2026-10-13T17:02:28-04:00
-last_updated: 2026-10-13T17:02:28-04:00
+last_updated: 2026-10-14T07:59:05-04:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
 update_bump: true
 featured: false
-lede: "The Treasury Department announced more than $1.21 billion in penalties against Bank of America on Tuesday for anti-money laundering and sanctions failures, the third largest penalty in Treasury history and the largest ever imposed by the OCC."
+lede: "Bank of America's third quarter profit fell to $6.9 billion, or 91 cents a share, as the $1.2 billion Treasury penalty announced Tuesday cut about 17 cents from earnings, against $1.10 a share expected by analysts."
 why_it_matters: "The second largest US bank admitted it willfully broke the Bank Secrecy Act and left more than $5 billion in suspicious transactions unreported, a compliance failure regulators say exposed the whole financial system to cartel, China linked laundering and sanctions risks."
 evidence_grade: "A"
 sources:
@@ -19,9 +19,19 @@ sources:
     publisher: "OFAC, U.S. Department of the Treasury"
     url: "https://ofac.treasury.gov/recent-actions/20261013_33"
     published: "2026-10-13"
+  - title: "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+    published: "2026-10-14"
+  - title: "Bank of America Fined $1.2 Billion for Money Laundering Failures Ahead of Q3 Results"
+    publisher: "TipRanks"
+    url: "https://www.tipranks.com/news/bank-of-america-fined-1-2-billion-for-money-laundering-failures-ahead-of-q3-results"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Tuesday, October 13, 2026. Treasury press release sb0657 opened and read in full; it is the source for all penalty components and findings. The $1.2 billion shorthand in wire headlines refers to the FinCEN assessment within the wider package."
+data_as_of: "Updated Wednesday, October 14, 2026, with third quarter results. Penalty detail from Tuesday, October 13, 2026: Treasury press release sb0657 opened and read in full; it is the source for all penalty components and findings. The $1.2 billion shorthand in wire headlines refers to the FinCEN assessment within the wider package. Earnings figures from the bank's Wednesday report as covered by CNBC and TipRanks."
 ---
+
+**Latest (Wednesday, October 14):** Bank of America reported third quarter net income of $6.9 billion, or 91 cents a diluted share, down from $8.3 billion, or $1.04 a share, a year earlier and below the $1.10 a share analysts had expected. Excluding the penalty charge, which is not tax deductible and cut earnings by about 17 cents a share, adjusted earnings were $1.08 a share on revenue of $30.0 billion, up 3 percent. The shares fell about 2.3 percent in extended trading on Tuesday after the penalties were announced and declined again on Wednesday.
 
 The Treasury Department announced enforcement actions imposing more than $1.21 billion in penalties against Bank of America on Tuesday, in what it called the third largest penalty in its history. FinCEN assessed $1.2 billion over the bank's failure to mitigate and report priority national security risks, the OCC assessed a $750 million civil money penalty for a deficient anti-money laundering programme, and OFAC settled apparent sanctions violations for $11.6 million.
 

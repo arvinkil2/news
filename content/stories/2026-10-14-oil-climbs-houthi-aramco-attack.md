@@ -1,12 +1,13 @@
 ---
 title: "Oil climbs as Houthi attack hits Aramco site in Dhahran"
 date: 2026-10-14T07:05:29-04:00
-last_updated: 2026-10-14T07:05:29-04:00
+last_updated: 2026-10-14T07:51:36-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
-lede: "Brent rose 89 cents, or 0.8 percent, to $106.58 a barrel in early Wednesday trade and WTI gained 80 cents, or 0.9 percent, to $94.94, after the Houthis attacked an Aramco administrative building in Dhahran."
-why_it_matters: "A direct hit on the Saudi oil capital, a week into the renewed Saudi-Houthi war, puts the kingdom's production and export infrastructure back in the line of fire and limits how far the Russian diesel story can pull prices down."
+lede: "Saudi air defences intercepted a Houthi ballistic missile launched toward Riyadh on Wednesday as Hormuz oil transits collapsed to 2.9 million barrels on October 11 from 20.8 million three days earlier, with Brent holding near $106.58 a barrel."
+why_it_matters: "The Saudi-Houthi war is now reaching the capital while Iranian attacks choke the Gulf's main export artery at the same time, a two-front squeeze on Saudi and regional supply that keeps a floor under crude prices."
 featured: true
 evidence_grade: "B"
 sources:
@@ -18,9 +19,19 @@ sources:
     publisher: "Yahoo Finance, via Kilambi News market data"
     url: "https://finance.yahoo.com"
     published: "2026-10-14"
+  - title: "Saudi-led coalition intercepts Houthi missile launched towards Riyadh"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh"
+    published: "2026-10-14"
+  - title: "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Wednesday, October 14, 2026, early trade. Reuters dispatch read in full via MyJoyOnline (prices at 0030 GMT Wednesday; Tuesday settlement Brent down 0.9 percent, WTI up 0.4 percent). Site market tables fetched 03:45 ET show Brent $106.38, up 0.65 percent, and WTI $94.56, up 0.45 percent; the two vintages are labeled and not blended."
+data_as_of: "Wednesday, October 14, 2026. Latest update 07:51 ET: Al Jazeera reports of October 14, read in full (coalition interception announced Wednesday; Hormuz figures from UKMTO and Kpler as reported by Al Jazeera). Earlier: Reuters dispatch read in full via MyJoyOnline (prices at 0030 GMT Wednesday; Tuesday settlement Brent down 0.9 percent, WTI up 0.4 percent). Site market tables fetched 03:45 ET show Brent $106.38, up 0.65 percent, and WTI $94.56, up 0.45 percent; the two vintages are labeled and not blended."
 ---
+
+**Latest (07:51 ET):** The Saudi-led coalition said it intercepted and destroyed a Houthi ballistic missile launched toward Riyadh on Wednesday, and Saudi civil defence issued two early warning alerts, for Al-Kharj governorate and the capital, before saying the danger had passed. The Houthis said they had targeted Aramco facilities in Dhahran, an Aramco refinery in Riyadh and King Khalid international airport. In the Strait of Hormuz, the UK Maritime Trade Operations centre has recorded 15 attacks between October 6 and 14, 11 of them in the past four days, and tracking firm Kpler put oil carried through the strait at just 2.9 million barrels on October 11, down from 20.8 million barrels on October 8 and a pre-war average of 17.1 million barrels a day. Iran's navy said it has expanded surveillance east of the strait, and a US military official confirmed to Reuters that Iranian forces have changed tactics, using unarmed spotters in small boats to call in targets.
 
 Brent crude rose 89 cents, or 0.8 percent, to $106.58 a barrel by 0030 GMT on Wednesday, and US West Texas Intermediate gained 80 cents, or 0.9 percent, to $94.94, reversing Tuesday's late slide as traders weighed a fresh Houthi strike inside Saudi Arabia against the prospect of more Russian diesel. The site market tables, fetched at 03:45 ET, show the same direction at slightly lower levels: Brent at $106.38, up 0.65 percent on the day and 6.17 percent on the week, and WTI at $94.56, up 0.45 percent.
 
