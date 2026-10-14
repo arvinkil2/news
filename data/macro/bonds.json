@@ -187,7 +187,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.86,
    "positions": 77,
-   "principal_usd": 592243000.0
+   "principal_usd": 592243000.0,
+   "price_at_issue": 100.0
   },
   {
    "cusip": "123913AG0",
@@ -882,7 +883,9 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.31,
    "positions": 70,
-   "principal_usd": 183866000.0
+   "principal_usd": 183866000.0,
+   "price_at_issue": 99.5,
+   "issue_date": "2026-07-28"
   },
   {
    "cusip": "74690DAA9",
@@ -1623,7 +1626,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 103.66,
    "positions": 105,
-   "principal_usd": 403382000.0
+   "principal_usd": 403382000.0,
+   "price_at_issue": 100.0
   },
   {
    "cusip": "85236KAE2",
@@ -2159,7 +2163,8 @@
    "in_marks": false,
    "last_trade_price": 91.53,
    "last_trade_date": "2026-10-14",
-   "twin_of": "076912AA2"
+   "twin_of": "076912AA2",
+   "price_at_issue": 100.0
   },
   {
    "cusip": "U2069EAA8",
