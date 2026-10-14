@@ -674,7 +674,24 @@
    "mark_period": "2026-07-31",
    "latest_mark": 93.56,
    "positions": 88,
-   "principal_usd": 354956000.0
+   "principal_usd": 354956000.0,
+   "issue_date": "2025-05-27",
+   "price_at_issue": 100.0,
+   "call_schedule": [
+    {
+     "date": "2027-06-01",
+     "price_pct": 104.625
+    },
+    {
+     "date": "2028-06-01",
+     "price_pct": 102.313
+    },
+    {
+     "date": "2029-06-01",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Prior to 2027-06-01: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.250% prior to 2027-06-01. Otherwise not callable before 2027-06-01. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-25-000025 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000019 Ex. 99.1."
   },
   {
    "cusip": "21873SAC2",
@@ -693,7 +710,24 @@
    "mark_period": "2026-07-31",
    "latest_mark": 90.31,
    "positions": 83,
-   "principal_usd": 214375000.0
+   "principal_usd": 214375000.0,
+   "issue_date": "2025-07-25",
+   "price_at_issue": 100.0,
+   "call_schedule": [
+    {
+     "date": "2028-02-01",
+     "price_pct": 104.5
+    },
+    {
+     "date": "2029-02-01",
+     "price_pct": 102.25
+    },
+    {
+     "date": "2030-02-01",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Prior to 2028-02-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.000% prior to 2028-02-01. Otherwise not callable before 2028-02-01. Source: Indenture Sec. 5.6, 8-K acc. 0001193125-25-165924 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000030 Ex. 99.1."
   },
   {
    "cusip": "21873SAD0",
@@ -712,7 +746,15 @@
    "mark_period": "2026-07-31",
    "latest_mark": 94.23,
    "positions": 18,
-   "principal_usd": 127356000.0
+   "principal_usd": 127356000.0,
+   "issue_date": "2025-12-11",
+   "call_schedule": [
+    {
+     "date": "2028-12-05",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Convertible. No redemption before 2028-12-05. On/after 2028-12-05 (before the 26th Scheduled Trading Day before maturity 2031-12-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-25-000105 Ex. 4.1."
   },
   {
    "cusip": "21873SAG3",
@@ -731,7 +773,23 @@
    "mark_period": "2026-07-31",
    "latest_mark": 90.76,
    "positions": 91,
-   "principal_usd": 283175000.0
+   "principal_usd": 283175000.0,
+   "issue_date": "2026-04-14",
+   "call_schedule": [
+    {
+     "date": "2028-10-01",
+     "price_pct": 104.875
+    },
+    {
+     "date": "2029-10-01",
+     "price_pct": 102.438
+    },
+    {
+     "date": "2030-10-01",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Prior to 2028-10-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.750% prior to 2028-10-01. Otherwise not callable before 2028-10-01. Initial-tranche issue price not stated in the documents checked; the 2026-04-21 additional-notes tap of this series (First Supplemental Indenture) was issued at 102.000% (8-K acc. 0001769628-26-000183, Item 1.01). Source: Senior Notes Indenture Sec. 5.6, 8-K acc. 0001769628-26-000164 Ex. 4.1."
   },
   {
    "cusip": "21873SAH1",
@@ -750,7 +808,15 @@
    "mark_period": "2026-07-31",
    "latest_mark": 88.22,
    "positions": 19,
-   "principal_usd": 178447000.0
+   "principal_usd": 178447000.0,
+   "issue_date": "2026-04-14",
+   "call_schedule": [
+    {
+     "date": "2029-10-08",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Convertible. No redemption before 2029-10-08. On/after 2029-10-08 (before the 26th Scheduled Trading Day before maturity 2032-10-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-26-000164 Ex. 4.3."
   },
   {
    "cusip": "21873SAK4",
@@ -769,7 +835,23 @@
    "mark_period": "2026-07-31",
    "latest_mark": 89.55,
    "positions": 62,
-   "principal_usd": 133803000.0
+   "principal_usd": 133803000.0,
+   "issue_date": "2026-06-18",
+   "call_schedule": [
+    {
+     "date": "2029-07-15",
+     "price_pct": 104.813
+    },
+    {
+     "date": "2030-07-15",
+     "price_pct": 102.406
+    },
+    {
+     "date": "2031-07-15",
+     "price_pct": 100.0
+    }
+   ],
+   "call_notes": "Prior to 2029-07-15: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp, Indenture Sec. 1.1) plus accrued; equity clawback up to 40% at 109.625% prior to 2029-07-15. Otherwise not callable before 2029-07-15. Issue price not stated in the documents checked. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-26-000291 Ex. 4.1."
   },
   {
    "cusip": "21881PAB0",

@@ -3,7 +3,7 @@
  "marks_as_of": "2026-07-31",
  "source": "SEC Form N-PORT bulk data, fund-reported holdings; implied price = 100 x reported value / reported principal, aggregated across reporting funds",
  "method": "Monthly fund marks. Funds file about 60 days after period end, so the newest mark lags the market. Not live trade prices.",
- "ytm_method": "Yield to maturity computed by Kilambi Research from price, coupon and maturity: semiannual compounding, 30/360 day count, settlement at the report period end for marks and at the trade date for TRACE prints. Convertible yields are straight-bond yields and ignore the conversion option. A yield is shown only where coupon and maturity are on record.",
+ "ytm_method": "Yield computed by Kilambi Research from price, coupon and maturity: semiannual compounding, 30/360 day count, settlement at the report period end for marks and at the trade date for TRACE prints. Where a call schedule is on record, the yield is the yield to worst across the schedule and maturity; convertible redemption is conditional on a stock trigger and is not treated as a certain call, so convertible yields are straight-bond yields to maturity and ignore the conversion option. A yield is shown only where coupon and maturity are on record.",
  "cusips_tracked": 111,
  "flags": [
   "MOVE 076912AA2 (BEIGNET INVESTOR LLC): 102.06 -> 96.86 (-5.20 pts) at 2026-07-31",
