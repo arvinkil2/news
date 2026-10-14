@@ -281,3 +281,6 @@ a:hover { color: var(--accent); }
 .sortable-trace th.sdesc::after { content: " \2193"; }
 .trace-price-cell { font-weight: 700; font-size: 1.05em; }
 .trace-price-cell.low { color: var(--down, #b3261e); }
+
+/* Sticky table headers inside scroll containers */
+.market-table thead th { position: sticky; top: 0; background: #fff; z-index: 1; }
