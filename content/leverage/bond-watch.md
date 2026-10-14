@@ -226,7 +226,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   ths.forEach(function(th, i){
     var col = document.createElement('col');
     var saved = null;
-    try { saved = localStorage.getItem('colw-' + ti + '-' + i); } catch (e) {}
+    try { saved = localStorage.getItem('colw2-' + ti + '-' + i); } catch (e) {}
     var w0 = saved ? parseInt(saved, 10) : th.offsetWidth;
     widths.push(w0);
     col.style.width = w0 + 'px';
@@ -255,7 +255,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
       function up(){
         document.removeEventListener('pointermove', move);
         document.removeEventListener('pointerup', up);
-        try { localStorage.setItem('colw-' + ti + '-' + i, parseInt(cg.children[i].style.width, 10)); } catch (e) {}
+        try { localStorage.setItem('colw2-' + ti + '-' + i, parseInt(cg.children[i].style.width, 10)); } catch (e) {}
       }
       document.addEventListener('pointermove', move);
       document.addEventListener('pointerup', up);
