@@ -1,14 +1,14 @@
 ---
 title: "Eurozone yields dip as France budget debate looms"
 date: 2026-10-12T07:19:02-04:00
-last_updated: 2026-10-13T13:07:54-04:00
+last_updated: 2026-10-13T23:21:41-04:00
 beats: ["rates"]
 regions: ["europe", "global"]
 status: "story"
 update_bump: true
 featured: false
-lede: "France's National Assembly opened floor debate on the 2027 budget on Tuesday evening, with a Socialist motion to reject the revenue text at the outset set to fail after the National Rally said it would vote against it."
-why_it_matters: "The debate is the market's live test of whether the Lecornu government can pass a 5.0 percent deficit budget without a majority, with the OAT-Bund spread still near its widest since the 2012 euro crisis and a Moody's review due October 23."
+lede: "France's National Assembly defeated the Socialist motion to reject the 2027 budget at the outset by 236 votes to 149 on Tuesday night, with National Rally deputies voting against the motion and clearing the way for floor debate on the government's text."
+why_it_matters: "The Lecornu government has cleared the first obstacle to its 5.0 percent deficit budget without holding a majority, but the vote binds it to the National Rally's tolerance, with the OAT-Bund spread still near its widest since the 2012 euro crisis and a Moody's review due October 23."
 evidence_grade: "B"
 sources:
   - title: "Eurozone Bond Yields Fall, Investors Await Wednesday's U.S. Inflation Data for Guidance"
@@ -39,9 +39,15 @@ sources:
     publisher: "AFP, via Morning Chronicle"
     url: "https://www.morningchronicle.co.uk/Politics/779251-france-budget-debate-faces-rocky-start-as-socialists-vow-to-fight.html"
     published: "2026-10-13"
+  - title: "Budget 2027 : le RN en soutien du gouvernement pour repousser la motion de rejet du PS après de vifs débats sur la dette"
+    publisher: "Le Monde"
+    url: "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Monday, October 12, 2026, updated Tuesday October 13; Bund/OAT levels are Tradeweb mid-morning quotes via Dow Jones. The 138bp spread is computed from those quotes. Budget figures from the October 1 government presentation. ACPR bank exposure figures (190 billion euros, 24% of sovereign holdings, 2% of assets) are single-sourced: Bloomberg headline via the triage feed, with detail from one secondary summary of the ACPR press conference; the underlying Bloomberg text was not opened. Debate-opening detail from AFP reporting, opened and read in full."
+data_as_of: "Monday, October 12, 2026, updated Tuesday October 13; vote outcome update Tuesday night from Le Monde, in French, opened and read in full (motion defeated 236 to 149). Bund/OAT levels are Tradeweb mid-morning quotes via Dow Jones. The 138bp spread is computed from those quotes. Budget figures from the October 1 government presentation. ACPR bank exposure figures (190 billion euros, 24% of sovereign holdings, 2% of assets) are single-sourced: Bloomberg headline via the triage feed, with detail from one secondary summary of the ACPR press conference; the underlying Bloomberg text was not opened. Debate-opening detail from AFP reporting, opened and read in full."
 ---
+
+**Latest (Tuesday, October 13, night):** The first vote went the government's way. The Socialist preliminary rejection motion, which would have sent the text straight to the Senate without Assembly debate, was defeated by 236 votes to 149 on Tuesday night, Le Monde reported, after National Rally deputies voted against it. The motion had the backing of the Greens and La France Insoumise but not the full Socialist group: Francois Hollande and Sacha Houlie were among those who did not vote for it. RN budget spokesman Jean-Philippe Tanguy said his group would not hand the government an opposition that refuses to let parliament debate the text. With the obstacle cleared, the chamber moves into the article-by-article fight, with 3,878 amendments already filed on the finance bill and the government's target unchanged: a deficit of 5.0 percent of GDP in 2027, down from 5.4 percent expected this year, with the revenue-part vote still set for October 20.
 
 **Latest (Tuesday, October 13):** The floor debate opened on Tuesday evening with the government's survival arithmetic intact for now. The Socialist Party, whose support carried the 2026 budget, planned to table a motion rejecting the revenue part of the bill at the outset, backed by the rest of the left; the National Rally announced it would vote against the motion, saying it wants the confrontation in the chamber, which effectively dooms the attempt to halt the debate before it starts. Prime Minister Sebastien Lecornu wrote to Socialist leaders urging them to withdraw the motion and compromise, calling a refusal to debate the worst signal the Assembly could send; the Socialists rejected the appeal. Public Accounts Minister David Amiel labelled the move a boycott motion, arguing that with interest rates soaring, parliament cannot look the other way. The revenue-part vote remains set for October 20.
 
