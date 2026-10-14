@@ -1,13 +1,13 @@
 ---
 title: "Oil climbs as Houthi attack hits Aramco site in Dhahran"
 date: 2026-10-14T07:05:29-04:00
-last_updated: 2026-10-14T07:51:36-04:00
+last_updated: 2026-10-14T11:50:27-04:00
 update_bump: true
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
-lede: "Saudi air defences intercepted a Houthi ballistic missile launched toward Riyadh on Wednesday as Hormuz oil transits collapsed to 2.9 million barrels on October 11 from 20.8 million three days earlier, with Brent holding near $106.58 a barrel."
-why_it_matters: "The Saudi-Houthi war is now reaching the capital while Iranian attacks choke the Gulf's main export artery at the same time, a two-front squeeze on Saudi and regional supply that keeps a floor under crude prices."
+lede: "Yemen's Houthis vowed on Wednesday to press on with attacks on Saudi airports and oil facilities, urging shipping companies, civilians and workers to evacuate them, as sources told Reuters the Tuesday night strike on Saudi Aramco's Dhahran headquarters caused extensive damage, with a fire spreading across several floors."
+why_it_matters: "The threat is now explicit and continuing rather than a single strike: Riyadh airport is closed until October 17, Aramco staff are working from home, and the damage dispute between the Saudi ministry and Reuters sources leaves the real hit to the oil capital unresolved while Hormuz flows stay choked."
 featured: true
 evidence_grade: "B"
 sources:
@@ -27,9 +27,19 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again"
     published: "2026-10-14"
+  - title: "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit"
+    publisher: "Reuters, via WNCY republication"
+    url: "https://wncy.com/2026/10/14/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit/"
+    published: "2026-10-14"
+  - title: "Renewed fighting risks humanitarian catastrophe in Yemen, aid groups warn"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Wednesday, October 14, 2026. Latest update 07:51 ET: Al Jazeera reports of October 14, read in full (coalition interception announced Wednesday; Hormuz figures from UKMTO and Kpler as reported by Al Jazeera). Earlier: Reuters dispatch read in full via MyJoyOnline (prices at 0030 GMT Wednesday; Tuesday settlement Brent down 0.9 percent, WTI up 0.4 percent). Site market tables fetched 03:45 ET show Brent $106.38, up 0.65 percent, and WTI $94.56, up 0.45 percent; the two vintages are labeled and not blended."
+data_as_of: "Wednesday, October 14, 2026. Latest update 11:50 ET: Reuters dispatch read in full via WNCY republication (Houthi statement on Wednesday; three sources with knowledge of the Dhahran damage; two sources on Aramco operations) and Al Jazeera report read in full (WFP and ICRC statements on Yemen aid access and hospitals). Earlier vintages as previously noted: Reuters at 0030 GMT Wednesday and site market tables at 03:45 ET."
 ---
+
+**Latest (11:50 ET):** The Houthis vowed on Wednesday to press on with attacks on Saudi airports and oil facilities, called those sites legitimate targets, and urged international shipping companies, civilians and workers to evacuate them. Three people with knowledge of the matter told Reuters that Tuesday night's strike on the Aramco base in Dhahran, which hosts the company's headquarters and a major operations centre, caused extensive damage, with a fire spreading across several floors; the Saudi energy ministry had described a limited fire with no injuries or deaths. Operations at Aramco were continuing normally, with employees working from home, according to two of the sources, and Aramco did not immediately reply to a request for comment. Riyadh's King Khalid international airport, hit four times in the past week including Saturday's attack that killed 13 people, has been closed until October 17, with airlines cancelling flights to Saudi Arabia. Inside Yemen, the World Food Programme said about 800,000 people have been cut off from life-saving food assistance as front lines shifted, including more than 600,000 people in Taiz, and the Red Cross said front-line hospitals in Marib, Taiz and along the Red Sea coast are overwhelmed, some taking more than 700 cases in a single week.
 
 **Latest (07:51 ET):** The Saudi-led coalition said it intercepted and destroyed a Houthi ballistic missile launched toward Riyadh on Wednesday, and Saudi civil defence issued two early warning alerts, for Al-Kharj governorate and the capital, before saying the danger had passed. The Houthis said they had targeted Aramco facilities in Dhahran, an Aramco refinery in Riyadh and King Khalid international airport. In the Strait of Hormuz, the UK Maritime Trade Operations centre has recorded 15 attacks between October 6 and 14, 11 of them in the past four days, and tracking firm Kpler put oil carried through the strait at just 2.9 million barrels on October 11, down from 20.8 million barrels on October 8 and a pre-war average of 17.1 million barrels a day. Iran's navy said it has expanded surveillance east of the strait, and a US military official confirmed to Reuters that Iranian forces have changed tactics, using unarmed spotters in small boats to call in targets.
 
