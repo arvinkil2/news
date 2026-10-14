@@ -332,5 +332,6 @@ a:hover { color: var(--accent); }
 .trade-detail-box { padding: 4px 2px 10px; }
 .trade-detail-box p { margin: 2px 0 6px; }
 .mini-trades { font-size: 12.5px; border-collapse: collapse; }
+.prose table.mini-trades { display: table; width: auto; }
 .mini-trades th, .mini-trades td { padding: 3px 16px 3px 0; border-bottom: 1px solid #eee7d3; white-space: nowrap; text-align: left; }
 .mini-trades .num { text-align: right; }

@@ -279,7 +279,7 @@ aliases:
 <p class="data-vintage">Source: SEC Form N-PORT bulk data, fund-reported holdings; implied price = 100 x reported value / reported principal, aggregated across reporting funds. Monthly fund marks. Funds file about 60 days after period end, so the newest mark lags the market. Not live trade prices. Yield computed by Kilambi Research from price, coupon and maturity: semiannual compounding, 30/360 day count, settlement at the report period end for marks and at the trade date for TRACE prints. Where a call schedule is on record, the yield is the yield to worst across the schedule and maturity; convertible redemption is conditional on a stock trigger and is not treated as a certain call, so convertible yields are straight-bond yields to maturity and ignore the conversion option. A yield is shown only where coupon and maturity are on record. Securities whose reported units make the implied price unreliable are excluded. Marks are compiled by Kilambi Research from the SEC bulk data; the watch covers the bond inventory assembled for working paper KR-WP-2026-27.</p>
 <script>
 document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
-  var ths = Array.prototype.slice.call(t.querySelectorAll('thead th'));
+  var ths = Array.prototype.slice.call(t.querySelectorAll(':scope > thead > tr > th'));
   var n = ths.length;
   var DEFAULTS = (n === 12) ? [27,8,7,9,6,8,7,10,6,5,7,5] : [34,11,9,10,9,13,7,7];
   while (DEFAULTS.length < n) DEFAULTS.push(8);
@@ -299,7 +299,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
   }
   function save(){ try { localStorage.setItem(key, JSON.stringify(pcts)); } catch (e) {} }
   apply();
-  var head = t.querySelector('thead');
+  var head = t.querySelector(':scope > thead');
   head.addEventListener('pointerdown', function(ev){
     var rects = ths.map(function(th){ return th.getBoundingClientRect(); });
     var best = -1, bestD = 17;
@@ -334,7 +334,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
       var asc = !th.classList.contains('sasc');
       ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
       th.classList.add(asc ? 'sasc' : 'sdesc');
-      var rows = Array.prototype.slice.call(t.querySelectorAll('tbody tr')).filter(function(r){ return !r.classList.contains('trade-detail'); });
+      var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr')).filter(function(r){ return !r.classList.contains('trade-detail'); });
       rows.forEach(function(r){ var nx = r.nextElementSibling; r._det = (nx && nx.classList.contains('trade-detail')) ? nx : null; });
       rows.sort(function(a, b){
         var x = a.children[i], y = b.children[i];
@@ -344,7 +344,7 @@ document.querySelectorAll('table.sortable-trace').forEach(function(t, ti){
         var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
         return asc ? c : -c;
       });
-      var tb = t.querySelector('tbody');
+      var tb = t.querySelector(':scope > tbody');
       rows.forEach(function(r){ tb.appendChild(r); if (r._det) tb.appendChild(r._det); });
     });
   });
