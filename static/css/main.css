@@ -288,3 +288,10 @@ a:hover { color: var(--accent); }
 /* Trace table: tighter fit so the important columns need no scrolling */
 .trace-table td, .trace-table th { padding-left: 8px; padding-right: 8px; }
 .trace-table { font-size: 0.94em; }
+
+/* Staleness tag + column resize handles (Bond Price Watch) */
+.stale-tag { font-size: .72em; text-transform: uppercase; letter-spacing: .05em; color: #7a5b00; background: #fdf0cd; padding: 1px 4px; border-radius: 3px; white-space: nowrap; }
+.trace-price-cell.stale { color: #888; font-weight: 400; }
+.sortable-trace th { position: relative; }
+.col-resizer { position: absolute; top: 0; right: -4px; width: 9px; height: 100%; cursor: col-resize; z-index: 2; touch-action: none; }
+.col-resizer:hover { background: rgba(0,0,0,.08); }
