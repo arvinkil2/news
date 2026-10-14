@@ -10,6 +10,21 @@ data_as_of: "Fund marks to 2026-07-31"
 <div class="stat"><span class="stat-label">Largest latest fall</span><span class="stat-value">Coreweave Inc 1.75% -25.0 pts</span></div>
 <div class="stat"><span class="stat-label">Marked below 90</span><span class="stat-value">2</span></div>
 </div>
+<h2>Latest TRACE prints</h2>
+<p class="data-vintage">Actual secondary-market trades reported to FINRA TRACE, via FINRA's public bond lookup. A bond updates only when it trades. The gap compares the last trade with the latest fund mark; it measures how far the marks lag the market.</p>
+<div class="market-table-scroll"><table class="market-table">
+<thead><tr><th>Bond</th><th>CUSIP</th><th>Last trade</th><th>Date</th><th>Latest fund mark</th><th>Gap (pts)</th></tr></thead>
+<tbody>
+<tr><td>CoreWeave, Inc. 9.625% senior notes due 2032</td><td class="muted">21873SAK4</td><td class="num">77.86</td><td class="muted">2026-10-14</td><td class="num">89.55</td><td class="num down">-11.69</td></tr>
+<tr><td>CoreWeave, Inc. 9.75% senior notes due 2031</td><td class="muted">21873SAG3</td><td class="num">79.53</td><td class="muted">2026-10-14</td><td class="num">90.76</td><td class="num down">-11.23</td></tr>
+<tr><td>CoreWeave, Inc. 9.00% senior notes due 2031</td><td class="muted">21873SAC2</td><td class="num">81.25</td><td class="muted">2026-10-14</td><td class="num">90.31</td><td class="num down">-9.06</td></tr>
+<tr><td>CoreWeave, Inc. 9.25% senior notes due 2030</td><td class="muted">21873SAB4</td><td class="num">85.00</td><td class="muted">2026-10-14</td><td class="num">93.56</td><td class="num down">-8.56</td></tr>
+<tr><td>Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031</td><td class="muted">36322DAA4</td><td class="num">91.50</td><td class="muted">2026-10-14</td><td class="num">100.31</td><td class="num down">-8.81</td></tr>
+<tr><td>Beignet Investor LLC 6.581% senior secured notes due 2049</td><td class="muted">076912AA2</td><td class="num">91.68</td><td class="muted">2026-10-14</td><td class="num">96.86</td><td class="num down">-5.18</td></tr>
+<tr><td>Sopaipilla Investor LLC 7.534% senior secured notes due 2048</td><td class="muted">83577VAA8</td><td class="num">98.16</td><td class="muted">2026-10-14</td><td class="num">103.66</td><td class="num down">-5.50</td></tr>
+</tbody></table></div>
+<p class="data-vintage">Market context, 2026-10-13: US high yield: 788 advances against 722 declines; Rule 144A: 1546 advances against 1553 declines. Source: FINRA Query API aggregate datasets. Breadth counts securities across the whole market, not only the bonds watched here.</p>
+<p class="data-vintage">Prints as of 2026-10-14. Source: FINRA Fixed Income Security Lookup (public, no credential), browser session 2026-10-14.</p>
 <h2>Flags</h2>
 <p class="data-vintage">A flag is a mechanical rule, not a judgement: a move of 5 points or more between the two most recent reported periods, or a latest mark below 90.</p>
 <ul>
