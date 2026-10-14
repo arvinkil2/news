@@ -1,14 +1,14 @@
 ---
 title: "Ukraine says Starlink curbs failed missions without warning"
 date: 2026-10-14T05:48:43-04:00
-last_updated: 2026-10-14T05:48:43-04:00
+last_updated: 2026-10-14T16:56:02-04:00
 beats: ["politics", "technology"]
 regions: ["europe", "north-america"]
 status: "story"
 update_bump: true
 featured: false
-lede: "Starlink terminals used by Ukraine's military lost connectivity on Tuesday evening when they travelled faster than 100 miles per hour, and a presidential adviser said the armed forces received no warning and a number of missions failed as a result."
-why_it_matters: "Ukraine's front line runs on Starlink, so a speed cap set by a US company can ground drones and cut units off mid operation, and Kyiv is reading the move, fairly or not, as Washington pressing it to stop striking Russian refineries."
+lede: "Starlink speed limits that disrupted Ukrainian military missions on Tuesday night were being partially lifted on Wednesday, with Kyiv saying service at speeds up to 160 kilometres per hour was being restored, as President Volodymyr Zelenskyy accused Washington of halting intelligence sharing and a Republican senator pressed Elon Musk to confirm the disruption was a glitch."
+why_it_matters: "The dispute has moved from a technical outage to a public test of American support: Kyiv says it has lost both satellite guidance for drones and United States warning of missile strikes, and whether the limits are fully removed will show how much leverage a private network and Washington now hold over Ukraine's war effort."
 evidence_grade: "B"
 sources:
   - title: "Ukrainian soldiers in combat have access to Starlink satellite internet restricted"
@@ -23,9 +23,19 @@ sources:
     publisher: "Ukrainska Pravda, in Ukrainian"
     url: "https://www.pravda.com.ua/news/2026/10/14/8057943/"
     published: "2026-10-14"
+  - title: "GOP Sen. Tillis asks Musk to explain Ukraine losing access to Starlink"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/senate/6148831-tillis-presses-musk-starlink/"
+    published: "2026-10-14"
+  - title: "Volodymyr Zelenskyy feels betrayed by Donald Trump over Starlink access"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Wednesday, October 14, 2026, early morning Toronto time. The Guardian report was opened and read in full in a live browser session. France 24 and Investing.com carried the same outage in their feeds but their article text was blocked in this environment. Ukrainian outlets (Ukrainska Pravda, UNIAN, NV, TSN, in Ukrainian) and Russian state outlets (TASS, RIA, RT, Lenta) reported the restrictions the same morning. The motive attributed to SpaceX and the Trump administration is an allegation by Ukrainian commentators, not a SpaceX statement, and no SpaceX comment appears in the reporting opened. Reported speed thresholds differ between outlets."
+data_as_of: "Updated Wednesday afternoon, October 14, 2026, Toronto time. The Hill report (published 3:22 PM ET) and the Guardian's Wednesday report were read in full in live browser sessions. Former defence minister Mykhailo Fedorov's statement that speeds up to 160 kilometres per hour were being restored is a Ukrainian official's account reported by The Hill; no direct reply from Musk or SpaceX to Senator Tillis appears in that report. Zelenskyy's statement that Washington halted intelligence sharing is his claim as reported by the Guardian and is not independently confirmed in the reporting opened. Earlier note, Wednesday early morning: the original Guardian report was opened and read in full in a live browser session; Ukrainian outlets (Ukrainska Pravda, UNIAN, NV, TSN, in Ukrainian) and Russian state outlets (TASS, RIA, RT, Lenta) reported the restrictions the same morning. The motive attributed to SpaceX and the Trump administration remains an allegation by Ukrainian commentators, not a SpaceX statement. Reported speed thresholds differ between outlets."
 ---
+
+**Latest (16:56 ET):** The limits began to ease on Wednesday afternoon, and the argument around them widened. Former defence minister Mykhailo Fedorov said speeds up to 160 kilometres per hour were being restored on the military service, thanked Elon Musk, and urged SpaceX to remove the Starshield speed limit in full, according to The Hill. In Washington, Republican Senator Thom Tillis publicly pressed Musk to confirm the disruption had been an unintended and temporary glitch rather than a deliberate choice, warning that intentionally weakening Ukraine's self defence could be read as helping President Vladimir Putin. The Hill reported no direct reply from Musk or SpaceX to Tillis. In Kyiv, President Volodymyr Zelenskyy went further than his advisers had in the morning: he said the United States had halted intelligence sharing with Ukraine, leaving it without American warning of incoming missile strikes, called the Starlink limit a serious mistake that would cost lives if attacks continued without the service, and said Russia was already exploiting the restrictions, the Guardian reported. Those intelligence claims are Zelenskyy's, stated as he addressed them to President Donald Trump, and are not independently confirmed in the reporting opened.
 
 Starlink terminals used by Ukraine's military and other national security agencies lost connectivity on Tuesday evening when they travelled at more than 100 miles per hour, while ordinary satellite communication terminals kept working. Serhii Sternenko, an activist with close ties to the military who first reported the outage, said the speed at which connectivity cut out later fell lower still, and Ukrainian and Russian outlets put the effective cap well below the figure in the first reports.
 
