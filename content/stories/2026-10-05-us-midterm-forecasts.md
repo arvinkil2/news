@@ -1,7 +1,7 @@
 ---
 title: Cook shifts three Senate races toward Democrats
 date: 2026-10-05 07:00:00-04:00
-last_updated: 2026-10-13T07:02:19-04:00
+last_updated: 2026-10-14T07:06:35-04:00
 beats:
 - politics
 status: story
@@ -150,3 +150,5 @@ Cook notes Republicans remain hopeful about picking up Michigan and holding Main
 The rating moves landed alongside a busy debate calendar: Michigan's Rogers and El-Sayed faced off for the first time, Iowa's Turek and Hinson clashed in their first Senate debate, and Maine's Collins and Jackson held their first debate. Trump defended his border policies in Texas as the Senate race there heats up, and Republican nominee Ken Paxton acknowledged the Iran war is a drag on his Texas campaign.
 
 Three weeks out, the state level picture kept moving. New North Carolina polling reported by The Hill put Democrat Roy Cooper at least seven points ahead of Republican Whatley in North Carolina, and Minnesota polling put Flanagan four points ahead of Tafoya in that Senate race, and Montana's Democratic Party chair resigned and endorsed an independent in the Senate race there, a split that complicates the party's path in a state it needs to hold. Former New Jersey governor Chris Christie called the Republican midterm effort malpractice, and a former Trump spokesperson said he was absolutely concerned about Kansas, where Cook already moved the race to a toss up. These are polls and party disputes, not results, and individual surveys carry their usual margins of error. Status: reported.
+
+Update, Wednesday October 14: the campaign map added three headline level developments on Tuesday. Senate Democratic leader Chuck Schumer warned of a Republican advantage that could change the battle for Senate control, in remarks reported by Fox News. President Trump was set to campaign in Kansas to boost Roger Marshall's Senate bid and travelled to Alaska as that state's Senate race heated up, both reported by The Hill. In New Hampshire, a Republican Senate candidate publicly criticised Trump over Iran and Russia, reported by Bloomberg. These items are carried at headline level from the feed; the full texts sit behind blocked or paywalled pages in this run, and no new polling figures are stated from them. The substantive Tuesday development, the three Senate debates in Georgia, Maine and Iowa, is covered in today's separate debate night story.

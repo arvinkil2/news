@@ -1,7 +1,7 @@
 ---
 title: "Jio said to set IPO price band for record India listing"
 date: 2026-10-09T07:13:47-04:00
-last_updated: 2026-10-09T07:13:47-04:00
+last_updated: 2026-10-14T07:08:35-04:00
 beats: ["infra-deals"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,8 +18,16 @@ sources:
     publisher: "Outlook Money (citing Reuters)"
     url: "https://www.outlookmoney.com/invest/jio-platforms-ipo-launch-date-issue-size-price-band-listing-date"
     published: "2026-10-06"
+  - title: "Jio Platforms draws $20b in bids for planned IPO"
+    publisher: "Tech in Asia"
+    url: "https://www.techinasia.com/reliance-reworks-jio-ipo-as-fresh-share-sale"
+    published: "2026-10-13"
+  - title: "Jio Platforms' Record IPO Inches Closer, RHP Filing Expected Today"
+    publisher: "Outlook Business"
+    url: "https://www.outlookbusiness.com/markets/jio-platforms-record-ipo-inches-closer-rhp-filing-expected-today"
+    published: "2026-10-14"
 tags: []
-data_as_of: "Reported October 9, 2026. Price band and issue size not yet confirmed in a red herring prospectus; figures from Bloomberg reporting via people familiar, consistent with earlier PTI/Reuters reporting."
+data_as_of: "Reported October 9, 2026. Price band and issue size not yet confirmed in a red herring prospectus; figures from Bloomberg reporting via people familiar, consistent with earlier PTI/Reuters reporting. Updated October 14, 2026 with reported bid indications of more than $20 billion (Bloomberg via Tech in Asia); RHP filing still pending at update time."
 ---
 
 Jio Platforms, the digital arm of Reliance Industries, is expected to fix its IPO price band at 1,065 to 1,119 rupees per share, Bloomberg reported on October 9, citing people familiar with the matter. At the upper end, the fresh issue of up to 27 crore shares would raise about 30,200 crore rupees, implying a market capitalization around 10.4 lakh crore rupees and surpassing Hyundai Motor India's 27,870 crore rupee issue of 2024 as the country's biggest IPO.
@@ -27,3 +35,5 @@ Jio Platforms, the digital arm of Reliance Industries, is expected to fix its IP
 The issue has no offer-for-sale component, so all proceeds stay with the company. The plan is to use up to 27,500 crore rupees to repay or prepay borrowings of operating subsidiary Reliance Jio Infocomm, with the remainder for general corporate purposes. The IPO is expected to open October 21 and close October 23, with allotment around October 26 and listing on the NSE and BSE on October 28. SEBI issued its final observations on the draft papers in late August.
 
 The float matters beyond its size. Jio Infocomm leads India's telecom market with about 506 million mobile customers and 157.9 million fixed-line subscribers, and the shareholder register includes Meta Platforms affiliate Jaadhu Holdings at 9.98 percent and Google International at 7.73 percent. An unofficial grey-market premium around 182 rupees a share suggests expectations of a listing gain, though that market is unregulated and no guarantee of anything.
+
+Update, October 14: the offering has drawn more than $20 billion in bids from prospective investors ahead of launch, Bloomberg reported via Tech in Asia, with Fidelity, Allianz and Capital Group among the institutions indicating interest, though the final anchor list is not set. The target valuation is up to 10.3 lakh crore rupees, about $108 billion, below earlier expectations of as much as $170 billion. The red herring prospectus filing was expected imminently, with the anchor book seen opening October 19, public subscription October 21 to 23 and listing targeted for October 28. Indications of interest at this stage are not the same as subscription demand in the public bookbuild, but at more than six times the roughly $3.2 billion raise, they point to a heavily covered issue.
