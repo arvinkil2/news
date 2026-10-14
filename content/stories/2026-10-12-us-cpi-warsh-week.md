@@ -1,7 +1,7 @@
 ---
 title: "US CPI beats forecasts as core inflation firms"
 date: 2026-10-12T07:16:44-04:00
-last_updated: 2026-10-14T11:17:48-04:00
+last_updated: 2026-10-14T13:49:59-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["north-america", "global"]
@@ -35,6 +35,14 @@ sources:
     publisher: "ZeroHedge"
     url: "https://www.zerohedge.com:443/markets/rate-hike-odds-bond-yields-explode-higher-after-hotter-expected-cpi"
     published: "2026-10-14"
+  - title: "US September CPI 3.7% vs 3.6% expected"
+    publisher: "investingLive"
+    url: "https://investinglive.com/news/us-september-cpi-vs-3-6-expected-0/"
+    published: "2026-10-14"
+  - title: "US Open: CPI reading weighs on American indices (14.10.2026)"
+    publisher: "XTB"
+    url: "https://www.xtb.com/int/market-analysis/news-and-research/us-open-cpi-reading-weighs-on-american-indices-14-10-2026"
+    published: "2026-10-14"
   - title: "Dollar Advances to Highest Since May 2025 on Fed Hike Views"
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-14/dollar-advances-to-highest-since-may-2025-on-fed-hike-views"
@@ -48,10 +56,12 @@ sources:
     url: "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories"
     published: "2026-10-12"
 tags: []
-data_as_of: "Wednesday, October 14, 2026, updated 11:17 ET with the late morning dollar and cross-asset levels (Bloomberg market reporting). Earlier version updated 08:57 ET. September CPI from the Bureau of Labor Statistics release (USDL-26-1574, embargoed 08:30 ET), read in full via a live browser session after an initial text fetch still served the August release; headline and core figures also agree across Reuters and dpa reports of the same release. Consensus is the Wall Street Journal and Reuters polls (headline +0.6 percent monthly and +3.6 percent yearly, core +0.2 percent monthly and +2.5 percent yearly). Yield moves and the LSEG October pricing (45 percent, from 20 percent) are MarketWatch live coverage at 08:40 ET; the roughly 50 percent figure is ZeroHedge market reporting; pre-release October pricing was about 22 percent on CME FedWatch via Reuters. Futures levels are the Reuters snapshot at 08:33 ET."
+data_as_of: "Wednesday, October 14, 2026, updated 13:49 ET with the unrounded CPI detail (investingLive tally of the BLS release) and the US cash open (XTB market report, published 12:44 ET). Earlier version updated 11:17 ET with the late morning dollar and cross-asset levels (Bloomberg market reporting). Earlier version updated 08:57 ET. September CPI from the Bureau of Labor Statistics release (USDL-26-1574, embargoed 08:30 ET), read in full via a live browser session after an initial text fetch still served the August release; headline and core figures also agree across Reuters and dpa reports of the same release. Consensus is the Wall Street Journal and Reuters polls (headline +0.6 percent monthly and +3.6 percent yearly, core +0.2 percent monthly and +2.5 percent yearly). Yield moves and the LSEG October pricing (45 percent, from 20 percent) are MarketWatch live coverage at 08:40 ET; the roughly 50 percent figure is ZeroHedge market reporting; pre-release October pricing was about 22 percent on CME FedWatch via Reuters. Futures levels are the Reuters snapshot at 08:33 ET."
 ---
 
-**Latest (11:17 ET):** The repricing extended through the morning. The Bloomberg dollar index rose 0.4 percent to its highest since May 2025, the euro fell 0.6 percent to $1.1133 and the dollar bought 158.85 yen, while gold fell 1.4 percent to $4,102 an ounce, a tightening scare pattern rather than a flight to safety. Brent held near $106 with WTI up 1.5 percent at $95.57. The Federal Reserve Beige Book, at 14:00 ET, is the next test of whether the move holds.
+**Latest (13:49 ET):** The unrounded detail made the print look firmer still. Core prices rose 0.335 percent on the month, close to rounding to 0.4 percent, with core goods up 0.3 percent against 0.11 percent in August and supercore inflation at 3.13 percent on the year, up from 3.02 percent. More than 52 percent of items rose at better than a 3 percent pace in September, according to XTB's read of the release. At the US open the S&P 500 fell 0.8 percent and the Nasdaq 100 fell 1 percent, the 10-year yield briefly touched 5.33 percent before settling near 5.27 percent, the two-year eased to about 4.86 percent after spiking to 4.95 percent, gold fell about 2 percent toward $4,075 an ounce and silver dropped about 6 percent to $55.60. Market pricing for an October hike sits between 45 and 50 percent across trackers, up from about 21 percent before the data. The Federal Reserve Beige Book, at 14:00 ET, is the next release.
+
+**Earlier (11:17 ET):** The repricing extended through the morning. The Bloomberg dollar index rose 0.4 percent to its highest since May 2025, the euro fell 0.6 percent to $1.1133 and the dollar bought 158.85 yen, while gold fell 1.4 percent to $4,102 an ounce, a tightening scare pattern rather than a flight to safety. Brent held near $106 with WTI up 1.5 percent at $95.57. The Federal Reserve Beige Book, at 14:00 ET, is the next test of whether the move holds.
 
 **Earlier (08:57 ET):** September CPI came in hotter than expected where it matters. Headline prices rose 0.6 percent on the month, matching consensus and up from 0.4 percent in August, lifting the annual rate to 3.7 percent against a 3.6 percent forecast and 3.4 percent in August. Core prices, excluding food and energy, rose 0.3 percent on the month, matching August and beating the 0.2 percent forecast, and 2.6 percent on the year, up from 2.4 percent and above the 2.5 percent expected. Energy did the heavy lifting in the headline: the energy index rose 5.2 percent on the month and 20.4 percent on the year, and the BLS gasoline index jumped 9.1 percent on the month, accounting for more than half of the monthly all items increase, with fuel oil up 15.3 percent. Food prices were flat on the month and up 2.5 percent on the year. Inside the core, shelter accelerated to 0.4 percent on the month from 0.3 percent in August, services excluding energy rose 0.4 percent, and recreation, used cars and trucks, education, airline fares and apparel all increased, while communication fell.
 
