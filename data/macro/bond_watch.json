@@ -1,0 +1,4848 @@
+{
+ "generated": "2026-10-14",
+ "marks_as_of": "2026-07-31",
+ "source": "SEC Form N-PORT bulk data, fund-reported holdings; implied price = 100 x reported value / reported principal, aggregated across reporting funds",
+ "method": "Monthly fund marks. Funds file about 60 days after period end, so the newest mark lags the market. Not live trade prices.",
+ "cusips_tracked": 111,
+ "flags": [
+  "MOVE 076912AA2 (BEIGNET INVESTOR LLC): 102.06 -> 96.86 (-5.20 pts) at 2026-07-31",
+  "MOVE 21873SAB4 (COREWEAVE INC): 100.68 -> 93.56 (-7.12 pts) at 2026-07-31",
+  "MOVE 21873SAC2 (COREWEAVE, INC.): 98.9 -> 90.31 (-8.59 pts) at 2026-07-31",
+  "MOVE 21873SAD0 (COREWEAVE INC): 119.24 -> 94.23 (-25.01 pts) at 2026-07-31",
+  "MOVE 21873SAG3 (COREWEAVE INC): 99.81 -> 90.76 (-9.05 pts) at 2026-07-31",
+  "MOVE 21873SAH1 (COREWEAVE INC): 110.23 -> 88.22 (-22.01 pts) at 2026-07-31",
+  "LOW 21873SAH1 (COREWEAVE INC): latest mark 88.22 at 2026-07-31 (below 90)",
+  "MOVE 21873SAK4 (COREWEAVE INC): 98.57 -> 89.55 (-9.02 pts) at 2026-07-31",
+  "LOW 21873SAK4 (COREWEAVE INC): latest mark 89.55 at 2026-07-31 (below 90)",
+  "ANOMALY 29409YAF8 (COREWEAVE FINANCING DDTL V, LLC): implied mark 1.98 at 2026-06-30 is a reporting-unit artifact; excluded from the watch"
+ ],
+ "rows": [
+  {
+   "cusip": "01627AAA6",
+   "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+   "deal": "Aligned",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.67,
+   "prev_price": 99.48,
+   "change_pts": 0.19,
+   "positions": 32,
+   "principal_usd": 126789000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     97.24
+    ],
+    [
+     "2025-09-30",
+     97.61
+    ],
+    [
+     "2025-10-31",
+     97.67
+    ],
+    [
+     "2025-11-30",
+     97.89
+    ],
+    [
+     "2025-12-31",
+     98.21
+    ],
+    [
+     "2026-01-30",
+     98.54
+    ],
+    [
+     "2026-01-31",
+     98.56
+    ],
+    [
+     "2026-02-27",
+     98.82
+    ],
+    [
+     "2026-02-28",
+     98.82
+    ],
+    [
+     "2026-03-31",
+     98.98
+    ],
+    [
+     "2026-04-30",
+     99.25
+    ],
+    [
+     "2026-05-29",
+     99.48
+    ],
+    [
+     "2026-05-31",
+     99.48
+    ],
+    [
+     "2026-06-30",
+     99.67
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAB4",
+   "issuer": "Aligned Data Centers Issuer LLC",
+   "deal": "Aligned",
+   "coupon_pct": 2.48,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.63,
+   "prev_price": 99.36,
+   "change_pts": 0.27,
+   "positions": 7,
+   "principal_usd": 24135000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     96.67
+    ],
+    [
+     "2025-09-30",
+     97.47
+    ],
+    [
+     "2025-10-31",
+     97.56
+    ],
+    [
+     "2025-11-30",
+     97.84
+    ],
+    [
+     "2025-12-31",
+     98.23
+    ],
+    [
+     "2026-01-31",
+     98.42
+    ],
+    [
+     "2026-02-27",
+     98.7
+    ],
+    [
+     "2026-02-28",
+     98.7
+    ],
+    [
+     "2026-03-31",
+     98.9
+    ],
+    [
+     "2026-04-30",
+     99.14
+    ],
+    [
+     "2026-05-29",
+     99.36
+    ],
+    [
+     "2026-05-31",
+     99.36
+    ],
+    [
+     "2026-06-30",
+     99.63
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAC2",
+   "issuer": "Aligned Data Centers Issuer LLC",
+   "deal": "Aligned",
+   "coupon_pct": 6.35,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.99,
+   "prev_price": 100.18,
+   "change_pts": -0.19,
+   "positions": 5,
+   "principal_usd": 12380000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.11
+    ],
+    [
+     "2025-09-30",
+     100.03
+    ],
+    [
+     "2025-10-31",
+     100.05
+    ],
+    [
+     "2025-11-30",
+     100.05
+    ],
+    [
+     "2025-12-31",
+     100.07
+    ],
+    [
+     "2026-01-31",
+     100.17
+    ],
+    [
+     "2026-02-28",
+     100.26
+    ],
+    [
+     "2026-03-31",
+     99.66
+    ],
+    [
+     "2026-04-30",
+     100.04
+    ],
+    [
+     "2026-05-31",
+     100.18
+    ],
+    [
+     "2026-06-30",
+     99.99
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAD0",
+   "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+   "deal": "Aligned",
+   "coupon_pct": 6.0,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.07,
+   "prev_price": 100.22,
+   "change_pts": -0.15,
+   "positions": 12,
+   "principal_usd": 18464000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     101.02
+    ],
+    [
+     "2025-09-30",
+     101.05
+    ],
+    [
+     "2025-10-31",
+     100.97
+    ],
+    [
+     "2025-11-30",
+     100.74
+    ],
+    [
+     "2025-12-31",
+     100.76
+    ],
+    [
+     "2026-01-31",
+     100.67
+    ],
+    [
+     "2026-02-28",
+     100.49
+    ],
+    [
+     "2026-03-31",
+     100.44
+    ],
+    [
+     "2026-04-30",
+     100.25
+    ],
+    [
+     "2026-05-31",
+     100.22
+    ],
+    [
+     "2026-06-30",
+     100.07
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAE8",
+   "issuer": "ALIGNED DATA CENTERS ISSUER LL ADC 2023 2A A2 144A",
+   "deal": "Aligned",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.63,
+   "prev_price": 100.84,
+   "change_pts": -0.21,
+   "positions": 6,
+   "principal_usd": 3355000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     102.0
+    ],
+    [
+     "2025-09-30",
+     101.87
+    ],
+    [
+     "2025-10-31",
+     101.66
+    ],
+    [
+     "2025-11-30",
+     101.52
+    ],
+    [
+     "2025-12-31",
+     101.43
+    ],
+    [
+     "2026-01-31",
+     101.28
+    ],
+    [
+     "2026-02-27",
+     101.31
+    ],
+    [
+     "2026-02-28",
+     101.29
+    ],
+    [
+     "2026-03-31",
+     100.95
+    ],
+    [
+     "2026-04-30",
+     100.84
+    ],
+    [
+     "2026-05-29",
+     100.85
+    ],
+    [
+     "2026-05-31",
+     100.84
+    ],
+    [
+     "2026-06-30",
+     100.63
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAF5",
+   "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+   "deal": "Aligned",
+   "coupon_pct": 6.414,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.62,
+   "prev_price": 100.31,
+   "change_pts": -0.69,
+   "positions": 8,
+   "principal_usd": 25783535.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     100.31
+    ],
+    [
+     "2026-07-31",
+     99.62
+    ]
+   ]
+  },
+  {
+   "cusip": "01627AAH1",
+   "issuer": "ALIGNED DATA CENTERS ISSUER LLC 6.688% BDS 15/06/56 USD25000144A",
+   "deal": "Aligned",
+   "coupon_pct": 6.688,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.52,
+   "prev_price": 100.12,
+   "change_pts": -0.6,
+   "positions": 4,
+   "principal_usd": 5762000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     100.12
+    ],
+    [
+     "2026-07-31",
+     99.52
+    ]
+   ]
+  },
+  {
+   "cusip": "05619PAE6",
+   "issuer": "QTS Data Centers - BX 2025-VOLT C",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.32,
+   "prev_price": 99.62,
+   "change_pts": 0.7,
+   "positions": 1,
+   "principal_usd": 10000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-12-31",
+     100.42
+    ],
+    [
+     "2026-03-31",
+     99.62
+    ],
+    [
+     "2026-06-30",
+     100.32
+    ]
+   ]
+  },
+  {
+   "cusip": "076912AA2",
+   "issuer": "BEIGNET INVESTOR LLC",
+   "deal": "Beignet",
+   "coupon_pct": 6.581,
+   "maturity": "2049-05-30",
+   "rating": "S&P A+",
+   "latest_period": "2026-07-31",
+   "latest_price": 96.86,
+   "prev_price": 102.06,
+   "change_pts": -5.2,
+   "positions": 77,
+   "principal_usd": 592243000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-10-31",
+     106.73
+    ],
+    [
+     "2025-11-28",
+     107.93
+    ],
+    [
+     "2025-11-30",
+     107.81
+    ],
+    [
+     "2025-12-31",
+     105.73
+    ],
+    [
+     "2026-01-30",
+     104.47
+    ],
+    [
+     "2026-01-31",
+     104.13
+    ],
+    [
+     "2026-02-27",
+     106.2
+    ],
+    [
+     "2026-02-28",
+     106.23
+    ],
+    [
+     "2026-03-31",
+     102.88
+    ],
+    [
+     "2026-04-30",
+     103.38
+    ],
+    [
+     "2026-05-29",
+     102.86
+    ],
+    [
+     "2026-05-31",
+     103.09
+    ],
+    [
+     "2026-06-30",
+     102.06
+    ],
+    [
+     "2026-07-31",
+     96.86
+    ]
+   ]
+  },
+  {
+   "cusip": "123913AG0",
+   "issuer": "QTS Data Centers - BX 2025-VLT7 D",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.28,
+   "prev_price": 99.55,
+   "change_pts": 0.73,
+   "positions": 2,
+   "principal_usd": 12250000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.05
+    ],
+    [
+     "2025-12-31",
+     100.61
+    ],
+    [
+     "2026-03-31",
+     99.55
+    ],
+    [
+     "2026-06-30",
+     100.28
+    ]
+   ]
+  },
+  {
+   "cusip": "123913AJ4",
+   "issuer": "QTS Data Centers - BX 2025-VLT7 E",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.38,
+   "prev_price": 99.35,
+   "change_pts": 1.03,
+   "positions": 2,
+   "principal_usd": 18000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.78
+    ],
+    [
+     "2025-12-31",
+     100.1
+    ],
+    [
+     "2026-03-31",
+     99.35
+    ],
+    [
+     "2026-06-30",
+     100.38
+    ]
+   ]
+  },
+  {
+   "cusip": "12433KAG2",
+   "issuer": "QTS Data Centers - BX 2025-VLT6 D",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.75,
+   "prev_price": 99.12,
+   "change_pts": 0.63,
+   "positions": 1,
+   "principal_usd": 5000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.12
+    ],
+    [
+     "2025-12-31",
+     99.96
+    ],
+    [
+     "2026-03-31",
+     99.12
+    ],
+    [
+     "2026-06-30",
+     99.75
+    ]
+   ]
+  },
+  {
+   "cusip": "12433KAJ6",
+   "issuer": "QTS Data Centers - BX 2025-VLT6 E",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.76,
+   "prev_price": 99.38,
+   "change_pts": 0.38,
+   "positions": 1,
+   "principal_usd": 10000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.08
+    ],
+    [
+     "2025-12-31",
+     99.89
+    ],
+    [
+     "2026-03-31",
+     99.38
+    ],
+    [
+     "2026-06-30",
+     99.76
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAA7",
+   "issuer": "COMPASS DATACENTERS ISSUER II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.78,
+   "prev_price": 100.41,
+   "change_pts": -0.63,
+   "positions": 7,
+   "principal_usd": 12110000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     101.25
+    ],
+    [
+     "2025-09-30",
+     100.78
+    ],
+    [
+     "2025-10-31",
+     100.79
+    ],
+    [
+     "2025-11-30",
+     100.48
+    ],
+    [
+     "2025-12-31",
+     100.57
+    ],
+    [
+     "2026-01-30",
+     100.53
+    ],
+    [
+     "2026-01-31",
+     100.52
+    ],
+    [
+     "2026-02-28",
+     100.68
+    ],
+    [
+     "2026-03-31",
+     99.97
+    ],
+    [
+     "2026-04-30",
+     100.04
+    ],
+    [
+     "2026-05-31",
+     100.69
+    ],
+    [
+     "2026-06-30",
+     100.41
+    ],
+    [
+     "2026-07-31",
+     99.78
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAB5",
+   "issuer": "Compass Datacenters Issuer II, LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.28,
+   "prev_price": 100.38,
+   "change_pts": -0.1,
+   "positions": 3,
+   "principal_usd": 3147000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.96
+    ],
+    [
+     "2025-10-31",
+     100.91
+    ],
+    [
+     "2025-12-31",
+     100.9
+    ],
+    [
+     "2026-01-31",
+     100.85
+    ],
+    [
+     "2026-03-31",
+     100.34
+    ],
+    [
+     "2026-04-30",
+     100.61
+    ],
+    [
+     "2026-06-30",
+     100.38
+    ],
+    [
+     "2026-07-31",
+     100.28
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAC3",
+   "issuer": "Compass Datacenters Issuer II, LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.82,
+   "prev_price": 101.03,
+   "change_pts": -0.21,
+   "positions": 4,
+   "principal_usd": 4112000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     102.76
+    ],
+    [
+     "2025-10-31",
+     102.38
+    ],
+    [
+     "2025-12-31",
+     102.24
+    ],
+    [
+     "2026-01-31",
+     101.95
+    ],
+    [
+     "2026-03-31",
+     101.28
+    ],
+    [
+     "2026-04-30",
+     101.28
+    ],
+    [
+     "2026-06-30",
+     101.03
+    ],
+    [
+     "2026-07-31",
+     100.82
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAD1",
+   "issuer": "Compass Datacenters Issuer II, LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.61,
+   "prev_price": 99.22,
+   "change_pts": -0.61,
+   "positions": 11,
+   "principal_usd": 19870000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.58
+    ],
+    [
+     "2025-09-30",
+     100.48
+    ],
+    [
+     "2025-10-31",
+     100.48
+    ],
+    [
+     "2025-11-30",
+     100.1
+    ],
+    [
+     "2025-12-31",
+     100.23
+    ],
+    [
+     "2026-01-31",
+     100.16
+    ],
+    [
+     "2026-02-28",
+     100.42
+    ],
+    [
+     "2026-03-31",
+     99.36
+    ],
+    [
+     "2026-04-30",
+     99.9
+    ],
+    [
+     "2026-05-31",
+     99.8
+    ],
+    [
+     "2026-06-30",
+     99.22
+    ],
+    [
+     "2026-07-31",
+     98.61
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAE9",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.67,
+   "prev_price": 99.72,
+   "change_pts": 0.95,
+   "positions": 1,
+   "principal_usd": 500000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.27
+    ],
+    [
+     "2025-10-31",
+     102.18
+    ],
+    [
+     "2025-12-31",
+     101.09
+    ],
+    [
+     "2026-01-31",
+     100.67
+    ],
+    [
+     "2026-03-31",
+     100.35
+    ],
+    [
+     "2026-04-30",
+     99.72
+    ],
+    [
+     "2026-06-30",
+     100.67
+    ]
+   ]
+  },
+  {
+   "cusip": "20469AAF6",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.31,
+   "prev_price": 98.27,
+   "change_pts": 1.04,
+   "positions": 1,
+   "principal_usd": 3250000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.44
+    ],
+    [
+     "2025-10-31",
+     100.35
+    ],
+    [
+     "2025-12-31",
+     100.38
+    ],
+    [
+     "2026-01-31",
+     99.25
+    ],
+    [
+     "2026-03-31",
+     98.63
+    ],
+    [
+     "2026-04-30",
+     97.19
+    ],
+    [
+     "2026-06-30",
+     98.27
+    ],
+    [
+     "2026-07-31",
+     99.31
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAA5",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.04,
+   "prev_price": 99.91,
+   "change_pts": 0.13,
+   "positions": 4,
+   "principal_usd": 4600000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     101.78
+    ],
+    [
+     "2025-09-30",
+     101.97
+    ],
+    [
+     "2025-10-31",
+     101.89
+    ],
+    [
+     "2025-11-30",
+     102.04
+    ],
+    [
+     "2025-12-31",
+     101.17
+    ],
+    [
+     "2026-01-31",
+     101.05
+    ],
+    [
+     "2026-02-28",
+     101.27
+    ],
+    [
+     "2026-03-31",
+     100.26
+    ],
+    [
+     "2026-04-30",
+     100.64
+    ],
+    [
+     "2026-05-31",
+     100.55
+    ],
+    [
+     "2026-06-30",
+     99.91
+    ],
+    [
+     "2026-07-31",
+     100.04
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAB3",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.97,
+   "prev_price": 100.51,
+   "change_pts": -0.54,
+   "positions": 3,
+   "principal_usd": 936000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     102.67
+    ],
+    [
+     "2025-09-30",
+     102.59
+    ],
+    [
+     "2025-10-31",
+     103.18
+    ],
+    [
+     "2025-11-30",
+     102.39
+    ],
+    [
+     "2025-12-31",
+     101.39
+    ],
+    [
+     "2026-01-31",
+     101.28
+    ],
+    [
+     "2026-02-28",
+     102.14
+    ],
+    [
+     "2026-03-31",
+     99.37
+    ],
+    [
+     "2026-04-30",
+     100.7
+    ],
+    [
+     "2026-05-31",
+     100.57
+    ],
+    [
+     "2026-06-30",
+     100.51
+    ],
+    [
+     "2026-07-31",
+     99.97
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAC1",
+   "issuer": "COMPASS DATACENTERS ISSUER III LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.06,
+   "prev_price": 100.24,
+   "change_pts": -0.18,
+   "positions": 2,
+   "principal_usd": 700000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     101.57
+    ],
+    [
+     "2025-09-30",
+     101.16
+    ],
+    [
+     "2025-12-31",
+     101.09
+    ],
+    [
+     "2026-03-31",
+     100.29
+    ],
+    [
+     "2026-04-30",
+     100.62
+    ],
+    [
+     "2026-06-30",
+     100.24
+    ],
+    [
+     "2026-07-31",
+     100.06
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAD9",
+   "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+   "deal": "Compass",
+   "coupon_pct": 5.286,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.82,
+   "prev_price": 98.66,
+   "change_pts": -0.84,
+   "positions": 10,
+   "principal_usd": 41426000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     101.15
+    ],
+    [
+     "2025-09-30",
+     101.17
+    ],
+    [
+     "2025-10-31",
+     101.04
+    ],
+    [
+     "2025-11-30",
+     101.47
+    ],
+    [
+     "2025-12-31",
+     100.61
+    ],
+    [
+     "2026-01-31",
+     100.37
+    ],
+    [
+     "2026-02-28",
+     101.44
+    ],
+    [
+     "2026-03-31",
+     99.02
+    ],
+    [
+     "2026-04-30",
+     98.72
+    ],
+    [
+     "2026-05-31",
+     98.35
+    ],
+    [
+     "2026-06-30",
+     98.66
+    ],
+    [
+     "2026-07-31",
+     97.82
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAF4",
+   "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+   "deal": "Compass",
+   "coupon_pct": 4.897,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.45,
+   "prev_price": 98.81,
+   "change_pts": -1.36,
+   "positions": 10,
+   "principal_usd": 30364000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-02-27",
+     101.03
+    ],
+    [
+     "2026-02-28",
+     100.99
+    ],
+    [
+     "2026-03-31",
+     99.17
+    ],
+    [
+     "2026-04-30",
+     99.06
+    ],
+    [
+     "2026-05-29",
+     99.04
+    ],
+    [
+     "2026-05-31",
+     98.95
+    ],
+    [
+     "2026-06-30",
+     98.81
+    ],
+    [
+     "2026-07-31",
+     97.45
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAG2",
+   "issuer": "COMPASS DATACENTERS ISSUER III LLC / LTD (PARTNERSHIP)",
+   "deal": "Compass",
+   "coupon_pct": 5.289,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.92,
+   "prev_price": 98.93,
+   "change_pts": -1.01,
+   "positions": 15,
+   "principal_usd": 29303000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-02-28",
+     100.26
+    ],
+    [
+     "2026-03-31",
+     97.97
+    ],
+    [
+     "2026-04-30",
+     99.41
+    ],
+    [
+     "2026-05-31",
+     99.08
+    ],
+    [
+     "2026-06-30",
+     98.93
+    ],
+    [
+     "2026-07-31",
+     97.92
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAH0",
+   "issuer": "Compass Datacenters Issuer III LLC",
+   "deal": "Compass",
+   "coupon_pct": 5.44,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.31,
+   "prev_price": 98.56,
+   "change_pts": -1.25,
+   "positions": 8,
+   "principal_usd": 10782000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-02-28",
+     100.11
+    ],
+    [
+     "2026-03-31",
+     97.99
+    ],
+    [
+     "2026-04-30",
+     99.11
+    ],
+    [
+     "2026-05-31",
+     98.78
+    ],
+    [
+     "2026-06-30",
+     98.56
+    ],
+    [
+     "2026-07-31",
+     97.31
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAJ6",
+   "issuer": "Compass Datacenters Issuer III LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.59,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 7,
+   "principal_usd": 14268000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-07-31",
+     100.59
+    ]
+   ]
+  },
+  {
+   "cusip": "20469BAK3",
+   "issuer": "Compass Datacenters Issuer III, LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.1,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 1,
+   "principal_usd": 200000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-07-31",
+     100.1
+    ]
+   ]
+  },
+  {
+   "cusip": "20469CAA3",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.21,
+   "prev_price": 99.72,
+   "change_pts": -0.51,
+   "positions": 10,
+   "principal_usd": 12593836.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     102.0
+    ],
+    [
+     "2025-09-30",
+     101.21
+    ],
+    [
+     "2025-10-31",
+     101.54
+    ],
+    [
+     "2025-11-30",
+     101.9
+    ],
+    [
+     "2025-12-31",
+     100.98
+    ],
+    [
+     "2026-01-30",
+     100.71
+    ],
+    [
+     "2026-01-31",
+     100.83
+    ],
+    [
+     "2026-02-28",
+     101.33
+    ],
+    [
+     "2026-03-31",
+     99.87
+    ],
+    [
+     "2026-04-30",
+     100.27
+    ],
+    [
+     "2026-05-31",
+     100.11
+    ],
+    [
+     "2026-06-30",
+     99.72
+    ],
+    [
+     "2026-07-31",
+     99.21
+    ]
+   ]
+  },
+  {
+   "cusip": "20469CAB1",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.44,
+   "prev_price": 100.2,
+   "change_pts": -0.76,
+   "positions": 1,
+   "principal_usd": 500000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-10-31",
+     99.91
+    ],
+    [
+     "2026-01-31",
+     100.2
+    ],
+    [
+     "2026-06-30",
+     99.44
+    ]
+   ]
+  },
+  {
+   "cusip": "20469CAC9",
+   "issuer": "Compass Datacenters Issuer II LLC",
+   "deal": "Compass",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.5,
+   "prev_price": 99.14,
+   "change_pts": -0.64,
+   "positions": 3,
+   "principal_usd": 6443000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     101.38
+    ],
+    [
+     "2025-10-31",
+     101.11
+    ],
+    [
+     "2025-12-31",
+     101.08
+    ],
+    [
+     "2026-01-31",
+     99.43
+    ],
+    [
+     "2026-03-31",
+     99.92
+    ],
+    [
+     "2026-04-30",
+     98.61
+    ],
+    [
+     "2026-05-31",
+     99.42
+    ],
+    [
+     "2026-06-30",
+     99.14
+    ],
+    [
+     "2026-07-31",
+     98.5
+    ]
+   ]
+  },
+  {
+   "cusip": "20469CAE5",
+   "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
+   "deal": "Compass",
+   "coupon_pct": 4.926,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.29,
+   "prev_price": 97.83,
+   "change_pts": -0.54,
+   "positions": 17,
+   "principal_usd": 67138000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-10-31",
+     100.21
+    ],
+    [
+     "2025-11-30",
+     100.03
+    ],
+    [
+     "2025-12-31",
+     99.83
+    ],
+    [
+     "2026-01-31",
+     99.61
+    ],
+    [
+     "2026-02-28",
+     100.87
+    ],
+    [
+     "2026-03-31",
+     98.47
+    ],
+    [
+     "2026-04-30",
+     98.21
+    ],
+    [
+     "2026-05-31",
+     98.22
+    ],
+    [
+     "2026-06-30",
+     97.83
+    ],
+    [
+     "2026-07-31",
+     97.29
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAB4",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": 9.25,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 93.56,
+   "prev_price": 100.68,
+   "change_pts": -7.12,
+   "positions": 88,
+   "principal_usd": 354956000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-06-30",
+     102.31
+    ],
+    [
+     "2025-07-31",
+     100.51
+    ],
+    [
+     "2025-08-29",
+     100.36
+    ],
+    [
+     "2025-08-31",
+     100.37
+    ],
+    [
+     "2025-09-30",
+     103.31
+    ],
+    [
+     "2025-10-31",
+     100.98
+    ],
+    [
+     "2025-11-28",
+     92.29
+    ],
+    [
+     "2025-11-30",
+     92.28
+    ],
+    [
+     "2025-12-31",
+     93.02
+    ],
+    [
+     "2026-01-30",
+     98.47
+    ],
+    [
+     "2026-01-31",
+     98.48
+    ],
+    [
+     "2026-02-27",
+     97.95
+    ],
+    [
+     "2026-02-28",
+     97.91
+    ],
+    [
+     "2026-03-31",
+     97.24
+    ],
+    [
+     "2026-04-30",
+     101.27
+    ],
+    [
+     "2026-05-29",
+     102.04
+    ],
+    [
+     "2026-05-31",
+     102.04
+    ],
+    [
+     "2026-06-30",
+     100.68
+    ],
+    [
+     "2026-07-31",
+     93.56
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAC2",
+   "issuer": "COREWEAVE, INC.",
+   "deal": "CoreWeave",
+   "coupon_pct": 9.0,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 90.31,
+   "prev_price": 98.9,
+   "change_pts": -8.59,
+   "positions": 83,
+   "principal_usd": 214375000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-07-31",
+     99.57
+    ],
+    [
+     "2025-08-29",
+     99.03
+    ],
+    [
+     "2025-08-31",
+     99.02
+    ],
+    [
+     "2025-09-30",
+     102.55
+    ],
+    [
+     "2025-10-31",
+     100.31
+    ],
+    [
+     "2025-11-28",
+     90.47
+    ],
+    [
+     "2025-11-30",
+     90.49
+    ],
+    [
+     "2025-12-31",
+     91.68
+    ],
+    [
+     "2026-01-30",
+     97.23
+    ],
+    [
+     "2026-01-31",
+     97.23
+    ],
+    [
+     "2026-02-27",
+     96.69
+    ],
+    [
+     "2026-02-28",
+     96.56
+    ],
+    [
+     "2026-03-31",
+     95.25
+    ],
+    [
+     "2026-04-30",
+     99.38
+    ],
+    [
+     "2026-05-29",
+     101.41
+    ],
+    [
+     "2026-05-31",
+     101.42
+    ],
+    [
+     "2026-06-30",
+     98.9
+    ],
+    [
+     "2026-07-31",
+     90.31
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAD0",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": 1.75,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 94.23,
+   "prev_price": 119.24,
+   "change_pts": -25.01,
+   "positions": 18,
+   "principal_usd": 127356000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-12-31",
+     94.81
+    ],
+    [
+     "2026-01-30",
+     115.35
+    ],
+    [
+     "2026-01-31",
+     115.07
+    ],
+    [
+     "2026-02-27",
+     103.12
+    ],
+    [
+     "2026-02-28",
+     103.1
+    ],
+    [
+     "2026-03-31",
+     100.36
+    ],
+    [
+     "2026-04-30",
+     130.06
+    ],
+    [
+     "2026-05-29",
+     128.29
+    ],
+    [
+     "2026-05-31",
+     128.25
+    ],
+    [
+     "2026-06-30",
+     119.24
+    ],
+    [
+     "2026-07-31",
+     94.23
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAG3",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": 9.75,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 90.76,
+   "prev_price": 99.81,
+   "change_pts": -9.05,
+   "positions": 91,
+   "principal_usd": 283175000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-04-30",
+     100.61
+    ],
+    [
+     "2026-05-29",
+     103.13
+    ],
+    [
+     "2026-05-31",
+     103.13
+    ],
+    [
+     "2026-06-30",
+     99.81
+    ],
+    [
+     "2026-07-31",
+     90.76
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAH1",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": 1.75,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 88.22,
+   "prev_price": 110.23,
+   "change_pts": -22.01,
+   "positions": 19,
+   "principal_usd": 178447000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-04-30",
+     120.47
+    ],
+    [
+     "2026-05-29",
+     119.11
+    ],
+    [
+     "2026-05-31",
+     119.15
+    ],
+    [
+     "2026-06-30",
+     110.23
+    ],
+    [
+     "2026-07-31",
+     88.22
+    ]
+   ]
+  },
+  {
+   "cusip": "21873SAK4",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": 9.625,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 89.55,
+   "prev_price": 98.57,
+   "change_pts": -9.02,
+   "positions": 62,
+   "principal_usd": 133803000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     98.57
+    ],
+    [
+     "2026-07-31",
+     89.55
+    ]
+   ]
+  },
+  {
+   "cusip": "21881PAB0",
+   "issuer": "CoreWeave Compute Acquisition Co. VIII, LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.81,
+   "prev_price": 100.25,
+   "change_pts": -0.44,
+   "positions": 12,
+   "principal_usd": 70959172.03,
+   "quality": "full",
+   "history": [
+    [
+     "2026-04-30",
+     100.24
+    ],
+    [
+     "2026-05-31",
+     100.48
+    ],
+    [
+     "2026-06-30",
+     100.25
+    ],
+    [
+     "2026-07-31",
+     99.81
+    ]
+   ]
+  },
+  {
+   "cusip": "21881PAC8",
+   "issuer": "Coreweave Compute Acquisition Co VIII LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 100.25,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 1,
+   "principal_usd": 7241000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     100.25
+    ]
+   ]
+  },
+  {
+   "cusip": "21882DAB6",
+   "issuer": "CoreWeave Financing DDTL V LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.84,
+   "prev_price": 102.18,
+   "change_pts": -2.34,
+   "positions": 80,
+   "principal_usd": 260812810.74819997,
+   "quality": "full",
+   "history": [
+    [
+     "2026-05-29",
+     102.06
+    ],
+    [
+     "2026-05-31",
+     102.11
+    ],
+    [
+     "2026-06-30",
+     102.18
+    ],
+    [
+     "2026-07-31",
+     99.84
+    ]
+   ]
+  },
+  {
+   "cusip": "21882EAB4",
+   "issuer": "CoreWeave Financing DDTL V LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.38,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 2,
+   "principal_usd": 3112000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-07-31",
+     100.38
+    ]
+   ]
+  },
+  {
+   "cusip": "29409YAF8",
+   "issuer": "COREWEAVE FINANCING DDTL V, LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 1.98,
+   "prev_price": 2.04,
+   "change_pts": -0.06,
+   "positions": 1,
+   "principal_usd": 598833.55,
+   "quality": "anomaly",
+   "history": [
+    [
+     "2026-05-31",
+     2.04
+    ],
+    [
+     "2026-06-30",
+     1.98
+    ]
+   ]
+  },
+  {
+   "cusip": "36322DAA4",
+   "issuer": "GALAXY HELIOS DATA CNTR",
+   "deal": "Galaxy Helios",
+   "coupon_pct": 9.875,
+   "maturity": "2031-08-01",
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.31,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 70,
+   "principal_usd": 183866000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-07-31",
+     100.31
+    ]
+   ]
+  },
+  {
+   "cusip": "74690DAA9",
+   "issuer": "QTS ISSUER ABS I LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.53,
+   "prev_price": 99.2,
+   "change_pts": -0.67,
+   "positions": 6,
+   "principal_usd": 13837000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     101.72
+    ],
+    [
+     "2025-09-30",
+     102.11
+    ],
+    [
+     "2025-10-31",
+     101.4
+    ],
+    [
+     "2025-11-30",
+     101.14
+    ],
+    [
+     "2025-12-31",
+     100.66
+    ],
+    [
+     "2026-01-30",
+     100.62
+    ],
+    [
+     "2026-01-31",
+     100.48
+    ],
+    [
+     "2026-02-27",
+     101.8
+    ],
+    [
+     "2026-02-28",
+     101.88
+    ],
+    [
+     "2026-03-31",
+     98.88
+    ],
+    [
+     "2026-04-30",
+     99.62
+    ],
+    [
+     "2026-05-29",
+     99.44
+    ],
+    [
+     "2026-05-31",
+     99.49
+    ],
+    [
+     "2026-06-30",
+     99.2
+    ],
+    [
+     "2026-07-31",
+     98.53
+    ]
+   ]
+  },
+  {
+   "cusip": "74690DAB7",
+   "issuer": "QTS ISSUER ABS I LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.49,
+   "prev_price": 97.67,
+   "change_pts": -1.18,
+   "positions": 2,
+   "principal_usd": 1690000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.25
+    ],
+    [
+     "2025-10-31",
+     100.99
+    ],
+    [
+     "2025-12-31",
+     99.84
+    ],
+    [
+     "2026-01-31",
+     98.75
+    ],
+    [
+     "2026-03-31",
+     97.68
+    ],
+    [
+     "2026-04-30",
+     97.17
+    ],
+    [
+     "2026-05-31",
+     96.64
+    ],
+    [
+     "2026-06-30",
+     97.67
+    ],
+    [
+     "2026-07-31",
+     96.49
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAA4",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": 5.044,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.77,
+   "prev_price": 97.89,
+   "change_pts": -1.12,
+   "positions": 17,
+   "principal_usd": 34470237.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     99.69
+    ],
+    [
+     "2025-10-31",
+     99.92
+    ],
+    [
+     "2025-11-30",
+     100.44
+    ],
+    [
+     "2025-12-31",
+     98.97
+    ],
+    [
+     "2026-01-31",
+     99.47
+    ],
+    [
+     "2026-02-27",
+     100.03
+    ],
+    [
+     "2026-02-28",
+     99.72
+    ],
+    [
+     "2026-03-31",
+     97.92
+    ],
+    [
+     "2026-04-30",
+     98.03
+    ],
+    [
+     "2026-05-29",
+     97.36
+    ],
+    [
+     "2026-05-31",
+     97.73
+    ],
+    [
+     "2026-06-30",
+     97.89
+    ],
+    [
+     "2026-07-31",
+     96.77
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAB2",
+   "issuer": "QTSII 2025-1A 5.778% 10/05/30",
+   "deal": "QTS",
+   "coupon_pct": 5.778,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 95.11,
+   "prev_price": 95.78,
+   "change_pts": -0.67,
+   "positions": 1,
+   "principal_usd": 730000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     99.57
+    ],
+    [
+     "2025-10-31",
+     99.7
+    ],
+    [
+     "2025-11-30",
+     99.23
+    ],
+    [
+     "2025-12-31",
+     97.48
+    ],
+    [
+     "2026-01-31",
+     97.57
+    ],
+    [
+     "2026-02-28",
+     98.96
+    ],
+    [
+     "2026-03-31",
+     96.87
+    ],
+    [
+     "2026-04-30",
+     96.1
+    ],
+    [
+     "2026-05-31",
+     95.94
+    ],
+    [
+     "2026-06-30",
+     95.78
+    ],
+    [
+     "2026-07-31",
+     95.11
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAQ9",
+   "issuer": "QTSII 2026-1A 5.364% 01/05/31",
+   "deal": "QTS",
+   "coupon_pct": 5.364,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.62,
+   "prev_price": 98.76,
+   "change_pts": -1.14,
+   "positions": 8,
+   "principal_usd": 51586000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-01-31",
+     100.32
+    ],
+    [
+     "2026-02-28",
+     101.58
+    ],
+    [
+     "2026-03-31",
+     97.73
+    ],
+    [
+     "2026-04-30",
+     98.47
+    ],
+    [
+     "2026-05-31",
+     98.44
+    ],
+    [
+     "2026-06-30",
+     98.76
+    ],
+    [
+     "2026-07-31",
+     97.62
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAS5",
+   "issuer": "QTS ISSUER ABS II, LLC",
+   "deal": "QTS",
+   "coupon_pct": 6.729,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.71,
+   "prev_price": 100.24,
+   "change_pts": -1.53,
+   "positions": 8,
+   "principal_usd": 8941542.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-01-30",
+     101.06
+    ],
+    [
+     "2026-01-31",
+     101.05
+    ],
+    [
+     "2026-02-28",
+     102.41
+    ],
+    [
+     "2026-03-31",
+     99.23
+    ],
+    [
+     "2026-04-30",
+     98.55
+    ],
+    [
+     "2026-05-31",
+     98.04
+    ],
+    [
+     "2026-06-30",
+     100.24
+    ],
+    [
+     "2026-07-31",
+     98.71
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAU0",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": 5.848,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.62,
+   "prev_price": 98.34,
+   "change_pts": -1.72,
+   "positions": 5,
+   "principal_usd": 3211000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-01-30",
+     100.26
+    ],
+    [
+     "2026-01-31",
+     100.13
+    ],
+    [
+     "2026-02-28",
+     102.22
+    ],
+    [
+     "2026-03-31",
+     97.92
+    ],
+    [
+     "2026-04-30",
+     99.0
+    ],
+    [
+     "2026-05-31",
+     98.55
+    ],
+    [
+     "2026-06-30",
+     98.34
+    ],
+    [
+     "2026-07-31",
+     96.62
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FAY2",
+   "issuer": "QTS ISSUER ABS II, LLC",
+   "deal": "QTS",
+   "coupon_pct": 6.156,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.31,
+   "prev_price": 98.82,
+   "change_pts": 0.49,
+   "positions": 5,
+   "principal_usd": 8442000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-01-31",
+     100.0
+    ],
+    [
+     "2026-03-31",
+     98.52
+    ],
+    [
+     "2026-04-30",
+     98.82
+    ],
+    [
+     "2026-06-30",
+     99.31
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBC9",
+   "issuer": "QTS Issuer ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.46,
+   "prev_price": 99.7,
+   "change_pts": -1.24,
+   "positions": 14,
+   "principal_usd": 50167000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-03-31",
+     99.81
+    ],
+    [
+     "2026-04-30",
+     100.13
+    ],
+    [
+     "2026-05-31",
+     99.89
+    ],
+    [
+     "2026-06-30",
+     99.7
+    ],
+    [
+     "2026-07-31",
+     98.46
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBE5",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": 6.178,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.53,
+   "prev_price": 101.11,
+   "change_pts": -1.58,
+   "positions": 10,
+   "principal_usd": 8306418.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-03-31",
+     99.54
+    ],
+    [
+     "2026-04-30",
+     100.69
+    ],
+    [
+     "2026-05-31",
+     100.29
+    ],
+    [
+     "2026-06-30",
+     101.11
+    ],
+    [
+     "2026-07-31",
+     99.53
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBF2",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.57,
+   "prev_price": 99.8,
+   "change_pts": -1.23,
+   "positions": 1,
+   "principal_usd": 4250000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-03-31",
+     99.83
+    ],
+    [
+     "2026-04-30",
+     99.8
+    ],
+    [
+     "2026-05-31",
+     99.44
+    ],
+    [
+     "2026-06-30",
+     99.8
+    ],
+    [
+     "2026-07-31",
+     98.57
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBJ4",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.14,
+   "prev_price": 98.6,
+   "change_pts": -0.46,
+   "positions": 5,
+   "principal_usd": 8243000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-03-31",
+     99.99
+    ],
+    [
+     "2026-04-30",
+     100.02
+    ],
+    [
+     "2026-05-31",
+     99.6
+    ],
+    [
+     "2026-06-30",
+     98.6
+    ],
+    [
+     "2026-07-31",
+     98.14
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBK1",
+   "issuer": "QTSII 2026-6A  5.34% 07/05/31",
+   "deal": "QTS",
+   "coupon_pct": 5.34,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.9,
+   "prev_price": 100.03,
+   "change_pts": -1.13,
+   "positions": 10,
+   "principal_usd": 23865000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     100.03
+    ],
+    [
+     "2026-07-31",
+     98.9
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBL9",
+   "issuer": "QTSII 2026-6A 5.682% 07/05/31",
+   "deal": "QTS",
+   "coupon_pct": 5.682,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.18,
+   "prev_price": 100.33,
+   "change_pts": -1.15,
+   "positions": 1,
+   "principal_usd": 290000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     100.33
+    ],
+    [
+     "2026-07-31",
+     99.18
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBM7",
+   "issuer": "QTS Issuer ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.0,
+   "prev_price": 100.18,
+   "change_pts": -1.18,
+   "positions": 1,
+   "principal_usd": 684000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     100.18
+    ],
+    [
+     "2026-07-31",
+     99.0
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBN5",
+   "issuer": "QTSII 2026-6A 7.142% 07/05/31",
+   "deal": "QTS",
+   "coupon_pct": 7.142,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.4,
+   "prev_price": 100.05,
+   "change_pts": -0.65,
+   "positions": 4,
+   "principal_usd": 8044000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     100.05
+    ],
+    [
+     "2026-07-31",
+     99.4
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBP0",
+   "issuer": "QTSII 2026-7A 5.589% 07/05/33",
+   "deal": "QTS",
+   "coupon_pct": 5.589,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.07,
+   "prev_price": 100.08,
+   "change_pts": -2.01,
+   "positions": 4,
+   "principal_usd": 23348000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-06-30",
+     100.08
+    ],
+    [
+     "2026-07-31",
+     98.07
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBQ8",
+   "issuer": "QTSII 2026-7A 5.931% 07/05/33",
+   "deal": "QTS",
+   "coupon_pct": 5.931,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.0,
+   "prev_price": 100.3,
+   "change_pts": -2.3,
+   "positions": 1,
+   "principal_usd": 1072000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     100.3
+    ],
+    [
+     "2026-07-31",
+     98.0
+    ]
+   ]
+  },
+  {
+   "cusip": "74690FBR6",
+   "issuer": "QTS ISSUER ABS II LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.08,
+   "prev_price": 99.86,
+   "change_pts": -1.78,
+   "positions": 1,
+   "principal_usd": 3000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     99.86
+    ],
+    [
+     "2026-07-31",
+     98.08
+    ]
+   ]
+  },
+  {
+   "cusip": "74699AEH7",
+   "issuer": "QTS THUNDER 5.42%",
+   "deal": "QTS",
+   "coupon_pct": 5.42,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.82,
+   "prev_price": 98.1,
+   "change_pts": -0.28,
+   "positions": 1,
+   "principal_usd": 1625000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.0
+    ],
+    [
+     "2025-10-31",
+     100.0
+    ],
+    [
+     "2025-12-31",
+     100.87
+    ],
+    [
+     "2026-01-30",
+     100.0
+    ],
+    [
+     "2026-03-31",
+     100.84
+    ],
+    [
+     "2026-04-30",
+     100.0
+    ],
+    [
+     "2026-06-30",
+     98.1
+    ],
+    [
+     "2026-07-31",
+     97.82
+    ]
+   ]
+  },
+  {
+   "cusip": "74746PAD0",
+   "issuer": "QTS Thunder Managing Issuer LLC",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.61,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 25,
+   "principal_usd": 53226442.22999999,
+   "quality": "full",
+   "history": [
+    [
+     "2026-07-31",
+     98.61
+    ]
+   ]
+  },
+  {
+   "cusip": "74751*AK2",
+   "issuer": "QTS (PROJECT THUNDER)",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.8,
+   "prev_price": 100.08,
+   "change_pts": -0.28,
+   "positions": 2,
+   "principal_usd": 11105000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-01-31",
+     100.1
+    ],
+    [
+     "2026-04-30",
+     100.07
+    ],
+    [
+     "2026-05-31",
+     100.08
+    ],
+    [
+     "2026-07-31",
+     99.8
+    ]
+   ]
+  },
+  {
+   "cusip": "74751AAA1",
+   "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+   "deal": "QTS",
+   "coupon_pct": 5.7,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 91.45,
+   "prev_price": 95.1,
+   "change_pts": -3.65,
+   "positions": 47,
+   "principal_usd": 196274000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-04-30",
+     97.29
+    ],
+    [
+     "2026-05-29",
+     97.34
+    ],
+    [
+     "2026-05-31",
+     97.36
+    ],
+    [
+     "2026-06-30",
+     95.1
+    ],
+    [
+     "2026-07-31",
+     91.45
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAA2",
+   "issuer": "Retained Vantage Data Centers Issuer, LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.69,
+   "prev_price": 99.03,
+   "change_pts": -0.34,
+   "positions": 16,
+   "principal_usd": 36925000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.31
+    ],
+    [
+     "2025-09-30",
+     100.13
+    ],
+    [
+     "2025-10-31",
+     100.04
+    ],
+    [
+     "2025-11-30",
+     99.89
+    ],
+    [
+     "2025-12-31",
+     99.75
+    ],
+    [
+     "2026-01-31",
+     99.91
+    ],
+    [
+     "2026-02-28",
+     100.18
+    ],
+    [
+     "2026-03-31",
+     99.7
+    ],
+    [
+     "2026-04-30",
+     99.54
+    ],
+    [
+     "2026-05-31",
+     99.26
+    ],
+    [
+     "2026-06-30",
+     99.03
+    ],
+    [
+     "2026-07-31",
+     98.69
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAC8",
+   "issuer": "Retained Vantage Data Centers",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.12,
+   "prev_price": 98.49,
+   "change_pts": -0.37,
+   "positions": 3,
+   "principal_usd": 3425000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.04
+    ],
+    [
+     "2025-12-31",
+     99.93
+    ],
+    [
+     "2026-03-31",
+     98.78
+    ],
+    [
+     "2026-06-30",
+     98.49
+    ],
+    [
+     "2026-07-31",
+     98.12
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAE4",
+   "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.0,
+   "prev_price": 97.3,
+   "change_pts": 0.7,
+   "positions": 1,
+   "principal_usd": 96000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     99.68
+    ],
+    [
+     "2025-11-30",
+     99.29
+    ],
+    [
+     "2026-02-27",
+     100.65
+    ],
+    [
+     "2026-02-28",
+     99.49
+    ],
+    [
+     "2026-05-29",
+     98.93
+    ],
+    [
+     "2026-05-31",
+     97.3
+    ],
+    [
+     "2026-07-31",
+     98.0
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAG9",
+   "issuer": "Retained Vantage Data Centers Issuer LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 71.29,
+   "prev_price": 72.11,
+   "change_pts": -0.82,
+   "positions": 1,
+   "principal_usd": 2000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     72.6
+    ],
+    [
+     "2025-12-31",
+     72.63
+    ],
+    [
+     "2026-03-31",
+     72.11
+    ],
+    [
+     "2026-06-30",
+     71.29
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAH7",
+   "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": 4.992,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.69,
+   "prev_price": 97.98,
+   "change_pts": -0.29,
+   "positions": 6,
+   "principal_usd": 16960140.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.17
+    ],
+    [
+     "2025-09-30",
+     100.25
+    ],
+    [
+     "2025-10-31",
+     99.97
+    ],
+    [
+     "2025-11-30",
+     99.53
+    ],
+    [
+     "2025-12-31",
+     99.18
+    ],
+    [
+     "2026-01-31",
+     99.25
+    ],
+    [
+     "2026-02-27",
+     100.29
+    ],
+    [
+     "2026-02-28",
+     100.17
+    ],
+    [
+     "2026-03-31",
+     97.68
+    ],
+    [
+     "2026-04-30",
+     98.11
+    ],
+    [
+     "2026-05-29",
+     97.74
+    ],
+    [
+     "2026-05-31",
+     97.61
+    ],
+    [
+     "2026-06-30",
+     97.98
+    ],
+    [
+     "2026-07-31",
+     97.69
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAJ3",
+   "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.14,
+   "prev_price": 97.13,
+   "change_pts": 0.01,
+   "positions": 1,
+   "principal_usd": 1400429.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.0
+    ],
+    [
+     "2025-10-31",
+     100.76
+    ],
+    [
+     "2025-12-31",
+     99.56
+    ],
+    [
+     "2026-01-31",
+     98.28
+    ],
+    [
+     "2026-03-31",
+     97.15
+    ],
+    [
+     "2026-04-30",
+     97.8
+    ],
+    [
+     "2026-06-30",
+     97.13
+    ],
+    [
+     "2026-07-31",
+     97.14
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAM6",
+   "issuer": "Retained Vantage Data Centers Issuer LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.18,
+   "prev_price": 96.94,
+   "change_pts": 0.24,
+   "positions": 11,
+   "principal_usd": 34964000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.32
+    ],
+    [
+     "2025-10-31",
+     100.38
+    ],
+    [
+     "2025-12-31",
+     99.11
+    ],
+    [
+     "2026-01-30",
+     98.86
+    ],
+    [
+     "2026-01-31",
+     98.85
+    ],
+    [
+     "2026-03-31",
+     97.8
+    ],
+    [
+     "2026-04-30",
+     97.57
+    ],
+    [
+     "2026-06-30",
+     96.94
+    ],
+    [
+     "2026-07-31",
+     97.18
+    ]
+   ]
+  },
+  {
+   "cusip": "76134KAN4",
+   "issuer": "Retained Vantage Data Centers Issuer, LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 96.09,
+   "prev_price": 97.01,
+   "change_pts": -0.92,
+   "positions": 5,
+   "principal_usd": 9000000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.69
+    ],
+    [
+     "2025-12-31",
+     98.36
+    ],
+    [
+     "2026-03-31",
+     97.01
+    ],
+    [
+     "2026-06-30",
+     96.09
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAB2",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-05-31",
+   "latest_price": 99.83,
+   "prev_price": 99.59,
+   "change_pts": 0.24,
+   "positions": 2,
+   "principal_usd": 2148000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     97.52
+    ],
+    [
+     "2025-09-30",
+     97.77
+    ],
+    [
+     "2025-10-31",
+     98.15
+    ],
+    [
+     "2025-11-30",
+     98.02
+    ],
+    [
+     "2025-12-31",
+     98.54
+    ],
+    [
+     "2026-01-31",
+     98.77
+    ],
+    [
+     "2026-02-28",
+     98.98
+    ],
+    [
+     "2026-03-31",
+     99.33
+    ],
+    [
+     "2026-04-30",
+     99.59
+    ],
+    [
+     "2026-05-31",
+     99.83
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAC0",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 98.13,
+   "prev_price": 97.87,
+   "change_pts": 0.26,
+   "positions": 4,
+   "principal_usd": 4100000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     99.76
+    ],
+    [
+     "2025-09-30",
+     99.7
+    ],
+    [
+     "2025-11-30",
+     99.3
+    ],
+    [
+     "2025-12-31",
+     99.59
+    ],
+    [
+     "2026-02-28",
+     99.75
+    ],
+    [
+     "2026-03-31",
+     99.1
+    ],
+    [
+     "2026-05-31",
+     97.87
+    ],
+    [
+     "2026-06-30",
+     98.13
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAE6",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-01-31",
+   "latest_price": 100.31,
+   "prev_price": 100.37,
+   "change_pts": -0.06,
+   "positions": 2,
+   "principal_usd": 245000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.4
+    ],
+    [
+     "2025-10-31",
+     100.33
+    ],
+    [
+     "2025-12-31",
+     100.37
+    ],
+    [
+     "2026-01-31",
+     100.31
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAG1",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.22,
+   "prev_price": 100.31,
+   "change_pts": -0.09,
+   "positions": 2,
+   "principal_usd": 1065000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.74
+    ],
+    [
+     "2025-10-31",
+     101.54
+    ],
+    [
+     "2025-12-31",
+     101.15
+    ],
+    [
+     "2026-01-31",
+     101.09
+    ],
+    [
+     "2026-03-31",
+     100.66
+    ],
+    [
+     "2026-04-30",
+     100.53
+    ],
+    [
+     "2026-06-30",
+     100.31
+    ],
+    [
+     "2026-07-31",
+     100.22
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAH9",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.68,
+   "prev_price": 100.4,
+   "change_pts": -0.72,
+   "positions": 1,
+   "principal_usd": 3205000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     102.07
+    ],
+    [
+     "2025-10-31",
+     102.08
+    ],
+    [
+     "2025-12-31",
+     102.11
+    ],
+    [
+     "2026-01-31",
+     102.0
+    ],
+    [
+     "2026-03-31",
+     100.98
+    ],
+    [
+     "2026-04-30",
+     100.71
+    ],
+    [
+     "2026-06-30",
+     100.4
+    ],
+    [
+     "2026-07-31",
+     99.68
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAJ5",
+   "issuer": "Sabey Data Center Issuer LLC",
+   "deal": "Sabey",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.84,
+   "prev_price": 100.42,
+   "change_pts": -1.58,
+   "positions": 1,
+   "principal_usd": 146000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     102.93
+    ],
+    [
+     "2025-10-31",
+     103.13
+    ],
+    [
+     "2025-12-31",
+     102.9
+    ],
+    [
+     "2026-01-31",
+     102.52
+    ],
+    [
+     "2026-03-31",
+     101.2
+    ],
+    [
+     "2026-04-30",
+     99.42
+    ],
+    [
+     "2026-06-30",
+     100.42
+    ],
+    [
+     "2026-07-31",
+     98.84
+    ]
+   ]
+  },
+  {
+   "cusip": "78520EAK2",
+   "issuer": "SABEY DATA CENTER ISSUER LLC",
+   "deal": "Sabey",
+   "coupon_pct": 5.482,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.21,
+   "prev_price": 99.18,
+   "change_pts": -0.97,
+   "positions": 10,
+   "principal_usd": 44086000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-01-31",
+     100.42
+    ],
+    [
+     "2026-02-28",
+     101.42
+    ],
+    [
+     "2026-03-31",
+     99.35
+    ],
+    [
+     "2026-04-30",
+     99.16
+    ],
+    [
+     "2026-05-31",
+     98.38
+    ],
+    [
+     "2026-06-30",
+     99.18
+    ],
+    [
+     "2026-07-31",
+     98.21
+    ]
+   ]
+  },
+  {
+   "cusip": "83577VAA8",
+   "issuer": "SOPAIPILLA INVESTOR LLC",
+   "deal": "Sopaipilla",
+   "coupon_pct": 7.534,
+   "maturity": "2048-11-30",
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 103.66,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 105,
+   "principal_usd": 403382000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-07-31",
+     103.66
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAE2",
+   "issuer": "Stack Infrastructure Issuer LLC",
+   "deal": "STACK",
+   "coupon_pct": 1.88,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-02-28",
+   "latest_price": 99.74,
+   "prev_price": 99.51,
+   "change_pts": 0.23,
+   "positions": 2,
+   "principal_usd": 2567000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     98.31
+    ],
+    [
+     "2025-09-30",
+     98.59
+    ],
+    [
+     "2025-10-31",
+     98.81
+    ],
+    [
+     "2025-11-30",
+     98.97
+    ],
+    [
+     "2025-12-31",
+     99.28
+    ],
+    [
+     "2026-01-30",
+     99.51
+    ],
+    [
+     "2026-01-31",
+     99.51
+    ],
+    [
+     "2026-02-28",
+     99.74
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAF9",
+   "issuer": "Stack Infrastructure Issuer LL",
+   "deal": "STACK",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-01-31",
+   "latest_price": 100.2,
+   "prev_price": 100.24,
+   "change_pts": -0.04,
+   "positions": 6,
+   "principal_usd": 4754014.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.49
+    ],
+    [
+     "2025-10-31",
+     100.71
+    ],
+    [
+     "2025-12-31",
+     100.24
+    ],
+    [
+     "2026-01-31",
+     100.2
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAH5",
+   "issuer": "Stack Infrastructure Issuer LLC",
+   "deal": "STACK",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.02,
+   "prev_price": 100.05,
+   "change_pts": -0.03,
+   "positions": 5,
+   "principal_usd": 7150000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.83
+    ],
+    [
+     "2025-10-31",
+     100.45
+    ],
+    [
+     "2025-11-30",
+     100.83
+    ],
+    [
+     "2025-12-31",
+     100.52
+    ],
+    [
+     "2026-01-31",
+     100.4
+    ],
+    [
+     "2026-02-28",
+     100.34
+    ],
+    [
+     "2026-03-31",
+     100.24
+    ],
+    [
+     "2026-04-30",
+     100.18
+    ],
+    [
+     "2026-05-31",
+     100.07
+    ],
+    [
+     "2026-06-30",
+     100.05
+    ],
+    [
+     "2026-07-31",
+     100.02
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAK8",
+   "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+   "deal": "STACK",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.1,
+   "prev_price": 100.26,
+   "change_pts": -0.16,
+   "positions": 2,
+   "principal_usd": 2802000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     100.86
+    ],
+    [
+     "2025-09-30",
+     100.97
+    ],
+    [
+     "2025-10-31",
+     100.98
+    ],
+    [
+     "2025-11-30",
+     101.0
+    ],
+    [
+     "2025-12-31",
+     100.86
+    ],
+    [
+     "2026-01-31",
+     100.76
+    ],
+    [
+     "2026-02-28",
+     100.69
+    ],
+    [
+     "2026-03-31",
+     100.42
+    ],
+    [
+     "2026-04-30",
+     100.42
+    ],
+    [
+     "2026-05-31",
+     100.4
+    ],
+    [
+     "2026-06-30",
+     100.26
+    ],
+    [
+     "2026-07-31",
+     100.1
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAM4",
+   "issuer": "Stack Infrastructure Issuer LL",
+   "deal": "STACK",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 100.38,
+   "prev_price": 100.45,
+   "change_pts": -0.07,
+   "positions": 3,
+   "principal_usd": 2855000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-08-31",
+     101.64
+    ],
+    [
+     "2025-09-30",
+     101.64
+    ],
+    [
+     "2025-10-31",
+     101.48
+    ],
+    [
+     "2025-11-30",
+     101.24
+    ],
+    [
+     "2025-12-31",
+     101.24
+    ],
+    [
+     "2026-01-31",
+     101.28
+    ],
+    [
+     "2026-02-28",
+     101.19
+    ],
+    [
+     "2026-03-31",
+     100.77
+    ],
+    [
+     "2026-04-30",
+     100.69
+    ],
+    [
+     "2026-05-31",
+     100.65
+    ],
+    [
+     "2026-06-30",
+     100.45
+    ],
+    [
+     "2026-07-31",
+     100.38
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAP7",
+   "issuer": "STACK INFRASTRUCTURE ISSUER LLC",
+   "deal": "STACK",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.48,
+   "prev_price": 97.23,
+   "change_pts": -0.75,
+   "positions": 7,
+   "principal_usd": 17190938.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     99.75
+    ],
+    [
+     "2025-09-30",
+     99.64
+    ],
+    [
+     "2025-10-31",
+     99.73
+    ],
+    [
+     "2025-11-30",
+     99.06
+    ],
+    [
+     "2025-12-31",
+     98.86
+    ],
+    [
+     "2026-01-30",
+     98.77
+    ],
+    [
+     "2026-01-31",
+     98.83
+    ],
+    [
+     "2026-02-27",
+     99.54
+    ],
+    [
+     "2026-02-28",
+     99.57
+    ],
+    [
+     "2026-03-31",
+     98.57
+    ],
+    [
+     "2026-04-30",
+     96.98
+    ],
+    [
+     "2026-05-29",
+     97.2
+    ],
+    [
+     "2026-05-31",
+     97.08
+    ],
+    [
+     "2026-06-30",
+     97.23
+    ],
+    [
+     "2026-07-31",
+     96.48
+    ]
+   ]
+  },
+  {
+   "cusip": "85236KAR3",
+   "issuer": "Stack Infrastructure Issuer LLC",
+   "deal": "STACK",
+   "coupon_pct": 5.0,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.02,
+   "prev_price": 96.96,
+   "change_pts": -0.94,
+   "positions": 13,
+   "principal_usd": 16780195.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-02-28",
+     98.08
+    ],
+    [
+     "2026-03-31",
+     96.6
+    ],
+    [
+     "2026-04-30",
+     96.57
+    ],
+    [
+     "2026-05-31",
+     97.09
+    ],
+    [
+     "2026-06-30",
+     96.96
+    ],
+    [
+     "2026-07-31",
+     96.02
+    ]
+   ]
+  },
+  {
+   "cusip": "91825CAG0",
+   "issuer": "Vantage Data Centers - VDCM 2025-AZ D",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 99.37,
+   "prev_price": 101.07,
+   "change_pts": -1.7,
+   "positions": 1,
+   "principal_usd": 9000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     101.53
+    ],
+    [
+     "2025-12-31",
+     102.15
+    ],
+    [
+     "2026-03-31",
+     101.07
+    ],
+    [
+     "2026-06-30",
+     99.37
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAB2",
+   "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2025-08-31",
+   "latest_price": 100.0,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 5,
+   "principal_usd": 11442000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.0
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAC0",
+   "issuer": "Vantage Data Centers LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.09,
+   "prev_price": 95.94,
+   "change_pts": 0.15,
+   "positions": 5,
+   "principal_usd": 21956000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     94.5
+    ],
+    [
+     "2025-09-30",
+     94.74
+    ],
+    [
+     "2025-10-31",
+     94.98
+    ],
+    [
+     "2025-11-30",
+     94.99
+    ],
+    [
+     "2025-12-31",
+     95.26
+    ],
+    [
+     "2026-01-31",
+     95.6
+    ],
+    [
+     "2026-02-28",
+     95.93
+    ],
+    [
+     "2026-03-31",
+     95.53
+    ],
+    [
+     "2026-04-30",
+     95.76
+    ],
+    [
+     "2026-05-31",
+     95.83
+    ],
+    [
+     "2026-06-30",
+     95.94
+    ],
+    [
+     "2026-07-31",
+     96.09
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAD8",
+   "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": 2.165,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 99.48,
+   "prev_price": 99.25,
+   "change_pts": 0.23,
+   "positions": 8,
+   "principal_usd": 10120000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     96.83
+    ],
+    [
+     "2025-09-30",
+     97.39
+    ],
+    [
+     "2025-10-31",
+     97.49
+    ],
+    [
+     "2025-11-30",
+     97.73
+    ],
+    [
+     "2025-12-31",
+     97.98
+    ],
+    [
+     "2026-01-31",
+     98.24
+    ],
+    [
+     "2026-02-28",
+     98.28
+    ],
+    [
+     "2026-03-31",
+     98.32
+    ],
+    [
+     "2026-04-30",
+     98.62
+    ],
+    [
+     "2026-05-31",
+     99.11
+    ],
+    [
+     "2026-06-30",
+     99.25
+    ],
+    [
+     "2026-07-31",
+     99.48
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAE6",
+   "issuer": "Vantage Data Centers LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2025-10-31",
+   "latest_price": 100.52,
+   "prev_price": 100.47,
+   "change_pts": 0.05,
+   "positions": 3,
+   "principal_usd": 3023000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.47
+    ],
+    [
+     "2025-10-31",
+     100.52
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAG1",
+   "issuer": "Vantage Data Centers LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.97,
+   "prev_price": 98.57,
+   "change_pts": -0.6,
+   "positions": 5,
+   "principal_usd": 9277000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.22
+    ],
+    [
+     "2025-10-31",
+     100.27
+    ],
+    [
+     "2025-11-28",
+     100.2
+    ],
+    [
+     "2025-11-30",
+     100.06
+    ],
+    [
+     "2025-12-31",
+     99.32
+    ],
+    [
+     "2026-01-31",
+     99.65
+    ],
+    [
+     "2026-02-27",
+     100.54
+    ],
+    [
+     "2026-02-28",
+     100.42
+    ],
+    [
+     "2026-03-31",
+     98.32
+    ],
+    [
+     "2026-04-30",
+     98.3
+    ],
+    [
+     "2026-05-29",
+     98.91
+    ],
+    [
+     "2026-05-31",
+     98.8
+    ],
+    [
+     "2026-06-30",
+     98.57
+    ],
+    [
+     "2026-07-31",
+     97.97
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAH9",
+   "issuer": "VANTAGE DATA CENTERS ISSUER LLC",
+   "deal": "Vantage",
+   "coupon_pct": 5.132,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 97.45,
+   "prev_price": 98.17,
+   "change_pts": -0.72,
+   "positions": 18,
+   "principal_usd": 107680000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-08-31",
+     100.57
+    ],
+    [
+     "2025-09-30",
+     100.51
+    ],
+    [
+     "2025-10-31",
+     100.6
+    ],
+    [
+     "2025-11-30",
+     99.51
+    ],
+    [
+     "2025-12-31",
+     98.88
+    ],
+    [
+     "2026-01-30",
+     99.2
+    ],
+    [
+     "2026-01-31",
+     99.18
+    ],
+    [
+     "2026-02-28",
+     100.26
+    ],
+    [
+     "2026-03-31",
+     97.91
+    ],
+    [
+     "2026-04-30",
+     97.11
+    ],
+    [
+     "2026-05-31",
+     97.56
+    ],
+    [
+     "2026-06-30",
+     98.17
+    ],
+    [
+     "2026-07-31",
+     97.45
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAJ5",
+   "issuer": "Vantage Data Centers Issuer",
+   "deal": "Vantage",
+   "coupon_pct": 5.239,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 96.38,
+   "prev_price": 97.15,
+   "change_pts": -0.77,
+   "positions": 12,
+   "principal_usd": 57432624.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-11-30",
+     100.59
+    ],
+    [
+     "2025-12-31",
+     99.07
+    ],
+    [
+     "2026-01-31",
+     99.27
+    ],
+    [
+     "2026-02-28",
+     100.68
+    ],
+    [
+     "2026-03-31",
+     98.55
+    ],
+    [
+     "2026-04-30",
+     97.92
+    ],
+    [
+     "2026-05-31",
+     97.51
+    ],
+    [
+     "2026-06-30",
+     97.15
+    ],
+    [
+     "2026-07-31",
+     96.38
+    ]
+   ]
+  },
+  {
+   "cusip": "92212KAK2",
+   "issuer": "Vantage Data Centers LLC",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 96.09,
+   "prev_price": 95.43,
+   "change_pts": 0.66,
+   "positions": 5,
+   "principal_usd": 4500000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-12-31",
+     99.96
+    ],
+    [
+     "2026-03-31",
+     97.24
+    ],
+    [
+     "2026-05-31",
+     95.43
+    ],
+    [
+     "2026-06-30",
+     96.09
+    ]
+   ]
+  },
+  {
+   "cusip": "948GKAII8",
+   "issuer": "COREWEAVE COMPUTE ACQUISITION CO II LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-03-31",
+   "latest_price": 102.94,
+   "prev_price": 104.28,
+   "change_pts": -1.34,
+   "positions": 3,
+   "principal_usd": 25937499.97,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     105.48
+    ],
+    [
+     "2025-12-31",
+     104.28
+    ],
+    [
+     "2026-03-31",
+     102.94
+    ]
+   ]
+  },
+  {
+   "cusip": "990AAXQG4",
+   "issuer": "BEIGNET INVESTOR LLC",
+   "deal": "Beignet",
+   "coupon_pct": 6.581,
+   "maturity": "2049-05-30",
+   "rating": "S&P A+",
+   "latest_period": "2025-09-30",
+   "latest_price": 100.0,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 94,
+   "principal_usd": 6919310000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.0
+    ]
+   ]
+  },
+  {
+   "cusip": "BA0004JK4",
+   "issuer": "COREWEAVE COMPUTE ACQUISITION CO II LLC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-03-31",
+   "latest_price": 103.05,
+   "prev_price": 103.38,
+   "change_pts": -0.33,
+   "positions": 17,
+   "principal_usd": 137644041.66,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     102.89
+    ],
+    [
+     "2025-12-31",
+     103.38
+    ],
+    [
+     "2026-03-31",
+     103.05
+    ]
+   ]
+  },
+  {
+   "cusip": "BA000JN59",
+   "issuer": "ALIGNED DATA CENTERS INTERNATIONAL LP",
+   "deal": "Aligned",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-03-31",
+   "latest_price": 100.65,
+   "prev_price": 100.72,
+   "change_pts": -0.07,
+   "positions": 14,
+   "principal_usd": 702700000.0,
+   "quality": "full",
+   "history": [
+    [
+     "2025-09-30",
+     100.79
+    ],
+    [
+     "2025-12-31",
+     100.72
+    ],
+    [
+     "2026-03-31",
+     100.65
+    ]
+   ]
+  },
+  {
+   "cusip": "BA000K3P4",
+   "issuer": "ALIGNED DATA CENTERS INTERNATIONAL LP",
+   "deal": "Aligned",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-03-31",
+   "latest_price": 100.29,
+   "prev_price": 100.06,
+   "change_pts": 0.23,
+   "positions": 1,
+   "principal_usd": 10000000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-09-30",
+     100.07
+    ],
+    [
+     "2025-12-31",
+     100.06
+    ],
+    [
+     "2026-03-31",
+     100.29
+    ]
+   ]
+  },
+  {
+   "cusip": "BL5762739",
+   "issuer": "QTS THUNDER MANAGING",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.5,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 4,
+   "principal_usd": 6570712.0,
+   "quality": "full",
+   "history": [
+    [
+     "2026-07-31",
+     98.5
+    ]
+   ]
+  },
+  {
+   "cusip": "DL7967938",
+   "issuer": "COREWEAVE INC 144A",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-06-30",
+   "latest_price": 112.71,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 2,
+   "principal_usd": 10460000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-06-30",
+     112.71
+    ]
+   ]
+  },
+  {
+   "cusip": "L9626ZAB0",
+   "issuer": "Vantage Data Centers Germany Borrower Lux S.a r.l.",
+   "deal": "Vantage",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 114.71,
+   "prev_price": 116.49,
+   "change_pts": -1.78,
+   "positions": 1,
+   "principal_usd": 171000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-10-31",
+     117.59
+    ],
+    [
+     "2026-01-30",
+     119.64
+    ],
+    [
+     "2026-04-30",
+     116.49
+    ],
+    [
+     "2026-07-31",
+     114.71
+    ]
+   ]
+  },
+  {
+   "cusip": "LX2936354",
+   "issuer": "QTS THUNDER MANAGING I TL",
+   "deal": "QTS",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 98.5,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 1,
+   "principal_usd": 90000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-07-31",
+     98.5
+    ]
+   ]
+  },
+  {
+   "cusip": "U2069EAA8",
+   "issuer": "CoreWeave Inc.",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-01-31",
+   "latest_price": 98.5,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 1,
+   "principal_usd": 198000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-01-31",
+     98.5
+    ]
+   ]
+  },
+  {
+   "cusip": "U2069EAB6",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-04-30",
+   "latest_price": 99.28,
+   "prev_price": 100.1,
+   "change_pts": -0.82,
+   "positions": 1,
+   "principal_usd": 188000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2025-10-31",
+     100.1
+    ],
+    [
+     "2026-04-30",
+     99.28
+    ]
+   ]
+  },
+  {
+   "cusip": "U2069EAE0",
+   "issuer": "COREWEAVE INC",
+   "deal": "CoreWeave",
+   "coupon_pct": null,
+   "maturity": null,
+   "rating": null,
+   "latest_period": "2026-07-31",
+   "latest_price": 89.31,
+   "prev_price": null,
+   "change_pts": null,
+   "positions": 1,
+   "principal_usd": 224000.0,
+   "quality": "thin",
+   "history": [
+    [
+     "2026-07-31",
+     89.31
+    ]
+   ]
+  }
+ ]
+}
