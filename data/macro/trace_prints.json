@@ -6,122 +6,131 @@
    "cusip": "21873SAK4",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 77.86,
+   "last_trade_price": 78.443,
    "latest_fund_mark": 89.55,
-   "latest_history_price": 77.541,
-   "latest_history_time": "14:45:56",
    "mark_period": "2026-07-31",
    "security": "9.625% senior notes due 2032",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 77.86
+     "price": 78.443
     }
    ],
    "coupon_pct": 9.625,
-   "maturity": "2032-07-15"
+   "maturity": "2032-07-15",
+   "trades_seen": 224
   },
   {
    "cusip": "21873SAG3",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 79.53,
+   "last_trade_price": 80.5,
    "latest_fund_mark": 90.76,
    "mark_period": "2026-07-31",
    "security": "9.75% senior notes due 2031",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 79.53
+     "price": 80.5
     }
    ],
    "coupon_pct": 9.75,
-   "maturity": "2031-10-01"
+   "maturity": "2031-10-01",
+   "trades_seen": 221
   },
   {
    "cusip": "21873SAC2",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 81.25,
+   "last_trade_price": 83.25,
    "latest_fund_mark": 90.31,
    "mark_period": "2026-07-31",
    "security": "9.00% senior notes due 2031",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 81.25
+     "price": 83.25
     }
    ],
    "coupon_pct": 9.0,
-   "maturity": "2031-02-01"
+   "maturity": "2031-02-01",
+   "trades_seen": 120
   },
   {
    "cusip": "21873SAB4",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 85.0,
+   "last_trade_price": 86.2,
    "latest_fund_mark": 93.56,
    "mark_period": "2026-07-31",
    "security": "9.25% senior notes due 2030",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 85.0
+     "price": 86.2
     }
    ],
    "coupon_pct": 9.25,
-   "maturity": "2030-06-01"
+   "maturity": "2030-06-01",
+   "trades_seen": 201
   },
   {
    "cusip": "076912AA2",
    "issuer": "Beignet Investor LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 91.68,
+   "last_trade_price": 91.107,
    "latest_fund_mark": 96.86,
    "mark_period": "2026-07-31",
    "security": "6.581% senior secured notes due 2049",
    "history": [
     {
+     "date": "2026-10-13",
+     "price": 91.268
+    },
+    {
      "date": "2026-10-14",
-     "price": 91.68
+     "price": 91.107
     }
    ],
    "coupon_pct": 6.581,
-   "maturity": "2049-05-30"
+   "maturity": "2049-05-30",
+   "trades_seen": 79
   },
   {
    "cusip": "83577VAA8",
    "issuer": "Sopaipilla Investor LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 98.16,
+   "last_trade_price": 98.017,
    "latest_fund_mark": 103.66,
    "mark_period": "2026-07-31",
    "security": "7.534% senior secured notes due 2048",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 98.16
+     "price": 98.017
     }
    ],
    "coupon_pct": 7.534,
-   "maturity": "2048-11-30"
+   "maturity": "2048-11-30",
+   "trades_seen": 96
   },
   {
    "cusip": "36322DAA4",
    "issuer": "Galaxy Helios Data Centers II LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 91.5,
+   "last_trade_price": 92.0,
    "latest_fund_mark": 100.31,
    "mark_period": "2026-07-31",
    "security": "9.875% senior secured notes due 2031",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 91.5
+     "price": 92.0
     }
    ],
    "coupon_pct": 9.875,
-   "maturity": "2031-08-01"
+   "maturity": "2031-08-01",
+   "trades_seen": 141
   },
   {
    "cusip": "21873SAD0",
@@ -129,16 +138,17 @@
    "security": "1.75% converts due 2031",
    "coupon_pct": 1.75,
    "maturity": "2031-12-01",
-   "last_trade_price": 79.16,
+   "last_trade_price": 78.6464,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 94.23,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 79.16
+     "price": 78.6464
     }
-   ]
+   ],
+   "trades_seen": 77
   },
   {
    "cusip": "21873SAH1",
@@ -146,16 +156,17 @@
    "security": "1.75% converts due 2032",
    "coupon_pct": 1.75,
    "maturity": "2032-10-01",
-   "last_trade_price": 71.75,
+   "last_trade_price": 73.1133,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 88.22,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 71.75
+     "price": 73.1133
     }
-   ]
+   ],
+   "trades_seen": 122
   },
   {
    "cusip": "74751AAA1",
@@ -163,16 +174,21 @@
    "security": "5.70% due 2036",
    "coupon_pct": 5.7,
    "maturity": "2036-04-15",
-   "last_trade_price": 87.6,
+   "last_trade_price": 87.1,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 91.45,
    "mark_period": "2026-07-31",
    "history": [
     {
+     "date": "2026-10-13",
+     "price": 87.871
+    },
+    {
      "date": "2026-10-14",
-     "price": 87.6
+     "price": 87.1
     }
-   ]
+   ],
+   "trades_seen": 65
   },
   {
    "cusip": "92212KAH9",
@@ -189,7 +205,8 @@
      "date": "2026-09-03",
      "price": 96.79
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAA6",
@@ -206,7 +223,8 @@
      "date": "2026-06-17",
      "price": 99.56
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469CAE5",
@@ -214,16 +232,17 @@
    "security": "4.926% due 2050",
    "coupon_pct": 4.926,
    "maturity": "2050-11-25",
-   "last_trade_price": 94.35,
+   "last_trade_price": 94.351562,
    "last_trade_date": "2026-10-13",
    "latest_fund_mark": 97.29,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-13",
-     "price": 94.35
+     "price": 94.351562
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "78520EAK2",
@@ -240,7 +259,8 @@
      "date": "2026-07-29",
      "price": 98.25
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "85236KAP7",
@@ -257,7 +277,8 @@
      "date": "2026-09-17",
      "price": 93.19
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FAQ9",
@@ -274,7 +295,8 @@
      "date": "2026-09-29",
      "price": 94.23
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAJ5",
@@ -282,16 +304,17 @@
    "security": "5.239% due 2055",
    "coupon_pct": 5.239,
    "maturity": "2055-11-15",
-   "last_trade_price": 94.4,
+   "last_trade_price": 94.402343,
    "last_trade_date": "2026-10-07",
    "latest_fund_mark": 96.38,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-07",
-     "price": 94.4
+     "price": 94.402343
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "01627AAD0",
@@ -308,7 +331,8 @@
      "date": "2026-03-31",
      "price": 100.47
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469BAD9",
@@ -325,7 +349,8 @@
      "date": "2026-09-15",
      "price": 96.76
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAA2",
@@ -333,16 +358,21 @@
    "security": "5.00% due 2048",
    "coupon_pct": 5.0,
    "maturity": "2048-09-15",
-   "last_trade_price": 97.5,
-   "last_trade_date": "2026-10-07",
+   "last_trade_price": 97.472656,
+   "last_trade_date": "2026-10-14",
    "latest_fund_mark": 98.69,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-07",
      "price": 97.5
+    },
+    {
+     "date": "2026-10-14",
+     "price": 97.472656
     }
-   ]
+   ],
+   "trades_seen": 2
   },
   {
    "cusip": "01627AAF5",
@@ -359,7 +389,8 @@
      "date": "2026-10-13",
      "price": 96.25
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "20469BAG2",
@@ -376,7 +407,8 @@
      "date": "2026-10-06",
      "price": 94.64
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBC9",
@@ -384,16 +416,17 @@
    "security": "due 2056",
    "coupon_pct": null,
    "maturity": "2056-03-15",
-   "last_trade_price": 94.44,
+   "last_trade_price": 94.4375,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 98.46,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 94.44
+     "price": 94.4375
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "74690FAA4",
@@ -401,16 +434,17 @@
    "security": "5.044% due 2055",
    "coupon_pct": 5.044,
    "maturity": "2055-10-05",
-   "last_trade_price": 92.81,
+   "last_trade_price": 92.8125,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 96.77,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 92.81
+     "price": 92.8125
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "20469BAF4",
@@ -427,7 +461,8 @@
      "date": "2026-10-02",
      "price": 94.43
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAB4",
@@ -444,7 +479,8 @@
      "date": "2026-03-25",
      "price": 98.87
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBK1",
@@ -461,7 +497,8 @@
      "date": "2026-09-28",
      "price": 95.79
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBP0",
@@ -478,7 +515,8 @@
      "date": "2026-09-03",
      "price": 98.02
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAC0",
@@ -486,16 +524,21 @@
    "security": "1.992% due 2045",
    "coupon_pct": 1.992,
    "maturity": "2045-09-15",
-   "last_trade_price": 96.54,
+   "last_trade_price": 96.539062,
    "last_trade_date": "2026-10-08",
    "latest_fund_mark": 96.09,
    "mark_period": "2026-07-31",
    "history": [
     {
+     "date": "2026-10-07",
+     "price": 96.523437
+    },
+    {
      "date": "2026-10-08",
-     "price": 96.54
+     "price": 96.539062
     }
-   ]
+   ],
+   "trades_seen": 2
   },
   {
    "cusip": "20469AAD1",
@@ -512,7 +555,8 @@
      "date": "2026-09-18",
      "price": 97.11
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAH7",
@@ -529,7 +573,8 @@
      "date": "2026-09-23",
      "price": 95.35
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "85236KAR3",
@@ -546,7 +591,8 @@
      "date": "2026-09-24",
      "price": 93.47
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690DAA9",
@@ -563,7 +609,8 @@
      "date": "2026-09-28",
      "price": 95.89
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469CAA3",
@@ -580,7 +627,8 @@
      "date": "2026-09-28",
      "price": 97.03
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAC2",
@@ -597,7 +645,8 @@
      "date": "2026-05-19",
      "price": 100.08
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAB2",
@@ -614,7 +663,8 @@
      "date": "2025-09-02",
      "price": 99.89
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469BAH0",
@@ -631,7 +681,8 @@
      "date": "2026-04-08",
      "price": 99.23
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAD8",
@@ -648,7 +699,8 @@
      "date": "2026-08-13",
      "price": 99.6
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAG1",
@@ -665,7 +717,8 @@
      "date": "2026-09-24",
      "price": 96.25
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAN4",
@@ -682,7 +735,8 @@
      "date": "2026-03-03",
      "price": 98.08
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FAS5",
@@ -699,7 +753,8 @@
      "date": "2026-08-04",
      "price": 98.8
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FAY2",
@@ -716,7 +771,8 @@
      "date": "2026-09-22",
      "price": 92.38
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBE5",
@@ -733,7 +789,8 @@
      "date": "2026-08-24",
      "price": 99.25
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBN5",
@@ -750,7 +807,8 @@
      "date": "2026-08-26",
      "price": 99.34
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469CAC9",
@@ -767,7 +825,8 @@
      "date": "2025-11-05",
      "price": 101.34
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAH1",
@@ -784,7 +843,8 @@
      "date": "2026-09-15",
      "price": 97.5
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469BAA5",
@@ -801,7 +861,8 @@
      "date": "2026-09-22",
      "price": 98.13
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469AAC3",
@@ -818,7 +879,8 @@
      "date": "2026-09-24",
      "price": 98.99
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "78520EAC0",
@@ -835,7 +897,8 @@
      "date": "2026-09-24",
      "price": 95.73
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAC8",
@@ -852,7 +915,8 @@
      "date": "2026-09-09",
      "price": 97.96
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAE8",
@@ -869,7 +933,8 @@
      "date": "2026-06-17",
      "price": 100.71
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469AAF6",
@@ -886,7 +951,8 @@
      "date": "2026-07-27",
      "price": 99.26
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FAU0",
@@ -903,7 +969,8 @@
      "date": "2026-08-14",
      "price": 98.3
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "78520EAH9",
@@ -920,7 +987,8 @@
      "date": "2026-07-15",
      "price": 100.13
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469AAB5",
@@ -937,7 +1005,8 @@
      "date": "2026-10-05",
      "price": 98.2
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "92212KAE6",
@@ -954,7 +1023,8 @@
      "date": "2025-10-31",
      "price": 100.47
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469AAE9",
@@ -971,7 +1041,8 @@
      "date": "2026-07-28",
      "price": 99.78
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469BAB3",
@@ -988,7 +1059,8 @@
      "date": "2026-09-15",
      "price": 96.96
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "20469BAC1",
@@ -1005,7 +1077,8 @@
      "date": "2026-04-14",
      "price": 100.84
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690DAB7",
@@ -1022,7 +1095,8 @@
      "date": "2026-07-31",
      "price": 96.43
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FAB2",
@@ -1039,7 +1113,8 @@
      "date": "2026-05-11",
      "price": 95.31
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBL9",
@@ -1056,7 +1131,8 @@
      "date": "2026-08-25",
      "price": 98.86
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBM7",
@@ -1073,7 +1149,8 @@
      "date": "2026-08-14",
      "price": 99.74
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBQ8",
@@ -1090,7 +1167,8 @@
      "date": "2026-09-04",
      "price": 97.61
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "74690FBR6",
@@ -1107,7 +1185,8 @@
      "date": "2026-09-24",
      "price": 94.88
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAE4",
@@ -1124,7 +1203,8 @@
      "date": "2026-09-21",
      "price": 95.24
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "76134KAJ3",
@@ -1132,16 +1212,17 @@
    "security": "5.775% due 2049",
    "coupon_pct": 5.775,
    "maturity": "2049-09-15",
-   "last_trade_price": 94.74,
+   "last_trade_price": 94.742187,
    "last_trade_date": "2026-10-07",
    "latest_fund_mark": 97.14,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-07",
-     "price": 94.74
+     "price": 94.742187
     }
-   ]
+   ],
+   "trades_seen": 1
   },
   {
    "cusip": "78520EAB2",
@@ -1158,7 +1239,8 @@
      "date": "2026-06-11",
      "price": 99.94
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "78520EAE6",
@@ -1175,7 +1257,8 @@
      "date": "2026-01-12",
      "price": 100.38
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "78520EAG1",
@@ -1192,7 +1275,8 @@
      "date": "2026-09-21",
      "price": 98.81
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "85236KAE2",
@@ -1209,7 +1293,8 @@
      "date": "2026-01-27",
      "price": 99.5
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "85236KAK8",
@@ -1226,7 +1311,8 @@
      "date": "2026-09-23",
      "price": 98.76
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "85236KAM4",
@@ -1243,7 +1329,8 @@
      "date": "2026-09-21",
      "price": 98.63
     }
-   ]
+   ],
+   "trades_seen": 0
   },
   {
    "cusip": "U06930AA6",
@@ -1257,10 +1344,27 @@
    "mark_period": null,
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 92.233
+    },
+    {
+     "date": "2026-10-09",
+     "price": 91.617
+    },
+    {
+     "date": "2026-10-12",
+     "price": 92.15
+    },
+    {
+     "date": "2026-10-13",
+     "price": 92.431
+    },
+    {
      "date": "2026-10-14",
      "price": 91.53
     }
-   ]
+   ],
+   "trades_seen": 6
   },
   {
    "cusip": "U2069EAA8",
@@ -1268,16 +1372,17 @@
    "security": "9.25% due 2030",
    "coupon_pct": 9.25,
    "maturity": "2030-06-01",
-   "last_trade_price": 87.36,
+   "last_trade_price": 86.861,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 98.5,
    "mark_period": "2026-01-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 87.36
+     "price": 86.861
     }
-   ]
+   ],
+   "trades_seen": 166
   },
   {
    "cusip": "U2069EAB6",
@@ -1285,16 +1390,17 @@
    "security": "9% due 2031",
    "coupon_pct": 9.0,
    "maturity": "2031-02-01",
-   "last_trade_price": 81.75,
+   "last_trade_price": 81.2,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 99.28,
    "mark_period": "2026-04-30",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 81.75
+     "price": 81.2
     }
-   ]
+   ],
+   "trades_seen": 74
   },
   {
    "cusip": "U2069EAE0",
@@ -1302,16 +1408,17 @@
    "security": "9.625% due 2032",
    "coupon_pct": 9.625,
    "maturity": "2032-07-15",
-   "last_trade_price": 79.2,
+   "last_trade_price": 79.3065,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 89.31,
    "mark_period": "2026-07-31",
    "history": [
     {
      "date": "2026-10-14",
-     "price": 79.2
+     "price": 79.3065
     }
-   ]
+   ],
+   "trades_seen": 114
   }
  ],
  "source": "FINRA Fixed Income Security Lookup (public, no credential), browser session 2026-10-14"
