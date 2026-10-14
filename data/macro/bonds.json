@@ -35,7 +35,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 99.67,
    "positions": 32,
-   "principal_usd": 126789000.0
+   "principal_usd": 126789000.0,
+   "finra_symbol": "AENE5237250"
   },
   {
    "cusip": "01627AAB4",
@@ -54,7 +55,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 99.63,
    "positions": 7,
-   "principal_usd": 24135000.0
+   "principal_usd": 24135000.0,
+   "finra_symbol": "AENE5237251"
   },
   {
    "cusip": "01627AAC2",
@@ -73,7 +75,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 99.99,
    "positions": 5,
-   "principal_usd": 12380000.0
+   "principal_usd": 12380000.0,
+   "finra_symbol": "AENE5499730"
   },
   {
    "cusip": "01627AAD0",
@@ -92,7 +95,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 100.07,
    "positions": 12,
-   "principal_usd": 18464000.0
+   "principal_usd": 18464000.0,
+   "finra_symbol": "AENE5633100"
   },
   {
    "cusip": "01627AAE8",
@@ -111,7 +115,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 100.63,
    "positions": 6,
-   "principal_usd": 3355000.0
+   "principal_usd": 3355000.0,
+   "finra_symbol": "AENE5704411"
   },
   {
    "cusip": "01627AAF5",
@@ -130,7 +135,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.62,
    "positions": 8,
-   "principal_usd": 25783535.0
+   "principal_usd": 25783535.0,
+   "finra_symbol": "AENE6438236"
   },
   {
    "cusip": "01627AAH1",
@@ -149,7 +155,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.52,
    "positions": 4,
-   "principal_usd": 5762000.0
+   "principal_usd": 5762000.0,
+   "finra_symbol": "AENE6438233"
   },
   {
    "cusip": "05619PAE6",
@@ -188,7 +195,8 @@
    "latest_mark": 96.86,
    "positions": 77,
    "principal_usd": 592243000.0,
-   "price_at_issue": 100.0
+   "price_at_issue": 100.0,
+   "finra_symbol": "BEIG6208408"
   },
   {
    "cusip": "123913AG0",
@@ -302,7 +310,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.28,
    "positions": 3,
-   "principal_usd": 3147000.0
+   "principal_usd": 3147000.0,
+   "finra_symbol": "CDCU5758792"
   },
   {
    "cusip": "20469AAC3",
@@ -321,7 +330,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.82,
    "positions": 4,
-   "principal_usd": 4112000.0
+   "principal_usd": 4112000.0,
+   "finra_symbol": "CDCU5758793"
   },
   {
    "cusip": "20469AAD1",
@@ -340,7 +350,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.61,
    "positions": 11,
-   "principal_usd": 19870000.0
+   "principal_usd": 19870000.0,
+   "finra_symbol": "CDCU5878928"
   },
   {
    "cusip": "20469AAE9",
@@ -359,7 +370,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 100.67,
    "positions": 1,
-   "principal_usd": 500000.0
+   "principal_usd": 500000.0,
+   "finra_symbol": "CDCU5878929"
   },
   {
    "cusip": "20469AAF6",
@@ -378,7 +390,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.31,
    "positions": 1,
-   "principal_usd": 3250000.0
+   "principal_usd": 3250000.0,
+   "finra_symbol": "CDCU5878930"
   },
   {
    "cusip": "20469BAA5",
@@ -397,7 +410,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.04,
    "positions": 4,
-   "principal_usd": 4600000.0
+   "principal_usd": 4600000.0,
+   "finra_symbol": "CDCU6004253"
   },
   {
    "cusip": "20469BAB3",
@@ -416,7 +430,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.97,
    "positions": 3,
-   "principal_usd": 936000.0
+   "principal_usd": 936000.0,
+   "finra_symbol": "CDCU6004254"
   },
   {
    "cusip": "20469BAC1",
@@ -435,7 +450,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.06,
    "positions": 2,
-   "principal_usd": 700000.0
+   "principal_usd": 700000.0,
+   "finra_symbol": "CDCU6004255"
   },
   {
    "cusip": "20469BAD9",
@@ -454,7 +470,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.82,
    "positions": 10,
-   "principal_usd": 41426000.0
+   "principal_usd": 41426000.0,
+   "finra_symbol": "CDCU6122451"
   },
   {
    "cusip": "20469BAF4",
@@ -473,7 +490,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.45,
    "positions": 10,
-   "principal_usd": 30364000.0
+   "principal_usd": 30364000.0,
+   "finra_symbol": "CDCU6310932"
   },
   {
    "cusip": "20469BAG2",
@@ -492,7 +510,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.92,
    "positions": 15,
-   "principal_usd": 29303000.0
+   "principal_usd": 29303000.0,
+   "finra_symbol": "CDCU6310930"
   },
   {
    "cusip": "20469BAH0",
@@ -511,7 +530,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.31,
    "positions": 8,
-   "principal_usd": 10782000.0
+   "principal_usd": 10782000.0,
+   "finra_symbol": "CDCU6310928"
   },
   {
    "cusip": "20469BAJ6",
@@ -568,7 +588,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.21,
    "positions": 10,
-   "principal_usd": 12593836.0
+   "principal_usd": 12593836.0,
+   "finra_symbol": "CDCU6078398"
   },
   {
    "cusip": "20469CAB1",
@@ -606,7 +627,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.5,
    "positions": 3,
-   "principal_usd": 6443000.0
+   "principal_usd": 6443000.0,
+   "finra_symbol": "CDCU6078402"
   },
   {
    "cusip": "20469CAE5",
@@ -625,7 +647,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.29,
    "positions": 17,
-   "principal_usd": 67138000.0
+   "principal_usd": 67138000.0,
+   "finra_symbol": "CDCU6220102"
   },
   {
    "cusip": "218735108",
@@ -691,7 +714,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Prior to 2027-06-01: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.250% prior to 2027-06-01. Otherwise not callable before 2027-06-01. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-25-000025 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000019 Ex. 99.1."
+   "call_notes": "Prior to 2027-06-01: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.250% prior to 2027-06-01. Otherwise not callable before 2027-06-01. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-25-000025 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000019 Ex. 99.1.",
+   "finra_symbol": "CRWV6083302"
   },
   {
    "cusip": "21873SAC2",
@@ -727,7 +751,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Prior to 2028-02-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.000% prior to 2028-02-01. Otherwise not callable before 2028-02-01. Source: Indenture Sec. 5.6, 8-K acc. 0001193125-25-165924 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000030 Ex. 99.1."
+   "call_notes": "Prior to 2028-02-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.000% prior to 2028-02-01. Otherwise not callable before 2028-02-01. Source: Indenture Sec. 5.6, 8-K acc. 0001193125-25-165924 Ex. 4.1; issue price per pricing PR, 8-K acc. 0001769628-25-000030 Ex. 99.1.",
+   "finra_symbol": "CRWV6130541"
   },
   {
    "cusip": "21873SAD0",
@@ -754,7 +779,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Convertible. No redemption before 2028-12-05. On/after 2028-12-05 (before the 26th Scheduled Trading Day before maturity 2031-12-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-25-000105 Ex. 4.1."
+   "call_notes": "Convertible. No redemption before 2028-12-05. On/after 2028-12-05 (before the 26th Scheduled Trading Day before maturity 2031-12-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-25-000105 Ex. 4.1.",
+   "finra_symbol": "CRWV6256500"
   },
   {
    "cusip": "21873SAG3",
@@ -789,7 +815,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Prior to 2028-10-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.750% prior to 2028-10-01. Otherwise not callable before 2028-10-01. Initial-tranche issue price not stated in the documents checked; the 2026-04-21 additional-notes tap of this series (First Supplemental Indenture) was issued at 102.000% (8-K acc. 0001769628-26-000183, Item 1.01). Source: Senior Notes Indenture Sec. 5.6, 8-K acc. 0001769628-26-000164 Ex. 4.1."
+   "call_notes": "Prior to 2028-10-01: make-whole at 100% plus Applicable Premium (Treasury + 50bp) plus accrued; equity clawback up to 40% at 109.750% prior to 2028-10-01. Otherwise not callable before 2028-10-01. Initial-tranche issue price not stated in the documents checked; the 2026-04-21 additional-notes tap of this series (First Supplemental Indenture) was issued at 102.000% (8-K acc. 0001769628-26-000183, Item 1.01). Source: Senior Notes Indenture Sec. 5.6, 8-K acc. 0001769628-26-000164 Ex. 4.1.",
+   "finra_symbol": "CRWV6364372"
   },
   {
    "cusip": "21873SAH1",
@@ -816,7 +843,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Convertible. No redemption before 2029-10-08. On/after 2029-10-08 (before the 26th Scheduled Trading Day before maturity 2032-10-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-26-000164 Ex. 4.3."
+   "call_notes": "Convertible. No redemption before 2029-10-08. On/after 2029-10-08 (before the 26th Scheduled Trading Day before maturity 2032-10-01): redeemable at 100% of principal plus accrued and unpaid interest, only if the notes are Freely Tradable (or a Redemption Cash Settlement Election applies) and the Last Reported Sale Price of the Class A common stock is at least 130% of the Conversion Price on each of at least 20 Trading Days during the 30 consecutive Trading Days ending on the Trading Day immediately preceding the Redemption Notice date. Issue price not stated in the documents checked. Source: Indenture Sec. 15.01 and Redemption Price definition, 8-K acc. 0001769628-26-000164 Ex. 4.3.",
+   "finra_symbol": "CRWV6364974"
   },
   {
    "cusip": "21873SAK4",
@@ -851,7 +879,8 @@
      "price_pct": 100.0
     }
    ],
-   "call_notes": "Prior to 2029-07-15: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp, Indenture Sec. 1.1) plus accrued; equity clawback up to 40% at 109.625% prior to 2029-07-15. Otherwise not callable before 2029-07-15. Issue price not stated in the documents checked. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-26-000291 Ex. 4.1."
+   "call_notes": "Prior to 2029-07-15: make-whole at 100% plus Applicable Premium (greater of 1.0% and PV at Treasury + 50bp, Indenture Sec. 1.1) plus accrued; equity clawback up to 40% at 109.625% prior to 2029-07-15. Otherwise not callable before 2029-07-15. Issue price not stated in the documents checked. Source: Indenture Sec. 5.6, 8-K acc. 0001769628-26-000291 Ex. 4.1.",
+   "finra_symbol": "CRWV6424531"
   },
   {
    "cusip": "21881PAB0",
@@ -967,7 +996,8 @@
    "positions": 70,
    "principal_usd": 183866000.0,
    "price_at_issue": 99.5,
-   "issue_date": "2026-07-28"
+   "issue_date": "2026-07-28",
+   "finra_symbol": "GSHO6463221"
   },
   {
    "cusip": "74690DAA9",
@@ -986,7 +1016,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.53,
    "positions": 6,
-   "principal_usd": 13837000.0
+   "principal_usd": 13837000.0,
+   "finra_symbol": "QTSI6091481"
   },
   {
    "cusip": "74690DAB7",
@@ -1005,7 +1036,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.49,
    "positions": 2,
-   "principal_usd": 1690000.0
+   "principal_usd": 1690000.0,
+   "finra_symbol": "QTSI6091483"
   },
   {
    "cusip": "74690FAA4",
@@ -1024,7 +1056,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.77,
    "positions": 17,
-   "principal_usd": 34470237.0
+   "principal_usd": 34470237.0,
+   "finra_symbol": "QTSI6173223"
   },
   {
    "cusip": "74690FAB2",
@@ -1043,7 +1076,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 95.11,
    "positions": 1,
-   "principal_usd": 730000.0
+   "principal_usd": 730000.0,
+   "finra_symbol": "QTSI6173224"
   },
   {
    "cusip": "74690FAQ9",
@@ -1062,7 +1096,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.62,
    "positions": 8,
-   "principal_usd": 51586000.0
+   "principal_usd": 51586000.0,
+   "finra_symbol": "QTSI6287332"
   },
   {
    "cusip": "74690FAS5",
@@ -1081,7 +1116,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.71,
    "positions": 8,
-   "principal_usd": 8941542.0
+   "principal_usd": 8941542.0,
+   "finra_symbol": "QTSI6287331"
   },
   {
    "cusip": "74690FAU0",
@@ -1100,7 +1136,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.62,
    "positions": 5,
-   "principal_usd": 3211000.0
+   "principal_usd": 3211000.0,
+   "finra_symbol": "QTSI6287330"
   },
   {
    "cusip": "74690FAY2",
@@ -1119,7 +1156,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 99.31,
    "positions": 5,
-   "principal_usd": 8442000.0
+   "principal_usd": 8442000.0,
+   "finra_symbol": "QTSI6287329"
   },
   {
    "cusip": "74690FBC9",
@@ -1138,7 +1176,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.46,
    "positions": 14,
-   "principal_usd": 50167000.0
+   "principal_usd": 50167000.0,
+   "finra_symbol": "QTSI6343249"
   },
   {
    "cusip": "74690FBE5",
@@ -1157,7 +1196,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.53,
    "positions": 10,
-   "principal_usd": 8306418.0
+   "principal_usd": 8306418.0,
+   "finra_symbol": "QTSI6343253"
   },
   {
    "cusip": "74690FBF2",
@@ -1214,7 +1254,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.9,
    "positions": 10,
-   "principal_usd": 23865000.0
+   "principal_usd": 23865000.0,
+   "finra_symbol": "QTSI6434745"
   },
   {
    "cusip": "74690FBL9",
@@ -1233,7 +1274,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.18,
    "positions": 1,
-   "principal_usd": 290000.0
+   "principal_usd": 290000.0,
+   "finra_symbol": "QTSI6434753"
   },
   {
    "cusip": "74690FBM7",
@@ -1252,7 +1294,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.0,
    "positions": 1,
-   "principal_usd": 684000.0
+   "principal_usd": 684000.0,
+   "finra_symbol": "QTSI6434755"
   },
   {
    "cusip": "74690FBN5",
@@ -1271,7 +1314,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.4,
    "positions": 4,
-   "principal_usd": 8044000.0
+   "principal_usd": 8044000.0,
+   "finra_symbol": "QTSI6434762"
   },
   {
    "cusip": "74690FBP0",
@@ -1290,7 +1334,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.07,
    "positions": 4,
-   "principal_usd": 23348000.0
+   "principal_usd": 23348000.0,
+   "finra_symbol": "QTSI6434752"
   },
   {
    "cusip": "74690FBQ8",
@@ -1309,7 +1354,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.0,
    "positions": 1,
-   "principal_usd": 1072000.0
+   "principal_usd": 1072000.0,
+   "finra_symbol": "QTSI6434754"
   },
   {
    "cusip": "74690FBR6",
@@ -1328,7 +1374,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.08,
    "positions": 1,
-   "principal_usd": 3000000.0
+   "principal_usd": 3000000.0,
+   "finra_symbol": "QTSI6434761"
   },
   {
    "cusip": "74699AEH7",
@@ -1404,7 +1451,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 91.45,
    "positions": 47,
-   "principal_usd": 196274000.0
+   "principal_usd": 196274000.0,
+   "finra_symbol": "QTSF6361028"
   },
   {
    "cusip": "76134KAA2",
@@ -1423,7 +1471,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.69,
    "positions": 16,
-   "principal_usd": 36925000.0
+   "principal_usd": 36925000.0,
+   "finra_symbol": "CLNY5653498"
   },
   {
    "cusip": "76134KAC8",
@@ -1442,7 +1491,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.12,
    "positions": 3,
-   "principal_usd": 3425000.0
+   "principal_usd": 3425000.0,
+   "finra_symbol": "CLNY5653499"
   },
   {
    "cusip": "76134KAE4",
@@ -1461,7 +1511,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.0,
    "positions": 1,
-   "principal_usd": 96000.0
+   "principal_usd": 96000.0,
+   "finra_symbol": "CLNY5653500"
   },
   {
    "cusip": "76134KAG9",
@@ -1499,7 +1550,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.69,
    "positions": 6,
-   "principal_usd": 16960140.0
+   "principal_usd": 16960140.0,
+   "finra_symbol": "CLNY5890288"
   },
   {
    "cusip": "76134KAJ3",
@@ -1518,7 +1570,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.14,
    "positions": 1,
-   "principal_usd": 1400429.0
+   "principal_usd": 1400429.0,
+   "finra_symbol": "CLNY5890289"
   },
   {
    "cusip": "76134KAM6",
@@ -1556,7 +1609,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 96.09,
    "positions": 5,
-   "principal_usd": 9000000.0
+   "principal_usd": 9000000.0,
+   "finra_symbol": "CLNY6155302"
   },
   {
    "cusip": "78520EAB2",
@@ -1575,7 +1629,8 @@
    "mark_period": "2026-05-31",
    "latest_mark": 99.83,
    "positions": 2,
-   "principal_usd": 2148000.0
+   "principal_usd": 2148000.0,
+   "finra_symbol": "SABY5210225"
   },
   {
    "cusip": "78520EAC0",
@@ -1594,7 +1649,8 @@
    "mark_period": "2026-06-30",
    "latest_mark": 98.13,
    "positions": 4,
-   "principal_usd": 4100000.0
+   "principal_usd": 4100000.0,
+   "finra_symbol": "SABY5439541"
   },
   {
    "cusip": "78520EAE6",
@@ -1613,7 +1669,8 @@
    "mark_period": "2026-01-31",
    "latest_mark": 100.31,
    "positions": 2,
-   "principal_usd": 245000.0
+   "principal_usd": 245000.0,
+   "finra_symbol": "SABY5573736"
   },
   {
    "cusip": "78520EAG1",
@@ -1632,7 +1689,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.22,
    "positions": 2,
-   "principal_usd": 1065000.0
+   "principal_usd": 1065000.0,
+   "finra_symbol": "SABY5799245"
   },
   {
    "cusip": "78520EAH9",
@@ -1651,7 +1709,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.68,
    "positions": 1,
-   "principal_usd": 3205000.0
+   "principal_usd": 3205000.0,
+   "finra_symbol": "SABY5995637"
   },
   {
    "cusip": "78520EAJ5",
@@ -1689,7 +1748,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 98.21,
    "positions": 10,
-   "principal_usd": 44086000.0
+   "principal_usd": 44086000.0,
+   "finra_symbol": "SABY6297779"
   },
   {
    "cusip": "83577VAA8",
@@ -1709,7 +1769,8 @@
    "latest_mark": 103.66,
    "positions": 105,
    "principal_usd": 403382000.0,
-   "price_at_issue": 100.0
+   "price_at_issue": 100.0,
+   "finra_symbol": "SOPC6466524"
   },
   {
    "cusip": "85236KAE2",
@@ -1728,7 +1789,8 @@
    "mark_period": "2026-02-28",
    "latest_mark": 99.74,
    "positions": 2,
-   "principal_usd": 2567000.0
+   "principal_usd": 2567000.0,
+   "finra_symbol": "SKFJ5148839"
   },
   {
    "cusip": "85236KAF9",
@@ -1785,7 +1847,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.1,
    "positions": 2,
-   "principal_usd": 2802000.0
+   "principal_usd": 2802000.0,
+   "finra_symbol": "SKFJ5680795"
   },
   {
    "cusip": "85236KAM4",
@@ -1804,7 +1867,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 100.38,
    "positions": 3,
-   "principal_usd": 2855000.0
+   "principal_usd": 2855000.0,
+   "finra_symbol": "SKFJ5771888"
   },
   {
    "cusip": "85236KAP7",
@@ -1823,7 +1887,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.48,
    "positions": 7,
-   "principal_usd": 17190938.0
+   "principal_usd": 17190938.0,
+   "finra_symbol": "SKFJ6079004"
   },
   {
    "cusip": "85236KAR3",
@@ -1842,7 +1907,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.02,
    "positions": 13,
-   "principal_usd": 16780195.0
+   "principal_usd": 16780195.0,
+   "finra_symbol": "SKFJ6315670"
   },
   {
    "cusip": "91825CAG0",
@@ -1880,7 +1946,8 @@
    "mark_period": "2025-08-31",
    "latest_mark": 100.0,
    "positions": 5,
-   "principal_usd": 11442000.0
+   "principal_usd": 11442000.0,
+   "finra_symbol": "VDCL5049266"
   },
   {
    "cusip": "92212KAC0",
@@ -1918,7 +1985,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 99.48,
    "positions": 8,
-   "principal_usd": 10120000.0
+   "principal_usd": 10120000.0,
+   "finra_symbol": "VDCL5290072"
   },
   {
    "cusip": "92212KAE6",
@@ -1937,7 +2005,8 @@
    "mark_period": "2025-10-31",
    "latest_mark": 100.52,
    "positions": 3,
-   "principal_usd": 3023000.0
+   "principal_usd": 3023000.0,
+   "finra_symbol": "VDCL5556423"
   },
   {
    "cusip": "92212KAG1",
@@ -1956,7 +2025,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.97,
    "positions": 5,
-   "principal_usd": 9277000.0
+   "principal_usd": 9277000.0,
+   "finra_symbol": "VDCL5901301"
   },
   {
    "cusip": "92212KAH9",
@@ -1975,7 +2045,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 97.45,
    "positions": 18,
-   "principal_usd": 107680000.0
+   "principal_usd": 107680000.0,
+   "finra_symbol": "VDCL6145188"
   },
   {
    "cusip": "92212KAJ5",
@@ -1994,7 +2065,8 @@
    "mark_period": "2026-07-31",
    "latest_mark": 96.38,
    "positions": 12,
-   "principal_usd": 57432624.0
+   "principal_usd": 57432624.0,
+   "finra_symbol": "VDCL6229677"
   },
   {
    "cusip": "92212KAK2",
@@ -2246,7 +2318,8 @@
    "last_trade_price": 91.53,
    "last_trade_date": "2026-10-14",
    "twin_of": "076912AA2",
-   "price_at_issue": 100.0
+   "price_at_issue": 100.0,
+   "finra_symbol": "BEIG6208409"
   },
   {
    "cusip": "U2069EAA8",
@@ -2266,7 +2339,8 @@
    "latest_mark": 98.5,
    "positions": 1,
    "principal_usd": 198000.0,
-   "twin_of": "21873SAB4"
+   "twin_of": "21873SAB4",
+   "finra_symbol": "CRWV6083303"
   },
   {
    "cusip": "U2069EAB6",
@@ -2286,7 +2360,8 @@
    "latest_mark": 99.28,
    "positions": 1,
    "principal_usd": 188000.0,
-   "twin_of": "21873SAC2"
+   "twin_of": "21873SAC2",
+   "finra_symbol": "CRWV6130542"
   },
   {
    "cusip": "U2069EAE0",
@@ -2306,7 +2381,8 @@
    "latest_mark": 89.31,
    "positions": 1,
    "principal_usd": 224000.0,
-   "twin_of": "21873SAK4"
+   "twin_of": "21873SAK4",
+   "finra_symbol": "CRWV6424532"
   }
  ]
 }

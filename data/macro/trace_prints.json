@@ -6,131 +6,211 @@
    "cusip": "21873SAK4",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 78.443,
+   "last_trade_price": 77.875,
    "latest_fund_mark": 89.55,
    "mark_period": "2026-07-31",
    "security": "9.625% senior notes due 2032",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 82.875
+    },
+    {
+     "date": "2026-10-09",
+     "price": 83.4745
+    },
+    {
+     "date": "2026-10-13",
+     "price": 79.75
+    },
+    {
      "date": "2026-10-14",
-     "price": 78.443
+     "price": 77.875
     }
    ],
    "coupon_pct": 9.625,
    "maturity": "2032-07-15",
-   "trades_seen": 224
+   "trades_seen": 184
   },
   {
    "cusip": "21873SAG3",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 80.5,
+   "last_trade_price": 81.4375,
    "latest_fund_mark": 90.76,
    "mark_period": "2026-07-31",
    "security": "9.75% senior notes due 2031",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 85.25
+    },
+    {
+     "date": "2026-10-09",
+     "price": 85.37
+    },
+    {
+     "date": "2026-10-13",
+     "price": 82.75
+    },
+    {
      "date": "2026-10-14",
-     "price": 80.5
+     "price": 81.4375
     }
    ],
    "coupon_pct": 9.75,
    "maturity": "2031-10-01",
-   "trades_seen": 221
+   "trades_seen": 194
   },
   {
    "cusip": "21873SAC2",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 83.25,
+   "last_trade_price": 81.21875,
    "latest_fund_mark": 90.31,
    "mark_period": "2026-07-31",
    "security": "9.00% senior notes due 2031",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 87.10393
+    },
+    {
+     "date": "2026-10-09",
+     "price": 87.0
+    },
+    {
+     "date": "2026-10-13",
+     "price": 84.813
+    },
+    {
      "date": "2026-10-14",
-     "price": 83.25
+     "price": 81.21875
     }
    ],
    "coupon_pct": 9.0,
    "maturity": "2031-02-01",
-   "trades_seen": 120
+   "trades_seen": 102
   },
   {
    "cusip": "21873SAB4",
    "issuer": "CoreWeave, Inc.",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 86.2,
+   "last_trade_price": 86.75,
    "latest_fund_mark": 93.56,
    "mark_period": "2026-07-31",
    "security": "9.25% senior notes due 2030",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 92.12975
+    },
+    {
+     "date": "2026-10-09",
+     "price": 91.75
+    },
+    {
+     "date": "2026-10-13",
+     "price": 89.5
+    },
+    {
      "date": "2026-10-14",
-     "price": 86.2
+     "price": 86.75
     }
    ],
    "coupon_pct": 9.25,
    "maturity": "2030-06-01",
-   "trades_seen": 201
+   "trades_seen": 182
   },
   {
    "cusip": "076912AA2",
    "issuer": "Beignet Investor LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 91.107,
+   "last_trade_price": 91.533,
    "latest_fund_mark": 96.86,
    "mark_period": "2026-07-31",
    "security": "6.581% senior secured notes due 2049",
    "history": [
+    {
+     "date": "2026-10-08",
+     "price": 92.238
+    },
+    {
+     "date": "2026-10-09",
+     "price": 92.014
+    },
     {
      "date": "2026-10-13",
      "price": 91.268
     },
     {
      "date": "2026-10-14",
-     "price": 91.107
+     "price": 91.533
     }
    ],
    "coupon_pct": 6.581,
    "maturity": "2049-05-30",
-   "trades_seen": 79
+   "trades_seen": 57
   },
   {
    "cusip": "83577VAA8",
    "issuer": "Sopaipilla Investor LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 98.017,
+   "last_trade_price": 98.150957,
    "latest_fund_mark": 103.66,
    "mark_period": "2026-07-31",
    "security": "7.534% senior secured notes due 2048",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 99.24
+    },
+    {
+     "date": "2026-10-09",
+     "price": 98.652
+    },
+    {
+     "date": "2026-10-13",
+     "price": 98.135221
+    },
+    {
      "date": "2026-10-14",
-     "price": 98.017
+     "price": 98.150957
     }
    ],
    "coupon_pct": 7.534,
    "maturity": "2048-11-30",
-   "trades_seen": 96
+   "trades_seen": 79
   },
   {
    "cusip": "36322DAA4",
    "issuer": "Galaxy Helios Data Centers II LLC",
    "last_trade_date": "2026-10-14",
-   "last_trade_price": 92.0,
+   "last_trade_price": 92.1875,
    "latest_fund_mark": 100.31,
    "mark_period": "2026-07-31",
    "security": "9.875% senior secured notes due 2031",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 95.5
+    },
+    {
+     "date": "2026-10-09",
+     "price": 95.756271
+    },
+    {
+     "date": "2026-10-13",
+     "price": 94.75
+    },
+    {
      "date": "2026-10-14",
-     "price": 92.0
+     "price": 92.1875
     }
    ],
    "coupon_pct": 9.875,
    "maturity": "2031-08-01",
-   "trades_seen": 141
+   "trades_seen": 114
   },
   {
    "cusip": "21873SAD0",
@@ -144,11 +224,23 @@
    "mark_period": "2026-07-31",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 95.4305
+    },
+    {
+     "date": "2026-10-12",
+     "price": 95.0895
+    },
+    {
+     "date": "2026-10-13",
+     "price": 90.319
+    },
+    {
      "date": "2026-10-14",
      "price": 78.6464
     }
    ],
-   "trades_seen": 77
+   "trades_seen": 69
   },
   {
    "cusip": "21873SAH1",
@@ -156,17 +248,33 @@
    "security": "1.75% converts due 2032",
    "coupon_pct": 1.75,
    "maturity": "2032-10-01",
-   "last_trade_price": 73.1133,
+   "last_trade_price": 72.25,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 88.22,
    "mark_period": "2026-07-31",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 87.331
+    },
+    {
+     "date": "2026-10-09",
+     "price": 88.3344
+    },
+    {
+     "date": "2026-10-12",
+     "price": 86.315
+    },
+    {
+     "date": "2026-10-13",
+     "price": 82.0876
+    },
+    {
      "date": "2026-10-14",
-     "price": 73.1133
+     "price": 72.25
     }
    ],
-   "trades_seen": 122
+   "trades_seen": 112
   },
   {
    "cusip": "74751AAA1",
@@ -174,21 +282,29 @@
    "security": "5.70% due 2036",
    "coupon_pct": 5.7,
    "maturity": "2036-04-15",
-   "last_trade_price": 87.1,
+   "last_trade_price": 87.357,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 91.45,
    "mark_period": "2026-07-31",
    "history": [
+    {
+     "date": "2026-10-08",
+     "price": 88.014
+    },
+    {
+     "date": "2026-10-09",
+     "price": 88.014999
+    },
     {
      "date": "2026-10-13",
      "price": 87.871
     },
     {
      "date": "2026-10-14",
-     "price": 87.1
+     "price": 87.357
     }
    ],
-   "trades_seen": 65
+   "trades_seen": 54
   },
   {
    "cusip": "92212KAH9",
@@ -314,7 +430,7 @@
      "price": 94.402343
     }
    ],
-   "trades_seen": 1
+   "trades_seen": 0
   },
   {
    "cusip": "01627AAD0",
@@ -372,7 +488,7 @@
      "price": 97.472656
     }
    ],
-   "trades_seen": 2
+   "trades_seen": 1
   },
   {
    "cusip": "01627AAF5",
@@ -538,7 +654,7 @@
      "price": 96.539062
     }
    ],
-   "trades_seen": 2
+   "trades_seen": 1
   },
   {
    "cusip": "20469AAD1",
@@ -1222,7 +1338,7 @@
      "price": 94.742187
     }
    ],
-   "trades_seen": 1
+   "trades_seen": 0
   },
   {
    "cusip": "78520EAB2",
@@ -1372,17 +1488,29 @@
    "security": "9.25% due 2030",
    "coupon_pct": 9.25,
    "maturity": "2030-06-01",
-   "last_trade_price": 86.861,
+   "last_trade_price": 87.361,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 98.5,
    "mark_period": "2026-01-31",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 92.725
+    },
+    {
+     "date": "2026-10-09",
+     "price": 91.4992
+    },
+    {
+     "date": "2026-10-13",
+     "price": 90.073
+    },
+    {
      "date": "2026-10-14",
-     "price": 86.861
+     "price": 87.361
     }
    ],
-   "trades_seen": 166
+   "trades_seen": 106
   },
   {
    "cusip": "U2069EAB6",
@@ -1390,17 +1518,25 @@
    "security": "9% due 2031",
    "coupon_pct": 9.0,
    "maturity": "2031-02-01",
-   "last_trade_price": 81.2,
+   "last_trade_price": 81.5,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 99.28,
    "mark_period": "2026-04-30",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 88.0
+    },
+    {
+     "date": "2026-10-13",
+     "price": 84.094
+    },
+    {
      "date": "2026-10-14",
-     "price": 81.2
+     "price": 81.5
     }
    ],
-   "trades_seen": 74
+   "trades_seen": 66
   },
   {
    "cusip": "U2069EAE0",
@@ -1408,17 +1544,29 @@
    "security": "9.625% due 2032",
    "coupon_pct": 9.625,
    "maturity": "2032-07-15",
-   "last_trade_price": 79.3065,
+   "last_trade_price": 78.0,
    "last_trade_date": "2026-10-14",
    "latest_fund_mark": 89.31,
    "mark_period": "2026-07-31",
    "history": [
     {
+     "date": "2026-10-08",
+     "price": 83.0
+    },
+    {
+     "date": "2026-10-09",
+     "price": 81.625
+    },
+    {
+     "date": "2026-10-13",
+     "price": 81.625
+    },
+    {
      "date": "2026-10-14",
-     "price": 79.3065
+     "price": 78.0
     }
    ],
-   "trades_seen": 114
+   "trades_seen": 90
   }
  ],
  "source": "FINRA Fixed Income Security Lookup (public, no credential), browser session 2026-10-14"
