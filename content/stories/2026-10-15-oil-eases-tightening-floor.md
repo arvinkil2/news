@@ -1,11 +1,12 @@
 ---
 title: "Oil eases from highs as tightening floor keeps rising"
 date: 2026-10-15T07:07:29-04:00
-last_updated: 2026-10-15T12:31:57-04:00
+last_updated: 2026-10-15T16:53:55-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global", "north-america"]
 status: "story"
-lede: "Brent was little changed at $106.10 a barrel and WTI rose 1.55 percent to $96.56 in the site market tables refreshed at midday on Thursday, reversing the morning dip from this week's highs and leaving both benchmarks higher than a week earlier."
+update_bump: true
+lede: "US crude inventories fell 8.557 million barrels in the weekly EIA report, far more than the 288,000 barrel draw expected, and WTI rose 2.50 dollars to 97.59 dollars in afternoon trade on Thursday."
 why_it_matters: "The pullback is happening on a tightening physical floor: tanker attacks are intensifying, US stocks just drew by 11 million barrels on the API estimate, and executives warn global inventories sit near minimum operating levels, so dips keep starting from higher ground."
 featured: false
 evidence_grade: "B"
@@ -22,9 +23,15 @@ sources:
     publisher: "Yahoo Finance, via Kilambi News market data"
     url: "https://finance.yahoo.com"
     published: "2026-10-15"
+  - title: "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data"
+    publisher: "investingLive"
+    url: "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/"
+    published: "2026-10-15"
 tags: []
 data_as_of: "Thursday, October 15, 2026. Site market tables refreshed 2026-10-15T12:30:13-04:00 (Brent $106.10, up 0.04 percent, up 1.75 percent on the week; WTI $96.56, up 1.55 percent, up 5.54 percent on the week). Morning tables at 07:00 ET had Brent at $104.49, down 1.48 percent, and WTI at $93.88, down 1.27 percent. Interfax reported Brent near $104.3 in early Thursday trade. The inventory and stock level claims are OilPrice.com's synthesis of tanker tracking and executive remarks, read in full."
 ---
+**Latest (16:53 ET):** The Energy Information Administration's weekly report put the US crude inventory draw at 8.557 million barrels, against a survey expectation of a 288,000 barrel draw, confirming the direction of the American Petroleum Institute's 11.12 million barrel estimate reported in yesterday's edition. WTI crude rose 2.50 dollars to 97.59 dollars in the afternoon session, according to investingLive's market wrap, which also put the 10 year Treasury yield down 9.9 basis points at 5.09 percent and gold up 61 dollars at 4,166 dollars.
+
 Crude eased on Thursday morning after a week that pushed prices to fresh highs, then recovered by midday. Brent fell 1.48 percent to $104.49 a barrel and West Texas Intermediate fell 1.27 percent to $93.88 in the site market tables refreshed at 07:00 ET, with Interfax reporting Brent near $104.3 in early trade. By the midday tables Brent stood at $106.10, up 0.04 percent on the day, and WTI at $96.56, up 1.55 percent. On the week, Brent is up 1.75 percent, while WTI is up 5.54 percent, so the session reads as a pause inside a rising trend rather than a reversal.
 
 The physical backdrop explains why sellers are cautious. Ship-to-ship transfers have squeezed tanker supply, and freight now accounts for close to a third of a cargo's delivered price, up from less than 5 percent before the war, according to tanker tracking cited by OilPrice.com. Windward counted only two tankers crossing the Strait of Hormuz on October 12, both sailing dark, while UKMTO reported nine attacks in and around the strait in the first seven days of October.
