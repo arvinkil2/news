@@ -1,26 +1,27 @@
 ---
-title: "Galaxy Helios Data Cntr"
+title: "Helios"
 date: "2026-10-15"
-lede: "Project issuer · 1 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
+lede: "Project issuer · 2 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-15"
 ---
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>1</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>1,731</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>92.19</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 1</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>14 Oct 2026</dd></div><div class="bw-sum-item"><dt>Marks as of</dt><dd>31 Jul 2026</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>2</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>1,731</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>92.19</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 1</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>14 Oct 2026</dd></div><div class="bw-sum-item"><dt>Marks as of</dt><dd>31 Jul 2026</dd></div></dl>
 <h2>Bonds</h2>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-galaxy-helios-data-cntr" data-def="[300, 96, 110, 92, 100, 84, 92, 84, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 76, 96]" data-fixed="[]" data-sort="1">
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-helios" data-def="[300, 96, 110, 92, 100, 84, 92, 84, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 76, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:300px"><col style="width:96px"><col style="width:110px"><col style="width:92px"><col style="width:100px"><col style="width:84px"><col style="width:92px"><col style="width:84px"><col style="width:108px"></colgroup>
 <thead><tr><th>Bond</th><th>Last trade</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark</th><th>Coupon</th><th>Matures</th><th>Trades</th><th>CUSIP</th></tr></thead>
 <tbody>
 <tr><td data-v="GALAXY HELIOS DATA CNTR — 9.875% senior secured notes due 2031"><a class="bond-link" href="/leverage/bond/36322daa4/"><span class="bond-name">GALAXY HELIOS DATA CNTR</span><span class="bond-sub">9.875% senior secured notes due 2031</span></a></td><td data-v="92.1875">92.188</td><td data-v="2026-10-14">14 Oct 2026</td><td class="neg" data-v="-8.122900000000001">-8.12</td><td data-v="100.3104">100.31</td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="1731">1,731</td><td data-v="36322DAA4">36322DAA4</td></tr>
+<tr><td data-v="GALAXY HELIOS DATA CTRS II LLC — 9.875% Notes due 2031"><a class="bond-link" href="/leverage/bond/u3190caa2/"><span class="bond-name">GALAXY HELIOS DATA CTRS II LLC</span><span class="bond-sub">9.875% Notes due 2031</span></a></td><td data-v="-999">n/a</td><td data-v="">no trades in the stored record</td><td data-v="-999">n/a</td><td data-v="-999">n/a</td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="0">0</td><td data-v="U3190CAA2">U3190CAA2</td></tr>
 </tbody></table></div>
 
 <h2>Trend · month-end</h2>
 <p class="bond-chart-cap">Month-end median last print and trades per month. A month point exists only when at least one of the issuer&rsquo;s bonds traded that month.</p>
-<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: Galaxy Helios Data Cntr"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, Galaxy Helios Data Cntr"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">90</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">93</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">96</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">99</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">102</text><polyline points="52.0,56.6 270.0,83.0 488.0,157.5 706.0,231.4" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="56.6" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="83.0" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="157.5" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="231.4" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2026-07</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
-<script type="application/json" id="issuer-chart-data">{"galaxy-helios-data-cntr":{"name":"Galaxy Helios Data Cntr","price":[[1784116800000,100.398704],[1786795200000,99.156169],[1789473600000,95.657101],[1792065600000,92.1875]],"vol":[[1784116800000,312],[1786795200000,655],[1789473600000,521],[1792065600000,243]]}}</script>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-galaxy-helios-data-cntr" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
+<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: Helios"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, Helios"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">90</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">93</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">96</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">99</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">102</text><polyline points="52.0,56.6 270.0,83.0 488.0,157.5 706.0,231.4" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="56.6" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="83.0" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="157.5" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="231.4" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2026-07</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
+<script type="application/json" id="issuer-chart-data">{"helios":{"name":"Helios","price":[[1784116800000,100.398704],[1786795200000,99.156169],[1789473600000,95.657101],[1792065600000,92.1875]],"vol":[[1784116800000,312],[1786795200000,655],[1789473600000,521],[1792065600000,243]]}}</script>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-helios" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
 <colgroup><col style="width:100px"><col style="width:84px"><col style="width:140px"><col style="width:110px"><col style="width:92px"></colgroup>
 <thead><tr><th>Month</th><th>Trades</th><th>Median last print</th><th>Priced bonds</th><th>Below 90</th></tr></thead>
 <tbody>
@@ -32,7 +33,7 @@ data_as_of: "2026-10-15"
 
 <h2>Fund holders on record</h2>
 <p class="data-vintage">Principal across the issuer&rsquo;s bonds · N-PORT report period 31 Jul 2026</p>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-f-galaxy-helios-data-cntr" data-def="[320, 130, 96, 100]" data-min="[180, 92, 76, 76]" data-fixed="[]">
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-f-helios" data-def="[320, 130, 96, 100]" data-min="[180, 92, 76, 76]" data-fixed="[]">
 <colgroup><col style="width:320px"><col style="width:130px"><col style="width:96px"><col style="width:100px"></colgroup>
 <thead><tr><th>Fund complex</th><th>Principal ($M)</th><th>Positions</th><th>Bonds held</th></tr></thead>
 <tbody>
