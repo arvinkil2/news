@@ -6,7 +6,7 @@ data_as_of: "2026-10-14"
 ---
 
 
-<dl class="bw-summary"><div><dt>Analyses</dt><dd>7</dd></div><div><dt>Trades stored</dt><dd>1,425</dd></div><div><dt>Tape window</dt><dd>07 Oct 2026 – 14 Oct 2026</dd></div><div><dt>Marks as of</dt><dd>31 Jul 2026</dd></div><div><dt>Bonds tracked</dt><dd>121</dd></div></dl>
+<dl class="bw-summary"><div><dt>Analyses</dt><dd>7</dd></div><div><dt>Trades stored</dt><dd>1,425</dd></div><div><dt>Tape window</dt><dd>07 Oct 2026 – 14 Oct 2026</dd></div><div><dt>Marks as of</dt><dd>31 Jul 2026</dd></div><div><dt>Bonds tracked</dt><dd>613</dd></div></dl>
 <p class="bw-anchor"><a href="#dispersion">Fund dispersion</a> · <a href="#gap">Gap and convergence</a> · <a href="#curves">Issuer curves</a> · <a href="#twins">Twin basis</a> · <a href="#liquidity">Liquidity</a> · <a href="#events">Filings and prints</a> · <a href="#backtest">Alert backtest</a> · <a href="#method">Method</a></p>
 <h2 id="dispersion">1 · Fund mark dispersion</h2>
 <p>57 bonds carry marks from five or more funds at the latest period. The widest disagreement is 2.59 points (92212KAK2). Funds largely agree with each other; the defect in fund marks is lag, not dispersion.</p>
