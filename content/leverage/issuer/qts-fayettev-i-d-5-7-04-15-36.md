@@ -1,0 +1,160 @@
+---
+title: "QTS Fayettev I D 5.7% 04/15/36"
+date: "2026-10-15"
+lede: "Project issuer · 1 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
+data_as_of: "2026-10-15"
+---
+
+
+<p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>1</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>2,581</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>87.36</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>1 of 1</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>14 Oct 2026</dd></div><div class="bw-sum-item"><dt>Marks as of</dt><dd>31 Jul 2026</dd></div></dl>
+<h2>Bonds</h2>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-qts-fayettev-i-d-5-7-04-15-36" data-def="[300, 96, 110, 92, 100, 84, 92, 84, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 76, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:96px"><col style="width:110px"><col style="width:92px"><col style="width:100px"><col style="width:84px"><col style="width:92px"><col style="width:84px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Last trade</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark</th><th>Coupon</th><th>Matures</th><th>Trades</th><th>CUSIP</th></tr></thead>
+<tbody>
+<tr><td data-v="QTS FAYETTEV I D 5.7% 04/15/36"><a class="bond-link" href="/leverage/bond/74751aaa1/"><span class="bond-name">QTS FAYETTEV I D 5.7% 04/15/36</span><span class="bond-sub"></span></a></td><td class="neg" data-v="87.357">87.357</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="-4.0966999999999985">-4.10</td><td data-v="91.4537">91.45</td><td data-v="5.7">5.7</td><td data-v="2036-04-15">15 Apr 2036</td><td data-v="2581">2,581</td><td data-v="74751AAA1">74751AAA1</td></tr>
+</tbody></table></div>
+
+<h2>Trend · month-end</h2>
+<p class="bond-chart-cap">Month-end median last print and trades per month. A month point exists only when at least one of the issuer&rsquo;s bonds traded that month.</p>
+<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: QTS Fayettev I D 5.7% 04/15/36"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, QTS Fayettev I D 5.7% 04/15/36"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">85</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">89</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">92</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">96</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">99</text><polyline points="52.0,51.0 161.0,53.2 270.0,94.3 379.0,160.5 488.0,176.8 597.0,226.8 706.0,237.0" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="51.0" r="2.4" fill="#1a1a1a"/><circle cx="161.0" cy="53.2" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="94.3" r="2.4" fill="#1a1a1a"/><circle cx="379.0" cy="160.5" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="176.8" r="2.4" fill="#1a1a1a"/><circle cx="597.0" cy="226.8" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="237.0" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2026-04</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
+<script type="application/json" id="issuer-chart-data">{"qts-fayettev-i-d-5-7-04-15-36":{"name":"QTS Fayettev I D 5.7% 04/15/36","price":[[1776254400000,97.425367],[1778846400000,97.303449],[1781524800000,95.082],[1784116800000,91.496],[1786795200000,90.616],[1789473600000,87.913],[1792065600000,87.357]],"vol":[[1776254400000,725],[1778846400000,324],[1781524800000,341],[1784116800000,528],[1786795200000,333],[1789473600000,240],[1792065600000,90]]}}</script>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-qts-fayettev-i-d-5-7-04-15-36" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
+<colgroup><col style="width:100px"><col style="width:84px"><col style="width:140px"><col style="width:110px"><col style="width:92px"></colgroup>
+<thead><tr><th>Month</th><th>Trades</th><th>Median last print</th><th>Priced bonds</th><th>Below 90</th></tr></thead>
+<tbody>
+<tr><td data-v="2026-10">Oct 2026</td><td data-v="90">90</td><td data-v="87.357">87.36</td><td data-v="1">1</td><td data-v="1">100%</td></tr>
+<tr><td data-v="2026-09">Sep 2026</td><td data-v="240">240</td><td data-v="87.913">87.91</td><td data-v="1">1</td><td data-v="1">100%</td></tr>
+<tr><td data-v="2026-08">Aug 2026</td><td data-v="333">333</td><td data-v="90.616">90.62</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-07">Jul 2026</td><td data-v="528">528</td><td data-v="91.496">91.50</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-06">Jun 2026</td><td data-v="341">341</td><td data-v="95.082">95.08</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-05">May 2026</td><td data-v="324">324</td><td data-v="97.303449">97.30</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-04">Apr 2026</td><td data-v="725">725</td><td data-v="97.425367">97.43</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+</tbody></table></div>
+
+<h2>Fund holders on record</h2>
+<p class="data-vintage">Principal across the issuer&rsquo;s bonds · N-PORT report period 31 Jul 2026</p>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-f-qts-fayettev-i-d-5-7-04-15-36" data-def="[320, 130, 96, 100]" data-min="[180, 92, 76, 76]" data-fixed="[]">
+<colgroup><col style="width:320px"><col style="width:130px"><col style="width:96px"><col style="width:100px"></colgroup>
+<thead><tr><th>Fund complex</th><th>Principal ($M)</th><th>Positions</th><th>Bonds held</th></tr></thead>
+<tbody>
+<tr><td data-v="MFS Income Fund">MFS Income Fund</td><td data-v="51595000">52</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="MFS Total Return Bond Fund">MFS Total Return Bond Fund</td><td data-v="21011000">21</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Franklin Managed Income Fund">Franklin Managed Income Fund</td><td data-v="15000000">15</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="BBH Income Fund">BBH Income Fund</td><td data-v="12000000">12</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Lord Abbett Investment Grade Floating Rate Fund">Lord Abbett Investment Grade Floating Rate Fund</td><td data-v="9579000">10</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="MFS Corporate Bond Fund">MFS Corporate Bond Fund</td><td data-v="9014000">9</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Columbia Select Corporate Income Fund">Columbia Select Corporate Income Fund</td><td data-v="7325000">7</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="First Trust Core Investment Grade ETF">First Trust Core Investment Grade ETF</td><td data-v="6667000">7</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Nationwide Bond Portfolio">Nationwide Bond Portfolio</td><td data-v="6055000">6</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Balanced Fund">Balanced Fund</td><td data-v="5718000">6</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="BlackRock">BlackRock</td><td data-v="5185000">5</td><td data-v="2">2</td><td data-v="1">1</td></tr>
+<tr><td data-v="Invesco Core Bond Fund">Invesco Core Bond Fund</td><td data-v="4577000">5</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Catholic Responsible Investments Bond Fund">Catholic Responsible Investments Bond Fund</td><td data-v="4560000">5</td><td data-v="2">2</td><td data-v="1">1</td></tr>
+<tr><td data-v="Columbia Total Return Bond Fund">Columbia Total Return Bond Fund</td><td data-v="4465000">4</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="1290 Diversified Bond Fund">1290 Diversified Bond Fund</td><td data-v="4290000">4</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+</tbody></table></div>
+
+<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders). A fund mark is a period-end valuation, not a trade price; holder data is positions at the report period, not trading activity. TRACE names no buyer or seller.</p>
+<script defer src="/js/echarts.min.js"></script>
+<script defer src="/js/issuer_chart.js"></script>
+<script>
+document.querySelectorAll('table.bw-grid').forEach(function(t){
+  var tid = t.getAttribute('data-tid'); if (!tid) return;
+  var ths = Array.prototype.slice.call(t.querySelectorAll(':scope > thead > tr > th'));
+  var n = ths.length;
+  var defs = JSON.parse(t.getAttribute('data-def') || '[]');
+  var mins = JSON.parse(t.getAttribute('data-min') || '[]');
+  var fixed = JSON.parse(t.getAttribute('data-fixed') || '[]');
+  if (defs.length !== n) return;
+  var cg = t.querySelector(':scope > colgroup'); if (!cg) return;
+  var widths = defs.slice(), sort = null, lastDrag = 0;
+  try {
+    var raw = localStorage.getItem('bondwatch:v1:' + tid);
+    if (raw) { var st = JSON.parse(raw);
+      if (st && st.w && st.w.length === n) widths = st.w.map(function(w, i){ var v = parseFloat(w); return isNaN(v) ? defs[i] : Math.max(mins[i] || 40, v); });
+      if (st && st.s) sort = st.s; }
+  } catch (e) {}
+  function apply(){ var sum = 0; for (var i = 0; i < n; i++){ cg.children[i].style.width = widths[i] + 'px'; sum += widths[i]; } t.style.width = sum + 'px'; }
+  function save(){ try { localStorage.setItem('bondwatch:v1:' + tid, JSON.stringify({w: widths, s: sort})); } catch (e) {} }
+  apply();
+  var head = t.querySelector(':scope > thead');
+  function boundary(ev){
+    var best = -1, bestD = 9;
+    for (var i = 0; i < n; i++){
+      if (fixed.indexOf(i) >= 0) continue;
+      var d = Math.abs(ev.clientX - ths[i].getBoundingClientRect().right);
+      if (d < bestD) { bestD = d; best = i; }
+    }
+    return best;
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+    function move(e){
+      var dx = e.clientX - startX;
+      if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
+      else widths[i] = Math.max(mins[i], startW + dx);
+      apply(); lastDrag = Date.now();
+    }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    document.addEventListener('pointermove', move);
+    document.addEventListener('pointerup', up);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    var clone = t.cloneNode(true);
+    clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
+    var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
+    document.body.appendChild(clone);
+    var cths = clone.querySelectorAll(':scope > thead > tr > th');
+    var w = cths[i] ? cths[i].offsetWidth : 0;
+    clone.remove();
+    if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  });
+  function sortRows(i, asc){
+    var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
+    rows.sort(function(a, b){
+      var x = a.children[i], y = b.children[i];
+      var xv = x && x.hasAttribute('data-v') ? x.getAttribute('data-v') : (x ? x.textContent.trim() : '');
+      var yv = y && y.hasAttribute('data-v') ? y.getAttribute('data-v') : (y ? y.textContent.trim() : '');
+      var xn = parseFloat(xv), yn = parseFloat(yv);
+      var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
+      return asc ? c : -c;
+    });
+    var tb = t.querySelector(':scope > tbody');
+    rows.forEach(function(r){ tb.appendChild(r); });
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+    ths[i].classList.add(asc ? 'sasc' : 'sdesc');
+  }
+  if (t.hasAttribute('data-sort')) {
+    ths.forEach(function(th, i){
+      th.addEventListener('click', function(){
+        if (Date.now() - lastDrag < 250) return;
+        var asc = !th.classList.contains('sasc');
+        sort = {i: i, asc: asc};
+        sortRows(i, asc); save();
+      });
+    });
+    if (sort && sort.i < n) sortRows(sort.i, sort.asc);
+  }
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    th.setAttribute('tabindex', '0');
+    th.addEventListener('keydown', function(ev){
+      if (!ev.altKey) return;
+      if (ev.key === 'ArrowRight') { widths[i] += 8; apply(); save(); ev.preventDefault(); }
+      if (ev.key === 'ArrowLeft') { widths[i] = Math.max(mins[i], widths[i] - 8); apply(); save(); ev.preventDefault(); }
+    });
+  });
+  var rb = document.querySelector('[data-reset-for="' + tid + '"]');
+  if (rb) rb.addEventListener('click', function(){
+    try { localStorage.removeItem('bondwatch:v1:' + tid); } catch (e) {}
+    widths = defs.slice(); sort = null; apply();
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+  });
+});
+</script>

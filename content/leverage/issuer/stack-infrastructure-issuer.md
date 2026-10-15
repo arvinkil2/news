@@ -1,0 +1,170 @@
+---
+title: "Stack Infrastructure Issuer LLC"
+date: "2026-10-15"
+lede: "Project issuer · 5 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
+data_as_of: "2026-10-15"
+---
+
+
+<p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>5</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>428</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>98.62</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 5</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>24 Sep 2026</dd></div><div class="bw-sum-item"><dt>Marks as of</dt><dd>31 Jul 2026</dd></div></dl>
+<h2>Bonds</h2>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-stack-infrastructure-issuer" data-def="[300, 96, 110, 92, 100, 84, 92, 84, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 76, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:96px"><col style="width:110px"><col style="width:92px"><col style="width:100px"><col style="width:84px"><col style="width:92px"><col style="width:84px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Last trade</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark</th><th>Coupon</th><th>Matures</th><th>Trades</th><th>CUSIP</th></tr></thead>
+<tbody>
+<tr><td data-v="Stack Infrastructure Issuer LLC"><a class="bond-link" href="/leverage/bond/85236kae2/"><span class="bond-name">Stack Infrastructure Issuer LLC</span><span class="bond-sub"></span></a></td><td data-v="99.5">99.500</td><td data-v="2026-01-27">27 Jan 2026</td><td data-v="-0.24429999999999552">-0.24</td><td data-v="99.7443">99.74</td><td data-v="1.877">1.877</td><td data-v="2046-03-26">26 Mar 2046</td><td data-v="118">118</td><td data-v="85236KAE2">85236KAE2</td></tr>
+<tr><td data-v="STACK INFRASTRUCTURE ISSUER LLC"><a class="bond-link" href="/leverage/bond/85236kak8/"><span class="bond-name">STACK INFRASTRUCTURE ISSUER LLC</span><span class="bond-sub"></span></a></td><td data-v="98.757812">98.758</td><td data-v="2026-09-23">23 Sep 2026</td><td data-v="-1.3452879999999965">-1.35</td><td data-v="100.1031">100.10</td><td data-v="5.9">5.9</td><td data-v="2048-10-26">26 Oct 2048</td><td data-v="46">46</td><td data-v="85236KAK8">85236KAK8</td></tr>
+<tr><td data-v="Stack Infrastructure Issuer LL"><a class="bond-link" href="/leverage/bond/85236kam4/"><span class="bond-name">Stack Infrastructure Issuer LL</span><span class="bond-sub"></span></a></td><td data-v="98.625">98.625</td><td data-v="2026-09-21">21 Sep 2026</td><td data-v="-1.7532000000000068">-1.75</td><td data-v="100.3782">100.38</td><td data-v="5.9">5.9</td><td data-v="2049-03-25">25 Mar 2049</td><td data-v="80">80</td><td data-v="85236KAM4">85236KAM4</td></tr>
+<tr><td data-v="STACK INFRASTRUCTURE ISSUER LLC"><a class="bond-link" href="/leverage/bond/85236kap7/"><span class="bond-name">STACK INFRASTRUCTURE ISSUER LLC</span><span class="bond-sub"></span></a></td><td data-v="93.1875">93.188</td><td data-v="2026-09-17">17 Sep 2026</td><td data-v="-3.2900999999999954">-3.29</td><td data-v="96.4776">96.48</td><td data-v="5.0">5</td><td data-v="2050-05-25">25 May 2050</td><td data-v="119">119</td><td data-v="85236KAP7">85236KAP7</td></tr>
+<tr><td data-v="Stack Infrastructure Issuer LLC"><a class="bond-link" href="/leverage/bond/85236kar3/"><span class="bond-name">Stack Infrastructure Issuer LLC</span><span class="bond-sub"></span></a></td><td data-v="93.472656">93.473</td><td data-v="2026-09-24">24 Sep 2026</td><td data-v="-2.549843999999993">-2.55</td><td data-v="96.0225">96.02</td><td data-v="5.0">5</td><td data-v="2056-03-27">27 Mar 2056</td><td data-v="65">65</td><td data-v="85236KAR3">85236KAR3</td></tr>
+</tbody></table></div>
+
+<h2>Trend · month-end</h2>
+<p class="bond-chart-cap">Month-end median last print and trades per month. A month point exists only when at least one of the issuer&rsquo;s bonds traded that month.</p>
+<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: Stack Infrastructure Issuer LLC"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, Stack Infrastructure Issuer LLC"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">91</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">94</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">97</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">100</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">103</text><polyline points="52.0,231.1 71.2,192.4 90.5,201.6 109.7,182.3 128.9,75.6 148.2,168.8 167.4,104.5 186.6,157.7 205.9,67.7 225.1,106.5 244.4,98.2 263.6,124.9 282.8,114.3 302.1,103.9 321.3,62.5 340.5,80.7 359.8,100.9 379.0,60.7 398.2,93.1 417.5,105.1 436.7,82.4 455.9,99.0 475.2,95.7 494.4,56.9 513.6,101.5 532.9,79.0 552.1,91.5 571.4,111.4 590.6,148.2 609.8,124.5 629.1,107.8 648.3,107.6 667.5,120.0 686.8,165.1 706.0,165.5" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="231.1" r="2.4" fill="#1a1a1a"/><circle cx="71.2" cy="192.4" r="2.4" fill="#1a1a1a"/><circle cx="90.5" cy="201.6" r="2.4" fill="#1a1a1a"/><circle cx="109.7" cy="182.3" r="2.4" fill="#1a1a1a"/><circle cx="128.9" cy="75.6" r="2.4" fill="#1a1a1a"/><circle cx="148.2" cy="168.8" r="2.4" fill="#1a1a1a"/><circle cx="167.4" cy="104.5" r="2.4" fill="#1a1a1a"/><circle cx="186.6" cy="157.7" r="2.4" fill="#1a1a1a"/><circle cx="205.9" cy="67.7" r="2.4" fill="#1a1a1a"/><circle cx="225.1" cy="106.5" r="2.4" fill="#1a1a1a"/><circle cx="244.4" cy="98.2" r="2.4" fill="#1a1a1a"/><circle cx="263.6" cy="124.9" r="2.4" fill="#1a1a1a"/><circle cx="282.8" cy="114.3" r="2.4" fill="#1a1a1a"/><circle cx="302.1" cy="103.9" r="2.4" fill="#1a1a1a"/><circle cx="321.3" cy="62.5" r="2.4" fill="#1a1a1a"/><circle cx="340.5" cy="80.7" r="2.4" fill="#1a1a1a"/><circle cx="359.8" cy="100.9" r="2.4" fill="#1a1a1a"/><circle cx="379.0" cy="60.7" r="2.4" fill="#1a1a1a"/><circle cx="398.2" cy="93.1" r="2.4" fill="#1a1a1a"/><circle cx="417.5" cy="105.1" r="2.4" fill="#1a1a1a"/><circle cx="436.7" cy="82.4" r="2.4" fill="#1a1a1a"/><circle cx="455.9" cy="99.0" r="2.4" fill="#1a1a1a"/><circle cx="475.2" cy="95.7" r="2.4" fill="#1a1a1a"/><circle cx="494.4" cy="56.9" r="2.4" fill="#1a1a1a"/><circle cx="513.6" cy="101.5" r="2.4" fill="#1a1a1a"/><circle cx="532.9" cy="79.0" r="2.4" fill="#1a1a1a"/><circle cx="552.1" cy="91.5" r="2.4" fill="#1a1a1a"/><circle cx="571.4" cy="111.4" r="2.4" fill="#1a1a1a"/><circle cx="590.6" cy="148.2" r="2.4" fill="#1a1a1a"/><circle cx="609.8" cy="124.5" r="2.4" fill="#1a1a1a"/><circle cx="629.1" cy="107.8" r="2.4" fill="#1a1a1a"/><circle cx="648.3" cy="107.6" r="2.4" fill="#1a1a1a"/><circle cx="667.5" cy="120.0" r="2.4" fill="#1a1a1a"/><circle cx="686.8" cy="165.1" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="165.5" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2023-11</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-09</text></svg></div>
+<script type="application/json" id="issuer-chart-data">{"stack-infrastructure-issuer":{"name":"Stack Infrastructure Issuer LLC","price":[[1700049600000,92.9941405],[1702641600000,94.7968745],[1705320000000,94.3671875],[1707998400000,95.265625],[1710504000000,100.238281],[1713182400000,95.896484],[1715774400000,98.890625],[1718452800000,96.412109],[1721044800000,100.605468],[1723723200000,98.7968745],[1726401600000,99.183593],[1728993600000,97.941406],[1731672000000,98.4375],[1734264000000,98.9218745],[1736942400000,100.851562],[1739620800000,100.0],[1742040000000,99.0605465],[1744718400000,100.933593],[1747310400000,99.421875],[1749988800000,98.863281],[1752580800000,99.9238275],[1755259200000,99.148437],[1757937600000,99.304687],[1760529600000,101.109375],[1763208000000,99.03125],[1765800000000,100.080078],[1768478400000,99.5],[1771156800000,98.5703125],[1773576000000,96.855468],[1776254400000,97.960937],[1778846400000,98.736328],[1781524800000,98.75],[1784116800000,98.1699215],[1786795200000,96.066406],[1789473600000,96.048828]],"vol":[[1700049600000,5],[1702641600000,6],[1705320000000,5],[1707998400000,8],[1710504000000,23],[1713182400000,3],[1715774400000,10],[1718452800000,4],[1721044800000,17],[1723723200000,14],[1726401600000,8],[1728993600000,13],[1731672000000,5],[1734264000000,7],[1736942400000,11],[1739620800000,9],[1742040000000,8],[1744718400000,7],[1747310400000,41],[1749988800000,22],[1752580800000,13],[1755259200000,13],[1757937600000,8],[1760529600000,7],[1763208000000,30],[1765800000000,21],[1768478400000,14],[1771156800000,9],[1773576000000,11],[1776254400000,12],[1778846400000,13],[1781524800000,14],[1784116800000,13],[1786795200000,5],[1789473600000,19]]}}</script>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-stack-infrastructure-issuer" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
+<colgroup><col style="width:100px"><col style="width:84px"><col style="width:140px"><col style="width:110px"><col style="width:92px"></colgroup>
+<thead><tr><th>Month</th><th>Trades</th><th>Median last print</th><th>Priced bonds</th><th>Below 90</th></tr></thead>
+<tbody>
+<tr><td data-v="2026-09">Sep 2026</td><td data-v="19">19</td><td data-v="96.048828">96.05</td><td data-v="4">4</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-08">Aug 2026</td><td data-v="5">5</td><td data-v="96.066406">96.07</td><td data-v="1">1</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-07">Jul 2026</td><td data-v="13">13</td><td data-v="98.1699215">98.17</td><td data-v="2">2</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-06">Jun 2026</td><td data-v="14">14</td><td data-v="98.75">98.75</td><td data-v="2">2</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-05">May 2026</td><td data-v="13">13</td><td data-v="98.736328">98.74</td><td data-v="2">2</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-04">Apr 2026</td><td data-v="12">12</td><td data-v="97.960937">97.96</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-03">Mar 2026</td><td data-v="11">11</td><td data-v="96.855468">96.86</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-02">Feb 2026</td><td data-v="9">9</td><td data-v="98.5703125">98.57</td><td data-v="2">2</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-01">Jan 2026</td><td data-v="14">14</td><td data-v="99.5">99.50</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-12">Dec 2025</td><td data-v="21">21</td><td data-v="100.080078">100.08</td><td data-v="4">4</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-11">Nov 2025</td><td data-v="30">30</td><td data-v="99.03125">99.03</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-10">Oct 2025</td><td data-v="7">7</td><td data-v="101.109375">101.11</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-09">Sep 2025</td><td data-v="8">8</td><td data-v="99.304687">99.30</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+</tbody></table></div>
+
+<h2>Fund holders on record</h2>
+<p class="data-vintage">Principal across the issuer&rsquo;s bonds · N-PORT report period 31 Jul 2026</p>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-f-stack-infrastructure-issuer" data-def="[320, 130, 96, 100]" data-min="[180, 92, 76, 76]" data-fixed="[]">
+<colgroup><col style="width:320px"><col style="width:130px"><col style="width:96px"><col style="width:100px"></colgroup>
+<thead><tr><th>Fund complex</th><th>Principal ($M)</th><th>Positions</th><th>Bonds held</th></tr></thead>
+<tbody>
+<tr><td data-v="Neuberger Strategic Income Fund">Neuberger Strategic Income Fund</td><td data-v="7719000">8</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="BNY Mellon Core Plus Fund">BNY Mellon Core Plus Fund</td><td data-v="5553938">6</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Janus Henderson Securitized Income ETF">Janus Henderson Securitized Income ETF</td><td data-v="3625000">4</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Neuberger Core Bond Fund">Neuberger Core Bond Fund</td><td data-v="2254000">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Victory Short-Term Bond Fund">Victory Short-Term Bond Fund</td><td data-v="1929740">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="THE HARTFORD TOTAL RETURN BOND FUND">THE HARTFORD TOTAL RETURN BOND FUND</td><td data-v="1870000">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Loomis Sayles Full Discretion Institutional Securitized Fund">Loomis Sayles Full Discretion Institutional Securitized Fund</td><td data-v="1765000">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Victory Core Plus Intermediate Bond Fund">Victory Core Plus Intermediate Bond Fund</td><td data-v="1762489">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="SIIT LIMITED DURATION BOND FUND">SIIT LIMITED DURATION BOND FUND</td><td data-v="1705000">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Victory Income Fund">Victory Income Fund</td><td data-v="1625044">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Putnam Income Fund">Putnam Income Fund</td><td data-v="1538000">2</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="PACE Strategic Fixed Income Investments">PACE Strategic Fixed Income Investments</td><td data-v="1413000">1</td><td data-v="2">2</td><td data-v="2">2</td></tr>
+<tr><td data-v="Morningstar Total Return Bond Fund">Morningstar Total Return Bond Fund</td><td data-v="1300000">1</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v=" Balanced Fund"> Balanced Fund</td><td data-v="1213922">1</td><td data-v="1">1</td><td data-v="1">1</td></tr>
+<tr><td data-v="Neuberger Short Duration Income ETF">Neuberger Short Duration Income ETF</td><td data-v="1153000">1</td><td data-v="2">2</td><td data-v="2">2</td></tr>
+</tbody></table></div>
+
+<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders). A fund mark is a period-end valuation, not a trade price; holder data is positions at the report period, not trading activity. TRACE names no buyer or seller.</p>
+<script defer src="/js/echarts.min.js"></script>
+<script defer src="/js/issuer_chart.js"></script>
+<script>
+document.querySelectorAll('table.bw-grid').forEach(function(t){
+  var tid = t.getAttribute('data-tid'); if (!tid) return;
+  var ths = Array.prototype.slice.call(t.querySelectorAll(':scope > thead > tr > th'));
+  var n = ths.length;
+  var defs = JSON.parse(t.getAttribute('data-def') || '[]');
+  var mins = JSON.parse(t.getAttribute('data-min') || '[]');
+  var fixed = JSON.parse(t.getAttribute('data-fixed') || '[]');
+  if (defs.length !== n) return;
+  var cg = t.querySelector(':scope > colgroup'); if (!cg) return;
+  var widths = defs.slice(), sort = null, lastDrag = 0;
+  try {
+    var raw = localStorage.getItem('bondwatch:v1:' + tid);
+    if (raw) { var st = JSON.parse(raw);
+      if (st && st.w && st.w.length === n) widths = st.w.map(function(w, i){ var v = parseFloat(w); return isNaN(v) ? defs[i] : Math.max(mins[i] || 40, v); });
+      if (st && st.s) sort = st.s; }
+  } catch (e) {}
+  function apply(){ var sum = 0; for (var i = 0; i < n; i++){ cg.children[i].style.width = widths[i] + 'px'; sum += widths[i]; } t.style.width = sum + 'px'; }
+  function save(){ try { localStorage.setItem('bondwatch:v1:' + tid, JSON.stringify({w: widths, s: sort})); } catch (e) {} }
+  apply();
+  var head = t.querySelector(':scope > thead');
+  function boundary(ev){
+    var best = -1, bestD = 9;
+    for (var i = 0; i < n; i++){
+      if (fixed.indexOf(i) >= 0) continue;
+      var d = Math.abs(ev.clientX - ths[i].getBoundingClientRect().right);
+      if (d < bestD) { bestD = d; best = i; }
+    }
+    return best;
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+    function move(e){
+      var dx = e.clientX - startX;
+      if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
+      else widths[i] = Math.max(mins[i], startW + dx);
+      apply(); lastDrag = Date.now();
+    }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    document.addEventListener('pointermove', move);
+    document.addEventListener('pointerup', up);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    var clone = t.cloneNode(true);
+    clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
+    var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
+    document.body.appendChild(clone);
+    var cths = clone.querySelectorAll(':scope > thead > tr > th');
+    var w = cths[i] ? cths[i].offsetWidth : 0;
+    clone.remove();
+    if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  });
+  function sortRows(i, asc){
+    var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
+    rows.sort(function(a, b){
+      var x = a.children[i], y = b.children[i];
+      var xv = x && x.hasAttribute('data-v') ? x.getAttribute('data-v') : (x ? x.textContent.trim() : '');
+      var yv = y && y.hasAttribute('data-v') ? y.getAttribute('data-v') : (y ? y.textContent.trim() : '');
+      var xn = parseFloat(xv), yn = parseFloat(yv);
+      var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
+      return asc ? c : -c;
+    });
+    var tb = t.querySelector(':scope > tbody');
+    rows.forEach(function(r){ tb.appendChild(r); });
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+    ths[i].classList.add(asc ? 'sasc' : 'sdesc');
+  }
+  if (t.hasAttribute('data-sort')) {
+    ths.forEach(function(th, i){
+      th.addEventListener('click', function(){
+        if (Date.now() - lastDrag < 250) return;
+        var asc = !th.classList.contains('sasc');
+        sort = {i: i, asc: asc};
+        sortRows(i, asc); save();
+      });
+    });
+    if (sort && sort.i < n) sortRows(sort.i, sort.asc);
+  }
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    th.setAttribute('tabindex', '0');
+    th.addEventListener('keydown', function(ev){
+      if (!ev.altKey) return;
+      if (ev.key === 'ArrowRight') { widths[i] += 8; apply(); save(); ev.preventDefault(); }
+      if (ev.key === 'ArrowLeft') { widths[i] = Math.max(mins[i], widths[i] - 8); apply(); save(); ev.preventDefault(); }
+    });
+  });
+  var rb = document.querySelector('[data-reset-for="' + tid + '"]');
+  if (rb) rb.addEventListener('click', function(){
+    try { localStorage.removeItem('bondwatch:v1:' + tid); } catch (e) {}
+    widths = defs.slice(); sort = null; apply();
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+  });
+});
+</script>
