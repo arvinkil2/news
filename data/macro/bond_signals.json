@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-15T11:54:48-04:00",
+ "as_of": "2026-10-15T12:05:09-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -1156,6 +1156,23 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "86800UAF1-flag-2026-10-15"
+  },
+  {
+   "cusip": "573874AJ3",
+   "issuer": "MARVELL TECHNOLOGY INC",
+   "security": "2.95% Notes due 2031",
+   "price": 89.298,
+   "prev_price": 88.994708,
+   "trade_date": "2026-10-15",
+   "trade_time": "11:58:05",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 4595,
+   "fired_at": "2026-10-15T12:05:09-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "573874AJ3-flag-2026-10-15"
   }
  ]
 }
