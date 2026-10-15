@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-15T12:19:40-04:00",
+ "as_of": "2026-10-15T12:35:17-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -1173,6 +1173,74 @@
    "level": "flag",
    "rule": "new trade printed below 90",
    "id": "573874AJ3-flag-2026-10-15"
+  },
+  {
+   "cusip": "482480AH3",
+   "issuer": "KLA CORP",
+   "security": "5% Notes due 2049",
+   "price": 84.878,
+   "prev_price": 83.505,
+   "trade_date": "2026-10-15",
+   "trade_time": "12:11:19",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 1586,
+   "fired_at": "2026-10-15T12:35:17-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "482480AH3-flag-2026-10-15"
+  },
+  {
+   "cusip": "482480AJ9",
+   "issuer": "KLA CORP",
+   "security": "3.3% Notes due 2050",
+   "price": 64.43,
+   "prev_price": 63.604,
+   "trade_date": "2026-10-15",
+   "trade_time": "12:07:21",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2637,
+   "fired_at": "2026-10-15T12:35:17-04:00",
+   "level": "tier1",
+   "rule": "print below 75",
+   "id": "482480AJ9-below75-2026-10-15"
+  },
+  {
+   "cusip": "482480AJ9",
+   "issuer": "KLA CORP",
+   "security": "3.3% Notes due 2050",
+   "price": 64.43,
+   "prev_price": 63.604,
+   "trade_date": "2026-10-15",
+   "trade_time": "12:07:21",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2637,
+   "fired_at": "2026-10-15T12:35:17-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "482480AJ9-flag-2026-10-15"
+  },
+  {
+   "cusip": "482480AM2",
+   "issuer": "KLA CORP",
+   "security": "4.95% Notes due 2052",
+   "price": 83.893,
+   "prev_price": 82.867,
+   "trade_date": "2026-10-15",
+   "trade_time": "12:02:05",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 4773,
+   "fired_at": "2026-10-15T12:35:17-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "482480AM2-flag-2026-10-15"
   }
  ]
 }
