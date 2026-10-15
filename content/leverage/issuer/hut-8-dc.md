@@ -7,13 +7,13 @@ data_as_of: "2026-10-15"
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>2</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>1,492</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>93.87</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 2</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>15 Oct 2026</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>2</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>1,492</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>93.85</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 2</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>15 Oct 2026</dd></div></dl>
 <h2>Bonds</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-hut-8-dc" data-def="[300, 124, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
 <thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>Trades</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td data-v="HUT 8 DC LLC — 6.192% Notes due 2042"><a class="bond-link" href="/leverage/bond/44813daa4/"><span class="bond-name">HUT 8 DC LLC</span><span class="bond-sub">6.192% Notes due 2042</span></a></td><td data-v="93.86829">93.868</td><td data-v="2026-10-15">15 Oct 2026</td><td data-v="6.192">6.192</td><td data-v="2042-11-15">15 Nov 2042</td><td data-v="BBB-" title="S&amp;P BBB-, rated 23 Sep 2026">BBB-</td><td data-v="1466">1,466</td><td data-v="44813DAA4">44813DAA4</td></tr>
+<tr><td data-v="HUT 8 DC LLC — 6.192% Notes due 2042"><a class="bond-link" href="/leverage/bond/44813daa4/"><span class="bond-name">HUT 8 DC LLC</span><span class="bond-sub">6.192% Notes due 2042</span></a></td><td data-v="93.83704">93.837</td><td data-v="2026-10-15">15 Oct 2026</td><td data-v="6.192">6.192</td><td data-v="2042-11-15">15 Nov 2042</td><td data-v="BBB-" title="S&amp;P BBB-, rated 23 Sep 2026">BBB-</td><td data-v="1466">1,466</td><td data-v="44813DAA4">44813DAA4</td></tr>
 <tr><td data-v="HUT 8 DC LLC — 6.192% Notes due 2042"><a class="bond-link" href="/leverage/bond/u43898aa0/"><span class="bond-name">HUT 8 DC LLC</span><span class="bond-sub">6.192% Notes due 2042</span></a></td><td data-v="93.863">93.863</td><td data-v="2026-09-29">29 Sep 2026</td><td data-v="6.192">6.192</td><td data-v="2042-11-15">15 Nov 2042</td><td data-v="BBB-" title="S&amp;P BBB-, rated 23 Sep 2026">BBB-</td><td data-v="26">26</td><td data-v="U43898AA0">U43898AA0</td></tr>
 </tbody></table></div>
 
