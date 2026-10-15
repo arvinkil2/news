@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-15T12:35:17-04:00",
+ "as_of": "2026-10-15T12:50:24-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -1241,6 +1241,23 @@
    "level": "flag",
    "rule": "new trade printed below 90",
    "id": "482480AM2-flag-2026-10-15"
+  },
+  {
+   "cusip": "512807AV0",
+   "issuer": "LAM RESH CORP",
+   "security": "1.9% Notes due 2030",
+   "price": 88.781,
+   "prev_price": 88.483722,
+   "trade_date": "2026-10-15",
+   "trade_time": "12:37:17",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 3384,
+   "fired_at": "2026-10-15T12:50:24-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "512807AV0-flag-2026-10-15"
   }
  ]
 }
