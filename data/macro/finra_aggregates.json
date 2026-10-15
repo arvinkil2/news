@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-14",
+ "generated": "2026-10-15",
  "window": [
-  "2026-10-04",
-  "2026-10-14"
+  "2026-10-05",
+  "2026-10-15"
  ],
  "source": "FINRA Query API, Public credential",
  "datasets": {
@@ -314,6 +314,50 @@
     "fiftyTwoWeekHigh": 4,
     "productCategory": "convertibles",
     "fiftyTwoWeekLow": 27
+   },
+   {
+    "declines": 6575,
+    "totalVolume": 47807.404776,
+    "advances": 5802,
+    "unchanged": 91,
+    "totalTrades": 13201,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 276,
+    "productCategory": "all securities",
+    "fiftyTwoWeekLow": 1113
+   },
+   {
+    "declines": 5480,
+    "totalVolume": 38511.045393,
+    "advances": 5180,
+    "unchanged": 70,
+    "totalTrades": 11075,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 66,
+    "productCategory": "investment grade",
+    "fiftyTwoWeekLow": 800
+   },
+   {
+    "declines": 948,
+    "totalVolume": 7034.764383,
+    "advances": 582,
+    "unchanged": 18,
+    "totalTrades": 1931,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 203,
+    "productCategory": "high yield",
+    "fiftyTwoWeekLow": 275
+   },
+   {
+    "declines": 147,
+    "totalVolume": 2261.595,
+    "advances": 40,
+    "unchanged": 3,
+    "totalTrades": 195,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 7,
+    "productCategory": "convertibles",
+    "fiftyTwoWeekLow": 38
    }
   ],
   "corporate144AMarketBreadth": [
@@ -624,6 +668,50 @@
     "fiftyTwoWeekHigh": 2,
     "productCategory": "convertibles",
     "fiftyTwoWeekLow": 29
+   },
+   {
+    "declines": 2273,
+    "totalVolume": 26296.130833,
+    "advances": 798,
+    "unchanged": 43,
+    "totalTrades": 3231,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 27,
+    "productCategory": "all securities",
+    "fiftyTwoWeekLow": 415
+   },
+   {
+    "declines": 773,
+    "totalVolume": 6489.841196,
+    "advances": 500,
+    "unchanged": 10,
+    "totalTrades": 1357,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 17,
+    "productCategory": "investment grade",
+    "fiftyTwoWeekLow": 156
+   },
+   {
+    "declines": 1404,
+    "totalVolume": 15409.504636,
+    "advances": 284,
+    "unchanged": 33,
+    "totalTrades": 1761,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 7,
+    "productCategory": "high yield",
+    "fiftyTwoWeekLow": 210
+   },
+   {
+    "declines": 96,
+    "totalVolume": 4396.785,
+    "advances": 14,
+    "unchanged": 0,
+    "totalTrades": 113,
+    "tradeReportDate": "2026-10-14",
+    "fiftyTwoWeekHigh": 3,
+    "productCategory": "convertibles",
+    "fiftyTwoWeekLow": 49
    }
   ],
   "corporateMarketSentiment": [
@@ -2640,6 +2728,294 @@
     "totalTransactions": 107,
     "totalTrades": 76,
     "tradeReportDate": "2026-10-13",
+    "tradeType": "equity linked notes",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 47831.694746,
+    "totalTransactions": 157459,
+    "totalTrades": 13312,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 16432.733654,
+    "totalTransactions": 39683,
+    "totalTrades": 9915,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 15847.161891,
+    "totalTransactions": 50945,
+    "totalTrades": 9397,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 2427.331496,
+    "totalTransactions": 4176,
+    "totalTrades": 2849,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 2416.624535,
+    "totalTransactions": 5431,
+    "totalTrades": 3457,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 10707.843168,
+    "totalTransactions": 57224,
+    "totalTrades": 10209,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "all securities",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 38511.045393,
+    "totalTransactions": 140564,
+    "totalTrades": 11076,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 12963.841914,
+    "totalTransactions": 35085,
+    "totalTrades": 8343,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 12594.724557,
+    "totalTransactions": 46588,
+    "totalTrades": 8248,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 1990.179149,
+    "totalTransactions": 3721,
+    "totalTrades": 2522,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 1986.067176,
+    "totalTransactions": 4677,
+    "totalTrades": 2854,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 8976.232595,
+    "totalTransactions": 50493,
+    "totalTrades": 8629,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "investment grade",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 7034.764383,
+    "totalTransactions": 15603,
+    "totalTrades": 1931,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 2273.10631,
+    "totalTransactions": 3996,
+    "totalTrades": 1319,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 2241.810798,
+    "totalTransactions": 4001,
+    "totalTrades": 1005,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 425.473347,
+    "totalTransactions": 439,
+    "totalTrades": 314,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 406.211857,
+    "totalTransactions": 697,
+    "totalTrades": 553,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 1688.162069,
+    "totalTransactions": 6470,
+    "totalTrades": 1428,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "high yield",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 2261.595,
+    "totalTransactions": 1048,
+    "totalTrades": 195,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 1184.395,
+    "totalTransactions": 498,
+    "totalTrades": 171,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 1010.572,
+    "totalTransactions": 351,
+    "totalTrades": 139,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 11.679,
+    "totalTransactions": 16,
+    "totalTrades": 13,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 20.43,
+    "totalTransactions": 18,
+    "totalTrades": 12,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 34.519,
+    "totalTransactions": 165,
+    "totalTrades": 76,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "convertible bonds",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 0.086,
+    "totalTransactions": 7,
+    "totalTrades": 4,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 0.048,
+    "totalTransactions": 4,
+    "totalTrades": 4,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 0.038,
+    "totalTransactions": 3,
+    "totalTrades": 3,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 0,
+    "totalTransactions": 0,
+    "totalTrades": 0,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 0,
+    "totalTransactions": 0,
+    "totalTrades": 0,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 0,
+    "totalTransactions": 0,
+    "totalTrades": 0,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "church bonds",
+    "productCategory": "inter-dealer"
+   },
+   {
+    "totalVolume": 24.203969,
+    "totalTransactions": 237,
+    "totalTrades": 106,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "equity linked notes",
+    "productCategory": "all securities"
+   },
+   {
+    "totalVolume": 11.342429,
+    "totalTransactions": 100,
+    "totalTrades": 78,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "equity linked notes",
+    "productCategory": "customer buy"
+   },
+   {
+    "totalVolume": 0.016535,
+    "totalTransactions": 2,
+    "totalTrades": 2,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "equity linked notes",
+    "productCategory": "customer sell"
+   },
+   {
+    "totalVolume": 0,
+    "totalTransactions": 0,
+    "totalTrades": 0,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "equity linked notes",
+    "productCategory": "affiliate buy"
+   },
+   {
+    "totalVolume": 3.915502,
+    "totalTransactions": 39,
+    "totalTrades": 38,
+    "tradeReportDate": "2026-10-14",
+    "tradeType": "equity linked notes",
+    "productCategory": "affiliate sell"
+   },
+   {
+    "totalVolume": 8.929502,
+    "totalTransactions": 96,
+    "totalTrades": 76,
+    "tradeReportDate": "2026-10-14",
     "tradeType": "equity linked notes",
     "productCategory": "inter-dealer"
    }
