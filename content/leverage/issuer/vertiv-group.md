@@ -7,7 +7,7 @@ data_as_of: "2026-10-15"
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>3</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>3,662</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>98.30</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 3</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>15 Oct 2026</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>3</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>3,662</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>98.36</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 3</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>15 Oct 2026</dd></div></dl>
 <h2>Bonds</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-vertiv-group" data-def="[300, 124, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
@@ -15,7 +15,7 @@ data_as_of: "2026-10-15"
 <tbody>
 <tr><td data-v="VERTIV GROUP CORP — 4.125% Notes due 2028"><a class="bond-link" href="/leverage/bond/92535uab0/"><span class="bond-name">VERTIV GROUP CORP</span><span class="bond-sub">4.125% Notes due 2028</span></a></td><td data-v="98.145">98.145</td><td data-v="2026-10-15">15 Oct 2026</td><td data-v="4.125">4.125</td><td data-v="2028-11-15">15 Nov 2028</td><td data-v="BBB-" title="S&amp;P BBB-, rated 12 Feb 2026; Moody's Baa2, rated 19 Feb 2026">BBB-</td><td data-v="3267">3,267</td><td data-v="92535UAB0">92535UAB0</td></tr>
 <tr><td data-v="VERTIV GROUP CORP — 4.125% Notes due 2028"><a class="bond-link" href="/leverage/bond/92535uac8/"><span class="bond-name">VERTIV GROUP CORP</span><span class="bond-sub">4.125% Notes due 2028</span></a></td><td data-v="99.02">99.020</td><td data-v="2026-07-21">21 Jul 2026</td><td data-v="4.125">4.125</td><td data-v="2028-11-15">15 Nov 2028</td><td data-v="BBB-" title="S&amp;P BBB-, rated 12 Feb 2026; Moody's Baa2, rated 19 Feb 2026">BBB-</td><td data-v="42">42</td><td data-v="92535UAC8">92535UAC8</td></tr>
-<tr><td data-v="VERTIV GROUP CORP — 4.125% Notes due 2028"><a class="bond-link" href="/leverage/bond/u9222uab9/"><span class="bond-name">VERTIV GROUP CORP</span><span class="bond-sub">4.125% Notes due 2028</span></a></td><td data-v="98.3">98.300</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="4.125">4.125</td><td data-v="2028-11-15">15 Nov 2028</td><td data-v="BBB-" title="S&amp;P BBB-, rated 12 Feb 2026">BBB-</td><td data-v="353">353</td><td data-v="U9222UAB9">U9222UAB9</td></tr>
+<tr><td data-v="VERTIV GROUP CORP — 4.125% Notes due 2028"><a class="bond-link" href="/leverage/bond/u9222uab9/"><span class="bond-name">VERTIV GROUP CORP</span><span class="bond-sub">4.125% Notes due 2028</span></a></td><td data-v="98.36">98.360</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="4.125">4.125</td><td data-v="2028-11-15">15 Nov 2028</td><td data-v="BBB-" title="S&amp;P BBB-, rated 12 Feb 2026">BBB-</td><td data-v="353">353</td><td data-v="U9222UAB9">U9222UAB9</td></tr>
 </tbody></table></div>
 
 <h2>Trend · month-end</h2>
