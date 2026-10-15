@@ -1,7 +1,7 @@
 ---
 title: "CoreWeave bonds slide into distress as shares fall 14 percent"
 date: 2026-10-14T14:43:48-04:00
-last_updated: 2026-10-15T02:04:15-04:00
+last_updated: 2026-10-15T08:04:09-04:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -24,9 +24,15 @@ sources:
     publisher: "Reuters"
     url: "https://kelofm.com/2026/10/15/ai-credit-default-swap-spreads-widen-sharply/"
     published: "2026-10-15"
+  - title: "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheets"
+    publisher: "InvestingLive, reporting CNBC"
+    url: "https://investinglive.com/stocks/coreweave-bonds-trade-like-distressed-debt-as-ai-spending-outpaces-balance-sheets/"
+    published: "2026-10-15"
 tags: []
 data_as_of: "Updated Thursday, October 15, 2026, overnight Toronto time with Reuters reporting from Singapore on credit default swap levels, S&P Global Market Intelligence and LSEG data, opened and read in full in syndication; Reuters puts CoreWeave's debt at nearly 50 billion dollars on LSEG data, against the about 52 billion dollars of debt and lease obligations at the end of June carried in the October 14 reporting below. Original item Wednesday, October 14, 2026, intraday: bond and share figures are MoneyCheck's report of Wednesday trading, read in full, corroborating Bloomberg's report that the bonds have fallen to distressed levels."
 ---
+
+**Latest (08:04 ET):** CoreWeave has pushed back against the selloff. Chief executive Mike Intrator told staff in an internal memo that the market reaction was irrational and that the company's contracted backlog, reported at about 104 billion dollars, more than covers its debt obligations, CNBC reported. The memo is the company's first response since its bonds fell into distressed territory on Wednesday.
 
 Latest: The selloff widened from CoreWeave's bonds into the price of default insurance across the AI trade overnight. Reuters reported that five-year credit default swap spreads for CoreWeave have blown out past 1,000 basis points, while Oracle's widened by 26 basis points to a record 288 basis points and SoftBank's by 24 to 424, with spreads for Amazon, Alphabet, Meta and Nvidia also at record-wide levels, if far smaller. CoreWeave's 2032 paper was changing hands at 77 cents on the dollar, down from 79.50 on Wednesday, and its shares, down 15 percent on Wednesday, fell a further 6 percent after the close.
 
