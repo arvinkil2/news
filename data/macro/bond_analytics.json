@@ -2,6 +2,34 @@
  "as_of": "2026-10-14",
  "analyses": {
   "fund_dispersion": {
+   "distribution": [
+    {
+     "lo": 0,
+     "hi": 0.5,
+     "n": 44
+    },
+    {
+     "lo": 0.5,
+     "hi": 1,
+     "n": 12
+    },
+    {
+     "lo": 1,
+     "hi": 2,
+     "n": 0
+    },
+    {
+     "lo": 2,
+     "hi": 3,
+     "n": 1
+    },
+    {
+     "lo": 3,
+     "hi": null,
+     "n": 0
+    }
+   ],
+   "median_range_pts": 0.18,
    "method": "Per-fund implied marks (value / principal x 100) from N-PORT holdings at each CUSIP's latest report period, against the principal-weighted aggregate mark.",
    "limits": "Dispersion measures disagreement between funds at one period end. It does not measure staleness against the tape: no tape exists at the July period end.",
    "summary": {
@@ -433,6 +461,37 @@
    ]
   },
   "gap_convergence": {
+   "distribution": [
+    {
+     "label": "< -15",
+     "n": 3
+    },
+    {
+     "label": "-15 to -10",
+     "n": 3
+    },
+    {
+     "label": "-10 to -5",
+     "n": 7
+    },
+    {
+     "label": "-5 to 0",
+     "n": 46
+    },
+    {
+     "label": "0 to +5",
+     "n": 17
+    },
+    {
+     "label": "> +5",
+     "n": 0
+    }
+   ],
+   "quartiles": {
+    "q1": -3.29,
+    "median": -1.73,
+    "q3": -0.05
+   },
    "method": "Gap = last TRACE trade price minus latest fund mark. The implied adjustment is the move the next mark must make to reach the current tape, if the tape holds.",
    "limits": "Convergence speed is first measurable when the 2026-10-31 marks are filed (about 60 days after period end). This section measures the stock of unadjusted gap, not yet its decay rate.",
    "summary": {
@@ -1918,11 +1977,148 @@
    ]
   },
   "liquidity": {
+   "heatmap": {
+    "weeks": [
+     "2026-10-05 00:00:00",
+     "2026-10-12 00:00:00"
+    ],
+    "rows": [
+     {
+      "issuer": "COREWEAVE INC",
+      "counts": [
+       220,
+       677
+      ],
+      "total": 897
+     },
+     {
+      "issuer": "GALAXY HELIOS DATA CNTR",
+      "counts": [
+       37,
+       77
+      ],
+      "total": 114
+     },
+     {
+      "issuer": "CoreWeave Inc.",
+      "counts": [
+       32,
+       74
+      ],
+      "total": 106
+     },
+     {
+      "issuer": "COREWEAVE, INC.",
+      "counts": [
+       33,
+       69
+      ],
+      "total": 102
+     },
+     {
+      "issuer": "SOPAIPILLA INVESTOR LLC",
+      "counts": [
+       26,
+       53
+      ],
+      "total": 79
+     },
+     {
+      "issuer": "BEIGNET INVESTOR LLC",
+      "counts": [
+       24,
+       33
+      ],
+      "total": 57
+     },
+     {
+      "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
+      "counts": [
+       24,
+       30
+      ],
+      "total": 54
+     },
+     {
+      "issuer": "Beignet Investor LLC",
+      "counts": [
+       2,
+       4
+      ],
+      "total": 6
+     },
+     {
+      "issuer": "Retained Vantage Data Centers Issuer, LLC",
+      "counts": [
+       1,
+       1
+      ],
+      "total": 2
+     },
+     {
+      "issuer": "Vantage Data Centers LLC",
+      "counts": [
+       2,
+       0
+      ],
+      "total": 2
+     },
+     {
+      "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
+      "counts": [
+       0,
+       1
+      ],
+      "total": 1
+     },
+     {
+      "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
+      "counts": [
+       0,
+       1
+      ],
+      "total": 1
+     },
+     {
+      "issuer": "QTS ISSUER ABS II LLC",
+      "counts": [
+       0,
+       1
+      ],
+      "total": 1
+     },
+     {
+      "issuer": "QTS Issuer ABS II LLC",
+      "counts": [
+       0,
+       1
+      ],
+      "total": 1
+     },
+     {
+      "issuer": "RETAINED VANTAGE DATA CENTERS ISSUER LLC",
+      "counts": [
+       1,
+       0
+      ],
+      "total": 1
+     },
+     {
+      "issuer": "Vantage Data Centers Issuer",
+      "counts": [
+       1,
+       0
+      ],
+      "total": 1
+     }
+    ]
+   },
    "method": "Stored TRACE trades per watched bond over the collection window, with the trailing 7-day count and days since the last trade, both measured at the tape end date.",
    "limits": "The window starts 2026-10-07 and lengthens daily. Absence of trades is evidence about liquidity, not about value.",
    "summary": {
     "window_start": "2026-10-07",
     "tape_end": "2026-10-14",
+    "total_trades_all": 20069,
     "total_trades": 1425,
     "traded_last_7d": 20,
     "silent_last_7d": 60
