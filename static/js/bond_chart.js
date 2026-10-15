@@ -1,11 +1,15 @@
 /* Bond detail chart (Apache ECharts). Progressive enhancement: the
    container holds a server-rendered SVG fallback; this script
    replaces it with an interactive chart built from the JSON data
-   block on the same page. Trades are aggregated to one candlestick
-   per trade date: the candle spans the day's first print (open) to
-   its last print (close), with the day's high and low as the wicks.
-   Fund marks are hollow squares at period end. Volume is the day
-   total of reported floors, in a separate panel. */
+   block on the same page. Trades are aggregated to one point per
+   trade date: the line is the day's last print, the whisker at
+   each point spans the day's high and low prints, and the line
+   breaks across gaps longer than 30 days (these bonds trade
+   episodically; the chart does not imply a continuous market).
+   The yield view is the same construction from the day's yield
+   values; days whose trades carry no yield never enter it.
+   Fund marks are hollow squares at period end, price view only.
+   Volume is the day total of reported floors, in a lower panel. */
 (function () {
   "use strict";
   var box = document.querySelector(".bond-chart-e");
@@ -17,15 +21,16 @@
   var trades = D.t || [];   /* [ts, price, yield, volFloor|null] */
   var marks = D.m || [];    /* [ts, price] */
   if (!trades.length && !marks.length) return;
-  var INK = "#3f4750", MARK = "#b25f09", GRID = "#e3ded2";
-  var UP_BORDER = "#1a7f37", UP_FILL = "#fdfcf8", DOWN = "#b42318";
+  var DAY = 86400000;
+  var INK = "#3f4750", MARK = "#b25f09", GRID = "#e3ded2",
+      WHISK = "#a8adb3";
 
   /* Daily aggregation. Embed timestamps are the trade datetime
      (naive UTC epoch) plus 12 hours, so the trade date is the UTC
      date of (ts - 12h). Trades arrive sorted by (date, time), so
-     within a day the first row is the open and the last the close.
-     The candle sits at noon UTC on the trade date. */
-  var days = [];            /* day records, ascending */
+     the last row of a day is its last print. The point sits at
+     noon UTC on the trade date. */
+  var days = [];
   var dayByTs = {};
   trades.forEach(function (r) {
     var d = new Date(r[0] - 12 * 3600 * 1000);
@@ -34,20 +39,18 @@
     var g = dayByTs[x];
     if (!g) {
       g = dayByTs[x] = { x: x, n: 0,
-        po: null, ph: null, pl: null, pc: null,
-        yo: null, yh: null, yl: null, yc: null,
+        pc: null, ph: null, pl: null,
+        yc: null, yh: null, yl: null,
         vol: 0, volN: 0 };
       days.push(g);
     }
     g.n += 1;
     if (r[1] !== null && r[1] !== undefined) {
-      if (g.po === null) g.po = r[1];
       g.pc = r[1];
       g.ph = g.ph === null ? r[1] : Math.max(g.ph, r[1]);
       g.pl = g.pl === null ? r[1] : Math.min(g.pl, r[1]);
     }
     if (r[2] !== null && r[2] !== undefined) {
-      if (g.yo === null) g.yo = r[2];
       g.yc = r[2];
       g.yh = g.yh === null ? r[2] : Math.max(g.yh, r[2]);
       g.yl = g.yl === null ? r[2] : Math.min(g.yl, r[2]);
@@ -56,7 +59,18 @@
       g.vol += r[3]; g.volN += 1;
     }
   });
+  var yieldDays = days.filter(function (g) { return g.yc !== null; });
 
+  function gapped(pts, maxDays) {
+    var out = [];
+    for (var i = 0; i < pts.length; i++) {
+      if (i && pts[i][0] - pts[i - 1][0] > maxDays * DAY) {
+        out.push([pts[i][0] - 1, null]);
+      }
+      out.push(pts[i]);
+    }
+    return out;
+  }
   function fmtVol(v) {
     if (v === null || v === undefined) return "n/a";
     return "$" + Math.round(v).toLocaleString("en-US");
@@ -70,23 +84,43 @@
 
   function option(mode) {
     var isPrice = mode === "price";
-    var candles = [], vPts = [];
+    var src = isPrice ? days : yieldDays;
+    var linePts = [], whisk = [], vPts = [];
+    src.forEach(function (g) {
+      var c = isPrice ? g.pc : g.yc,
+          h = isPrice ? g.ph : g.yh,
+          l = isPrice ? g.pl : g.yl;
+      if (c === null) return;
+      linePts.push([g.x, c]);
+      whisk.push([g.x, l, h]);
+    });
     days.forEach(function (g) {
-      var o = isPrice ? g.po : g.yo, h = isPrice ? g.ph : g.yh,
-          l = isPrice ? g.pl : g.yl, c = isPrice ? g.pc : g.yc;
-      if (o !== null && h !== null && l !== null && c !== null) {
-        candles.push([g.x, o, c, l, h]);
-      }
       if (g.volN) vPts.push([g.x, g.vol]);
     });
     var series = [
-      { name: isPrice ? "Daily prints (price)" : "Daily prints (yield)",
-        type: "candlestick", xAxisIndex: 0, yAxisIndex: 0,
-        data: candles,
-        itemStyle: { color: UP_FILL, color0: DOWN,
-                     borderColor: UP_BORDER, borderColor0: DOWN,
-                     borderWidth: 1 },
-        emphasis: { itemStyle: { borderWidth: 1 } }, z: 3 },
+      { name: "Daily high–low", type: "custom",
+        xAxisIndex: 0, yAxisIndex: 0, data: whisk, silent: true,
+        renderItem: function (params, api) {
+          var x = api.value(0), lo = api.value(1),
+              hi = api.value(2);
+          var pLo = api.coord([x, lo]), pHi = api.coord([x, hi]);
+          if (Math.abs(pLo[1] - pHi[1]) < 0.6) {
+            return { type: "line",
+              shape: { x1: pLo[0] - 2, y1: pLo[1],
+                       x2: pLo[0] + 2, y2: pLo[1] },
+              style: { stroke: WHISK, lineWidth: 1 } };
+          }
+          return { type: "line",
+            shape: { x1: pLo[0], y1: pLo[1],
+                     x2: pHi[0], y2: pHi[1] },
+            style: { stroke: WHISK, lineWidth: 1 } };
+        }, z: 2 },
+      { name: isPrice ? "Last print (daily)" : "Yield (daily)",
+        type: "line", xAxisIndex: 0, yAxisIndex: 0,
+        data: gapped(linePts, 30), showSymbol: true,
+        symbolSize: 4, connectNulls: false,
+        lineStyle: { width: 1.3, color: INK },
+        itemStyle: { color: INK }, z: 3 },
       { name: "Volume (reported floor)", type: "bar",
         xAxisIndex: 1, yAxisIndex: 1, data: vPts, silent: true,
         itemStyle: { color: INK, opacity: 0.45 }, z: 2 }
@@ -143,15 +177,14 @@
           var out = [fmtDate(ts)];
           var g = dayByTs[ts];
           if (g) {
-            var o = isPrice ? g.po : g.yo,
+            var c = isPrice ? g.pc : g.yc,
                 h = isPrice ? g.ph : g.yh,
-                l = isPrice ? g.pl : g.yl,
-                c = isPrice ? g.pc : g.yc;
-            if (o !== null) {
-              out.push("Open " + o.toFixed(dec));
+                l = isPrice ? g.pl : g.yl;
+            if (c !== null && c !== undefined) {
+              out.push((isPrice ? "Last " : "Yield ") +
+                       c.toFixed(dec));
               out.push("High " + h.toFixed(dec));
               out.push("Low " + l.toFixed(dec));
-              out.push("Close " + c.toFixed(dec));
             }
             out.push("Trades " + g.n.toLocaleString("en-US"));
             out.push("Volume " +
@@ -193,7 +226,16 @@
   chart.setOption(option(mode));
   var bp = document.getElementById("btn-price");
   var by = document.getElementById("btn-yield");
+  if (by && !yieldDays.length) {
+    /* No trade on record carries a yield (common for ABS):
+       do not offer a yield view that would render empty. */
+    by.disabled = true;
+    by.setAttribute("aria-disabled", "true");
+    by.style.opacity = "0.45";
+    by.style.pointerEvents = "none";
+  }
   function setMode(m) {
+    if (m === "yield" && !yieldDays.length) return;
     mode = m;
     if (bp) bp.setAttribute("aria-pressed", m === "price");
     if (by) by.setAttribute("aria-pressed", m === "yield");
