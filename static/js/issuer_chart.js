@@ -77,7 +77,7 @@
       ]
     };
   }
-  function activate(key, scroll) {
+  function activate(key, scroll, writeHash) {
     if (!DATA[key]) key = keys[0];
     Object.keys(panels).forEach(function (k) {
       panels[k].hidden = (k !== key);
@@ -91,7 +91,10 @@
         "Issuer trend chart: " + DATA[key].name);
     }
     if (scroll && panels[key]) panels[key].scrollIntoView();
-    try { history.replaceState(null, "", "#issuer-" + key); } catch (e) {}
+    if (writeHash) {
+      try { history.replaceState(null, "", "#issuer-" + key); }
+      catch (e) {}
+    }
   }
   if (box && window.echarts) {
     box.innerHTML = "";
@@ -101,9 +104,14 @@
   document.querySelectorAll(".issuer-link").forEach(function (a) {
     a.addEventListener("click", function (ev) {
       ev.preventDefault();
-      activate(a.getAttribute("data-key"), true);
+      activate(a.getAttribute("data-key"), true, true);
     });
   });
+  /* On load: show the first issuer's panel and chart, but never
+     scroll and never write the issuer into the URL. Writing the
+     hash on load made later visits land mid-page on CoreWeave,
+     which read as a redirect. The hash is written only after an
+     explicit issuer click. */
   var start = (location.hash || "").replace("#issuer-", "");
-  activate(DATA[start] ? start : keys[0], false);
+  activate(DATA[start] ? start : keys[0], false, false);
 })();
