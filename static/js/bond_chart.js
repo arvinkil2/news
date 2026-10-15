@@ -1,9 +1,11 @@
 /* Bond detail chart (Apache ECharts). Progressive enhancement: the
    container holds a server-rendered SVG fallback; this script
    replaces it with an interactive chart built from the JSON data
-   block on the same page. Trades are points on a true time axis,
-   joined by a line only across gaps of 30 days or less. Fund marks
-   are hollow squares at period end. Volume is a separate panel. */
+   block on the same page. Trades are aggregated to one candlestick
+   per trade date: the candle spans the day's first print (open) to
+   its last print (close), with the day's high and low as the wicks.
+   Fund marks are hollow squares at period end. Volume is the day
+   total of reported floors, in a separate panel. */
 (function () {
   "use strict";
   var box = document.querySelector(".bond-chart-e");
@@ -15,19 +17,46 @@
   var trades = D.t || [];   /* [ts, price, yield, volFloor|null] */
   var marks = D.m || [];    /* [ts, price] */
   if (!trades.length && !marks.length) return;
-  var DAY = 86400000;
-  var INK = "#3f4750", MARK = "#b3541e", GRID = "#e3ded2";
+  var INK = "#3f4750", MARK = "#b25f09", GRID = "#e3ded2";
+  var UP_BORDER = "#1a7f37", UP_FILL = "#fdfcf8", DOWN = "#b42318";
 
-  function gapped(pts, maxDays) {
-    var out = [];
-    for (var i = 0; i < pts.length; i++) {
-      if (i && pts[i][0] - pts[i - 1][0] > maxDays * DAY) {
-        out.push([pts[i][0] - 1, null]);
-      }
-      out.push(pts[i]);
+  /* Daily aggregation. Embed timestamps are the trade datetime
+     (naive UTC epoch) plus 12 hours, so the trade date is the UTC
+     date of (ts - 12h). Trades arrive sorted by (date, time), so
+     within a day the first row is the open and the last the close.
+     The candle sits at noon UTC on the trade date. */
+  var days = [];            /* day records, ascending */
+  var dayByTs = {};
+  trades.forEach(function (r) {
+    var d = new Date(r[0] - 12 * 3600 * 1000);
+    var x = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(),
+                     d.getUTCDate(), 12);
+    var g = dayByTs[x];
+    if (!g) {
+      g = dayByTs[x] = { x: x, n: 0,
+        po: null, ph: null, pl: null, pc: null,
+        yo: null, yh: null, yl: null, yc: null,
+        vol: 0, volN: 0 };
+      days.push(g);
     }
-    return out;
-  }
+    g.n += 1;
+    if (r[1] !== null && r[1] !== undefined) {
+      if (g.po === null) g.po = r[1];
+      g.pc = r[1];
+      g.ph = g.ph === null ? r[1] : Math.max(g.ph, r[1]);
+      g.pl = g.pl === null ? r[1] : Math.min(g.pl, r[1]);
+    }
+    if (r[2] !== null && r[2] !== undefined) {
+      if (g.yo === null) g.yo = r[2];
+      g.yc = r[2];
+      g.yh = g.yh === null ? r[2] : Math.max(g.yh, r[2]);
+      g.yl = g.yl === null ? r[2] : Math.min(g.yl, r[2]);
+    }
+    if (r[3] !== null && r[3] !== undefined) {
+      g.vol += r[3]; g.volN += 1;
+    }
+  });
+
   function fmtVol(v) {
     if (v === null || v === undefined) return "n/a";
     return "$" + Math.round(v).toLocaleString("en-US");
@@ -41,25 +70,25 @@
 
   function option(mode) {
     var isPrice = mode === "price";
-    var tPts = [], vPts = [];
-    trades.forEach(function (r) {
-      var v = isPrice ? r[1] : r[2];
-      if (v !== null && v !== undefined) tPts.push([r[0], v]);
-      if (r[3] !== null && r[3] !== undefined) vPts.push([r[0], r[3]]);
+    var candles = [], vPts = [];
+    days.forEach(function (g) {
+      var o = isPrice ? g.po : g.yo, h = isPrice ? g.ph : g.yh,
+          l = isPrice ? g.pl : g.yl, c = isPrice ? g.pc : g.yc;
+      if (o !== null && h !== null && l !== null && c !== null) {
+        candles.push([g.x, o, c, l, h]);
+      }
+      if (g.volN) vPts.push([g.x, g.vol]);
     });
     var series = [
-      { name: isPrice ? "Trades (price)" : "Trades (yield)",
-        type: "line", xAxisIndex: 0, yAxisIndex: 0,
-        data: gapped(tPts, 30), showSymbol: false,
-        connectNulls: false, silent: true,
-        lineStyle: { width: 1.2, color: INK, opacity: 0.55 },
-        itemStyle: { color: INK }, z: 2 },
-      { name: isPrice ? "Trades" : "Trades",
-        type: "scatter", xAxisIndex: 0, yAxisIndex: 0,
-        data: tPts, symbolSize: 5,
-        itemStyle: { color: INK, opacity: 0.85 }, z: 3 },
+      { name: isPrice ? "Daily prints (price)" : "Daily prints (yield)",
+        type: "candlestick", xAxisIndex: 0, yAxisIndex: 0,
+        data: candles,
+        itemStyle: { color: UP_FILL, color0: DOWN,
+                     borderColor: UP_BORDER, borderColor0: DOWN,
+                     borderWidth: 1 },
+        emphasis: { itemStyle: { borderWidth: 1 } }, z: 3 },
       { name: "Volume (reported floor)", type: "bar",
-        xAxisIndex: 1, yAxisIndex: 1, data: vPts,
+        xAxisIndex: 1, yAxisIndex: 1, data: vPts, silent: true,
         itemStyle: { color: INK, opacity: 0.45 }, z: 2 }
     ];
     if (isPrice && marks.length) {
@@ -109,18 +138,30 @@
                        lineStyle: { color: "#999" } },
         formatter: function (ps) {
           if (!ps || !ps.length) return "";
-          var out = [fmtDate(ps[0].value[0])];
+          var ts = ps[0].value[0];
+          var dec = isPrice ? 2 : 3;
+          var out = [fmtDate(ts)];
+          var g = dayByTs[ts];
+          if (g) {
+            var o = isPrice ? g.po : g.yo,
+                h = isPrice ? g.ph : g.yh,
+                l = isPrice ? g.pl : g.yl,
+                c = isPrice ? g.pc : g.yc;
+            if (o !== null) {
+              out.push("Open " + o.toFixed(dec));
+              out.push("High " + h.toFixed(dec));
+              out.push("Low " + l.toFixed(dec));
+              out.push("Close " + c.toFixed(dec));
+            }
+            out.push("Trades " + g.n.toLocaleString("en-US"));
+            out.push("Volume " +
+                     (g.volN ? fmtVol(g.vol) : "n/a"));
+          }
           ps.forEach(function (p) {
-            if (p.value[1] === null ||
-                p.value[1] === undefined) return;
-            if (p.seriesName.indexOf("Volume") === 0) {
-              out.push(p.marker + "Volume " + fmtVol(p.value[1]));
-            } else if (p.seriesName === "Fund marks") {
+            if (p.seriesName === "Fund marks" &&
+                p.value[1] !== null && p.value[1] !== undefined) {
               out.push(p.marker + "Fund mark " +
                        p.value[1].toFixed(2));
-            } else {
-              out.push(p.marker + p.seriesName + " " +
-                       p.value[1].toFixed(isPrice ? 2 : 3));
             }
           });
           return out.join("<br/>");
@@ -130,8 +171,17 @@
         { type: "inside", xAxisIndex: [0, 1] },
         { type: "slider", xAxisIndex: [0, 1], height: 16,
           bottom: 4, showDetail: false,
-          borderColor: "#ccc", fillerColor: "rgba(63,71,80,0.12)",
-          handleStyle: { color: "#3f4750" } }
+          borderColor: "#3f4750",
+          fillerColor: "rgba(63,71,80,0.15)",
+          handleStyle: { color: "#3f4750", borderColor: "#3f4750" },
+          moveHandleStyle: { color: "#3f4750" },
+          textStyle: { color: "#6b7280" },
+          dataBackground: {
+            lineStyle: { color: "#9aa0a6" },
+            areaStyle: { color: "rgba(63,71,80,0.10)" } },
+          selectedDataBackground: {
+            lineStyle: { color: "#3f4750" },
+            areaStyle: { color: "rgba(63,71,80,0.15)" } } }
       ],
       series: series
     };
