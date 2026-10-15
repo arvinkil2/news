@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-15T13:49:38-04:00",
+ "as_of": "2026-10-15T14:04:41-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -1309,6 +1309,74 @@
    "level": "flag",
    "rule": "new trade printed below 90",
    "id": "595112BU6-flag-2026-10-15"
+  },
+  {
+   "cusip": "595112BT9",
+   "issuer": "MICRON TECHNOLOGY INC",
+   "security": "3.366% Notes due 2041",
+   "price": 72.694,
+   "prev_price": 71.983,
+   "trade_date": "2026-10-15",
+   "trade_time": "13:55:08",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2357,
+   "fired_at": "2026-10-15T14:04:41-04:00",
+   "level": "tier1",
+   "rule": "print below 75",
+   "id": "595112BT9-below75-2026-10-15"
+  },
+  {
+   "cusip": "595112BT9",
+   "issuer": "MICRON TECHNOLOGY INC",
+   "security": "3.366% Notes due 2041",
+   "price": 72.694,
+   "prev_price": 71.983,
+   "trade_date": "2026-10-15",
+   "trade_time": "13:55:08",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2357,
+   "fired_at": "2026-10-15T14:04:41-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "595112BT9-flag-2026-10-15"
+  },
+  {
+   "cusip": "038222AM7",
+   "issuer": "APPLIED MATLS INC",
+   "security": "4.35% Notes due 2047",
+   "price": 79.693,
+   "prev_price": 78.66,
+   "trade_date": "2026-10-15",
+   "trade_time": "13:55:10",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2278,
+   "fired_at": "2026-10-15T14:04:41-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "038222AM7-flag-2026-10-15"
+  },
+  {
+   "cusip": "482480AN0",
+   "issuer": "KLA CORP",
+   "security": "5.25% Notes due 2062",
+   "price": 85.607,
+   "prev_price": 84.116,
+   "trade_date": "2026-10-15",
+   "trade_time": "13:55:09",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2413,
+   "fired_at": "2026-10-15T14:04:41-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "482480AN0-flag-2026-10-15"
   }
  ]
 }
