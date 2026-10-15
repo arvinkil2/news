@@ -1,0 +1,145 @@
+---
+title: "TeraWulf"
+date: "2026-10-15"
+lede: "Project issuer · 3 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
+data_as_of: "2026-10-15"
+---
+
+
+<p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>3</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>4,567</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>84.15</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>2 of 3</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>14 Oct 2026</dd></div></dl>
+<h2>Bonds</h2>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-terawulf" data-def="[300, 96, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:96px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Last trade</th><th>Traded</th><th>Coupon</th><th>Matures</th><th>Rating</th><th>Trades</th><th>CUSIP</th></tr></thead>
+<tbody>
+<tr><td data-v="TERAWULF INC — 2.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/88080tab0/"><span class="bond-name">TERAWULF INC</span><span class="bond-sub">2.75% Notes due 2030</span></a></td><td data-v="155.125">155.125</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="2.75">2.75</td><td data-v="2030-02-01">01 Feb 2030</td><td class="muted" data-v="">—</td><td data-v="1326">1,326</td><td data-v="88080TAB0">88080TAB0</td></tr>
+<tr><td data-v="TERAWULF INC — 1% Notes due 2031"><a class="bond-link" href="/leverage/bond/88080tac8/"><span class="bond-name">TERAWULF INC</span><span class="bond-sub">1% Notes due 2031</span></a></td><td class="neg" data-v="79.4724">79.472</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="1.0">1</td><td data-v="2031-09-01">01 Sep 2031</td><td class="muted" data-v="">—</td><td data-v="1501">1,501</td><td data-v="88080TAC8">88080TAC8</td></tr>
+<tr><td data-v="TERAWULF INC — Notes"><a class="bond-link" href="/leverage/bond/88080tae4/"><span class="bond-name">TERAWULF INC</span><span class="bond-sub">Notes</span></a></td><td class="neg" data-v="84.1524">84.152</td><td data-v="2026-10-14">14 Oct 2026</td><td data-v="-1">0</td><td data-v="2032-05-01">01 May 2032</td><td class="muted" data-v="">—</td><td data-v="1740">1,740</td><td data-v="88080TAE4">88080TAE4</td></tr>
+</tbody></table></div>
+
+<h2>Trend · month-end</h2>
+<p class="bond-chart-cap">Month-end median last print and trades per month. A month point exists only when at least one of the issuer&rsquo;s bonds traded that month.</p>
+<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: TeraWulf"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, TeraWulf"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">63</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">103</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">144</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">184</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">224</text><polyline points="52.0,199.6 79.2,184.5 106.5,217.2 133.8,228.2 161.0,239.9 188.2,264.7 215.5,270.8 242.8,255.2 270.0,239.2 297.2,225.3 324.5,178.8 351.8,147.9 379.0,135.4 406.2,139.4 433.5,185.2 460.8,163.7 488.0,128.7 515.2,152.5 542.5,63.0 569.8,17.2 597.0,28.3 624.2,106.6 651.5,137.4 678.8,143.5 706.0,239.7" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="199.6" r="2.4" fill="#1a1a1a"/><circle cx="79.2" cy="184.5" r="2.4" fill="#1a1a1a"/><circle cx="106.5" cy="217.2" r="2.4" fill="#1a1a1a"/><circle cx="133.8" cy="228.2" r="2.4" fill="#1a1a1a"/><circle cx="161.0" cy="239.9" r="2.4" fill="#1a1a1a"/><circle cx="188.2" cy="264.7" r="2.4" fill="#1a1a1a"/><circle cx="215.5" cy="270.8" r="2.4" fill="#1a1a1a"/><circle cx="242.8" cy="255.2" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="239.2" r="2.4" fill="#1a1a1a"/><circle cx="297.2" cy="225.3" r="2.4" fill="#1a1a1a"/><circle cx="324.5" cy="178.8" r="2.4" fill="#1a1a1a"/><circle cx="351.8" cy="147.9" r="2.4" fill="#1a1a1a"/><circle cx="379.0" cy="135.4" r="2.4" fill="#1a1a1a"/><circle cx="406.2" cy="139.4" r="2.4" fill="#1a1a1a"/><circle cx="433.5" cy="185.2" r="2.4" fill="#1a1a1a"/><circle cx="460.8" cy="163.7" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="128.7" r="2.4" fill="#1a1a1a"/><circle cx="515.2" cy="152.5" r="2.4" fill="#1a1a1a"/><circle cx="542.5" cy="63.0" r="2.4" fill="#1a1a1a"/><circle cx="569.8" cy="17.2" r="2.4" fill="#1a1a1a"/><circle cx="597.0" cy="28.3" r="2.4" fill="#1a1a1a"/><circle cx="624.2" cy="106.6" r="2.4" fill="#1a1a1a"/><circle cx="651.5" cy="137.4" r="2.4" fill="#1a1a1a"/><circle cx="678.8" cy="143.5" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="239.7" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2024-10</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
+<script type="application/json" id="issuer-chart-data">{"terawulf":{"name":"TeraWulf","price":[[1728993600000,109.111],[1731672000000,118.5],[1734264000000,98.1383],[1736942400000,91.3],[1739620800000,84.04],[1742040000000,68.6014],[1744718400000,64.8502],[1747310400000,74.559],[1749988800000,84.5071],[1752580800000,93.1041],[1755259200000,122.0399],[1757937600000,141.2399],[1760529600000,149.0301],[1763208000000,146.5633],[1765800000000,118.0625],[1768478400000,131.454],[1771156800000,153.165],[1773576000000,138.4128],[1776254400000,194.0474],[1778846400000,222.4982],[1781524800000,215.625],[1784116800000,166.9312],[1786795200000,147.765],[1789473600000,143.975],[1792065600000,84.1524]],"vol":[[1728993600000,88],[1731672000000,102],[1734264000000,74],[1736942400000,103],[1739620800000,72],[1742040000000,63],[1744718400000,70],[1747310400000,29],[1749988800000,65],[1752580800000,22],[1755259200000,345],[1757937600000,353],[1760529600000,388],[1763208000000,449],[1765800000000,339],[1768478400000,233],[1771156800000,275],[1773576000000,207],[1776254400000,256],[1778846400000,207],[1781524800000,196],[1784116800000,232],[1786795200000,190],[1789473600000,136],[1792065600000,73]]}}</script>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-terawulf" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
+<colgroup><col style="width:100px"><col style="width:84px"><col style="width:140px"><col style="width:110px"><col style="width:92px"></colgroup>
+<thead><tr><th>Month</th><th>Trades</th><th>Median last print</th><th>Priced bonds</th><th>Below 90</th></tr></thead>
+<tbody>
+<tr><td data-v="2026-10">Oct 2026</td><td data-v="73">73</td><td data-v="84.1524">84.15</td><td data-v="3">3</td><td data-v="2">67%</td></tr>
+<tr><td data-v="2026-09">Sep 2026</td><td data-v="136">136</td><td data-v="143.975">143.97</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-08">Aug 2026</td><td data-v="190">190</td><td data-v="147.765">147.76</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-07">Jul 2026</td><td data-v="232">232</td><td data-v="166.9312">166.93</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-06">Jun 2026</td><td data-v="196">196</td><td data-v="215.625">215.62</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-05">May 2026</td><td data-v="207">207</td><td data-v="222.4982">222.50</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-04">Apr 2026</td><td data-v="256">256</td><td data-v="194.0474">194.05</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-03">Mar 2026</td><td data-v="207">207</td><td data-v="138.4128">138.41</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-02">Feb 2026</td><td data-v="275">275</td><td data-v="153.165">153.16</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2026-01">Jan 2026</td><td data-v="233">233</td><td data-v="131.454">131.45</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-12">Dec 2025</td><td data-v="339">339</td><td data-v="118.0625">118.06</td><td data-v="3">3</td><td data-v="1">33%</td></tr>
+<tr><td data-v="2025-11">Nov 2025</td><td data-v="449">449</td><td data-v="146.5633">146.56</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+<tr><td data-v="2025-10">Oct 2025</td><td data-v="388">388</td><td data-v="149.0301">149.03</td><td data-v="3">3</td><td data-v="0">0%</td></tr>
+</tbody></table></div>
+
+<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders).</p>
+<script defer src="/js/echarts.min.js"></script>
+<script defer src="/js/issuer_chart.js"></script>
+<script>
+document.querySelectorAll('table.bw-grid').forEach(function(t){
+  var tid = t.getAttribute('data-tid'); if (!tid) return;
+  var ths = Array.prototype.slice.call(t.querySelectorAll(':scope > thead > tr > th'));
+  var n = ths.length;
+  var defs = JSON.parse(t.getAttribute('data-def') || '[]');
+  var mins = JSON.parse(t.getAttribute('data-min') || '[]');
+  var fixed = JSON.parse(t.getAttribute('data-fixed') || '[]');
+  if (defs.length !== n) return;
+  var cg = t.querySelector(':scope > colgroup'); if (!cg) return;
+  var widths = defs.slice(), sort = null, lastDrag = 0;
+  try {
+    var raw = localStorage.getItem('bondwatch:v1:' + tid);
+    if (raw) { var st = JSON.parse(raw);
+      if (st && st.w && st.w.length === n) widths = st.w.map(function(w, i){ var v = parseFloat(w); return isNaN(v) ? defs[i] : Math.max(mins[i] || 40, v); });
+      if (st && st.s) sort = st.s; }
+  } catch (e) {}
+  function apply(){ var sum = 0; for (var i = 0; i < n; i++){ cg.children[i].style.width = widths[i] + 'px'; sum += widths[i]; } t.style.width = sum + 'px'; }
+  function save(){ try { localStorage.setItem('bondwatch:v1:' + tid, JSON.stringify({w: widths, s: sort})); } catch (e) {} }
+  apply();
+  var head = t.querySelector(':scope > thead');
+  function boundary(ev){
+    var best = -1, bestD = 9;
+    for (var i = 0; i < n; i++){
+      if (fixed.indexOf(i) >= 0) continue;
+      var d = Math.abs(ev.clientX - ths[i].getBoundingClientRect().right);
+      if (d < bestD) { bestD = d; best = i; }
+    }
+    return best;
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+    function move(e){
+      var dx = e.clientX - startX;
+      if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
+      else widths[i] = Math.max(mins[i], startW + dx);
+      apply(); lastDrag = Date.now();
+    }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    document.addEventListener('pointermove', move);
+    document.addEventListener('pointerup', up);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    var clone = t.cloneNode(true);
+    clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
+    var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
+    document.body.appendChild(clone);
+    var cths = clone.querySelectorAll(':scope > thead > tr > th');
+    var w = cths[i] ? cths[i].offsetWidth : 0;
+    clone.remove();
+    if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  });
+  function sortRows(i, asc){
+    var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
+    rows.sort(function(a, b){
+      var x = a.children[i], y = b.children[i];
+      var xv = x && x.hasAttribute('data-v') ? x.getAttribute('data-v') : (x ? x.textContent.trim() : '');
+      var yv = y && y.hasAttribute('data-v') ? y.getAttribute('data-v') : (y ? y.textContent.trim() : '');
+      var xn = parseFloat(xv), yn = parseFloat(yv);
+      var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
+      return asc ? c : -c;
+    });
+    var tb = t.querySelector(':scope > tbody');
+    rows.forEach(function(r){ tb.appendChild(r); });
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+    ths[i].classList.add(asc ? 'sasc' : 'sdesc');
+  }
+  if (t.hasAttribute('data-sort')) {
+    ths.forEach(function(th, i){
+      th.addEventListener('click', function(){
+        if (Date.now() - lastDrag < 250) return;
+        var asc = !th.classList.contains('sasc');
+        sort = {i: i, asc: asc};
+        sortRows(i, asc); save();
+      });
+    });
+    if (sort && sort.i < n) sortRows(sort.i, sort.asc);
+  }
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    th.setAttribute('tabindex', '0');
+    th.addEventListener('keydown', function(ev){
+      if (!ev.altKey) return;
+      if (ev.key === 'ArrowRight') { widths[i] += 8; apply(); save(); ev.preventDefault(); }
+      if (ev.key === 'ArrowLeft') { widths[i] = Math.max(mins[i], widths[i] - 8); apply(); save(); ev.preventDefault(); }
+    });
+  });
+  var rb = document.querySelector('[data-reset-for="' + tid + '"]');
+  if (rb) rb.addEventListener('click', function(){
+    try { localStorage.removeItem('bondwatch:v1:' + tid); } catch (e) {}
+    widths = defs.slice(); sort = null; apply();
+    ths.forEach(function(h){ h.classList.remove('sasc', 'sdesc'); });
+  });
+});
+</script>
