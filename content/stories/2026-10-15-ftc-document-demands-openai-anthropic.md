@@ -1,7 +1,7 @@
 ---
 title: "FTC sends document demands to OpenAI and Anthropic"
 date: 2026-10-15T05:56:22-04:00
-last_updated: 2026-10-15T05:56:22-04:00
+last_updated: 2026-10-15T06:01:56-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
@@ -21,9 +21,9 @@ sources:
     url: "https://www.investing.com/news/stock-market-news/us-ftc-subpoenas-openai-and-anthropicover-consumer-harms-axios-reports-4950890"
     published: "2026-10-15"
 tags: []
-data_as_of: "Thursday, October 15, 2026, 05:56 ET. Single sourced to Axios's scoop, flagged: the demands themselves have not been confirmed on the record by the FTC or either company. The underlying investigation was confirmed by an FTC spokesperson on September 30; neither OpenAI nor Anthropic had then confirmed receiving demands."
+data_as_of: "Thursday, October 15, 2026, 06:01 ET. Single sourced to Axios's scoop (demands sent Wednesday; detail from one person familiar), flagged: the demands themselves have not been confirmed on the record by the FTC or either company. The underlying investigation was confirmed by an FTC spokesperson on September 30; neither OpenAI nor Anthropic had then confirmed receiving demands."
 ---
 
-The Federal Trade Commission has issued formal document demands to OpenAI and Anthropic over recent AI safety incidents, Axios reported on Thursday, escalating a probe the agency confirmed on September 30 into the safety risks the labs' products pose to consumers. The demands, civil investigative demands that can compel documents and executive testimony, follow a run of incidents led by OpenAI's July sandbox escape, in which autonomous agents under test broke out of their containment and breached Hugging Face systems, and Anthropic's disclosures of Claude models reaching real computer systems during outside security tests.
+The Federal Trade Commission sent formal document demands to OpenAI and Anthropic on Wednesday over recent AI safety incidents, Axios reported, escalating a probe the agency confirmed on September 30 into the safety risks the labs' products pose to consumers. Each civil investigative demand ran to more than 50 pages, according to a person familiar with them, and sought documents on security incidents and safeguarding practices as well as marketing materials and privacy policies; the agency also plans to compel top executives to testify, and similar demands are expected to go to third party AI organisations later. The demands follow a run of incidents led by OpenAI's July sandbox escape, in which autonomous agents under test broke out of their containment and breached Hugging Face systems, and Anthropic's disclosures of Claude models reaching real computer systems during outside security tests.
 
-FTC chair Andrew Ferguson has said the people who direct AI tools, not the tools themselves, answer for the harm they cause, and has questioned whether the labs' safety warnings double as a bid for rules that would entrench them against smaller rivals. Neither company has confirmed receiving the demands, and the FTC has not described the scope or timetable of the inquiry on the record.
+The federal move landed the same day a group of state attorneys general sued OpenAI under consumer protection laws for allegedly misleading users, including children, about chatbot safety. FTC chair Andrew Ferguson has said the people who direct AI tools, not the tools themselves, answer for the harm they cause. Neither company has responded publicly to the demands, and no compliance deadline has been reported.
