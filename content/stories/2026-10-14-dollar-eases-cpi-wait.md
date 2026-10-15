@@ -1,13 +1,13 @@
 ---
-title: "Dollar rallies as hot CPI lifts Fed hike bets"
+title: "Dollar retreats from 18 month high as officials temper bets"
 date: 2026-10-14T07:07:20-04:00
-last_updated: 2026-10-14T12:54:01-04:00
+last_updated: 2026-10-15T05:04:06-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["global", "north-america", "asia-pacific"]
 status: "story"
-lede: "The dollar reversed its morning softness after September US inflation beat forecasts, with the dollar index up 0.71 percent at 102.90 by midday, the euro down 0.35 percent to 1.1121, sterling down 0.48 percent to 1.3147 and the Bloomberg dollar gauge at its highest since May 2025."
-why_it_matters: "The morning's asymmetry resolved the way the positioning implied: a firm core print lifted the dollar and the front end together, and a dollar index near 103 with a 5.24 percent 10-year is the tightening backdrop other central banks now have to answer."
+lede: "The dollar has given back most of its post inflation surge, slipping 0.1 percent to 102.06 in Asian trade on Thursday from an 18 month peak, as Federal Reserve officials including Michelle Bowman and Mary Daly counselled patience and Treasury yields pulled back, with the 10 year at a three week low of 5.1267 percent."
+why_it_matters: "The hot print lifted hike pricing to about 50 percent for October, but officials' pushback and the yield retreat show the market, not the data alone, deciding how much tightening is real: a dollar back near 102 with yields falling eases the financial conditions squeeze on every other central bank, ahead of US producer prices and retail sales later on Thursday."
 featured: false
 evidence_grade: "B"
 sources:
@@ -23,9 +23,15 @@ sources:
     publisher: "Dow Jones"
     url: "https://www.morningstar.com/news/dow-jones/20261014997/us-treasury-yields-fall-ahead-of-cpi-data"
     published: "2026-10-14"
+  - title: "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets"
+    publisher: "Reuters, via WABX"
+    url: "https://wabx.net/2026/10/14/dollar-retreats-from-18-month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets/"
+    published: "2026-10-15"
 tags: []
-data_as_of: "Updated Wednesday, October 14, 2026, 12:54 ET. Midday levels are the site's 12:30 ET market table (dollar index 102.90, up 0.71 percent; euro 1.1121; sterling 1.3147; dollar at 158.7 yen; 10-year Treasury 5.24 percent); the Bloomberg dollar index reading is from Bloomberg market reporting carried in the September CPI story update at 11:17 ET. Morning levels are the 03:45 ET market table (Yahoo Finance via the morning market tables); Antara item is in Indonesian and is used for the rupiah direction only, at headline level."
+data_as_of: "Updated Thursday, October 15, 2026, 05:04 ET. Latest levels from Reuters reporting from Hong Kong, read in full via WABX republication (dollar index 102.06, euro 1.1187, sterling 1.3224, yen 157.82, 10-year Treasury three week low 5.1267 percent). Earlier vintages: Wednesday 12:54 ET update used the site's 12:30 ET market table (dollar index 102.90, up 0.71 percent; euro 1.1121; sterling 1.3147; dollar at 158.7 yen; 10-year Treasury 5.24 percent); the Bloomberg dollar index reading is from Bloomberg market reporting carried in the September CPI story update at 11:17 ET. Morning levels are the 03:45 ET market table (Yahoo Finance via the morning market tables); Antara item is in Indonesian and is used for the rupiah direction only, at headline level."
 ---
+
+**Latest (05:04 ET):** The dollar's inflation surge has mostly unwound. Reuters reported from Hong Kong that the dollar index slipped 0.1 percent to 102.06 on Thursday, giving back most of the gain that took it to an 18 month high after Wednesday's data, as cautious remarks from Fed officials, including Vice Chair for Supervision Michelle Bowman and San Francisco President Mary Daly, and a pullback in Treasury yields led traders to scale back October hike expectations. The euro bounced 0.3 percent from an 18 month low to 1.1187, sterling strengthened 0.2 percent to 1.3224 and the yen rose about 0.3 percent to 157.82, while the 10 year Treasury yield fell to a three week low of 5.1267 percent. Market pricing for an October hike had risen to about 50 percent on the data. Attention now turns to US producer prices and retail sales later on Thursday.
 
 **Latest (12:54 ET):** The data trade arrived and it went the dollar's way. September CPI rose 3.7 percent on the year with core prices up 0.3 percent on the month, both above consensus, market odds on an October Fed hike jumped, and the dollar index climbed 0.71 percent to 102.90 by the 12:30 ET market table, reversing the morning's 0.05 percent dip to 102.13. The euro fell 0.35 percent to 1.1121, sterling fell 0.48 percent to 1.3147, the dollar rose to 158.7 yen, and the Australian dollar gave back its morning gain to sit flat at 0.6956. Bloomberg's dollar gauge rose 0.4 percent to its highest since May 2025. The 10-year Treasury yield was 5.24 percent at midday, up 2.7 basis points on the day, so the dollar and yields moved together, as the morning positioning had set them up to do.
 

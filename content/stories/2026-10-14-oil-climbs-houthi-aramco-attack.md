@@ -1,7 +1,7 @@
 ---
 title: "Oil climbs as Houthi attack hits Aramco site in Dhahran"
 date: 2026-10-14T07:05:29-04:00
-last_updated: 2026-10-14T15:04:05-04:00
+last_updated: 2026-10-15T05:04:41-04:00
 update_bump: true
 beats: ["commodities"]
 regions: ["middle-east", "global"]
@@ -11,6 +11,10 @@ why_it_matters: "A confirmed sinking is an escalation from harassment to loss of
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Hormuz claims two more ships in fresh wave of strikes"
+    publisher: "Splash247"
+    url: "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/"
+    published: "2026-10-15"
   - title: "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike"
     publisher: "Reuters, via gCaptain"
     url: "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/"
@@ -48,8 +52,10 @@ sources:
     url: "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn"
     published: "2026-10-14"
 tags: []
-data_as_of: "Wednesday, October 14, 2026. Latest update 15:04 ET: Reuters report via gCaptain, read in full, confirming both sinkings from maritime officials and IMO casualty data. Update 14:47 ET: BBC report read in full (Singapore Maritime and Port Authority statement on GFS Pride and GFS Giselle; Pakistan Hydrographer sinking position; IRGC mine claim reported as Iran's account) and Guardian report read in full (its two sinkings framing, including Cape Dao, differs from the BBC's and is flagged in the text). Earlier update 11:50 ET: Reuters dispatch read in full via WNCY republication (Houthi statement on Wednesday; three sources with knowledge of the Dhahran damage; two sources on Aramco operations) and Al Jazeera report read in full (WFP and ICRC statements on Yemen aid access and hospitals). Earlier vintages as previously noted: Reuters at 0030 GMT Wednesday and site market tables at 03:45 ET."
+data_as_of: "Wednesday, October 14, 2026, updated Thursday, October 15, 05:04 ET. Latest update: Splash247 report, read in full (further strikes on the Al Saadiyat and a reported tanker attack not independently confirmed, flagged in the text; IMO incident tally now 113). Update 15:04 ET Wednesday: Reuters report via gCaptain, read in full, confirming both sinkings from maritime officials and IMO casualty data. Update 14:47 ET: BBC report read in full (Singapore Maritime and Port Authority statement on GFS Pride and GFS Giselle; Pakistan Hydrographer sinking position; IRGC mine claim reported as Iran's account) and Guardian report read in full (its two sinkings framing, including Cape Dao, differs from the BBC's and is flagged in the text). Earlier update 11:50 ET: Reuters dispatch read in full via WNCY republication (Houthi statement on Wednesday; three sources with knowledge of the Dhahran damage; two sources on Aramco operations) and Al Jazeera report read in full (WFP and ICRC statements on Yemen aid access and hospitals). Earlier vintages as previously noted: Reuters at 0030 GMT Wednesday and site market tables at 03:45 ET."
 ---
+
+**Latest (05:04 ET Thursday):** The wave of strikes has hit more of the Abu Dhabi linked feeder fleet. Splash247 reported that the Marshall Islands flagged Al Saadiyat, operated by Safeen Feeders, was struck during an outbound transit of the strait but reportedly escaped serious damage, and that UK Maritime Trade Operations also recorded an attack on a tanker identified by the security group Vanguard Tech as the Barbados flagged Alfonso, whose condition has not been independently confirmed. The two sunken GFS and Cape Dao hulls belong to operators tied to AD Ports Group, which raised its stake in GFS to 81 percent in June. Splash247 put the International Maritime Organization tally at 113 confirmed maritime incidents in the region since the conflict began in late February, with 24 seafarers killed, up from the 106 incidents reported on Wednesday. US Central Command also disclosed on Wednesday that American forces destroyed an Iranian affiliated dhow in the Gulf of Oman on October 6, saying it had been used for surveillance against US Navy warships, with the crew removed first.
 
 **Latest (15:04 ET):** Reuters has now confirmed both sinkings. Maritime officials told the agency that a container ship and a dry bulk carrier have both sunk near the Strait of Hormuz in the past 24 hours after projectile strikes in separate incidents: the GFS Pride, a small 2,824 TEU container vessel, and the Antigua and Barbuda flagged Cape Dao, which sank close to the strait weeks after being struck on September 23, according to International Maritime Organization data published on Wednesday. One Cape Dao crew member was killed in that September strike and the rest were evacuated at the time; its UAE based manager, Peonies Shipmanagement, could not be reached. On Reuters' analysis of IMO casualty data, Pride and Cape Dao are the second and third vessels to sink since the war began on February 28, after the Maltese flagged Safeen Prestige, which was hit in March and later sank north of the strait. That resolves the split in the earlier reporting below in favour of two sinkings. Risk firm MARISKS said the incidents reinforce the continuing threat to shipping through the strait, and that the threat is not confined to tankers. Reuters also reported that Iran is deploying new tactics against transiting vessels, citing two senior Iranian officials saying the aim is to keep oil prices elevated and influence the US midterm elections; that is the officials' stated intent as reported, not an independently verified motive.
 
