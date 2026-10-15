@@ -1,12 +1,13 @@
 ---
 title: "Ukraine resumes refinery strikes, ending energy ceasefire pause"
 date: 2026-10-15T05:03:33-04:00
-last_updated: 2026-10-15T05:03:33-04:00
+last_updated: 2026-10-15T06:51:24-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["europe", "north-america"]
 status: "story"
-lede: "Ukraine has resumed attacks on Russian refineries, with the governor of Russia's Ryazan region reporting a fire at a refinery after a major drone attack on Thursday, hours after President Volodymyr Zelenskiy told the Financial Times the pause on energy strikes was over."
-why_it_matters: "The resumption ends the energy ceasefire President Trump announced on Sunday after only days, puts Russian refining capacity back under attack in a diesel market the IEA already expects to stay tight into 2027, and opens a public rift between Kyiv and Washington over intelligence support."
+lede: "Ukraine said its Neptune missiles damaged six Russian Su-34M fighter bombers at the Borisoglebsk airfield in the Voronezh region overnight, as its resumed drone campaign set a Ryazan refinery ablaze after the energy ceasefire pause collapsed."
+why_it_matters: "The Su-34M is the aircraft Russia uses to drop glide bombs on Ukrainian cities, and satellite imagery published by a Ukrainian monitoring channel was reported to show four of the jets destroyed and two badly damaged; the refinery attacks put Russian fuel supply back under pressure in a diesel market the IEA already expects to stay tight into 2027."
 featured: false
 evidence_grade: "B"
 sources:
@@ -18,9 +19,23 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
     published: "2026-10-15"
+  - title: "Ukraine: Raketen treffen russische Kampfjets am Boden (in German)"
+    publisher: "ORF"
+    url: "https://orf.at/stories/3445152/"
+    published: "2026-10-15"
+  - title: "Ukraine says it damaged six Russian military jets in missile strike on airfield"
+    publisher: "Reuters, via Q106FM"
+    url: "https://q106fm.com/2026/10/15/ukraine-says-it-damaged-six-russian-military-jets-in-missile-strike-on-airfield/"
+    published: "2026-10-15"
+  - title: "Ukrainian cruise missiles hit six Su-34 bombers deep inside Russia"
+    publisher: "Defence Blog"
+    url: "https://defence-blog.com/ukrainian-cruise-missiles-hit-six-su-34-bombers-deep-inside-russia/"
+    published: "2026-10-15"
 tags: []
-data_as_of: "Thursday, October 15, 2026, 05:03 ET. Reuters report read in full via KELO-FM republication, reporting the Financial Times interview with President Zelenskiy and a Telegram statement by Ryazan governor Pavel Malkov, a Russian regional official whose account of the refinery fire is reported as his statement. Zelenskiy's claims about US intelligence and Starlink are his account, flagged as such in the text; CNBC page is blocked to direct opening from here and is used at headline level only."
+data_as_of: "Thursday, October 15, 2026, 05:03 ET, updated 06:51 ET. Update: Reuters report read in full via Q106FM republication (Ukrainian General Staff statement on the Borisoglebsk strike; Reuters said it could not independently verify the battlefield claims, and there is no official Russian confirmation of the airfield damage); Defence Blog report read in full (satellite imagery published by the Ukrainian aviation monitoring channel AviVector, and its report that pro-Russian Telegram channels acknowledged the losses); ORF report in German read in full. Earlier: Reuters report read in full via KELO-FM republication, reporting the Financial Times interview with President Zelenskiy and a Telegram statement by Ryazan governor Pavel Malkov, a Russian regional official whose account of the refinery fire is reported as his statement. Zelenskiy's claims about US intelligence and Starlink are his account, flagged as such in the text; CNBC page is blocked to direct opening from here and is used at headline level only."
 ---
+
+**Latest (06:51 ET Thursday):** Ukraine's General Staff said on Thursday it had damaged six Russian Su-34M fighter bombers in an overnight strike on the Borisoglebsk airfield in Russia's Voronezh region, more than 340 kilometres from Ukrainian controlled territory, and that the attack used Ukraine's Neptune coastal missile system, causing secondary explosions and a fire and destroying flight support equipment. Reuters, which reported the statement, said it could not independently verify the battlefield claims. Defence Blog reported that satellite imagery published by the Ukrainian aviation monitoring channel AviVector showed four of the jets destroyed and two badly damaged, and that pro-Russian Telegram channels had also acknowledged the losses; there has been no official Russian confirmation of the airfield damage. Russia's defence ministry separately reported a Ukrainian attempt on an oil refinery in Ryazan, saying drone debris caused a fire.
 
 Ukraine has resumed its attacks on Russian refineries. The governor of the Ryazan region, Pavel Malkov, said on Thursday that a major Ukrainian drone attack had sparked a fire at an oil refinery in his region, with damage still being assessed, hours after President Volodymyr Zelenskiy told the Financial Times that the pause on attacking refineries was over.
 
