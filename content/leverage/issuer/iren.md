@@ -9,9 +9,9 @@ data_as_of: "2026-10-15"
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>7</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>7,406</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>70.57</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>4 of 7</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>15 Oct 2026</dd></div></dl>
 <h2>Bonds</h2>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-iren" data-def="[300, 96, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
-<colgroup><col style="width:300px"><col style="width:96px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
-<thead><tr><th>Bond</th><th>Last trade</th><th>Traded</th><th>Coupon</th><th>Matures</th><th>Rating</th><th>Trades</th><th>CUSIP</th></tr></thead>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-iren" data-def="[300, 124, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>Trades</th><th>CUSIP</th></tr></thead>
 <tbody>
 <tr><td data-v="IREN LTD — 3.5% Notes due 2029"><a class="bond-link" href="/leverage/bond/46270cad1/"><span class="bond-name">IREN LTD</span><span class="bond-sub">3.5% Notes due 2029</span></a></td><td data-v="313.0589">313.059</td><td data-v="2026-08-24">24 Aug 2026</td><td data-v="3.5">3.5</td><td data-v="2029-12-15">15 Dec 2029</td><td class="muted" data-v="">—</td><td data-v="14">14</td><td data-v="46270CAD1">46270CAD1</td></tr>
 <tr><td data-v="IREN LTD — 3.25% Notes due 2030"><a class="bond-link" href="/leverage/bond/46270cab5/"><span class="bond-name">IREN LTD</span><span class="bond-sub">3.25% Notes due 2030</span></a></td><td data-v="263.5">263.500</td><td data-v="2026-09-30">30 Sep 2026</td><td data-v="3.25">3.25</td><td data-v="2030-06-15">15 Jun 2030</td><td class="muted" data-v="">—</td><td data-v="79">79</td><td data-v="46270CAB5">46270CAB5</td></tr>
