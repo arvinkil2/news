@@ -27,7 +27,7 @@ data_as_of: "Trades to 2026-10-14; marks to 31 Mar 2026"
 <h2>Trade and mark history</h2>
 <p class="data-vintage">FINRA holds a record for this bond; no trades are in the stored record. One chronological record. TRACE trades are executions reported to FINRA; fund marks are period-end valuations from holder filings. Volume is as reported by FINRA (amounts above $5M par are capped at “5MM+” for investment-grade and $1M for high-yield issues). Side is the reporting party's side.</p>
 <p class="tape-filter"><label><input type="checkbox" id="f-trades" checked> TRACE trades</label> <label><input type="checkbox" id="f-marks" checked> Fund marks</label></p>
-<div class="market-table-scroll"><table class="market-table tape"><thead><tr><th>Date</th><th>Source</th><th>Price</th><th>Yield</th><th>Volume</th><th>Side</th></tr></thead><tbody>
+<div class="market-table-scroll"><table class="market-table tape"><thead><tr><th>Date</th><th>Source</th><th>Price (% of par)</th><th>Yield (%)</th><th>Volume ($)</th><th>Side</th></tr></thead><tbody>
 <tr data-src="m"><td>31 Mar 2026</td><td><span class="src-chip m">Fund mark</span></td><td class="num">102.94</td><td class="num">—</td><td>—</td><td>—</td></tr>
 <tr data-src="m"><td>31 Dec 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">104.28</td><td class="num">—</td><td>—</td><td>—</td></tr>
 <tr data-src="m"><td>30 Sep 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.48</td><td class="num">—</td><td>—</td><td>—</td></tr>
@@ -38,7 +38,7 @@ data_as_of: "Trades to 2026-10-14; marks to 31 Mar 2026"
 <tr><td>N/A</td><td class="muted"></td><td class="num">$14,687,500</td><td class="num">102.94</td></tr><tr><td>N/A</td><td class="muted"></td><td class="num">$9,062,500</td><td class="num">102.94</td></tr><tr><td>N/A</td><td class="muted"></td><td class="num">$2,187,500</td><td class="num">102.94</td></tr>
 </tbody></table></div>
 <h2>Other bonds from this issuer</h2>
-<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Coupon</th><th>Matures</th><th>Last trade or mark</th></tr></thead><tbody>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Coupon</th><th>Matures</th><th>Last print or mark (% of par)</th></tr></thead><tbody>
 <tr><td><a class="bond-link" href="/leverage/bond/ba0004jk4/">None</a></td><td class="num">—</td><td class="muted"></td><td class="num">mark 103.05 · 31 Mar 2026</td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: FINRA TRACE via the public lookup (collected by Kilambi Research); fund marks from SEC N-PORT bulk data. A fund mark is a period-end valuation reported by a holder; it is not a trade price. Yields use semiannual compounding on a 30/360 basis; yield to worst takes scheduled calls into account and treats conditional convertible redemption as not certain.</p>
