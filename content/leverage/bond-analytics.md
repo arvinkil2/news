@@ -6,7 +6,7 @@ data_as_of: "2026-10-14"
 ---
 
 
-<dl class="bw-summary"><div><dt>Analyses</dt><dd>7</dd></div><div><dt>Trades stored</dt><dd>20,069</dd></div><div><dt>Tape window</dt><dd>07 Oct 2026 – 14 Oct 2026</dd></div><div><dt>Marks as of</dt><dd>31 Jul 2026</dd></div><div><dt>Bonds tracked</dt><dd>613</dd></div></dl>
+<dl class="bw-summary"><div><dt>Analyses</dt><dd>7</dd></div><div><dt>Trades stored</dt><dd>20,069</dd></div><div><dt>Tape window</dt><dd>07 Oct 2026 – 14 Oct 2026</dd></div><div><dt>Marks as of</dt><dd>31 Jul 2026</dd></div><div><dt>Bonds tracked</dt><dd>469</dd></div></dl>
 <p class="bw-anchor"><a href="#dispersion">Fund dispersion</a> · <a href="#gap">Gap and convergence</a> · <a href="#curves">Issuer curves</a> · <a href="#twins">Twin basis</a> · <a href="#liquidity">Liquidity</a> · <a href="#events">Filings and prints</a> · <a href="#backtest">Alert backtest</a> · <a href="#sources">Sources</a></p>
 <h2 id="dispersion">1 · Fund mark dispersion</h2>
 <p class="data-vintage">Range of per-fund implied marks, points · latest report period per bond · n = 57 bonds with five or more funds</p>
