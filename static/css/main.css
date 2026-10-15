@@ -360,3 +360,13 @@ a:hover { color: var(--accent); }
 a.issuer-link { color: inherit; text-decoration: none; border-bottom: 1px dotted #8a8578; }
 a.issuer-link.active { font-weight: 700; border-bottom: 2px solid #1a1a1a; }
 td.neg { color: #b42318; font-weight: 700; }
+
+/* Issuer directory (Bond Analytics, 2026-10-15) */
+.issuer-dir { display: flex; flex-wrap: wrap; gap: 4px 40px; margin: 10px 0 6px; }
+.issuer-dir-group { min-width: 230px; }
+.issuer-dir-group h4 { font-family: var(--sans); font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b675c; margin: 10px 0 6px; font-weight: 700; }
+.issuer-dir-group ul { list-style: none; margin: 0; padding: 0; }
+.issuer-dir-group ul.cols2 { columns: 2; column-gap: 32px; }
+.issuer-dir-group li { margin: 4px 0; font-size: 14.5px; break-inside: avoid; }
+.issuer-dir-group .src { font-size: 12px; white-space: nowrap; }
+.issuer-dir a.issuer-link { text-decoration: underline; border-bottom: none; font-weight: 600; }
