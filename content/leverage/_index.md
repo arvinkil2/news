@@ -8,4 +8,6 @@ The standing watch on the debt behind the AI infrastructure buildout: what the b
 
 **[Bond Price Watch](/leverage/bond-watch/)** — FINRA TRACE prints for the 80-bond core watch and the 492-bond big-tech benchmark, with fund marks, computed yields and the gap between the market and the marks.
 
+**[Bond Activity](/leverage/activity/)** — The tape for the latest trade date: most traded bonds, biggest moves, latest prints, and the last five trade days across the watched registry.
+
 **[Bond Analytics](/leverage/bond-analytics/)** — Seven exhibits over the collected data: fund-mark dispersion, the trade–mark gap distribution, issuer spread curves, twin-line basis, liquidity, filings against prints, and a backtest of the alert rules.
