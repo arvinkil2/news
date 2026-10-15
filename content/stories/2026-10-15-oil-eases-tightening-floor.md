@@ -1,11 +1,11 @@
 ---
 title: "Oil eases from highs as tightening floor keeps rising"
 date: 2026-10-15T07:07:29-04:00
-last_updated: 2026-10-15T07:07:29-04:00
+last_updated: 2026-10-15T12:31:57-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global", "north-america"]
 status: "story"
-lede: "Brent fell 1.48 percent to $104.49 a barrel and WTI fell 1.27 percent to $93.88 in the site market tables refreshed at 07:00 ET on Thursday, a dip from this week's highs that left both benchmarks higher than a week earlier on some measures."
+lede: "Brent was little changed at $106.10 a barrel and WTI rose 1.55 percent to $96.56 in the site market tables refreshed at midday on Thursday, reversing the morning dip from this week's highs and leaving both benchmarks higher than a week earlier."
 why_it_matters: "The pullback is happening on a tightening physical floor: tanker attacks are intensifying, US stocks just drew by 11 million barrels on the API estimate, and executives warn global inventories sit near minimum operating levels, so dips keep starting from higher ground."
 featured: false
 evidence_grade: "B"
@@ -23,9 +23,9 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-15"
 tags: []
-data_as_of: "Thursday, October 15, 2026. Site market tables refreshed 2026-10-15T07:00:22-04:00 (Brent $104.49, down 1.48 percent, up 0.2 percent on the week; WTI $93.88, down 1.27 percent, up 2.61 percent on the week). Interfax reported Brent near $104.3 in early Thursday trade. The inventory and stock level claims are OilPrice.com's synthesis of tanker tracking and executive remarks, read in full."
+data_as_of: "Thursday, October 15, 2026. Site market tables refreshed 2026-10-15T12:30:13-04:00 (Brent $106.10, up 0.04 percent, up 1.75 percent on the week; WTI $96.56, up 1.55 percent, up 5.54 percent on the week). Morning tables at 07:00 ET had Brent at $104.49, down 1.48 percent, and WTI at $93.88, down 1.27 percent. Interfax reported Brent near $104.3 in early Thursday trade. The inventory and stock level claims are OilPrice.com's synthesis of tanker tracking and executive remarks, read in full."
 ---
-Crude eased on Thursday morning after a week that pushed prices to fresh highs. Brent fell 1.48 percent to $104.49 a barrel and West Texas Intermediate fell 1.27 percent to $93.88 in the site market tables refreshed at 07:00 ET, with Interfax reporting Brent near $104.3 in early trade. On the week, Brent is roughly flat, up 0.2 percent, while WTI is up 2.61 percent, so the session reads as a pause inside an rising trend rather than a reversal.
+Crude eased on Thursday morning after a week that pushed prices to fresh highs, then recovered by midday. Brent fell 1.48 percent to $104.49 a barrel and West Texas Intermediate fell 1.27 percent to $93.88 in the site market tables refreshed at 07:00 ET, with Interfax reporting Brent near $104.3 in early trade. By the midday tables Brent stood at $106.10, up 0.04 percent on the day, and WTI at $96.56, up 1.55 percent. On the week, Brent is up 1.75 percent, while WTI is up 5.54 percent, so the session reads as a pause inside a rising trend rather than a reversal.
 
 The physical backdrop explains why sellers are cautious. Ship-to-ship transfers have squeezed tanker supply, and freight now accounts for close to a third of a cargo's delivered price, up from less than 5 percent before the war, according to tanker tracking cited by OilPrice.com. Windward counted only two tankers crossing the Strait of Hormuz on October 12, both sailing dark, while UKMTO reported nine attacks in and around the strait in the first seven days of October.
 
