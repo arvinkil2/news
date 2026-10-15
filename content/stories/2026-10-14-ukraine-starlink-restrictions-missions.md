@@ -1,7 +1,7 @@
 ---
 title: "Ukraine says Starlink curbs failed missions without warning"
 date: 2026-10-14T05:48:43-04:00
-last_updated: 2026-10-14T19:53:16-04:00
+last_updated: 2026-10-15T19:04:02-04:00
 beats: ["politics", "technology"]
 regions: ["europe", "north-america"]
 status: "story"
@@ -31,6 +31,10 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
     published: "2026-10-14"
+  - title: "4 GOP senators join letter demanding Pentagon IG investigation of Ukraine's Starlink outage"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/"
+    published: "2026-10-15"
   - title: "US officially threatened Ukraine with ending intelligence sharing, the Washington Post reports (in Ukrainian)"
     publisher: "UNIAN, reporting the Washington Post"
     url: "https://www.unian.ua/world/ssha-oficiyno-prigrozili-ukrajini-pripiniti-obmin-rozviddanimi-the-washington-post-13529160.html"
@@ -40,8 +44,10 @@ sources:
     url: "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html"
     published: "2026-10-14"
 tags: []
-data_as_of: "Updated Wednesday afternoon, October 14, 2026, Toronto time. The Hill report (published 3:22 PM ET) and the Guardian's Wednesday reports were read in full in live browser sessions. Former defence minister Mykhailo Fedorov's statement that speeds up to 160 kilometres per hour were being restored is a Ukrainian official's account reported by The Hill; no direct reply from Musk or SpaceX to Senator Tillis appears in that report. Musk's statement that the Starshield limits were set by the United States military is reported by the Guardian. Zelenskyy's intelligence sharing claim is his, as reported by the Guardian, and President Trump denied cutting intelligence sharing on Tuesday, also per the Guardian; the claim is not independently confirmed in the reporting opened. Earlier note, Wednesday early morning: the original Guardian report was opened and read in full in a live browser session; Ukrainian outlets (Ukrainska Pravda, UNIAN, NV, TSN, in Ukrainian) and Russian state outlets (TASS, RIA, RT, Lenta) reported the restrictions the same morning. Reported speed thresholds differ between outlets."
+data_as_of: "Updated Thursday evening, October 15, 2026, Toronto time: a group of senators, including four Republicans, has sent a letter demanding that the Pentagon inspector general investigate the Starlink outage, The Hill reported on Thursday; the Hill page itself blocked direct fetch in this run, and the letter follows Senator Tillis's Wednesday statement, carried by the Associated Press, that senators would ask the inspector general to investigate and report back to Congress. Updated Wednesday afternoon, October 14, 2026, Toronto time. The Hill report (published 3:22 PM ET) and the Guardian's Wednesday reports were read in full in live browser sessions. Former defence minister Mykhailo Fedorov's statement that speeds up to 160 kilometres per hour were being restored is a Ukrainian official's account reported by The Hill; no direct reply from Musk or SpaceX to Senator Tillis appears in that report. Musk's statement that the Starshield limits were set by the United States military is reported by the Guardian. Zelenskyy's intelligence sharing claim is his, as reported by the Guardian, and President Trump denied cutting intelligence sharing on Tuesday, also per the Guardian; the claim is not independently confirmed in the reporting opened. Earlier note, Wednesday early morning: the original Guardian report was opened and read in full in a live browser session; Ukrainian outlets (Ukrainska Pravda, UNIAN, NV, TSN, in Ukrainian) and Russian state outlets (TASS, RIA, RT, Lenta) reported the restrictions the same morning. Reported speed thresholds differ between outlets."
 ---
+
+**Latest (Thursday 19:04 ET):** The demand for an investigation is now formal. A group of senators, including four Republicans, has sent a letter demanding that the Pentagon's inspector general investigate Ukraine's Starlink outage, The Hill reported on Thursday. The letter turns Senator Thom Tillis's Wednesday pledge into a written request: Tillis had said senators would ask the inspector general to initiate an investigation and report back to Congress, arguing that Ukrainian civilians and American diplomatic and security personnel were placed at unnecessary risk without warning. Defence Secretary Pete Hegseth has still issued no public statement on the Starshield restrictions.
 
 **Latest (19:53 ET):** The intelligence dispute now has a paper trail. United States intelligence officials warned Ukraine's embassy in Washington on Monday that all intelligence sharing would stop immediately if Ukrainian strikes on Russian energy facilities continued, the Washington Post reported, in a report carried by UNIAN. A source familiar with the matter told the Post that sharing had not in fact been halted, at least not in full, though the threat stands, and described the warnings as delivered so widely that calls reached everyone with a Ukrainian sounding name. Separately, US officials told the New York Times on Wednesday that the United States continues to provide intelligence to Ukraine. That formal position sits against President Zelenskyy's claim that sharing had halted, and against the missed American missile warnings Kyiv reported on two consecutive nights.
 
