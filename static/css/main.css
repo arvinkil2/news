@@ -248,6 +248,12 @@ a:hover { color: var(--accent); }
 
 /* Macro pages */
 .stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 20px 0 28px; }
+.activity-grid { display: grid; grid-template-columns: 1fr; gap: 0 28px; }
+@media (min-width: 900px) { .activity-grid { grid-template-columns: 1fr 1fr 1fr; } }
+.activity-grid h3 { margin-top: 6px; }
+.activity-table { width: 100%; }
+.activity-sec { display: block; font-size: 12px; }
+.activity-sec:empty { display: none; }
 .stat { border: 1px solid #e2e2e2; border-radius: 6px; padding: 12px 14px; background: #fafafa; }
 .stat-label { display: block; font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 4px; }
 .stat-value { display: block; font-size: 20px; font-weight: 700; color: #111; }
