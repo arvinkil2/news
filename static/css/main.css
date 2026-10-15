@@ -327,11 +327,10 @@ a:hover { color: var(--accent); }
 
 /* Bond Price Watch summary strip: editorial definition list between
    hairlines. Replaces the rounded stat-card grid (design-rules.md). */
-.bw-summary { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0 28px; border-top: 2px solid var(--rule-strong); border-bottom: 1px solid var(--rule); padding: 10px 0 12px; margin: 18px 0 6px; }
+.bw-summary { display: flex; flex-wrap: wrap; gap: 4px 36px; border-top: 2px solid var(--rule-strong); border-bottom: 1px solid var(--rule); padding: 10px 0 12px; margin: 18px 0 6px; }
 .bw-sum-item { padding: 5px 0; min-width: 0; }
 .bw-sum-item dt { font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 2px; }
-.bw-sum-item dd { font-family: var(--sans); font-size: 17px; font-weight: 650; margin: 0; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
-@media (max-width: 760px) { .bw-summary { grid-template-columns: repeat(2, 1fr); } }
+.bw-sum-item dd { font-family: var(--sans); font-size: 16.5px; font-weight: 650; margin: 0; font-variant-numeric: tabular-nums; white-space: nowrap; }
 
 /* Bond detail pages */
 .bond-navrow { font-size: 13px; color: var(--muted); margin: 4px 0 10px; }
