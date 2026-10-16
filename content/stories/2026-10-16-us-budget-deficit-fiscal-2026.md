@@ -1,15 +1,19 @@
 ---
 title: "US budget deficit reaches 1.992 trillion dollars in fiscal 2026"
 date: 2026-10-16T14:45:19-04:00
-last_updated: 2026-10-16T14:45:19-04:00
+last_updated: 2026-10-16T15:00:55-04:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
 lede: "The US budget deficit reached 1.992 trillion dollars in fiscal 2026, up about 12 percent from 1.775 trillion dollars a year earlier, the Treasury Department reported on Friday."
 why_it_matters: "It is the third largest annual deficit in US history and the 25th in a row, with net interest costs above 1 trillion dollars, keeping long term Treasury supply and yields at the centre of the rates story."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Monthly Treasury Statement, September 2026 (final statement for fiscal 2026), Table 1"
+    publisher: "US Treasury, Bureau of the Fiscal Service (Fiscal Data)"
+    url: "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/monthly-treasury-statement"
+    published: "2026-10-16"
   - title: "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year"
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
@@ -23,7 +27,7 @@ sources:
     url: "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories"
     published: "2026-10-16"
 tags: []
-data_as_of: "US Treasury Department fiscal 2026 figures reported October 16, 2026, via CNBC, the New York Times and MarketWatch."
+data_as_of: "US Treasury Monthly Treasury Statement for September 2026, published October 16, 2026 via Fiscal Data; headline figures taken from the statement itself (Table 1: fiscal 2026 receipts 5.403 trillion dollars, outlays 7.396 trillion dollars, deficit 1.993 trillion dollars). Additional reporting via CNBC, the New York Times and MarketWatch."
 ---
 
 The United States closed fiscal 2026 with a budget deficit of 1.992 trillion dollars, about 12 percent higher than the 1.775 trillion dollars recorded in fiscal 2025, the Treasury Department reported on Friday. Only the pandemic years of 2020 and 2021 produced larger annual deficits, and fiscal 2026 was the 25th straight year in deficit. The last surplus was in 2001.
