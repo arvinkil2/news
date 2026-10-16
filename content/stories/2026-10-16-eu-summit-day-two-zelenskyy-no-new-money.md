@@ -1,7 +1,8 @@
 ---
 title: "EU summit backs Zelenskyy but offers no new money"
 date: 2026-10-16T07:04:23-04:00
-last_updated: 2026-10-16T07:04:23-04:00
+last_updated: 2026-10-16T08:42:40-04:00
+update_bump: true
 beats: ["politics"]
 regions: ["europe", "asia-pacific"]
 status: "story"
@@ -22,9 +23,15 @@ sources:
     publisher: "Reuters"
     url: "https://krro.com/2026/10/14/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit/"
     published: "2026-10-15"
+  - title: "Zelenskyy confirms shortage of PAC-2 and PAC-3 missiles for Patriot systems"
+    publisher: "Espreso"
+    url: "https://espreso.tv/news-zelenskiy-pidtverdiv-znachniy-defitsit-raket-do-patriot-bilshist-yde-na-blizkiy-skhid"
+    published: "2026-10-16"
 tags: []
-data_as_of: "European Council, Brussels, October 15 to 16, 2026. Commission statement published October 16; summit reporting published October 15 to 16. No adopted conclusions text had been published when this edition closed."
+data_as_of: "European Council, Brussels, October 15 to 16, 2026. Commission statement published October 16; summit reporting published October 15 to 16. No adopted conclusions text had been published when this edition closed. Update at 08:42 ET October 16: Patriot remarks via Espreso, in Ukrainian, reporting President Zelenskyy's own briefing remarks in Brussels."
 ---
+
+Latest: Speaking in Brussels, President Zelenskyy confirmed a large shortage of PAC-2 and PAC-3 interceptor missiles for Ukraine's US made Patriot air defence systems, saying most of those missiles have for some time been going to the Middle East and that Ukraine is not among the first priority recipients. The missiles Ukraine does receive come from the United States under the PURL programme, paid for by European countries, and Kyiv is negotiating with partner states for whatever batches are available, in lots as small as three to ten missiles at a time. Ukrainian air defence is currently focused above all on protecting energy infrastructure, he said.
 
 Ukraine took the second day of the European Council in Brussels. President Volodymyr Zelenskyy attended in person, and Commission President Ursula von der Leyen appeared with him and Council President Antonio Costa ahead of the session, a deliberate show of alignment a day after Washington temporarily lifted sanctions on Russian diesel, a move covered here on October 15.
 
