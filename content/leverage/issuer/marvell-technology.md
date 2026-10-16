@@ -1,6 +1,6 @@
 ---
 title: "Marvell"
-date: "2026-10-15"
+date: "2026-10-16"
 lede: "Project issuer · 15 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-16"
 ---

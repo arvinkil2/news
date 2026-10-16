@@ -1,6 +1,6 @@
 ---
 title: "CoreWeave"
-date: "2026-10-15"
+date: "2026-10-16"
 lede: "Core watch issuer · 12 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-16"
 ---
