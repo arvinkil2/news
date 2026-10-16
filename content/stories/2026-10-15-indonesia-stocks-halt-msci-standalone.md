@@ -1,12 +1,13 @@
 ---
-title: "Indonesia stocks plunge 8 percent, trading halted on MSCI ejection risk"
+title: "Indonesia stocks plunge more than 10 percent on MSCI ejection risk"
 date: 2026-10-15T22:48:13-04:00
-last_updated: 2026-10-15T22:48:13-04:00
+last_updated: 2026-10-16T00:42:51-04:00
+update_bump: true
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "The Jakarta Composite Index opened down 8.01 percent at 5,393.92 on Friday, triggering a 30 minute trading halt, after MSCI opened a consultation on removing Indonesia from its emerging market indexes and reclassifying it as a standalone market."
-why_it_matters: "Standalone status would take Indonesian stocks out of the emerging market indexes that passive funds track, forcing benchmarked selling in what is already the world's worst performing stock market of 2026, down more than 30 percent this year with $4.7 billion in foreign outflows."
+lede: "The Jakarta Composite Index fall deepened past 10 percent on Friday to 5,254.53, with an intraday plunge of more than 11 percent, after MSCI opened a consultation on removing Indonesia from its emerging market indexes and reclassifying it as a standalone market."
+why_it_matters: "Standalone status would take Indonesian stocks out of the emerging market indexes that passive funds track, forcing benchmarked selling in what is already the world's worst performing stock market of 2026, down more than 30 percent this year with $4.7 billion in foreign outflows, and Friday's fall is the steepest one day drop since January 1998 on Investing.com's reading of the session."
 featured: true
 evidence_grade: "B"
 sources:
@@ -30,9 +31,19 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says"
     published: "2026-10-15"
+  - title: "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029"
+    published: "2026-10-16"
+  - title: "Why is the Jakarta Stock Exchange Composite Index collapsing today?"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/why-is-the-jakarta-stock-exchange-composite-index-collapsing-today-93CH-4953050"
+    published: "2026-10-16"
 tags: []
-data_as_of: "Friday morning, October 16, 2026, Jakarta time (Thursday evening Toronto time). Antara reports, in Indonesian, opened and read in full: the opening index figures, the halt and the rupiah level are Antara's at the time of writing, with Bloomberg reporting Indonesian stocks fell the most since January after the MSCI announcement. The consultation terms are from MSCI's own announcement; Reuters corroborates the MSCI decision, the exchange response and the analyst reaction."
+data_as_of: "Friday, October 16, 2026, Jakarta time, updated 00:42 ET Toronto time. Antara reports, in Indonesian, opened and read in full: the opening index figures, the halt and the rupiah level are Antara's at the time of writing, with Bloomberg reporting Indonesian stocks fell the most since January after the MSCI announcement. The consultation terms are from MSCI's own announcement; Reuters corroborates the MSCI decision, the exchange response and the analyst reaction. Latest session figures (index at 5,254.53, down 10.4 percent, intraday plunge over 11 percent) are from Investing.com reports read in full in the live browser; its live ticker at read time showed a similar fall, near 10.8 percent."
 ---
+
+Latest: the fall deepened well past the open. Investing.com put the Jakarta Composite at 5,254.53, down 10.4 percent, later in the session, and said the intraday plunge exceeded 11 percent, the steepest one day fall since January 1998, even as other Asian markets rebounded. That takes the index below the 5,300 level Kiwoom Sekuritas had flagged as the next exposed area after a break of 5,700.
 
 Indonesia's stock market opened in a crash on Friday after MSCI said the country no longer merits emerging market status. The Jakarta Composite Index fell 469.86 points, or 8.01 percent, to 5,393.92 at the open, and the Indonesia Stock Exchange halted trading at 9:00 a.m. Jakarta time when the fall crossed its 8 percent threshold. The blue chip LQ45 index fell 8.33 percent to 540.95. Trading was set to resume after 30 minutes under rules adopted in April 2025, which impose a further 30 minute halt beyond a 15 percent fall and a suspension beyond 20 percent. The rupiah weakened 0.46 percent to 18,021 per dollar at the open, from a previous close of 17,938.
 
