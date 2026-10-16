@@ -1,8 +1,8 @@
 ---
 title: "BEIGNET INVESTOR LLC 990AAXQG4"
-date: "2026-10-15"
+date: "2026-10-16"
 lede: "Trades, fund marks, terms and call schedule for 990AAXQG4."
-data_as_of: "Trades to 2026-10-14; marks to 30 Sep 2025"
+data_as_of: "Trades to 2026-10-15; marks to 30 Sep 2025"
 ---
 
 <p class="bond-navrow"><a href="/leverage/bond-watch/">&larr; Bond Price Watch</a> · <a href="/leverage/bond/076912aa2/">&larr; BEIGNET INVESTOR LLC</a> · <a href="/leverage/bond/u06930aa6/">Beignet Investor LLC &rarr;</a></p>
