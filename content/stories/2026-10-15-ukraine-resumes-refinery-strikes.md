@@ -1,13 +1,13 @@
 ---
 title: "Ukraine resumes refinery strikes, ending energy ceasefire pause"
 date: 2026-10-15T05:03:33-04:00
-last_updated: 2026-10-15T06:51:24-04:00
+last_updated: 2026-10-16T03:40:36-04:00
 update_bump: true
 beats: ["commodities"]
 regions: ["europe", "north-america"]
 status: "story"
-lede: "Ukraine said its Neptune missiles damaged six Russian Su-34M fighter bombers at the Borisoglebsk airfield in the Voronezh region overnight, as its resumed drone campaign set a Ryazan refinery ablaze after the energy ceasefire pause collapsed."
-why_it_matters: "The Su-34M is the aircraft Russia uses to drop glide bombs on Ukrainian cities, and satellite imagery published by a Ukrainian monitoring channel was reported to show four of the jets destroyed and two badly damaged; the refinery attacks put Russian fuel supply back under pressure in a diesel market the IEA already expects to stay tight into 2027."
+lede: "President Trump called Ukraine's resumed strikes on Russian refineries a shame in a Newsmax interview, saying Volodymyr Zelensky is harder to work with than Vladimir Putin and is driving up world oil prices, as Kyiv's campaign put Russian fuel supply back under pressure after the energy ceasefire pause collapsed."
+why_it_matters: "The remarks are the sharpest US break yet with Kyiv over the refinery campaign: Washington's diesel deal with Moscow was built on halting those strikes, and Ukrainian officials say US intelligence warnings and military Starlink service were curtailed as pressure, which puts the pillars of US support for Ukraine in question at the same time as the strikes squeeze a diesel market the IEA expects to stay tight into 2027."
 featured: false
 evidence_grade: "B"
 sources:
@@ -31,9 +31,15 @@ sources:
     publisher: "Defence Blog"
     url: "https://defence-blog.com/ukrainian-cruise-missiles-hit-six-su-34-bombers-deep-inside-russia/"
     published: "2026-10-15"
+  - title: "Guerre en Ukraine : Volodymyr Zelensky acte la reprise des frappes contre les raffineries russes, « une honte » selon Donald Trump (in French)"
+    publisher: "Le Monde"
+    url: "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-volodymyr-zelensky-acte-la-reprise-des-frappes-contre-les-raffineries-russes-une-honte-selon-donald-trump_6795219_3210.html"
+    published: "2026-10-16"
 tags: []
-data_as_of: "Thursday, October 15, 2026, 05:03 ET, updated 06:51 ET. Update: Reuters report read in full via Q106FM republication (Ukrainian General Staff statement on the Borisoglebsk strike; Reuters said it could not independently verify the battlefield claims, and there is no official Russian confirmation of the airfield damage); Defence Blog report read in full (satellite imagery published by the Ukrainian aviation monitoring channel AviVector, and its report that pro-Russian Telegram channels acknowledged the losses); ORF report in German read in full. Earlier: Reuters report read in full via KELO-FM republication, reporting the Financial Times interview with President Zelenskiy and a Telegram statement by Ryazan governor Pavel Malkov, a Russian regional official whose account of the refinery fire is reported as his statement. Zelenskiy's claims about US intelligence and Starlink are his account, flagged as such in the text; CNBC page is blocked to direct opening from here and is used at headline level only."
+data_as_of: "Thursday, October 15, 2026, 05:03 ET, updated 06:51 ET and Friday, October 16, 2026, 03:40 ET. Latest update: Le Monde report, in French, read in full, reporting President Trump's Newsmax interview on Thursday and Ukrainian defence ministry sources saying Starlink service was gradually being restored on Thursday evening; Trump's remarks are his own statements in that interview. Earlier updates: Reuters report read in full via Q106FM republication (Ukrainian General Staff statement on the Borisoglebsk strike; Reuters said it could not independently verify the battlefield claims, and there is no official Russian confirmation of the airfield damage); Defence Blog report read in full (satellite imagery published by the Ukrainian aviation monitoring channel AviVector, and its report that pro-Russian Telegram channels acknowledged the losses); ORF report in German read in full. Earlier: Reuters report read in full via KELO-FM republication, reporting the Financial Times interview with President Zelenskiy and a Telegram statement by Ryazan governor Pavel Malkov, a Russian regional official whose account of the refinery fire is reported as his statement. Zelenskiy's claims about US intelligence and Starlink are his account, flagged as such in the text; CNBC page is blocked to direct opening from here and is used at headline level only."
 ---
+
+**Latest (03:40 ET Friday):** President Trump attacked the resumption directly on Thursday, telling the US channel Newsmax that the resumed Ukrainian strikes were a shame, that Zelensky is harder to work with than Putin, and that all Zelensky does is drive up world oil prices. Zelensky, Trump said, is not the right type to find a deal, adding that he does not like him much. Le Monde, which reported the interview, described the tension between the two leaders as the highest since their heated Oval Office meeting in February 2025. On Starlink, Ukrainian defence ministry sources told Ukrainian media on Thursday evening that the service was gradually being restored at the front; Washington has denied deliberately curtailing it.
 
 **Latest (06:51 ET Thursday):** Ukraine's General Staff said on Thursday it had damaged six Russian Su-34M fighter bombers in an overnight strike on the Borisoglebsk airfield in Russia's Voronezh region, more than 340 kilometres from Ukrainian controlled territory, and that the attack used Ukraine's Neptune coastal missile system, causing secondary explosions and a fire and destroying flight support equipment. Reuters, which reported the statement, said it could not independently verify the battlefield claims. Defence Blog reported that satellite imagery published by the Ukrainian aviation monitoring channel AviVector showed four of the jets destroyed and two badly damaged, and that pro-Russian Telegram channels had also acknowledged the losses; there has been no official Russian confirmation of the airfield damage. Russia's defence ministry separately reported a Ukrainian attempt on an oil refinery in Ryazan, saying drone debris caused a fire.
 
