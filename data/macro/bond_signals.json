@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-16T10:34:31-04:00",
+ "as_of": "2026-10-16T10:49:58-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -2397,6 +2397,91 @@
    "level": "flag",
    "rule": "new trade printed below 90",
    "id": "88080TAE4-flag-2026-10-16"
+  },
+  {
+   "cusip": "595112BU6",
+   "issuer": "MICRON TECHNOLOGY INC",
+   "security": "3.477% Notes due 2051",
+   "price": 65.23,
+   "prev_price": 64.917,
+   "trade_date": "2026-10-16",
+   "trade_time": "10:31:47",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2881,
+   "fired_at": "2026-10-16T10:49:58-04:00",
+   "level": "tier1",
+   "rule": "print below 75",
+   "id": "595112BU6-below75-2026-10-16"
+  },
+  {
+   "cusip": "595112BU6",
+   "issuer": "MICRON TECHNOLOGY INC",
+   "security": "3.477% Notes due 2051",
+   "price": 65.23,
+   "prev_price": 64.917,
+   "trade_date": "2026-10-16",
+   "trade_time": "10:31:47",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2881,
+   "fired_at": "2026-10-16T10:49:58-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "595112BU6-flag-2026-10-16"
+  },
+  {
+   "cusip": "038222AM7",
+   "issuer": "APPLIED MATLS INC",
+   "security": "4.35% Notes due 2047",
+   "price": 79.69823,
+   "prev_price": 79.693,
+   "trade_date": "2026-10-16",
+   "trade_time": "10:33:02",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 2280,
+   "fired_at": "2026-10-16T10:49:58-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "038222AM7-flag-2026-10-16"
+  },
+  {
+   "cusip": "512807AX6",
+   "issuer": "LAM RESH CORP",
+   "security": "3.125% Notes due 2060",
+   "price": 57.13849,
+   "prev_price": 55.837236,
+   "trade_date": "2026-10-16",
+   "trade_time": "10:33:02",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 1322,
+   "fired_at": "2026-10-16T10:49:58-04:00",
+   "level": "tier1",
+   "rule": "print below 75",
+   "id": "512807AX6-below75-2026-10-16"
+  },
+  {
+   "cusip": "512807AX6",
+   "issuer": "LAM RESH CORP",
+   "security": "3.125% Notes due 2060",
+   "price": 57.13849,
+   "prev_price": 55.837236,
+   "trade_date": "2026-10-16",
+   "trade_time": "10:33:02",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 1322,
+   "fired_at": "2026-10-16T10:49:58-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "512807AX6-flag-2026-10-16"
   }
  ]
 }
