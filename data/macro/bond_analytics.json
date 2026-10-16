@@ -499,18 +499,18 @@
     "median_gap": -1.87,
     "gap_below_minus15": 1,
     "gap_above_plus5": 0,
-    "largest_negative_gap": -15.51
+    "largest_negative_gap": -15.41
    },
    "rows": [
     {
      "cusip": "U2069EAB6",
      "issuer": "COREWEAVE INC",
      "security": "",
-     "last_trade": 83.774,
+     "last_trade": 83.874,
      "trade_date": "2026-10-16",
      "mark": 99.2848,
      "period": "2026-04-30",
-     "gap": -15.51
+     "gap": -15.41
     },
     {
      "cusip": "21873SAD0",
@@ -526,11 +526,11 @@
      "cusip": "U2069EAA8",
      "issuer": "CoreWeave Inc.",
      "security": "",
-     "last_trade": 86.0,
+     "last_trade": 87.25,
      "trade_date": "2026-10-16",
      "mark": 98.4956,
      "period": "2026-01-31",
-     "gap": -12.5
+     "gap": -11.25
     },
     {
      "cusip": "21873SAH1",
@@ -553,6 +553,16 @@
      "gap": -9.26
     },
     {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "last_trade": 91.51,
+     "trade_date": "2026-10-16",
+     "mark": 100.3104,
+     "period": "2026-07-31",
+     "gap": -8.8
+    },
+    {
      "cusip": "21873SAK4",
      "issuer": "COREWEAVE INC",
      "security": "9.625% senior notes due 2032",
@@ -561,16 +571,6 @@
      "mark": 89.5486,
      "period": "2026-07-31",
      "gap": -8.76
-    },
-    {
-     "cusip": "36322DAA4",
-     "issuer": "GALAXY HELIOS DATA CNTR",
-     "security": "9.875% senior secured notes due 2031",
-     "last_trade": 91.592,
-     "trade_date": "2026-10-16",
-     "mark": 100.3104,
-     "period": "2026-07-31",
-     "gap": -8.72
     },
     {
      "cusip": "21873SAC2",
@@ -596,11 +596,11 @@
      "cusip": "U2069EAE0",
      "issuer": "COREWEAVE INC",
      "security": "",
-     "last_trade": 82.54,
+     "last_trade": 82.6275,
      "trade_date": "2026-10-16",
      "mark": 89.3083,
      "period": "2026-07-31",
-     "gap": -6.77
+     "gap": -6.68
     },
     {
      "cusip": "21873SAB4",
@@ -1284,7 +1284,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.909730735694384,
-       "spread_bp": 1
+       "spread_bp": -1
       },
       {
        "cusip": "458140AX8",
@@ -1294,7 +1294,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 4.721432054705876,
-       "spread_bp": -18
+       "spread_bp": -20
       },
       {
        "cusip": "458140BY5",
@@ -1304,7 +1304,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.964473361877375,
-       "spread_bp": 6
+       "spread_bp": 4
       },
       {
        "cusip": "458140CE8",
@@ -1314,7 +1314,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.1685668056851375,
-       "spread_bp": 27
+       "spread_bp": 25
       },
       {
        "cusip": "458140BT6",
@@ -1324,7 +1324,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.189815903421846,
-       "spread_bp": 29
+       "spread_bp": 27
       },
       {
        "cusip": "458140BZ2",
@@ -1334,7 +1334,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.385207926268243,
-       "spread_bp": 49
+       "spread_bp": 47
       },
       {
        "cusip": "458140BH2",
@@ -1344,7 +1344,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.460485973626361,
-       "spread_bp": 56
+       "spread_bp": 54
       },
       {
        "cusip": "458140CF5",
@@ -1354,7 +1354,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.4806096076180255,
-       "spread_bp": 58
+       "spread_bp": 56
       },
       {
        "cusip": "458140BR0",
@@ -1364,17 +1364,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.50182968085251,
-       "spread_bp": 60
+       "spread_bp": 58
       },
       {
        "cusip": "458140CN8",
        "security": "5% Notes due 2031",
        "years": 4.35,
-       "price": 97.74631,
+       "price": 97.764,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 5.5888948489902335,
-       "spread_bp": 69
+       "basis_date": "2026-10-16",
+       "yield_pct": 5.584511238253653,
+       "spread_bp": 66
       },
       {
        "cusip": "458140CQ1",
@@ -1384,7 +1384,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.6144355195780316,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "458140BU3",
@@ -1394,7 +1394,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.6870181997793035,
-       "spread_bp": 79
+       "spread_bp": 77
       },
       {
        "cusip": "458140CA6",
@@ -1404,7 +1404,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.785887582588489,
-       "spread_bp": 86
+       "spread_bp": 84
       },
       {
        "cusip": "458140AN0",
@@ -1414,7 +1414,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.761310203376113,
-       "spread_bp": 82
+       "spread_bp": 80
       },
       {
        "cusip": "458140CG3",
@@ -1424,7 +1424,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.876908285551008,
-       "spread_bp": 93
+       "spread_bp": 91
       },
       {
        "cusip": "458140CR9",
@@ -1434,7 +1434,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.855601593968163,
-       "spread_bp": 89
+       "spread_bp": 87
       },
       {
        "cusip": "458140CL2",
@@ -1444,7 +1444,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.9291658988667395,
-       "spread_bp": 94
+       "spread_bp": 92
       },
       {
        "cusip": "458140CS7",
@@ -1454,7 +1454,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.119055394486694,
-       "spread_bp": 105
+       "spread_bp": 103
       },
       {
        "cusip": "458140BL3",
@@ -1464,7 +1464,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.37386967070912,
-       "spread_bp": 123
+       "spread_bp": 121
       },
       {
        "cusip": "458140BV1",
@@ -1474,7 +1474,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.460080670105728,
-       "spread_bp": 129
+       "spread_bp": 127
       },
       {
        "cusip": "458140AK6",
@@ -1484,7 +1484,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.530293398832332,
-       "spread_bp": 136
+       "spread_bp": 134
       },
       {
        "cusip": "458140AP5",
@@ -1494,7 +1494,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.595780922294314,
-       "spread_bp": 140
+       "spread_bp": 138
       },
       {
        "cusip": "458140CH1",
@@ -1504,7 +1504,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.595489716648006,
-       "spread_bp": 140
+       "spread_bp": 138
       },
       {
        "cusip": "458140AT7",
@@ -1514,7 +1514,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.650792215782375,
-       "spread_bp": 141
+       "spread_bp": 140
       },
       {
        "cusip": "458140AV2",
@@ -1524,16 +1524,16 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.701305866504348,
-       "spread_bp": 145
+       "spread_bp": 143
       },
       {
        "cusip": "458140AY6",
        "security": "4.1% Notes due 2047",
        "years": 20.57,
-       "price": 71.031,
+       "price": 70.931,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 6.718405822355478,
+       "yield_pct": 6.729854064992558,
        "spread_bp": 145
       },
       {
@@ -1544,7 +1544,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.701765859218667,
-       "spread_bp": 142
+       "spread_bp": 141
       },
       {
        "cusip": "458140BF6",
@@ -1554,7 +1554,7 @@
        "basis": "trade",
        "basis_date": "2025-02-18",
        "yield_pct": 6.190875844458099,
-       "spread_bp": 88
+       "spread_bp": 87
       },
       {
        "cusip": "458140BJ8",
@@ -1564,7 +1564,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.683721346925453,
-       "spread_bp": 137
+       "spread_bp": 136
       },
       {
        "cusip": "458140BM1",
@@ -1574,7 +1574,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.723862807304548,
-       "spread_bp": 141
+       "spread_bp": 139
       },
       {
        "cusip": "458140BW9",
@@ -1584,17 +1584,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.505558932865552,
-       "spread_bp": 116
+       "spread_bp": 115
       },
       {
        "cusip": "458140CB4",
        "security": "4.9% Notes due 2052",
        "years": 25.8,
-       "price": 77.706,
+       "price": 77.925,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 6.732060925031091,
-       "spread_bp": 137
+       "yield_pct": 6.710392036419299,
+       "spread_bp": 134
       },
       {
        "cusip": "458140CJ7",
@@ -1604,7 +1604,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.7339812847727165,
-       "spread_bp": 137
+       "spread_bp": 135
       },
       {
        "cusip": "458140CM0",
@@ -1614,7 +1614,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.7333642520407855,
-       "spread_bp": 135
+       "spread_bp": 134
       },
       {
        "cusip": "458140CU2",
@@ -1624,7 +1624,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.743198325748945,
-       "spread_bp": 132
+       "spread_bp": 131
       },
       {
        "cusip": "458140BK5",
@@ -1634,7 +1634,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.677993975141905,
-       "spread_bp": 125
+       "spread_bp": 124
       },
       {
        "cusip": "458140BN9",
@@ -1644,7 +1644,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.756014308800906,
-       "spread_bp": 133
+       "spread_bp": 132
       },
       {
        "cusip": "458140BX7",
@@ -1654,7 +1654,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.6914114154052795,
-       "spread_bp": 126
+       "spread_bp": 125
       },
       {
        "cusip": "458140CC2",
@@ -1664,7 +1664,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.834880464940185,
-       "spread_bp": 140
+       "spread_bp": 139
       },
       {
        "cusip": "458140CK4",
@@ -1674,7 +1674,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.80102807864682,
-       "spread_bp": 137
+       "spread_bp": 136
       },
       {
        "cusip": "458140CV0",
@@ -1684,7 +1684,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.807522229545193,
-       "spread_bp": 138
+       "spread_bp": 137
       }
      ]
     },
@@ -1700,7 +1700,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.306788630052961,
-       "spread_bp": 41
+       "spread_bp": 39
       },
       {
        "cusip": "24703DBJ9",
@@ -1710,7 +1710,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.080782383377813,
-       "spread_bp": 18
+       "spread_bp": 16
       },
       {
        "cusip": "24703TAL0",
@@ -1720,7 +1720,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.101165784356376,
-       "spread_bp": 20
+       "spread_bp": 18
       },
       {
        "cusip": "24703DBR1",
@@ -1730,7 +1730,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.304019038414087,
-       "spread_bp": 40
+       "spread_bp": 38
       },
       {
        "cusip": "24703DBY6",
@@ -1740,17 +1740,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.3437626473687105,
-       "spread_bp": 44
+       "spread_bp": 42
       },
       {
        "cusip": "24703TAG1",
        "security": "5.3% Notes due 2029",
        "years": 2.96,
-       "price": 99.894,
+       "price": 99.769,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 5.338227195481893,
-       "spread_bp": 44
+       "yield_pct": 5.384521221669858,
+       "spread_bp": 46
       },
       {
        "cusip": "24703DBP5",
@@ -1760,7 +1760,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.5463754824926825,
-       "spread_bp": 65
+       "spread_bp": 63
       },
       {
        "cusip": "24703TAM8",
@@ -1770,7 +1770,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.4622620442178915,
-       "spread_bp": 56
+       "spread_bp": 54
       },
       {
        "cusip": "24703TAH9",
@@ -1780,7 +1780,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.607490040411922,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "24703DBS9",
@@ -1790,7 +1790,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.660290386633426,
-       "spread_bp": 76
+       "spread_bp": 74
       },
       {
        "cusip": "24703DBA8",
@@ -1800,7 +1800,7 @@
        "basis": "trade",
        "basis_date": "2025-04-22",
        "yield_pct": 5.033904447540594,
-       "spread_bp": 13
+       "spread_bp": 11
       },
       {
        "cusip": "24703DBV2",
@@ -1810,7 +1810,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.695935274995256,
-       "spread_bp": 80
+       "spread_bp": 78
       },
       {
        "cusip": "24703DBZ3",
@@ -1820,7 +1820,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.698216734342254,
-       "spread_bp": 80
+       "spread_bp": 78
       },
       {
        "cusip": "24703TAN6",
@@ -1830,7 +1830,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.7422408519685275,
-       "spread_bp": 82
+       "spread_bp": 80
       },
       {
        "cusip": "24703DBT7",
@@ -1840,7 +1840,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.755573764623079,
-       "spread_bp": 82
+       "spread_bp": 80
       },
       {
        "cusip": "24703DBL4",
@@ -1850,7 +1850,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.8179758341668775,
-       "spread_bp": 87
+       "spread_bp": 85
       },
       {
        "cusip": "24703DCA7",
@@ -1860,7 +1860,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.911562428678407,
-       "spread_bp": 94
+       "spread_bp": 92
       },
       {
        "cusip": "24703DBW0",
@@ -1870,17 +1870,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.90334902021008,
-       "spread_bp": 91
+       "spread_bp": 89
       },
       {
        "cusip": "24703DBN0",
        "security": "5.4% Notes due 2034",
        "years": 7.5,
-       "price": 95.883,
+       "price": 96.597,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 6.0922015520888495,
-       "spread_bp": 110
+       "yield_pct": 5.969620480262816,
+       "spread_bp": 95
       },
       {
        "cusip": "24703DBQ3",
@@ -1890,7 +1890,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.017811416154006,
-       "spread_bp": 99
+       "spread_bp": 97
       },
       {
        "cusip": "24703TAP1",
@@ -1900,17 +1900,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.01045298886731,
-       "spread_bp": 98
+       "spread_bp": 96
       },
       {
        "cusip": "24703DBU4",
        "security": "5.1% Notes due 2036",
-       "years": 9.34,
-       "price": 93.20745,
+       "years": 9.33,
+       "price": 93.109,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 6.062479185025826,
-       "spread_bp": 100
+       "basis_date": "2026-10-16",
+       "yield_pct": 6.077280359108417,
+       "spread_bp": 99
       },
       {
        "cusip": "24703TAJ5",
@@ -1920,7 +1920,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.286942936273099,
-       "spread_bp": 121
+       "spread_bp": 119
       },
       {
        "cusip": "24703DBX8",
@@ -1930,17 +1930,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.174171340048873,
-       "spread_bp": 108
+       "spread_bp": 106
       },
       {
        "cusip": "24703DCB5",
        "security": "5.9% Notes due 2037",
        "years": 10.46,
-       "price": 97.714,
+       "price": 97.941,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 6.199857829461375,
-       "spread_bp": 110
+       "yield_pct": 6.169649656755127,
+       "spread_bp": 105
       },
       {
        "cusip": "24703DBF7",
@@ -1950,7 +1950,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.34115156963484,
-       "spread_bp": 116
+       "spread_bp": 115
       },
       {
        "cusip": "24703DBE0",
@@ -1960,7 +1960,7 @@
        "basis": "trade",
        "basis_date": "2024-02-29",
        "yield_pct": 5.833315069626921,
-       "spread_bp": 61
+       "spread_bp": 59
       },
       {
        "cusip": "24703TAK2",
@@ -1970,7 +1970,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.715970315711739,
-       "spread_bp": 146
+       "spread_bp": 145
       },
       {
        "cusip": "24703DBH3",
@@ -1980,7 +1980,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.310813425189754,
-       "spread_bp": 96
+       "spread_bp": 95
       }
      ]
     },
@@ -1996,27 +1996,27 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.887134027901063,
-       "spread_bp": -1
+       "spread_bp": -3
       },
       {
        "cusip": "42824CBS7",
        "security": "4.4% Notes due 2027",
        "years": 0.94,
-       "price": 99.38893,
+       "price": 99.44,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 5.067809837045467,
-       "spread_bp": 17
+       "basis_date": "2026-10-16",
+       "yield_pct": 5.013180088359337,
+       "spread_bp": 9
       },
       {
        "cusip": "42824CCC1",
        "security": "4.5% Notes due 2028",
        "years": 1.44,
-       "price": 99.13437,
+       "price": 99.16561,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 5.129525782726119,
-       "spread_bp": 23
+       "yield_pct": 5.1066057597790815,
+       "spread_bp": 19
       },
       {
        "cusip": "42824CCF4",
@@ -2026,17 +2026,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.464823084460234,
-       "spread_bp": -44
+       "spread_bp": -46
       },
       {
        "cusip": "42824CBP3",
        "security": "5.25% Notes due 2028",
        "years": 1.71,
-       "price": 100.074,
+       "price": 100.049,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 5.199096718714968,
-       "spread_bp": 30
+       "yield_pct": 5.21455890251723,
+       "spread_bp": 29
       },
       {
        "cusip": "42824CBY4",
@@ -2046,7 +2046,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.446457081109556,
-       "spread_bp": -45
+       "spread_bp": -47
       },
       {
        "cusip": "42824CBZ1",
@@ -2056,7 +2056,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.263584406548971,
-       "spread_bp": 36
+       "spread_bp": 34
       },
       {
        "cusip": "42824CCD9",
@@ -2066,7 +2066,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.31931669450334,
-       "spread_bp": 42
+       "spread_bp": 40
       },
       {
        "cusip": "42824CBT5",
@@ -2076,7 +2076,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 4.907351958892581,
-       "spread_bp": 1
+       "spread_bp": -1
       },
       {
        "cusip": "42824CCA5",
@@ -2086,7 +2086,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.6062110314264,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "42824CBU2",
@@ -2096,17 +2096,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.614837061117073,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "42824CCE7",
        "security": "5.25% Notes due 2033",
        "years": 6.46,
-       "price": 97.185,
+       "price": 97.21,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 5.777744247360261,
-       "spread_bp": 82
+       "yield_pct": 5.7729736679574595,
+       "spread_bp": 80
       },
       {
        "cusip": "42824CBV0",
@@ -2116,7 +2116,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.95969963326215,
-       "spread_bp": 95
+       "spread_bp": 93
       },
       {
        "cusip": "42824CAX7",
@@ -2126,7 +2126,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.9280016486839004,
-       "spread_bp": 88
+       "spread_bp": 86
       },
       {
        "cusip": "U42832AJ1",
@@ -2136,17 +2136,17 @@
        "basis": "trade",
        "basis_date": "2024-02-22",
        "yield_pct": 6.198800199735088,
-       "spread_bp": 108
+       "spread_bp": 106
       },
       {
        "cusip": "42824CAY5",
        "security": "6.35% Notes due 2045",
        "years": 19.0,
-       "price": 96.27,
+       "price": 97.624,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 6.699958566504827,
-       "spread_bp": 146
+       "yield_pct": 6.570739583706708,
+       "spread_bp": 131
       },
       {
        "cusip": "42824CAR0",
@@ -2156,7 +2156,7 @@
        "basis": "trade",
        "basis_date": "2025-05-28",
        "yield_pct": 6.420030504014229,
-       "spread_bp": 115
+       "spread_bp": 114
       },
       {
        "cusip": "42824CBW8",
@@ -2166,7 +2166,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.694016762190658,
-       "spread_bp": 130
+       "spread_bp": 129
       }
      ]
     },
@@ -2182,7 +2182,7 @@
        "basis": "trade",
        "basis_date": "2025-09-08",
        "yield_pct": 4.186877313393134,
-       "spread_bp": -71
+       "spread_bp": -73
       },
       {
        "cusip": "595112CA9",
@@ -2192,7 +2192,7 @@
        "basis": "trade",
        "basis_date": "2025-10-23",
        "yield_pct": 4.107982378989905,
-       "spread_bp": -79
+       "spread_bp": -81
       },
       {
        "cusip": "595112BN2",
@@ -2202,7 +2202,7 @@
        "basis": "trade",
        "basis_date": "2026-02-18",
        "yield_pct": 4.223538419238326,
-       "spread_bp": -68
+       "spread_bp": -70
       },
       {
        "cusip": "595112BQ5",
@@ -2212,7 +2212,7 @@
        "basis": "trade",
        "basis_date": "2026-02-19",
        "yield_pct": 4.47260708150703,
-       "spread_bp": -43
+       "spread_bp": -45
       },
       {
        "cusip": "595112BV4",
@@ -2222,7 +2222,7 @@
        "basis": "trade",
        "basis_date": "2025-10-22",
        "yield_pct": 4.187496465815044,
-       "spread_bp": -71
+       "spread_bp": -73
       },
       {
        "cusip": "595112CD3",
@@ -2232,7 +2232,7 @@
        "basis": "trade",
        "basis_date": "2026-07-23",
        "yield_pct": 4.868519457403031,
-       "spread_bp": -3
+       "spread_bp": -5
       },
       {
        "cusip": "595112BS1",
@@ -2242,7 +2242,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.589744592270507,
-       "spread_bp": 67
+       "spread_bp": 65
       },
       {
        "cusip": "595112CG6",
@@ -2252,26 +2252,26 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 5.821849070562846,
-       "spread_bp": 88
+       "spread_bp": 86
       },
       {
        "cusip": "595112BZ5",
        "security": "5.875% Notes due 2033",
        "years": 6.32,
-       "price": 100.03,
+       "price": 99.93,
        "basis": "trade",
        "basis_date": "2026-10-14",
-       "yield_pct": 5.867374416577031,
+       "yield_pct": 5.886542451959476,
        "spread_bp": 92
       },
       {
        "cusip": "595112CB7",
        "security": "5.875% Notes due 2033",
        "years": 6.92,
-       "price": 100.342,
+       "price": 100.242,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 5.813208518464141,
+       "yield_pct": 5.83094404318707,
        "spread_bp": 84
       },
       {
@@ -2282,7 +2282,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.838303094999886,
-       "spread_bp": 81
+       "spread_bp": 79
       },
       {
        "cusip": "595112CH4",
@@ -2292,7 +2292,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.042066827829973,
-       "spread_bp": 99
+       "spread_bp": 97
       },
       {
        "cusip": "595112BT9",
@@ -2302,7 +2302,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.180605961236885,
-       "spread_bp": 100
+       "spread_bp": 99
       },
       {
        "cusip": "595112BU6",
@@ -2312,7 +2312,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.268735029934347,
-       "spread_bp": 92
+       "spread_bp": 91
       }
      ]
     },
@@ -2328,17 +2328,17 @@
        "basis": "trade",
        "basis_date": "2026-10-08",
        "yield_pct": 4.583913459493094,
-       "spread_bp": -32
+       "spread_bp": -34
       },
       {
        "cusip": "78392BAG2",
        "security": "5.5% Notes due 2027",
        "years": 0.28,
-       "price": 100.398,
+       "price": 100.428,
        "basis": "trade",
        "basis_date": "2026-10-05",
-       "yield_pct": 4.034606779338845,
-       "spread_bp": -87
+       "yield_pct": 3.927286195002222,
+       "spread_bp": -99
       },
       {
        "cusip": "78392BAE7",
@@ -2348,7 +2348,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 5.265073503459106,
-       "spread_bp": 37
+       "spread_bp": 35
       },
       {
        "cusip": "Y8085FBK5",
@@ -2358,17 +2358,17 @@
        "basis": "trade",
        "basis_date": "2026-10-08",
        "yield_pct": 5.106370355272882,
-       "spread_bp": 21
+       "spread_bp": 19
       },
       {
        "cusip": "78392BAJ6",
        "security": "4.25% Notes due 2028",
        "years": 1.91,
-       "price": 97.873,
+       "price": 97.843,
        "basis": "trade",
        "basis_date": "2026-10-14",
-       "yield_pct": 5.4360868002346185,
-       "spread_bp": 54
+       "yield_pct": 5.453078619535412,
+       "spread_bp": 53
       },
       {
        "cusip": "Y8085FBY5",
@@ -2378,7 +2378,7 @@
        "basis": "trade",
        "basis_date": "2026-10-09",
        "yield_pct": 5.199857518889206,
-       "spread_bp": 30
+       "spread_bp": 28
       },
       {
        "cusip": "78392BAH0",
@@ -2388,7 +2388,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 5.43835190495392,
-       "spread_bp": 54
+       "spread_bp": 52
       },
       {
        "cusip": "Y8085FBU3",
@@ -2398,7 +2398,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 5.385176921564017,
-       "spread_bp": 49
+       "spread_bp": 47
       },
       {
        "cusip": "78392BAK3",
@@ -2408,7 +2408,7 @@
        "basis": "trade",
        "basis_date": "2026-10-06",
        "yield_pct": 5.632921627892906,
-       "spread_bp": 73
+       "spread_bp": 71
       },
       {
        "cusip": "Y8085FBZ2",
@@ -2418,7 +2418,7 @@
        "basis": "trade",
        "basis_date": "2026-10-08",
        "yield_pct": 5.651634247146986,
-       "spread_bp": 75
+       "spread_bp": 73
       },
       {
        "cusip": "Y8085FBD1",
@@ -2428,7 +2428,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.605533845070831,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "78392BAC1",
@@ -2438,7 +2438,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 5.800821758994945,
-       "spread_bp": 90
+       "spread_bp": 88
       },
       {
        "cusip": "Y8085FBL3",
@@ -2448,7 +2448,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.836110950668627,
-       "spread_bp": 89
+       "spread_bp": 87
       },
       {
        "cusip": "78392BAF4",
@@ -2458,7 +2458,7 @@
        "basis": "trade",
        "basis_date": "2026-10-07",
        "yield_pct": 5.93157582234467,
-       "spread_bp": 98
+       "spread_bp": 96
       }
      ]
     },
@@ -2474,17 +2474,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 13.829584345543534,
-       "spread_bp": 893
+       "spread_bp": 891
       },
       {
        "cusip": "U2069EAA8",
        "security": "",
        "years": 3.62,
-       "price": 86.0,
+       "price": 87.25,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 14.323952758642044,
-       "spread_bp": 942
+       "yield_pct": 13.829584345543534,
+       "spread_bp": 891
       },
       {
        "cusip": "21873SAC2",
@@ -2494,17 +2494,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 14.620162036324814,
-       "spread_bp": 972
+       "spread_bp": 970
       },
       {
        "cusip": "U2069EAB6",
        "security": "",
        "years": 4.3,
-       "price": 83.774,
+       "price": 83.874,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 14.162017804448656,
-       "spread_bp": 926
+       "yield_pct": 14.126426637619339,
+       "spread_bp": 921
       },
       {
        "cusip": "21873SAG3",
@@ -2514,7 +2514,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 15.190777344262397,
-       "spread_bp": 1029
+       "spread_bp": 1027
       },
       {
        "cusip": "U2069EAC4",
@@ -2524,17 +2524,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 15.06531841618861,
-       "spread_bp": 1017
+       "spread_bp": 1015
       },
       {
        "cusip": "U2069EAD2",
        "security": "9.75% Senior Notes due 2031 (144A line 2)",
        "years": 4.96,
-       "price": 84.792,
+       "price": 84.692,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 14.113797317873388,
-       "spread_bp": 921
+       "yield_pct": 14.14572333565458,
+       "spread_bp": 923
       },
       {
        "cusip": "21873SAD0",
@@ -2544,7 +2544,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.052789092412536,
-       "spread_bp": 115
+       "spread_bp": 113
       },
       {
        "cusip": "21873SAK4",
@@ -2554,17 +2554,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 14.677167535448032,
-       "spread_bp": 975
+       "spread_bp": 973
       },
       {
        "cusip": "U2069EAE0",
        "security": "",
        "years": 5.75,
-       "price": 82.54,
+       "price": 82.6275,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 14.15448983533405,
-       "spread_bp": 923
+       "yield_pct": 14.128775728603916,
+       "spread_bp": 918
       },
       {
        "cusip": "21873SAH1",
@@ -2574,17 +2574,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.450559657025434,
-       "spread_bp": 151
+       "spread_bp": 149
       },
       {
        "cusip": "21873SAL2",
        "security": "2.875% Convertible Notes due 2033",
        "years": 6.46,
-       "price": 89.797,
+       "price": 85.2928,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 4.725694757669507,
-       "spread_bp": -23
+       "basis_date": "2026-10-16",
+       "yield_pct": 5.6218454279669094,
+       "spread_bp": 65
       }
      ]
     },
@@ -2600,7 +2600,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 4.8131569846089794,
-       "spread_bp": -9
+       "spread_bp": -11
       },
       {
        "cusip": "872882AM7",
@@ -2610,7 +2610,7 @@
        "basis": "trade",
        "basis_date": "2026-09-01",
        "yield_pct": 4.499784337784463,
-       "spread_bp": -40
+       "spread_bp": -42
       },
       {
        "cusip": "G91139AD0",
@@ -2620,7 +2620,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 4.94925341454715,
-       "spread_bp": 5
+       "spread_bp": 3
       },
       {
        "cusip": "872882AF2",
@@ -2630,7 +2630,7 @@
        "basis": "trade",
        "basis_date": "2026-10-02",
        "yield_pct": 4.845494187766719,
-       "spread_bp": -5
+       "spread_bp": -7
       },
       {
        "cusip": "G91139AG3",
@@ -2640,7 +2640,7 @@
        "basis": "trade",
        "basis_date": "2026-09-30",
        "yield_pct": 5.090215524377029,
-       "spread_bp": 19
+       "spread_bp": 17
       },
       {
        "cusip": "872882AJ4",
@@ -2650,7 +2650,7 @@
        "basis": "trade",
        "basis_date": "2026-09-22",
        "yield_pct": 5.042054876363289,
-       "spread_bp": 14
+       "spread_bp": 12
       },
       {
        "cusip": "G91139AE8",
@@ -2660,7 +2660,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 5.327919508341972,
-       "spread_bp": 43
+       "spread_bp": 41
       },
       {
        "cusip": "872882AG0",
@@ -2670,7 +2670,7 @@
        "basis": "trade",
        "basis_date": "2026-09-24",
        "yield_pct": 5.3603758164908255,
-       "spread_bp": 46
+       "spread_bp": 44
       },
       {
        "cusip": "G91139AH1",
@@ -2680,7 +2680,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 5.4814861279275595,
-       "spread_bp": 58
+       "spread_bp": 56
       },
       {
        "cusip": "872882AK1",
@@ -2690,7 +2690,7 @@
        "basis": "trade",
        "basis_date": "2026-09-22",
        "yield_pct": 5.229774337287441,
-       "spread_bp": 33
+       "spread_bp": 31
       },
       {
        "cusip": "872882AN5",
@@ -2700,7 +2700,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.257238547114107,
-       "spread_bp": 33
+       "spread_bp": 31
       },
       {
        "cusip": "G91139AL2",
@@ -2710,7 +2710,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.158809330901781,
-       "spread_bp": 23
+       "spread_bp": 21
       }
      ]
     },
@@ -2726,7 +2726,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 4.605793740905217,
-       "spread_bp": -29
+       "spread_bp": -31
       },
       {
        "cusip": "038222AS4",
@@ -2736,7 +2736,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.080876243304533,
-       "spread_bp": 18
+       "spread_bp": 16
       },
       {
        "cusip": "038222AN5",
@@ -2746,7 +2746,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.308981375586064,
-       "spread_bp": 41
+       "spread_bp": 39
       },
       {
        "cusip": "038222AT2",
@@ -2756,7 +2756,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.330140183578025,
-       "spread_bp": 43
+       "spread_bp": 41
       },
       {
        "cusip": "038222AK1",
@@ -2766,7 +2766,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.631832443388718,
-       "spread_bp": 58
+       "spread_bp": 56
       },
       {
        "cusip": "038222AU9",
@@ -2776,7 +2776,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.743681771049336,
-       "spread_bp": 68
+       "spread_bp": 66
       },
       {
        "cusip": "038222AG0",
@@ -2786,7 +2786,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.008553815625706,
-       "spread_bp": 84
+       "spread_bp": 82
       },
       {
        "cusip": "038222AM7",
@@ -2796,17 +2796,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.100604940311727,
-       "spread_bp": 83
+       "spread_bp": 82
       },
       {
        "cusip": "038222AP0",
        "security": "2.75% Notes due 2050",
        "years": 23.63,
-       "price": 57.76273,
+       "price": 57.82523,
        "basis": "trade",
        "basis_date": "2026-10-14",
-       "yield_pct": 6.168778645566131,
-       "spread_bp": 85
+       "yield_pct": 6.1614575179770315,
+       "spread_bp": 83
       }
      ]
     },
@@ -2818,11 +2818,11 @@
        "cusip": "573874AF1",
        "security": "2.45% Notes due 2028",
        "years": 1.5,
-       "price": 95.962,
+       "price": 95.951,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 5.285523299668671,
-       "spread_bp": 39
+       "yield_pct": 5.293465705817435,
+       "spread_bp": 37
       },
       {
        "cusip": "573874AN4",
@@ -2832,7 +2832,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.261342171805805,
-       "spread_bp": 36
+       "spread_bp": 34
       },
       {
        "cusip": "573874AM6",
@@ -2842,7 +2842,7 @@
        "basis": "trade",
        "basis_date": "2026-09-23",
        "yield_pct": 5.0295240345714864,
-       "spread_bp": 13
+       "spread_bp": 11
       },
       {
        "cusip": "573874AP9",
@@ -2852,7 +2852,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.340446728808268,
-       "spread_bp": 44
+       "spread_bp": 42
       },
       {
        "cusip": "573874AR5",
@@ -2862,7 +2862,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.6073992565997655,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "573874AJ3",
@@ -2872,7 +2872,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.649993779374829,
-       "spread_bp": 75
+       "spread_bp": 73
       },
       {
        "cusip": "573874AQ7",
@@ -2882,7 +2882,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.826669691515884,
-       "spread_bp": 85
+       "spread_bp": 83
       },
       {
        "cusip": "573874AS3",
@@ -2892,7 +2892,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.030143245676922,
-       "spread_bp": 99
+       "spread_bp": 97
       },
       {
        "cusip": "573874AT1",
@@ -2902,7 +2902,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.0841292303303485,
-       "spread_bp": 101
+       "spread_bp": 99
       }
      ]
     },
@@ -2918,7 +2918,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.948080634671714,
-       "spread_bp": 5
+       "spread_bp": 3
       },
       {
        "cusip": "278058DW9",
@@ -2928,7 +2928,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.154848619212049,
-       "spread_bp": 25
+       "spread_bp": 23
       },
       {
        "cusip": "278058AW2",
@@ -2938,7 +2938,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.03467709677079,
-       "spread_bp": 13
+       "spread_bp": 11
       },
       {
        "cusip": "278058DX7",
@@ -2948,7 +2948,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.393288125216844,
-       "spread_bp": 49
+       "spread_bp": 47
       },
       {
        "cusip": "278058DY5",
@@ -2958,7 +2958,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.5420293085909345,
-       "spread_bp": 59
+       "spread_bp": 57
       },
       {
        "cusip": "278058AY8",
@@ -2968,7 +2968,7 @@
        "basis": "trade",
        "basis_date": "2026-10-08",
        "yield_pct": 6.009357365725365,
-       "spread_bp": 99
+       "spread_bp": 97
       },
       {
        "cusip": "278058DZ2",
@@ -2978,17 +2978,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.71400057829885,
-       "spread_bp": 65
+       "spread_bp": 63
       },
       {
        "cusip": "278058DB5",
        "security": "5.8% Notes due 2037",
        "years": 10.42,
-       "price": 99.737,
+       "price": 99.662,
        "basis": "trade",
        "basis_date": "2026-10-14",
-       "yield_pct": 5.833312962153481,
-       "spread_bp": 74
+       "yield_pct": 5.8430390414267785,
+       "spread_bp": 73
       },
       {
        "cusip": "278058EA6",
@@ -2998,7 +2998,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.078919751473566,
-       "spread_bp": 66
+       "spread_bp": 65
       }
      ]
     },
@@ -3014,7 +3014,7 @@
        "basis": "trade",
        "basis_date": "2026-10-05",
        "yield_pct": 5.894984723966723,
-       "spread_bp": 59
+       "spread_bp": 58
       },
       {
        "cusip": "20469AAC3",
@@ -3024,7 +3024,7 @@
        "basis": "trade",
        "basis_date": "2026-09-24",
        "yield_pct": 7.089676576171944,
-       "spread_bp": 179
+       "spread_bp": 177
       },
       {
        "cusip": "20469AAD1",
@@ -3034,7 +3034,7 @@
        "basis": "trade",
        "basis_date": "2026-09-18",
        "yield_pct": 5.23946521650267,
-       "spread_bp": -7
+       "spread_bp": -8
       },
       {
        "cusip": "20469AAE9",
@@ -3044,7 +3044,7 @@
        "basis": "trade",
        "basis_date": "2026-07-28",
        "yield_pct": 6.0161982764530775,
-       "spread_bp": 70
+       "spread_bp": 69
       },
       {
        "cusip": "20469AAF6",
@@ -3054,7 +3054,7 @@
        "basis": "trade",
        "basis_date": "2026-07-27",
        "yield_pct": 6.058655711126293,
-       "spread_bp": 75
+       "spread_bp": 73
       },
       {
        "cusip": "20469BAA5",
@@ -3064,7 +3064,7 @@
        "basis": "trade",
        "basis_date": "2026-09-22",
        "yield_pct": 5.8026875735475825,
-       "spread_bp": 48
+       "spread_bp": 47
       },
       {
        "cusip": "20469CAA3",
@@ -3074,7 +3074,7 @@
        "basis": "trade",
        "basis_date": "2026-09-28",
        "yield_pct": 5.542442114740065,
-       "spread_bp": 22
+       "spread_bp": 21
       },
       {
        "cusip": "20469CAC9",
@@ -3084,7 +3084,7 @@
        "basis": "trade",
        "basis_date": "2025-11-05",
        "yield_pct": 5.653810788498137,
-       "spread_bp": 32
+       "spread_bp": 30
       }
      ]
     },
@@ -3100,7 +3100,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.205356499609581,
-       "spread_bp": 31
+       "spread_bp": 29
       },
       {
        "cusip": "482480AL4",
@@ -3110,7 +3110,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.512676010668138,
-       "spread_bp": 58
+       "spread_bp": 56
       },
       {
        "cusip": "482480AP5",
@@ -3120,7 +3120,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.685122734578596,
-       "spread_bp": 70
+       "spread_bp": 68
       },
       {
        "cusip": "482480AF7",
@@ -3130,7 +3130,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.711107638149859,
-       "spread_bp": 70
+       "spread_bp": 68
       },
       {
        "cusip": "482480AH3",
@@ -3140,17 +3140,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.264097479547126,
-       "spread_bp": 96
+       "spread_bp": 95
       },
       {
        "cusip": "482480AJ9",
        "security": "3.3% Notes due 2050",
        "years": 23.38,
-       "price": 64.40424,
+       "price": 64.43549,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 6.204349791603092,
-       "spread_bp": 89
+       "yield_pct": 6.200902794078034,
+       "spread_bp": 87
       },
       {
        "cusip": "482480AM2",
@@ -3160,7 +3160,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.182802185665293,
-       "spread_bp": 83
+       "spread_bp": 81
       },
       {
        "cusip": "482480AN0",
@@ -3170,7 +3170,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.273975917315666,
-       "spread_bp": 84
+       "spread_bp": 83
       }
      ]
     },
@@ -3186,7 +3186,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 4.889711812950215,
-       "spread_bp": -1
+       "spread_bp": -3
       },
       {
        "cusip": "007903BK2",
@@ -3196,7 +3196,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.160421446868679,
-       "spread_bp": 26
+       "spread_bp": 24
       },
       {
        "cusip": "007903BL0",
@@ -3206,7 +3206,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.512168645691484,
-       "spread_bp": 61
+       "spread_bp": 59
       },
       {
        "cusip": "007903BF3",
@@ -3216,7 +3216,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.539708718402614,
-       "spread_bp": 62
+       "spread_bp": 60
       },
       {
        "cusip": "007903BM8",
@@ -3226,7 +3226,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.7487559924166876,
-       "spread_bp": 78
+       "spread_bp": 76
       },
       {
        "cusip": "007903BN6",
@@ -3236,7 +3236,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 5.981723443023612,
-       "spread_bp": 90
+       "spread_bp": 88
       },
       {
        "cusip": "007903BG1",
@@ -3246,7 +3246,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.232295264961718,
-       "spread_bp": 88
+       "spread_bp": 86
       }
      ]
     },
@@ -3262,7 +3262,7 @@
        "basis": "trade",
        "basis_date": "2026-06-11",
        "yield_pct": 1.8847489279769425,
-       "spread_bp": -338
+       "spread_bp": -339
       },
       {
        "cusip": "78520EAC0",
@@ -3272,7 +3272,7 @@
        "basis": "trade",
        "basis_date": "2026-09-24",
        "yield_pct": 5.342375578690883,
-       "spread_bp": 7
+       "spread_bp": 6
       },
       {
        "cusip": "78520EAE6",
@@ -3282,7 +3282,7 @@
        "basis": "trade",
        "basis_date": "2026-01-12",
        "yield_pct": 6.217357250730404,
-       "spread_bp": 92
+       "spread_bp": 90
       },
       {
        "cusip": "78520EAG1",
@@ -3292,7 +3292,7 @@
        "basis": "trade",
        "basis_date": "2026-09-21",
        "yield_pct": 6.097028672263449,
-       "spread_bp": 79
+       "spread_bp": 78
       },
       {
        "cusip": "78520EAH9",
@@ -3302,7 +3302,7 @@
        "basis": "trade",
        "basis_date": "2026-07-15",
        "yield_pct": 5.722765645455685,
-       "spread_bp": 40
+       "spread_bp": 39
       },
       {
        "cusip": "78520EAK2",
@@ -3312,7 +3312,7 @@
        "basis": "trade",
        "basis_date": "2026-07-29",
        "yield_pct": 5.6142593573020205,
-       "spread_bp": 28
+       "spread_bp": 27
       }
      ]
     },
@@ -3328,7 +3328,7 @@
        "basis": "trade",
        "basis_date": "2026-07-29",
        "yield_pct": 2.487431105646576,
-       "spread_bp": -277
+       "spread_bp": -279
       },
       {
        "cusip": "01627AAA6",
@@ -3338,7 +3338,7 @@
        "basis": "trade",
        "basis_date": "2026-06-17",
        "yield_pct": 1.9633201799658329,
-       "spread_bp": -330
+       "spread_bp": -331
       },
       {
        "cusip": "01627AAC2",
@@ -3348,7 +3348,7 @@
        "basis": "trade",
        "basis_date": "2026-05-19",
        "yield_pct": 6.342292003850836,
-       "spread_bp": 106
+       "spread_bp": 104
       },
       {
        "cusip": "01627AAD0",
@@ -3358,7 +3358,7 @@
        "basis": "trade",
        "basis_date": "2026-03-31",
        "yield_pct": 5.961145749395613,
-       "spread_bp": 66
+       "spread_bp": 65
       },
       {
        "cusip": "01627AAF5",
@@ -3368,7 +3368,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 6.7059032486063375,
-       "spread_bp": 128
+       "spread_bp": 127
       }
      ]
     },
@@ -3384,7 +3384,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.516506148564404,
-       "spread_bp": 10
+       "spread_bp": 9
       },
       {
        "cusip": "74690FAU0",
@@ -3394,7 +3394,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.375942632884679,
-       "spread_bp": 96
+       "spread_bp": 95
       },
       {
        "cusip": "74690FAY2",
@@ -3404,7 +3404,7 @@
        "basis": "trade",
        "basis_date": "2026-09-22",
        "yield_pct": 6.756020532296625,
-       "spread_bp": 134
+       "spread_bp": 133
       },
       {
        "cusip": "74690FAS5",
@@ -3414,7 +3414,7 @@
        "basis": "trade",
        "basis_date": "2026-08-04",
        "yield_pct": 6.82342604825299,
-       "spread_bp": 140
+       "spread_bp": 139
       },
       {
        "cusip": "74690FBE5",
@@ -3424,7 +3424,7 @@
        "basis": "trade",
        "basis_date": "2026-08-24",
        "yield_pct": 6.233193724536368,
-       "spread_bp": 81
+       "spread_bp": 80
       }
      ]
     },
@@ -3440,7 +3440,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.142935625012934,
-       "spread_bp": 24
+       "spread_bp": 22
       },
       {
        "cusip": "512807AV0",
@@ -3450,7 +3450,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.298351905543597,
-       "spread_bp": 40
+       "spread_bp": 38
       },
       {
        "cusip": "512807AT5",
@@ -3460,7 +3460,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.1375896919596995,
-       "spread_bp": 84
+       "spread_bp": 82
       },
       {
        "cusip": "512807AW8",
@@ -3470,7 +3470,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.068722835289608,
-       "spread_bp": 75
+       "spread_bp": 73
       },
       {
        "cusip": "512807AX6",
@@ -3480,7 +3480,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 6.300277467858417,
-       "spread_bp": 87
+       "spread_bp": 86
       }
      ]
     },
@@ -3496,7 +3496,7 @@
        "basis": "trade",
        "basis_date": "2026-08-24",
        "yield_pct": -29.782089312202707,
-       "spread_bp": -3468
+       "spread_bp": -3470
       },
       {
        "cusip": "46270CAB5",
@@ -3506,7 +3506,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": -15.384806881503,
-       "spread_bp": -2028
+       "spread_bp": -2030
       },
       {
        "cusip": "46270CAG4",
@@ -3516,7 +3516,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.6136658936652095,
-       "spread_bp": 69
+       "spread_bp": 67
       },
       {
        "cusip": "46270CAJ8",
@@ -3526,17 +3526,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.924840326305026,
-       "spread_bp": 196
+       "spread_bp": 194
       },
       {
        "cusip": "46270CAL3",
        "security": "1% Notes due 2033",
        "years": 7.13,
-       "price": 60.083564,
+       "price": 59.7763,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 8.608526120257466,
-       "spread_bp": 363
+       "basis_date": "2026-10-16",
+       "yield_pct": 8.690027395385314,
+       "spread_bp": 369
       }
      ]
     },
@@ -3552,7 +3552,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 5.194141429427757,
-       "spread_bp": -10
+       "spread_bp": -11
       },
       {
        "cusip": "76134KAE4",
@@ -3562,7 +3562,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.834954785818991,
-       "spread_bp": 54
+       "spread_bp": 53
       },
       {
        "cusip": "76134KAJ3",
@@ -3572,7 +3572,7 @@
        "basis": "trade",
        "basis_date": "2026-10-07",
        "yield_pct": 6.207494769705213,
-       "spread_bp": 90
+       "spread_bp": 88
       },
       {
        "cusip": "76134KAH7",
@@ -3582,7 +3582,7 @@
        "basis": "trade",
        "basis_date": "2026-09-23",
        "yield_pct": 5.345638659530372,
-       "spread_bp": 3
+       "spread_bp": 2
       }
      ]
     },
@@ -3598,7 +3598,7 @@
        "basis": "trade",
        "basis_date": "2026-01-27",
        "yield_pct": 1.9069266018943987,
-       "spread_bp": -336
+       "spread_bp": -337
       },
       {
        "cusip": "85236KAK8",
@@ -3608,7 +3608,7 @@
        "basis": "trade",
        "basis_date": "2026-09-23",
        "yield_pct": 6.00169965929751,
-       "spread_bp": 71
+       "spread_bp": 69
       },
       {
        "cusip": "85236KAP7",
@@ -3618,7 +3618,7 @@
        "basis": "trade",
        "basis_date": "2026-09-17",
        "yield_pct": 5.518204969473683,
-       "spread_bp": 20
+       "spread_bp": 18
       },
       {
        "cusip": "85236KAR3",
@@ -3628,7 +3628,7 @@
        "basis": "trade",
        "basis_date": "2026-09-24",
        "yield_pct": 5.447067200561828,
-       "spread_bp": 3
+       "spread_bp": 2
       }
      ]
     },
@@ -3644,7 +3644,7 @@
        "basis": "trade",
        "basis_date": "2025-09-02",
        "yield_pct": 1.6516506619330462,
-       "spread_bp": -361
+       "spread_bp": -362
       },
       {
        "cusip": "92212KAD8",
@@ -3654,7 +3654,7 @@
        "basis": "trade",
        "basis_date": "2026-08-13",
        "yield_pct": 2.1896989833405156,
-       "spread_bp": -307
+       "spread_bp": -309
       },
       {
        "cusip": "92212KAH9",
@@ -3664,7 +3664,7 @@
        "basis": "trade",
        "basis_date": "2026-09-03",
        "yield_pct": 5.351178280159252,
-       "spread_bp": -6
+       "spread_bp": -7
       },
       {
        "cusip": "92212KAJ5",
@@ -3674,7 +3674,7 @@
        "basis": "trade",
        "basis_date": "2026-10-07",
        "yield_pct": 5.631947191807929,
-       "spread_bp": 22
+       "spread_bp": 21
       }
      ]
     },
@@ -3690,7 +3690,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.952712345788114,
-       "spread_bp": 88
+       "spread_bp": 86
       },
       {
        "cusip": "92537NAB4",
@@ -3700,17 +3700,17 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.42990123492575,
-       "spread_bp": 118
+       "spread_bp": 116
       },
       {
        "cusip": "92537NAC2",
        "security": "5.8% Notes due 2056",
-       "years": 29.42,
-       "price": 91.495553,
+       "years": 29.41,
+       "price": 91.738,
        "basis": "trade",
-       "basis_date": "2026-10-15",
-       "yield_pct": 6.448181441238288,
-       "spread_bp": 103
+       "basis_date": "2026-10-16",
+       "yield_pct": 6.428417124961627,
+       "spread_bp": 100
       },
       {
        "cusip": "92537NAD0",
@@ -3720,7 +3720,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.599965066410074,
-       "spread_bp": 117
+       "spread_bp": 116
       }
      ]
     },
@@ -3736,7 +3736,7 @@
        "basis": "trade",
        "basis_date": "2026-09-15",
        "yield_pct": 5.531806855035826,
-       "spread_bp": 21
+       "spread_bp": 19
       },
       {
        "cusip": "20469BAG2",
@@ -3746,7 +3746,7 @@
        "basis": "trade",
        "basis_date": "2026-10-06",
        "yield_pct": 5.6650810245902905,
-       "spread_bp": 25
+       "spread_bp": 24
       },
       {
        "cusip": "20469BAF4",
@@ -3756,7 +3756,7 @@
        "basis": "trade",
        "basis_date": "2026-10-02",
        "yield_pct": 5.271212950164705,
-       "spread_bp": -15
+       "spread_bp": -16
       }
      ]
     },
@@ -3772,7 +3772,7 @@
        "basis": "trade",
        "basis_date": "2026-10-08",
        "yield_pct": 2.216762196611355,
-       "spread_bp": -303
+       "spread_bp": -304
       },
       {
        "cusip": "92212KAE6",
@@ -3782,7 +3782,7 @@
        "basis": "trade",
        "basis_date": "2025-10-31",
        "yield_pct": 6.275976961215846,
-       "spread_bp": 98
+       "spread_bp": 96
       },
       {
        "cusip": "92212KAG1",
@@ -3792,7 +3792,7 @@
        "basis": "trade",
        "basis_date": "2026-09-24",
        "yield_pct": 5.386341792280924,
-       "spread_bp": 8
+       "spread_bp": 6
       }
      ]
     },
@@ -3808,7 +3808,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.052999652278856,
-       "spread_bp": 15
+       "spread_bp": 13
       },
       {
        "cusip": "U9222UAB9",
@@ -3818,7 +3818,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 4.960385360965192,
-       "spread_bp": 6
+       "spread_bp": 4
       },
       {
        "cusip": "92535UAC8",
@@ -3828,7 +3828,7 @@
        "basis": "trade",
        "basis_date": "2026-07-21",
        "yield_pct": 4.573152187674023,
-       "spread_bp": -33
+       "spread_bp": -35
       }
      ]
     },
@@ -3840,11 +3840,11 @@
        "cusip": "36828AAA9",
        "security": "4.25% Notes due 2031",
        "years": 4.31,
-       "price": 95.5,
+       "price": 95.75,
        "basis": "trade",
        "basis_date": "2026-10-15",
-       "yield_pct": 5.4351804499449985,
-       "spread_bp": 54
+       "yield_pct": 5.367550568442048,
+       "spread_bp": 45
       },
       {
        "cusip": "36828AAB7",
@@ -3854,7 +3854,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.733973226226152,
-       "spread_bp": 67
+       "spread_bp": 65
       },
       {
        "cusip": "36828AAC5",
@@ -3864,7 +3864,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.198537059102915,
-       "spread_bp": 78
+       "spread_bp": 77
       }
      ]
     },
@@ -3880,7 +3880,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 7.257942447039567,
-       "spread_bp": 195
+       "spread_bp": 194
       },
       {
        "cusip": "U06930AA6",
@@ -3890,7 +3890,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 7.3131212418781955,
-       "spread_bp": 201
+       "spread_bp": 199
       }
      ]
     },
@@ -3906,7 +3906,7 @@
        "basis": "trade",
        "basis_date": "2026-04-14",
        "yield_pct": 5.78631489307051,
-       "spread_bp": 46
+       "spread_bp": 45
       },
       {
        "cusip": "20469BAH0",
@@ -3916,7 +3916,7 @@
        "basis": "trade",
        "basis_date": "2026-04-08",
        "yield_pct": 5.492516891686994,
-       "spread_bp": 6
+       "spread_bp": 5
       }
      ]
     },
@@ -3932,7 +3932,7 @@
        "basis": "trade",
        "basis_date": "2026-09-28",
        "yield_pct": 5.731814531002288,
-       "spread_bp": 32
+       "spread_bp": 31
       },
       {
        "cusip": "74690DAB7",
@@ -3942,7 +3942,7 @@
        "basis": "trade",
        "basis_date": "2026-07-31",
        "yield_pct": 6.1941418043372165,
-       "spread_bp": 78
+       "spread_bp": 77
       }
      ]
     },
@@ -3958,17 +3958,17 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.305108322518627,
-       "spread_bp": 119
+       "spread_bp": 117
       },
       {
        "cusip": "24702RAM3",
        "security": "5.4% Notes due 2040",
        "years": 13.9,
-       "price": 91.187,
+       "price": 90.937,
        "basis": "trade",
        "basis_date": "2026-10-16",
-       "yield_pct": 6.363946853845648,
-       "spread_bp": 121
+       "yield_pct": 6.3930443827131755,
+       "spread_bp": 122
       }
      ]
     },
@@ -3984,7 +3984,7 @@
        "basis": "trade",
        "basis_date": "2026-10-14",
        "yield_pct": 0.9216998743726057,
-       "spread_bp": -398
+       "spread_bp": -400
       },
       {
        "cusip": "86800UAB0",
@@ -3994,7 +3994,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 5.903437654073218,
-       "spread_bp": 100
+       "spread_bp": 98
       }
      ]
     },
@@ -4010,7 +4010,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": -8.872747696199202,
-       "spread_bp": -1377
+       "spread_bp": -1379
       },
       {
        "cusip": "88080TAC8",
@@ -4020,7 +4020,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": -3.0529529547038137,
-       "spread_bp": -795
+       "spread_bp": -797
       }
      ]
     },
@@ -4036,7 +4036,7 @@
        "basis": "trade",
        "basis_date": "2026-10-15",
        "yield_pct": 6.8824722042733155,
-       "spread_bp": 198
+       "spread_bp": 196
       },
       {
        "cusip": "U8528KAA6",
@@ -4046,7 +4046,7 @@
        "basis": "trade",
        "basis_date": "2026-10-13",
        "yield_pct": 7.023935705450213,
-       "spread_bp": 212
+       "spread_bp": 210
       }
      ]
     },
@@ -4062,7 +4062,7 @@
        "basis": "trade",
        "basis_date": "2026-10-16",
        "yield_pct": 6.808662359832707,
-       "spread_bp": 162
+       "spread_bp": 160
       },
       {
        "cusip": "U43898AA0",
@@ -4072,7 +4072,7 @@
        "basis": "trade",
        "basis_date": "2026-09-29",
        "yield_pct": 6.824419017340833,
-       "spread_bp": 163
+       "spread_bp": 161
       }
      ]
     }
@@ -4083,7 +4083,7 @@
    "limits": "The two lines rarely print on the same day; the basis mixes the liquidity premium with timing differences. Both print dates are stated.",
    "summary": {
     "pairs": 27,
-    "mean_abs_basis": 0.77
+    "mean_abs_basis": 0.69
    },
    "rows": [
     {
@@ -4104,9 +4104,9 @@
      "security": "9.25% senior notes due 2030",
      "registered_price": 87.25,
      "registered_date": "2026-10-16",
-     "twin_price": 86.0,
+     "twin_price": 87.25,
      "twin_date": "2026-10-16",
-     "basis_pts": -1.25
+     "basis_pts": 0.0
     },
     {
      "registered_cusip": "21873SAC2",
@@ -4115,9 +4115,9 @@
      "security": "9.00% senior notes due 2031",
      "registered_price": 82.5,
      "registered_date": "2026-10-16",
-     "twin_price": 83.774,
+     "twin_price": 83.874,
      "twin_date": "2026-10-16",
-     "basis_pts": 1.27
+     "basis_pts": 1.37
     },
     {
      "registered_cusip": "21873SAK4",
@@ -4126,9 +4126,9 @@
      "security": "9.625% senior notes due 2032",
      "registered_price": 80.787,
      "registered_date": "2026-10-16",
-     "twin_price": 82.54,
+     "twin_price": 82.6275,
      "twin_date": "2026-10-16",
-     "basis_pts": 1.75
+     "basis_pts": 1.84
     },
     {
      "registered_cusip": "83577VAA8",
@@ -4146,11 +4146,11 @@
      "twin_cusip": "U3190CAA2",
      "issuer": "GALAXY HELIOS DATA CNTR",
      "security": "9.875% senior secured notes due 2031",
-     "registered_price": 91.592,
+     "registered_price": 91.51,
      "registered_date": "2026-10-16",
      "twin_price": 91.51,
      "twin_date": "2026-10-16",
-     "basis_pts": -0.08
+     "basis_pts": 0.0
     },
     {
      "registered_cusip": "74751AAA1",
@@ -4245,11 +4245,11 @@
      "twin_cusip": "Y8085FBY5",
      "issuer": "SK HYNIX INC",
      "security": "4.25% Notes due 2028",
-     "registered_price": 97.873,
+     "registered_price": 97.843,
      "registered_date": "2026-10-14",
      "twin_price": 98.28,
      "twin_date": "2026-10-09",
-     "basis_pts": 0.41
+     "basis_pts": 0.44
     },
     {
      "registered_cusip": "78392BAK3",
@@ -4300,11 +4300,11 @@
      "twin_cusip": "Y8085FBT6",
      "issuer": "SK HYNIX INC",
      "security": "5.5% Notes due 2027",
-     "registered_price": 100.398,
+     "registered_price": 100.428,
      "registered_date": "2026-10-05",
      "twin_price": 100.237324,
      "twin_date": "2026-10-08",
-     "basis_pts": -0.16
+     "basis_pts": -0.19
     },
     {
      "registered_cusip": "78392BAH0",
@@ -4335,9 +4335,9 @@
      "security": "5.3% Notes due 2029",
      "registered_price": 101.044,
      "registered_date": "2025-04-22",
-     "twin_price": 99.894,
+     "twin_price": 99.769,
      "twin_date": "2026-10-16",
-     "basis_pts": -1.15
+     "basis_pts": -1.27
     },
     {
      "registered_cusip": "573874AM6",
@@ -4368,9 +4368,9 @@
      "security": "6.35% Notes due 2045",
      "registered_price": 99.201,
      "registered_date": "2025-05-28",
-     "twin_price": 96.27,
+     "twin_price": 97.624,
      "twin_date": "2026-10-16",
-     "basis_pts": -2.93
+     "basis_pts": -1.58
     },
     {
      "registered_cusip": "44813DAA4",
@@ -4710,9 +4710,9 @@
        2360,
        2722,
        2432,
-       1622
+       1624
       ],
-      "total": 377235
+      "total": 377237
      },
      {
       "issuer": "DELL INTL L L C / EMC CORP",
@@ -4875,9 +4875,9 @@
        2307,
        2900,
        2258,
-       1426
+       1430
       ],
-      "total": 150994
+      "total": 150998
      },
      {
       "issuer": "MICRON TECHNOLOGY INC",
@@ -5205,9 +5205,9 @@
        835,
        942,
        779,
-       528
+       531
       ],
-      "total": 92979
+      "total": 92982
      },
      {
       "issuer": "APPLIED MATLS INC",
@@ -5865,9 +5865,9 @@
        540,
        584,
        550,
-       1589
+       1593
       ],
-      "total": 24834
+      "total": 24838
      },
      {
       "issuer": "ADVANCED MICRO DEVICES INC",
@@ -6855,9 +6855,9 @@
        110,
        60,
        84,
-       181
+       182
       ],
-      "total": 7431
+      "total": 7432
      },
      {
       "issuer": "SUPER MICRO COMPUTER INC",
@@ -7845,9 +7845,9 @@
        82,
        101,
        79,
-       91
+       92
       ],
-      "total": 3673
+      "total": 3674
      },
      {
       "issuer": "VERTIV GROUP CORP",
@@ -8340,9 +8340,9 @@
        29,
        30,
        64,
-       164
+       165
       ],
-      "total": 3156
+      "total": 3157
      },
      {
       "issuer": "QTS FAYETTEV I D 5.7% 04/15/36",
@@ -8835,9 +8835,9 @@
        145,
        159,
        104,
-       127
+       128
       ],
-      "total": 1781
+      "total": 1782
      },
      {
       "issuer": "SOPAIPILLA INVESTOR LLC",
@@ -14120,171 +14120,6 @@
       "total": 16
      },
      {
-      "issuer": "ALIGNED DATA CENTERS ISSUER LLC 6.688% BDS 15/06/56 USD25000144A",
-      "counts": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       6,
-       5,
-       2,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       0,
-       0,
-       0
-      ],
-      "total": 15
-     },
-     {
       "issuer": "QTSII",
       "counts": [
        0,
@@ -14442,6 +14277,171 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "total": 15
+     },
+     {
+      "issuer": "ALIGNED DATA CENTERS ISSUER LLC 6.688% BDS 15/06/56 USD25000144A",
+      "counts": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       6,
+       5,
+       2,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
        0,
        0,
        0,
@@ -15611,8 +15611,8 @@
    "summary": {
     "window_start": "2023-10-03",
     "tape_end": "2026-10-16",
-    "total_trades_all": 4051198,
-    "total_trades": 970744,
+    "total_trades_all": 4051215,
+    "total_trades": 970761,
     "traded_last_7d": 204,
     "silent_last_7d": 114
    },
@@ -15657,17 +15657,17 @@
      "cusip": "21873SAL2",
      "issuer": "COREWEAVE INC",
      "security": "2.875% Convertible Notes due 2033",
-     "trades_window": 443,
-     "trades_last_7d": 211,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
+     "trades_window": 445,
+     "trades_last_7d": 213,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
     },
     {
      "cusip": "U2069EAA8",
      "issuer": "CoreWeave Inc.",
      "security": "",
-     "trades_window": 3156,
-     "trades_last_7d": 164,
+     "trades_window": 3157,
+     "trades_last_7d": 165,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
     },
@@ -15693,8 +15693,8 @@
      "cusip": "36322DAA4",
      "issuer": "GALAXY HELIOS DATA CNTR",
      "security": "9.875% senior secured notes due 2031",
-     "trades_window": 1781,
-     "trades_last_7d": 127,
+     "trades_window": 1782,
+     "trades_last_7d": 128,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
     },
@@ -15708,20 +15708,20 @@
      "days_since_last": 0
     },
     {
+     "cusip": "U2069EAC4",
+     "issuer": "COREWEAVE INC",
+     "security": "9.75% Senior Notes due 2031 (144A line)",
+     "trades_window": 638,
+     "trades_last_7d": 123,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "458140CG3",
      "issuer": "INTEL CORP",
      "security": "5.2% Notes due 2033",
      "trades_window": 31052,
      "trades_last_7d": 122,
-     "last_trade_date": "2026-10-16",
-     "days_since_last": 0
-    },
-    {
-     "cusip": "U2069EAC4",
-     "issuer": "COREWEAVE INC",
-     "security": "9.75% Senior Notes due 2031 (144A line)",
-     "trades_window": 636,
-     "trades_last_7d": 121,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
     },
@@ -15753,6 +15753,24 @@
      "days_since_last": 0
     },
     {
+     "cusip": "46270CAL3",
+     "issuer": "IREN LTD",
+     "security": "1% Notes due 2033",
+     "trades_window": 1855,
+     "trades_last_7d": 101,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
+     "cusip": "24703DBN0",
+     "issuer": "DELL INTL L L C / EMC CORP",
+     "security": "5.4% Notes due 2034",
+     "trades_window": 14277,
+     "trades_last_7d": 100,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "U2069EAB6",
      "issuer": "COREWEAVE INC",
      "security": "",
@@ -15762,20 +15780,11 @@
      "days_since_last": 0
     },
     {
-     "cusip": "46270CAL3",
-     "issuer": "IREN LTD",
-     "security": "1% Notes due 2033",
-     "trades_window": 1854,
-     "trades_last_7d": 100,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
-    },
-    {
-     "cusip": "24703DBN0",
+     "cusip": "24703DCB5",
      "issuer": "DELL INTL L L C / EMC CORP",
-     "security": "5.4% Notes due 2034",
-     "trades_window": 14276,
-     "trades_last_7d": 99,
+     "security": "5.9% Notes due 2037",
+     "trades_window": 635,
+     "trades_last_7d": 92,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
     },
@@ -15784,15 +15793,6 @@
      "issuer": "ADVANCED MICRO DEVICES INC",
      "security": "5.25% Notes due 2033",
      "trades_window": 1486,
-     "trades_last_7d": 90,
-     "last_trade_date": "2026-10-16",
-     "days_since_last": 0
-    },
-    {
-     "cusip": "24703DCB5",
-     "issuer": "DELL INTL L L C / EMC CORP",
-     "security": "5.9% Notes due 2037",
-     "trades_window": 633,
      "trades_last_7d": 90,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
@@ -15933,6 +15933,15 @@
      "days_since_last": 1
     },
     {
+     "cusip": "42824CAY5",
+     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
+     "security": "6.35% Notes due 2045",
+     "trades_window": 11957,
+     "trades_last_7d": 63,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "42824CBV0",
      "issuer": "HEWLETT PACKARD ENTERPRISE CO",
      "security": "5% Notes due 2034",
@@ -15940,15 +15949,6 @@
      "trades_last_7d": 61,
      "last_trade_date": "2026-10-15",
      "days_since_last": 1
-    },
-    {
-     "cusip": "42824CAY5",
-     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "6.35% Notes due 2045",
-     "trades_window": 11955,
-     "trades_last_7d": 61,
-     "last_trade_date": "2026-10-16",
-     "days_since_last": 0
     },
     {
      "cusip": "458140AX8",
@@ -16023,6 +16023,15 @@
      "days_since_last": 1
     },
     {
+     "cusip": "458140CN8",
+     "issuer": "INTEL CORP",
+     "security": "5% Notes due 2031",
+     "trades_window": 12932,
+     "trades_last_7d": 52,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "982911AA7",
      "issuer": "WULF COMPUTE LLC",
      "security": "7.75% Notes due 2030",
@@ -16048,15 +16057,6 @@
      "trades_last_7d": 51,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
-    },
-    {
-     "cusip": "458140CN8",
-     "issuer": "INTEL CORP",
-     "security": "5% Notes due 2031",
-     "trades_window": 12931,
-     "trades_last_7d": 51,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
     },
     {
      "cusip": "458140BR0",
@@ -16125,19 +16125,19 @@
      "cusip": "42824CBS7",
      "issuer": "HEWLETT PACKARD ENTERPRISE CO",
      "security": "4.4% Notes due 2027",
-     "trades_window": 9114,
-     "trades_last_7d": 46,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
+     "trades_window": 9115,
+     "trades_last_7d": 47,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
     },
     {
      "cusip": "24703DBU4",
      "issuer": "DELL INTL L L C / EMC CORP",
      "security": "5.1% Notes due 2036",
-     "trades_window": 5987,
-     "trades_last_7d": 46,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
+     "trades_window": 5988,
+     "trades_last_7d": 47,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
     },
     {
      "cusip": "038222AN5",
@@ -16410,6 +16410,15 @@
      "days_since_last": 1
     },
     {
+     "cusip": "458140CB4",
+     "issuer": "INTEL CORP",
+     "security": "4.9% Notes due 2052",
+     "trades_window": 8326,
+     "trades_last_7d": 30,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "458140BT6",
      "issuer": "INTEL CORP",
      "security": "1.6% Notes due 2028",
@@ -16441,15 +16450,6 @@
      "issuer": "INTEL CORP",
      "security": "5.05% Notes due 2062",
      "trades_window": 9068,
-     "trades_last_7d": 29,
-     "last_trade_date": "2026-10-16",
-     "days_since_last": 0
-    },
-    {
-     "cusip": "458140CB4",
-     "issuer": "INTEL CORP",
-     "security": "4.9% Notes due 2052",
-     "trades_window": 8325,
      "trades_last_7d": 29,
      "last_trade_date": "2026-10-16",
      "days_since_last": 0
@@ -16527,19 +16527,19 @@
      "days_since_last": 1
     },
     {
+     "cusip": "92537NAC2",
+     "issuer": "VERTIV HLDGS CO",
+     "security": "5.8% Notes due 2056",
+     "trades_window": 889,
+     "trades_last_7d": 25,
+     "last_trade_date": "2026-10-16",
+     "days_since_last": 0
+    },
+    {
      "cusip": "458140BZ2",
      "issuer": "INTEL CORP",
      "security": "4% Notes due 2029",
      "trades_window": 12028,
-     "trades_last_7d": 24,
-     "last_trade_date": "2026-10-15",
-     "days_since_last": 1
-    },
-    {
-     "cusip": "92537NAC2",
-     "issuer": "VERTIV HLDGS CO",
-     "security": "5.8% Notes due 2056",
-     "trades_window": 888,
      "trades_last_7d": 24,
      "last_trade_date": "2026-10-15",
      "days_since_last": 1
@@ -19132,9 +19132,9 @@
        "vehicle": "CoreWeave, Inc.",
        "coupon": 9.25,
        "maturity": "2030-06-01",
-       "last_price": 86.0,
+       "last_price": 87.25,
        "last_date": "2026-10-16",
-       "trades_stored": 3156,
+       "trades_stored": 3157,
        "mark": 98.4956,
        "mark_period": "2026-01-31"
       },
@@ -19158,7 +19158,7 @@
        "vehicle": "CoreWeave, Inc.",
        "coupon": 9.0,
        "maturity": "2031-02-01",
-       "last_price": 83.774,
+       "last_price": 83.874,
        "last_date": "2026-10-16",
        "trades_stored": 1970,
        "mark": 99.2848,
@@ -19186,7 +19186,7 @@
        "maturity": "2031-10-01",
        "last_price": 81.875,
        "last_date": "2026-10-16",
-       "trades_stored": 636,
+       "trades_stored": 638,
        "mark": null,
        "mark_period": null
       },
@@ -19197,7 +19197,7 @@
        "vehicle": "CoreWeave, Inc.",
        "coupon": 9.75,
        "maturity": "2031-10-01",
-       "last_price": 84.792,
+       "last_price": 84.692,
        "last_date": "2026-10-16",
        "trades_stored": 64,
        "mark": null,
@@ -19236,7 +19236,7 @@
        "vehicle": "CoreWeave, Inc.",
        "coupon": 9.625,
        "maturity": "2032-07-15",
-       "last_price": 82.54,
+       "last_price": 82.6275,
        "last_date": "2026-10-16",
        "trades_stored": 323,
        "mark": 89.3083,
@@ -19262,9 +19262,9 @@
        "vehicle": "CoreWeave, Inc.",
        "coupon": 2.875,
        "maturity": "2033-04-01",
-       "last_price": 89.797,
-       "last_date": "2026-10-15",
-       "trades_stored": 443,
+       "last_price": 85.2928,
+       "last_date": "2026-10-16",
+       "trades_stored": 445,
        "mark": null,
        "mark_period": null
       }
@@ -19391,7 +19391,7 @@
       },
       {
        "month": "2026-10",
-       "trades": 2863,
+       "trades": 2868,
        "median": 82.52000000000001,
        "priced": 12,
        "below90": 12
@@ -19431,7 +19431,7 @@
        ],
        [
         6.46,
-        4.726,
+        5.625,
         "21873SAL2"
        ]
       ],
@@ -19579,8 +19579,8 @@
      ],
      "fund_period": "2026-07-31",
      "n_bonds": 12,
-     "trades_stored": 35899,
-     "median_last": 82.52,
+     "trades_stored": 35904,
+     "median_last": 82.56,
      "below90": 12,
      "n_priced": 12,
      "latest_trade": "2026-10-16"
@@ -19651,7 +19651,7 @@
        "vehicle": null,
        "coupon": 1.95,
        "maturity": "2028-02-15",
-       "last_price": 94.436,
+       "last_price": 94.511,
        "last_date": "2026-10-01",
        "trades_stored": 555,
        "mark": null,
@@ -19950,7 +19950,7 @@
        "vehicle": null,
        "coupon": 2.45,
        "maturity": "2031-02-15",
-       "last_price": 91.97651,
+       "last_price": 92.00651,
        "last_date": "2026-02-18",
        "trades_stored": 3160,
        "mark": null,
@@ -20301,7 +20301,7 @@
        "vehicle": null,
        "coupon": 3.137,
        "maturity": "2035-11-15",
-       "last_price": 83.1,
+       "last_price": 83.5,
        "last_date": "2026-07-16",
        "trades_stored": 411,
        "mark": null,
@@ -20599,7 +20599,7 @@
        "trades": 6401,
        "median": 95.0685,
        "priced": 36,
-       "below90": 11
+       "below90": 12
       },
       {
        "month": "2024-10",
@@ -20618,7 +20618,7 @@
       {
        "month": "2024-12",
        "trades": 7496,
-       "median": 93.793,
+       "median": 93.979,
        "priced": 35,
        "below90": 15
       },
@@ -20674,7 +20674,7 @@
       {
        "month": "2025-08",
        "trades": 9621,
-       "median": 97.487225,
+       "median": 97.255,
        "priced": 43,
        "below90": 11
       },
@@ -20765,7 +20765,7 @@
       {
        "month": "2026-09",
        "trades": 22823,
-       "median": 91.547775,
+       "median": 91.535275,
        "priced": 36,
        "below90": 13
       },
@@ -20816,7 +20816,7 @@
        ],
        [
         2.5,
-        4.71,
+        4.723,
         "11135FBR1"
        ],
        [
@@ -21036,7 +21036,7 @@
        ],
        [
         29.25,
-        6.492,
+        6.689,
         "11135FDD0"
        ]
       ],
@@ -21093,7 +21093,7 @@
        ],
        [
         2.95,
-        4.553,
+        4.576,
         "11135FBX8"
        ],
        [
@@ -21148,7 +21148,7 @@
        ],
        [
         5.29,
-        5.155,
+        5.128,
         "11135FBY6"
        ],
        [
@@ -21325,7 +21325,7 @@
        ],
        [
         3.29,
-        4.069,
+        4.063,
         "11135FBA8"
        ],
        [
@@ -21385,7 +21385,7 @@
        ],
        [
         5.87,
-        4.369,
+        4.364,
         "11135FBY6"
        ],
        [
@@ -21445,7 +21445,7 @@
        ],
        [
         9.87,
-        4.891,
+        4.897,
         "11135FBP5"
        ],
        [
@@ -21460,7 +21460,7 @@
        ],
        [
         11.37,
-        5.063,
+        5.059,
         "11135FBV2"
        ],
        [
@@ -21838,7 +21838,7 @@
        "vehicle": null,
        "coupon": 5.1,
        "maturity": "2033-07-09",
-       "last_price": 97.268,
+       "last_price": 97.313,
        "last_date": "2026-10-15",
        "trades_stored": 6708,
        "mark": null,
@@ -21942,7 +21942,7 @@
        "vehicle": null,
        "coupon": 2.875,
        "maturity": "2041-05-12",
-       "last_price": 69.461,
+       "last_price": 69.523,
        "last_date": "2026-10-15",
        "trades_stored": 7778,
        "mark": null,
@@ -22536,7 +22536,7 @@
       {
        "month": "2026-09",
        "trades": 37887,
-       "median": 92.1935,
+       "median": 92.20349999999999,
        "priced": 48,
        "below90": 19
       },
@@ -22839,7 +22839,7 @@
        ],
        [
         3.84,
-        4.833,
+        4.831,
         "023135BS4"
        ],
        [
@@ -22959,7 +22959,7 @@
        ],
        [
         29.62,
-        6.349,
+        6.386,
         "023135DH6"
        ],
        [
@@ -23046,7 +23046,7 @@
        ],
        [
         3.28,
-        3.792,
+        3.858,
         "023135CG9"
        ],
        [
@@ -23189,7 +23189,7 @@
        "vehicle": null,
        "coupon": 2.8,
        "maturity": "2027-04-01",
-       "last_price": 98.969,
+       "last_price": 99.069,
        "last_date": "2026-10-15",
        "trades_stored": 23505,
        "mark": null,
@@ -23228,7 +23228,7 @@
        "vehicle": null,
        "coupon": 4.5,
        "maturity": "2028-05-06",
-       "last_price": 97.877,
+       "last_price": 97.977,
        "last_date": "2026-10-15",
        "trades_stored": 14758,
        "mark": null,
@@ -23371,7 +23371,7 @@
        "vehicle": null,
        "coupon": 4.95,
        "maturity": "2031-02-04",
-       "last_price": 92.126,
+       "last_price": 92.001,
        "last_date": "2026-10-15",
        "trades_stored": 8438,
        "mark": null,
@@ -23540,7 +23540,7 @@
        "vehicle": null,
        "coupon": 3.85,
        "maturity": "2036-07-15",
-       "last_price": 74.477,
+       "last_price": 74.431,
        "last_date": "2026-10-15",
        "trades_stored": 10935,
        "mark": null,
@@ -23709,7 +23709,7 @@
        "vehicle": null,
        "coupon": 4.0,
        "maturity": "2047-11-15",
-       "last_price": 57.926,
+       "last_price": 57.914,
        "last_date": "2026-10-15",
        "trades_stored": 9043,
        "mark": null,
@@ -23839,7 +23839,7 @@
        "vehicle": null,
        "coupon": 3.85,
        "maturity": "2060-04-01",
-       "last_price": 51.968,
+       "last_price": 51.593,
        "last_date": "2026-10-15",
        "trades_stored": 11791,
        "mark": null,
@@ -23878,7 +23878,7 @@
        "vehicle": null,
        "coupon": 6.125,
        "maturity": "2065-08-03",
-       "last_price": 72.078,
+       "last_price": 72.245,
        "last_date": "2026-10-15",
        "trades_stored": 11499,
        "mark": null,
@@ -23963,7 +23963,7 @@
       {
        "month": "2024-03",
        "trades": 12007,
-       "median": 88.5375,
+       "median": 88.4875,
        "priced": 30,
        "below90": 16
       },
@@ -24082,7 +24082,7 @@
       {
        "month": "2025-08",
        "trades": 15610,
-       "median": 95.383,
+       "median": 95.418,
        "priced": 41,
        "below90": 15
       },
@@ -24175,7 +24175,7 @@
        "trades": 30483,
        "median": 84.30375000000001,
        "priced": 56,
-       "below90": 38
+       "below90": 39
       },
       {
        "month": "2026-10",
@@ -24189,7 +24189,7 @@
       "Latest": [
        [
         0.46,
-        5.096,
+        4.871,
         "68389XBU8"
        ],
        [
@@ -24204,7 +24204,7 @@
        ],
        [
         1.56,
-        5.878,
+        5.947,
         "68389XCM5"
        ],
        [
@@ -24249,7 +24249,7 @@
        ],
        [
         4.3,
-        7.14,
+        7.104,
         "68389XDX0"
        ],
        [
@@ -24304,7 +24304,7 @@
        ],
        [
         8.94,
-        7.71,
+        7.718,
         "68389XDM4"
        ],
        [
@@ -24424,7 +24424,7 @@
        ],
        [
         33.46,
-        8.039,
+        7.914,
         "68389XBY0"
        ],
        [
@@ -24439,7 +24439,7 @@
        ],
        [
         38.8,
-        8.607,
+        8.627,
         "68389XDC6"
        ],
        [
@@ -24521,7 +24521,7 @@
        ],
        [
         4.65,
-        6.209,
+        6.239,
         "68389XCE3"
        ],
        [
@@ -24566,7 +24566,7 @@
        ],
        [
         9.01,
-        6.714,
+        6.724,
         "68389XDA0"
        ],
        [
@@ -24743,12 +24743,12 @@
        ],
        [
         2.59,
-        4.526,
+        4.314,
         "68389XCY9"
        ],
        [
         3.74,
-        4.488,
+        4.71,
         "68389XCS2"
        ],
        [
@@ -24763,12 +24763,12 @@
        ],
        [
         4.34,
-        4.811,
+        4.786,
         "68389XCN3"
        ],
        [
         4.37,
-        4.884,
+        4.938,
         "68389XBD6"
        ],
        [
@@ -24918,7 +24918,7 @@
        ],
        [
         29.59,
-        6.862,
+        6.888,
         "68389XDB8"
        ],
        [
@@ -25093,9 +25093,9 @@
        "vehicle": null,
        "coupon": 5.0,
        "maturity": "2031-02-21",
-       "last_price": 97.74631,
-       "last_date": "2026-10-15",
-       "trades_stored": 12931,
+       "last_price": 97.764,
+       "last_date": "2026-10-16",
+       "trades_stored": 12932,
        "mark": null,
        "mark_period": null
       },
@@ -25314,7 +25314,7 @@
        "vehicle": null,
        "coupon": 4.1,
        "maturity": "2047-05-11",
-       "last_price": 71.031,
+       "last_price": 70.931,
        "last_date": "2026-10-15",
        "trades_stored": 3588,
        "mark": null,
@@ -25405,9 +25405,9 @@
        "vehicle": null,
        "coupon": 4.9,
        "maturity": "2052-08-05",
-       "last_price": 77.706,
+       "last_price": 77.925,
        "last_date": "2026-10-16",
-       "trades_stored": 8325,
+       "trades_stored": 8326,
        "mark": null,
        "mark_period": null
       },
@@ -25547,7 +25547,7 @@
       {
        "month": "2023-12",
        "trades": 8067,
-       "median": 97.382,
+       "median": 97.46199999999999,
        "priced": 32,
        "below90": 11
       },
@@ -25596,7 +25596,7 @@
       {
        "month": "2024-07",
        "trades": 10449,
-       "median": 92.721,
+       "median": 93.721,
        "priced": 35,
        "below90": 14
       },
@@ -25645,7 +25645,7 @@
       {
        "month": "2025-02",
        "trades": 10744,
-       "median": 88.524,
+       "median": 88.474,
        "priced": 36,
        "below90": 20
       },
@@ -25771,7 +25771,7 @@
       {
        "month": "2026-08",
        "trades": 9702,
-       "median": 91.0755,
+       "median": 90.9505,
        "priced": 40,
        "below90": 20
       },
@@ -25784,7 +25784,7 @@
       },
       {
        "month": "2026-10",
-       "trades": 5023,
+       "trades": 5025,
        "median": 89.14335650000001,
        "priced": 40,
        "below90": 20
@@ -25949,7 +25949,7 @@
        ],
        [
         25.8,
-        6.732,
+        6.711,
         "458140CB4"
        ],
        [
@@ -26006,7 +26006,7 @@
        ],
        [
         0.78,
-        4.38,
+        4.354,
         "458140AX8"
        ],
        [
@@ -26066,7 +26066,7 @@
        ],
        [
         6.38,
-        5.386,
+        5.381,
         "458140AN0"
        ],
        [
@@ -26111,7 +26111,7 @@
        ],
        [
         16.53,
-        6.355,
+        6.358,
         "458140CH1"
        ],
        [
@@ -26121,7 +26121,7 @@
        ],
        [
         19.8,
-        6.562,
+        6.573,
         "458140AV2"
        ],
        [
@@ -26196,7 +26196,7 @@
        ],
        [
         36.53,
-        6.752,
+        6.807,
         "458140CK4"
        ],
        [
@@ -26283,7 +26283,7 @@
        ],
        [
         14.23,
-        5.697,
+        5.696,
         "458140BL3"
        ],
        [
@@ -26308,12 +26308,12 @@
        ],
        [
         19.58,
-        6.062,
+        6.072,
         "458140AT7"
        ],
        [
         20.38,
-        6.08,
+        6.073,
         "458140AV2"
        ],
        [
@@ -26363,12 +26363,12 @@
        ],
        [
         34.12,
-        6.167,
+        6.229,
         "458140BK5"
        ],
        [
         34.23,
-        6.22,
+        6.228,
         "458140BN9"
        ],
        [
@@ -26391,7 +26391,7 @@
      "funds": [],
      "fund_period": null,
      "n_bonds": 43,
-     "trades_stored": 377235,
+     "trades_stored": 377237,
      "median_last": 87.91,
      "below90": 21,
      "n_priced": 41,
@@ -26580,7 +26580,7 @@
        "vehicle": null,
        "coupon": 4.2,
        "maturity": "2030-05-12",
-       "last_price": 97.638,
+       "last_price": 97.538,
        "last_date": "2026-10-15",
        "trades_stored": 4469,
        "mark": null,
@@ -27003,7 +27003,7 @@
       {
        "month": "2024-03",
        "trades": 11782,
-       "median": 86.82447,
+       "median": 86.76197,
        "priced": 39,
        "below90": 23
       },
@@ -27073,7 +27073,7 @@
       {
        "month": "2025-01",
        "trades": 13266,
-       "median": 85.406,
+       "median": 85.506,
        "priced": 39,
        "below90": 22
       },
@@ -27103,7 +27103,7 @@
        "trades": 15472,
        "median": 88.525759,
        "priced": 43,
-       "below90": 23
+       "below90": 24
       },
       {
        "month": "2025-06",
@@ -27369,7 +27369,7 @@
        ],
        [
         19.8,
-        6.04,
+        6.051,
         "037833CD0"
        ],
        [
@@ -27379,7 +27379,7 @@
        ],
        [
         20.91,
-        6.1,
+        6.096,
         "037833DD9"
        ],
        [
@@ -27581,7 +27581,7 @@
        ],
        [
         19.57,
-        5.87,
+        5.867,
         "037833BX7"
        ],
        [
@@ -27651,7 +27651,7 @@
        ],
        [
         35.01,
-        5.984,
+        5.988,
         "037833EL0"
        ],
        [
@@ -27668,7 +27668,7 @@
        ],
        [
         1.36,
-        3.601,
+        3.639,
         "037833CR9"
        ],
        [
@@ -27748,7 +27748,7 @@
        ],
        [
         6.36,
-        4.059,
+        4.053,
         "037833FA3"
        ],
        [
@@ -27763,12 +27763,12 @@
        ],
        [
         9.36,
-        4.37,
+        4.357,
         "037833FB1"
        ],
        [
         10.15,
-        4.337,
+        4.324,
         "037833BW9"
        ],
        [
@@ -27833,7 +27833,7 @@
        ],
        [
         24.64,
-        5.423,
+        5.387,
         "037833DZ0"
        ],
        [
@@ -27868,7 +27868,7 @@
        ],
        [
         35.59,
-        5.433,
+        5.423,
         "037833EL0"
        ],
        [
@@ -28005,7 +28005,7 @@
        "vehicle": null,
        "coupon": 5.3,
        "maturity": "2029-10-01",
-       "last_price": 99.894,
+       "last_price": 99.769,
        "last_date": "2026-10-16",
        "trades_stored": 16452,
        "mark": null,
@@ -28200,9 +28200,9 @@
        "vehicle": null,
        "coupon": 5.4,
        "maturity": "2034-04-15",
-       "last_price": 95.883,
+       "last_price": 96.597,
        "last_date": "2026-10-16",
-       "trades_stored": 14276,
+       "trades_stored": 14277,
        "mark": null,
        "mark_period": null
       },
@@ -28239,9 +28239,9 @@
        "vehicle": null,
        "coupon": 5.1,
        "maturity": "2036-02-15",
-       "last_price": 93.20745,
-       "last_date": "2026-10-15",
-       "trades_stored": 5987,
+       "last_price": 93.109,
+       "last_date": "2026-10-16",
+       "trades_stored": 5988,
        "mark": null,
        "mark_period": null
       },
@@ -28278,9 +28278,9 @@
        "vehicle": null,
        "coupon": 5.9,
        "maturity": "2037-04-01",
-       "last_price": 97.714,
+       "last_price": 97.941,
        "last_date": "2026-10-16",
-       "trades_stored": 633,
+       "trades_stored": 635,
        "mark": null,
        "mark_period": null
       },
@@ -28304,7 +28304,7 @@
        "vehicle": null,
        "coupon": 5.4,
        "maturity": "2040-09-10",
-       "last_price": 91.187,
+       "last_price": 90.937,
        "last_date": "2026-10-16",
        "trades_stored": 6432,
        "mark": null,
@@ -28546,7 +28546,7 @@
       {
        "month": "2025-06",
        "trades": 4924,
-       "median": 102.130238,
+       "median": 102.192738,
        "priced": 18,
        "below90": 2
       },
@@ -28657,8 +28657,8 @@
       },
       {
        "month": "2026-10",
-       "trades": 5182,
-       "median": 97.626,
+       "trades": 5186,
+       "median": 97.7435635,
        "priced": 30,
        "below90": 2
       }
@@ -28757,7 +28757,7 @@
        ],
        [
         7.5,
-        6.093,
+        5.97,
         "24703DBN0"
        ],
        [
@@ -28772,7 +28772,7 @@
        ],
        [
         9.33,
-        6.063,
+        6.078,
         "24703DBU4"
        ],
        [
@@ -28787,7 +28787,7 @@
        ],
        [
         10.46,
-        6.203,
+        6.169,
         "24703DCB5"
        ],
        [
@@ -28797,7 +28797,7 @@
        ],
        [
         13.9,
-        6.364,
+        6.393,
         "24702RAM3"
        ],
        [
@@ -29001,7 +29001,7 @@
        ],
        [
         6.25,
-        4.726,
+        4.732,
         "24703TAN6"
        ],
        [
@@ -29074,8 +29074,8 @@
      "funds": [],
      "fund_period": null,
      "n_bonds": 39,
-     "trades_stored": 167698,
-     "median_last": 97.63,
+     "trades_stored": 167702,
+     "median_last": 97.74,
      "below90": 3,
      "n_priced": 32,
      "latest_trade": "2026-10-16"
@@ -29185,7 +29185,7 @@
        "vehicle": null,
        "coupon": 3.5,
        "maturity": "2035-02-12",
-       "last_price": 88.413,
+       "last_price": 88.313,
        "last_date": "2026-10-15",
        "trades_stored": 14569,
        "mark": null,
@@ -29276,7 +29276,7 @@
        "vehicle": null,
        "coupon": 3.5,
        "maturity": "2042-11-15",
-       "last_price": 76.139,
+       "last_price": 76.245858,
        "last_date": "2026-10-15",
        "trades_stored": 3257,
        "mark": null,
@@ -29380,7 +29380,7 @@
        "vehicle": null,
        "coupon": 4.5,
        "maturity": "2047-06-15",
-       "last_price": 82.202,
+       "last_price": 82.102,
        "last_date": "2026-10-15",
        "trades_stored": 3023,
        "mark": null,
@@ -29432,7 +29432,7 @@
        "vehicle": null,
        "coupon": 2.5,
        "maturity": "2050-09-15",
-       "last_price": 54.91589,
+       "last_price": 54.88464,
        "last_date": "2026-10-15",
        "trades_stored": 3690,
        "mark": null,
@@ -29582,7 +29582,7 @@
       {
        "month": "2024-03",
        "trades": 5547,
-       "median": 92.1818,
+       "median": 92.1193,
        "priced": 31,
        "below90": 15
       },
@@ -29645,7 +29645,7 @@
       {
        "month": "2024-12",
        "trades": 5539,
-       "median": 88.26249999999999,
+       "median": 88.3125,
        "priced": 28,
        "below90": 15
       },
@@ -29778,7 +29778,7 @@
       {
        "month": "2026-07",
        "trades": 7944,
-       "median": 82.89,
+       "median": 82.82771,
        "priced": 27,
        "below90": 18
       },
@@ -29799,7 +29799,7 @@
       {
        "month": "2026-10",
        "trades": 4305,
-       "median": 82.102,
+       "median": 82.202,
        "priced": 27,
        "below90": 21
       }
@@ -29833,7 +29833,7 @@
        ],
        [
         8.33,
-        5.251,
+        5.235,
         "594918BC7"
        ],
        [
@@ -29868,7 +29868,7 @@
        ],
        [
         16.08,
-        5.79,
+        5.802,
         "594918AR5"
        ],
        [
@@ -29913,12 +29913,12 @@
        ],
        [
         23.62,
-        6.096,
+        6.093,
         "594918CC6"
        ],
        [
         23.92,
-        5.241,
+        5.239,
         "594918CL6"
        ],
        [
@@ -29933,7 +29933,7 @@
        ],
        [
         28.33,
-        6.106,
+        6.097,
         "594918BE3"
        ],
        [
@@ -30000,7 +30000,7 @@
        ],
        [
         10.02,
-        5.167,
+        5.171,
         "594918BS2"
        ],
        [
@@ -30030,7 +30030,7 @@
        ],
        [
         16.75,
-        5.755,
+        5.744,
         "594918AU8"
        ],
        [
@@ -30065,7 +30065,7 @@
        ],
        [
         20.87,
-        5.833,
+        5.824,
         "594918CU6"
        ],
        [
@@ -30085,7 +30085,7 @@
        ],
        [
         25.63,
-        6.014,
+        6.004,
         "594918CE2"
        ],
        [
@@ -30100,12 +30100,12 @@
        ],
        [
         30.02,
-        5.993,
+        5.974,
         "594918BU7"
        ],
        [
         30.52,
-        5.938,
+        5.936,
         "594918CB8"
        ],
        [
@@ -30197,7 +30197,7 @@
        ],
        [
         19.12,
-        5.119,
+        5.109,
         "594918BD5"
        ],
        [
@@ -30232,7 +30232,7 @@
        ],
        [
         24.71,
-        5.241,
+        5.239,
         "594918CL6"
        ],
        [
@@ -30272,7 +30272,7 @@
        ],
        [
         36.21,
-        5.404,
+        5.412,
         "594918CF9"
        ]
       ]
@@ -30326,7 +30326,7 @@
        "vehicle": null,
        "coupon": 3.5,
        "maturity": "2027-08-15",
-       "last_price": 99.015,
+       "last_price": 98.915,
        "last_date": "2026-10-01",
        "trades_stored": 88,
        "mark": null,
@@ -30365,7 +30365,7 @@
        "vehicle": null,
        "coupon": 4.8,
        "maturity": "2030-05-15",
-       "last_price": 98.39,
+       "last_price": 98.59,
        "last_date": "2026-10-15",
        "trades_stored": 16226,
        "mark": null,
@@ -30495,7 +30495,7 @@
        "vehicle": null,
        "coupon": 4.75,
        "maturity": "2034-08-15",
-       "last_price": 93.047858,
+       "last_price": 92.961,
        "last_date": "2026-10-15",
        "trades_stored": 21543,
        "mark": null,
@@ -30761,7 +30761,7 @@
       {
        "month": "2024-01",
        "trades": 5101,
-       "median": 97.26,
+       "median": 97.28,
        "priced": 12,
        "below90": 1
       },
@@ -30803,7 +30803,7 @@
       {
        "month": "2024-07",
        "trades": 4591,
-       "median": 99.18052,
+       "median": 99.14927,
        "priced": 10,
        "below90": 2
       },
@@ -30812,7 +30812,7 @@
        "trades": 9471,
        "median": 101.198,
        "priced": 15,
-       "below90": 1
+       "below90": 2
       },
       {
        "month": "2024-09",
@@ -30838,7 +30838,7 @@
       {
        "month": "2024-12",
        "trades": 6427,
-       "median": 97.72749999999999,
+       "median": 97.729,
        "priced": 16,
        "below90": 2
       },
@@ -30866,7 +30866,7 @@
       {
        "month": "2025-04",
        "trades": 7531,
-       "median": 99.1025935,
+       "median": 99.1429605,
        "priced": 16,
        "below90": 3
       },
@@ -30936,7 +30936,7 @@
       {
        "month": "2026-02",
        "trades": 17215,
-       "median": 99.953429,
+       "median": 99.939343,
        "priced": 21,
        "below90": 2
       },
@@ -30966,7 +30966,7 @@
        "trades": 22269,
        "median": 98.35508300000001,
        "priced": 26,
-       "below90": 5
+       "below90": 4
       },
       {
        "month": "2026-07",
@@ -31021,7 +31021,7 @@
        ],
        [
         3.58,
-        5.298,
+        5.267,
         "30303M8M7"
        ],
        [
@@ -31066,7 +31066,7 @@
        ],
        [
         7.83,
-        5.869,
+        5.884,
         "30303M8U9"
        ],
        [
@@ -31278,7 +31278,7 @@
        ],
        [
         36.04,
-        6.955,
+        6.946,
         "30303M8K1"
        ],
        [
@@ -31335,7 +31335,7 @@
        ],
        [
         5.62,
-        4.141,
+        4.124,
         "30303M8T2"
        ],
        [
@@ -31365,7 +31365,7 @@
        ],
        [
         9.87,
-        4.84,
+        4.853,
         "30303MAD4"
        ],
        [
@@ -31669,7 +31669,7 @@
        "vehicle": null,
        "coupon": 4.7,
        "maturity": "2035-11-15",
-       "last_price": 92.691,
+       "last_price": 92.441,
        "last_date": "2026-10-15",
        "trades_stored": 16080,
        "mark": null,
@@ -31747,7 +31747,7 @@
        "vehicle": null,
        "coupon": 6.25,
        "maturity": "2046-08-15",
-       "last_price": 98.197,
+       "last_price": 98.285,
        "last_date": "2026-10-15",
        "trades_stored": 7446,
        "mark": null,
@@ -32098,7 +32098,7 @@
       {
        "month": "2026-04",
        "trades": 13148,
-       "median": 98.0493745,
+       "median": 97.99937449999999,
        "priced": 24,
        "below90": 4
       },
@@ -32135,7 +32135,7 @@
        "trades": 32189,
        "median": 94.19536500000001,
        "priced": 34,
-       "below90": 11
+       "below90": 12
       },
       {
        "month": "2026-10",
@@ -32229,7 +32229,7 @@
        ],
        [
         9.83,
-        5.763,
+        5.769,
         "02079KCS4"
        ],
        [
@@ -32249,7 +32249,7 @@
        ],
        [
         19.83,
-        6.411,
+        6.403,
         "02079KCT2"
        ],
        [
@@ -32483,7 +32483,7 @@
        ],
        [
         29.87,
-        5.558,
+        5.454,
         "02079KBA4"
        ],
        [
@@ -32867,7 +32867,7 @@
       {
        "month": "2026-04",
        "trades": 772,
-       "median": 98.9171875,
+       "median": 98.9671875,
        "priced": 10,
        "below90": 0
       },
@@ -33042,9 +33042,9 @@
        "vehicle": null,
        "coupon": 4.4,
        "maturity": "2027-09-25",
-       "last_price": 99.38893,
-       "last_date": "2026-10-15",
-       "trades_stored": 9114,
+       "last_price": 99.44,
+       "last_date": "2026-10-16",
+       "trades_stored": 9115,
        "mark": null,
        "mark_period": null
       },
@@ -33055,7 +33055,7 @@
        "vehicle": null,
        "coupon": 4.5,
        "maturity": "2028-03-23",
-       "last_price": 99.13437,
+       "last_price": 99.16561,
        "last_date": "2026-10-15",
        "trades_stored": 708,
        "mark": null,
@@ -33081,7 +33081,7 @@
        "vehicle": null,
        "coupon": 5.25,
        "maturity": "2028-07-01",
-       "last_price": 100.074,
+       "last_price": 100.049,
        "last_date": "2026-10-16",
        "trades_stored": 5400,
        "mark": null,
@@ -33172,7 +33172,7 @@
        "vehicle": null,
        "coupon": 5.25,
        "maturity": "2033-04-01",
-       "last_price": 97.185,
+       "last_price": 97.21,
        "last_date": "2026-10-15",
        "trades_stored": 1377,
        "mark": null,
@@ -33250,9 +33250,9 @@
        "vehicle": null,
        "coupon": 6.35,
        "maturity": "2045-10-15",
-       "last_price": 96.27,
+       "last_price": 97.624,
        "last_date": "2026-10-16",
-       "trades_stored": 11955,
+       "trades_stored": 11957,
        "mark": null,
        "mark_period": null
       },
@@ -33287,7 +33287,7 @@
       {
        "month": "2023-10",
        "trades": 497,
-       "median": 96.513,
+       "median": 96.552,
        "priced": 3,
        "below90": 0
       },
@@ -33427,7 +33427,7 @@
       {
        "month": "2025-06",
        "trades": 2226,
-       "median": 100.048915,
+       "median": 100.044915,
        "priced": 8,
        "below90": 0
       },
@@ -33525,20 +33525,20 @@
       {
        "month": "2026-08",
        "trades": 3137,
-       "median": 99.203666,
+       "median": 99.2020185,
        "priced": 16,
        "below90": 1
       },
       {
        "month": "2026-09",
        "trades": 3485,
-       "median": 97.94154449999999,
+       "median": 97.9150445,
        "priced": 16,
        "below90": 1
       },
       {
        "month": "2026-10",
-       "trades": 1627,
+       "trades": 1630,
        "median": 98.693311,
        "priced": 16,
        "below90": 1
@@ -33553,7 +33553,7 @@
        ],
        [
         0.94,
-        5.07,
+        5.018,
         "42824CBS7"
        ],
        [
@@ -33613,7 +33613,7 @@
        ],
        [
         19.0,
-        6.7,
+        6.571,
         "42824CAY5"
        ],
        [
@@ -33742,7 +33742,7 @@
        ],
        [
         9.79,
-        4.983,
+        5.015,
         "42824CAX7"
        ],
        [
@@ -33765,7 +33765,7 @@
      "funds": [],
      "fund_period": null,
      "n_bonds": 20,
-     "trades_stored": 92979,
+     "trades_stored": 92982,
      "median_last": 99.02,
      "below90": 1,
      "n_priced": 19,
@@ -33902,7 +33902,7 @@
        "vehicle": null,
        "coupon": 5.875,
        "maturity": "2033-02-09",
-       "last_price": 100.03,
+       "last_price": 99.93,
        "last_date": "2026-10-14",
        "trades_stored": 7490,
        "mark": null,
@@ -33941,7 +33941,7 @@
        "vehicle": null,
        "coupon": 5.875,
        "maturity": "2033-09-15",
-       "last_price": 100.342,
+       "last_price": 100.242,
        "last_date": "2026-10-15",
        "trades_stored": 9540,
        "mark": null,
@@ -34142,7 +34142,7 @@
       {
        "month": "2025-02",
        "trades": 3520,
-       "median": 101.42699999999999,
+       "median": 101.477,
        "priced": 12,
        "below90": 3
       },
@@ -34170,7 +34170,7 @@
       {
        "month": "2025-06",
        "trades": 3705,
-       "median": 102.841,
+       "median": 102.796,
        "priced": 13,
        "below90": 3
       },
@@ -34247,7 +34247,7 @@
       {
        "month": "2026-05",
        "trades": 759,
-       "median": 103.001,
+       "median": 102.95,
        "priced": 9,
        "below90": 3
       },
@@ -34331,12 +34331,12 @@
        ],
        [
         6.32,
-        5.867,
+        5.887,
         "595112BZ5"
        ],
        [
         6.92,
-        5.831,
+        5.813,
         "595112CB7"
        ],
        [
@@ -34356,7 +34356,7 @@
        ],
        [
         25.04,
-        6.269,
+        6.273,
         "595112BU6"
        ]
       ],
@@ -34378,7 +34378,7 @@
        ],
        [
         3.26,
-        4.064,
+        4.091,
         "595112BV4"
        ],
        [
@@ -34450,7 +34450,7 @@
        ],
        [
         3.84,
-        4.091,
+        4.064,
         "595112BV4"
        ],
        [
@@ -34495,7 +34495,7 @@
        ],
        [
         15.84,
-        5.376,
+        5.567,
         "595112BT9"
        ],
        [
@@ -34509,7 +34509,7 @@
      "fund_period": null,
      "n_bonds": 19,
      "trades_stored": 96858,
-     "median_last": 100.04,
+     "median_last": 100.02,
      "below90": 3,
      "n_priced": 14,
      "latest_trade": "2026-10-15"
@@ -35097,7 +35097,7 @@
        "vehicle": null,
        "coupon": 2.45,
        "maturity": "2028-04-15",
-       "last_price": 95.962,
+       "last_price": 95.951,
        "last_date": "2026-10-15",
        "trades_stored": 2534,
        "mark": null,
@@ -35123,7 +35123,7 @@
        "vehicle": null,
        "coupon": 4.875,
        "maturity": "2028-06-22",
-       "last_price": 98.968,
+       "last_price": 99.068,
        "last_date": "2026-10-06",
        "trades_stored": 755,
        "mark": null,
@@ -35291,7 +35291,7 @@
       {
        "month": "2023-12",
        "trades": 437,
-       "median": 99.5505,
+       "median": 99.0505,
        "priced": 6,
        "below90": 1
       },
@@ -35333,7 +35333,7 @@
       {
        "month": "2024-06",
        "trades": 425,
-       "median": 98.4505,
+       "median": 98.38,
        "priced": 6,
        "below90": 1
       },
@@ -35347,14 +35347,14 @@
       {
        "month": "2024-08",
        "trades": 553,
-       "median": 100.455,
+       "median": 100.405,
        "priced": 6,
        "below90": 1
       },
       {
        "month": "2024-09",
        "trades": 562,
-       "median": 99.72,
+       "median": 100.11099999999999,
        "priced": 6,
        "below90": 0
       },
@@ -35382,14 +35382,14 @@
       {
        "month": "2025-01",
        "trades": 632,
-       "median": 99.15100000000001,
+       "median": 99.27600000000001,
        "priced": 6,
        "below90": 1
       },
       {
        "month": "2025-02",
        "trades": 573,
-       "median": 99.48349999999999,
+       "median": 99.3835,
        "priced": 6,
        "below90": 1
       },
@@ -35410,7 +35410,7 @@
       {
        "month": "2025-05",
        "trades": 554,
-       "median": 99.9885,
+       "median": 100.0385,
        "priced": 6,
        "below90": 1
       },
@@ -35473,7 +35473,7 @@
       {
        "month": "2026-02",
        "trades": 719,
-       "median": 101.9745,
+       "median": 101.9805,
        "priced": 8,
        "below90": 0
       },
@@ -35487,7 +35487,7 @@
       {
        "month": "2026-04",
        "trades": 1065,
-       "median": 100.493,
+       "median": 100.593,
        "priced": 9,
        "below90": 0
       },
@@ -35522,7 +35522,7 @@
       {
        "month": "2026-09",
        "trades": 1367,
-       "median": 97.868,
+       "median": 97.822,
        "priced": 10,
        "below90": 1
       },
@@ -35681,7 +35681,7 @@
      "fund_period": null,
      "n_bonds": 15,
      "trades_stored": 26058,
-     "median_last": 98.05,
+     "median_last": 98.1,
      "below90": 1,
      "n_priced": 10,
      "latest_trade": "2026-10-15"
@@ -35700,7 +35700,7 @@
        "vehicle": null,
        "coupon": 5.5,
        "maturity": "2027-01-16",
-       "last_price": 100.398,
+       "last_price": 100.428,
        "last_date": "2026-10-05",
        "trades_stored": 167,
        "mark": null,
@@ -35752,7 +35752,7 @@
        "vehicle": null,
        "coupon": 4.25,
        "maturity": "2028-09-11",
-       "last_price": 97.873,
+       "last_price": 97.843,
        "last_date": "2026-10-14",
        "trades_stored": 280,
        "mark": null,
@@ -35908,7 +35908,7 @@
       {
        "month": "2024-02",
        "trades": 180,
-       "median": 99.967,
+       "median": 99.952,
        "priced": 10,
        "below90": 2
       },
@@ -35929,7 +35929,7 @@
       {
        "month": "2024-05",
        "trades": 123,
-       "median": 99.6865,
+       "median": 99.691,
        "priced": 10,
        "below90": 2
       },
@@ -35978,14 +35978,14 @@
       {
        "month": "2024-12",
        "trades": 99,
-       "median": 101.109005,
+       "median": 101.101195,
        "priced": 10,
        "below90": 2
       },
       {
        "month": "2025-01",
        "trades": 83,
-       "median": 101.14037350000001,
+       "median": 101.17037350000001,
        "priced": 8,
        "below90": 1
       },
@@ -36055,7 +36055,7 @@
       {
        "month": "2025-11",
        "trades": 124,
-       "median": 101.524,
+       "median": 101.449,
        "priced": 14,
        "below90": 0
       },
@@ -36151,7 +36151,7 @@
        ],
        [
         1.91,
-        5.438,
+        5.455,
         "78392BAJ6"
        ],
        [
@@ -37014,7 +37014,7 @@
       {
        "month": "2024-03",
        "trades": 1439,
-       "median": 84.852975,
+       "median": 84.83735,
        "priced": 6,
        "below90": 5
       },
@@ -37609,14 +37609,14 @@
       {
        "month": "2024-02",
        "trades": 77,
-       "median": 87.211,
+       "median": 87.226,
        "priced": 10,
        "below90": 7
       },
       {
        "month": "2024-03",
        "trades": 72,
-       "median": 86.8977,
+       "median": 86.88989000000001,
        "priced": 10,
        "below90": 7
       },
@@ -37728,7 +37728,7 @@
       {
        "month": "2025-07",
        "trades": 85,
-       "median": 93.113,
+       "median": 93.10050000000001,
        "priced": 12,
        "below90": 4
       },
@@ -37770,7 +37770,7 @@
       {
        "month": "2026-01",
        "trades": 65,
-       "median": 95.2150225,
+       "median": 95.2209225,
        "priced": 10,
        "below90": 2
       },
@@ -38050,7 +38050,7 @@
        "vehicle": null,
        "coupon": 5.8,
        "maturity": "2037-03-15",
-       "last_price": 99.737,
+       "last_price": 99.662,
        "last_date": "2026-10-14",
        "trades_stored": 634,
        "mark": null,
@@ -38116,21 +38116,21 @@
       {
        "month": "2024-04",
        "trades": 214,
-       "median": 106.5615,
+       "median": 106.4615,
        "priced": 2,
        "below90": 0
       },
       {
        "month": "2024-05",
        "trades": 21,
-       "median": 109.299,
+       "median": 109.249,
        "priced": 2,
        "below90": 0
       },
       {
        "month": "2024-06",
        "trades": 52,
-       "median": 103.484,
+       "median": 103.515,
        "priced": 3,
        "below90": 0
       },
@@ -38151,7 +38151,7 @@
       {
        "month": "2024-09",
        "trades": 51,
-       "median": 113.196,
+       "median": 113.24600000000001,
        "priced": 2,
        "below90": 0
       },
@@ -38165,7 +38165,7 @@
       {
        "month": "2024-11",
        "trades": 55,
-       "median": 103.022,
+       "median": 103.041,
        "priced": 3,
        "below90": 0
       },
@@ -38200,7 +38200,7 @@
       {
        "month": "2025-04",
        "trades": 50,
-       "median": 104.175333,
+       "median": 103.842,
        "priced": 3,
        "below90": 0
       },
@@ -38214,14 +38214,14 @@
       {
        "month": "2025-06",
        "trades": 142,
-       "median": 105.055,
+       "median": 105.036,
        "priced": 3,
        "below90": 0
       },
       {
        "month": "2025-07",
        "trades": 139,
-       "median": 109.289,
+       "median": 109.189,
        "priced": 2,
        "below90": 0
       },
@@ -38235,7 +38235,7 @@
       {
        "month": "2025-09",
        "trades": 109,
-       "median": 110.434,
+       "median": 110.39150000000001,
        "priced": 2,
        "below90": 0
       },
@@ -38249,7 +38249,7 @@
       {
        "month": "2025-11",
        "trades": 106,
-       "median": 109.864,
+       "median": 109.92150000000001,
        "priced": 2,
        "below90": 0
       },
@@ -38417,7 +38417,7 @@
        ],
        [
         10.62,
-        5.192,
+        5.204,
         "278058DB5"
        ],
        [
@@ -38571,7 +38571,7 @@
        "vehicle": null,
        "coupon": 2.75,
        "maturity": "2050-06-01",
-       "last_price": 57.76273,
+       "last_price": 57.82523,
        "last_date": "2026-10-14",
        "trades_stored": 1801,
        "mark": null,
@@ -38743,7 +38743,7 @@
       {
        "month": "2025-09",
        "trades": 1420,
-       "median": 99.077,
+       "median": 99.086,
        "priced": 9,
        "below90": 3
       },
@@ -38967,7 +38967,7 @@
        ],
        [
         15.46,
-        5.201,
+        5.196,
         "038222AG0"
        ],
        [
@@ -39204,7 +39204,7 @@
       {
        "month": "2024-10",
        "trades": 262,
-       "median": 90.98349999999999,
+       "median": 90.964,
        "priced": 2,
        "below90": 1
       },
@@ -39225,7 +39225,7 @@
       {
        "month": "2025-01",
        "trades": 241,
-       "median": 88.6005,
+       "median": 88.59100000000001,
        "priced": 2,
        "below90": 1
       },
@@ -39288,7 +39288,7 @@
       {
        "month": "2025-10",
        "trades": 406,
-       "median": 97.946,
+       "median": 97.846,
        "priced": 3,
        "below90": 1
       },
@@ -39418,7 +39418,7 @@
       "Jul 2026": [
        [
         1.65,
-        4.499,
+        4.511,
         "007903BJ5"
        ],
        [
@@ -39538,7 +39538,7 @@
        "vehicle": null,
        "coupon": 3.3,
        "maturity": "2050-03-01",
-       "last_price": 64.40424,
+       "last_price": 64.43549,
        "last_date": "2026-10-15",
        "trades_stored": 2639,
        "mark": null,
@@ -39729,7 +39729,7 @@
       {
        "month": "2025-08",
        "trades": 808,
-       "median": 96.334,
+       "median": 96.3415,
        "priced": 8,
        "below90": 1
       },
@@ -40048,9 +40048,9 @@
        "vehicle": null,
        "coupon": 1.0,
        "maturity": "2033-12-01",
-       "last_price": 60.083564,
-       "last_date": "2026-10-15",
-       "trades_stored": 1854,
+       "last_price": 59.7763,
+       "last_date": "2026-10-16",
+       "trades_stored": 1855,
        "mark": null,
        "mark_period": null
       },
@@ -40183,7 +40183,7 @@
       },
       {
        "month": "2026-10",
-       "trades": 293,
+       "trades": 294,
        "median": 68.9289,
        "priced": 5,
        "below90": 4
@@ -40213,7 +40213,7 @@
        ],
        [
         7.13,
-        8.611,
+        8.699,
         "46270CAL3"
        ]
       ],
@@ -40265,11 +40265,11 @@
      "funds": [],
      "fund_period": null,
      "n_bonds": 7,
-     "trades_stored": 7431,
+     "trades_stored": 7432,
      "median_last": 74.42,
      "below90": 4,
      "n_priced": 7,
-     "latest_trade": "2026-10-15"
+     "latest_trade": "2026-10-16"
     },
     {
      "key": "aligned",
@@ -41264,7 +41264,7 @@
       {
        "month": "2024-06",
        "trades": 355,
-       "median": 84.488,
+       "median": 83.988,
        "priced": 5,
        "below90": 3
       },
@@ -41469,7 +41469,7 @@
       "Latest": [
        [
         2.41,
-        5.144,
+        5.189,
         "512807AU2"
        ],
        [
@@ -41484,7 +41484,7 @@
        ],
        [
         23.66,
-        6.076,
+        6.069,
         "512807AW8"
        ],
        [
@@ -41528,12 +41528,12 @@
        ],
        [
         4.45,
-        4.051,
+        4.059,
         "512807AV0"
        ],
        [
         23.2,
-        5.502,
+        5.505,
         "512807AT5"
        ],
        [
@@ -42018,9 +42018,9 @@
        "vehicle": null,
        "coupon": 5.8,
        "maturity": "2056-03-15",
-       "last_price": 91.495553,
-       "last_date": "2026-10-15",
-       "trades_stored": 888,
+       "last_price": 91.738,
+       "last_date": "2026-10-16",
+       "trades_stored": 889,
        "mark": null,
        "mark_period": null
       },
@@ -42097,8 +42097,8 @@
       },
       {
        "month": "2026-10",
-       "trades": 208,
-       "median": 91.45477650000001,
+       "trades": 209,
+       "median": 91.576,
        "priced": 4,
        "below90": 0
       }
@@ -42117,7 +42117,7 @@
        ],
        [
         29.41,
-        6.448,
+        6.428,
         "92537NAC2"
        ],
        [
@@ -42152,11 +42152,11 @@
      "funds": [],
      "fund_period": null,
      "n_bonds": 4,
-     "trades_stored": 3673,
-     "median_last": 91.45,
+     "trades_stored": 3674,
+     "median_last": 91.58,
      "below90": 0,
      "n_priced": 4,
-     "latest_trade": "2026-10-15"
+     "latest_trade": "2026-10-16"
     },
     {
      "key": "super-micro-computer",
@@ -42618,7 +42618,7 @@
        "vehicle": null,
        "coupon": 4.25,
        "maturity": "2031-02-04",
-       "last_price": 95.5,
+       "last_price": 95.75,
        "last_date": "2026-10-15",
        "trades_stored": 1835,
        "mark": null,
@@ -43553,9 +43553,9 @@
        "vehicle": "Helios",
        "coupon": 9.875,
        "maturity": "2031-08-01",
-       "last_price": 91.592,
+       "last_price": 91.51,
        "last_date": "2026-10-16",
-       "trades_stored": 1781,
+       "trades_stored": 1782,
        "mark": 100.3104,
        "mark_period": "2026-07-31"
       },
@@ -43597,8 +43597,8 @@
       },
       {
        "month": "2026-10",
-       "trades": 306,
-       "median": 91.551,
+       "trades": 307,
+       "median": 91.51,
        "priced": 2,
        "below90": 0
       }
@@ -43698,8 +43698,8 @@
      ],
      "fund_period": "2026-07-31",
      "n_bonds": 2,
-     "trades_stored": 1856,
-     "median_last": 91.55,
+     "trades_stored": 1857,
+     "median_last": 91.51,
      "below90": 0,
      "n_priced": 2,
      "latest_trade": "2026-10-16"
@@ -44016,31 +44016,31 @@
   "activity": {
    "summary": {
     "tape_end": "2026-10-16",
-    "bonds_traded": 45,
-    "trades": 135,
-    "below90": 14,
-    "below75": 0
+    "bonds_traded": 51,
+    "trades": 152,
+    "below90": 16,
+    "below75": 1
    },
-   "updated": "2026-10-16T08:50:21-04:00",
+   "updated": "2026-10-16T09:05:39-04:00",
    "tape_end": "2026-10-16",
    "most_traded": [
     {
      "cusip": "U2069EAA8",
      "issuer": "CoreWeave Inc.",
      "security": "",
-     "trades": 17,
-     "volume": 549000.0,
-     "last_price": 85.7,
-     "last_time": "08:29:55"
+     "trades": 18,
+     "volume": 559000.0,
+     "last_price": 87.25,
+     "last_time": "08:54:48"
     },
     {
      "cusip": "U2069EAC4",
      "issuer": "COREWEAVE INC",
      "security": "9.75% Senior Notes due 2031 (144A line)",
-     "trades": 15,
-     "volume": 1203000.0,
-     "last_price": 81.97,
-     "last_time": "08:31:25"
+     "trades": 17,
+     "volume": 3203000.0,
+     "last_price": 81.875,
+     "last_time": "08:51:57"
     },
     {
      "cusip": "21873SAK4",
@@ -44052,6 +44052,15 @@
      "last_time": "08:34:04"
     },
     {
+     "cusip": "36322DAA4",
+     "issuer": "GALAXY HELIOS DATA CNTR",
+     "security": "9.875% senior secured notes due 2031",
+     "trades": 7,
+     "volume": 3450000.0,
+     "last_price": 91.51,
+     "last_time": "08:44:48"
+    },
+    {
      "cusip": "21873SAG3",
      "issuer": "COREWEAVE INC",
      "security": "9.75% senior notes due 2031",
@@ -44059,15 +44068,6 @@
      "volume": 5065000.0,
      "last_price": 81.5,
      "last_time": "08:36:49"
-    },
-    {
-     "cusip": "36322DAA4",
-     "issuer": "GALAXY HELIOS DATA CNTR",
-     "security": "9.875% senior secured notes due 2031",
-     "trades": 6,
-     "volume": 2450000.0,
-     "last_price": 91.592,
-     "last_time": "08:28:58"
     },
     {
      "cusip": "U2069EAE0",
@@ -44111,6 +44111,18 @@
      "prev_date": "2026-10-14"
     },
     {
+     "cusip": "21873SAL2",
+     "issuer": "COREWEAVE INC",
+     "security": "2.875% Convertible Notes due 2033",
+     "trades": 2,
+     "volume": 2000000.0,
+     "last_price": 85.2928,
+     "last_time": "08:45:58",
+     "move": -4.5,
+     "prev_price": 89.797,
+     "prev_date": "2026-10-15"
+    },
+    {
      "cusip": "U3190CAA2",
      "issuer": "GALAXY HELIOS DATA CTRS II LLC",
      "security": "9.875% Notes due 2031",
@@ -44138,11 +44150,11 @@
      "cusip": "U2069EAC4",
      "issuer": "COREWEAVE INC",
      "security": "9.75% Senior Notes due 2031 (144A line)",
-     "trades": 15,
-     "volume": 1203000.0,
-     "last_price": 81.97,
-     "last_time": "08:31:25",
-     "move": 1.72,
+     "trades": 17,
+     "volume": 3203000.0,
+     "last_price": 81.875,
+     "last_time": "08:51:57",
+     "move": 1.62,
      "prev_price": 80.25,
      "prev_date": "2026-10-15"
     },
@@ -44171,103 +44183,91 @@
      "prev_date": "2026-10-15"
     },
     {
-     "cusip": "21873SAC2",
-     "issuer": "COREWEAVE, INC.",
-     "security": "9.00% senior notes due 2031",
-     "trades": 1,
-     "volume": 1000000.0,
-     "last_price": 82.5,
-     "last_time": "08:28:08",
-     "move": -1.28,
-     "prev_price": 83.776354,
-     "prev_date": "2026-10-15"
-    },
-    {
-     "cusip": "U2069EAE0",
-     "issuer": "COREWEAVE INC",
+     "cusip": "U2069EAA8",
+     "issuer": "CoreWeave Inc.",
      "security": "",
-     "trades": 6,
-     "volume": 134000.0,
-     "last_price": 82.54,
-     "last_time": "06:48:21",
-     "move": 1.04,
-     "prev_price": 81.5,
+     "trades": 18,
+     "volume": 559000.0,
+     "last_price": 87.25,
+     "last_time": "08:54:48",
+     "move": 1.34,
+     "prev_price": 85.91,
      "prev_date": "2026-10-15"
     }
    ],
    "latest_prints": [
     {
-     "cusip": "42824CBT5",
+     "cusip": "42824CBS7",
      "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "4.55% Notes due 2029",
-     "time": "08:45:18",
-     "price": 99.015,
-     "volume": 22000.0
+     "security": "4.4% Notes due 2027",
+     "time": "09:00:34",
+     "price": 99.44,
+     "volume": 163000.0
     },
     {
-     "cusip": "42824CBT5",
-     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "4.55% Notes due 2029",
-     "time": "08:45:17",
-     "price": 97.515,
-     "volume": 22000.0
-    },
-    {
-     "cusip": "278058DY5",
-     "issuer": "EATON CORP",
-     "security": "4.5% Notes due 2033",
-     "time": "08:44:10",
-     "price": 94.452,
-     "volume": 325000.0
-    },
-    {
-     "cusip": "007903BL0",
-     "issuer": "ADVANCED MICRO DEVICES INC",
-     "security": "5% Notes due 2031",
-     "time": "08:43:02",
-     "price": 97.844,
-     "volume": 2000000.0
-    },
-    {
-     "cusip": "24703DBR1",
+     "cusip": "24703DCB5",
      "issuer": "DELL INTL L L C / EMC CORP",
-     "security": "4.15% Notes due 2029",
-     "time": "08:40:52",
-     "price": 97.495,
-     "volume": 300000.0
+     "security": "5.9% Notes due 2037",
+     "time": "08:58:53",
+     "price": 97.941,
+     "volume": 30000.0
     },
     {
-     "cusip": "83577VAA8",
-     "issuer": "SOPAIPILLA INVESTOR LLC",
-     "security": "7.534% senior secured notes due 2048",
-     "time": "08:40:09",
-     "price": 99.268,
+     "cusip": "24703DCB5",
+     "issuer": "DELL INTL L L C / EMC CORP",
+     "security": "5.9% Notes due 2037",
+     "time": "08:58:53",
+     "price": 99.241,
+     "volume": 30000.0
+    },
+    {
+     "cusip": "458140CN8",
+     "issuer": "INTEL CORP",
+     "security": "5% Notes due 2031",
+     "time": "08:56:00",
+     "price": 97.764,
+     "volume": 200000.0
+    },
+    {
+     "cusip": "42824CAY5",
+     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
+     "security": "6.35% Notes due 2045",
+     "time": "08:55:24",
+     "price": 96.524,
+     "volume": 10000.0
+    },
+    {
+     "cusip": "42824CAY5",
+     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
+     "security": "6.35% Notes due 2045",
+     "time": "08:55:24",
+     "price": 97.624,
+     "volume": 10000.0
+    },
+    {
+     "cusip": "92537NAC2",
+     "issuer": "VERTIV HLDGS CO",
+     "security": "5.8% Notes due 2056",
+     "time": "08:54:50",
+     "price": 91.738,
      "volume": 5000000.0
     },
     {
-     "cusip": "21873SAG3",
-     "issuer": "COREWEAVE INC",
-     "security": "9.75% senior notes due 2031",
-     "time": "08:36:49",
-     "price": 81.5,
-     "volume": 1000000.0
-    },
-    {
-     "cusip": "21873SAG3",
-     "issuer": "COREWEAVE INC",
-     "security": "9.75% senior notes due 2031",
-     "time": "08:36:40",
-     "price": 81.5,
-     "volume": 1000000.0
+     "cusip": "458140CB4",
+     "issuer": "INTEL CORP",
+     "security": "4.9% Notes due 2052",
+     "time": "08:54:50",
+     "price": 77.925,
+     "volume": 3000000.0
     }
    ],
    "week": [
     {
      "date": "2026-10-16",
-     "trades": 135,
-     "volume": 45047000.0,
-     "bonds": 45,
-     "below90": 14
+     "trades": 152,
+     "volume": 59592000.0,
+     "bonds": 51,
+     "below90": 16
     },
     {
      "date": "2026-10-15",

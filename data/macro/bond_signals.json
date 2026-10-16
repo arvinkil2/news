@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-16T08:49:59-04:00",
+ "as_of": "2026-10-16T09:05:17-04:00",
  "signals": [
   {
    "cusip": "21873SAB4",
@@ -1734,6 +1734,57 @@
    "level": "flag",
    "rule": "new trade printed below 90",
    "id": "038222AN5-flag-2026-10-16"
+  },
+  {
+   "cusip": "21873SAL2",
+   "issuer": "COREWEAVE INC",
+   "security": "2.875% Convertible Notes due 2033",
+   "price": 85.2928,
+   "prev_price": 89.797,
+   "trade_date": "2026-10-16",
+   "trade_time": "08:45:58",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 445,
+   "fired_at": "2026-10-16T09:05:17-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "21873SAL2-flag-2026-10-16"
+  },
+  {
+   "cusip": "46270CAL3",
+   "issuer": "IREN LTD",
+   "security": "1% Notes due 2033",
+   "price": 59.7763,
+   "prev_price": 60.083564,
+   "trade_date": "2026-10-16",
+   "trade_time": "08:48:26",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 1855,
+   "fired_at": "2026-10-16T09:05:17-04:00",
+   "level": "tier1",
+   "rule": "print below 75",
+   "id": "46270CAL3-below75-2026-10-16"
+  },
+  {
+   "cusip": "46270CAL3",
+   "issuer": "IREN LTD",
+   "security": "1% Notes due 2033",
+   "price": 59.7763,
+   "prev_price": 60.083564,
+   "trade_date": "2026-10-16",
+   "trade_time": "08:48:26",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 1855,
+   "fired_at": "2026-10-16T09:05:17-04:00",
+   "level": "flag",
+   "rule": "new trade printed below 90",
+   "id": "46270CAL3-flag-2026-10-16"
   }
  ]
 }
