@@ -1,18 +1,18 @@
 ---
 title: Pennsylvania measles outbreak passes 1,000 cases and five deaths
 date: 2026-10-07 17:53:40-04:00
-last_updated: 2026-10-10T18:42:15-04:00
+last_updated: 2026-10-17T08:52:39-04:00
 beats:
 - life-sciences
 status: story
 developing: true
 update_bump: true
-lede: CDC data released Friday put the 2026 U.S. measles tally at 4,080, the most
-  since 1991, with Pennsylvania's outbreak now at 1,136 cases and accounting for more
-  than a quarter of the national total.
-why_it_matters: Nine straight weeks of double-digit increases put the country on
-  track to double 2025's total, while the unresolved CDC-versus-state death-count
-  gap leaves the outbreak's true severity in doubt.
+lede: Pennsylvania has confirmed a sixth measles death and 1,222 cases, and the CDC
+  is sending an Epidemic Intelligence Service scientist to the state and releasing
+  nearly 4 million dollars for the response, The Guardian reported.
+why_it_matters: The deployment is a federal acknowledgement that the outbreak,
+  centred on Lancaster County, is straining a state system in which the largest
+  county in the state has no health department of its own.
 featured: false
 evidence_grade: B
 sources:
@@ -20,6 +20,10 @@ sources:
   publisher: CIDRAP
   url: https://www.cidrap.umn.edu/measles/pennsylvania-leading-way-us-measles-cases-top-4000
   published: '2026-10-09'
+- title: CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak
+  publisher: The Guardian
+  url: https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective
+  published: '2026-10-17'
 - title: Measles cases in Pennsylvania surpass 1,000 amid outbreak
   publisher: The Hill
   url: https://www.louisianafirstnews.com/news/national-news/pennsylvania-measles-cases-pass-1k-mark-amid-outbreak/
@@ -32,10 +36,19 @@ tags: []
 data_as_of: "Pennsylvania health officials October 7, 2026, reported via Ars Technica;
   CDC national figure as of October 1, reported via The Hill. Saturday update -
   CDC 4,080 figure as of October 8, Pennsylvania 1,136, $100M state funding and
-  Schwartz remarks via CIDRAP (opened and read in full), October 9."
+  Schwartz remarks via CIDRAP (opened and read in full), October 9. Saturday,
+  October 17 update - Pennsylvania case and death figures as of Wednesday and the
+  CDC deployment and funding via The Guardian (read in full); national figure is
+  the CDC tally reported Friday."
 regions:
 - north-america
 ---
+
+## Latest (Saturday, October 17)
+
+The CDC announced on Thursday that it will send a scientist from its Epidemic Intelligence Service to Pennsylvania to help tackle the outbreak, and that it is releasing nearly 4 million dollars to aid the state's measles response, The Guardian reported. A CDC spokesperson told NBC News the agency would keep working closely with Pennsylvania health officials, and said director Erica Schwartz recommends the MMR vaccine as the most effective way to prevent measles. Pennsylvania had confirmed 1,222 measles cases as of Wednesday, and the state has now confirmed six measles-associated deaths. The national tally the CDC reported on Friday was 4,410 cases, up 330 from its update the previous week.
+
+The outbreak remains centred on Lancaster County, which had more than 415 confirmed cases as of October 9 and is the largest county in Pennsylvania without its own health department. County commissioner Alice Yoder said officials are very concerned, that lacking a local health department is a clear disadvantage, and that county officials currently learn of cases and deaths only from media announcements; she is advocating for the county to create its own health department. Of Pennsylvania's 67 counties, 60 sit under the centralized state system rather than their own health departments. Reuters has reported that the CDC has shifted to using National Center for Health Statistics mortality data for measles-related deaths rather than relying on state health departments, a change that has drawn scrutiny and that sits behind the death-count gap recorded in earlier updates to this story.
 
 ## Latest (Saturday, October 10)
 
