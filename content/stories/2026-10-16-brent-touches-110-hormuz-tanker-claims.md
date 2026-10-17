@@ -1,11 +1,12 @@
 ---
 title: "Brent touches 110 dollars as tanker war widens on two fronts"
 date: 2026-10-16T17:43:01-04:00
-last_updated: 2026-10-16T17:49:21-04:00
+last_updated: 2026-10-16T23:42:15-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["middle-east", "europe", "global"]
 status: "story"
-lede: "Brent crude touched 110 dollars a barrel on Friday for the first time since May and settled at 109.86 dollars, up 3.7 percent, as attacks on tankers in the Strait of Hormuz intensified and Ukraine's president said Kyiv would resume strikes on Russian refineries."
+lede: "Brent crude touched 110 dollars a barrel on Friday for the first time since May and settled at 109.86 dollars, up 3.7 percent, as attacks on tankers in the Strait of Hormuz intensified, and Iran's Revolutionary Guards later said a tanker carrying more than two million barrels of crude hit a mine in the strait and caught fire, a claim not independently confirmed."
 why_it_matters: "Oil back at 110 dollars with the Hormuz tanker war escalating and the Ukraine energy ceasefire unravelling tightens crude and diesel supply at once, feeding the freight and pump price inflation channel the site has tracked all week."
 featured: true
 evidence_grade: "B"
@@ -22,9 +23,15 @@ sources:
     publisher: "TASS"
     url: "https://tass.ru/ekonomika/28224139"
     published: "2026-10-16"
+  - title: "Iran: tanker engulfed in flames after hitting a mine in the Strait of Hormuz (in Greek)"
+    publisher: "ERT News"
+    url: "https://www.ertnews.gr/eidiseis/iran-deksamenoploio-tylixthike-stis-floges-meta-apo-proskrousi-se-narki-sta-stena-tou-ormouz/"
+    published: "2026-10-17"
 tags: []
-data_as_of: "Corrected Friday, October 16, 2026, 17:49 ET: an earlier version of this story, published at 17:43 ET, carried settlement figures and tanker claims from a single browser read that two further reads of the same CNBC report and The Hill's account did not support; the figures and drivers below are the ones those concordant reads establish. CNBC report by Spencer Kimball, published October 16, 2026, 1:15 PM ET, read in full via live browser. The 110 dollar intraday print was independently carried by TASS, Kommersant, Vedomosti, UOL (Reuters copy, in Portuguese) and Al Jazeera Arabic."
+data_as_of: "Updated Friday, October 16, 2026, 23:42 ET with the Revolutionary Guards mine claim, reported by ERT News (in Greek, sourced to APE-MPE and Reuters) from an IRGC announcement relayed by Iranian media; no ship name, casualty report or independent corroboration accompanied the claim, and that element alone is grade C. Corrected Friday, October 16, 2026, 17:49 ET: an earlier version of this story, published at 17:43 ET, carried settlement figures and tanker claims from a single browser read that two further reads of the same CNBC report and The Hill's account did not support; the figures and drivers below are the ones those concordant reads establish. CNBC report by Spencer Kimball, published October 16, 2026, 1:15 PM ET, read in full via live browser. The 110 dollar intraday print was independently carried by TASS, Kommersant, Vedomosti, UOL (Reuters copy, in Portuguese) and Al Jazeera Arabic."
 ---
+
+Latest: Iran's Revolutionary Guards said late on Friday that a tanker carrying more than two million barrels of crude oil struck a mine in the Strait of Hormuz and caught fire, and that the ship had tried to transit by a route the Iranian authorities had not approved. The announcement, relayed by Iranian media and reported by Greece's ERT News from APE-MPE and Reuters copy, named no ship and gave no report of casualties, and no independent source had confirmed the incident when this update was written.
 
 Brent crude touched 110 dollars a barrel in Friday trading for the first time since May 20 and settled at 109.86 dollars, up 3.7 percent on the day and nearly 5 percent on the week, while US West Texas Intermediate rose 3.5 percent to settle at 101.41 dollars, its first close above 100 dollars since September 21 and more than 10 percent higher on the week. The move caps a climb from about 105 dollars overnight through 108 and 109 dollars during Friday's session as the tanker war widened on two fronts at once.
 
