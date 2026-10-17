@@ -371,3 +371,22 @@ td.neg { color: #b42318; font-weight: 700; }
 .issuer-dir-group li { margin: 4px 0; font-size: 14.5px; break-inside: avoid; }
 .issuer-dir-group .src { font-size: 12px; white-space: nowrap; }
 .issuer-dir a.issuer-link { text-decoration: underline; border-bottom: none; font-weight: 600; }
+
+/* Bond flow panel (2026-10-16): reported trading activity, per bond
+   and per issuer. Hairline rules, flat surfaces, tabular numerals. */
+.flow-panel { border-top: 2px solid var(--rule-strong); margin: 26px 0 8px; padding-top: 12px; }
+.flow-scope { color: var(--muted); font-size: 13.5px; margin: 2px 0 4px; }
+.flow-toggle { margin: 10px 0 2px; }
+.flow-win-label { font-family: var(--sans); font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 2px; }
+.flow-line { font-size: 14.5px; margin: 8px 0; }
+.flow-bar { display: flex; height: 16px; border: 1px solid var(--rule-strong); margin: 10px 0 4px; }
+.flow-seg.b { background: #1a7f37; }
+.flow-seg.s { background: #b42318; }
+.flow-bar-labels { display: flex; flex-wrap: wrap; gap: 0 12px; justify-content: space-between; font-size: 13px; font-variant-numeric: tabular-nums; color: var(--ink-soft); margin-bottom: 4px; }
+.flow-vol { font-size: 13.5px; margin: 10px 0 6px; font-variant-numeric: tabular-nums; }
+.flow-total td { font-weight: 700; border-top: 2px solid var(--rule-strong); }
+.flow-size { margin-top: 10px; }
+.flow-split { font-size: 13.5px; line-height: 1.55; margin: 12px 0 4px; font-variant-numeric: tabular-nums; }
+.flow-split-h { font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.flow-note { font-size: 12.5px; color: var(--muted); line-height: 1.55; margin: 8px 0; max-width: 72ch; }
+.flow-win[hidden] { display: none; }
