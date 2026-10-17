@@ -1,17 +1,25 @@
 ---
 title: "Protesters storm and burn town halls across France"
 date: 2026-10-17T08:42:35-04:00
-last_updated: 2026-10-17T14:56:04-04:00
+last_updated: 2026-10-17T18:52:43-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "Protesters stormed the town hall in Marseille, set fire to the town hall in Limoges and the tourism office in Lyon on Saturday, as France's nationwide protest day over living costs escalated, with 272 people arrested by mid-afternoon."
-why_it_matters: "Attacks on town halls and public buildings in at least four cities mark an escalation from marches to direct assaults on the symbols of the state, and President Macron's vow that those responsible will be prosecuted and punished sets the terms of the confrontation over the 2027 budget a year before the presidential election."
+lede: "Interior Minister Laurent Nuñez said about 1,200 people were detained and at least 150 police officers injured on France's nationwide cost of living protest day, after protesters stormed the town hall in Marseille and set fire to the town hall in Limoges, while related protests were held in Belgium, Italy and Portugal."
+why_it_matters: "The detention and injury tolls, and same-day cost of living protests in Brussels, Lisbon and Italian cities, widen a protest movement that began in French schools into a broader European confrontation over prices, housing and public services a year before France's presidential election."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Medio millón de personas protestan en Francia y más de 1.000 son detenidos por disturbios"
+    publisher: "Deutsche Welle, in Spanish, with Reuters, AFP and dpa reporting"
+    url: "https://www.dw.com/es/medio-millón-de-personas-protestan-en-francia-y-más-de-1-000-son-detenidos-por-disturbios/a-79689993?maca=spa-rss-sp-all-1122-rd"
+    published: "2026-10-17"
+  - title: "Cost of living protests hit Belgium, Italy, Portugal and France"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
+    published: "2026-10-17"
   - title: "Protests spread across France as ‘yellow vests’ set to join"
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
@@ -33,8 +41,10 @@ sources:
     url: "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584"
     published: "2026-10-17"
 tags: []
-data_as_of: "Updated Saturday, October 17, 2026, 14:56 ET: the Marseille town hall storming, the Limoges town hall fire, the Lille town hall break-in, the Lyon tourism office fire and President Macron's prosecution vow are from the Guardian report of October 17, 2026 (12:55 EDT edition) and the Deutsche Welle report of the same day drawing on AFP, Reuters and AP, both read in full. Wire claims of 500,000 participants and more than 400 detentions, carried by Russian state outlets, could not be corroborated in the reporting opened and are not used. Earlier updates Saturday, October 17, 2026, 12:42 ET and 08:42 ET, sources as previously noted."
+data_as_of: "Updated Saturday, October 17, 2026, 18:52 ET: the detention, turnout and police injury figures are Interior Minister Laurent Nuñez's, reported by Deutsche Welle in Spanish on October 17, 2026, drawing on Reuters, AFP and dpa, read in full; the Belgium, Portugal and Italy protest details are from the Al Jazeera report of the same day, read in full. Reports that the Limoges town hall tower collapsed, carried in ANSA and NOS headlines, were not confirmed in any article read in full and are not used. Updated Saturday, October 17, 2026, 14:56 ET: the Marseille town hall storming, the Limoges town hall fire, the Lille town hall break-in, the Lyon tourism office fire and President Macron's prosecution vow are from the Guardian report of October 17, 2026 (12:55 EDT edition) and the Deutsche Welle report of the same day drawing on AFP, Reuters and AP, both read in full. Wire claims of 500,000 participants and more than 400 detentions, carried by Russian state outlets, could not be corroborated in the reporting opened and are not used. Earlier updates Saturday, October 17, 2026, 12:42 ET and 08:42 ET, sources as previously noted."
 ---
+
+Latest (Saturday 18:52 ET): Interior Minister Laurent Nuñez said about 1,200 people had been detained after the day's violent incidents, most of them adults, up from the 272 arrests the ministry reported by mid-afternoon, and that at least 150 police officers were injured. The ministry put nationwide turnout at about 550,000 people; the CGT union estimated 800,000. Related cost of living protests were held the same day in Belgium, Italy and Portugal. In Brussels, police used tear gas and water cannon against protesters they accused of throwing missiles and setting fires, and water cannon was also used in Liège. In Lisbon, tens of thousands marched over low wages, housing costs and rents, and demonstrators set up tents in Rossio square. In Milan and Bologna, police reported stone throwing and clashes alongside peaceful rallies, and Italian media reported several injuries and arrests. Alberto Alemanno, a professor of EU law and policy at HEC Paris, told Al Jazeera that France is the epicentre of the movement, that there are signs it is spreading beyond France, and that early mobilisation in Greece, Germany and Austria could follow in the coming week.
 
 Latest (Saturday 14:56 ET): The protest day escalated into direct attacks on public buildings. In Marseille, protesters rammed the town hall door with security barriers taken from the street and briefly entered the building, where one spray-painted an anarchist symbol on a wall before police removed them; a municipal police station in the city was also vandalised, and the mayor said additional police were being sent after talks with the government. In Limoges, the 19th century town hall was set alight and the blaze spread to the roof. In Lille, protesters smashed their way into the town hall and vandalised the premises before leaving, and in Lyon the city's tourism office was set on fire. In Paris, rioters at Place de la République attacked a bank, looted a sports shop and set a lorry ablaze, with flames spreading to a nearby building. The interior ministry said 272 people had been arrested by mid-afternoon and blamed the violence on the ultra-left. President Macron posted that those who had attacked prefectures and businesses and looted town halls would be prosecuted and punished.
 

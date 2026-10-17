@@ -1,13 +1,13 @@
 ---
 title: "Trump waives Graham Act tariffs and sanctions before deadline"
 date: 2026-10-16T21:42:15-04:00
-last_updated: 2026-10-17T10:44:14-04:00
+last_updated: 2026-10-17T18:44:40-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["north-america", "europe", "asia-pacific"]
 status: "story"
-lede: "President Trump has signed an executive order that sets out the Graham Act duties, a 500 percent increase on Russian goods and 100 percent increases on goods from the biggest buyers of Russian oil and gas, and then waives every one of those duties and the Act's sanctions provisions, drawing condemnation from Kyiv and, on Saturday, from Republican senators in his own party."
-why_it_matters: "The waiver, issued two days before the Act's October 18 tariff deadline, means the duties Congress legislated in September will not take effect, and the public break over it now runs through the president's own party as well as Kyiv, with Republican senators calling the move irresponsible while Moscow's envoy calls the suspension historic."
+lede: "Senator Darline Graham of South Carolina, appointed to her late brother Lindsey's seat after helping pass his Russia sanctions act, broke publicly with President Trump on Saturday over his waiver of the Act's duties and sanctions, as lawmakers in both parties condemned the move and Congress, on recess until after the November 3 elections, has no quick way to reverse it."
+why_it_matters: "The break by the Act author's sister and successor, in the middle of her own election race, gives the Republican criticism a family and electoral edge, and the congressional recess leaves the waiver in force by default until lawmakers return to Washington."
 featured: true
 evidence_grade: "A"
 sources:
@@ -19,6 +19,10 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law"
     published: "2026-10-16"
+  - title: "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen"
+    publisher: "Arab News, reporting the Associated Press"
+    url: "https://www.arabnews.com/world/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen-3006930"
+    published: "2026-10-17"
   - title: "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'"
     publisher: "The Hill"
     url: "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/"
@@ -32,8 +36,10 @@ sources:
     url: "https://www.lexology.com/library/detail.aspx?g=fe6407bb-691f-45b5-9ed5-9d29819bec2f"
     published: "2026-09-23"
 tags: []
-data_as_of: "Executive order dated October 16, 2026, published by the White House on the evening of October 16 ET and read in full. Figures and waiver scope are from the order itself. Updated Saturday, October 17, 2026, 10:44 ET: the Republican and Democratic lawmaker reactions are from The Hill report of October 17, 2026, read in full; the statements are the lawmakers' own posts, reported as statements. Updated Saturday, October 17, 2026, 07:42 ET: the Zelenskyy and Dmitriev statements are from the Arab News report of the AFP wire, read in full; both are statements by parties to the conflict, reported as statements, and Zelenskyy's account of the attacks on 15 power facilities is a Ukrainian official account with no independent corroboration in the reporting opened."
+data_as_of: "Executive order dated October 16, 2026, published by the White House on the evening of October 16 ET and read in full. Figures and waiver scope are from the order itself. Updated Saturday, October 17, 2026, 18:44 ET: the Darline Graham, Scott, Schumer, Warren and Meeks statements and the congressional recess position are from the Associated Press report carried by Arab News on October 17, 2026, read in full; the statements are the lawmakers' own, reported as statements. Updated Saturday, October 17, 2026, 10:44 ET: the Republican and Democratic lawmaker reactions are from The Hill report of October 17, 2026, read in full; the statements are the lawmakers' own posts, reported as statements. Updated Saturday, October 17, 2026, 07:42 ET: the Zelenskyy and Dmitriev statements are from the Arab News report of the AFP wire, read in full; both are statements by parties to the conflict, reported as statements, and Zelenskyy's account of the attacks on 15 power facilities is a Ukrainian official account with no independent corroboration in the reporting opened."
 ---
+
+**Latest (Saturday 18:44 ET):** Senator Darline Graham of South Carolina, who was appointed to her late brother Lindsey Graham's seat and helped ensure the Act's passage, broke publicly with the president at a campaign stop on Saturday. She said she and the president share the same goal, ending the war and getting fuel prices down, and that the sanctions bill is one of the tools he can use. She added that she would personally choose to keep the pressure on Russia, because she does not trust President Vladimir Putin. Senator Rick Scott of Florida told the Associated Press that Russia is the aggressor and the waiver is not the first thing he would be doing. Senate Democratic leader Chuck Schumer said the waiver gives the Russian economy life support, and Senator Elizabeth Warren said the president is thumbing his nose at Congress and urged her colleagues to take action to reverse course. Representative Gregory Meeks of New York, the ranking Democrat on the House Foreign Affairs Committee, introduced legislation on Friday that would block the administration's diesel deal with Moscow, and said on Saturday that Congress is not helpless and must act. No quick reversal is available in practice: the House and Senate are on recess until after the November 3 midterm elections, and the Associated Press reported it is unlikely Congress would be in a position to challenge the waiver until lawmakers return to Washington.
 
 **Latest (Saturday 10:44 ET):** The waiver drew public criticism from Republicans in Congress on Saturday. Senator Thom Tillis of North Carolina called the move “beyond irresponsible” in a post on X, arguing that the administration was failing to enforce a law the Senate passed 86 to 11 and was capitulating to Russia. Senator John Cornyn of Texas posted the news on Saturday morning with the comment “Lindsey would be appalled,” referring to the late Senator Lindsey Graham, the Act's author. Representative Don Bacon of Nebraska wrote that the president is prolonging the war, not ending it. Democrats attacked the waiver in similar terms: Senator Richard Blumenthal of Connecticut, who helped pass the bill, called it a “craven, cowardly action,” and Representative Don Beyer of Virginia said it betrayed Ukrainian partners and defied congressional intent. No vote, override effort or other congressional next step was reported.
 
