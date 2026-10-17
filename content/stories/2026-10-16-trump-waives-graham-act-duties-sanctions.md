@@ -1,12 +1,13 @@
 ---
 title: "Trump waives Graham Act tariffs and sanctions before deadline"
 date: 2026-10-16T21:42:15-04:00
-last_updated: 2026-10-16T21:42:15-04:00
+last_updated: 2026-10-17T07:42:51-04:00
+update_bump: true
 beats: ["politics"]
 regions: ["north-america", "europe", "asia-pacific"]
 status: "story"
-lede: "President Trump has signed an executive order that sets out the Graham Act duties, a 500 percent increase on Russian goods and 100 percent increases on goods from the biggest buyers of Russian oil and gas, and then waives every one of those duties and the Act's sanctions provisions."
-why_it_matters: "The waiver, issued two days before the Act's October 18 tariff deadline, means the duties Congress legislated in September will not take effect, leaving monitoring rather than tariffs as the operative policy while Britain tightened its own Russian oil sanctions the same day."
+lede: "President Trump has signed an executive order that sets out the Graham Act duties, a 500 percent increase on Russian goods and 100 percent increases on goods from the biggest buyers of Russian oil and gas, and then waives every one of those duties and the Act's sanctions provisions, a move President Zelenskyy said on Saturday only rewards President Putin."
+why_it_matters: "The waiver, issued two days before the Act's October 18 tariff deadline, means the duties Congress legislated in September will not take effect, and Kyiv's public break with Washington over it, set against a Russian envoy calling the suspension historic, leaves monitoring rather than tariffs as the operative policy while Britain tightened its own Russian oil sanctions the same day."
 featured: true
 evidence_grade: "A"
 sources:
@@ -18,13 +19,19 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law"
     published: "2026-10-16"
+  - title: "Zelensky says Trump waiving sanctions rewards Putin, warns Moscow wants blackout in Ukraine"
+    publisher: "Arab News, reporting AFP"
+    url: "https://www.arabnews.com/world/zelensky-says-trump-waiving-sanctions-rewards-putin-warns-moscow-wants-blackout-in-ukraine-3006837-3006839"
+    published: "2026-10-17"
   - title: "Newly Enacted Law Targeting Russia Creates Novel Tariff Authority over Third-Country Imports"
     publisher: "Lexology"
     url: "https://www.lexology.com/library/detail.aspx?g=fe6407bb-691f-45b5-9ed5-9d29819bec2f"
     published: "2026-09-23"
 tags: []
-data_as_of: "Executive order dated October 16, 2026, published by the White House on the evening of October 16 ET and read in full. Figures and waiver scope are from the order itself."
+data_as_of: "Executive order dated October 16, 2026, published by the White House on the evening of October 16 ET and read in full. Figures and waiver scope are from the order itself. Updated Saturday, October 17, 2026, 07:42 ET: the Zelenskyy and Dmitriev statements are from the Arab News report of the AFP wire, read in full; both are statements by parties to the conflict, reported as statements, and Zelenskyy's account of the attacks on 15 power facilities is a Ukrainian official account with no independent corroboration in the reporting opened."
 ---
+
+**Latest (Saturday 07:42 ET):** President Volodymyr Zelenskyy attacked the waiver directly on Saturday, saying the decision came the same day Russia struck 15 critical power generation facilities in one of the largest attacks on Ukraine's grid, and that a United States sanctions blackout, easing pressure on the aggressor, amounts to financial rewards for President Vladimir Putin and encourages him to keep attacking. He said the Graham Act could have imposed effective pressure to end the war and still can, and warned that Russia is trying to leave millions of Ukrainians without electricity and heating before winter. On the Russian side, Putin envoy Kirill Dmitriev called the suspension of the Graham Act an important and truly historic moment, and said the Act would have damaged the United States economy and global markets first. The two reactions fix the political reading of the order on both sides: Kyiv treats the waiver as relief granted to Moscow at the moment of a grid campaign, and Moscow's own envoy treats it as a win worth celebrating in public.
 
 President Donald Trump has signed an executive order implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the sanctions law he signed on September 18, and has used it to waive the Act's duties and sanctions provisions before they take effect.
 
