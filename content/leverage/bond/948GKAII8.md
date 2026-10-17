@@ -1,8 +1,8 @@
 ---
 title: "COREWEAVE COMPUTE ACQUISITION CO II LLC 948GKAII8"
-date: "2026-10-16"
+date: "2026-10-17"
 lede: "Trades, fund marks, terms and call schedule for 948GKAII8."
-data_as_of: "Trades to 2026-10-15; marks to 31 Mar 2026"
+data_as_of: "Trades to 2026-10-16; marks to 31 Mar 2026"
 ---
 
 <p class="bond-navrow"><a href="/leverage/bond-watch/">&larr; Bond Price Watch</a> · <a href="/leverage/bond/20469bak3/">&larr; Compass Datacenters Issuer III, LLC</a> · <a href="/leverage/bond/ba0004jk4/">COREWEAVE COMPUTE ACQUISITION CO II LLC &rarr;</a></p>
