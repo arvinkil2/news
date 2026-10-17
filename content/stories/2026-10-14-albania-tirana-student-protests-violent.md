@@ -1,16 +1,20 @@
 ---
-title: "Student protests in Tirana turn violent for second day"
+title: "Police fire rubber bullets as Tirana protests enter fifth day"
 date: 2026-10-14T19:54:17-04:00
-last_updated: 2026-10-17T09:45:27-04:00
+last_updated: 2026-10-17T16:42:33-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Student protests in Tirana reached a fifth day on Saturday, with renewed clashes outside the education ministry as demonstrators demanding Prime Minister Edi Rama's resignation threw Molotov cocktails and riot police answered with tear gas and water cannon."
-why_it_matters: "Five days in, the movement that began over university conditions and living costs has become a standing challenge to Prime Minister Rama, who is resisting the resignation demand, and the continued absence of reported deaths is the fact holding the crisis short of a national emergency."
+lede: "Albanian police fired rubber bullets at protesters in Tirana on Saturday for the first time in five days of clashes, the national police chief confirmed, as the health ministry said nine protesters and four officers were treated during the day."
+why_it_matters: "The first use of rubber bullets, 167 arrests over five days and clashes spreading to Durres raise the stakes for Prime Minister Edi Rama, who again refused to resign on Saturday, while no deaths have been reported."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
+  - title: "Albanian police fire rubber bullets as protests against Rama escalate"
+    publisher: "Al Jazeera, reporting AFP"
+    url: "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate"
+    published: "2026-10-17"
   - title: "Violent clashes between police and protesters in Albania"
     publisher: "BBC News"
     url: "https://www.bbc.co.uk/news/videos/c8040dk1rnq4o"
@@ -24,8 +28,10 @@ sources:
     url: "https://www.tiranatimes.com/student-protests-turn-violent-amid-growing-unrest-in-albania/"
     published: "2026-10-14"
 tags: []
-data_as_of: "Updated Saturday, October 17, 2026, 09:45 ET: the fifth day account is the BBC's video dispatch from Tirana, published Saturday morning and viewed in full; it carries no injury or arrest figures for Saturday. Earlier: clashes October 13 to 14, 2026 in Tirana. Injury and arrest figures vary by outlet (police reported 23 detained and six officers plus a journalist injured on Tuesday; local media reported about 29 injuries and 35 arrests by Wednesday). No deaths have been reported by any source checked for this update; overnight claims of student deaths could not be verified and are not carried. Figures are single chain local reporting, hence grade C."
+data_as_of: "Updated Saturday, October 17, 2026, 16:42 ET: the rubber bullet account, the Saturday treatment figures and the five day totals are from the Al Jazeera report of October 17, 2026, reporting AFP, read in full; the rubber bullet use and the arrest and injury totals are statements by national police chief Skender Hita at a Saturday news conference, and the treatment figures are from the Ministry of Health and Social Welfare. Earlier updates Saturday, October 17, 2026, 09:45 ET and October 13 to 14, 2026, sources as previously noted. No deaths have been reported by any source checked for this update."
 ---
+
+**Latest (Saturday 16:42 ET):** Police fired rubber bullets at protesters in central Tirana on Saturday, which AFP reported was the first use of rubber bullets since the demonstrations began, and national police chief Skender Hita confirmed at a news conference that they had been deployed in a limited manner. Protesters threw stones, petrol bombs and fireworks near the prime minister's office, and some set cars and rubbish bins alight. The health ministry said nine protesters and four police officers received medical treatment on Saturday. Hita put arrests over the five days at 167 and officers injured at 132, and said seven officers had been suspended pending investigations into allegations that they exceeded their authority. Rama visited businesses damaged in the unrest, promised to listen to students and again refused to resign. Local media reported protesters in the coastal city of Durres damaging a post office and blocking roads with burning barricades.
 
 **Latest (Saturday 09:45 ET):** The protests reached a fifth day on Saturday, with students again gathered outside the education ministry in Tirana to protest poor education facilities, rising living costs and alleged government corruption, the BBC reported. The day turned violent, with protesters throwing Molotov cocktails toward police and riot police using tear gas and water cannon to disperse them. The BBC carried no new injury or arrest figures for Saturday, and Prime Minister Edi Rama was reported to be resisting the demand that he resign.
 
