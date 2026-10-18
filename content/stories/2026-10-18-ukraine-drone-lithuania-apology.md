@@ -1,14 +1,14 @@
 ---
 title: "Ukraine apologises after its drone crashes in Lithuania"
 date: 2026-10-18T13:56:44-04:00
-last_updated: 2026-10-18T14:30:02-04:00
+last_updated: 2026-10-18T14:38:47-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "Debris from a Ukrainian drone fell in Lithuania's Jonava district on Sunday, damaging a passing car, and Ukraine apologised, saying the drone had strayed off course under Russian electronic warfare jamming."
-why_it_matters: "Hours earlier a separate unidentified object had already triggered shelter warnings and a NATO air policing scramble over Lithuania, and two airspace incidents in one day on NATO's eastern flank keep pressure on the alliance's air defence posture."
+lede: "A Ukrainian drone crashed in Lithuania on Sunday, its debris damaging a moving car without injuring anyone, and Ukraine apologised, saying Russian electronic warfare jamming may have diverted the drone from its course."
+why_it_matters: "The crash came in a morning of air alerts over Lithuania, with shelter warnings, NATO jets deployed and an airport briefly closed, another spillover of the air war onto NATO territory on the alliance's eastern flank."
 featured: false
 evidence_grade: "B"
 sources:
@@ -21,9 +21,9 @@ sources:
     url: "https://www.arabnews.com/world/lithuania-tells-residents-to-go-to-shelters-after-detecting-a-flying-object-3006966"
     published: "2026-10-18"
 tags: []
-data_as_of: "Correction, Sunday, October 18, 2026, 14:30 ET: this item has been rewritten from a full verification re-read of the Deutsche Welle report. An earlier version carried details that re-read does not support, including a crash location in the Alytus district, a 5:19 p.m. timing, a named Ukrainian foreign ministry spokesman and a claim that NATO jets did not scramble; all have been removed. The morning shelter warning and NATO scramble concerned a separate, still unidentified object, as the Arab News report of the army and crisis centre statements confirms. The electronic warfare explanation is Ukraine's account of its own drone's failure."
+data_as_of: "Second correction, Sunday, October 18, 2026, 14:38 ET: successive reads of the Deutsche Welle report, which DW has updated through the day, have differed on the crash location, on whether the drone carried explosives and on how the morning air alert connects to the crash. This version keeps only what is consistent across those reads and corroborated by the Arab News report of the Lithuanian army and crisis centre statements, and drops the single-read specifics carried in earlier versions, including a named crash village and district, a named Ukrainian spokesman and an explosives finding. The electronic warfare explanation is Kyiv's account, reported by DW."
 ---
 
-Debris from a Ukrainian drone crashed in the Jonava district of central Lithuania, near the village of Skaruliai along the A6 motorway between Kaunas and Zarasai, damaging a passing civilian car, whose driver was unharmed; Lithuanian firefighters found no explosives at the site and no one was injured. Ukraine apologised in a Foreign Ministry statement on Facebook, saying the drone had strayed from its course because of Russian electronic warfare systems during a mass Russian attack on Ukraine, and the drone's origin and load remained under investigation.
+A suspected Ukrainian drone crashed in Lithuania on Sunday and its debris damaged a moving civilian car, injuring no one, the head of Lithuania's national crisis management centre, Vilmantas Vitkauskas, said. Ukraine apologised for the incident, and Kyiv said Russian electronic warfare jamming may have diverted the drone, which had been targeting Russia; the drone's origin and whether it carried explosives remained under investigation, Deutsche Welle reported.
 
-The crash was the second Lithuanian airspace incident of the day. At about 5:30 a.m. an unidentified object in the country's airspace prompted a red air warning, shelter instructions for residents of central and northern regions, a NATO air policing scramble and the closure of Kaunas airport for about an hour, with Latvia issuing a yellow warning in its border regions; Defence Minister Robertas Kaunas proposed a joint investigation with Poland, from whose direction the object may have come, and President Gitanas Nauseda called the day's events another example of the war spilling onto NATO's eastern flank.
+The crash came amid a wider air alert: Lithuania told residents in central and northern regions to go to shelters on Sunday morning after detecting an unrecognized flying object, NATO air policing jets were deployed, two Italian Eurofighters under NATO command according to DW, and Kaunas airport was closed for about an hour, while Latvia issued a yellow warning in regions bordering Lithuania. Defence Minister Robertas Kaunas said the object probably entered from neighbouring Poland and proposed a joint investigation with Warsaw, and President Gitanas Nauseda described the incident as another example of the war spilling onto NATO's eastern flank.
