@@ -1,15 +1,20 @@
 ---
 title: "Egypt lines up 30 percent Banque du Caire IPO this month"
 date: 2026-10-11T07:12:16-04:00
-last_updated: 2026-10-11T07:12:16-04:00
+last_updated: 2026-10-18T11:52:59-04:00
+update_bump: true
 beats: ["infra-deals"]
 regions: ["middle-east", "africa"]
 status: "story"
-lede: "Egypt is offering a 30 percent stake in state-owned Banque du Caire, the country's second big listing of the month after MNT-Halan's Egyptian Exchange debut."
-why_it_matters: "The sale is the anchor transaction of Egypt's stalled state-privatization program; if it clears at the roughly $1.6 billion valuation, it resets the bar for the rest of the state-asset pipeline before the IMF program wraps up."
+lede: "Egypt's Financial Regulatory Authority approved the Banque du Caire offering prospectus on Sunday, clearing the sale of a 30 percent stake for up to EGP 24.25 billion, with orders taken October 19 to 23 at an indicative EGP 4.82 to 5.30 a share."
+why_it_matters: "The approval converts a month of intention into a dated sale: pricing against the roughly EGP 80 billion valuation, and whether the stake is raised to 45 percent, will set the terms for the rest of Egypt's state-asset pipeline."
 featured: false
 evidence_grade: "C"
 sources:
+  - title: "Egypt's financial regulator approves Banque Du Caire IPO prospectus for 30% stake worth up to EGP 24.25bn"
+    publisher: "Daily News Egypt"
+    url: "https://www.dailynewsegypt.com/2026/10/18/egypts-financial-regulator-approves-banque-du-caire-ipo-prospectus-for-30-stake-worth-up-to-egp-24-25bn/"
+    published: "2026-10-18"
   - title: "Banque du Caire Offers 30% Stake in Egypt's Second IPO in Month"
     publisher: "Bloomberg"
     published: "2026-10-11"
@@ -34,8 +39,10 @@ sources:
     url: "https://enterpriseam.com/egypt/2026/09/13/bdcs-updated-valuation-study-has-been-approved-by-a-cabinet-committee-marking-a-step-closer-to-ipo/"
     published: "2026-09-13"
 tags: []
-data_as_of: "Bloomberg headline October 11, 2026, read via a news-wire listing; the Bloomberg article body was not directly accessible, so the 30% offer detail is single-sourced. Valuation and program context from September-October 2026 reporting."
+data_as_of: "Updated Sunday, October 18, 2026, 11:52 ET: the prospectus approval, the share count, the price range, the order window and the possible increase to 45 percent are from Hashem El-Sayed, head of the State-Owned Companies Unit, as reported by Daily News Egypt on October 18, 2026, read in full. Earlier: Bloomberg headline October 11, 2026, read via a news-wire listing; the Bloomberg article body was not directly accessible, so the 30% offer detail is single-sourced. Valuation and program context from September-October 2026 reporting."
 ---
+
+**Latest (Sunday):** Egypt's Financial Regulatory Authority approved the prospectus for the Banque du Caire offering on Sunday, clearing the sale of up to 4.575 billion shares, 30 percent of the bank, held by state-owned Banque Misr. Hashem El-Sayed, who heads the State-Owned Companies Unit, put the indicative range at EGP 4.82 to 5.30 a share, worth about EGP 24.25 billion at the top, with 95 percent placed privately with qualified investors and 5 percent offered to the public, and said the stake could be raised to 45 percent under the approved rules. Orders run October 19 to 23, the final price is due by October 26, and the bank, which earned EGP 8.94 billion after tax in the first half of 2026, expects trading to begin in November, with CI Capital and EFG Hermes as joint global coordinators and bookrunners.
 
 Egypt is pressing ahead with the long-delayed listing of Banque du Caire, offering a 30 percent stake in the country's third-largest state-owned bank, Bloomberg reported overnight. The offering would be Egypt's second major listing of the month, following fintech MNT-Halan's Egyptian Exchange debut priced at EGP 24.5 a share.
 
