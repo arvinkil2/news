@@ -1,7 +1,7 @@
 ---
 title: "European Commission condemns violence at protests in Albania"
 date: 2026-10-18T13:56:44-04:00
-last_updated: 2026-10-18T16:44:58-04:00
+last_updated: 2026-10-18T17:46:41-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
@@ -20,9 +20,15 @@ sources:
     publisher: "Arab News, carrying Agence France-Presse"
     url: "https://www.arabnews.com/world/albanian-pm-refuses-to-quit-as-violent-protests-enter-sixth-day-3007048"
     published: "2026-10-18"
+  - title: "Fire engulfs Albania's Supreme Court as protests enter fifth day"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire"
+    published: "2026-10-18"
 tags: []
-data_as_of: "Updated Sunday, October 18, 2026, 16:44 ET: the sixth day of protests, Rama's refusal to resign, the Sunday injury figures and the cancelled Austria visit are from the Agence France-Presse report of October 18, 2026, published by Arab News and read in full; the injury figures are the Albanian health ministry's, given to AFP. Original item Sunday, October 18, 2026, 13:56 ET: the statement is the European Commission's own document (Press Corner STATEMENT/26/2194, Brussels, October 18, 2026), read in full."
+data_as_of: "Updated Sunday, October 18, 2026, 17:46 ET: the Supreme Court offices set ablaze are from Al Jazeera's video report of October 18, 2026, the only source for that detail in the reporting opened; Al Jazeera counts the protests' fifth day where AFP counts the sixth. Updated Sunday, October 18, 2026, 16:44 ET: the sixth day of protests, Rama's refusal to resign, the Sunday injury figures and the cancelled Austria visit are from the Agence France-Presse report of October 18, 2026, published by Arab News and read in full; the injury figures are the Albanian health ministry's, given to AFP. Original item Sunday, October 18, 2026, 13:56 ET: the statement is the European Commission's own document (Press Corner STATEMENT/26/2194, Brussels, October 18, 2026), read in full."
 ---
+
+**Latest (Sunday 17:46 ET):** Offices at the Supreme Court in Tirana were set ablaze as the protests continued on Sunday, Al Jazeera reported.
 
 **Latest (Sunday 16:44 ET):** Prime Minister Edi Rama ruled out resigning in a video broadcast lasting more than an hour on Sunday, saying the protests are the work of an outside hand, as the anti-government demonstrations entered a sixth day and his official visit to Austrian Chancellor Christian Stocker, scheduled for Monday, was cancelled by the Albanian side, Agence France-Presse reported. Hundreds of protesters gathered at noon outside the education ministry chanting for Rama to resign over poor university conditions, high tuition fees and corruption, and clashes then spread across central Tirana, where protesters set fire to a police station and the entrance of the interior ministry and smashed windows at the governing Socialist party's headquarters, while police responded with water cannon, tear gas and rubber bullets. The health ministry told AFP that 28 people were injured on Sunday, 19 of them police officers, and that 272 people have been injured since Tuesday, including 169 police; the United States embassy in Tirana urged restraint and calm on all sides late on Saturday.
 
