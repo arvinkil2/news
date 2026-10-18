@@ -1,7 +1,7 @@
 ---
 title: "Kenya Ebola cases reach seven, health workers infected"
 date: 2026-10-17T13:42:36-04:00
-last_updated: 2026-10-17T13:42:36-04:00
+last_updated: 2026-10-18T07:06:38-04:00
 update_bump: true
 beats: ["life-sciences"]
 regions: ["africa"]
@@ -20,8 +20,14 @@ sources:
     publisher: "KBC"
     url: "https://www.kbc.co.ke/three-health-workers-test-positive/"
     published: "2026-10-17"
+  - title: "Africa CDC calls for stronger regional Ebola surveillance as Kenya cases rise to 7"
+    publisher: "Capital FM"
+    url: "https://capitalfm.africa/africa-cdc-calls-for-stronger-regional-ebola-surveillance-as-kenya-cases-rise-to-7/"
+    published: "2026-10-18"
 tags: []
-data_as_of: "Saturday, October 17, 2026, 13:42 ET. Developing item. Kenya Ministry of Health statement of October 17, 2026, as reported by Al Jazeera and read in full, with the case count also carried by KBC and by Reuters reporting via UOL. Contact tracing and quarantine figures are the ministry's own."
+data_as_of: "Updated Sunday, October 18, 2026, 07:06 ET with the Africa CDC statement of October 17, 2026. Original item Saturday, October 17, 2026, 13:42 ET. Kenya Ministry of Health statement of October 17, 2026, as reported by Al Jazeera and read in full, with the case count also carried by KBC and by Reuters reporting via UOL. Contact tracing and quarantine figures are the ministry's own."
 ---
 
 Kenya's health ministry said on Saturday that four more people have tested positive for the Ebola Bundibugyo virus, taking the country's confirmed total to seven, with three of the new cases health workers who treated the first patient and the fourth a relative of that patient, who died on October 5 after falling ill in the Democratic Republic of Congo and flying to Nairobi. The cases are the first known to have been passed on inside Kenya, and they are linked to the Congo outbreak, which has recorded more than 9,000 cases and more than 4,300 deaths since it was detected in May. The ministry said the relative had been in quarantine since October 6, that 128 of the first patient's 130 contacts had been traced and quarantined, and that there is no evidence the virus is spreading in the community.
+
+Update, October 18: the Africa Centres for Disease Control and Prevention has reaffirmed its support for Kenya's response, in a statement issued from Addis Ababa on October 17, and called on member states to strengthen cross border surveillance and information sharing. The agency said it is working with the Kenyan government on surveillance, technical coordination, risk communication and community engagement, commended the speed and transparency of the response, and confirmed all four new patients are receiving supportive care at a designated treatment facility. It reported no change to the case count of seven and no evidence of community transmission.
