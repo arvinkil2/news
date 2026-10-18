@@ -1,6 +1,6 @@
 ---
 title: "TeraWulf"
-date: "2026-10-17"
+date: "2026-10-18"
 lede: "Project issuer · 2 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-16"
 ---
