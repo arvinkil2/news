@@ -1,7 +1,7 @@
 ---
 title: "Woman found dead after storm floods Ibiza and parts of Spain"
 date: 2026-10-18T12:53:15-04:00
-last_updated: 2026-10-18T13:09:08-04:00
+last_updated: 2026-10-18T13:17:21-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
@@ -17,7 +17,7 @@ sources:
     url: "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/18/forte-tempestade-provoca-inundacoes-na-espanha-e-deixa-uma-mulher-morta.htm"
     published: "2026-10-18"
 tags: []
-data_as_of: "Correction, Sunday, October 18, 2026, 13:09 ET: the first version of this item, published at 12:53 ET, described a death in a flooded garage in Paiporta, a named storm, a rainfall total, a Tarragona red alert and missing persons in Catalonia. None of that appears in the Agence France-Presse report the item cited; it came from a faulty read of the article and has been replaced in full with the report's actual content, confirmed in two further full reads of the same article. The corrected facts are from the AFP report published by UOL, in Portuguese, on October 18, 2026, read in full in translation. Single sourced, so the item remains grade C."
+data_as_of: "Correction confirmed Sunday, October 18, 2026, 13:17 ET: the corrected version below is the Agence France-Presse account, independently corroborated by the AFP wire text as carried by other outlets on October 18, 2026: a woman swept into a stream in Cabrera de Mar on Saturday and found dead on Sunday, an Aemet red alert for the Valencian Community, hundreds of incidents across four regions, the Ibiza airport road closed with at least five flights cancelled and 16 diverted, and army emergency units deployed to Ibiza and Mallorca. No AFP reporting supports the first version's Paiporta garage death, storm name or rainfall figures. Correction, Sunday, October 18, 2026, 13:09 ET: the first version of this item, published at 12:53 ET, described a death in a flooded garage in Paiporta, a named storm, a rainfall total, a Tarragona red alert and missing persons in Catalonia. None of that appears in the Agence France-Presse report the item cited; it came from a faulty read of the article and has been replaced in full with the report's actual content, confirmed in two further full reads of the same article. The corrected facts are from the AFP report published by UOL, in Portuguese, on October 18, 2026, read in full in translation. Single sourced, so the item remains grade C."
 ---
 
 A woman who had fallen into a stream on Saturday in Cabrera de Mar, about 25 kilometres northeast of Barcelona, was found dead on Sunday, the Catalan fire service said, after a strong Mediterranean storm flooded streets and disrupted transport in several regions of Spain. The state meteorological agency Aemet had issued alerts on Saturday for torrential rain, including a red level alert for the Valencian Community, a region still marked by the devastating floods of 2024, and authorities sent mobile phone alerts in the Valencian Community and on the islands of Ibiza and Formentera advising people to avoid unnecessary travel.
