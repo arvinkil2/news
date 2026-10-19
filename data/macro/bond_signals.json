@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-19T11:06:15-04:00",
+ "as_of": "2026-10-19T11:34:49-04:00",
  "signals": [
   {
    "cusip": "21873SAD0",
@@ -55,6 +55,42 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "46270CAB5-flag-2026-10-19"
+  },
+  {
+   "cusip": "038169AB4",
+   "issuer": "APPLIED BLOCKCHAIN INC",
+   "security": "2.75% Notes due 2030",
+   "price": 212.59,
+   "prev_price": 242.44,
+   "trade_date": "2026-10-19",
+   "trade_time": "11:11:24",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 315,
+   "fired_at": "2026-10-19T11:20:11-04:00",
+   "level": "tier1",
+   "rule": "print 10+ pts below reference",
+   "ref_price": 242.44,
+   "ref_move": -29.85,
+   "id": "038169AB4-drop10-2026-10-19"
+  },
+  {
+   "cusip": "038169AB4",
+   "issuer": "APPLIED BLOCKCHAIN INC",
+   "security": "2.75% Notes due 2030",
+   "price": 212.59,
+   "prev_price": 242.44,
+   "trade_date": "2026-10-19",
+   "trade_time": "11:11:24",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 315,
+   "fired_at": "2026-10-19T11:20:11-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "038169AB4-flag-2026-10-19"
   }
  ]
 }
