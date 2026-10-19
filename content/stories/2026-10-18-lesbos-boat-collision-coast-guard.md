@@ -1,14 +1,14 @@
 ---
 title: "Six unconscious after boat collides with coast guard vessel off Lesbos"
 date: 2026-10-18T20:05:21-04:00
-last_updated: 2026-10-18T20:05:21-04:00
+last_updated: 2026-10-18T20:11:17-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
 lede: "Six people, four men, one woman and an infant, were found unconscious after a speedboat carrying foreign nationals collided with a Hellenic Coast Guard vessel off Lesbos on Sunday night, and eight others had been rescued as a search and rescue operation continued."
-why_it_matters: "A collision in which six people, including an infant, are pulled from the water unconscious is the deadliest kind of incident on the Aegean migrant route in months, and what the coast guard account does not yet say, how the boats came together and whether the six survived, will decide how it is judged."
+why_it_matters: "Six people found unconscious, among them an infant, after a collision with the coast guard vessel on patrol in those waters puts the official account at the centre of the incident, and the first report does not yet say how the boats came together or whether the six survived."
 featured: false
 evidence_grade: "C"
 sources:
