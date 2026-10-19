@@ -1,15 +1,19 @@
 ---
 title: "Trump defends Russia waiver as diesel deal splits Washington"
 date: 2026-10-19T07:13:57-04:00
-last_updated: 2026-10-19T07:13:57-04:00
+last_updated: 2026-10-19T16:22:25-04:00
 beats: ["commodities"]
 regions: ["north-america", "europe"]
 status: "story"
-lede: "President Trump defended his waiver of Russia sanctions on Sunday as a negotiating step, writing that he did not want to drive Russia away from the bargaining table, while former Vice President Mike Pence has called the diesel deal a betrayal of Senator Lindsey Graham's legacy."
-why_it_matters: "The fight is now inside the president's own party, with diesel prices near record highs before the November 3 midterm elections on one side and a sanctions law Congress passed overwhelmingly on the other, which decides whether Russian fuel flows are a one off release or a durable policy change."
+lede: "Energy Secretary Chris Wright said on Monday the administration is allowing sanctioned oil tankers a process to start legitimately shipping crude, extending the sanctions easing that President Trump defended on Sunday as a negotiating step in the Russia-Ukraine talks."
+why_it_matters: "The tanker process turns a waiver on Russian fuel into a route for the roughly 1,600 vessel dark fleet to return to legitimate trade if investors buy and refurbish idled sanctioned ships, while the domestic fight over the waiver, inside the president's own party and on legal grounds, decides whether the new Russian supply is a one off release or a durable policy change."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "US Allows Dark-Fleet Oil Tankers to Shed Sanctions, Wright Says"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-19/us-allows-dark-fleet-oil-tankers-to-shed-sanctions-wright-says-mvfm8egd"
+    published: "2026-10-19"
   - title: "Trump bashes Zelensky, defends waiving Russia sanctions"
     publisher: "Arab News, reporting AFP"
     url: "https://www.arabnews.com/world/trump-bashes-zelensky-defends-waiving-russia-sanctions-3007085"
@@ -19,8 +23,11 @@ sources:
     url: "https://srnnews.com/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal/"
     published: "2026-10-12"
 tags: []
-data_as_of: "Trump's Truth Social statement Sunday, October 18, 2026, as reported by AFP via Arab News on October 19, 2026; background reaction from Reuters reporting of October 11 to 12, 2026, read via syndication."
+data_as_of: "Updated Monday, October 19, 2026, 4:22 ET: the Wright statements are from the Bloomberg report of October 19, 2026, read as far as its paywall allowed (headline, photo caption and opening paragraphs); the process steps, eligibility and timeframe were not in the visible text and are not stated here. Trump's Truth Social statement Sunday, October 18, 2026, as reported by AFP via Arab News on October 19, 2026; background reaction from Reuters reporting of October 11 to 12, 2026, read via syndication."
+update_bump: true
 ---
+
+**Latest (Monday 4:22 ET):** Energy Secretary Chris Wright said on Monday that the Trump administration is allowing sanctioned oil tankers to go through a process so they can start legitimately shipping crude, Bloomberg reported. Wright, speaking at a Citadel Securities event in New York, said investors are proposing to buy idled sanctioned tankers, refurbish them and use them to transport non-sanctioned oil, and he estimated the global dark fleet of sanctioned tankers at about 1,600 vessels. The report did not set out the steps of the process or any timeframe.
 
 President Donald Trump on Sunday defended his decision to waive some sanctions on Russia, while again accusing Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don't want to do anything that will drive, foolishly, Russia away from the bargaining table," Trump wrote on his Truth Social platform. He said great progress was being made in talks on the war, added that Russia was doing very little to help Iran compared with what it could be doing, and accused Zelenskyy of targeting Russian diesel refineries in the knowledge that the attacks hurt world diesel markets, including the United States.
 
