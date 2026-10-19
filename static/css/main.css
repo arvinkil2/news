@@ -343,6 +343,7 @@ a:hover { color: var(--accent); }
 .terms-table td:first-child { white-space: nowrap; }
 .bond-chart .chart-lab { font-family: var(--sans); font-size: 10px; fill: var(--muted); }
 .bond-chart-e { height: 440px; margin: 6px 0 2px; }
+@media (max-width: 600px) { .bond-chart-e { height: 470px; } }
 .bond-chart-e svg.bond-chart { width: 100%; height: auto; display: block; }
 .chart-toggle button { font: inherit; font-size: 13px; background: var(--card); border: 1px solid #c9c2ae; padding: 2px 12px; cursor: pointer; }
 .chart-toggle button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }

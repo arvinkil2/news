@@ -61,6 +61,39 @@
   });
   var yieldDays = days.filter(function (g) { return g.yc !== null; });
 
+  /* Responsive behaviour. Below a 560px container the desktop
+     defaults break down: time-axis labels (month names mixed with
+     day numbers) collide, the 16px dataZoom slider is too small
+     to touch and its handles sit at the container edges, and a
+     dense daily series (these pages can carry over ten thousand
+     points) smears. The small-screen option therefore thins the
+     x labels to one per month (day numbers return once the
+     visible span is about two months, via the datazoom handler),
+     enlarges and insets the slider, drops the point symbols and
+     LTTB-samples the line. Desktop rendering is unchanged. */
+  var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function isSmall() { return (box.clientWidth || 9999) < 560; }
+  var small = isSmall();
+  var fullSpanDays = days.length ?
+    (days[days.length - 1].x - days[0].x) / DAY + 1 : 0;
+  var spanDays = fullSpanDays;
+  var dayLabels = fullSpanDays <= 62;
+  function makeXLabelFormatter() {
+    var lastMonthKey = null;
+    return function (value, index) {
+      if (index === 0) lastMonthKey = null;
+      var d = new Date(value);
+      var key = d.getUTCFullYear() * 12 + d.getUTCMonth();
+      if (key !== lastMonthKey) {
+        lastMonthKey = key;
+        return MONTHS[d.getUTCMonth()] +
+          (d.getUTCMonth() === 0 ? " " + d.getUTCFullYear() : "");
+      }
+      return dayLabels ? String(d.getUTCDate()) : "";
+    };
+  }
+
   function gapped(pts, maxDays) {
     var out = [];
     for (var i = 0; i < pts.length; i++) {
@@ -83,6 +116,7 @@
   }
 
   function option(mode) {
+    var gridL = small ? 46 : 56, gridR = small ? 10 : 18;
     var isPrice = mode === "price";
     var src = isPrice ? days : yieldDays;
     var linePts = [], whisk = [], vPts = [];
@@ -117,9 +151,10 @@
         }, z: 2 },
       { name: isPrice ? "Last print (daily)" : "Yield (daily)",
         type: "line", xAxisIndex: 0, yAxisIndex: 0,
-        data: gapped(linePts, 30), showSymbol: true,
+        data: gapped(linePts, 30), showSymbol: !small,
         symbolSize: 4, connectNulls: false,
-        lineStyle: { width: 1.3, color: INK },
+        sampling: small ? "lttb" : undefined,
+        lineStyle: { width: small ? 1.5 : 1.3, color: INK },
         itemStyle: { color: INK }, z: 3 },
       { name: "Volume (reported floor)", type: "bar",
         xAxisIndex: 1, yAxisIndex: 1, data: vPts, silent: true,
@@ -142,12 +177,16 @@
       animation: false,
       textStyle: { fontFamily: "inherit", color: "#1a1a1a" },
       grid: [
-        { left: 56, right: 18, top: 26, height: "56%" },
-        { left: 56, right: 18, top: "74%", height: "13%" }
+        { left: gridL, right: gridR, top: 26, height: "56%" },
+        { left: gridL, right: gridR, top: "74%", height: "13%" }
       ],
       xAxis: [
         { type: "time", gridIndex: 0,
           axisLine: { lineStyle: { color: "#999" } },
+          axisLabel: small ?
+            { hideOverlap: true, fontSize: 11, margin: 8,
+              formatter: makeXLabelFormatter() } :
+            { hideOverlap: true },
           splitLine: { show: true, lineStyle: { color: GRID } } },
         { type: "time", gridIndex: 1,
           axisLine: { lineStyle: { color: "#999" } },
@@ -158,16 +197,20 @@
         { type: "value", scale: true, gridIndex: 0,
           name: isPrice ? "Price, % of par" : "Yield, %",
           nameLocation: "end",
+          nameTextStyle: small ? { fontSize: 11 } : undefined,
+          axisLabel: small ? { fontSize: 11 } : undefined,
           splitLine: { lineStyle: { color: GRID } } },
         { type: "value", gridIndex: 1, name: "Volume $",
-          nameLocation: "end",
-          axisLabel: { formatter: function (v) {
+          nameLocation: "end", splitNumber: 2,
+          nameTextStyle: small ? { fontSize: 11 } : undefined,
+          axisLabel: { fontSize: small ? 11 : undefined,
+            formatter: function (v) {
             return v >= 1e6 ? (v / 1e6) + "M" :
                    v >= 1e3 ? (v / 1e3) + "K" : v; } },
           splitLine: { show: false } }
       ],
       tooltip: {
-        trigger: "axis",
+        trigger: "axis", confine: small,
         axisPointer: { type: "cross",
                        lineStyle: { color: "#999" } },
         formatter: function (ps) {
@@ -202,8 +245,15 @@
       },
       dataZoom: [
         { type: "inside", xAxisIndex: [0, 1] },
-        { type: "slider", xAxisIndex: [0, 1], height: 16,
-          bottom: 4, showDetail: false,
+        { type: "slider", xAxisIndex: [0, 1],
+          height: small ? 30 : 16,
+          bottom: small ? 2 : 4,
+          left: small ? gridL : undefined,
+          right: small ? gridR : undefined,
+          handleSize: small ? "140%" : undefined,
+          moveHandleSize: small ? 12 : undefined,
+          brushSelect: !small,
+          showDetail: false,
           borderColor: "#3f4750",
           fillerColor: "rgba(63,71,80,0.15)",
           handleStyle: { color: "#3f4750", borderColor: "#3f4750" },
@@ -224,6 +274,23 @@
   var chart = echarts.init(box, null, { renderer: "canvas" });
   var mode = "price";
   chart.setOption(option(mode));
+  /* Small screens: day numbers join the month labels once the
+     visible span is short enough for them to fit (about two
+     months), and leave again past 75 days, so the two states do
+     not flap while zooming. */
+  chart.on("datazoom", function (e) {
+    if (!small) return;
+    var dz = e.batch ? e.batch[0] : e;
+    if (!dz || dz.start === undefined || dz.end === undefined) return;
+    spanDays = (dz.end - dz.start) / 100 * fullSpanDays;
+    var want = spanDays <= 62 ? true :
+               (spanDays > 75 ? false : dayLabels);
+    if (want !== dayLabels) {
+      dayLabels = want;
+      chart.setOption({ xAxis: [
+        { axisLabel: { formatter: makeXLabelFormatter() } }, {} ] });
+    }
+  });
   var bp = document.getElementById("btn-price");
   var by = document.getElementById("btn-yield");
   if (by && !yieldDays.length) {
@@ -243,5 +310,17 @@
   }
   if (bp) bp.addEventListener("click", function () { setMode("price"); });
   if (by) by.addEventListener("click", function () { setMode("yield"); });
-  window.addEventListener("resize", function () { chart.resize(); });
+  var rzTimer = null;
+  window.addEventListener("resize", function () {
+    clearTimeout(rzTimer);
+    rzTimer = setTimeout(function () {
+      if (isSmall() !== small) {
+        small = isSmall();
+        spanDays = fullSpanDays;
+        dayLabels = fullSpanDays <= 62;
+        chart.setOption(option(mode), { notMerge: true });
+      }
+      chart.resize();
+    }, 120);
+  });
 })();
