@@ -1,0 +1,68 @@
+---
+title: "Benchmark 2025-V17 Mortgage Trust"
+date: "2026-10-18"
+lede: "Tranches, pool and monthly delinquency indicator for Benchmark 2025-V17 Mortgage Trust."
+data_as_of: "loan data through September 2026; ratings as held in the dataset at build"
+---
+
+<p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Current pool balance</dt><dd>$629.0M (September 2026)</dd></div><div class="bw-sum-item"><dt>Original pool balance</dt><dd>$629.0M</dd></div><div class="bw-sum-item"><dt>Loans at issuance</dt><dd>32</dd></div><div class="bw-sum-item"><dt>Closing date</dt><dd>2025-09-29</dd></div><div class="bw-sum-item"><dt>Weighted average coupon at issuance</dt><dd>6.44%</dd></div><div class="bw-sum-item"><dt>Weighted average LTV at issuance</dt><dd>41.7%</dd></div><div class="bw-sum-item"><dt>30+ delinquent (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Realized stress score</dt><dd>17.3</dd></div><div class="bw-sum-item"><dt>Net rating change since issuance</dt><dd>+0.00 notches</dd></div></dl>
+<h2>Tranches</h2>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Class</th><th>Original balance</th><th>Credit support (computed)</th><th>Coupon</th><th>CUSIP</th><th>Fitch</th><th>KBRA</th><th>S&amp;P</th><th>Moody's</th><th>DBRS</th></tr></thead><tbody><tr><td>A-2</td><td class="num">$100.0M</td><td class="num">84.10%</td><td class="num">4.357% fixed</td><td>081934AQ4</td><td>AAA</td><td>not yet reported</td><td>not yet reported</td><td>Aaa</td><td>AAA (sf)</td></tr><tr><td>A-3</td><td class="num">$340.3M</td><td class="num">30.00%</td><td class="num">5.075% fixed</td><td>081934AR2</td><td>AAA</td><td>not yet reported</td><td>not yet reported</td><td>Aaa</td><td>AAA (sf)</td></tr><tr><td>A-M</td><td class="num">$48.7M</td><td class="num">22.25%</td><td class="num">5.425% floating (WAC)</td><td>081934AU5</td><td>AAA</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AAA (sf)</td></tr><tr><td>B</td><td class="num">$33.8M</td><td class="num">16.88%</td><td class="num">5.788% floating (WAC)</td><td>081934AV3</td><td>AA-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AAA (sf)</td></tr><tr><td>C</td><td class="num">$25.9M</td><td class="num">12.75%</td><td class="num">5.873% floating (WAC)</td><td>081934AW1</td><td>A-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AA (sf)</td></tr><tr><td>D</td><td class="num">$15.7M</td><td class="num">10.25%</td><td class="num">4.500% fixed</td><td>081934AC5</td><td>BBB</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>A (high) (sf)</td></tr><tr><td>E</td><td class="num">$6.3M</td><td class="num">9.25%</td><td class="num">6.474% floating (WAC)</td><td>081934AE1</td><td>BBB-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>A (sf)</td></tr><tr><td>F-RR</td><td class="num">$18.1M</td><td class="num">6.38%</td><td class="num">6.474% floating (WAC)</td><td>081934AG6</td><td>BB-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>BBB (sf)</td></tr><tr><td>G-RR</td><td class="num">$11.0M</td><td class="num">4.63%</td><td class="num">6.474% floating (WAC)</td><td>081934AJ0</td><td>B-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>BB (high) (sf)</td></tr><tr><td>J-RR</td><td class="num">$29.1M</td><td class="num">0.00%</td><td class="num">6.474% floating (WAC)</td><td>081934AL5</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td></tr><tr><td>R</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td>081934AN1</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td></tr><tr><td>X-A</td><td class="num">$489.0M</td><td class="num">Interest only</td><td class="num">1.511% floating</td><td>081934AS0</td><td>AAA</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AAA (sf)</td></tr><tr><td>X-B</td><td class="num">$59.8M</td><td class="num">Interest only</td><td class="num">0.649% floating</td><td>081934AT8</td><td>A-</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AA (high) (sf)</td></tr><tr><td>X-D</td><td class="num">$15.7M</td><td class="num">Interest only</td><td class="num">1.974% floating</td><td>081934AA9</td><td>BBB</td><td>not yet reported</td><td>not yet reported</td><td>not yet reported</td><td>AA (low) (sf)</td></tr></tbody></table></div>
+<p class="data-vintage">Credit support is computed from the class stack order in the prospectus: the share of the deal's principal balance in classes junior to the class. Interest-only classes carry a notional balance and no principal support figure. Ratings are the latest held in the dataset for each class and agency; NR means the agency shows the class as not rated, WR that the rating was withdrawn, PIF that the class has been paid in full. Any other status value is shown exactly as the agency reports it. A + after a CUSIP marks a class with companion CUSIPs in the dataset.</p>
+<h2>Pool at issuance</h2>
+<table class="terms-table"><tbody><tr><td class="muted">Loans</td><td>32</td></tr><tr><td class="muted">Original loan balance</td><td>$691.3M</td></tr><tr><td class="muted">Weighted average coupon</td><td>6.44%</td></tr><tr><td class="muted">Weighted average LTV</td><td>41.7%</td></tr><tr><td class="muted">Median loan LTV</td><td>57.7%</td></tr><tr><td class="muted">Full-term interest only (share of balance)</td><td>100.0%</td></tr><tr><td class="muted">Balloon loans (share of balance)</td><td>100.0%</td></tr><tr><td class="muted">Largest loan (share of balance)</td><td>8.7%</td></tr><tr><td class="muted">Five largest loans (share of balance)</td><td>40.6%</td></tr><tr><td class="muted">Occupancy at issuance (weighted average)</td><td>90.3%</td></tr></tbody></table>
+<h2>Realized outcomes</h2>
+<table class="terms-table"><tbody><tr><td class="muted">Months reported</td><td>13</td></tr><tr><td class="muted">Peak 30+ delinquency</td><td>0.00% (June 2026)</td></tr><tr><td class="muted">Ever severe (share of original balance)</td><td>0.00%</td></tr><tr><td class="muted">Ever modified (share of original balance)</td><td>0.00%</td></tr><tr><td class="muted">Past scheduled maturity (share of original balance)</td><td>0.00%</td></tr><tr><td class="muted">Non-performing matured (share of original balance)</td><td>24.14%</td></tr><tr><td class="muted">Maximum servicer advances (share of balance)</td><td>0.05%</td></tr><tr><td class="muted">Median DSCR, first year</td><td>1.44</td></tr><tr><td class="muted">Median DSCR, latest</td><td>1.36</td></tr><tr><td class="muted">Realized stress score</td><td>17.3</td></tr></tbody></table>
+<h2>Property types</h2>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Property type</th><th>Original balance</th><th>Share of pool</th></tr></thead><tbody><tr><td>Multifamily</td><td class="num">$194.4M</td><td class="num">28.1%</td></tr><tr><td>Lodging</td><td class="num">$125.5M</td><td class="num">18.2%</td></tr><tr><td>Office</td><td class="num">$102.0M</td><td class="num">14.8%</td></tr><tr><td>Retail</td><td class="num">$66.5M</td><td class="num">9.6%</td></tr><tr><td>Industrial</td><td class="num">$58.9M</td><td class="num">8.5%</td></tr><tr><td>Mixed use</td><td class="num">$44.6M</td><td class="num">6.5%</td></tr></tbody></table></div>
+<p class="data-vintage">Property type is reported for 85.6% of the pool balance; shares are of the full pool.</p>
+<h2>Largest loans</h2>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Property</th><th>Location</th><th>Original balance</th><th>Share of pool</th><th>Coupon</th><th>Originated</th></tr></thead><tbody><tr><td>WARREN CORPORATE CENTER</td><td>Warren, NJ</td><td class="num">$60.0M</td><td class="num">8.7%</td><td class="num">7.76%</td><td class="num">2025</td></tr><tr><td>Pacifica Hotel Portfolio (4-Pack)</td><td>CA</td><td class="num">$60.0M</td><td class="num">8.7%</td><td class="num">7.22%</td><td class="num">2025</td></tr><tr><td>180 WATER</td><td>New York, NY</td><td class="num">$60.0M</td><td class="num">8.7%</td><td class="num">5.33%</td><td class="num">2025</td></tr><tr><td>Providence at Heights &amp; Legacy at Westchase</td><td>Houston, TX</td><td class="num">$50.5M</td><td class="num">7.3%</td><td class="num">6.36%</td><td class="num">2025</td></tr><tr><td>SPRINGFIELD TOWN CENTER</td><td>Springfield, VA</td><td class="num">$50.0M</td><td class="num">7.2%</td><td class="num">7.12%</td><td class="num">2025</td></tr></tbody></table></div>
+<h2>Delinquency and stress indicator</h2>
+<svg class="bond-chart" viewBox="0 0 720 260" width="100%" role="img" aria-label="Delinquency indicator for Benchmark 2025-V17 Mortgage Trust">
+<line x1="46" y1="236" x2="708" y2="236" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="239" text-anchor="end" class="chart-lab">0%</text>
+<line x1="46" y1="180" x2="708" y2="180" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="182" text-anchor="end" class="chart-lab">3%</text>
+<line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="126" text-anchor="end" class="chart-lab">5%</text>
+<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="70" text-anchor="end" class="chart-lab">8%</text>
+<line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="13" text-anchor="end" class="chart-lab">10%</text>
+<text x="267" y="254" text-anchor="middle" class="chart-lab">2026</text>
+<polyline points="46.0,236.0 100.4,236.0 156.6,236.0 211.0,236.0 267.3,236.0 323.5,236.0 374.3,236.0 430.5,236.0 484.9,236.0 541.1,236.0 595.6,236.0 651.8,236.0 708.0,236.0" fill="none" stroke="#1a1a1a" stroke-width="1.4"/>
+<circle cx="46.0" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="100.4" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="156.6" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="211.0" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="267.3" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="323.5" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="374.3" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="430.5" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="484.9" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="541.1" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="595.6" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="651.8" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="708.0" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<polyline points="46.0,236.0 100.4,236.0 156.6,202.3 211.0,202.3 267.3,202.3 323.5,202.3 374.3,202.3 430.5,202.3 484.9,236.0 541.1,202.3 595.6,236.0 651.8,236.0 708.0,26.7" fill="none" stroke="#8a1f1f" stroke-width="1.4"/>
+<circle cx="46.0" cy="236.0" r="1.2" fill="#8a1f1f"/>
+<circle cx="100.4" cy="236.0" r="1.2" fill="#8a1f1f"/>
+<circle cx="156.6" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="211.0" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="267.3" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="323.5" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="374.3" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="430.5" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="484.9" cy="236.0" r="1.2" fill="#8a1f1f"/>
+<circle cx="541.1" cy="202.3" r="1.2" fill="#8a1f1f"/>
+<circle cx="595.6" cy="236.0" r="1.2" fill="#8a1f1f"/>
+<circle cx="651.8" cy="236.0" r="1.2" fill="#8a1f1f"/>
+<circle cx="708.0" cy="26.7" r="1.2" fill="#8a1f1f"/>
+</svg>
+<p class="bond-chart-cap"><span style="color:#1a1a1a">&#9644;</span> 30+ days delinquent &middot; <span style="color:#8a1f1f">&#9644;</span> Distressed (90+, foreclosure, REO, non-performing matured)</p>
+<p class="data-vintage">Monthly shares of the deal's reported balance, from the deal indicator series in the dataset. Months in which fewer than half of the reported loans carry a delinquency status code are not plotted.</p>
+<h2>Ratings</h2>
+<table class="terms-table"><tbody><tr><td class="muted">Classes with a CUSIP</td><td>14 of 14</td></tr><tr><td class="muted">Classes with a current rating in the dataset</td><td>12 of 14</td></tr><tr><td class="muted">Net rating change since issuance</td><td>+0.00 notches (balance-weighted)</td></tr><tr><td class="muted">Delinquency threshold crossed</td><td>Not crossed in the dataset</td></tr><tr><td class="muted">First downgrade</td><td>None recorded</td></tr></tbody></table>
+<p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports, Form 10-D distribution reports and the deal prospectus; rating histories published under SEC Rule 17g-7(b) and agency releases. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
