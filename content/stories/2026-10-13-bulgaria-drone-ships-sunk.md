@@ -1,7 +1,7 @@
 ---
 title: "Sunken ship off Bulgaria named, 11 crew still missing"
 date: 2026-10-13T03:53:56-04:00
-last_updated: 2026-10-13T17:51:45-04:00
+last_updated: 2026-10-15T07:07:29-04:00
 beats: ["commodities"]
 regions: ["europe"]
 status: "developing"
@@ -28,6 +28,10 @@ sources:
     publisher: "Arab News"
     url: "https://www.arabnews.com/middle-east/14-syrians-aboard-hs-dignity-sunk-in-drone-attack-off-bulgaria-3006218"
     published: "2026-10-13"
+  - title: "11 seafarers missing after drone attack sinks cargo ship off Bulgaria's Black Sea coast"
+    publisher: "Marine Insight"
+    url: "https://www.marineinsight.com/11-seafarers-missing-after-drone-attack-sinks-cargo-ship-off-bulgarias-black-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=11-seafarers-missing-after-drone-attack-sinks-cargo-ship-off-bulgarias-black-sea-coast"
+    published: "2026-10-14"
 tags: []
 data_as_of: "Updated Tuesday, October 13, 2026. Latest: Arab News report opened and read in full, reporting Bulgarian officials and the Syrian Sailors' Union via Syria's Alikhbariah TV; the union's account of how the HS Dignity was struck is that party's claim and is not independently confirmed. Earlier: Al Jazeera report opened and read in full; Reuters reporting from Sofia read via republication; BTA detail via SNM. Radev said there is no clear evidence of who carried out the attack; his suggestion that the outcome benefits Russia, and Ukraine's foreign minister blaming Russia, are those parties' claims and are unconfirmed. Moscow said it had no knowledge of the latest attacks."
 ---
@@ -37,3 +41,5 @@ data_as_of: "Updated Tuesday, October 13, 2026. Latest: Arab News report opened 
 Drones hit two merchant ships off Bulgaria's Black Sea coast in the early hours of Tuesday and one of them sank, Prime Minister Rumen Radev said, in the second such attack in a week. The Ukrainian-owned, Maltese-flagged Chelsea 3 was struck by three drones about 18 nautical miles east of Byala at around 1:30 a.m. local time, and Bulgarian border police rescued all 15 crew, seven Ukrainians and eight Azerbaijanis, five of whom received medical treatment for minor injuries; a second ship, hit about 17 nautical miles east of Krapets, sank, and one of its crew members was rescued.
 
 Radev called the attack absolutely unacceptable, said he would speak with NATO Secretary-General Mark Rutte, and said he would summon the Russian ambassador, while stating plainly that there is no clear evidence of who carried out the attack. The incident follows the October 6 attack in Bulgaria's exclusive economic zone, in which a Togo-flagged ship sank and its crew went missing, and it lands on the western Black Sea routes that carry Ukrainian grain and regional trade past NATO's southeastern flank.
+
+**Update, Thursday October 15 (commodities beat):** the diplomatic follow-up has now run its first course. Russia's ambassador Eleonora Mitrofanova was summoned in Sofia and said she had no information from the Russian Defence Ministry about attacks on commercial vessels in the Black Sea, and did not rule out that a third party could have been responsible, according to the Bulgarian government account reported by Marine Insight on October 14. Bulgaria has asked European Commission President Ursula von der Leyen and NATO Secretary General Mark Rutte for support in strengthening maritime and airspace surveillance; Rutte said NATO would adjust its military presence along the eastern flank as needed, and Bulgaria's defence minister has spoken with his Romanian and Turkish counterparts. Von der Leyen condemned the attacks. Tracking data cited in the same report shows the Chelsea 3 had called at the Romanian port of Tulcea on October 3 and was about 72 percent loaded, while the HS Dignity was partly loaded and bound for the Romanian port of Braila after calling at Mostaganem in Algeria; some Bulgarian media have identified the sunken vessel as the Azov Concord, a name discrepancy that remains unresolved. The search for the 11 missing crew was still under way on Tuesday. Source added: Marine Insight, October 14, 2026, read in full; its account references Reuters and CNN reporting. Event Registry returned no corroboration for this item; the underlying attack was already corroborated by Reuters, Al Jazeera and BTA in the original file, so the grade stays B.

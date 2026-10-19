@@ -1,7 +1,7 @@
 ---
 title: "Dangote Refinery extends $1.6 billion IPO by two weeks"
 date: 2026-10-13T07:02:57-04:00
-last_updated: 2026-10-14T07:08:35-04:00
+last_updated: 2026-10-15T07:03:34-04:00
 beats: ["infra-deals"]
 regions: ["africa"]
 status: "story"
@@ -34,6 +34,14 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-14/botswana-tapped-as-southern-african-hub-for-dangote-refinery-ipo"
     published: "2026-10-14"
+  - title: "Dangote Refinery Prioritizes Small Investors in IPO"
+    publisher: "Dabafinance"
+    url: "https://dabafinance.com/en/news/dangote-refinery-prioritizes-small-investors-in-ipo-2026-10-14"
+    published: "2026-10-14"
+  - title: "SEC Warns Nigerians Against Investing Through WayvePay"
+    publisher: "The Business Times Nigeria"
+    url: "https://thebusinesstimesng.com/sec-warns-nigerians-wayvepay-investment/"
+    published: "2026-10-14"
 tags: []
 data_as_of: "Extension announced October 12, 2026; offer opened September 14 and was due to close October 13. Offer is 4.1 billion shares at 525 naira each, about 2.15 trillion naira or $1.6 billion, rising to $2.1 billion if the over-allotment is exercised. Updated October 14 with unaudited nine-month results released October 13, 2026."
 ---
@@ -47,3 +55,5 @@ The stated reason for the extra time is distribution. The refinery is targeting 
 The refinery, with capacity of 700,000 barrels per day, began processing crude in early 2024 and is central to Nigeria's effort to cut imports of refined products. Broadening its shareholder base would make a strategic national asset partly owned by retail investors across the continent, while the cross-border mechanics, differing securities rules and platform access in each market, remain the practical constraint the extension is trying to solve.
 
 Update, October 14: the company released unaudited results for the first nine months of 2026 showing a net profit of $4.7 billion, against a net loss of $117.2 million a year earlier. Revenue rose 144 percent to $22.5 billion and EBITDA increased ninefold to $5.5 billion, a margin of 24.6 percent, on higher throughput, better reliability and stronger refining margins. The third quarter alone contributed $2.9 billion of profit. The balance sheet swung from net debt of $1.7 billion in September 2025 to net cash of $650.8 million. Bloomberg also reported Botswana has been tapped as the Southern African hub for the offer's cross-border distribution. The results give the extended offer, which closes October 27 ahead of a Nigerian Exchange listing next month, a profitable track record to sell against; the IPO proceeds are intended to help double capacity to 1.4 million barrels per day by 2030.
+
+Update, October 15: at the final Port Harcourt roadshow stop on October 12, Aliko Dangote said applicants investing 50,000 naira or below will receive priority in the allocation, a retail widening measure consistent with the extension's stated purpose. Separately, WayvePay, the digital platform that had promoted access to the offer, withdrew its promotional materials and said no investor had subscribed through its platform, after Nigeria's Securities and Exchange Commission warned on October 9 that WayvePay is not registered to solicit investments or operate in the capital market. The commission directed investors to use only approved receiving agents and official channels. The offer remains scheduled to close October 27.

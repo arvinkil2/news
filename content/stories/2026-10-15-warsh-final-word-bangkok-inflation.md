@@ -23,3 +23,4 @@ The inflation jolt in September's US data has raised the stakes for Federal Rese
 US consumer prices rose 3.9 percent on the year in September, with core inflation at 3.6 percent, figures that landed on Wednesday and pushed the argument about the Fed's path out of the data pages and into the conference rooms. The question hanging over the week is whether the easing cycle is finished, and Warsh's Friday session is the last scheduled chance for the Fed to shape that answer before the market sets it for him.
 
 The setting amplifies the message. The G20 finance ministers met on Thursday with the Iran war's energy shock and sovereign debt at the top of the agenda, and the IMF's steering committee follows on Friday and Saturday. A chair seen to be behind the inflation curve in that company pays for it in the long end of his own curve first.
+

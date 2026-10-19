@@ -1,7 +1,7 @@
 ---
 title: "Fairfax to buy controlling IDBI Bank stake for $5.6 billion"
 date: 2026-10-14T07:59:27-04:00
-last_updated: 2026-10-14T07:59:27-04:00
+last_updated: 2026-10-15T07:03:34-04:00
 update_bump: true
 beats: ["infra-deals"]
 regions: ["asia-pacific", "north-america"]
@@ -23,6 +23,10 @@ sources:
     publisher: "Traders Union"
     url: "https://tradersunion.com/news/billionaires/show/3804536-fairfax-acquires-idbi-bank-stake-india/"
     published: "2026-10-14"
+  - title: "India's IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html"
+    published: "2026-10-15"
 tags: []
 data_as_of: "Wednesday, October 14, 2026. Government approval and headline terms from Reuters reporting of the cabinet decision, with the stake, price per share and valuation figures as first reported by Bloomberg and carried by Traders Union. Regulatory clearances from the Reserve Bank of India and SEBI are still required."
 ---
@@ -32,3 +36,5 @@ India's government has approved the sale of a controlling stake in IDBI Bank to 
 The price is an 11 percent discount to IDBI's previous closing price of 90.4 rupees and values the lender at roughly 871 billion rupees. After completion, the government and LIC will retain a combined 34 percent holding, and Fairfax, the Toronto based group led by Prem Watsa, will hold majority control. The transaction is the largest foreign investment in India's financial sector.
 
 The sale has been a long time coming. New Delhi first announced the IDBI privatisation in 2022, but the process dragged on regulatory and procedural issues and was shelved in March after bids fell short of the government's price expectations. Fairfax already owns about 40 percent of the smaller CSB Bank, and Reserve Bank of India rules bar one entity from operating two banks, so completion is expected to require a plan, reportedly up to two years, for Fairfax to sell or merge that holding, alongside formal RBI and SEBI approvals.
+
+Update, October 15: IDBI Bank shares fell 7 percent in Mumbai trading after the government announcement, CNBC reported, as the market priced the 11 percent discount in the 81 rupee sale price against the prior close. The reaction does not change the transaction terms or the pending Reserve Bank of India and SEBI approvals noted above.
