@@ -1,12 +1,12 @@
 ---
 title: "Investors push Nscale to cut 30 billion dollar IPO target"
 date: 2026-10-19T07:14:30-04:00
-last_updated: 2026-10-19T07:14:30-04:00
+last_updated: 2026-10-19T19:16:36-04:00
 beats: ["infra-deals"]
 regions: ["europe", "north-america"]
 status: "story"
-lede: "Nscale, the Nvidia backed data centre developer preparing a United States listing, faces investor pressure to cut its roughly 30 billion dollar IPO valuation target to between 16 billion and 19 billion dollars after a run of setbacks for artificial intelligence infrastructure companies."
-why_it_matters: "The pushback is the clearest sign yet that public investors are repricing the neocloud model, where contracted demand runs far ahead of powered, operating capacity, and it lands weeks after Microsoft walked away from Nscale's only British data centre."
+lede: "Nscale is in talks to sell Anthropic computing power from a second building at its West Virginia campus in a deal that could be worth about 45 billion dollars, even as investors press the Nvidia backed developer to cut its roughly 30 billion dollar IPO valuation target to between 16 billion and 19 billion dollars."
+why_it_matters: "A second Anthropic commitment of that size would deepen the customer concentration at the centre of the IPO debate, where contracted demand runs far ahead of powered, operating capacity, weeks after Microsoft walked away from Nscale's only British data centre."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,9 +22,16 @@ sources:
     publisher: "Crypto Briefing"
     url: "https://cryptobriefing.com/nscale-ipo-valuation-investor-pushback/"
     published: "2026-10-19"
+  - title: "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188"
+    published: "2026-10-19"
 tags: []
-data_as_of: "Bloomberg reporting published October 18 to 19, 2026, citing people familiar with the matter; IPO filing figures (net loss, contracted value) are from Nscale's September 2026 SEC filing as reported October 19, 2026. The valuation discussions are ongoing and no final decision has been made."
+data_as_of: "Bloomberg reporting published October 18 to 19, 2026, citing people familiar with the matter; IPO filing figures (net loss, contracted value) are from Nscale's September 2026 SEC filing as reported October 19, 2026. The valuation discussions are ongoing and no final decision has been made. Updated October 19, 2026, 7:16pm ET with the Reuters report, first reported by Bloomberg, that Nscale and Anthropic are in talks over a second Monarch building; the talks are ongoing, a person familiar with the matter told Reuters, and the details could change."
+update_bump: true
 ---
+
+**Latest (Monday 7:16pm ET):** Nscale is in talks to sell Anthropic computing power from a second building at its Monarch campus in West Virginia in a deal that could be worth about 45 billion dollars, Reuters reported, citing a person familiar with the matter; Bloomberg first reported the talks. The second building would deliver 460 megawatts using Nvidia's Vera Rubin chips. Anthropic agreed in August to spend 45 billion dollars renting computing power from the campus's first building, the report said, and holds a right of first refusal on an expected third building. Anthropic did not immediately respond to a request for comment.
 
 Investors in Nscale's planned United States initial public offering are pressing the Nvidia backed data centre developer to accept a valuation of 16 billion to 19 billion dollars, well below the roughly 30 billion dollars the company has been seeking, Bloomberg reported, citing people familiar with the matter. The resistance follows a series of setbacks for artificial intelligence infrastructure listings, including the collapse of Australian data centre company Firmus's IPO plan amid weak demand and falling AI infrastructure stocks.
 
