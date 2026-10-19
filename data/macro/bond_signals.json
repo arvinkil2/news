@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-19T10:37:49-04:00",
+ "as_of": "2026-10-19T11:06:15-04:00",
  "signals": [
   {
    "cusip": "21873SAD0",
@@ -19,6 +19,42 @@
    "ref_price": 90.319,
    "ref_move": -10.71,
    "id": "21873SAD0-drop10-2026-10-19"
+  },
+  {
+   "cusip": "46270CAB5",
+   "issuer": "IREN LTD",
+   "security": "3.25% Notes due 2030",
+   "price": 187.5,
+   "prev_price": 196.74,
+   "trade_date": "2026-10-19",
+   "trade_time": "10:45:38",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 81,
+   "fired_at": "2026-10-19T11:06:15-04:00",
+   "level": "tier1",
+   "rule": "print 10+ pts below reference",
+   "ref_price": 263.5,
+   "ref_move": -76.0,
+   "id": "46270CAB5-drop10-2026-10-19"
+  },
+  {
+   "cusip": "46270CAB5",
+   "issuer": "IREN LTD",
+   "security": "3.25% Notes due 2030",
+   "price": 187.5,
+   "prev_price": 196.74,
+   "trade_date": "2026-10-19",
+   "trade_time": "10:45:38",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 81,
+   "fired_at": "2026-10-19T11:06:15-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "46270CAB5-flag-2026-10-19"
   }
  ]
 }
