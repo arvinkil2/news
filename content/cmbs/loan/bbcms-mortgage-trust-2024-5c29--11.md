@@ -1,0 +1,89 @@
+---
+title: "Patriot Crossing (BBCMS Mortgage Trust 2024-5C29)"
+date: "2026-10-19"
+lede: "Property, terms, monthly financial history and surveillance record for a loan in BBCMS Mortgage Trust 2024-5C29."
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+---
+
+<p class="bond-navrow"><a href="/cmbs/deal/bbcms-mortgage-trust-2024-5c29/">&larr; BBCMS Mortgage Trust 2024-5C29</a> &middot; <a href="/cmbs/deal-loans/bbcms-mortgage-trust-2024-5c29/">Loan annex</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Deal</dt><dd>BBCMS Mortgage Trust 2024-5C29</dd></div><div class="bw-sum-item"><dt>Current balance</dt><dd>$29.8M (September 2026)</dd></div><div class="bw-sum-item"><dt>Share of deal</dt><dd>2.8%</dd></div><div class="bw-sum-item"><dt>Status</dt><dd>not yet reported</dd></div><div class="bw-sum-item"><dt>DSCR (latest)</dt><dd>1.33</dd></div><div class="bw-sum-item"><dt>Occupancy (latest)</dt><dd>95%</dd></div><div class="bw-sum-item"><dt>Scheduled maturity</dt><dd>2029-09-06</dd></div></dl>
+<h2>Property and terms</h2>
+<table class="terms-table"><tbody><tr><td class="muted">Property</td><td>Patriot Crossing</td></tr><tr><td class="muted">Address</td><td>7415 Patrick Henry Court; Louisville, KY 40214</td></tr><tr><td class="muted">Property type</td><td>Multifamily</td></tr><tr><td class="muted">Units, beds or keys</td><td>362</td></tr><tr><td class="muted">Net rentable square feet</td><td>not yet reported</td></tr><tr><td class="muted">Year built</td><td>1970</td></tr><tr><td class="muted">Year last renovated</td><td>2024</td></tr><tr><td class="muted">Original balance</td><td>$29.8M</td></tr><tr><td class="muted">Current balance</td><td>$29.8M (September 2026)</td></tr><tr><td class="muted">Share of deal balance</td><td>2.8%</td></tr><tr><td class="muted">Interest rate at origination</td><td>6.75%</td></tr><tr><td class="muted">Current interest rate</td><td>6.75%</td></tr><tr><td class="muted">Origination date</td><td>08-30-2024</td></tr><tr><td class="muted">Original term</td><td>60 months</td></tr><tr><td class="muted">Amortization term</td><td>not yet reported</td></tr><tr><td class="muted">Interest-only period</td><td>60 months</td></tr><tr><td class="muted">Scheduled maturity</td><td>2029-09-06</td></tr><tr><td class="muted">Prepayment lockout end</td><td>10-05-2026</td></tr><tr><td class="muted">Yield maintenance end</td><td>04-05-2029</td></tr><tr><td class="muted">Servicer</td><td>KeyBank Real Estate Capital</td></tr><tr><td class="muted">Loan servicer</td><td>not yet reported</td></tr><tr><td class="muted">Originator</td><td>BSPRT CMBS Finance, LLC</td></tr><tr><td class="muted">Current status</td><td>not yet reported</td></tr><tr><td class="muted">Specially serviced now</td><td>No</td></tr><tr><td class="muted">Defeased</td><td>No</td></tr></tbody></table><h2>Valuation</h2><div class="market-table-scroll"><table class="market-table"><thead><tr><th>Basis</th><th>Amount</th><th>Date</th><th>Source (as filed)</th></tr></thead><tbody><tr><td>At securitization</td><td class="num">$47.4M</td><td>07-23-2024</td><td>MAI</td></tr><tr><td>Most recent reported</td><td class="num">$47.4M</td><td>2024-07-23</td><td>MAI</td></tr></tbody></table></div><p class="data-vintage">Change from securitization to the most recent reported valuation: 0.0%.</p><h2>Monthly history</h2><svg class="bond-chart" viewBox="0 0 720 260" width="100%" role="img" aria-label="Reported balance">
+<line x1="46" y1="236" x2="708" y2="236" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="239" text-anchor="end" class="chart-lab">$0</text>
+<line x1="46" y1="180" x2="708" y2="180" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="182" text-anchor="end" class="chart-lab">$8,046,000</text>
+<line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="126" text-anchor="end" class="chart-lab">$16,092,000</text>
+<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="70" text-anchor="end" class="chart-lab">$24,138,000</text>
+<line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="13" text-anchor="end" class="chart-lab">$32,184,000</text>
+<text x="157" y="254" text-anchor="middle" class="chart-lab">2025</text>
+<text x="488" y="254" text-anchor="middle" class="chart-lab">2026</text>
+<polyline points="46.0,26.7 73.2,26.7 101.3,26.7 128.5,26.7 156.6,26.7 184.7,26.7 210.1,26.7 238.3,26.7 265.5,26.7 293.6,26.7 320.8,26.7 348.9,26.7 377.0,26.7 404.2,26.7 432.3,26.7 459.5,26.7 487.6,26.7 515.7,26.7 541.1,26.7 569.3,26.7 596.5,26.7 624.6,26.7 651.8,26.7 679.9,26.7 708.0,26.7" fill="none" stroke="#1a1a1a" stroke-width="1.4"/>
+<circle cx="46.0" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="73.2" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="101.3" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="128.5" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="156.6" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="184.7" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="210.1" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="238.3" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="265.5" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="293.6" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="320.8" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="348.9" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="377.0" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="404.2" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="432.3" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="459.5" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="487.6" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="515.7" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="541.1" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="569.3" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="596.5" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="624.6" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="651.8" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="679.9" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="708.0" cy="26.7" r="1.2" fill="#1a1a1a"/>
+</svg><svg class="bond-chart" viewBox="0 0 720 260" width="100%" role="img" aria-label="Debt service coverage, net cash flow basis">
+<line x1="46" y1="236" x2="708" y2="236" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="239" text-anchor="end" class="chart-lab">0.0</text>
+<line x1="46" y1="180" x2="708" y2="180" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="182" text-anchor="end" class="chart-lab">0.4</text>
+<line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="126" text-anchor="end" class="chart-lab">0.7</text>
+<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="70" text-anchor="end" class="chart-lab">1.1</text>
+<line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="13" text-anchor="end" class="chart-lab">1.5</text>
+<text x="133" y="254" text-anchor="middle" class="chart-lab">2025</text>
+<text x="478" y="254" text-anchor="middle" class="chart-lab">2026</text>
+<polyline points="46.0,236.0 75.3,236.0 103.7,236.0 133.0,236.0 162.3,236.0 188.8,236.0 218.1,39.1 246.5,39.1 275.8,39.1 304.2,39.1 333.5,39.1 362.8,39.1 391.2,31.4 420.5,31.4 448.9,31.4 478.2,31.4 507.5,29.8 534.0,26.7 563.3,26.7 591.7,26.7 621.0,28.3 649.4,28.3 678.7,29.8 708.0,29.8" fill="none" stroke="#1a1a1a" stroke-width="1.4"/>
+<circle cx="46.0" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="75.3" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="103.7" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="133.0" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="162.3" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="188.8" cy="236.0" r="1.2" fill="#1a1a1a"/>
+<circle cx="218.1" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="246.5" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="275.8" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="304.2" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="333.5" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="362.8" cy="39.1" r="1.2" fill="#1a1a1a"/>
+<circle cx="391.2" cy="31.4" r="1.2" fill="#1a1a1a"/>
+<circle cx="420.5" cy="31.4" r="1.2" fill="#1a1a1a"/>
+<circle cx="448.9" cy="31.4" r="1.2" fill="#1a1a1a"/>
+<circle cx="478.2" cy="31.4" r="1.2" fill="#1a1a1a"/>
+<circle cx="507.5" cy="29.8" r="1.2" fill="#1a1a1a"/>
+<circle cx="534.0" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="563.3" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="591.7" cy="26.7" r="1.2" fill="#1a1a1a"/>
+<circle cx="621.0" cy="28.3" r="1.2" fill="#1a1a1a"/>
+<circle cx="649.4" cy="28.3" r="1.2" fill="#1a1a1a"/>
+<circle cx="678.7" cy="29.8" r="1.2" fill="#1a1a1a"/>
+<circle cx="708.0" cy="29.8" r="1.2" fill="#1a1a1a"/>
+</svg><div class="market-table-scroll"><table class="market-table"><thead><tr><th>Month</th><th>Balance</th><th>Status</th><th>Rate</th><th>DSCR (NCF)</th><th>DSCR (NOI)</th><th>Occupancy</th><th>Advances</th><th>Financial period end</th><th>Revenue</th><th>Expenses</th><th>NOI</th><th>NCF</th></tr></thead><tbody><tr><td>September 2024</td><td class="num">$29.8M</td><td>Matured balloon, performing</td><td class="num">6.75%</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td class="num">$0</td><td>not yet reported</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td class="num">not yet reported</td><td class="num">not yet reported</td></tr><tr><td>October 2024</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>November 2024</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>December 2024</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>January 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>February 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>March 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">0.00</td><td class="num">0.00</td><td class="num">0%</td><td class="num">$0</td><td>not yet reported</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td><td class="num">$0</td></tr><tr><td>April 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>May 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>June 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>July 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>August 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>September 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.27</td><td class="num">1.31</td><td class="num">98%</td><td class="num">$0</td><td>12-31-2024</td><td class="num">$4.3M</td><td class="num">$1.6M</td><td class="num">$2.7M</td><td class="num">$2.6M</td></tr><tr><td>October 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.32</td><td class="num">1.36</td><td class="num">99%</td><td class="num">$0</td><td>06-30-2025</td><td class="num">$2.2M</td><td class="num">$821,375</td><td class="num">$1.4M</td><td class="num">$1.3M</td></tr><tr><td>November 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.32</td><td class="num">1.36</td><td class="num">99%</td><td class="num">$0</td><td>06-30-2025</td><td class="num">$2.2M</td><td class="num">$816,480</td><td class="num">$1.4M</td><td class="num">$1.3M</td></tr><tr><td>December 2025</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.32</td><td class="num">1.36</td><td class="num">99%</td><td class="num">$0</td><td>06-30-2025</td><td class="num">$2.2M</td><td class="num">$816,480</td><td class="num">$1.4M</td><td class="num">$1.3M</td></tr><tr><td>January 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.32</td><td class="num">1.36</td><td class="num">97%</td><td class="num">$0</td><td>06-30-2025</td><td class="num">$2.2M</td><td class="num">$816,480</td><td class="num">$1.4M</td><td class="num">$1.3M</td></tr><tr><td>February 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.33</td><td class="num">1.38</td><td class="num">97%</td><td class="num">$0</td><td>09-30-2025</td><td class="num">$3.4M</td><td class="num">$1.2M</td><td class="num">$2.1M</td><td class="num">$2.0M</td></tr><tr><td>March 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.35</td><td class="num">1.40</td><td class="num">96%</td><td class="num">$0</td><td>12-31-2025</td><td class="num">$4.5M</td><td class="num">$1.6M</td><td class="num">$2.8M</td><td class="num">$2.8M</td></tr><tr><td>April 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.35</td><td class="num">1.40</td><td class="num">96%</td><td class="num">$0</td><td>12-31-2025</td><td class="num">$4.5M</td><td class="num">$1.6M</td><td class="num">$2.8M</td><td class="num">$2.8M</td></tr><tr><td>May 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.35</td><td class="num">1.40</td><td class="num">96%</td><td class="num">$0</td><td>12-31-2025</td><td class="num">$4.5M</td><td class="num">$1.6M</td><td class="num">$2.8M</td><td class="num">$2.8M</td></tr><tr><td>June 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.34</td><td class="num">1.39</td><td class="num">96%</td><td class="num">$0</td><td>03-31-2026</td><td class="num">$4.5M</td><td class="num">$1.7M</td><td class="num">$2.8M</td><td class="num">$2.7M</td></tr><tr><td>July 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.34</td><td class="num">1.39</td><td class="num">95%</td><td class="num">$0</td><td>03-31-2026</td><td class="num">$4.5M</td><td class="num">$1.7M</td><td class="num">$2.8M</td><td class="num">$2.7M</td></tr><tr><td>August 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.33</td><td class="num">1.38</td><td class="num">95%</td><td class="num">$0</td><td>03-31-2026</td><td class="num">$4.5M</td><td class="num">$1.7M</td><td class="num">$2.8M</td><td class="num">$2.7M</td></tr><tr><td>September 2026</td><td class="num">$29.8M</td><td>not yet reported</td><td class="num">6.75%</td><td class="num">1.33</td><td class="num">1.38</td><td class="num">95%</td><td class="num">$0</td><td>03-31-2026</td><td class="num">$4.5M</td><td class="num">$1.7M</td><td class="num">$2.8M</td><td class="num">$2.7M</td></tr></tbody></table></div><p class="data-vintage">Revenue, expenses, net operating income (NOI) and net cash flow (NCF) are the most recent financials reported as of each month, for the financial period ending on the date shown. DSCR is debt service coverage on the net cash flow and net operating income bases as reported.</p>
+<p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports for the deal. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
