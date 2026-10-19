@@ -2,7 +2,7 @@
 title: "BMO 2024-C10 Mortgage Trust"
 date: "2026-10-19"
 lede: "Tranches, pool and monthly delinquency indicator for BMO 2024-C10 Mortgage Trust."
-data_as_of: "loan data through November 2024; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> &middot; <a href="/cmbs/">CMBS market</a></p>

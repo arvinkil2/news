@@ -2,7 +2,7 @@
 title: "Benchmark 2021-B26 Mortgage Trust (segment D01, CIK 1858289)"
 date: "2026-10-19"
 lede: "Tranches, pool and monthly delinquency indicator for Benchmark 2021-B26 Mortgage Trust."
-data_as_of: "loan data through May 2021; ratings as held in the dataset at 2026-10-01"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> &middot; <a href="/cmbs/">CMBS market</a></p>

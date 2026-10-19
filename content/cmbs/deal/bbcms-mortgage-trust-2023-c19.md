@@ -2,7 +2,7 @@
 title: "BBCMS Mortgage Trust 2023-C19"
 date: "2026-10-19"
 lede: "Tranches, pool and monthly delinquency indicator for BBCMS Mortgage Trust 2023-C19."
-data_as_of: "loan data through April 2023; ratings as held in the dataset at 2026-10-01"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> &middot; <a href="/cmbs/">CMBS market</a></p>

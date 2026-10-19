@@ -2,7 +2,7 @@
 title: "Benchmark 2026-V21 Mortgage Trust"
 date: "2026-10-19"
 lede: "Tranches, pool and monthly delinquency indicator for Benchmark 2026-V21 Mortgage Trust."
-data_as_of: "loan data through May 2026"
+data_as_of: "loan data through September 2026"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> &middot; <a href="/cmbs/">CMBS market</a></p>

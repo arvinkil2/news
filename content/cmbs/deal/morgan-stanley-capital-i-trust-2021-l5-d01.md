@@ -2,7 +2,7 @@
 title: "Morgan Stanley Capital I Trust 2021-L5"
 date: "2026-10-19"
 lede: "Tranches, pool and monthly delinquency indicator for Morgan Stanley Capital I Trust 2021-L5."
-data_as_of: "loan data through November 2024; ratings as held in the dataset at 2026-10-01"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
 aliases:
   - "/cmbs/deal/morgan-stanley-capital-i-trust-2021-l5-d12/"
 ---
