@@ -1,7 +1,7 @@
 ---
 title: "New Hope agrees all-scrip deal for Malabar Resources"
 date: 2026-10-19T03:45:03-04:00
-last_updated: 2026-10-19T03:45:03-04:00
+last_updated: 2026-10-19T07:10:30-04:00
 update_bump: true
 beats: ["mining"]
 regions: ["asia-pacific"]
@@ -25,3 +25,5 @@ data_as_of: "Monday, October 19, 2026, 03:45 ET. Developing item. The scheme ter
 ---
 
 Under the binding agreement, Malabar shareholders other than New Hope will receive 0.5 New Hope shares for each share held, implying 2.92 Australian dollars per Malabar share on New Hope's October 16 closing price, with 227.8 million new shares leaving existing New Hope holders with about 79 percent of the combined group, Reuters reported. Malabar's Maxwell mine, which began longwall production in April, is targeting up to 5.5 million tonnes of saleable coal a year once expanded. Both boards support the transaction and Malabar's board unanimously recommended the scheme, subject to an independent expert's conclusion, with completion expected by March 2027 subject to Malabar shareholder, court and regulatory approvals, including from Japan's Fair Trade Commission.
+
+Morning update: the combination was the largest mining transaction in Monday's reporting. New Hope already held about 26 percent of Malabar, so the scheme consolidates an asset it part owned rather than buying into new ground, and it pairs the Maxwell underground mine with the neighbouring Bengalla operation in the Upper Hunter. The combined group's pathway to 19 million tonnes of annual saleable production, against a pro forma market value of about 6.3 billion Australian dollars, makes this a scale consolidation inside Australian thermal and metallurgical coal at a moment when the sector's listed mid tiers keep shrinking. The file stays at developing status until the scheme documentation and independent expert's report are published.
