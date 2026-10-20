@@ -2,7 +2,7 @@
 title: "COREWEAVE COMPUTE ACQUISITION CO II LLC 948GKAII8"
 date: "2026-10-20"
 lede: "Trades, fund marks, terms and call schedule for 948GKAII8."
-data_as_of: "Trades to 20 Oct 2026; fund marks to 30 Jun 2026"
+data_as_of: "Trades to 20 Oct 2026; fund marks to 31 Mar 2026"
 ---
 
 <p class="bond-navrow"><a href="/leverage/bond-watch/">Bond Price Watch</a> / <a href="/leverage/issuer/coreweave/">CoreWeave</a> / COREWEAVE COMPUTE ACQUISITION CO II LLC</p>
@@ -12,24 +12,24 @@ data_as_of: "Trades to 20 Oct 2026; fund marks to 30 Jun 2026"
 <div class="bw-sum-item"><dt>Instrument</dt><dd>Term loan</dd></div>
 </dl>
 <h2>Price and analytics</h2>
-<p class="data-vintage">Basis: At latest fund mark (30 Jun 2026).</p>
+<p class="data-vintage">Basis: At latest fund mark (31 Mar 2026).</p>
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Fund mark (median)</dt><dd>102.94</dd><dd class="bw-sum-sub">Period ended 30 Jun 2026</dd><dd class="bw-sum-sub">Median of 3 fund marks</dd></div>
+<div class="bw-sum-item"><dt>Fund mark (median)</dt><dd>102.94</dd><dd class="bw-sum-sub">Period ended 31 Mar 2026</dd><dd class="bw-sum-sub">Median of 3 fund marks</dd></div>
 </dl>
 <p class="data-vintage">Analytics settle at the basis date; 30/360, semiannual convention.</p>
 <h2>Fund marks</h2>
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Fund mark (median)</dt><dd>102.94</dd><dd class="bw-sum-sub">Period ended 30 Jun 2026</dd><dd class="bw-sum-sub">Median of 3 fund marks</dd></div>
+<div class="bw-sum-item"><dt>Fund mark (median)</dt><dd>102.94</dd><dd class="bw-sum-sub">Period ended 31 Mar 2026</dd><dd class="bw-sum-sub">Median of 3 fund marks</dd></div>
 <div class="bw-sum-item"><dt>Range, p10 to p90</dt><dd>102.94 to 102.94</dd></div>
 <div class="bw-sum-item"><dt>Value-weighted mean</dt><dd>102.94</dd></div>
-<div class="bw-sum-item"><dt>Change vs prior quarter</dt><dd>-1.34 pts</dd><dd class="bw-sum-sub">Prior median 104.28, period ended 30 Jun 2026</dd></div>
+<div class="bw-sum-item"><dt>Change vs prior quarter</dt><dd>-1.34 pts</dd><dd class="bw-sum-sub">Prior median 104.28, period ended 31 Dec 2025</dd></div>
 <div class="bw-sum-item"><dt>Fair value basis</dt><dd>Level 3 100%</dd><dd class="bw-sum-sub">Share of reported balance by fair-value level</dd></div>
 </dl>
-<p class="data-vintage">Median of fund-reported marks: the middle fund-reported price per 100 of principal across every fund reporting a priced position in this bond, from SEC Form N-PORT filings. The period shown is the most common report-ending date among the bond's reporting funds that quarter; funds file about 60 days after period end, so the mark lags the market.</p>
+<p class="data-vintage">Median of fund-reported marks: the middle fund-reported price per 100 of principal across every fund reporting a priced position in this bond, from SEC Form N-PORT filings. The period shown is the most common date as of which the bond's reporting funds reported their holdings that quarter; funds file about 60 days after that date, so the mark lags the market.</p>
 <h2>Holders</h2>
 <dl class="bw-summary">
 <div class="bw-sum-item"><dt>Funds reporting a position</dt><dd>3</dd></div>
-<div class="bw-sum-item"><dt>Reported principal balance</dt><dd>$25,937,500</dd><dd class="bw-sum-sub">Period ended 30 Jun 2026</dd></div>
+<div class="bw-sum-item"><dt>Reported principal balance</dt><dd>$25,937,500</dd><dd class="bw-sum-sub">Period ended 31 Mar 2026</dd></div>
 <div class="bw-sum-item"><dt>Largest holder share</dt><dd>56.6%</dd></div>
 <div class="bw-sum-item"><dt>Top five holders share</dt><dd>100.0%</dd></div>
 </dl>
@@ -45,26 +45,26 @@ data_as_of: "Trades to 20 Oct 2026; fund marks to 30 Jun 2026"
 <h2>Price and yield history</h2>
 <p class="data-vintage">The line plots one point per trade date, the day's last print; the whisker at each point spans the day's high and low prints. The line breaks across gaps longer than 30 days. Fund marks are squares at each period end, joined by the dashed line. Volume is the day total of amounts reported to TRACE; capped reports count at the cap. Scroll or drag on the chart to zoom. One axis per view; a fund mark is a period-end valuation, not a trade price.</p>
 <p class="chart-toggle"><button type="button" id="btn-price" aria-pressed="true">Price</button> <button type="button" id="btn-yield" aria-pressed="false">Yield</button></p>
-<div class="bond-chart-e" role="img" aria-label="Price and yield history chart for 948GKAII8"><svg class="bond-chart" viewBox="0 0 720 260" width="100%" role="img"><line x1="46" y1="236" x2="708" y2="236" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="239" text-anchor="end" class="chart-lab">97.3</text><line x1="46" y1="180" x2="708" y2="180" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="182" text-anchor="end" class="chart-lab">100.2</text><line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="126" text-anchor="end" class="chart-lab">103.2</text><line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="70" text-anchor="end" class="chart-lab">106.2</text><line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="13" text-anchor="end" class="chart-lab">109.2</text><text x="46" y="254" text-anchor="middle" class="chart-lab">Jun 24</text><text x="156" y="254" text-anchor="middle" class="chart-lab">Oct 24</text><text x="267" y="254" text-anchor="middle" class="chart-lab">Feb 25</text><text x="377" y="254" text-anchor="middle" class="chart-lab">Jun 25</text><text x="487" y="254" text-anchor="middle" class="chart-lab">Oct 25</text><text x="598" y="254" text-anchor="middle" class="chart-lab">Feb 26</text><text x="708" y="254" text-anchor="middle" class="chart-lab">Jun 26</text><polyline points="46.0,217.2 46.0,173.8 46.0,158.6 46.0,57.9 377.0,28.8 377.0,78.6 377.0,85.0 377.0,72.2 708.0,80.8 708.0,103.4 708.0,128.8" fill="none" stroke="#8a8378" stroke-width="1.2" stroke-dasharray="5 3"/><rect x="43.0" y="214.2" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="43.0" y="170.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="43.0" y="155.6" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="43.0" y="54.9" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="374.0" y="25.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="374.0" y="75.6" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="374.0" y="82.0" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="374.0" y="69.2" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="705.0" y="77.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="705.0" y="100.4" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="705.0" y="125.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/></svg></div>
-<script type="application/json" class="bond-chart-data">{"t":[],"m":[[1719748800000,98.25],[1719748800000,100.5514],[1719748800000,101.3561],[1719748800000,106.6932],[1751284800000,105.261],[1751284800000,105.5972],[1751284800000,105.9387],[1751284800000,108.237],[1782820800000,102.9371],[1782820800000,104.2821],[1782820800000,105.479]]}</script>
+<div class="bond-chart-e" role="img" aria-label="Price and yield history chart for 948GKAII8"><svg class="bond-chart" viewBox="0 0 720 260" width="100%" role="img"><line x1="46" y1="236" x2="708" y2="236" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="239" text-anchor="end" class="chart-lab">97.3</text><line x1="46" y1="180" x2="708" y2="180" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="182" text-anchor="end" class="chart-lab">100.2</text><line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="126" text-anchor="end" class="chart-lab">103.2</text><line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="70" text-anchor="end" class="chart-lab">106.2</text><line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/><text x="40" y="13" text-anchor="end" class="chart-lab">109.2</text><text x="46" y="254" text-anchor="middle" class="chart-lab">Sep 23</text><text x="156" y="254" text-anchor="middle" class="chart-lab">Feb 24</text><text x="267" y="254" text-anchor="middle" class="chart-lab">Jul 24</text><text x="377" y="254" text-anchor="middle" class="chart-lab">Dec 24</text><text x="487" y="254" text-anchor="middle" class="chart-lab">May 25</text><text x="598" y="254" text-anchor="middle" class="chart-lab">Oct 25</text><text x="708" y="254" text-anchor="middle" class="chart-lab">Mar 26</text><polyline points="46.0,217.2 112.7,173.8 178.7,158.6 244.7,57.9 311.4,28.8 378.1,78.6 443.3,85.0 509.3,72.2 576.0,80.8 642.7,103.4 708.0,128.8" fill="none" stroke="#8a8378" stroke-width="1.2" stroke-dasharray="5 3"/><rect x="43.0" y="214.2" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="109.7" y="170.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="175.7" y="155.6" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="241.7" y="54.9" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="308.4" y="25.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="375.1" y="75.6" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="440.3" y="82.0" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="506.3" y="69.2" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="573.0" y="77.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="639.7" y="100.4" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/><rect x="705.0" y="125.8" width="6" height="6" fill="#fff" stroke="#5c564a" stroke-width="1.2"/></svg></div>
+<script type="application/json" class="bond-chart-data">{"t":[],"m":[[1696075200000,98.25],[1704024000000,100.5514],[1711886400000,101.3561],[1719748800000,106.6932],[1727697600000,108.237],[1735646400000,105.5972],[1743422400000,105.261],[1751284800000,105.9387],[1759233600000,105.479],[1767182400000,104.2821],[1774958400000,102.9371]]}</script>
 <h2>Trade and mark history</h2>
 <p class="data-vintage">FINRA holds a record for this bond; no trades are in the stored record. One chronological record. TRACE trades are executions reported to FINRA; fund marks are period-end valuations from holder filings. Volume is as reported by FINRA (amounts above $5M par are capped at “5MM+” for investment-grade and $1M for high-yield issues). Side is the reporting party's side.</p>
 <p class="tape-filter"><label><input type="checkbox" id="f-trades" checked> TRACE trades</label> <label><input type="checkbox" id="f-marks" checked> Fund marks</label></p>
 <div class="market-table-scroll"><table class="market-table tape"><thead><tr><th>Date</th><th>Source</th><th>Price (% of par)</th><th>Yield as reported by FINRA (%)</th><th>Volume ($)</th><th>Side</th></tr></thead><tbody>
-<tr data-src="m"><td>30 Jun 2026</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.48</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2026</td><td><span class="src-chip m">Fund mark</span></td><td class="num">104.28</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2026</td><td><span class="src-chip m">Fund mark</span></td><td class="num">102.94</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">108.24</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.60</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.26</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Mar 2026</td><td><span class="src-chip m">Fund mark</span></td><td class="num">102.94</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Dec 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">104.28</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>30 Sep 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.48</td><td class="num">—</td><td>—</td><td>—</td></tr>
 <tr data-src="m"><td>30 Jun 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.94</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">98.25</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">100.55</td><td class="num">—</td><td>—</td><td>—</td></tr>
-<tr data-src="m"><td>30 Jun 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">101.36</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Mar 2025</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.26</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Dec 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">105.60</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>30 Sep 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">108.24</td><td class="num">—</td><td>—</td><td>—</td></tr>
 <tr data-src="m"><td>30 Jun 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">106.69</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Mar 2024</td><td><span class="src-chip m">Fund mark</span></td><td class="num">101.36</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>31 Dec 2023</td><td><span class="src-chip m">Fund mark</span></td><td class="num">100.55</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr data-src="m"><td>30 Sep 2023</td><td><span class="src-chip m">Fund mark</span></td><td class="num">98.25</td><td class="num">—</td><td>—</td><td>—</td></tr>
 </tbody></table></div>
 <h2>Fund marks by holder</h2>
-<p class="data-vintage">3 funds held this bond at 30 Jun 2026. Each mark is that fund's own period-end valuation per 100 of principal.</p>
+<p class="data-vintage">3 funds held this bond at 31 Mar 2026. Each mark is that fund's own period-end valuation per 100 of principal.</p>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Fund</th><th>Complex</th><th>Principal</th><th>Implied mark</th></tr></thead><tbody>
 <tr><td>N/A</td><td class="muted">PIMCO Dynamic Income Fund</td><td class="num">$14,687,500</td><td class="num">102.94</td></tr><tr><td>N/A</td><td class="muted">PIMCO Flexible Credit Income Fund</td><td class="num">$9,062,500</td><td class="num">102.94</td></tr><tr><td>N/A</td><td class="muted">PIMCO Access Income Fund</td><td class="num">$2,187,500</td><td class="num">102.94</td></tr>
 </tbody></table></div>
@@ -78,7 +78,7 @@ data_as_of: "Trades to 20 Oct 2026; fund marks to 30 Jun 2026"
 <p class="data-vintage">No agency rating in the dataset.</p>
 <h2>Other bonds from this issuer</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead><tbody>
-<tr><td><a class="bond-link" href="/leverage/bond/ba0004jk4/">BA0004JK4</a></td><td class="num">—</td><td class="muted">—</td><td class="num">—</td><td class="num">103.05<span class="cell-sub">Period ended 30 Jun 2026</span></td><td class="num">—</td><td class="muted">—</td><td class="muted" data-v="">—</td><td class="muted">BA0004JK4</td></tr>
+<tr><td><a class="bond-link" href="/leverage/bond/ba0004jk4/">BA0004JK4</a></td><td class="num">—</td><td class="muted">—</td><td class="num">—</td><td class="num">103.05<span class="cell-sub">Period ended 31 Mar 2026</span></td><td class="num">—</td><td class="muted">—</td><td class="muted" data-v="">—</td><td class="muted">BA0004JK4</td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: FINRA TRACE via the public lookup (collected by Kilambi Research); fund marks from SEC N-PORT bulk data. A fund mark is a period-end valuation reported by a holder; it is not a trade price. Yield to worst takes scheduled calls into account and treats conditional convertible redemption as not certain.</p>
 <script>
