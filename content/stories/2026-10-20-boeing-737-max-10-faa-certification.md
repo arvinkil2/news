@@ -1,7 +1,7 @@
 ---
 title: "FAA certifies Boeing 737 MAX 10, clearing first deliveries"
 date: 2026-10-20T16:30:22-04:00
-last_updated: 2026-10-20T16:30:22-04:00
+last_updated: 2026-10-20T16:50:09-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
@@ -24,4 +24,4 @@ data_as_of: "Boeing announcement and CNBC report, October 20, 2026, both read in
 update_bump: true
 ---
 
-The FAA has certified the Boeing 737 MAX 10, granting both the amended type certificate and the amended production certificate for the largest MAX variant, Boeing said on Tuesday. United Airlines is the launch customer and expects its first delivery in early 2027, and Boeing holds orders and commitments for more than 1,000 of the jets. The MAX 10's certification had slipped years behind its original schedule, and the approval is the second MAX variant clearance this year after the smaller MAX 7.
+The FAA has certified the Boeing 737 MAX 10, granting both the amended type certificate and the amended production certificate for the largest MAX variant, Boeing said on Tuesday. United Airlines is the launch customer and expects its first delivery in early 2027, and Boeing said it holds orders and commitments for more than 1,000 of the jets; CNBC reported the type makes up about 30 percent of the total MAX backlog. The MAX 10's certification had slipped years behind its original schedule, and the approval is the second MAX variant clearance this year after the smaller MAX 7.
