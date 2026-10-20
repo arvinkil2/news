@@ -73,7 +73,7 @@ data_as_of: "Trades to 20 Oct 2026; fund marks to 31 Mar 2026"
 <p class="data-vintage">No agency rating in the dataset.</p>
 <h2>Other bonds from this issuer</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead><tbody>
-<tr><td><a class="bond-link" href="/leverage/bond/076912aa2/">6.581% senior secured notes due 2049</a></td><td class="num">91.54</td><td class="muted">19 Oct 2026</td><td class="num">-10.52</td><td class="num">102.06<span class="cell-sub">Period ended 31 Dec 2026</span></td><td class="num">6.581%</td><td class="muted">30 May 2049</td><td data-v="S&amp;P A+" title="S&amp;P A+">S&amp;P A+</td><td class="muted">076912AA2</td></tr>
+<tr><td><a class="bond-link" href="/leverage/bond/076912aa2/">6.581% senior secured notes due 2049</a></td><td class="num">90.95</td><td class="muted">20 Oct 2026</td><td class="num">-11.11</td><td class="num">102.06<span class="cell-sub">Period ended 31 Dec 2026</span></td><td class="num">6.581%</td><td class="muted">30 May 2049</td><td data-v="S&amp;P A+" title="S&amp;P A+">S&amp;P A+</td><td class="muted">076912AA2</td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: FINRA TRACE via the public lookup (collected by Kilambi Research); fund marks from SEC N-PORT bulk data. A fund mark is a period-end valuation reported by a holder; it is not a trade price. Yield to worst takes scheduled calls into account and treats conditional convertible redemption as not certain.</p>
 <script>
