@@ -5,7 +5,7 @@ lede: "Rating actions, action dates and public knowledge dates for CF 2019-CF1 M
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/cf-2019-cf1-mortgage-trust-d01/">&larr; CF 2019-CF1 Mortgage Trust</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/cf-2019-cf1-mortgage-trust-d01/">&larr; CF 2019-CF1 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 18 of the deal's 21 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">25</td><td class="num">0</td><td class="num">6</td><td class="num">0</td><td class="num">+16 notches over 6 classes</td><td class="num">2024-05-21</td></tr><tr><td>KBRA</td><td class="num">143</td><td class="num">0</td><td class="num">4</td><td class="num">0</td><td class="num">+12 notches over 18 classes</td><td class="num">2025-04-11</td></tr><tr><td>S&amp;P</td><td class="num">36</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 9 classes</td><td class="num">None recorded</td></tr></tbody></table></div>

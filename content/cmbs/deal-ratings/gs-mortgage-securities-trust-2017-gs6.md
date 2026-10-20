@@ -2,10 +2,10 @@
 title: "GS Mortgage Securities Trust 2017-GS6: rating history"
 date: "2026-10-19"
 lede: "Rating actions, action dates and public knowledge dates for GS Mortgage Securities Trust 2017-GS6."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/gs-mortgage-securities-trust-2017-gs6/">&larr; GS Mortgage Securities Trust 2017-GS6</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/gs-mortgage-securities-trust-2017-gs6/">&larr; GS Mortgage Securities Trust 2017-GS6</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 13 of the deal's 15 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">23</td><td class="num">0</td><td class="num">9</td><td class="num">0</td><td class="num">+28 notches over 7 classes</td><td class="num">2018-05-16</td></tr><tr><td>KBRA</td><td class="num">127</td><td class="num">0</td><td class="num">4</td><td class="num">0</td><td class="num">+15 notches over 13 classes</td><td class="num">2025-04-10</td></tr><tr><td>Moody's</td><td class="num">13</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">not yet reported</td><td class="num">None recorded</td></tr></tbody></table></div>

@@ -2,10 +2,10 @@
 title: "CD 2017-CD4 Mortgage Trust: rating history"
 date: "2026-10-19"
 lede: "Rating actions, action dates and public knowledge dates for CD 2017-CD4 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd4-mortgage-trust/">&larr; CD 2017-CD4 Mortgage Trust</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd4-mortgage-trust/">&larr; CD 2017-CD4 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 16 of the deal's 20 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">28</td><td class="num">0</td><td class="num">10</td><td class="num">0</td><td class="num">+22 notches over 6 classes</td><td class="num">2021-03-10</td></tr><tr><td>S&amp;P</td><td class="num">50</td><td class="num">0</td><td class="num">3</td><td class="num">0</td><td class="num">+3 notches over 10 classes</td><td class="num">2020-04-28</td></tr><tr><td>Moody's</td><td class="num">16</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">not yet reported</td><td class="num">None recorded</td></tr><tr><td>DBRS</td><td class="num">204</td><td class="num">0</td><td class="num">15</td><td class="num">0</td><td class="num">+9 notches over 14 classes</td><td class="num">2022-11-04</td></tr></tbody></table></div>

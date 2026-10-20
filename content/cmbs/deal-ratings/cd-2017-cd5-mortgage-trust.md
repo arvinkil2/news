@@ -5,7 +5,7 @@ lede: "Rating actions, action dates and public knowledge dates for Cd 2017-CD5 M
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd5-mortgage-trust/">&larr; Cd 2017-CD5 Mortgage Trust</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd5-mortgage-trust/">&larr; Cd 2017-CD5 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 14 of the deal's 17 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">16</td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">-1 notches over 1 classes</td><td class="num">None recorded</td></tr><tr><td>KBRA</td><td class="num">137</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 14 classes</td><td class="num">None recorded</td></tr><tr><td>Moody's</td><td class="num">15</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">not yet reported</td><td class="num">None recorded</td></tr></tbody></table></div>

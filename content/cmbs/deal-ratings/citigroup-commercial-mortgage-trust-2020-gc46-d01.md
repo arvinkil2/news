@@ -5,7 +5,7 @@ lede: "Rating actions, action dates and public knowledge dates for Citigroup Com
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2020-gc46-d01/">&larr; Citigroup Commercial Mortgage Trust 2020-GC46</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2020-gc46-d01/">&larr; Citigroup Commercial Mortgage Trust 2020-GC46</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 15 of the deal's 18 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">20</td><td class="num">0</td><td class="num">4</td><td class="num">0</td><td class="num">+8 notches over 4 classes</td><td class="num">2024-11-04</td></tr><tr><td>S&amp;P</td><td class="num">58</td><td class="num">0</td><td class="num">2</td><td class="num">0</td><td class="num">+2 notches over 7 classes</td><td class="num">2025-08-12</td></tr><tr><td>DBRS</td><td class="num">144</td><td class="num">0</td><td class="num">2</td><td class="num">0</td><td class="num">+0 notches over 8 classes</td><td class="num">2024-08-22</td></tr></tbody></table></div>

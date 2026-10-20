@@ -5,7 +5,7 @@ lede: "Rating actions, action dates and public knowledge dates for GNMAG Asset B
 data_as_of: "loan data through not yet reported; ratings as held in the dataset at 2026-10-13"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/gnmag-asset-backed-securitizations-trust-series-2020-1/">&larr; GNMAG Asset Backed Securitizations Trust, Series 2020-1</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/gnmag-asset-backed-securitizations-trust-series-2020-1/">&larr; GNMAG Asset Backed Securitizations Trust, Series 2020-1</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 1 of the deal's 2 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Moody's</td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 1 classes</td><td class="num">None recorded</td></tr></tbody></table></div>
