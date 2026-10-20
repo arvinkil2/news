@@ -100,6 +100,15 @@ STACK_COLS_CUR2 = [("Credit support (current)", 132, 92)]
 STACK_COLS_TAIL = [("Coupon", 168, 110), ("CUSIP", 96, 84),
                    ("Expected maturity", 112, 92),
                    ("Legal final", 112, 92)]
+# Fund-marks-by-class table (Stage 2, 2026-10-20): resizable via the
+# shared engine, NOT sortable (class order is structural).
+MARKS_CLASS_COLS = [("Class", 84, 56), ("CUSIP", 104, 88),
+                    ("Fund mark, median (% of par)", 150, 100, True),
+                    ("Funds", 64, 52, True),
+                    ("Principal held", 128, 88, True),
+                    ("Credit support at issuance", 132, 92)]
+MARKS_CLASS_COL_CUR = ("Credit support (current)", 132, 92)
+MARKS_CLASS_COL_END = ("Period ended", 104, 84)
 AGENCY_COL_SPEC = (92, 68)
 
 SITE = os.path.expanduser("~/workspace/news-site")
@@ -261,6 +270,34 @@ def svg_line_chart(series, y_label, height=260, y_min=None, y_max=None,
             f'<span style="color:{c}">&#9644;</span> {esc(l)}'
             for l, c, _ in series)
         out.append(f'<p class="bond-chart-cap">{leg}</p>')
+    return "\n".join(out)
+
+
+def hbar_svg(items, aria):
+    """Labeled horizontal bars for the fund-holdings cliff (Stage 2,
+    2026-10-20). items: (label, share 0..1, held, rows). Bars start
+    at zero on a 0-100% scale; every bar carries its value and its
+    base in text at the bar end. No axis truncation, no dual axes."""
+    if not items:
+        return ""
+    W, LH, BH, GAP, TOP = 720, 190, 20, 12, 6
+    H = TOP * 2 + len(items) * (BH + GAP)
+    out = [f'<svg class="bond-chart" viewBox="0 0 {W} {H}" '
+           f'width="100%" role="img" aria-label="{esc(aria)}">']
+    for i, (label, share, held, rows) in enumerate(items):
+        y = TOP + i * (BH + GAP)
+        w = max(0.0, min(1.0, share)) * (W - LH - 190)
+        out.append(
+            f'<text x="{LH - 8}" y="{y + BH - 6}" text-anchor="end" '
+            f'class="chart-lab">{esc(label)}</text>')
+        out.append(
+            f'<rect x="{LH}" y="{y}" width="{w:.0f}" height="{BH}" '
+            f'fill="#1a1a1a"/>')
+        out.append(
+            f'<text x="{LH + w + 8:.0f}" y="{y + BH - 6}" '
+            f'class="chart-lab">{share * 100:.1f}% held '
+            f'({held:,} of {rows:,} rows)</text>')
+    out.append("</svg>")
     return "\n".join(out)
 
 
@@ -1085,6 +1122,21 @@ def main():
                     cs_by_deal[_dk] = {"dist": _r[8], "pool": _r[7]}
     sanity["cmbs_10d_classes"] = len(cs_by_class)
     sanity["cmbs_10d_deals"] = len(cs_by_deal)
+
+    # ---- Stage 2 N-PORT: fund marks by class + holdings cliff,
+    # from the join panel (~/workspace/nport/build_site_panel.py).
+    # Absent panel file: the sections simply do not render.
+    cmbs_marks = {}
+    cmbs_cliff = {}
+    _marks_q = None
+    _cm_path = os.path.expanduser(
+        "~/workspace/news-site/data/macro/cmbs_marks.json")
+    if os.path.exists(_cm_path):
+        _cm = json.load(open(_cm_path))
+        cmbs_marks = _cm.get("classes") or {}
+        cmbs_cliff = _cm.get("cliff") or {}
+        _marks_q = _cm.get("latest_quarter")
+    sanity["cmbs_mark_classes"] = len(cmbs_marks)
 
     def deal_data_as_of(d):
         # The deal's own latest month of loan reports is the primary
@@ -2147,6 +2199,72 @@ releases collected in the dataset are shown separately, with their
 own publication dates.</p>"""
     sanity["market_extra_built"] = True
 
+    # ---- Stage 2 N-PORT: the sponsorship cliff on the market page.
+    # Share of tranche rows held by funds, by current credit support
+    # (the brief's banding), with the at-issuance banding and the
+    # seniority split stated in the note. All figures from the join
+    # panel's cliff aggregates; nothing is recomputed here.
+    marks_market_html = ""
+    if cmbs_marks and cmbs_cliff:
+        _bc = cmbs_cliff.get("by_support_current") or {}
+        _bi = cmbs_cliff.get("by_support_issuance") or {}
+        _bs = cmbs_cliff.get("by_seniority") or {}
+        _band_order = ["support <7.5%", "support 7.5-20%",
+                       "support >=20%"]
+        _band_labels = {"support <7.5%": "Support under 7.5%",
+                        "support 7.5-20%": "Support 7.5% to 20%",
+                        "support >=20%": "Support 20% or more"}
+        _items = [(_band_labels[k], _bc[k]["share"], _bc[k]["held"],
+                   _bc[k]["rows"]) for k in _band_order if k in _bc]
+        if _items:
+            _iss_txt = ""
+            if all(k in _bi for k in _band_order):
+                _iss_txt = (
+                    " Measured by credit support at issuance, the "
+                    "same bands show "
+                    f"{_bi['support <7.5%']['share'] * 100:.0f}% held "
+                    f"({_bi['support <7.5%']['held']:,} of "
+                    f"{_bi['support <7.5%']['rows']:,} rows), "
+                    f"{_bi['support 7.5-20%']['share'] * 100:.0f}% and "
+                    f"{_bi['support >=20%']['share'] * 100:.0f}%: at "
+                    "issuance, funds hold almost none of the "
+                    "thinnest-supported classes.")
+            _sen_txt = ""
+            if _bs:
+                _sen_txt = (
+                    " By seniority, senior (A) classes are held on "
+                    f"{_bs.get('senior (A)', {}).get('share', 0) * 100:.0f}% "
+                    "of rows, mezzanine (B-C) on "
+                    f"{_bs.get('mezzanine (B-C)', {}).get('share', 0) * 100:.0f}%, "
+                    "junior (D and below) on "
+                    f"{_bs.get('junior (D+)', {}).get('share', 0) * 100:.0f}%, "
+                    "interest-only strips on "
+                    f"{_bs.get('io strip', {}).get('share', 0) * 100:.0f}% "
+                    "and residual classes on "
+                    f"{_bs.get('residual', {}).get('share', 0) * 100:.0f}%: "
+                    "the fund-holdings lens does not reach the bottom "
+                    "of the stack, where holder information has to "
+                    "come from the trusts' own distribution reports.")
+            marks_market_html = (
+                "<h2>Fund holdings of tranches</h2>"
+                f"<p class=\"data-vintage\">Share of tranche rows "
+                f"whose class CUSIP is held by at least one fund "
+                f"reporting a priced position in the SEC N-PORT "
+                f"{_marks_q} filings, by the class's current credit "
+                f"support from its trust's latest Form 10-D "
+                f"statement. "
+                f"{cmbs_cliff.get('current_support_rows', 0):,} of "
+                f"{cmbs_cliff.get('spine_rows', 0):,} tranche rows "
+                f"carry a current support figure; rows without one "
+                f"are outside this chart's base. Fund marks by class "
+                f"are on each deal page.</p>"
+                + hbar_svg(_items,
+                           "Share of tranche rows held by funds, by "
+                           "current credit support")
+                + f"<p class=\"data-vintage\">{_iss_txt}{_sen_txt}"
+                  "</p>")
+    sanity["marks_market_built"] = bool(marks_market_html)
+
     os.makedirs(os.path.join(args.out, "deal"), exist_ok=True)
 
     # ======================================================== market page
@@ -2348,6 +2466,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         + "<h2>Scheduled maturities of loans still reporting</h2>"
         + mat_table + mat_note
         + market_extra
+        + marks_market_html
         + '<p><a href="/cmbs/deals/">Deal index</a> / '
           '<a href="/cmbs/rankings/">Rankings</a> / '
           '<a href="/cmbs/changes/">Monthly changes</a></p>'
@@ -3448,6 +3567,90 @@ republished. They do not yet update on a daily cycle.</p>"""
         else:
             parts.append(f"<p>{NYR}: no tranche table is in the dataset "
                          "for this deal.</p>")
+
+        # ---- Stage 2 N-PORT: fund marks by class. Every class with
+        # a CUSIP gets a row; a class no fund reports holding shows
+        # zero funds and no mark. Figures are the class's most recent
+        # reported quarter in the panel, dated in its own row.
+        if trs and cmbs_marks:
+            _mcus = [t for t in trs if t["cusip"]]
+            _n_latest = sum(
+                1 for t in _mcus
+                if (cmbs_marks.get(t["cusip"]) or {}).get("quarter")
+                == _marks_q)
+            _n_any = sum(1 for t in _mcus
+                         if t["cusip"] in cmbs_marks)
+            _mcols = list(MARKS_CLASS_COLS)
+            if cs_deal_here is not None:
+                _mcols.append(MARKS_CLASS_COL_CUR)
+            _mcols.append(MARKS_CLASS_COL_END)
+            mrows = []
+            for t in trs:
+                if t["combination"]:
+                    sup_i = "Combination class"
+                elif t["io"]:
+                    sup_i = "Interest only"
+                elif t["support"] is not None:
+                    sup_i = pct_frac(t["support"])
+                elif t["is_exch"]:
+                    sup_i = "Exchangeable component"
+                else:
+                    sup_i = NYR
+                cm = (cmbs_marks.get(t["cusip"])
+                      if t["cusip"] else None)
+                cus_c = esc(t["cusip"]) if t["cusip"] else "—"
+                if t["cusip"] and t["companion"]:
+                    cus_c += " +"
+                if cm is not None:
+                    med_c = f"{cm['median']:.2f}"
+                    fun_c = f"{cm['n_funds']}"
+                    bal_c = money(cm["balance"])
+                    per_c = esc(cm["period_end"] or "—")
+                elif t["cusip"]:
+                    med_c, fun_c, bal_c, per_c = "—", "0", "$0", "—"
+                else:
+                    med_c = fun_c = bal_c = per_c = "—"
+                mcells = [f"<td>{esc(t['class'])}</td>",
+                          f"<td>{cus_c}</td>",
+                          f'<td class="num">{med_c}</td>',
+                          f'<td class="num">{fun_c}</td>',
+                          f'<td class="num">{bal_c}</td>',
+                          f'<td class="num">{esc(sup_i)}</td>']
+                if cs_deal_here is not None:
+                    _csx = (cs_by_class.get(
+                        (key[0], key[1], t["cusip"]))
+                        if t["cusip"] else None)
+                    _csv = (pct_frac(_csx["support"])
+                            if _csx is not None
+                            and _csx["support"] is not None else "—")
+                    mcells.append(f'<td class="num">{_csv}</td>')
+                mcells.append(f'<td class="num">{per_c}</td>')
+                mrows.append("<tr>" + "".join(mcells) + "</tr>")
+            parts.append("<h2>Fund marks by class</h2>")
+            parts.append(
+                f"<p class=\"data-vintage\">Fund-reported marks "
+                f"from SEC N-PORT filings, full fund universe, most "
+                f"recent reported quarter per class. {_n_latest} of "
+                f"this deal's {len(_mcus)} classes with CUSIPs have "
+                f"fund holders in the latest quarter ({_marks_q}); "
+                f"{_n_any} have a mark on record in some quarter. A "
+                f"class with no fund holders shows zero funds and "
+                f"no mark.</p>")
+            parts.append(
+                '<div class="market-table-scroll">'
+                + bw_open("cmbs-marks", _mcols)
+                + "<tbody>" + "".join(mrows) + "</tbody></table></div>"
+                + f"<p>{reset_btn('cmbs-marks')}</p>")
+            parts.append(
+                '<p class="data-vintage">The fund mark is the median '
+                "of fund-reported prices per 100 of principal across "
+                "the funds holding the class. Principal held is the "
+                "sum of reported principal balances (a notional "
+                "amount for interest-only classes). Period ended is "
+                "the modal report-ending date in that quarter's "
+                "N-PORT archive; funds file about 60 days after "
+                "period end. Credit support columns repeat the "
+                "capital-stack figures for the same class.</p>")
 
         # ---- ratings summary
         parts.append("<h2>Ratings</h2>")

@@ -1,6 +1,6 @@
 ---
 title: "Broadcom"
-date: "2026-10-19"
+date: "2026-10-20"
 lede: "Benchmark issuer, 71 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-19"
 ---

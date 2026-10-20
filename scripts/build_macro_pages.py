@@ -353,6 +353,22 @@ def _detail_data():
     return _DETAIL
 
 
+_NPORT = None
+
+
+def _nport_panel():
+    """The N-PORT full-universe join panel (data/macro/nport_panel
+    .json, built by ~/workspace/nport/build_site_panel.py): per-bond
+    quarterly medians with each quarter's modal report-ending period,
+    holder aggregates and top holders. The single source for every
+    N-PORT figure the builders render (Stage 2, 2026-10-20)."""
+    global _NPORT
+    if _NPORT is None:
+        p = os.path.join(DATA, "nport_panel.json")
+        _NPORT = json.load(open(p)) if os.path.exists(p) else {}
+    return _NPORT
+
+
 def _fmt_date(iso):
     if not iso:
         return ""
@@ -1933,9 +1949,28 @@ ANA_BACK_COLS = [("Bond", 300, 180), ("Marks fire (period)", 140, 92),
                  ("Days before news (marks)", 170, 92),
                  ("First tape print < 90", 150, 92),
                  ("Days before news (tape)", 170, 92), ("CUSIP", 108, 96)]
+# N-PORT panel tables (Stage 2, 2026-10-20): disagreement between the
+# tape and the full-universe fund median, coverage/concentration, the
+# zero-holder list, and the per-bond top-holder table.
+NP_GAP_COLS = [("Bond", 300, 180), ("Last print (% of par)", 124, 76),
+               ("Traded", 110, 92), ("Fund median (% of par)", 132, 76),
+               ("Period ended", 110, 92), ("Gap (pts)", 92, 76),
+               ("Funds", 76, 76), ("CUSIP", 108, 96)]
+NP_CONC_COLS = [("Bond", 300, 180), ("Reported balance ($)", 150, 92),
+                ("Largest holder (%)", 120, 84), ("Top five (%)", 104, 76),
+                ("Funds", 76, 76), ("CUSIP", 108, 96)]
+NP_DISP_COLS = [("Bond", 300, 180), ("Median (% of par)", 124, 76),
+                ("P10 (% of par)", 110, 76), ("P90 (% of par)", 110, 76),
+                ("Range p10-p90 (pts)", 140, 84), ("Funds", 76, 76),
+                ("CUSIP", 108, 96)]
+NP_ZERO_COLS = [("Bond", 340, 200), ("Deal", 220, 120),
+                ("CUSIP", 108, 96)]
+HOLDER_COLS = [("Fund", 340, 180), ("Reported balance ($)", 160, 96),
+               ("Share of reported balance (%)", 170, 110)]
 
-for _n in [k for k in list(globals()) if k.startswith("ANA_")
-           and k.endswith("_COLS")]:
+for _n in [k for k in list(globals())
+           if (k.startswith("ANA_") or k.startswith("NP_")
+               or k == "HOLDER_COLS") and k.endswith("_COLS")]:
     globals()[_n] = [(c[0], c[1], c[2], c[3] if len(c) > 3 else False)
                      for c in globals()[_n]]
 
@@ -2101,12 +2136,12 @@ def bond_analytics_page():
                             for k, v in strip) + "</dl>")
     nav = ('<p class="bw-anchor">'
            '<a href="#issuers">Issuers</a> / '
-           '<a href="#dispersion">Fund dispersion</a> / '
-           '<a href="#gap">Gap</a> / '
            '<a href="#twins">Twin basis</a> / '
            '<a href="#liquidity">Liquidity</a> / '
            '<a href="#events">Filings and prints</a> / '
            '<a href="#backtest">Alert backtest</a> / '
+           '<a href="#marksgap">Marks vs tape</a> / '
+           '<a href="#coverage">Coverage</a> / '
            '<a href="#sources">Sources</a></p>')
     out = [frontmatter(
         "Bond Analytics",
@@ -2139,69 +2174,75 @@ def bond_analytics_page():
             dir_html.append('</ul></div>')
         dir_html.append('</div>')
         out.append("".join(dir_html))
-    # 2 dispersion
-    sec = A["fund_dispersion"]
-    s = sec["summary"]
-    rows = []
-    for r in sec["rows"]:
-        rows.append("<tr>" + _ana_bond(r["cusip"])
-                    + f'<td data-v="{r["period"]}">{_fmt_date(r["period"])}</td>'
-                    + f'<td data-v="{r["funds"]}">{r["funds"]}</td>'
-                    + f'<td data-v="{r["aggregate"]}">{r["aggregate"]:.2f}</td>'
-                    + f'<td data-v="{r["median"]}">{r["median"]:.2f}</td>'
-                    + f'<td data-v="{r["min"]}">{r["min"]:.2f}</td>'
-                    + f'<td data-v="{r["max"]}">{r["max"]:.2f}</td>'
-                    + f'<td data-v="{r["range_pts"]}">{r["range_pts"]:.2f}</td>'
-                    + f'<td data-v="{esc(r["deviant_fund"])}">'
-                      f'{esc(r["deviant_fund"])}</td>'
-                    + f'<td data-v="{r["deviation_pts"]}">'
-                      f'{r["deviation_pts"]:+.2f}</td>'
-                    + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
-    out.append('<h2 id="dispersion">Fund mark dispersion</h2>')
-    out.append(f'<p class="data-vintage">Range of per-fund implied '
-               f'marks, points, latest report period per bond, '
-               f'n = {s["cusips_with_5plus_funds"]} bonds with five '
-               f'or more funds</p>')
-    _db = [(("0–0.5" if d["hi"] == 0.5 else
-             "0.5–1" if d["hi"] == 1 else
-             "1–2" if d["hi"] == 2 else
-             "2–3" if d["hi"] == 3 else "3+"), d["n"])
-           for d in sec.get("distribution", [])]
-    if _db:
-        out.append(_hist_svg(_db, "Dispersion range histogram"))
-    out.append(_grid("ana-disp", ANA_DISP_COLS, rows[:10]))
-    out.append(f'<p class="src">Widest 10 of {len(rows)}. Range = '
-               'highest minus lowest fund mark at the period end.</p>')
-    # 3 gap
-    sec = A["gap_convergence"]
-    s = sec["summary"]
-    rows = []
-    for r in sec["rows"]:
-        gcls = ' class="neg"' if r["gap"] <= -5 else (
-            ' class="pos"' if r["gap"] >= 5 else "")
-        rows.append("<tr>" + _ana_bond(r["cusip"])
-                    + f'<td data-v="{r["last_trade"]}">{r["last_trade"]:.2f}</td>'
-                    + f'<td data-v="{r["trade_date"]}">'
-                      f'{_fmt_date(r["trade_date"])}</td>'
-                    + f'<td data-v="{r["mark"]}">{r["mark"]:.2f}</td>'
-                    + f'<td data-v="{r["period"]}">{_fmt_date(r["period"])}</td>'
-                    + f'<td{gcls} data-v="{r["gap"]}">{r["gap"]:+.2f}</td>'
-                    + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
-    out.append('<h2 id="gap">Trade-mark gap</h2>')
-    q = sec.get("quartiles") or {}
-    out.append(f'<p class="data-vintage">Points, last trade minus '
-               f'latest fund mark, n = {s["bonds_with_both"]} bonds '
-               f'with both</p>')
-    _gb = [(d["label"], d["n"]) for d in sec.get("distribution", [])]
-    if _gb:
-        out.append(_hist_svg(_gb, "Gap distribution"))
-    out.append(f'<p class="data-vintage">Median {s["median_gap"]:+.2f}; '
-               f'Q1 {q.get("q1", 0):+.2f}; Q3 {q.get("q3", 0):+.2f}; '
-               f'below −15: {s["gap_below_minus15"]}; above +5: '
-               f'{s["gap_above_plus5"]}</p>')
-    out.append('<p class="src">Per-bond gap values are on '
-               '<a href="/leverage/bond-watch/">Bond Price Watch</a>.'
-               '</p>')
+    # Legacy mark exhibits retired 2026-10-20 (Stage 2): the
+    # dispersion and trade-mark gap sections below were computed
+    # from the retired narrow marks pipeline. The N-PORT panel
+    # sections (marks vs tape; coverage and concentration) are
+    # their replacements; the code is kept for reference.
+    if False:
+        # 2 dispersion
+        sec = A["fund_dispersion"]
+        s = sec["summary"]
+        rows = []
+        for r in sec["rows"]:
+            rows.append("<tr>" + _ana_bond(r["cusip"])
+                        + f'<td data-v="{r["period"]}">{_fmt_date(r["period"])}</td>'
+                        + f'<td data-v="{r["funds"]}">{r["funds"]}</td>'
+                        + f'<td data-v="{r["aggregate"]}">{r["aggregate"]:.2f}</td>'
+                        + f'<td data-v="{r["median"]}">{r["median"]:.2f}</td>'
+                        + f'<td data-v="{r["min"]}">{r["min"]:.2f}</td>'
+                        + f'<td data-v="{r["max"]}">{r["max"]:.2f}</td>'
+                        + f'<td data-v="{r["range_pts"]}">{r["range_pts"]:.2f}</td>'
+                        + f'<td data-v="{esc(r["deviant_fund"])}">'
+                          f'{esc(r["deviant_fund"])}</td>'
+                        + f'<td data-v="{r["deviation_pts"]}">'
+                          f'{r["deviation_pts"]:+.2f}</td>'
+                        + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
+        out.append('<h2 id="dispersion">Fund mark dispersion</h2>')
+        out.append(f'<p class="data-vintage">Range of per-fund implied '
+                   f'marks, points, latest report period per bond, '
+                   f'n = {s["cusips_with_5plus_funds"]} bonds with five '
+                   f'or more funds</p>')
+        _db = [(("0–0.5" if d["hi"] == 0.5 else
+                 "0.5–1" if d["hi"] == 1 else
+                 "1–2" if d["hi"] == 2 else
+                 "2–3" if d["hi"] == 3 else "3+"), d["n"])
+               for d in sec.get("distribution", [])]
+        if _db:
+            out.append(_hist_svg(_db, "Dispersion range histogram"))
+        out.append(_grid("ana-disp", ANA_DISP_COLS, rows[:10]))
+        out.append(f'<p class="src">Widest 10 of {len(rows)}. Range = '
+                   'highest minus lowest fund mark at the period end.</p>')
+        # 3 gap
+        sec = A["gap_convergence"]
+        s = sec["summary"]
+        rows = []
+        for r in sec["rows"]:
+            gcls = ' class="neg"' if r["gap"] <= -5 else (
+                ' class="pos"' if r["gap"] >= 5 else "")
+            rows.append("<tr>" + _ana_bond(r["cusip"])
+                        + f'<td data-v="{r["last_trade"]}">{r["last_trade"]:.2f}</td>'
+                        + f'<td data-v="{r["trade_date"]}">'
+                          f'{_fmt_date(r["trade_date"])}</td>'
+                        + f'<td data-v="{r["mark"]}">{r["mark"]:.2f}</td>'
+                        + f'<td data-v="{r["period"]}">{_fmt_date(r["period"])}</td>'
+                        + f'<td{gcls} data-v="{r["gap"]}">{r["gap"]:+.2f}</td>'
+                        + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
+        out.append('<h2 id="gap">Trade-mark gap</h2>')
+        q = sec.get("quartiles") or {}
+        out.append(f'<p class="data-vintage">Points, last trade minus '
+                   f'latest fund mark, n = {s["bonds_with_both"]} bonds '
+                   f'with both</p>')
+        _gb = [(d["label"], d["n"]) for d in sec.get("distribution", [])]
+        if _gb:
+            out.append(_hist_svg(_gb, "Gap distribution"))
+        out.append(f'<p class="data-vintage">Median {s["median_gap"]:+.2f}; '
+                   f'Q1 {q.get("q1", 0):+.2f}; Q3 {q.get("q3", 0):+.2f}; '
+                   f'below −15: {s["gap_below_minus15"]}; above +5: '
+                   f'{s["gap_above_plus5"]}</p>')
+        out.append('<p class="src">Per-bond gap values are on '
+                   '<a href="/leverage/bond-watch/">Bond Price Watch</a>.'
+                   '</p>')
     # 4 twins
     sec = A["twin_basis"]
     s = sec["summary"]
@@ -2305,6 +2346,125 @@ def bond_analytics_page():
     out.append(f'<p class="src">{len(sec["rows"])} bonds fired by '
                'either leg; the 12 earliest by marks knowledge date '
                'are shown.</p>')
+    # 8 marks vs tape (Stage 2, 2026-10-20): disagreement between the
+    # latest stored print and the full-universe fund median, from the
+    # N-PORT panel. One table, both directions, engine-sortable.
+    _np = _nport_panel()
+    _det = _detail_data()
+    _grow = []
+    for _c, _pb in (_np.get("bonds") or {}).items():
+        _L = _pb["latest"]
+        _tr = (_det.get(_c) or {}).get("trades") or []
+        if not _tr or _L.get("median") is None:
+            continue
+        _lp, _ld = _tr[0][2], _tr[0][0]
+        _grow.append({"cusip": _c, "print": _lp, "date": _ld,
+                      "median": _L["median"],
+                      "period_end": _L["period_end"],
+                      "gap": _lp - _L["median"],
+                      "funds": _L["n_funds"]})
+    _grow.sort(key=lambda r: r["gap"])
+    out.append('<h2 id="marksgap">Fund marks vs the tape</h2>')
+    if _grow:
+        _gaps = sorted(r["gap"] for r in _grow)
+        _gmed = _gaps[len(_gaps) // 2]
+        _nbelow = sum(1 for r in _grow if r["gap"] < -15)
+        _nabove = sum(1 for r in _grow if r["gap"] > 5)
+        out.append(
+            f'<p class="data-vintage">Latest stored print minus the '
+            f'fund median, points, n = {len(_grow)} bonds with both '
+            f'a print and a mark. Median gap {_gmed:+.2f}; '
+            f'{_nbelow} bonds print more than 15 points below the '
+            f'median; {_nabove} print more than 5 points above. The '
+            f'mark is the median of fund-reported prices across the '
+            f'full fund universe (SEC N-PORT), each dated at its own '
+            f'modal report-ending period; a gap mixes market '
+            f'repricing with the fund reporting lag.</p>')
+        _trs = []
+        for r in _grow:
+            _gcls = (' class="neg"' if r["gap"] <= -5 else
+                     (' class="pos"' if r["gap"] >= 5 else ""))
+            _trs.append(
+                "<tr>" + _ana_bond(r["cusip"])
+                + f'<td data-v="{r["print"]}">{r["print"]:.2f}</td>'
+                + f'<td data-v="{r["date"]}">'
+                  f'{_fmt_date(r["date"])}</td>'
+                + f'<td data-v="{r["median"]}">{r["median"]:.2f}</td>'
+                + f'<td data-v="{r["period_end"] or ""}">'
+                  f'{_fmt_date(r["period_end"])}</td>'
+                + f'<td{_gcls} data-v="{r["gap"]}">'
+                  f'{r["gap"]:+.2f}</td>'
+                + f'<td data-v="{r["funds"]}">{r["funds"]}</td>'
+                + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
+        out.append(_grid("ana-npgap", NP_GAP_COLS, _trs))
+        out.append('<p class="src">Sorted by gap, lowest first; '
+                   'select a column heading to re-sort.</p>')
+    else:
+        out.append('<p>No bond carries both a stored print and a '
+                   'fund median in the current panel.</p>')
+    # 9 coverage and concentration (Stage 2, 2026-10-20)
+    _cov = _np.get("coverage") or {}
+    _lq = _np.get("latest_quarter", "")
+    _lat = [(_c, _pb["latest"]) for _c, _pb in
+            (_np.get("bonds") or {}).items()
+            if _pb["latest"].get("quarter") == _lq]
+    out.append('<h2 id="coverage">Fund coverage and concentration</h2>')
+    out.append(
+        f'<p class="data-vintage">In the latest N-PORT archive '
+        f'({_lq}), funds report a priced position in '
+        f'{_cov.get("priced_latest", 0)} of '
+        f'{_cov.get("registry", 0)} registry bonds '
+        f'({_cov.get("priced_latest", 0) / max(_cov.get("registry", 1), 1) * 100:.0f}%), '
+        f'and a position of any kind in '
+        f'{_cov.get("held_latest", 0)}. '
+        f'{_cov.get("zero_holder", 0)} registry rows have no holder '
+        f'in the quarter; the bonds among them are listed on the '
+        f'<a href="/leverage/zero-holders/">zero-holder page</a>.</p>')
+    _conc = sorted(
+        ((_c, _L) for _c, _L in _lat
+         if _L.get("balance") and _L["balance"] >= 25_000_000
+         and _L.get("top1") is not None),
+        key=lambda x: -x[1]["top1"])[:12]
+    if _conc:
+        out.append('<h3>Most concentrated holdings</h3>')
+        out.append('<p class="data-vintage">Largest single-fund '
+                   'share of the reported balance; bonds with at '
+                   'least $25 million reported.</p>')
+        _trs = []
+        for _c, _L in _conc:
+            _trs.append(
+                "<tr>" + _ana_bond(_c)
+                + f'<td data-v="{_L["balance"]}">'
+                  f'${_L["balance"]:,.0f}</td>'
+                + f'<td data-v="{_L["top1"]}">'
+                  f'{_L["top1"] * 100:.1f}</td>'
+                + f'<td data-v="{_L["top5"]}">'
+                  f'{_L["top5"] * 100:.1f}</td>'
+                + f'<td data-v="{_L["n_funds"]}">{_L["n_funds"]}</td>'
+                + f'<td data-v="{_c}">{_c}</td></tr>')
+        out.append(_grid("ana-conc", NP_CONC_COLS, _trs))
+    _disp = sorted(
+        ((_c, _L) for _c, _L in _lat
+         if _L.get("n_funds", 0) >= 10 and _L.get("p10") is not None
+         and _L.get("p90") is not None),
+        key=lambda x: -(x[1]["p90"] - x[1]["p10"]))[:12]
+    if _disp:
+        out.append('<h3>Widest mark dispersion</h3>')
+        out.append('<p class="data-vintage">Widest p10 to p90 range '
+                   'of fund marks; bonds with at least ten funds '
+                   'reporting a priced position.</p>')
+        _trs = []
+        for _c, _L in _disp:
+            _trs.append(
+                "<tr>" + _ana_bond(_c)
+                + f'<td data-v="{_L["median"]}">{_L["median"]:.2f}</td>'
+                + f'<td data-v="{_L["p10"]}">{_L["p10"]:.2f}</td>'
+                + f'<td data-v="{_L["p90"]}">{_L["p90"]:.2f}</td>'
+                + f'<td data-v="{_L["p90"] - _L["p10"]}">'
+                  f'{_L["p90"] - _L["p10"]:.2f}</td>'
+                + f'<td data-v="{_L["n_funds"]}">{_L["n_funds"]}</td>'
+                + f'<td data-v="{_c}">{_c}</td></tr>')
+        out.append(_grid("ana-disp2", NP_DISP_COLS, _trs))
     out.append('<h2 id="sources">Sources and coverage</h2>')
     out.append(
         f'<p>Trades: FINRA TRACE via the public lookup, collected '
@@ -2764,11 +2924,11 @@ def bond_pages():
                           [f"{_fmt_date(last_trade[1])}, "
                            f"{last_trade[2][:5]} ET"]))
         if latest_mark:
-            items.append(("Fund mark",
+            items.append(("Fund mark (median)",
                           f"{latest_mark[0]:.2f}",
                           [f"Period ended "
                            f"{_fmt_date(latest_mark[1])}",
-                           f"{latest_mark[2]} funds reporting"]))
+                           f"Median of {latest_mark[2]} fund marks"]))
         if last_trade and latest_mark:
             items.append(("Gap to fund mark",
                           f"{last_trade[0] - latest_mark[0]:+.2f} pts",
@@ -2823,6 +2983,141 @@ def bond_pages():
                     f"{_fmt_date(last_trade[1])}, {_lag} days later. The gap "
                     f"mixes market repricing with the fund reporting lag; it "
                     f"is not a same-day comparison.</p>\n")
+        # Fund marks and holders blocks (Stage 2, 2026-10-20): every
+        # figure from the N-PORT full-universe panel, each mark dated
+        # at its own modal report-ending period. The Marks block
+        # renders only where a priced mark exists; the Holders block
+        # only where a fund position is on record. The print-to-mark
+        # gap lives in the Price strip above (one fact, one home).
+        _np = _nport_panel()
+        _npb = (_np.get("bonds") or {}).get(cusip)
+        _np_held = (_np.get("held_latest") or {}).get(cusip)
+        _np_unpriced = {u["cusip"]: u for u in
+                        (_np.get("coverage") or {}).get(
+                            "held_unpriced") or []}
+        marks_block = ""
+        holders_block = ""
+        if _npb:
+            _L = _npb["latest"]
+            _pv = _npb.get("prev")
+            _mi = [("Fund mark (median)", f"{_L['median']:.2f}",
+                    [f"Period ended {_fmt_date(_L['period_end'])}"
+                     + (" (modal)" if _L.get("period_modal") else ""),
+                     f"Median of {_L['n_funds']} fund marks"])]
+            if _L.get("p10") is not None and _L.get("p90") is not None:
+                _mi.append(("Range, p10 to p90",
+                            f"{_L['p10']:.2f} to {_L['p90']:.2f}", []))
+            if _L.get("vw") is not None:
+                _mi.append(("Value-weighted mean",
+                            f"{_L['vw']:.2f}", []))
+            if _pv and _pv.get("median") is not None:
+                _mi.append((
+                    "Change vs prior quarter",
+                    f"{_L['median'] - _pv['median']:+.2f} pts",
+                    [f"Prior median {_pv['median']:.2f}, period ended "
+                     f"{_fmt_date(_pv['period_end'])}"]))
+            _fv = _L.get("fv")
+            if _fv:
+                _mix = ", ".join(
+                    f"Level {i + 1} {_fv[k] * 100:.0f}%"
+                    for i, k in enumerate(("fv1", "fv2", "fv3"))
+                    if _fv.get(k) and _fv[k] >= 0.005)
+                if _mix:
+                    _mi.append(("Fair value basis", _mix,
+                                ["Share of reported balance by "
+                                 "fair-value level"]))
+            if _L.get("onloan_share") and _L["onloan_share"] >= 0.005:
+                _mi.append(("Reported on loan",
+                            f"{_L['onloan_share'] * 100:.0f}%",
+                            ["Share of the reported balance funds "
+                             "report as loaned out"]))
+            marks_block = (
+                "<h2>Fund marks</h2>\n"
+                '<dl class="bw-summary">\n' + "".join(
+                    f"<div class=\"bw-sum-item\"><dt>{k}</dt>"
+                    f"<dd>{v}</dd>"
+                    + "".join(f"<dd class=\"bw-sum-sub\">{s}</dd>"
+                              for s in subs) + "</div>\n"
+                    for k, v, subs in _mi) + "</dl>\n"
+                "<p class=\"data-vintage\">Median of fund-reported "
+                "marks: the middle fund-reported price per 100 of "
+                "principal across every fund reporting a priced "
+                "position in this bond, from SEC Form N-PORT filings. "
+                "The period shown is the most common report-ending "
+                "date among the bond's reporting funds that quarter; "
+                "funds file about 60 days after period end, so the "
+                "mark lags the market.</p>\n")
+            _hn = _L.get("n_funds_any") or _L["n_funds"]
+            _hi = [("Funds reporting a position", f"{_hn}",
+                    [f"Of which {_L['n_funds']} report a priced "
+                     "position"] if _hn != _L["n_funds"] else []),
+                   ("Reported principal balance",
+                    f"${_L['balance']:,.0f}",
+                    [f"Period ended {_fmt_date(_L['period_end'])}"])]
+            if _L.get("top1") is not None:
+                _hi.append(("Largest holder share",
+                            f"{_L['top1'] * 100:.1f}%", []))
+            if _L.get("top5") is not None:
+                _hi.append(("Top five holders share",
+                            f"{_L['top5'] * 100:.1f}%", []))
+            holders_block = (
+                "<h2>Holders</h2>\n"
+                '<dl class="bw-summary">\n' + "".join(
+                    f"<div class=\"bw-sum-item\"><dt>{k}</dt>"
+                    f"<dd>{v}</dd>"
+                    + "".join(f"<dd class=\"bw-sum-sub\">{s}</dd>"
+                              for s in subs) + "</div>\n"
+                    for k, v, subs in _hi) + "</dl>\n")
+            if _pv:
+                _bd = ((_L["balance"] - _pv["balance"])
+                       / _pv["balance"] * 100.0
+                       if _pv.get("balance") else None)
+                _qoq = (f"Quarter over quarter: funds reporting "
+                        f"{_pv['n_funds']} to {_L['n_funds']}")
+                if _bd is not None:
+                    _qoq += (f"; reported balance {_bd:+.1f}%")
+                holders_block += (f"<p class=\"data-vintage\">"
+                                  f"{_qoq}.</p>\n")
+            if _L["balance"] and _L["balance"] >= 10_000_000 \
+                    and _npb.get("holders"):
+                _hrows = "".join(
+                    f"<tr><td>{esc(h['fund'])}</td>"
+                    f"<td class=\"num\" data-v=\"{h['balance']}\">"
+                    f"${h['balance']:,.0f}</td>"
+                    f"<td class=\"num\" "
+                    f"data-v=\"{h['share'] or 0}\">"
+                    f"{h['share'] * 100:.1f}%</td></tr>"
+                    for h in _npb["holders"][:5])
+                holders_block += (
+                    "<h3>Largest holders</h3>\n"
+                    + _grid("holders", HOLDER_COLS, _hrows,
+                            sortable=False)
+                    + "<p class=\"data-vintage\">The five largest "
+                      "fund positions at the period end, by reported "
+                      "principal balance. A position is a holding at "
+                      "the report date, not trading activity."
+                    + _reset_btn("holders") + "</p>\n")
+            if _np_held and _np_held["quarter"] != _L["quarter"]:
+                holders_block += (
+                    f"<p class=\"data-vintage\">Funds also report "
+                    f"holding this bond in the latest quarter's "
+                    f"filings ({_np_held['n_funds_any']} funds), "
+                    f"with no priced position that quarter; no mark "
+                    f"or balance is shown for that quarter.</p>\n")
+        elif _np_held:
+            _u = _np_unpriced.get(cusip) or {}
+            holders_block = (
+                "<h2>Holders</h2>\n"
+                '<dl class="bw-summary">\n'
+                f"<div class=\"bw-sum-item\"><dt>Funds reporting a "
+                f"position</dt><dd>{_np_held['n_funds_any']}</dd>"
+                f"<dd class=\"bw-sum-sub\">Latest filings, "
+                f"{_np_held['quarter']}</dd></div>\n</dl>\n"
+                "<p class=\"data-vintage\">Positions in this bond "
+                "are reported in units other than principal (units: "
+                + ", ".join(_u.get("units") or ["not stated"])
+                + "), so no principal balance and no fund mark are "
+                "published for it.</p>\n")
         # charts: price and yield
         mark_prices = [(m[0], m[1]) for m in marks]
         trade_prices = [(t[0], t[2]) for t in trades]
@@ -3121,6 +3416,7 @@ def bond_pages():
             f"Trades to {_fmt_date(tape_stamp)}; fund marks to "
             f"{_fmt_date(marks[-1][0]) if marks else 'n/a'}")
         body += (navrow + _nav2 + identity + price_block + warn
+                 + marks_block + holders_block
                  + chart + flow_html + tape_html
                  + funds_html + terms + ratings_block + comp_html
                  + "<p class=\"data-vintage\">Sources: FINRA TRACE via the "
@@ -3131,6 +3427,8 @@ def bond_pages():
                    "into account and treats conditional convertible "
                    "redemption as not certain.</p>\n")
         body += DETAIL_JS
+        if 'data-tid="holders"' in holders_block:
+            body += TABLE_ENGINE_JS
         if trades or marks:
             body += ('<script src="/js/echarts.min.js" defer></script>\n'
                      '<script src="/js/bond_chart.js" defer></script>\n')
@@ -3138,6 +3436,56 @@ def bond_pages():
             f.write(body)
         n += 1
     return n
+
+
+def zero_holders_page():
+    """Bonds with no fund holders in the latest N-PORT archive
+    (Stage 2, 2026-10-20). The panel's zero-holder list carries 154
+    registry rows; three are placeholders (N/A, 000000000, 999999999),
+    not bonds, and are accounted for in the intro, not the table."""
+    import re as _re
+    np_ = _nport_panel()
+    cov = np_.get("coverage") or {}
+    lq = np_.get("latest_quarter", "")
+    rows_all = np_.get("zero_holders") or []
+    bonds = [z for z in rows_all
+             if _re.fullmatch(r"[A-Z0-9]{9}", z["cusip"] or "")
+             and z["cusip"] not in ("000000000", "999999999")]
+    n_ph = len(rows_all) - len(bonds)
+    body = frontmatter(
+        "Bonds with no fund holders",
+        "Registry bonds no fund reported holding in the latest "
+        "N-PORT filings.",
+        f"Fund holdings from the {lq} N-PORT archive")
+    body += (
+        f"<p>In the {lq} N-PORT archive, funds report a position in "
+        f"{cov.get('held_latest', 0)} of {cov.get('registry', 0)} "
+        f"registry bonds. The {len(bonds)} bonds below have no "
+        f"holding rows in that quarter's filings at all, so no fund "
+        f"mark exists for them; their pages carry trades and terms "
+        f"only. A bond can leave this list in a later quarter if a "
+        f"fund reports a position.</p>\n")
+    if n_ph:
+        body += (
+            f"<p class=\"data-vintage\">{n_ph} further registry "
+            f"rows are placeholders (N/A, 000000000, 999999999): not "
+            f"bonds, and without holders by construction. Counting "
+            f"them, {len(rows_all)} registry rows have no holder in "
+            f"the quarter.</p>\n")
+    trs = []
+    for z in bonds:
+        trs.append(
+            "<tr>" + _ana_bond(z["cusip"])
+            + f'<td data-v="{esc(z["deal"])}">{esc(z["deal"])}</td>'
+            + f'<td data-v="{z["cusip"]}">{z["cusip"]}</td></tr>')
+    body += _grid("zero-holders", NP_ZERO_COLS, trs)
+    body += (
+        "<p class=\"data-vintage\">Source: SEC Form N-PORT, full "
+        "fund universe, joined to the bond registry by Kilambi "
+        "Research. Holdings are positions at fund report period "
+        "ends in the quarter's filings, not trading activity.</p>\n")
+    body += TABLE_ENGINE_JS
+    return body
 
 
 def main():
@@ -3155,6 +3503,9 @@ def main():
     with open(os.path.join(lev_out, "bond-analytics.md"), "w") as f:
         f.write(bond_analytics_page())
     print("wrote leverage/bond-analytics.md")
+    with open(os.path.join(lev_out, "zero-holders.md"), "w") as f:
+        f.write(zero_holders_page())
+    print("wrote leverage/zero-holders.md")
     with open(os.path.join(lev_out, "activity.md"), "w") as f:
         f.write(activity_page())
     print("wrote leverage/activity.md")
