@@ -60,6 +60,48 @@ import sys
 
 import duckdb
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from table_engine import TABLE_ENGINE_JS, bw_open, reset_btn
+
+# Adjustable-table column specs for the CMBS tables: (label,
+# default px, min px[, numeric]). Defaults reproduce the layout
+# the tables rendered with before adjustability (measured on the
+# live pages, 2026-10-20); the shared engine in table_engine.py
+# supplies resize / sort / persistence with these as defaults.
+LOAN_COLS = [("Loan", 340, 180), ("Location", 150, 90),
+             ("Property type", 130, 90),
+             ("Current balance", 128, 92, True),
+             ("Share of pool", 96, 76, True), ("Status", 130, 92),
+             ("DSCR", 84, 64, True), ("Occupancy", 96, 76, True),
+             ("Rate", 76, 60, True), ("Maturity", 100, 84, True),
+             ("Notes", 260, 140)]
+LADDER_COLS = [("Payment status", 240, 140), ("Loans", 76, 60),
+               ("Balance", 110, 84), ("Share of coded balance", 150, 110),
+               ("Balance change", 190, 130)]
+PTYPE_COLS = [("Property type", 200, 120), ("Loans", 76, 60),
+              ("Balance", 110, 84), ("Share", 76, 60),
+              ("30+ delinquent", 120, 92), ("30+ incl. FC/REO", 128, 92),
+              ("Specially serviced", 140, 100)]
+INDEX_COLS = [("Deal", 420, 180), ("Shelf", 210, 120),
+              ("Vintage", 76, 64, True),
+              ("Current balance", 128, 92, True),
+              ("Loans", 76, 60, True), ("30+ delinquent", 120, 92, True),
+              ("Specially serviced", 140, 100, True),
+              ("Distress", 110, 84, True), ("Median DSCR", 110, 84, True),
+              ("Maturing in 24 months", 150, 110, True),
+              ("Ever severe", 120, 92, True),
+              ("Realized stress score", 150, 110, True),
+              ("Net rating change", 130, 100, True),
+              ("Largest property type", 180, 120)]
+STACK_COLS_BASE = [("Class", 84, 56), ("Original balance", 128, 84)]
+STACK_COLS_CUR = [("Current balance", 128, 84), ("Factor", 76, 60)]
+STACK_COLS_MID = [("Credit support at issuance", 132, 92)]
+STACK_COLS_CUR2 = [("Credit support (current)", 132, 92)]
+STACK_COLS_TAIL = [("Coupon", 168, 110), ("CUSIP", 96, 84),
+                   ("Expected maturity", 112, 92),
+                   ("Legal final", 112, 92)]
+AGENCY_COL_SPEC = (92, 68)
+
 SITE = os.path.expanduser("~/workspace/news-site")
 DEFAULT_DB = os.path.expanduser("~/workspace/merged-db/merged.duckdb")
 OUT = os.path.join(SITE, "content", "cmbs")
@@ -1653,12 +1695,14 @@ def main():
         f'<td class="num">100.0%</td>'
         f'<td class="num">{"+" if _c9 - _c8 > 0 else ""}{money(_c9 - _c8)}</td></tr>')
     ladder_table = (
-        '<div class="market-table-scroll"><table class="market-table">'
-        "<thead><tr><th>Payment status</th><th>Loans</th>"
-        "<th>Balance</th><th>Share of coded balance</th>"
-        f"<th>Balance change vs {month_label(prev_month)}</th>"
-        "</tr></thead><tbody>" + "".join(lad_rows)
-        + "</tbody></table></div>")
+        '<div class="market-table-scroll">'
+        + bw_open("cmbs-market-ladder",
+                  LADDER_COLS[:-1]
+                  + [(f"Balance change vs {month_label(prev_month)}",
+                      190, 130)])
+        + "<tbody>" + "".join(lad_rows)
+        + "</tbody></table></div>"
+        + f"<p>{reset_btn('cmbs-market-ladder')}</p>")
 
     # ---- delinquency flows between the last two months
     flow = con.execute("""
@@ -1809,11 +1853,10 @@ def main():
             f'<td class="num">{pct_frac(ssb / bal if ssb else 0)}</td>'
             "</tr>")
     pt_table = (
-        '<div class="market-table-scroll"><table class="market-table">'
-        "<thead><tr><th>Property type</th><th>Loans</th>"
-        "<th>Balance</th><th>Share</th><th>30+ delinquent</th>"
-        "<th>30+ incl. FC/REO</th><th>Specially serviced</th></tr>"
-        "</thead><tbody>" + "".join(pt_trs) + "</tbody></table></div>")
+        '<div class="market-table-scroll">'
+        + bw_open("cmbs-market-ptype", PTYPE_COLS)
+        + "<tbody>" + "".join(pt_trs) + "</tbody></table></div>"
+        + f"<p>{reset_btn('cmbs-market-ptype')}</p>")
 
     # property-type delinquency trend for the largest types
     pt_trend_rows = con.execute("""
@@ -2308,7 +2351,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         + '<p><a href="/cmbs/deals/">Deal index</a> / '
           '<a href="/cmbs/rankings/">Rankings</a> / '
           '<a href="/cmbs/changes/">Monthly changes</a></p>'
-        + methods + methods2)
+        + methods + methods2 + TABLE_ENGINE_JS)
     with open(os.path.join(args.out, "_index.md"), "w") as fh:
         fh.write(frontmatter(
             "CMBS market",
@@ -2435,9 +2478,19 @@ republished. They do not yet update on a daily cycle.</p>"""
     el.addEventListener('change', apply);
   });
   tx.addEventListener('input', apply);
+  var _sx = 0, _sy = 0, _dragT = 0, _down = false;
+  document.addEventListener('pointerdown', function(e){
+    _down = true; _sx = e.clientX; _sy = e.clientY; });
+  document.addEventListener('pointerup', function(){
+    _down = false; });
+  document.addEventListener('pointermove', function(e){
+    if (_down && Math.abs(e.clientX - _sx)
+        + Math.abs(e.clientY - _sy) > 6)
+      _dragT = Date.now(); });
   tbl.querySelectorAll(':scope > thead > tr > th').forEach(function(th, i){
     th.style.cursor = 'pointer';
     th.addEventListener('click', function(){
+      if (Date.now() - _dragT < 300) return;
       var asc = th.getAttribute('data-asc') !== '1';
       th.setAttribute('data-asc', asc ? '1' : '0');
       var rows = Array.prototype.slice.call(
@@ -2459,27 +2512,6 @@ republished. They do not yet update on a daily cycle.</p>"""
       rows.forEach(function(r){ tb.appendChild(r); });
     });
   });
-  document.getElementById('csv-export').addEventListener('click',
-    function(){
-      var head = Array.prototype.map.call(
-        tbl.querySelectorAll(':scope > thead > tr > th'),
-        function(th){ return th.textContent.trim(); });
-      function cell(v){
-        return '"' + String(v).replace(/"/g, '""') + '"';
-      }
-      var lines = [head.map(cell).join(',')];
-      visibleRows().forEach(function(r){
-        var cells = Array.prototype.map.call(r.children,
-          function(td){ return td.textContent.trim(); });
-        lines.push(cells.map(cell).join(','));
-      });
-      var blob = new Blob([lines.join('\\n')], {type: 'text/csv'});
-      var a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = 'cmbs-deal-index.csv';
-      a.click();
-      URL.revokeObjectURL(a.href);
-    });
 })();
 </script>"""
     idx_body = (
@@ -2488,8 +2520,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         f"than one CIK, its filing units are combined on a single "
         f"page; the filing sources note on the page lists them. "
         f"Click a column heading to sort. Filter by closing year, "
-        f"shelf, delinquency band, coverage band, or deal name; the "
-        f"export button downloads the filtered table as a CSV file. "
+        f"shelf, delinquency band, coverage band, or deal name. "
         f"Specially serviced and distress shares, median DSCR and "
         f"the maturing share are as of each deal's latest reported "
         f"month. Definitions are in the methods note on the "
@@ -2514,24 +2545,14 @@ republished. They do not yet update on a daily cycle.</p>"""
         '<option value="1.25-1.5">1.25 to 1.50</option>'
         '<option value="gt1.5">Over 1.50</option></select></label> '
         '<label>Deal name <input type="text" id="f-text" '
-        'size="18"></label> '
-        '<button type="button" id="csv-export">Export CSV</button>'
-        "</p>"
-        '<div class="market-table-scroll"><table class="market-table" '
-        'id="cmbs-index"><thead><tr><th>Deal</th><th>Shelf</th>'
-        '<th data-num="1">Vintage</th><th data-num="1">Current '
-        'balance</th><th data-num="1">Loans</th>'
-        '<th data-num="1">30+ delinquent</th>'
-        '<th data-num="1">Specially serviced</th>'
-        '<th data-num="1">Distress</th>'
-        '<th data-num="1">Median DSCR</th>'
-        '<th data-num="1">Maturing in 24 months</th>'
-        '<th data-num="1">Ever severe</th>'
-        '<th data-num="1">Realized stress score</th>'
-        '<th data-num="1">Net rating change</th>'
-        "<th>Largest property type</th></tr></thead><tbody>"
+        'size="18"></label>'
+        + reset_btn("cmbs-index")
+        + "</p>"
+        '<div class="market-table-scroll">'
+        + bw_open("cmbs-index", INDEX_COLS, id_attr="cmbs-index")
+        + "<tbody>"
         + "".join(idx_rows) + "</tbody></table></div>"
-        + idx_script)
+        + idx_script + TABLE_ENGINE_JS)
     with open(os.path.join(args.out, "deals.md"), "w") as fh:
         fh.write(frontmatter(
             "CMBS deal index",
@@ -2540,13 +2561,13 @@ republished. They do not yet update on a daily cycle.</p>"""
             data_as_of, today) + idx_body + "\n")
 
     # ========================================================== rankings
-    def rank_table(title, rows, cols):
-        head = "".join(f"<th>{esc(c)}</th>" for c in cols)
+    def rank_table(tid, title, rows, cols):
         return (f"<h2>{esc(title)}</h2>"
-                '<div class="market-table-scroll"><table '
-                'class="market-table"><thead><tr>' + head
-                + "</tr></thead><tbody>" + "".join(rows)
-                + "</tbody></table></div>")
+                '<div class="market-table-scroll">'
+                + bw_open(tid, cols, engine_sort=True)
+                + "<tbody>" + "".join(rows)
+                + "</tbody></table></div>"
+                + f"<p>{reset_btn(tid)}</p>")
 
     def deal_link(d):
         return (f'<a href="/cmbs/deal/{d["slug"]}/">'
@@ -2561,23 +2582,30 @@ republished. They do not yet update on a daily cycle.</p>"""
             f'<td class="num">{num(d["stress_score"], 1)}</td>'
             f'<td class="num">{pct_frac(d["dq30_now"])}</td>'
             f'<td class="num">{pct_frac(d["ever_severe_bal_share"])}</td>'
-            f'<td class="num">{money(d["cur_bal"])}</td></tr>'
+            f'<td class="num" data-v="{d["cur_bal"]}">'
+            f'{money(d["cur_bal"])}</td></tr>'
             for i, d in enumerate(by_stress, 1)]
-    rk = rank_table("Highest realized stress score", rows,
-                    ["Rank", "Deal", "Realized stress score",
-                     "30+ delinquent (latest)", "Ever severe",
-                     "Current balance"])
+    rk = rank_table(
+        "cmbs-rank-stress", "Highest realized stress score", rows,
+        [("Rank", 56, 44), ("Deal", 400, 180),
+         ("Realized stress score", 140, 100),
+         ("30+ delinquent (latest)", 150, 110),
+         ("Ever severe", 110, 84), ("Current balance", 128, 92)])
     by_size = sorted([d for d in rankable if d["cur_bal"]],
                      key=lambda x: (-x["cur_bal"], x["trust_name"],
                                     x["cik"]))[:25]
     rows = [f'<tr><td class="num">{i}</td><td>{deal_link(d)}</td>'
-            f'<td class="num">{money(d["cur_bal"])}</td>'
-            f'<td class="num">{num(d["n_loans"], 0)}</td>'
+            f'<td class="num" data-v="{d["cur_bal"]}">'
+            f'{money(d["cur_bal"])}</td>'
+            f'<td class="num" data-v="{d["n_loans"]}">'
+            f'{num(d["n_loans"], 0)}</td>'
             f'<td class="num">{d["vintage"] or NYR}</td></tr>'
             for i, d in enumerate(by_size, 1)]
-    rk += rank_table("Largest current balance", rows,
-                     ["Rank", "Deal", "Current balance", "Loans",
-                      "Vintage"])
+    rk += rank_table(
+        "cmbs-rank-size", "Largest current balance", rows,
+        [("Rank", 56, 44), ("Deal", 420, 180),
+         ("Current balance", 128, 92), ("Loans", 76, 60),
+         ("Vintage", 84, 64)])
     by_mod = sorted([d for d in rankable
                      if d["ever_mod_bal_share"] is not None],
                     key=lambda x: (-x["ever_mod_bal_share"],
@@ -2585,25 +2613,36 @@ republished. They do not yet update on a daily cycle.</p>"""
     rows = [f'<tr><td class="num">{i}</td><td>{deal_link(d)}</td>'
             f'<td class="num">{pct_frac(d["ever_mod_bal_share"], 1)}</td>'
             f'<td class="num">{pct_frac(d["ever_severe_bal_share"])}</td>'
-            f'<td class="num">{money(d["cur_bal"])}</td></tr>'
+            f'<td class="num" data-v="{d["cur_bal"]}">'
+            f'{money(d["cur_bal"])}</td></tr>'
             for i, d in enumerate(by_mod, 1)]
-    rk += rank_table("Largest share of balance ever modified", rows,
-                     ["Rank", "Deal", "Ever modified", "Ever severe",
-                      "Current balance"])
+    rk += rank_table(
+        "cmbs-rank-mod", "Largest share of balance ever modified",
+        rows,
+        [("Rank", 56, 44), ("Deal", 420, 180),
+         ("Ever modified", 120, 92), ("Ever severe", 110, 84),
+         ("Current balance", 128, 92)])
     lagged = [(deal_by_key[k], v) for k, v in lag_map.items()
               if v["lag"] is not None and k in published_keys
               and not deal_by_key[k]["identity_mismatch"]]
     lagged.sort(key=lambda x: (-x[1]["lag"], x[0]["trust_name"],
                                x[0]["cik"]))
+    def _mv(x):
+        return x.isoformat() if hasattr(x, "isoformat") else str(x)
+
     rows = [f'<tr><td class="num">{i}</td><td>{deal_link(d)}</td>'
             f'<td class="num">{v["lag"]}</td>'
-            f"<td>{esc(month_label(v['crossing']))}</td>"
-            f"<td>{esc(month_label(v['first_dg']))}</td></tr>"
+            f'<td data-v="{_mv(v["crossing"])}">'
+            f'{esc(month_label(v["crossing"]))}</td>'
+            f'<td data-v="{_mv(v["first_dg"])}">'
+            f'{esc(month_label(v["first_dg"]))}</td></tr>'
             for i, (d, v) in enumerate(lagged[:25], 1)]
-    rk += rank_table("Longest wait for a first downgrade", rows,
-                     ["Rank", "Deal", "Months to first downgrade",
-                      "Delinquency threshold crossed",
-                      "First downgrade"])
+    rk += rank_table(
+        "cmbs-rank-lag", "Longest wait for a first downgrade", rows,
+        [("Rank", 56, 44), ("Deal", 400, 180),
+         ("Months to first downgrade", 170, 120),
+         ("Delinquency threshold crossed", 170, 120),
+         ("First downgrade", 130, 100)])
     rk += (f"<p>The wait is measured in months from the month a deal's "
            f"30+ delinquency share first reached the top range for its "
            f"cohort to the first month any of its classes was "
@@ -2618,7 +2657,7 @@ republished. They do not yet update on a daily cycle.</p>"""
             "CMBS rankings",
             "Deal rankings by realized stress, current balance, "
             "modifications, and the wait for a first downgrade.",
-            data_as_of, today) + rk + "\n")
+            data_as_of, today) + rk + "\n" + TABLE_ENGINE_JS + "\n")
 
     with open(os.path.join(args.out, "deal", "_index.md"), "w") as fh:
         fh.write('---\ntitle: "CMBS deals"\n---\n\n'
@@ -2714,11 +2753,21 @@ republished. They do not yet update on a daily cycle.</p>"""
 
     TABLE_SCRIPT = """<script>
 (function(){
+  var _sx = 0, _sy = 0, _dragT = 0, _down = false;
+  document.addEventListener('pointerdown', function(e){
+    _down = true; _sx = e.clientX; _sy = e.clientY; });
+  document.addEventListener('pointerup', function(){
+    _down = false; });
+  document.addEventListener('pointermove', function(e){
+    if (_down && Math.abs(e.clientX - _sx)
+        + Math.abs(e.clientY - _sy) > 6)
+      _dragT = Date.now(); });
   document.querySelectorAll('table.js-sortable').forEach(function(tbl){
     tbl.querySelectorAll(':scope > thead > tr > th').forEach(
       function(th, i){
         th.style.cursor = 'pointer';
         th.addEventListener('click', function(){
+          if (Date.now() - _dragT < 300) return;
           var asc = th.getAttribute('data-asc') !== '1';
           th.setAttribute('data-asc', asc ? '1' : '0');
           var rows = Array.prototype.slice.call(
@@ -2740,27 +2789,6 @@ republished. They do not yet update on a daily cycle.</p>"""
           rows.forEach(function(r){ tb.appendChild(r); });
         });
       });
-  });
-  document.querySelectorAll('button.js-csv').forEach(function(btn){
-    btn.addEventListener('click', function(){
-      var tbl = document.getElementById(btn.getAttribute('data-t'));
-      function cell(v){ return '"' + String(v).replace(/"/g, '""') + '"'; }
-      var head = Array.prototype.map.call(
-        tbl.querySelectorAll(':scope > thead > tr > th'),
-        function(th){ return th.textContent.trim(); });
-      var lines = [head.map(cell).join(',')];
-      tbl.querySelectorAll(':scope > tbody > tr').forEach(function(r){
-        var cells = Array.prototype.map.call(r.children,
-          function(td){ return td.textContent.trim(); });
-        lines.push(cells.map(cell).join(','));
-      });
-      var blob = new Blob([lines.join('\\n')], {type: 'text/csv'});
-      var a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = btn.getAttribute('data-name') || 'table.csv';
-      a.click();
-      URL.revokeObjectURL(a.href);
-    });
   });
 })();
 </script>"""
@@ -2881,21 +2909,12 @@ republished. They do not yet update on a daily cycle.</p>"""
                 f'<td class="num">{m.isoformat() if m else NYR}</td>'
                 f"<td>{esc('; '.join(notes))}</td></tr>")
         table = (
-            '<p><button type="button" class="js-csv" '
-            f'data-t="loan-table-{d["slug"]}" '
-            f'data-name="{d["slug"]}-loans.csv">Export loan table '
-            "as CSV</button></p>"
-            '<div class="market-table-scroll"><table '
-            'class="market-table js-sortable" '
-            f'id="loan-table-{d["slug"]}"><thead><tr><th>Loan</th>'
-            "<th>Location</th><th>Property type</th>"
-            '<th data-num="1">Current balance</th>'
-            '<th data-num="1">Share of pool</th><th>Status</th>'
-            '<th data-num="1">DSCR</th>'
-            '<th data-num="1">Occupancy</th>'
-            '<th data-num="1">Rate</th>'
-            '<th data-num="1">Maturity</th><th>Notes</th></tr>'
-            "</thead><tbody>" + "".join(rows) + "</tbody></table>"
+            "<p>" + reset_btn("cmbs-loans") + "</p>"
+            '<div class="market-table-scroll">'
+            + bw_open("cmbs-loans", LOAN_COLS,
+                      extra_cls="js-sortable",
+                      id_attr=f'loan-table-{d["slug"]}')
+            + "<tbody>" + "".join(rows) + "</tbody></table>"
             "</div>")
         return table
 
@@ -3362,20 +3381,21 @@ republished. They do not yet update on a daily cycle.</p>"""
                         cell += f"<br>{esc(extra)}"
                     cells.append(f"<td>{cell}</td>")
                 trows.append("<tr>" + "".join(cells) + "</tr>")
-            ag_head = "".join(f"<th>{l}</th>" for _a, l in AGENCIES)
-            _cur_head = ("<th>Current balance</th><th>Factor</th>"
-                         if cs_deal_here is not None else "")
-            _cur_head2 = ("<th>Credit support (current)</th>"
-                          if cs_deal_here is not None else "")
+            _stack_cols = list(STACK_COLS_BASE)
+            if cs_deal_here is not None:
+                _stack_cols += STACK_COLS_CUR
+            _stack_cols += STACK_COLS_MID
+            if cs_deal_here is not None:
+                _stack_cols += STACK_COLS_CUR2
+            _stack_cols += STACK_COLS_TAIL
+            _stack_cols += [(l, AGENCY_COL_SPEC[0], AGENCY_COL_SPEC[1])
+                            for _a, l in AGENCIES]
             parts.append(
-                '<div class="market-table-scroll"><table '
-                'class="market-table"><thead><tr><th>Class</th>'
-                "<th>Original balance</th>" + _cur_head +
-                "<th>Credit support at issuance</th>" + _cur_head2 +
-                "<th>Coupon</th>"
-                f"<th>CUSIP</th><th>Expected maturity</th>"
-                f"<th>Legal final</th>{ag_head}</tr></thead><tbody>"
-                + "".join(trows) + "</tbody></table></div>")
+                '<div class="market-table-scroll">'
+                + bw_open("cmbs-stack", _stack_cols)
+                + "<tbody>"
+                + "".join(trows) + "</tbody></table></div>"
+                + f"<p>{reset_btn('cmbs-stack')}</p>")
             _fn = ('<p class="data-vintage">Credit support at '
                    "issuance is computed from original balances: the "
                    "share of the deal's principal balance in classes "
@@ -3696,6 +3716,7 @@ republished. They do not yet update on a daily cycle.</p>"""
                       'on the <a href="/cmbs/">market page</a>.</p>')
         parts.append(_src_line)
         parts.append(TABLE_SCRIPT)
+        parts.append(TABLE_ENGINE_JS)
 
         lede = (f"Current collateral, loans, tranches and ratings "
                 f"for {d['trust_name']}.")
@@ -3745,18 +3766,6 @@ republished. They do not yet update on a daily cycle.</p>"""
     os.makedirs(os.path.join(args.out, "deal-ratings"), exist_ok=True)
     os.makedirs(os.path.join(args.out, "deal-loans"), exist_ok=True)
     os.makedirs(os.path.join(args.out, "loan"), exist_ok=True)
-    _data_dir = os.path.join(SITE, "static", "cmbs-data")
-    os.makedirs(_data_dir, exist_ok=True)
-
-    def write_csv(name, header, rows):
-        import csv as _csv
-        path = os.path.join(_data_dir, name)
-        with open(path, "w", newline="") as fh:
-            w = _csv.writer(fh)
-            w.writerow(header)
-            w.writerows(rows)
-        return f"/cmbs-data/{name}"
-
     # ------------------------------------------------ rating history
     n_ratings_pages = 0
     for d in published:
@@ -4352,8 +4361,8 @@ republished. They do not yet update on a daily cycle.</p>"""
         return (f'<a href="{loan_url(dd, (pk, str(asset)), asset)}">'
                 f'{esc(loan_name(l, vd))}</a>')
 
-    def change_block(title, intro, header, rows_html, csv_name,
-                     csv_header, csv_rows, balance_note=True):
+    def change_block(title, intro, header, rows_html,
+                     balance_note=True):
         out = [f"<h2>{esc(title)}</h2>"]
         out.append(f"<p>{intro}</p>")
         if not rows_html:
@@ -4368,12 +4377,9 @@ republished. They do not yet update on a daily cycle.</p>"""
             + "</tr></thead><tbody>" + "".join(shown)
             + "</tbody></table></div>")
         if len(rows_html) > 100:
-            url = write_csv(csv_name, csv_header, csv_rows)
             out.append(
                 f'<p class="data-vintage">Showing the 100 largest '
-                f"by balance of {len(rows_html):,} entries. The "
-                f'full list is available as a CSV file: '
-                f'<a href="{url}">{esc(csv_name)}</a>.</p>')
+                f"by balance of {len(rows_html):,} entries.</p>")
         return "".join(out)
 
     # newly delinquent
@@ -4626,16 +4632,13 @@ republished. They do not yet update on a daily cycle.</p>"""
         f"delinquent in {month_label(P0)}, including loans "
         f"reporting for the first time.",
         ["Loan", "Deal", "Status", "Balance"],
-        [h for _b, h in nd_rows], f"changes-newly-delinquent-{ym}.csv",
-        ["Loan", "Deal", "Status", "Balance"], nd_csv))
+        [h for _b, h in nd_rows]))
     ch_parts.append(change_block(
         "Newly transferred to special servicing",
         f"Loans whose filings record a transfer to the special "
         f"servicer dated in {month_label(P)}.",
         ["Loan", "Deal", "Transfer date", "Balance"],
-        [h for _b, h in nss_rows],
-        f"changes-newly-special-{ym}.csv",
-        ["Loan", "Deal", "Transfer date", "Balance"], nss_csv))
+        [h for _b, h in nss_rows]))
     ch_parts.append(change_block(
         "New modifications",
         f"Modifications dated in {month_label(P)} in the "
@@ -4643,9 +4646,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         f"where the filings report them.",
         ["Loan", "Deal", "Modification date", "Terms after",
          "Balance"],
-        [h for _b, h in nm_rows], f"changes-modifications-{ym}.csv",
-        ["Loan", "Deal", "Modification date", "Terms after",
-         "Balance"], nm_csv))
+        [h for _b, h in nm_rows]))
     if nmi_rows:
         ch_parts.append(change_block(
             "Newly reported with a modification in effect",
@@ -4655,9 +4656,7 @@ republished. They do not yet update on a daily cycle.</p>"""
             f"the monthly indicator before the dated modification "
             f"record appears in the asset-level filings.",
             ["Loan", "Deal", "Status", "Balance"],
-            [h for _b, h in nmi_rows],
-            f"changes-modified-indicator-{ym}.csv",
-            ["Loan", "Deal", "Status", "Balance"], nmi_csv))
+            [h for _b, h in nmi_rows]))
     ch_parts.append(change_block(
         "Liquidations",
         f"Loans whose filings record a liquidation dated in "
@@ -4666,9 +4665,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         f"liquidation month.",
         ["Loan", "Deal", "Liquidation date", "Balance at "
          "liquidation", "Realized loss", "Severity"],
-        [h for _b, h in lq_rows], f"changes-liquidations-{ym}.csv",
-        ["Loan", "Deal", "Liquidation date", "Balance", "Loss",
-         "Severity"], lq_csv))
+        [h for _b, h in lq_rows]))
     ch_parts.append(change_block(
         "Matured and not paid off",
         f"Loans whose scheduled maturity (origination date plus "
@@ -4676,9 +4673,7 @@ republished. They do not yet update on a daily cycle.</p>"""
         f"still reported with a balance, including loans extended "
         f"at maturity.",
         ["Loan", "Deal", "Scheduled maturity", "Status", "Balance"],
-        [h for _b, h in fm_rows], f"changes-matured-{ym}.csv",
-        ["Loan", "Deal", "Scheduled maturity", "Status", "Balance"],
-        fm_csv))
+        [h for _b, h in fm_rows]))
     ch_parts.append("<h2>Rating downgrades</h2>")
     if pd_rows:
         ch_parts.append(
@@ -4716,15 +4711,9 @@ republished. They do not yet update on a daily cycle.</p>"""
             "</tr></thead><tbody>" + "".join(shown)
             + "</tbody></table></div>")
         if len(hd_rows) > 100:
-            url = write_csv(f"changes-downgrades-{ym}.csv",
-                            ["Deal", "Class", "Agency", "From", "To",
-                             "Action date", "Publicly knowable"],
-                            hd_csv)
             ch_parts.append(
                 f'<p class="data-vintage">Showing 100 of '
-                f"{len(hd_rows):,} downgrades. The full list is "
-                f'available as a CSV file: <a href="{url}">'
-                f"changes-downgrades-{ym}.csv</a>.</p>")
+                f"{len(hd_rows):,} downgrades.</p>")
     with open(os.path.join(args.out, "changes.md"), "w") as fh:
         fh.write(frontmatter(
             "CMBS monthly changes",
