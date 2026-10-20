@@ -333,6 +333,9 @@ a:hover { color: var(--accent); }
 .bw-sum-item { padding: 5px 0; min-width: 0; }
 .bw-sum-item dt { font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 2px; }
 .bw-sum-item dd { font-family: var(--sans); font-size: 16.5px; font-weight: 650; margin: 0; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bw-sum-item dd.bw-sum-sub { font-size: 12px; font-weight: 500; color: var(--muted); margin: 1px 0 0; }
+.cell-sub { display: block; font-size: 11.5px; color: var(--muted); margin-top: 1px; font-variant-numeric: tabular-nums; }
+.flow-share { font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--muted); margin-left: 8px; white-space: nowrap; }
 
 /* Bond detail pages */
 .bond-navrow { font-size: 13px; color: var(--muted); margin: 4px 0 10px; }

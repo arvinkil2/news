@@ -10,20 +10,20 @@
 
 {{ if $latest.Pages }}
 {{ $freshest := (index (sort $latest.Pages "Params.last_updated" "desc") 0).Params.last_updated | time.AsTime }}
-<div class="dateline">Today &middot; latest update {{ $freshest.Format "3:04 PM" }} &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
+<div class="dateline">Today - latest update {{ $freshest.Format "3:04 PM" }} - {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
 
 <h2 class="river-head">Today's updates</h2>
 <ol class="top-stories">
 {{ range $bumped }}
 <li>
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} &middot; <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span></div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }} - <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span></div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p class="dek">{{ . }}</p>{{ end }}
 </li>
 {{ end }}
 </ol>
 {{ else }}
-<div class="dateline">Today's briefing &middot; {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
+<div class="dateline">Today's briefing - {{ $latest.Key | time.Format "Monday, January 2, 2006" }}</div>
 {{ end }}
 {{ $top := where (where $ordered "Params.featured" true) "Params.movers_note" "!=" true }}
 {{ if $bumped }}{{ $top = where $top "Params.update_bump" "!=" true }}{{ end }}
@@ -32,7 +32,7 @@
 <ol class="top-stories">
 {{ range $top }}
 <li>
-  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if .Params.update_bump }} &middot; <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
+  <div class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}{{ if .Params.update_bump }} - <span class="updated-tag">Updated {{ (.Params.last_updated | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.lede }}<p class="dek">{{ . }}</p>{{ end }}
   {{ with .Params.why_it_matters }}<p class="why"><span>Why it matters:</span> {{ . }}</p>{{ end }}
@@ -46,7 +46,7 @@
 {{ $m := index $moversPages 0 }}
 {{ if eq ($m.Date.Format "2006-01-02") $latest.Key }}
 <section class="movers-note">
-  <div class="kicker">{{ $m.Params.kicker | default "Overnight markets" }} &middot; {{ $m.Date.Format "Monday, January 2, 2006" }}{{ with $m.Params.last_updated }} &middot; <span class="updated-tag">Updated {{ (. | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
+  <div class="kicker">{{ $m.Params.kicker | default "Overnight markets" }} - {{ $m.Date.Format "Monday, January 2, 2006" }}{{ with $m.Params.last_updated }} - <span class="updated-tag">Updated {{ (. | time.AsTime).Format "3:04 PM" }}</span>{{ end }}</div>
   <h2 class="river-head"><a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a></h2>
   {{ with $m.Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
   <div class="lead-body">{{ $m.Content }}</div>

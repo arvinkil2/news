@@ -4,7 +4,7 @@
 <div class="meta-row">
   <span class="kicker">{{ with .Params.beats }}{{ partial "beat-name.html" (index . 0) }}{{ end }}</span>
   {{ if eq .Section "cmbs" }}<span>Page built {{ .Date.Format "January 2, 2006" }}</span>{{ else }}<span>{{ .Date.Format "Monday, January 2, 2006" }}</span>{{ end }}
-  {{ with .Params.last_updated }}<span>&middot; Updated {{ (. | time.AsTime).Format "Jan 2, 2006 15:04" }}</span>{{ end }}
+  {{ with .Params.last_updated }}<span>- Updated {{ (. | time.AsTime).Format "Jan 2, 2006 15:04" }}</span>{{ end }}
 </div>
 
 {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
@@ -20,7 +20,7 @@
 <ol class="sources">
 {{ range . }}
   <li>
-    {{ with .url }}<a href="{{ . }}">{{ end }}{{ .title | default .url }}{{ with .url }}</a>{{ end }}{{ with .publisher }} &middot; {{ . }}{{ end }}{{ with .published }} &middot; {{ . }}{{ end }}
+    {{ with .url }}<a href="{{ . }}">{{ end }}{{ .title | default .url }}{{ with .url }}</a>{{ end }}{{ with .publisher }} - {{ . }}{{ end }}{{ with .published }} - {{ . }}{{ end }}
   </li>
 {{ end }}
 </ol>

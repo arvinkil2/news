@@ -26,7 +26,7 @@
     hits.slice(0, 50).forEach(function(s) {
       var a = document.createElement('article');
       a.className = 'river-item';
-      a.innerHTML = '<div class="kicker">' + s.b + ' · ' + s.d + '</div>' +
+      a.innerHTML = '<div class="kicker">' + s.b + ' - ' + s.d + '</div>' +
         '<h3><a href="' + s.u + '">' + s.t.replace(/</g, '&lt;') + '</a></h3>' +
         (s.l ? '<p>' + s.l.replace(/</g, '&lt;') + '</p>' : '');
       results.appendChild(a);

@@ -1,22 +1,22 @@
 ---
 title: "Tesla"
 date: "2026-10-19"
-lede: "Benchmark issuer · 1 bonds · prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
+lede: "Benchmark issuer, 1 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-19"
 ---
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>1</dd></div><div class="bw-sum-item"><dt>Trades stored</dt><dd>0</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>n/a</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 0</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>—</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>1</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>n/a</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 0 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>—</dd></div></dl>
 <h2>Bonds</h2>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-tesla" data-def="[300, 124, 110, 84, 92, 76, 84, 108]" data-min="[180, 76, 92, 72, 92, 64, 76, 96]" data-fixed="[]" data-sort="1">
-<colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:84px"><col style="width:92px"><col style="width:76px"><col style="width:84px"><col style="width:108px"></colgroup>
-<thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>Trades</th><th>CUSIP</th></tr></thead>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-tesla" data-def="[300, 124, 110, 84, 110, 96, 108]" data-min="[180, 76, 92, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td data-v="TESLA INC — Notes"><a class="bond-link" href="/leverage/bond/88160raf8/"><span class="bond-name">TESLA INC</span><span class="bond-sub">Notes</span></a></td><td data-v="-999">n/a</td><td data-v="">no trades in the stored record</td><td data-v="-1">—</td><td data-v="">—</td><td class="muted" data-v="">—</td><td data-v="0">0</td><td data-v="88160RAF8">88160RAF8</td></tr>
+<tr><td data-v="TESLA INC — Notes"><a class="bond-link" href="/leverage/bond/88160raf8/"><span class="bond-name">TESLA INC</span><span class="bond-sub">Notes</span></a></td><td data-v="-999">n/a</td><td data-v="">no trades in the stored record</td><td data-v="-1">—</td><td data-v="">—</td><td class="muted" data-v="">—</td><td data-v="88160RAF8">88160RAF8</td></tr>
 </tbody></table></div>
 
-<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders).</p>
+<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders). Coverage: 0 trades are stored in the dataset for this issuer's bonds.</p>
 <script defer src="/js/echarts.min.js"></script>
 <script defer src="/js/issuer_chart.js"></script>
 <script>

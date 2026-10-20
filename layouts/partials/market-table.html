@@ -11,7 +11,7 @@
 {{ with $data }}
 <section class="market-table-wrap" aria-label="Market data">
 <h2 class="market-table-title">{{ if eq $key "commodities" }}Commodity prices{{ else if eq $key "mining" }}Mining equities{{ else if eq $key "technology" }}Tech equities{{ else if eq $key "rates" }}Sovereign yields{{ else if eq $key "fx" }}Currencies{{ else if eq $key "equities" }}Global equities{{ else }}{{ $key }}{{ end }}</h2>
-<p class="market-table-updated">Updated as of {{ $updated }} ET · 30-day trend</p>
+<p class="market-table-updated">Updated as of {{ $updated }} ET - 30-day trend</p>
 <div class="market-table-scroll">
 <table class="market-table">
 <thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>Trend</th></tr></thead>
