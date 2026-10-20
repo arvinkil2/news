@@ -1,17 +1,21 @@
 ---
-title: "Kenya Ebola cases reach eight after new positive test"
+title: "Kenya Ebola cases reach nine, all in one cluster"
 date: 2026-10-17T13:42:36-04:00
-last_updated: 2026-10-18T21:47:32-04:00
+last_updated: 2026-10-20T14:28:44-04:00
 update_bump: true
 beats: ["life-sciences"]
 regions: ["africa"]
 status: "developing"
 developing: true
-lede: "Kenya's eighth Ebola case is a 49 year old patient attendant who cleaned utensils and linens and was likely exposed to the country's first case, Al Jazeera reported, citing the health ministry's director general and a ministry source."
-why_it_matters: "Tying the latest case to the first patient would keep Kenya's cluster inside a known exposure chain rather than signalling community spread, in a Bundibugyo outbreak with no approved vaccine or treatment."
+lede: "Kenya has confirmed a ninth Ebola case, a 24 year old man who was already in quarantine and is a close family member of the country's first patient, and the health ministry says all nine cases belong to one cluster with no evidence of transmission outside it."
+why_it_matters: "A ninth case found inside quarantine, rather than in the community, supports the ministry's containment claim, and most traced contacts complete their 21 day monitoring period this week."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Kenya confirms ninth Ebola case amid concerns about regional spread"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case"
+    published: "2026-10-20"
   - title: "Kenya Ebola cases rise to 8 as one more patient tests positive"
     publisher: "Capital FM"
     url: "https://capitalfm.africa/kenya-ebola-cases-rise-to-8-as-one-more-patient-tests-positive/"
@@ -33,8 +37,10 @@ sources:
     url: "https://capitalfm.africa/africa-cdc-calls-for-stronger-regional-ebola-surveillance-as-kenya-cases-rise-to-7/"
     published: "2026-10-18"
 tags: []
-data_as_of: "Updated Sunday, October 18, 2026, 21:47 ET: the eighth patient's work as a patient attendant and his likely exposure to the first case are from Al Jazeera's report of October 19, 2026, read in full, citing Director General Patrick Amoth on Citizen TV and a Ministry of Health source. Updated Sunday, October 18, 2026, 15:47 ET: the eighth case, the testing round of 38 people and Director General Patrick Amoth's remarks on Citizen TV on Sunday night are from the Capital FM report of October 18, 2026, read in full; KBC carried the same raised total of eight. The ministry has not provided the patient's exposure history. Updated Sunday, October 18, 2026, 07:06 ET with the Africa CDC statement of October 17, 2026. Original item Saturday, October 17, 2026, 13:42 ET. Kenya Ministry of Health statement of October 17, 2026, as reported by Al Jazeera and read in full, with the case count also carried by KBC and by Reuters reporting via UOL. Contact tracing and quarantine figures are the ministry's own."
+data_as_of: "Updated Tuesday, October 20, 2026, 14:28 ET: the ninth case, the single cluster finding and the contact figures are from the Kenya Ministry of Health statement of October 20, 2026, as reported by Al Jazeera the same day and read in full. Updated Sunday, October 18, 2026, 21:47 ET: the eighth patient's work as a patient attendant and his likely exposure to the first case are from Al Jazeera's report of October 19, 2026, read in full, citing Director General Patrick Amoth on Citizen TV and a Ministry of Health source. Updated Sunday, October 18, 2026, 15:47 ET: the eighth case, the testing round of 38 people and Director General Patrick Amoth's remarks on Citizen TV on Sunday night are from the Capital FM report of October 18, 2026, read in full; KBC carried the same raised total of eight. The ministry has not provided the patient's exposure history. Updated Sunday, October 18, 2026, 07:06 ET with the Africa CDC statement of October 17, 2026. Original item Saturday, October 17, 2026, 13:42 ET. Kenya Ministry of Health statement of October 17, 2026, as reported by Al Jazeera and read in full, with the case count also carried by KBC and by Reuters reporting via UOL. Contact tracing and quarantine figures are the ministry's own."
 ---
+
+**Latest (Tuesday 14:28 ET):** Kenya's ninth Ebola case is a 24 year old man who was already in quarantine when he fell ill and was isolated at the first sign of illness, the Ministry of Health said on Tuesday. He is a close family member of Kenya's first patient, who travelled from Congo through Uganda and died in Nairobi on October 5. Director General Patrick Amoth said all nine cases belong to one cluster, with no evidence of transmission outside the group; eight patients are stable and responding to treatment, 134 of 135 contacts have been traced and quarantined, and most contacts who stayed well through the 21 day monitoring period can return home from October 25. Kenya has imposed no restrictions on travel, trade or public gatherings.
 
 **Latest (Sunday 21:47 ET):** Al Jazeera reported that the eighth patient worked as a patient attendant, cleaning utensils and linens, and was likely exposed to Kenya's first Ebola case, according to a Ministry of Health source; he developed symptoms on Saturday and was quarantined before testing positive. The account fills the exposure gap left by the ministry's earlier statements and, if correct, keeps the Kenyan cluster tied to the first patient's known contacts rather than to untraced community transmission.
 
