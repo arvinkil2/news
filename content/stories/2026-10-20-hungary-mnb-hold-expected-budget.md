@@ -1,15 +1,19 @@
 ---
-title: "Hungary expected to hold rates as budget test looms"
+title: "Hungary holds base rate at 5.50 percent as expected"
 date: 2026-10-20T07:27:37-04:00
-last_updated: 2026-10-20T07:27:37-04:00
+last_updated: 2026-10-20T08:30:27-04:00
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "Hungary's central bank is unanimously expected to leave its base rate at 5.50 percent at today's 12:00 UTC decision, with the market test shifting to whether rate cuts stay on the table for December after the government targeted a 4.9 percent of GDP deficit for 2027."
-why_it_matters: "A hold is priced and expected, so the forint and Hungarian bonds will trade on the guidance: Commerzbank argues re-accelerating inflation momentum leaves no case for cuts, while ING still expects a 25 basis point cut in December if the fiscal consolidation plan holds up."
+lede: "Hungary's central bank left its base rate unchanged at 5.50 percent on Tuesday, with the overnight deposit rate held at 4.50 percent and the overnight collateralised lending rate at 6.50 percent, effective October 21, the Magyar Nemzeti Bank said."
+why_it_matters: "The hold was unanimous in analyst expectations, so the market test now sits with the statement and guidance: whether a December cut stays alive after the government targeted a 4.9 percent of GDP deficit for 2027, with Commerzbank arguing inflation momentum leaves no case for cuts and ING still expecting 25 basis points in December."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Interest rate conditions of the Magyar Nemzeti Bank effective from 21 October 2026"
+    publisher: "Magyar Nemzeti Bank"
+    url: "https://www.mnb.hu/en/monetary-policy/the-monetary-council/press-releases/2026/interest-rate-conditions-of-the-magyar-nemzeti-bank-effective-from-21-october-2026"
+    published: "2026-10-20"
   - title: "National Bank of Hungary preview: room to cut, but caution prevails"
     publisher: "ING"
     url: "https://think.ing.com/articles/national-bank-of-hungary-preview-room-to-cut-caution-prevails/"
@@ -27,8 +31,11 @@ sources:
     url: "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3YS07P:0-hungary-plans-cutting-2027-budget-deficit-to-4-9-of-gdp/"
     published: "2026-10-19"
 tags: []
-data_as_of: "Preview of the National Bank of Hungary decision due Tuesday, October 20, 2026 at 12:00 UTC; the decision had not been announced at the morning run. Budget figures from the government's 2027 budget presentation on Monday, October 19, 2026."
+data_as_of: "Decision from the Magyar Nemzeti Bank's interest rate conditions release dated October 20, 2026, read on mnb.hu; the rates take effect October 21, 2026. The bank's long form Monetary Council statement had not yet been posted when this update was written, so no new forward guidance is reported here. Budget figures from the government's 2027 budget presentation on Monday, October 19, 2026."
+update_bump: true
 ---
+
+**Latest:** The Monetary Council left the central bank interest rate conditions unchanged at its meeting on Tuesday October 20, the Magyar Nemzeti Bank said in its interest rate conditions release. The base rate stays at 5.50 percent, the overnight central bank deposit rate at 4.50 percent and the overnight collateralised loan rate at 6.50 percent, all effective from October 21. The decision matches the unanimous analyst expectation set out below. The bank's long form statement, which carries the Council's assessment and guidance language, had not yet appeared on its website when this update was written, and will be reported when it posts.
 
 Hungary's central bank decides today, and the rate itself is not the question. Analysts unanimously expect the National Bank of Hungary to leave its base rate at 5.50 percent when the Monetary Council announces at 12:00 UTC, Commerzbank's Tatha Ghose said in a note reported by Dow Jones, and the forint fell against the euro ahead of the decision. The bank also held at 5.50 percent in September after three consecutive cuts over the summer.
 
