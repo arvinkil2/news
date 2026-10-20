@@ -1,7 +1,7 @@
 ---
 title: "US to let dark fleet tankers shed sanctions, Wright says"
 date: 2026-10-20T07:27:43-04:00
-last_updated: 2026-10-20T07:27:43-04:00
+last_updated: 2026-10-20T14:16:17-04:00
 beats: ["commodities"]
 regions: ["north-america", "global", "middle-east"]
 status: "story"
@@ -18,9 +18,16 @@ sources:
     publisher: "Bloomberg via gCaptain"
     url: "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/"
     published: "2026-10-19"
+  - title: "Trump's Plan to Revive Sanctioned Tankers Faces Tough Sell"
+    publisher: "Bloomberg via gCaptain"
+    url: "https://gcaptain.com/trumps-plan-to-revive-sanctioned-tankers-faces-tough-sell/"
+    published: "2026-10-20"
 tags: []
-data_as_of: "Wright's remarks at a Citadel Securities event in New York on Monday, October 19, 2026, as reported by Bloomberg and read in full via gCaptain. Fleet and freight figures are Wright's estimates and Signal Ocean data as reported there."
+data_as_of: "Wright's remarks at a Citadel Securities event in New York on Monday, October 19, 2026, as reported by Bloomberg and read in full via gCaptain. Fleet and freight figures are Wright's estimates and Signal Ocean data as reported there. Update: the follow-up assessment is from Bloomberg reporting of October 20, 2026, read in full via gCaptain, including S&P Global Energy and Oil Brokerage estimates."
+update_bump: true
 ---
+
+**Latest:** Analysts say the conversion plan may attract only a sliver of the dark fleet. Oil Brokerage estimates 294 sanctioned tankers sit outside EU and UK penalties, but about 70 percent of them are over 20 years old, leaving just 75 commercially available tankers of all sizes, including 50 supertankers. Freight economics cut the other way as well: a supertanker running through the Strait of Hormuz can fetch as much as 40 million dollars per trip, shipbrokers say, against an early October price of about 190 million dollars for a 10 year old vessel, so owners have little reason to sell. S&P Global Energy's Rahul Kapoor said sanctions relief does not equal immediately usable mainstream capacity, and EU and UK blacklists, which also dominate maritime insurance, limit what a unilateral US scheme can return to service.
 
 The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said on Monday. The government is working with investors who buy idled sanctioned tankers, refurbish them and use the ships to transport non-sanctioned oil, Wright said at a Citadel Securities event in New York.
 

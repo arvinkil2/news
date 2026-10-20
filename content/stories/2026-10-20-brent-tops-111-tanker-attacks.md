@@ -1,12 +1,12 @@
 ---
 title: "Brent tops 111 dollars as tanker attacks sustain risk premium"
 date: 2026-10-20T07:27:43-04:00
-last_updated: 2026-10-20T07:27:43-04:00
+last_updated: 2026-10-20T14:16:17-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "Brent crude settled at 111.33 dollars a barrel on Monday, up 1.62 percent, and traded at 110.10 dollars early on Tuesday after touching its highest since May 20, as at least 18 vessel attacks in two weeks kept the Hormuz risk premium intact."
-why_it_matters: "The market is now pricing the attacks, not the diplomacy: a sanctions waiver and a Russian diesel deal that knocked two percent off prices on Monday morning have been fully retraced, while Kpler puts Gulf flows at about 8.5 million barrels a day against more than 20 million two weeks earlier."
+lede: "Brent crude settled at 111.33 dollars a barrel on Monday, up 1.62 percent, and traded at 110.10 dollars early on Tuesday after touching its highest since May 20, as at least 23 ship attacks in or near the Strait of Hormuz in the first two weeks of October, with a rising share disabling engine rooms, kept the risk premium intact."
+why_it_matters: "The market is now pricing the attacks, not the diplomacy: a sanctions waiver and a Russian diesel deal that knocked two percent off prices on Monday morning have been fully retraced, and while export volumes are holding near prewar levels, every disabled tanker stays out of service for months, shrinking the fleet willing to load in the Gulf."
 featured: true
 evidence_grade: "B"
 sources:
@@ -18,9 +18,16 @@ sources:
     publisher: "OilPrice.com"
     url: "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html"
     published: "2026-10-20"
+  - title: "Iran Strikes More Ship Engine Rooms in Ramp-Up of Hormuz Attacks"
+    publisher: "Bloomberg via gCaptain"
+    url: "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/"
+    published: "2026-10-20"
 tags: []
-data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters."
+data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters. Update: incident counts, engine room damage reports and export estimates are from Bloomberg reporting of October 20, 2026, read in full via gCaptain, citing naval groups in the region, security consultants, Intertanko, Bimco and Kpler."
+update_bump: true
 ---
+
+**Latest:** The attacks are doing more damage per hit. At least 23 incidents involving ships attacked in or near the Strait of Hormuz were logged in the first two weeks of October, with at least five reporting impacts to their engine rooms, against no engine damage incidents in September, according to naval groups in the region and security consultants cited by Bloomberg. At least two recently hit vessels sank last week, including a container ship struck in Hormuz. Shipping and maritime security officials said Iran has begun using more missiles rather than drones, and infrared guided missiles tend to steer toward hotter parts of a ship. Flows are still moving: preliminary Kpler data put the seven day average of Middle East oil exports fractionally above prewar levels, and Energy Secretary Chris Wright said on Sunday that shipments are at about 80 percent of normal levels. The constraint is tonnage, not crude: every disabled tanker stays out of service for months of repairs, in a market where few owners are willing to send ships in.
 
 Oil prices advanced again on Tuesday, with Brent hovering around a five month high as traders priced a geopolitical risk premium from Houthi attacks on Saudi infrastructure and reports of vessel attacks in the Gulf. Brent futures climbed 55 cents, or 0.50 percent, to 110.10 dollars a barrel by 03:19 GMT, after rising as high as 110.70 dollars in the previous session to their highest since May 20. Monday's settlement in the market tables was higher still, at 111.33 dollars, up 1.62 percent on the day and 5.34 percent on the week, while WTI settled at 100.63 dollars, down 2.92 percent on the day as its November contract approached expiry, with the more active December contract at 98.93 dollars early Tuesday.
 
