@@ -2,10 +2,10 @@
 title: "CCUBS Commercial Mortgage Trust 2017-C1: rating history"
 date: "2026-10-19"
 lede: "Rating actions, action dates and public knowledge dates for CCUBS Commercial Mortgage Trust 2017-C1."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/ccubs-commercial-mortgage-trust-2017-c1/">&larr; CCUBS Commercial Mortgage Trust 2017-C1</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/ccubs-commercial-mortgage-trust-2017-c1/">&larr; CCUBS Commercial Mortgage Trust 2017-C1</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 15 of the deal's 17 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">22</td><td class="num">0</td><td class="num">5</td><td class="num">0</td><td class="num">+18 notches over 4 classes</td><td class="num">2022-08-19</td></tr><tr><td>KBRA</td><td class="num">134</td><td class="num">0</td><td class="num">5</td><td class="num">0</td><td class="num">+13 notches over 15 classes</td><td class="num">2024-11-14</td></tr><tr><td>Moody's</td><td class="num">17</td><td class="num">0</td><td class="num">1</td><td class="num">0</td><td class="num">+1 notches over 1 classes</td><td class="num">2025-04-04</td></tr></tbody></table></div>

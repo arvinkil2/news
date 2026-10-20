@@ -2,10 +2,10 @@
 title: "Bank 2018-BNK13: rating history"
 date: "2026-10-19"
 lede: "Rating actions, action dates and public knowledge dates for Bank 2018-BNK13."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/bank-2018-bnk13/">&larr; Bank 2018-BNK13</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/bank-2018-bnk13/">&larr; Bank 2018-BNK13</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 19 of the deal's 21 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">28</td><td class="num">0</td><td class="num">8</td><td class="num">0</td><td class="num">+24 notches over 6 classes</td><td class="num">2022-05-19</td></tr><tr><td>S&amp;P</td><td class="num">92</td><td class="num">0</td><td class="num">2</td><td class="num">0</td><td class="num">+4 notches over 9 classes</td><td class="num">2024-09-16</td></tr><tr><td>DBRS</td><td class="num">180</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 13 classes</td><td class="num">None recorded</td></tr></tbody></table></div>

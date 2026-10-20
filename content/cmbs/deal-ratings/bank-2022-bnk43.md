@@ -2,10 +2,10 @@
 title: "Bank 2022-BNK43: rating history"
 date: "2026-10-19"
 lede: "Rating actions, action dates and public knowledge dates for Bank 2022-BNK43."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/bank-2022-bnk43/">&larr; Bank 2022-BNK43</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/bank-2022-bnk43/">&larr; Bank 2022-BNK43</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 35 of the deal's 38 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">36</td><td class="num">0</td><td class="num">1</td><td class="num">0</td><td class="num">+1 notches over 1 classes</td><td class="num">2023-10-16</td></tr><tr><td>KBRA</td><td class="num">175</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 35 classes</td><td class="num">None recorded</td></tr><tr><td>Moody's</td><td class="num">38</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">not yet reported</td><td class="num">None recorded</td></tr></tbody></table></div>

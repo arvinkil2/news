@@ -5,7 +5,7 @@ lede: "Rating actions, action dates and public knowledge dates for BMO 2024-C8 M
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
 ---
 
-<p class="bond-navrow"><a href="/cmbs/deal/bmo-2024-c8-mortgage-trust/">&larr; BMO 2024-C8 Mortgage Trust</a> &middot; <a href="/cmbs/">CMBS market</a></p>
+<p class="bond-navrow"><a href="/cmbs/deal/bmo-2024-c8-mortgage-trust/">&larr; BMO 2024-C8 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>
 <p>Rating actions recorded in the dataset cover 14 of the deal's 16 classes. Each action shows the date the agency took the action and the date it became publicly knowable in the published rating histories, as explained in the note at the foot of this page.</p>
 <h2>Migration summary</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Agency</th><th>Actions</th><th>Upgrades</th><th>Downgrades</th><th>Withdrawals</th><th>Net notch movement</th><th>First downgrade</th></tr></thead><tbody><tr><td>Fitch</td><td class="num">7</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">not yet reported</td><td class="num">None recorded</td></tr><tr><td>KBRA</td><td class="num">39</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">+0 notches over 13 classes</td><td class="num">None recorded</td></tr><tr><td>S&amp;P</td><td class="num">55</td><td class="num">0</td><td class="num">7</td><td class="num">0</td><td class="num">+13 notches over 13 classes</td><td class="num">2025-10-28</td></tr></tbody></table></div>
