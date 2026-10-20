@@ -17334,6 +17334,57 @@
    "is_144a": "Y",
    "trace_grade": "I",
    "twin_of": "44813DAA4"
+  },
+  {
+   "cusip": "U59340AH9",
+   "issuer": "MICROSOFT CORP",
+   "security": "Notes",
+   "class": "bond",
+   "coupon_pct": null,
+   "maturity": null,
+   "deal": "Microsoft",
+   "watch": "benchmark",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "MSFT5681052",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-20."
+  },
+  {
+   "cusip": "U1109MAJ5",
+   "issuer": "BROADCOM INC",
+   "security": "Notes",
+   "class": "bond",
+   "coupon_pct": null,
+   "maturity": null,
+   "deal": "Broadcom",
+   "watch": "benchmark",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "AVGO4989982",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-20."
+  },
+  {
+   "cusip": "46270CAF6",
+   "issuer": "IREN LTD",
+   "security": "Notes",
+   "class": "bond",
+   "coupon_pct": null,
+   "maturity": null,
+   "deal": "IREN",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "IREN6548018",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-20."
   }
  ]
 }
