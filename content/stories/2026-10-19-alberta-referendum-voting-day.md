@@ -1,12 +1,12 @@
 ---
 title: "Alberta voters reject separation process by three to one"
 date: 2026-10-19T07:11:40-04:00
-last_updated: 2026-10-20T01:45:11-04:00
+last_updated: 2026-10-20T05:45:24-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Alberta voters chose to remain a province of Canada by 76.29 percent to 23.71 percent in the unofficial count reported by Elections Alberta, rejecting the start of a legal process toward a binding separation referendum."
-why_it_matters: "The three-to-one margin is wider than the final polls, and Premier Danielle Smith has said she will hold no second separation referendum after a remain win, so the contest shifts back to ordinary federal-provincial bargaining over energy and fiscal policy."
+lede: "Alberta voters chose to remain a province of Canada by 76.29 percent to 23.71 percent in the unofficial count reported by Elections Alberta, rejecting the start of a legal process toward a binding separation referendum, and Prime Minister Mark Carney said on Tuesday that Albertans had made a clear choice for unity."
+why_it_matters: "The three-to-one margin is wider than the final polls, and Premier Danielle Smith has said she will hold no second separation referendum after a remain win, so the contest shifts back to ordinary federal-provincial bargaining over energy and fiscal policy, with Carney promising to fast-track major projects with Alberta at the core of Canada’s energy plans."
 featured: false
 evidence_grade: "B"
 sources:
@@ -18,6 +18,14 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-20/alberta-voters-reject-separation-from-canada-as-carney-triumphs"
     published: "2026-10-20"
+  - title: "Statement by Prime Minister Carney on Albertans choosing to build a stronger Canada, together"
+    publisher: "Prime Minister of Canada"
+    url: "https://www.pm.gc.ca/en/news/statements/2026/10/20/statement-prime-minister-carney-albertans-choosing-build-stronger-canada"
+    published: "2026-10-20"
+  - title: "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rich-Alberta-Votes-to-Stay-in-Canada-in-Historic-Referendum.html"
+    published: "2026-10-20"
   - title: "Albertans vote on starting legal steps toward potential future separation from Canada"
     publisher: "Harava News"
     url: "https://harava.news/en/articles/2026/10/19/alberta-separation-vote"
@@ -27,9 +35,11 @@ sources:
     url: "https://spiketoday.com/alberta-referendum/"
     published: "2026-10-17"
 tags: []
-data_as_of: "Unofficial Elections Alberta count for the separation question as reported in the live results tally checked October 20, 2026 at 1:40 a.m. ET, with 25.34 percent of voting places reporting: remain 815,392 votes (76.29 percent), begin the process 253,425 votes (23.71 percent). The count is unofficial and still under way; Elections Alberta states the unofficial count must be completed within 48 hours of the close of voting and that official results will be announced October 29 at 10 a.m. MT. Results are non-binding under Order in Council 160/2026. Earlier text: referendum day, Monday October 19, 2026; polls 9 a.m. to 8 p.m. Mountain Time; advance and special ballot figure of 1,356,873 voters (43.1 percent of eligible voters) is the preliminary figure reported October 19; polling cited is Leger, October 2 to 4, and the Writ tracker updated October 17."
+data_as_of: "Update October 20, 2026 at 5:45 a.m. ET: leader reaction from Prime Minister Mark Carney’s statement issued by the Prime Minister’s Office on October 20, 2026 and read in full, and Premier Danielle Smith’s reaction as reported by OilPrice.com on October 20, 2026. Unofficial Elections Alberta count for the separation question as reported in the live results tally checked October 20, 2026 at 1:40 a.m. ET, with 25.34 percent of voting places reporting: remain 815,392 votes (76.29 percent), begin the process 253,425 votes (23.71 percent). The count is unofficial and still under way; Elections Alberta states the unofficial count must be completed within 48 hours of the close of voting and that official results will be announced October 29 at 10 a.m. MT. Results are non-binding under Order in Council 160/2026. Earlier text: referendum day, Monday October 19, 2026; polls 9 a.m. to 8 p.m. Mountain Time; advance and special ballot figure of 1,356,873 voters (43.1 percent of eligible voters) is the preliminary figure reported October 19; polling cited is Leger, October 2 to 4, and the Writ tracker updated October 17."
 update_bump: true
 ---
+
+**Latest (leader reaction, Tuesday morning):** Prime Minister Mark Carney issued a statement on Tuesday saying Albertans had made a clear choice, choosing unity and Canada, while votes on all ten questions continue to be tallied. Carney said Canada is fast-tracking major projects in every part of the country and building its position as a global energy superpower with Alberta at its core. Premier Danielle Smith said she was very pleased to see the initial Elections Alberta results show widespread support for remaining in Canada, and that Albertans had voted for a stronger Alberta in a united Canada; she will address Albertans on Tuesday evening on the results and where the province goes from here. The separation count itself has not moved materially since the early tally, with more than half of votes still to be counted when the wires last reported it.
 
 **Latest (result, early Tuesday):** Alberta voters have rejected the separation path by roughly three to one. In the unofficial count reported by Elections Alberta, with 25.34 percent of voting places reporting, 815,392 voters, or 76.29 percent, chose for Alberta to remain a province of Canada, against 253,425 votes, or 23.71 percent, for beginning the legal process toward a binding separation referendum. Bloomberg called the result for the remain side, a win for Prime Minister Mark Carney, who campaigned in the province in the final week. The count ran late: several voting places opened late on Monday and stayed open longer, and one Edmonton location was permitted to vote until 10 p.m. Mountain Time, delaying the unofficial tally until every location had closed. The margin is wider than the final polls, which put remain between 68 and 70 percent, and it clears the test Premier Danielle Smith set in advance, since she has said she will not hold another separation referendum if the remain side wins. The other nine questions are still being counted, and Elections Alberta will announce the official results on October 29.
 
