@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-16",
+ "as_of": "2026-10-19",
  "note": "One entry per watched bond. Daily tier: forensic core, with fund marks. Benchmark tier: big-tech issuers, trades only, no fund marks. Bonds with no stored trades carry their last sweep print (daily) or no price (benchmark).",
  "source": "FINRA TRACE via FINRA public lookup",
  "prints": [
@@ -13,7 +13,7 @@
    "latest_fund_mark": 99.67,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.5625,
    "last_trade_date": "2026-06-17",
    "history": [
@@ -682,7 +682,7 @@
    "latest_fund_mark": 99.63,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.914062,
    "last_trade_date": "2026-07-29",
    "history": [
@@ -799,7 +799,7 @@
    "latest_fund_mark": 99.99,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.082031,
    "last_trade_date": "2026-05-19",
    "history": [
@@ -956,7 +956,7 @@
    "latest_fund_mark": 100.07,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.46875,
    "last_trade_date": "2026-03-31",
    "history": [
@@ -1153,7 +1153,7 @@
    "latest_fund_mark": 100.63,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 102.714843,
    "last_trade_date": "2026-06-17",
    "history": [
@@ -1358,7 +1358,7 @@
    "latest_fund_mark": 99.62,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.25,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -1443,7 +1443,7 @@
    "latest_fund_mark": 99.52,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.5,
    "last_trade_date": "2026-09-15",
    "history": [
@@ -1488,7 +1488,7 @@
    "latest_fund_mark": 96.86,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.659,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -2493,7 +2493,7 @@
    "latest_fund_mark": 100.28,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.203125,
    "last_trade_date": "2026-10-05",
    "history": [
@@ -2642,7 +2642,7 @@
    "latest_fund_mark": 100.82,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.992187,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -2731,7 +2731,7 @@
    "latest_fund_mark": 98.61,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.113281,
    "last_trade_date": "2026-09-18",
    "history": [
@@ -2972,7 +2972,7 @@
    "latest_fund_mark": 100.67,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.78125,
    "last_trade_date": "2026-07-28",
    "history": [
@@ -3009,7 +3009,7 @@
    "latest_fund_mark": 99.31,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.257812,
    "last_trade_date": "2026-07-27",
    "history": [
@@ -3050,7 +3050,7 @@
    "latest_fund_mark": 100.04,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.128906,
    "last_trade_date": "2026-09-22",
    "history": [
@@ -3207,7 +3207,7 @@
    "latest_fund_mark": 99.97,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.964843,
    "last_trade_date": "2026-09-15",
    "history": [
@@ -3336,7 +3336,7 @@
    "latest_fund_mark": 100.06,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.835937,
    "last_trade_date": "2026-04-14",
    "history": [
@@ -3417,7 +3417,7 @@
    "latest_fund_mark": 97.82,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.757812,
    "last_trade_date": "2026-09-15",
    "history": [
@@ -3546,7 +3546,7 @@
    "latest_fund_mark": 97.45,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.433593,
    "last_trade_date": "2026-10-02",
    "history": [
@@ -3731,7 +3731,7 @@
    "latest_fund_mark": 97.92,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.640625,
    "last_trade_date": "2026-10-06",
    "history": [
@@ -3820,7 +3820,7 @@
    "latest_fund_mark": 97.31,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.226562,
    "last_trade_date": "2026-04-08",
    "history": [
@@ -3845,7 +3845,7 @@
    "latest_fund_mark": 99.21,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.027343,
    "last_trade_date": "2026-09-28",
    "history": [
@@ -4050,7 +4050,7 @@
    "latest_fund_mark": 98.5,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.34375,
    "last_trade_date": "2025-11-05",
    "history": [
@@ -4083,7 +4083,7 @@
    "latest_fund_mark": 97.29,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.351562,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -4180,7 +4180,7 @@
    "latest_fund_mark": 93.56,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.0,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -5605,7 +5605,7 @@
    "latest_fund_mark": 90.31,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.0,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -6870,7 +6870,7 @@
    "latest_fund_mark": 94.23,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 78.7252,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -7735,7 +7735,7 @@
    "latest_fund_mark": 90.76,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.3,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -8284,7 +8284,7 @@
    "latest_fund_mark": 88.22,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.8675,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -8829,7 +8829,7 @@
    "latest_fund_mark": 89.55,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.2,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -9202,7 +9202,7 @@
    "latest_fund_mark": 100.31,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.569,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -9459,7 +9459,7 @@
    "latest_fund_mark": 98.53,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.894531,
    "last_trade_date": "2026-09-28",
    "history": [
@@ -9908,7 +9908,7 @@
    "latest_fund_mark": 96.49,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.433593,
    "last_trade_date": "2026-07-31",
    "history": [
@@ -10017,7 +10017,7 @@
    "latest_fund_mark": 96.77,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.203125,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -10234,7 +10234,7 @@
    "latest_fund_mark": 95.11,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.3125,
    "last_trade_date": "2026-05-11",
    "history": [
@@ -10283,7 +10283,7 @@
    "latest_fund_mark": 97.62,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.226562,
    "last_trade_date": "2026-09-29",
    "history": [
@@ -10344,7 +10344,7 @@
    "latest_fund_mark": 98.71,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.800781,
    "last_trade_date": "2026-08-04",
    "history": [
@@ -10409,7 +10409,7 @@
    "latest_fund_mark": 96.62,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.03125,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -10490,7 +10490,7 @@
    "latest_fund_mark": 99.31,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.375,
    "last_trade_date": "2026-09-22",
    "history": [
@@ -10559,7 +10559,7 @@
    "latest_fund_mark": 98.46,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.4375,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -10612,7 +10612,7 @@
    "latest_fund_mark": 99.53,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.253906,
    "last_trade_date": "2026-08-24",
    "history": [
@@ -10653,7 +10653,7 @@
    "latest_fund_mark": 98.9,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.5,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -10742,7 +10742,7 @@
    "latest_fund_mark": 99.18,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.863281,
    "last_trade_date": "2026-08-25",
    "history": [
@@ -10783,7 +10783,7 @@
    "latest_fund_mark": 99.0,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.515625,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -10824,7 +10824,7 @@
    "latest_fund_mark": 99.4,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.34375,
    "last_trade_date": "2026-08-26",
    "history": [
@@ -10865,7 +10865,7 @@
    "latest_fund_mark": 98.07,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.019531,
    "last_trade_date": "2026-09-03",
    "history": [
@@ -10918,7 +10918,7 @@
    "latest_fund_mark": 98.0,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.605468,
    "last_trade_date": "2026-09-04",
    "history": [
@@ -10963,7 +10963,7 @@
    "latest_fund_mark": 98.08,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.875,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -11000,7 +11000,7 @@
    "latest_fund_mark": 91.45,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.65878,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -11557,7 +11557,7 @@
    "latest_fund_mark": 98.69,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.472656,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -12126,7 +12126,7 @@
    "latest_fund_mark": 98.12,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.964843,
    "last_trade_date": "2026-09-09",
    "history": [
@@ -12179,7 +12179,7 @@
    "latest_fund_mark": 98.0,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.785156,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -12364,7 +12364,7 @@
    "latest_fund_mark": 97.69,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.351562,
    "last_trade_date": "2026-09-23",
    "history": [
@@ -12649,7 +12649,7 @@
    "latest_fund_mark": 97.14,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.742187,
    "last_trade_date": "2026-10-07",
    "history": [
@@ -12730,7 +12730,7 @@
    "latest_fund_mark": 96.09,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.078125,
    "last_trade_date": "2026-03-03",
    "history": [
@@ -12763,7 +12763,7 @@
    "latest_fund_mark": 99.83,
    "mark_period": "2026-05-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.9375,
    "last_trade_date": "2026-06-11",
    "history": [
@@ -12904,7 +12904,7 @@
    "latest_fund_mark": 98.13,
    "mark_period": "2026-06-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.730468,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -12985,7 +12985,7 @@
    "latest_fund_mark": 100.31,
    "mark_period": "2026-01-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.378906,
    "last_trade_date": "2026-01-12",
    "history": [
@@ -13086,7 +13086,7 @@
    "latest_fund_mark": 100.22,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.8125,
    "last_trade_date": "2026-09-21",
    "history": [
@@ -13183,7 +13183,7 @@
    "latest_fund_mark": 99.68,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.125,
    "last_trade_date": "2026-07-15",
    "history": [
@@ -13288,7 +13288,7 @@
    "latest_fund_mark": 98.21,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.25,
    "last_trade_date": "2026-07-29",
    "history": [
@@ -13357,7 +13357,7 @@
    "latest_fund_mark": 103.66,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.724,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -13610,7 +13610,7 @@
    "latest_fund_mark": 99.74,
    "mark_period": "2026-02-28",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.5,
    "last_trade_date": "2026-01-27",
    "history": [
@@ -13979,7 +13979,7 @@
    "latest_fund_mark": 100.1,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.757812,
    "last_trade_date": "2026-09-23",
    "history": [
@@ -14124,7 +14124,7 @@
    "latest_fund_mark": 100.38,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.625,
    "last_trade_date": "2026-09-21",
    "history": [
@@ -14381,7 +14381,7 @@
    "latest_fund_mark": 96.48,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.1875,
    "last_trade_date": "2026-09-17",
    "history": [
@@ -14618,7 +14618,7 @@
    "latest_fund_mark": 96.02,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.472656,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -14779,7 +14779,7 @@
    "latest_fund_mark": 100.0,
    "mark_period": "2025-08-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.886718,
    "last_trade_date": "2025-09-02",
    "history": [
@@ -15240,7 +15240,7 @@
    "latest_fund_mark": 96.09,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.539062,
    "last_trade_date": "2026-10-08",
    "history": [
@@ -15265,7 +15265,7 @@
    "latest_fund_mark": 99.48,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.597656,
    "last_trade_date": "2026-08-13",
    "history": [
@@ -15598,7 +15598,7 @@
    "latest_fund_mark": 100.52,
    "mark_period": "2025-10-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.46875,
    "last_trade_date": "2025-10-31",
    "history": [
@@ -15703,7 +15703,7 @@
    "latest_fund_mark": 97.97,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.25,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -15872,7 +15872,7 @@
    "latest_fund_mark": 97.45,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.789062,
    "last_trade_date": "2026-09-03",
    "history": [
@@ -16085,7 +16085,7 @@
    "latest_fund_mark": 96.38,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.402343,
    "last_trade_date": "2026-10-07",
    "history": [
@@ -16186,7 +16186,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.495,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -16591,7 +16591,7 @@
    "latest_fund_mark": 98.5,
    "mark_period": "2026-01-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.5,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -17960,7 +17960,7 @@
    "latest_fund_mark": 99.28,
    "mark_period": "2026-04-30",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.4556,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -19153,7 +19153,7 @@
    "latest_fund_mark": 89.31,
    "mark_period": "2026-07-31",
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.855,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -19386,7 +19386,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.6178,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -19483,7 +19483,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.78,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -19948,7 +19948,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.377,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -20069,7 +20069,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.87973,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -23106,7 +23106,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.023,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -26131,7 +26131,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.394,
    "last_trade_date": "2024-08-16",
    "history": [
@@ -26152,7 +26152,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.184,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -29205,7 +29205,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.609,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -32254,7 +32254,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 65.284,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -35223,7 +35223,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.328,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -38208,7 +38208,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 75.787,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -41225,7 +41225,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 60.919,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -44258,7 +44258,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 58.283,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -47207,7 +47207,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 73.793,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -50232,7 +50232,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 58.81,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -53249,7 +53249,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.44,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -56342,7 +56342,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.917,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -59363,7 +59363,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.048,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -62388,7 +62388,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.0,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -65417,7 +65417,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.874,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -68470,7 +68470,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 63.394,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -71499,7 +71499,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.351,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -74532,7 +74532,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 50.523,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -77541,7 +77541,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 62.472,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -80542,7 +80542,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 55.764,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -83559,7 +83559,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.294,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -86560,7 +86560,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.941,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -89609,7 +89609,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.878,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -92666,7 +92666,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.536,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -95707,7 +95707,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.27,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -98800,7 +98800,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.33,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -101845,7 +101845,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.766,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -104894,7 +104894,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.853,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -107923,7 +107923,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.742,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -111004,7 +111004,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 69.399,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -114053,7 +114053,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.514,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -116138,7 +116138,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.4,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -118239,7 +118239,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 66.789746,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -120300,7 +120300,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 65.8155,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -122373,7 +122373,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.573019,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -124098,7 +124098,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.544,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -125855,7 +125855,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.389,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -127592,7 +127592,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.523,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -129345,7 +129345,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 73.442,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -131062,7 +131062,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.294,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -132811,7 +132811,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.341,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -133912,7 +133912,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.253,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -134997,7 +134997,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.473,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -136106,7 +136106,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 75.502,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -137195,7 +137195,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 72.559,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -138280,7 +138280,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.462,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -139369,7 +139369,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.5705,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -139862,7 +139862,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.88965,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -140599,7 +140599,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.687,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -141344,7 +141344,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.712,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -142085,7 +142085,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.136,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -142822,7 +142822,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.339,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -143559,7 +143559,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.722,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -144296,7 +144296,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.344,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -145053,7 +145053,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.077,
    "last_trade_date": "2026-09-15",
    "history": [
@@ -145074,7 +145074,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.493,
    "last_trade_date": "2026-08-12",
    "history": [
@@ -145143,7 +145143,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.67,
    "last_trade_date": "2026-05-28",
    "history": [
@@ -145188,7 +145188,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 73.97,
    "last_trade_date": "2026-07-14",
    "history": [
@@ -145213,7 +145213,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.241,
    "last_trade_date": "2024-04-09",
    "history": [
@@ -145238,7 +145238,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.614,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -148303,7 +148303,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.704,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -151412,7 +151412,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 69.268,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -154541,7 +154541,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 66.334,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -157618,7 +157618,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.519,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -160687,7 +160687,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.353,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -163748,7 +163748,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.932,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -166849,7 +166849,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.293,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -169938,7 +169938,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.5,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -172979,7 +172979,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.118,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -175184,7 +175184,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.197,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -177421,7 +177421,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.666,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -179682,7 +179682,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.542,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -181955,7 +181955,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.323,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -184200,7 +184200,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.653,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -185237,7 +185237,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 78.461,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -186226,7 +186226,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.358,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -187215,7 +187215,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.698,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -188216,7 +188216,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.845,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -189253,7 +189253,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.428,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -190270,7 +190270,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.17,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -190771,7 +190771,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.537,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -191264,7 +191264,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.276,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -191773,7 +191773,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.79,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -192286,7 +192286,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.846,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -192779,7 +192779,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.031,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -193288,7 +193288,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.915,
    "last_trade_date": "2026-10-01",
    "history": [
@@ -193513,7 +193513,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.616,
    "last_trade_date": "2026-09-10",
    "history": [
@@ -193602,7 +193602,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.6739,
    "last_trade_date": "2026-09-02",
    "history": [
@@ -193631,7 +193631,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -193647,7 +193647,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.926,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -196676,7 +196676,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.344,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -199705,7 +199705,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.90049,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -202714,7 +202714,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.034,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -205491,7 +205491,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.5052,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -206908,7 +206908,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.905,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -209245,7 +209245,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.482,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -212306,7 +212306,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 74.303,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -215183,7 +215183,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.49,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -217884,7 +217884,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.368,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -220933,7 +220933,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.795,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -223982,7 +223982,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.104,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -226779,7 +226779,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.277,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -229832,7 +229832,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 73.457,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -232889,7 +232889,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.28,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -235362,7 +235362,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.663935,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -238443,7 +238443,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.942,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -241528,7 +241528,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.5,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -244561,7 +244561,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 78.647,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -247418,7 +247418,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 55.373,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -250535,7 +250535,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 51.088,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -253596,7 +253596,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 59.053045,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -256673,7 +256673,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 55.561786,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -259690,7 +259690,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.167,
    "last_trade_date": "2024-09-06",
    "history": [
@@ -260063,7 +260063,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.921,
    "last_trade_date": "2025-08-05",
    "history": [
@@ -260536,7 +260536,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.235,
    "last_trade_date": "2024-05-31",
    "history": [
@@ -260941,7 +260941,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 61.446,
    "last_trade_date": "2024-11-15",
    "history": [
@@ -261538,7 +261538,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.542,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -263679,7 +263679,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.709,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -265908,7 +265908,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.74,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -268089,7 +268089,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 54.98,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -270410,7 +270410,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.676,
    "last_trade_date": "2024-05-30",
    "history": [
@@ -270463,7 +270463,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.0,
    "last_trade_date": "2024-06-07",
    "history": [
@@ -270640,7 +270640,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.764228,
    "last_trade_date": "2024-11-06",
    "history": [
@@ -270757,7 +270757,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.7645,
    "last_trade_date": "2025-07-21",
    "history": [
@@ -270978,7 +270978,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.07,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -274091,7 +274091,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 62.292,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -277128,7 +277128,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 48.792,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -280197,7 +280197,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 45.61,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -283282,7 +283282,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.014613,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -286339,7 +286339,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.405,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -287832,7 +287832,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.229,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -289349,7 +289349,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.222,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -290986,7 +290986,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.009,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -292503,7 +292503,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.2542,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -293216,7 +293216,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.036925,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -294189,7 +294189,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.908,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -295166,7 +295166,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.549,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -296155,7 +296155,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.342,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -297184,7 +297184,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.86,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -298205,7 +298205,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.774711,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -299206,7 +299206,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.985457,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -300203,7 +300203,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.233242,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -300920,7 +300920,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.446,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -301649,7 +301649,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.777,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -302374,7 +302374,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.943,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -303123,7 +303123,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.0002,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -303872,7 +303872,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.789,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -304609,7 +304609,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.468,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -305338,7 +305338,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.6,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -305559,7 +305559,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.2321,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -305720,7 +305720,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.849,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -305945,7 +305945,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.4621,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -306158,7 +306158,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.79,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -306395,7 +306395,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.722,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -306632,7 +306632,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.241,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -306865,7 +306865,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.28,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -307094,7 +307094,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.767,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -307319,7 +307319,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.912,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -307552,7 +307552,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.302,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -310613,7 +310613,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.62,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -313678,7 +313678,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 66.724,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -316735,7 +316735,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 64.564,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -319656,7 +319656,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.699,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -322717,7 +322717,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.544,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -325770,7 +325770,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.86,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -326143,7 +326143,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.949,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -326524,7 +326524,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.923,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -326913,7 +326913,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.861,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -327294,7 +327294,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.088,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -327691,7 +327691,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.773,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -328088,7 +328088,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.186,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -328473,7 +328473,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.949,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -331650,7 +331650,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.424,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -334731,7 +334731,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.131,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -337804,7 +337804,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.262,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -341009,7 +341009,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.703271,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -344094,7 +344094,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.482,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -347371,7 +347371,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 74.324,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -350396,7 +350396,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.074,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -353449,7 +353449,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.619,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -356510,7 +356510,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.368,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -359623,7 +359623,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.956,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -362756,7 +362756,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.44,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -365797,7 +365797,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 72.48595,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -368810,7 +368810,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 72.373,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -371843,7 +371843,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.322,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -374904,7 +374904,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.97,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -377997,7 +377997,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 61.409,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -381030,7 +381030,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.061,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -384111,7 +384111,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.281,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -387148,7 +387148,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.946,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -390229,7 +390229,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 53.986171,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -393298,7 +393298,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 50.287,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -396355,7 +396355,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.563,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -399440,7 +399440,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.99,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -402489,7 +402489,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 67.214,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -405538,7 +405538,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 56.722006,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -408579,7 +408579,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.932,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -411552,7 +411552,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.3518,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -414613,7 +414613,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.034,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -417654,7 +417654,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 56.919,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -420591,7 +420591,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.95,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -423572,7 +423572,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.781,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -426661,7 +426661,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.63445,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -429774,7 +429774,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 72.147,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -432827,7 +432827,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.777,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -435904,7 +435904,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.879,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -439001,7 +439001,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.536,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -442006,7 +442006,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.735,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -445075,7 +445075,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.04089,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -448220,7 +448220,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.891,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -449697,7 +449697,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.637,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -451174,7 +451174,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.461,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -452667,7 +452667,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.772,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -454152,7 +454152,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -454168,7 +454168,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.991,
    "last_trade_date": "2026-08-06",
    "history": [
@@ -454189,7 +454189,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -454205,7 +454205,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.681,
    "last_trade_date": "2025-08-12",
    "history": [
@@ -454226,7 +454226,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.99,
    "last_trade_date": "2026-01-21",
    "history": [
@@ -456503,7 +456503,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.903,
    "last_trade_date": "2024-06-25",
    "history": [
@@ -456528,7 +456528,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.391,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -459565,7 +459565,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.141,
    "last_trade_date": "2026-08-18",
    "history": [
@@ -459590,7 +459590,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.357,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -462631,7 +462631,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.614,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -465668,7 +465668,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.284,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -468689,7 +468689,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.188,
    "last_trade_date": "2026-08-10",
    "history": [
@@ -470274,7 +470274,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.668,
    "last_trade_date": "2025-10-30",
    "history": [
@@ -472215,7 +472215,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.235,
    "last_trade_date": "2025-10-20",
    "history": [
@@ -474188,7 +474188,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.97651,
    "last_trade_date": "2026-02-18",
    "history": [
@@ -476189,7 +476189,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.022,
    "last_trade_date": "2025-10-21",
    "history": [
@@ -478198,7 +478198,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.518,
    "last_trade_date": "2025-10-22",
    "history": [
@@ -480207,7 +480207,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.283,
    "last_trade_date": "2026-08-20",
    "history": [
@@ -482240,7 +482240,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.903,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -482509,7 +482509,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.453,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -482770,7 +482770,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.167,
    "last_trade_date": "2026-07-31",
    "history": [
@@ -485539,7 +485539,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.454,
    "last_trade_date": "2026-09-28",
    "history": [
@@ -488296,7 +488296,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.165,
    "last_trade_date": "2026-07-22",
    "history": [
@@ -490869,7 +490869,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.875,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -491118,7 +491118,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.975,
    "last_trade_date": "2026-08-27",
    "history": [
@@ -493771,7 +493771,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.67,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -494036,7 +494036,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.308,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -496949,7 +496949,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -496965,7 +496965,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.31175,
    "last_trade_date": "2026-06-12",
    "history": [
@@ -498926,7 +498926,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.012,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -501251,7 +501251,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.887,
    "last_trade_date": "2026-06-09",
    "history": [
@@ -503196,7 +503196,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.276,
    "last_trade_date": "2026-01-16",
    "history": [
@@ -504501,7 +504501,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.04884,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -506570,7 +506570,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.676,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -508643,7 +508643,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.957,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -510760,7 +510760,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.531,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -512565,7 +512565,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.171,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -514362,7 +514362,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.693871,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -516159,7 +516159,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.338781,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -517460,7 +517460,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.034,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -518773,7 +518773,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.192,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -520094,7 +520094,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.029,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -521079,7 +521079,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.354161,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -522084,7 +522084,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 81.944,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -523073,7 +523073,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 64.725,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -524054,7 +524054,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.725312,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -525071,7 +525071,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.423,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -526080,7 +526080,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.393,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -527081,7 +527081,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.618,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -528166,7 +528166,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.269,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -529255,7 +529255,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.622,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -530348,7 +530348,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.641,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -531153,7 +531153,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.694,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -531970,7 +531970,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.997,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -532791,7 +532791,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.158,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -533612,7 +533612,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -533628,7 +533628,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -533644,7 +533644,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.148,
    "last_trade_date": "2024-07-22",
    "history": [
@@ -533677,7 +533677,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -533693,7 +533693,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.417,
    "last_trade_date": "2026-01-21",
    "history": [
@@ -533718,7 +533718,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.511,
    "last_trade_date": "2026-10-01",
    "history": [
@@ -534827,7 +534827,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.9571,
    "last_trade_date": "2025-10-16",
    "history": [
@@ -535304,7 +535304,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.76,
    "last_trade_date": "2025-10-09",
    "history": [
@@ -535497,7 +535497,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.294,
    "last_trade_date": "2026-07-09",
    "history": [
@@ -536434,7 +536434,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.889,
    "last_trade_date": "2025-12-03",
    "history": [
@@ -536923,7 +536923,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.524,
    "last_trade_date": "2026-02-26",
    "history": [
@@ -537852,7 +537852,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.279,
    "last_trade_date": "2026-04-01",
    "history": [
@@ -538797,7 +538797,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.5,
    "last_trade_date": "2026-07-16",
    "history": [
@@ -539610,7 +539610,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.715,
    "last_trade_date": "2026-07-08",
    "history": [
@@ -540307,7 +540307,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.257,
    "last_trade_date": "2026-08-10",
    "history": [
@@ -541856,7 +541856,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.975,
    "last_trade_date": "2026-07-15",
    "history": [
@@ -543385,7 +543385,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.0341,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -545010,7 +545010,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.887,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -548115,7 +548115,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.79,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -551192,7 +551192,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -551208,7 +551208,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -551224,7 +551224,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.744,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -554277,7 +554277,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -554293,7 +554293,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -554309,7 +554309,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.448,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -557414,7 +557414,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -557430,7 +557430,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -557446,7 +557446,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 72.278,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -560519,7 +560519,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.196,
    "last_trade_date": "2024-09-24",
    "history": [
@@ -560540,7 +560540,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -560556,7 +560556,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 69.696,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -563625,7 +563625,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.846,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -566670,7 +566670,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.567,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -569743,7 +569743,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.38,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -572784,7 +572784,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 47.936,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -575817,7 +575817,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.231,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -578894,7 +578894,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.839,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -581955,7 +581955,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 69.302458,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -584964,7 +584964,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 58.461,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -587993,7 +587993,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 55.08475,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -590946,7 +590946,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.354,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -593979,7 +593979,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.273,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -597012,7 +597012,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.465,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -600073,7 +600073,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 68.119,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -603094,7 +603094,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 66.113,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -606067,7 +606067,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.889,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -609120,7 +609120,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.645,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -612169,7 +612169,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.199,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -615222,7 +615222,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.946,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -616151,7 +616151,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.585,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -617104,7 +617104,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.161,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -618053,7 +618053,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.676,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -619018,7 +619018,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.692,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -619979,7 +619979,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.799,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -620924,7 +620924,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.075,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -621429,7 +621429,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.2263,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -622050,7 +622050,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.724,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -622687,7 +622687,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.449,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -623324,7 +623324,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.464,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -623973,7 +623973,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.345,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -624618,7 +624618,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.71,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -625267,7 +625267,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.891,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -625924,7 +625924,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.903,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -626573,7 +626573,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.302095,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -627222,7 +627222,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.405,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -627879,7 +627879,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.107,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -628116,7 +628116,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.555,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -628433,7 +628433,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.482,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -628746,7 +628746,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.001,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -629059,7 +629059,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.698,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -629380,7 +629380,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.368,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -629705,7 +629705,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.058,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -630010,7 +630010,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.337,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -630315,7 +630315,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630331,7 +630331,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630347,7 +630347,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630363,7 +630363,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630379,7 +630379,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.06,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -630520,7 +630520,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.43,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -630661,7 +630661,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630677,7 +630677,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630693,7 +630693,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -630709,7 +630709,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.794992,
    "last_trade_date": "2026-05-15",
    "history": [
@@ -630758,7 +630758,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.075,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -630939,7 +630939,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.33,
    "last_trade_date": "2026-10-02",
    "history": [
@@ -631188,7 +631188,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.785743,
    "last_trade_date": "2026-09-24",
    "history": [
@@ -631681,7 +631681,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.04,
    "last_trade_date": "2026-09-22",
    "history": [
@@ -631878,7 +631878,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.986,
    "last_trade_date": "2026-09-22",
    "history": [
@@ -632383,7 +632383,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.888,
    "last_trade_date": "2026-09-01",
    "history": [
@@ -632568,7 +632568,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.85,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -632753,7 +632753,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.357448,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -633174,7 +633174,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.305,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -633943,7 +633943,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.03795,
    "last_trade_date": "2026-09-30",
    "history": [
@@ -634488,7 +634488,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.863,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -635473,7 +635473,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.664124,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -635858,7 +635858,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.835733,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -636787,7 +636787,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -636803,7 +636803,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -636819,7 +636819,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.9566,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -639840,7 +639840,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.289,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -642641,7 +642641,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.129,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -644070,7 +644070,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.566,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -644267,7 +644267,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.527,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -644468,7 +644468,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.75,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -644669,7 +644669,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.891,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -644870,7 +644870,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -644886,7 +644886,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.594,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -647755,7 +647755,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.615,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -650788,7 +650788,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 75.294027,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -653545,7 +653545,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 80.49486,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -656374,7 +656374,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.431,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -659347,7 +659347,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.094,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -662388,7 +662388,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.515,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -665249,7 +665249,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.188,
    "last_trade_date": "2025-02-18",
    "history": [
@@ -665274,7 +665274,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 66.712,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -668299,7 +668299,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.398,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -671348,7 +671348,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 59.324,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -674365,7 +674365,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 51.802,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -677302,7 +677302,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.691,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -680411,7 +680411,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 75.788,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -683420,7 +683420,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 76.04,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -685765,7 +685765,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.638,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -688774,7 +688774,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.757,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -691811,7 +691811,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.71,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -694832,7 +694832,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.468,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -697865,7 +697865,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 64.97,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -700646,7 +700646,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.143,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -703527,7 +703527,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 52.773,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -706376,7 +706376,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.904,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -709421,7 +709421,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.421,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -712470,7 +712470,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.719,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -715567,7 +715567,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 77.168,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -718648,7 +718648,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 75.407,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -721721,7 +721721,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.659,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -724758,7 +724758,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.647,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -727807,7 +727807,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.262,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -730944,7 +730944,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.743,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -734025,7 +734025,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.448,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -737078,7 +737078,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.026,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -740135,7 +740135,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.899,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -742844,7 +742844,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.951,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -745549,7 +745549,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.388,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -748250,7 +748250,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.793,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -748755,7 +748755,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.885,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -749260,7 +749260,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.4,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -749761,7 +749761,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.841,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -750262,7 +750262,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.353,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -750751,7 +750751,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750767,7 +750767,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750783,7 +750783,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750799,7 +750799,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750815,7 +750815,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750831,7 +750831,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -750847,7 +750847,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 103.045,
    "last_trade_date": "2026-02-18",
    "history": [
@@ -753204,7 +753204,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.995,
    "last_trade_date": "2025-09-08",
    "history": [
@@ -754833,7 +754833,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.638,
    "last_trade_date": "2026-02-19",
    "history": [
@@ -757194,7 +757194,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 86.354,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -760179,7 +760179,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 71.8072,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -762724,7 +762724,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 64.72,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -765497,7 +765497,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 109.5,
    "last_trade_date": "2025-10-22",
    "history": [
@@ -767542,7 +767542,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.757,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -770459,7 +770459,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 102.955,
    "last_trade_date": "2025-10-23",
    "history": [
@@ -772488,7 +772488,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.86,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -775489,7 +775489,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.716,
    "last_trade_date": "2026-07-23",
    "history": [
@@ -778038,7 +778038,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.626,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -779651,7 +779651,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.425,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -780784,7 +780784,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.051,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -782125,7 +782125,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.21,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -782578,7 +782578,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.327,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -783251,7 +783251,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 102.9318,
    "last_trade_date": "2026-10-07",
    "history": [
@@ -783904,7 +783904,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.428,
    "last_trade_date": "2026-10-05",
    "history": [
@@ -784353,7 +784353,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.199,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -785174,7 +785174,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.247,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -785775,7 +785775,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.616,
    "last_trade_date": "2026-10-06",
    "history": [
@@ -785932,7 +785932,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.28,
    "last_trade_date": "2026-10-09",
    "history": [
@@ -786193,7 +786193,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.55794,
    "last_trade_date": "2026-10-08",
    "history": [
@@ -786538,7 +786538,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.897988,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -787835,7 +787835,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.537,
    "last_trade_date": "2026-10-08",
    "history": [
@@ -788968,7 +788968,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 103.425,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -790477,7 +790477,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.237324,
    "last_trade_date": "2026-10-08",
    "history": [
@@ -791006,7 +791006,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.232,
    "last_trade_date": "2026-10-13",
    "history": [
@@ -792439,7 +792439,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.044,
    "last_trade_date": "2025-04-22",
    "history": [
@@ -792468,7 +792468,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -792484,7 +792484,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -792500,7 +792500,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 73.0,
    "last_trade_date": "2024-02-29",
    "history": [
@@ -792521,7 +792521,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.163,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -795450,7 +795450,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -795466,7 +795466,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 63.892,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -798183,7 +798183,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.074,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -801224,7 +801224,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.957,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -804249,7 +804249,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.13,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -806910,7 +806910,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.304,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -808967,7 +808967,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.515,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -811052,7 +811052,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.355,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -812125,7 +812125,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.375,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -813222,7 +813222,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.278,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -814319,7 +814319,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.475,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -815412,7 +815412,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.656,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -815797,7 +815797,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.01,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -816166,7 +816166,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 92.054,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -816543,7 +816543,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.159,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -816664,7 +816664,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.321,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -816797,7 +816797,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.507,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -816922,7 +816922,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.649,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -817047,7 +817047,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.734,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -819848,7 +819848,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.629,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -822877,7 +822877,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.58,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -825906,7 +825906,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 111.969,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -828931,7 +828931,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 116.158,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -831808,7 +831808,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.366,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -833397,7 +833397,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.212,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -834986,7 +834986,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.416,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -836575,7 +836575,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.075,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -838160,7 +838160,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.538,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -838237,7 +838237,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -838253,7 +838253,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -838269,7 +838269,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -838285,7 +838285,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -838301,7 +838301,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.903,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -841326,7 +841326,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.151,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -844243,7 +844243,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.309,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -846876,7 +846876,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.438,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -849709,7 +849709,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.439,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -852734,7 +852734,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 79.072,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -855399,7 +855399,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.21,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -858428,7 +858428,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 58.896,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -860793,7 +860793,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.148,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -863166,7 +863166,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.868,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -864267,7 +864267,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.016,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -865372,7 +865372,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 84.001,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -867969,7 +867969,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.075,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -870946,7 +870946,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 88.62893,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -873779,7 +873779,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 59.322,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -876392,7 +876392,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 56.36,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -878437,7 +878437,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.074,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -880802,7 +880802,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.408,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -883815,7 +883815,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.91847,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -886288,7 +886288,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 63.666,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -889069,7 +889069,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.348,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -892090,7 +892090,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 82.618,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -895043,7 +895043,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 83.937,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -897660,7 +897660,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.782,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -900365,7 +900365,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -900381,7 +900381,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.951,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -903042,7 +903042,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -903058,7 +903058,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.426,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -906003,7 +906003,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.737028,
    "last_trade_date": "2026-09-23",
    "history": [
@@ -906024,7 +906024,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.166,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -908853,7 +908853,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.768,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -911834,7 +911834,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.04092,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -914751,7 +914751,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.074,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -916080,7 +916080,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.83297,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -917333,7 +917333,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.659,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -917894,7 +917894,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -917910,7 +917910,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -917926,7 +917926,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -917942,7 +917942,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.286,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -919075,7 +919075,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.243,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -921932,7 +921932,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.02,
    "last_trade_date": "2026-07-21",
    "history": [
@@ -922037,7 +922037,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.3,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -922926,7 +922926,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 91.397,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -923595,7 +923595,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.76,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -924244,7 +924244,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.685,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -924897,7 +924897,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.80283,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -925534,7 +925534,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 107.569,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -927587,7 +927587,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.131,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -927748,7 +927748,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.662,
    "last_trade_date": "2026-10-14",
    "history": [
@@ -928677,7 +928677,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.549,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -929314,7 +929314,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.314,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -929943,7 +929943,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.167,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -930592,7 +930592,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 94.255,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -931237,7 +931237,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.16,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -931882,7 +931882,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.79016,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -932523,7 +932523,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.447,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -933252,7 +933252,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.322,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -933981,7 +933981,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 89.661,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -934698,7 +934698,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": null,
    "last_trade_date": null,
    "history": [],
@@ -934714,7 +934714,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.201,
    "last_trade_date": "2025-05-28",
    "history": [
@@ -934735,7 +934735,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.395,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -937736,7 +937736,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.676,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -940789,7 +940789,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.147311,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -943770,7 +943770,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.42798,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -945887,7 +945887,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.295,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -948012,7 +948012,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 96.409,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -950141,7 +950141,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.575,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -952266,7 +952266,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 85.398,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -954379,7 +954379,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.6632,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -955492,7 +955492,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.023,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -956605,7 +956605,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 95.654,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -957730,7 +957730,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.235,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -958839,7 +958839,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 99.13437,
    "last_trade_date": "2026-10-15",
    "history": [
@@ -959400,7 +959400,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.251,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -959989,7 +959989,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 97.833,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -960598,7 +960598,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.520533,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -960827,7 +960827,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 100.0,
    "last_trade_date": "2024-02-22",
    "history": [
@@ -960852,7 +960852,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.59,
    "last_trade_date": "2025-04-30",
    "history": [
@@ -960885,7 +960885,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.4,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -962418,7 +962418,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 98.5819,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -962891,7 +962891,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.2125,
    "last_trade_date": "2026-06-25",
    "history": [
@@ -963872,7 +963872,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 90.6558,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -964165,7 +964165,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 214.2783,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -964730,7 +964730,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 187.5,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -964899,7 +964899,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 399.3876,
    "last_trade_date": "2026-06-10",
    "history": [
@@ -965408,7 +965408,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 313.0589,
    "last_trade_date": "2026-08-24",
    "history": [
@@ -965453,7 +965453,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.9426,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -966410,7 +966410,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 69.8857,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -967123,7 +967123,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 70.7101,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -967920,7 +967920,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 57.1227,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -968373,7 +968373,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 164.27,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -969678,7 +969678,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 116.9697,
    "last_trade_date": "2026-10-16",
    "history": [
@@ -970655,7 +970655,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 87.254,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -971604,7 +971604,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 101.932,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -972625,7 +972625,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 103.45,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -973010,7 +973010,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.313,
    "last_trade_date": "2026-10-19",
    "history": [
@@ -973507,7 +973507,7 @@
    "latest_fund_mark": null,
    "mark_period": null,
    "source": "FINRA TRACE public lookup (Kilambi Research collection)",
-   "as_of": "2026-10-16",
+   "as_of": "2026-10-19",
    "last_trade_price": 93.863,
    "last_trade_date": "2026-09-29",
    "history": [
