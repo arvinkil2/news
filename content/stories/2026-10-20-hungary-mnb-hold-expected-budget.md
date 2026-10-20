@@ -1,12 +1,12 @@
 ---
 title: "Hungary holds base rate at 5.50 percent as expected"
 date: 2026-10-20T07:27:37-04:00
-last_updated: 2026-10-20T08:30:27-04:00
+last_updated: 2026-10-20T09:22:58-04:00
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
 lede: "Hungary's central bank left its base rate unchanged at 5.50 percent on Tuesday, with the overnight deposit rate held at 4.50 percent and the overnight collateralised lending rate at 6.50 percent, effective October 21, the Magyar Nemzeti Bank said."
-why_it_matters: "The hold was unanimous in analyst expectations, so the market test now sits with the statement and guidance: whether a December cut stays alive after the government targeted a 4.9 percent of GDP deficit for 2027, with Commerzbank arguing inflation momentum leaves no case for cuts and ING still expecting 25 basis points in December."
+why_it_matters: "The hold was unanimous in analyst expectations, and Reuters reported it came amid upside inflation risks from global energy prices and the government's planned wage rises and tax cuts, which cut against the case for a December cut that ING still expects and Commerzbank argues has no basis in the inflation data."
 featured: true
 evidence_grade: "B"
 sources:
@@ -30,10 +30,16 @@ sources:
     publisher: "Reuters, via TradingView"
     url: "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3YS07P:0-hungary-plans-cutting-2027-budget-deficit-to-4-9-of-gdp/"
     published: "2026-10-19"
+  - title: "Hungary central bank leaves base rate steady as inflation rebound looms"
+    publisher: "Reuters, via TradingView"
+    url: "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4660EG:0-hungary-central-bank-leaves-base-rate-steady-as-inflation-rebound-looms/"
+    published: "2026-10-20"
 tags: []
-data_as_of: "Decision from the Magyar Nemzeti Bank's interest rate conditions release dated October 20, 2026, read on mnb.hu; the rates take effect October 21, 2026. The bank's long form Monetary Council statement had not yet been posted when this update was written, so no new forward guidance is reported here. Budget figures from the government's 2027 budget presentation on Monday, October 19, 2026."
+data_as_of: "Decision from the Magyar Nemzeti Bank's interest rate conditions release dated October 20, 2026, read on mnb.hu; the rates take effect October 21, 2026. The bank's long form Monetary Council statement had not yet been posted when this update was written, so no new forward guidance is reported here. Budget figures from the government's 2027 budget presentation on Monday, October 19, 2026. Update: the Reuters report via TradingView, published October 20, 2026 at 12:03 UTC, was read in summary form on TradingView, where the full text is gated; the upside inflation risk framing and the unanimous forecast are from that summary."
 update_bump: true
 ---
+
+**Latest:** Reuters reported that the hold was in line with the unanimous forecast of the economists it polled, and that the decision came amid upside inflation risks from global energy prices and the government's plans for large wage rises and tax cuts in next year's budget. That is the first account of the reasoning behind the decision to reach this site: the bank's long form Monetary Council statement had not been posted when its rate conditions release was read earlier today.
 
 **Latest:** The Monetary Council left the central bank interest rate conditions unchanged at its meeting on Tuesday October 20, the Magyar Nemzeti Bank said in its interest rate conditions release. The base rate stays at 5.50 percent, the overnight central bank deposit rate at 4.50 percent and the overnight collateralised loan rate at 6.50 percent, all effective from October 21. The decision matches the unanimous analyst expectation set out below. The bank's long form statement, which carries the Council's assessment and guidance language, had not yet appeared on its website when this update was written, and will be reported when it posts.
 
