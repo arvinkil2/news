@@ -1,6 +1,6 @@
 ---
 title: "KONA COAST (CD 2018-CD7 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CD 2018-CD7 Mortgage Trust."
 data_as_of: "loan data through March 2021; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
