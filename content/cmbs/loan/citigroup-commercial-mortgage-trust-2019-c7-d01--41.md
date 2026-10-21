@@ -1,8 +1,8 @@
 ---
 title: "COURTYARD BY MARRIOTT NEW HAVEN/MILFORD (Citigroup Commercial Mortgage Trust 2019-C7)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Citigroup Commercial Mortgage Trust 2019-C7."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2022-09-16"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2019-c7-d01/">&larr; Citigroup Commercial Mortgage Trust 2019-C7</a> / <a href="/cmbs/deal-loans/citigroup-commercial-mortgage-trust-2019-c7-d01/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
