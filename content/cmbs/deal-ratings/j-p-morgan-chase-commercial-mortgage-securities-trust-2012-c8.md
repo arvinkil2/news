@@ -1,6 +1,6 @@
 ---
 title: "J.P. Morgan Chase Commercial Mortgage Securities Trust 2012-C8: rating history"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Rating actions, action dates and public knowledge dates for J.P. Morgan Chase Commercial Mortgage Securities Trust 2012-C8."
 data_as_of: "loan data through February 2021; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2022-08-17"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "GNMAG Asset Backed Securitizations Trust, Series 2020-1: rating history"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Rating actions, action dates and public knowledge dates for GNMAG Asset Backed Securitizations Trust, Series 2020-1."
 data_as_of: "loan data through not yet reported; ratings as held in the dataset at 2026-10-13"
 ---

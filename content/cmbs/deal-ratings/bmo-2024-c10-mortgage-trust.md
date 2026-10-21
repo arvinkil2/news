@@ -1,6 +1,6 @@
 ---
 title: "BMO 2024-C10 Mortgage Trust: rating history"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Rating actions, action dates and public knowledge dates for BMO 2024-C10 Mortgage Trust."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
 ---
