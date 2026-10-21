@@ -348,6 +348,7 @@ aliases:
 <h2>Filing sources</h2>
 <p>This page combines the filing units below for this trust. The figures are the main unit's (the first row); the combined units are earlier or partial filings of the same trust whose dated loans carry the same origination dates as the main unit's loans, and no month is counted twice.</p>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Filing unit</th><th>Months of loan reports</th><th>Loans</th></tr></thead><tbody><tr><td>CIK 1785812, segment D01</td><td class="num">83</td><td class="num">76</td></tr><tr><td>CIK 1532799, segment D12</td><td class="num">2</td><td class="num">70</td></tr></tbody></table></div>
+<p class="data-vintage">Cross-dataset record: <a href="/entities/">Entity Index</a>. This trust is resolved there to its merged-dataset unit, with fund-mark coverage by class.</p>
 <p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports, Form 10-D distribution reports and the deal prospectus; rating histories published under SEC Rule 17g-7(b) and agency releases. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
 <script>
 (function(){
