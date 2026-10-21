@@ -1,8 +1,8 @@
 ---
 title: "1027-1031 West Madison Street (Benchmark 2018-B6 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Benchmark 2018-B6 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2023-01-12"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/benchmark-2018-b6-mortgage-trust/">&larr; Benchmark 2018-B6 Mortgage Trust</a> / <a href="/cmbs/deal-loans/benchmark-2018-b6-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
