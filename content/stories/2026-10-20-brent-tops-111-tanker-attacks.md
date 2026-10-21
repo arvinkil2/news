@@ -1,12 +1,12 @@
 ---
 title: "Brent tops 111 dollars as tanker attacks sustain risk premium"
 date: 2026-10-20T07:27:43-04:00
-last_updated: 2026-10-20T15:23:47-04:00
+last_updated: 2026-10-21T06:12:43-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "Brent crude settled at 111.33 dollars a barrel on Monday and held near five month highs on Tuesday, as Iran's Revolutionary Guards said two more tankers had struck naval mines in the southern Strait of Hormuz and a third, carrying more than 2 million barrels of crude, had caught fire, claims no independent source has confirmed."
-why_it_matters: "Mines are the escalation tanker owners fear most, because a mined route stays dangerous until it is swept, and the Guards are now claiming mine strikes while US Central Command has already called an earlier mine claim false, leaving the market to price a threat it cannot verify on top of at least 23 ship attacks logged in the first two weeks of October."
+lede: "A tanker was struck by an unknown projectile 11 nautical miles off Bukha, Oman, near the Strait of Hormuz on Wednesday and caught fire, with all crew reported safe and the vessel now at anchor, the UK Maritime Trade Operations centre reported, as Brent crude held above 110 dollars a barrel."
+why_it_matters: "Unlike the Revolutionary Guards' unverified mine claims, this strike is reported by the British maritime security agency that logs incidents in the strait, which makes it a confirmed addition to at least 23 ship attacks in the first two weeks of October and keeps the risk premium in crude tied to verifiable damage to tonnage, not only to claims."
 featured: true
 evidence_grade: "B"
 sources:
@@ -30,10 +30,16 @@ sources:
     publisher: "Seoul Economic Daily"
     url: "https://en.sedaily.com/international/2026/10/20/two-more-tankers-hit-by-mines-in-hormuz-brent-hits-5-month"
     published: "2026-10-20"
+  - title: "Ship attacked near Strait of Hormuz: maritime agency"
+    publisher: "Arab News, reporting UKMTO"
+    url: "https://www.arabnews.com/middle-east/ship-attacked-near-strait-of-hormuz-maritime-agency-3007496"
+    published: "2026-10-21"
 tags: []
-data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters. Update: incident counts, engine room damage reports and export estimates are from Bloomberg reporting of October 20, 2026, read in full via gCaptain, citing naval groups in the region, security consultants, Intertanko, Bimco and Kpler. Update: the Guards' Tuesday mine statements are from the IRGC public affairs office and Iranian state television as reported by Arab News and the Seoul Economic Daily on October 20, 2026, both read in full; the statements name no vessel and the mine claims are not independently confirmed, so they are carried as the Guards' account only. The UKMTO incident report is as carried by the Seoul Economic Daily."
+data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters. Update: incident counts, engine room damage reports and export estimates are from Bloomberg reporting of October 20, 2026, read in full via gCaptain, citing naval groups in the region, security consultants, Intertanko, Bimco and Kpler. Update: the Guards' Tuesday mine statements are from the IRGC public affairs office and Iranian state television as reported by Arab News and the Seoul Economic Daily on October 20, 2026, both read in full; the statements name no vessel and the mine claims are not independently confirmed, so they are carried as the Guards' account only. The UKMTO incident report is as carried by the Seoul Economic Daily. Update, Wednesday, October 21, 2026: the Bukha tanker strike, its location 11 nautical miles off Bukha, the fire, the crew reported safe, no reported environmental impact and the vessel at anchor are from the UK Maritime Trade Operations centre as reported by Arab News on October 21, 2026, read in full; Arab News updated the report at 12:46 on October 21, and no party has claimed the strike in that report."
 update_bump: true
 ---
+
+**Latest:** A tanker was struck by an unknown projectile on Wednesday 11 nautical miles off Bukha, Oman, near the Strait of Hormuz, sparking a fire, the United Kingdom Maritime Trade Operations centre reported, as carried by Arab News. The tanker is now at anchor, all crew are reported safe and there is no reported environmental impact at this time, UKMTO said. Arab News reported that attacks on vessels attempting to cross the waterway have increased in recent days, as Washington escorts more ships through the strait.
 
 **Latest:** Iran's Revolutionary Guards said on Tuesday that mines laid by their navy exploded in the southern transit zone of the Strait of Hormuz, setting two oil tankers ablaze and halting their voyages, Arab News and the Seoul Economic Daily reported. A further Guards statement carried by Iranian state television said a third tanker, carrying more than 2 million barrels of crude and travelling with its radar and navigation systems switched off, had exploded and caught fire after striking a mine south of the strait. No vessel has been named and the claims have not been independently confirmed. The United Kingdom Maritime Trade Operations centre reported an encounter between a tanker and military personnel about 121 nautical miles east of Duqm, Oman, and US Central Command had already dismissed a similar Guards mine claim made on October 17 as false.
 
