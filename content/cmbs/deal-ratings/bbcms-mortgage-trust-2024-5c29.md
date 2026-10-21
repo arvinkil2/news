@@ -1,6 +1,6 @@
 ---
 title: "BBCMS Mortgage Trust 2024-5C29: rating history"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Rating actions, action dates and public knowledge dates for BBCMS Mortgage Trust 2024-5C29."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

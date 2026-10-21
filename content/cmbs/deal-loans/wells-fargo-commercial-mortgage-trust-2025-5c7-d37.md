@@ -1,6 +1,6 @@
 ---
 title: "Wells Fargo Commercial Mortgage Trust 2025-5C7 (segment D37, CIK 850779): loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Wells Fargo Commercial Mortgage Trust 2025-5C7."
 data_as_of: "loan data through March 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

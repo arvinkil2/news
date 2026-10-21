@@ -1,6 +1,6 @@
 ---
 title: "Morgan Stanley Bank of America Merrill Lynch Trust 2025-5C2: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Morgan Stanley Bank of America Merrill Lynch Trust 2025-5C2."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
