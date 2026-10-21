@@ -1,6 +1,6 @@
 ---
 title: "Stow Property (and 2 more properties) (BBCMS Mortgage Trust 2025-C39)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BBCMS Mortgage Trust 2025-C39."
 data_as_of: "loan data through September 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
