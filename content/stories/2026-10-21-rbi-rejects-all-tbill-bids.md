@@ -1,7 +1,7 @@
 ---
 title: "RBI rejects all bids at treasury bill auction"
 date: 2026-10-21T06:47:11-04:00
-last_updated: 2026-10-21T06:47:11-04:00
+last_updated: 2026-10-21T07:14:17-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -25,3 +25,5 @@ update_bump: true
 ---
 
 The Reserve Bank of India accepted no bids at Wednesday's treasury bill auction, its published results showed, turning away competitive bids of 15,366.600 crore rupees on the 91-day bill, 18,925.500 crore on the 182-day bill and 11,352.500 crore on the 364-day bill, against notified amounts of 8,000 crore, 8,000 crore and 7,000 crore rupees. No cut-off price or yield was set for any tenor, and the full result showed no non-competitive bids accepted either, despite 12,028.759 crore, 1,712.416 crore and 1,683.571 crore rupees received on the three tenors.
+
+The rejection sits inside a two sided liquidity week reported in full in today's companion story: the central bank's overnight variable rate repo the same morning allotted 50,007 crore rupees against 93,241 crore of bids at a 5.52 percent cut-off, while banks simultaneously parked 146,888 crore rupees in the standing deposit facility. Cash is available overnight at the policy corridor; what bidders would not do on Wednesday was lend it to the government for 91 to 364 days at the yields on offer.

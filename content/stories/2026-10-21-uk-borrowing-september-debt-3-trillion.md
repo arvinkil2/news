@@ -1,7 +1,7 @@
 ---
 title: "UK borrowing beats forecast as debt passes 3 trillion pounds"
 date: 2026-10-21T02:13:48-04:00
-last_updated: 2026-10-21T02:13:48-04:00
+last_updated: 2026-10-21T07:14:17-04:00
 beats: ["rates"]
 regions: ["europe"]
 status: "developing"
@@ -21,3 +21,5 @@ update_bump: true
 ---
 
 UK public sector borrowing was 24.5 billion pounds in September 2026, 1.8 billion pounds more than a year earlier and the second highest September on record behind 2020, as spending, including debt interest, rose faster than government income, the Office for National Statistics said. Borrowing in the financial year to September was 97.8 billion pounds, 4.4 billion pounds less than the same period last year but 6.0 billion pounds above the Office for Budget Responsibility forecast, and central government debt interest payable reached 10.9 billion pounds in September, the highest September figure since monthly records began in 1997 and 2.0 billion pounds above forecast. Public sector net debt was provisionally estimated at 3,005.0 billion pounds at the end of September, exceeding 3 trillion pounds for the first time and equivalent to 94.0 percent of GDP, a share last seen in the early 1960s, although it was 0.7 percentage points lower than a year earlier.
+
+The release lands a week before the budget. The BBC reported inflation and government borrowing both at their highest for a year ahead of the budget, and its economics editor wrote that the two releases together illustrate the Chancellor's budget challenge. With the financial year borrowing overshoot at 6.0 billion pounds against the Office for Budget Responsibility forecast and September debt interest at a record for the month, the fiscal room the budget can credibly claim is set by these figures, not by the presentation.
