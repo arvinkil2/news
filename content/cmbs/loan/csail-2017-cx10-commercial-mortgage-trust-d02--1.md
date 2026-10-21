@@ -1,6 +1,6 @@
 ---
 title: "3 Columbus Circle (CSAIL 2017-CX10 Commercial Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CSAIL 2017-CX10 Commercial Mortgage Trust."
 data_as_of: "loan data through December 2020; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
