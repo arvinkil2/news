@@ -345,11 +345,29 @@ def _tsy(pts, years):
 _DETAIL = None
 
 
+def _load_bond_detail():
+    """Per-bond detail (marks, funds, trades). Split into shards on
+    2026-10-21: the monolith bond_detail.json reached 47 MB, past the
+    GitHub blob API ceiling, so bond_detail_prep.py now writes
+    data/macro/bond_detail/{index.json,shard-NN.json}. Merge the
+    shards listed in the index back into the identical dict. Falls
+    back to the legacy monolith if the shard directory is absent."""
+    sdir = os.path.join(DATA, "bond_detail")
+    idxp = os.path.join(sdir, "index.json")
+    if os.path.exists(idxp):
+        idx = json.load(open(idxp))
+        out = {}
+        for name in idx["shards"]:
+            out.update(json.load(open(os.path.join(sdir, name))))
+        return out
+    p = os.path.join(DATA, "bond_detail.json")
+    return json.load(open(p)) if os.path.exists(p) else {}
+
+
 def _detail_data():
     global _DETAIL
     if _DETAIL is None:
-        p = os.path.join(DATA, "bond_detail.json")
-        _DETAIL = json.load(open(p)) if os.path.exists(p) else {}
+        _DETAIL = _load_bond_detail()
     return _DETAIL
 
 
@@ -359,7 +377,8 @@ _NPORT = None
 def _nport_panel():
     """The N-PORT full-universe join panel (data/macro/nport_panel
     .json, built by ~/workspace/nport/build_site_panel.py): per-bond
-    quarterly medians with each quarter's modal report-ending period,
+    quarterly medians with each quarter's modal report period (the
+    as-of date of the holdings, N-PORT Item A.3.b REPORT_DATE),
     holder aggregates and top holders. The single source for every
     N-PORT figure the builders render (Stage 2, 2026-10-20)."""
     global _NPORT
@@ -2378,7 +2397,7 @@ def bond_analytics_page():
             f'median; {_nabove} print more than 5 points above. The '
             f'mark is the median of fund-reported prices across the '
             f'full fund universe (SEC N-PORT), each dated at its own '
-            f'modal report-ending period; a gap mixes market '
+            f'modal report period; a gap mixes market '
             f'repricing with the fund reporting lag.</p>')
         _trs = []
         for r in _grow:
@@ -3043,10 +3062,10 @@ def bond_pages():
                 "marks: the middle fund-reported price per 100 of "
                 "principal across every fund reporting a priced "
                 "position in this bond, from SEC Form N-PORT filings. "
-                "The period shown is the most common report-ending "
-                "date among the bond's reporting funds that quarter; "
-                "funds file about 60 days after period end, so the "
-                "mark lags the market.</p>\n")
+                "The period shown is the most common date as of "
+                "which the bond's reporting funds reported their "
+                "holdings that quarter; funds file about 60 days "
+                "after that date, so the mark lags the market.</p>\n")
             _hn = _L.get("n_funds_any") or _L["n_funds"]
             _hi = [("Funds reporting a position", f"{_hn}",
                     [f"Of which {_L['n_funds']} report a priced "
