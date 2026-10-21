@@ -1,6 +1,6 @@
 ---
 title: "CMBS deal index"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Every CMBS deal page in the dataset, with current delinquency, servicing, coverage and maturity figures."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
 ---

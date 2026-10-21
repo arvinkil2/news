@@ -1,6 +1,6 @@
 ---
 title: "Midtown Towers (AXDB 2026-MULT1 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in AXDB 2026-MULT1 Mortgage Trust."
 data_as_of: "loan data through October 2026"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Morgan Stanley Bank of America Merrill Lynch Trust 2015-C22"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for Morgan Stanley Bank of America Merrill Lynch Trust 2015-C22."
 data_as_of: "loan data through January 2023; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

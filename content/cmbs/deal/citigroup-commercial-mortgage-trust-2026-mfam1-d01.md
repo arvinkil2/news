@@ -1,6 +1,6 @@
 ---
 title: "Citigroup Commercial Mortgage Trust 2026-MFAM1"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for Citigroup Commercial Mortgage Trust 2026-MFAM1."
 data_as_of: "loan data through September 2026"
 aliases:

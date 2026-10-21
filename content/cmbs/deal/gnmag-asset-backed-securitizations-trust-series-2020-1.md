@@ -1,6 +1,6 @@
 ---
 title: "GNMAG Asset Backed Securitizations Trust, Series 2020-1"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for GNMAG Asset Backed Securitizations Trust, Series 2020-1."
 data_as_of: "loan data through not yet reported; ratings as held in the dataset at 2026-10-13"
 ---

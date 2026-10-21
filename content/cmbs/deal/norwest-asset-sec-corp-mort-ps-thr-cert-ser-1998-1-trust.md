@@ -1,6 +1,6 @@
 ---
 title: "Norwest Asset Sec Corp Mort Ps Thr Cert Ser 1998-1 Trust"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Deal facts for Norwest Asset Sec Corp Mort Ps Thr Cert Ser 1998-1 Trust."
 data_as_of: "no loan data attached to this trust in the dataset"
 ---
