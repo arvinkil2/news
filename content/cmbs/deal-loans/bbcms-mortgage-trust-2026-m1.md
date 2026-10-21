@@ -1,6 +1,6 @@
 ---
 title: "BBCMS Mortgage Trust 2026-M1: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for BBCMS Mortgage Trust 2026-M1."
 data_as_of: "loan data through September 2026"
 ---

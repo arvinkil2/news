@@ -1,6 +1,6 @@
 ---
 title: "Barclays Commercial Mortgage Securities LLC (segment D02, CIK 1541480): loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Barclays Commercial Mortgage Securities LLC."
 data_as_of: "loan data through October 2023; ratings as held in the dataset at 2026-10-01"
 ---

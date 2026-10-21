@@ -1,6 +1,6 @@
 ---
 title: "Benchmark 2026-V22 Mortgage Trust: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Benchmark 2026-V22 Mortgage Trust."
 data_as_of: "loan data through September 2026"
 ---

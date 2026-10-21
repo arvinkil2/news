@@ -1,8 +1,8 @@
 ---
 title: "Citigroup Commercial Mortgage Trust 2017-P8: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Citigroup Commercial Mortgage Trust 2017-P8."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2023-06-16"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2017-p8-d01/">&larr; Citigroup Commercial Mortgage Trust 2017-P8</a> / <a href="/cmbs/">CMBS market</a></p>

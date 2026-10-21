@@ -1,8 +1,8 @@
 ---
 title: "Benchmark 2021-B27 Mortgage Trust: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Benchmark 2021-B27 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2022-12-16"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/benchmark-2021-b27-mortgage-trust/">&larr; Benchmark 2021-B27 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

@@ -1,6 +1,6 @@
 ---
 title: "CMBS monthly changes"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "New delinquencies, special servicing transfers, modifications, liquidations, maturities and rating downgrades for September 2026."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15"
 ---

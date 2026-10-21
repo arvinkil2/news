@@ -1,6 +1,6 @@
 ---
 title: "Bank 2026-BNK52: loan annex"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Loan detail for Bank 2026-BNK52."
 data_as_of: "loan data through September 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
