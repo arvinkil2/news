@@ -1,13 +1,13 @@
 ---
 title: "US orders non-emergency embassy staff out of Saudi Arabia"
 date: 2026-10-21T16:46:05-04:00
-last_updated: 2026-10-21T16:46:05-04:00
+last_updated: 2026-10-21T18:10:24-04:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "The US State Department on Wednesday ordered non-emergency government employees and their families to leave Saudi Arabia, a spokesman confirmed, as Houthi attacks on the kingdom's airports and critical infrastructure continue."
-why_it_matters: "An ordered departure is mandatory rather than voluntary, so the step signals Washington expects the Houthi campaign against Saudi Arabia to continue or widen, after a strike on Riyadh's airport earlier this month and a drone attack on an oil facility on Wednesday."
+lede: "The US State Department on Wednesday ordered non-emergency government employees and their families to leave Saudi Arabia, a spokesman confirmed, as Saudi Arabia said two workers were killed by falling debris from a drone intercepted over the Shaybah oil field."
+why_it_matters: "An ordered departure is mandatory rather than voluntary, so the step signals Washington expects the Houthi campaign against Saudi Arabia to continue or widen, and the deaths at Shaybah, a major oil field in the east of the country, are the first reported fatalities of the renewed campaign against Saudi energy sites."
 featured: false
 evidence_grade: "B"
 sources:
@@ -23,10 +23,16 @@ sources:
     publisher: "US Embassy and Consulates in Saudi Arabia"
     url: "https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-october-21-2026/"
     published: "2026-10-21"
+  - title: "Two dead in Saudi Arabia after the interception of a drone over the Shaybah oil field"
+    publisher: "ERT News, citing Athens-Macedonian News Agency"
+    url: "https://www.ertnews.gr/eidiseis/dyo-nekroi-sti-saoudiki-aravia-meta-tin-anaxaitisi-drone-pano-apo-to-koitasma-petrelaiou-tis-seimpa/"
+    published: "2026-10-21"
 tags: []
-data_as_of: "Reuters report of October 21, 2026, read in full, reporting the State Department preparing ordered departures across the Gulf on the account of three US officials; Bloomberg report of October 21, 2026, carrying State Department spokesman Tommy Pigott's confirmation that the ordered departure covers non-emergency employees and family members in Saudi Arabia only; AFP reporting via a diplomatic source, read in syndication, put the scope wider, at all staff in Saudi Arabia and families in the United Arab Emirates, Jordan, Qatar and Bahrain, a scope Pigott disputed. The US Embassy in Riyadh's security alert of October 21, 2026 was read in search extract; the embassy page itself returned an access error on direct fetch. Developing item."
+data_as_of: "Reuters report of October 21, 2026, read in full, reporting the State Department preparing ordered departures across the Gulf on the account of three US officials; Bloomberg report of October 21, 2026, carrying State Department spokesman Tommy Pigott's confirmation that the ordered departure covers non-emergency employees and family members in Saudi Arabia only; AFP reporting via a diplomatic source, read in syndication, put the scope wider, at all staff in Saudi Arabia and families in the United Arab Emirates, Jordan, Qatar and Bahrain, a scope Pigott disputed. The US Embassy in Riyadh's security alert of October 21, 2026 was read in search extract; the embassy page itself returned an access error on direct fetch. Update, 18:10 ET: ERT News report of October 21, 2026, in Greek, read in full in translation, citing the Athens-Macedonian News Agency for the Saudi Ministry of Energy announcement on the Shaybah interception casualties; the ministry did not state the drone's origin. Developing item."
 update_bump: true
 ---
+
+**Latest:** Saudi Arabia's Ministry of Energy said two people, nationals of the Philippines and Nepal, were killed and two others, nationals of Pakistan and India, were injured on Wednesday by falling debris after a drone targeting an installation at the Shaybah oil field, in the east of the country, was intercepted, ERT News reported, citing the Athens-Macedonian News Agency. The ministry's announcement did not say where the drone came from.
 
 The US State Department has ordered non-emergency government employees and their family members to leave Saudi Arabia, spokesman Tommy Pigott confirmed on Wednesday, saying the safety of department personnel and their families is the highest priority and linking the move to Houthi attacks on the country, including on airports. A diplomatic source had told AFP that all American staff and their families were ordered to depart the embassy in Saudi Arabia and that families in the United Arab Emirates, Jordan, Qatar and Bahrain were also told to leave, a wider scope that Pigott said does not apply, as the order covers Saudi Arabia only.
 
