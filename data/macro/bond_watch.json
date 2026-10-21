@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-21",
  "marks_as_of": "2026-06-30",
  "source": "SEC Form N-PORT, full fund universe; the mark is the median of fund-reported prices across the funds holding the bond, computed by Kilambi Research from the SEC bulk data",
  "method": "Quarterly fund marks, one per N-PORT archive quarter, each dated at the modal report-ending period among the bond's reporting funds. Funds file about 60 days after period end, so the newest mark lags the market. Not live trade prices.",
