@@ -1,8 +1,8 @@
 ---
 title: "Loan 55 (Citigroup Commercial Mortgage Trust 2017-C4)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Citigroup Commercial Mortgage Trust 2017-C4."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2023-01-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2017-c4-d01/">&larr; Citigroup Commercial Mortgage Trust 2017-C4</a> / <a href="/cmbs/deal-loans/citigroup-commercial-mortgage-trust-2017-c4-d01/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
