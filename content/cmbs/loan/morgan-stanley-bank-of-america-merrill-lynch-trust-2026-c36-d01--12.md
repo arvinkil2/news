@@ -1,6 +1,6 @@
 ---
 title: "ROBERT PITT PROFESSIONAL PLAZA (Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36."
 data_as_of: "loan data through September 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
