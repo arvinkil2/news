@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "CATL shares fell 10.64 percent in Hong Kong to 368 Hong Kong dollars, their lowest since July 2025, and about 12 percent in Shenzhen on Wednesday, after third quarter net profit fell 5.77 percent from the previous quarter to 21.25 billion yuan even as revenue rose 58.58 percent year on year to 165.22 billion yuan."
 why_it_matters: "CATL is the world's largest electric vehicle battery maker, and the selloff shows tax changes and falling unit profit, not demand, are now the binding constraint on battery margins, with the company negotiating to pass part of the new tax costs on to its customers."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure"

@@ -9,7 +9,7 @@ regions:
 status: story
 lede: The European Commission on October 21 positively assessed Germany's fourth and final payment request of 6 billion euros under the Recovery and Resilience Facility, finding all 8 milestones and 19 targets met and closing a national plan worth 30.3 billion euros in total.
 why_it_matters: Germany is the EU's largest economy, and completing its recovery plan removes the biggest single national file from the NextGenerationEU programme as the bloc argues over the scale of its next long term budget.
-featured: true
+featured: false
 evidence_grade: A
 sources:
 - title: Commission greenlights Germany's final payment request for 6 billion euros under NextGenerationEU

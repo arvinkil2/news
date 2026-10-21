@@ -7,7 +7,7 @@ regions: ["africa"]
 status: "story"
 lede: "Aliko Dangote has bought a 24.76 percent stake in Kenya Pipeline Company in a Nairobi block trade of 4.5 billion shares worth 42.5 billion shillings, about 327 million dollars, disclosing the purchase in London on Wednesday."
 why_it_matters: "The stake makes Dangote the second largest holder of the network that moves most of Kenya's fuel, months after the state sold 65 percent in an IPO, and it sits just below the 25 percent line that would trigger a mandatory takeover offer."
-featured: true
+featured: false
 evidence_grade: "B"
 sources:
   - title: "Dangote Acquires 25% Stake in Kenya Pipeline Company"

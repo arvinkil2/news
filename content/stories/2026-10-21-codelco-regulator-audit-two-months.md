@@ -9,7 +9,7 @@ regions:
 status: story
 lede: Chile's comptroller general expects to deliver an audit of Codelco's 2025 production data within two months, after the state miner disclosed possible double counting between its Ministro Hales and Salvador divisions in 2024 and 2025.
 why_it_matters: Codelco is one of the world's largest copper producers, so a restatement of its reported output would move the global copper balance and deepen questions about governance at Chile's state miner.
-featured: true
+featured: false
 evidence_grade: B
 sources:
 - title: Chile regulator to deliver Codelco copper audit within 2 months

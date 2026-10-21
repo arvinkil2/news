@@ -7,7 +7,7 @@ beats:
 regions:
 - north-america
 status: story
-featured: true
+featured: false
 evidence_grade: B
 lede: Two-thirds of new prescription drugs reviewed by the Institute for Clinical and Economic Review between 2022 and 2025 launched at prices far above its cost-effectiveness thresholds, with the inflation-adjusted median net price rising from $190,000 to $257,000.
 why_it_matters: 'The analysis lands in the middle of the administration''s most-favoured-nation pricing push and shows why launch pricing keeps drawing regulatory attention: it has not budged down even as the policy pressure mounted.'

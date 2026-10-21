@@ -9,7 +9,7 @@ regions:
 status: story
 lede: Vedanta has invested nearly 600 million dollars to double annual zinc production capacity at its Gamsberg operation in South Africa to 500,000 tonnes of metal in concentrate, inaugurating the Phase II expansion in the Northern Cape.
 why_it_matters: Gamsberg Phase II is one of South Africa's largest mining investments this decade and anchors Vedanta's plan for 3 million tonnes of annual zinc output across South Africa and India.
-featured: true
+featured: false
 evidence_grade: B
 sources:
 - title: Vedanta invests 600 million dollars to double zinc production capacity in South Africa
