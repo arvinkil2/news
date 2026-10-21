@@ -2,7 +2,7 @@
 title: "Clearing and venue"
 date: "2026-10-20"
 lede: "Cleared share, on-SEF share, field coverage and chain lifecycle for swaps flow in the DTCC tape."
-data_as_of: "swap tape through 2026-09-30 (file months 2026-09)"
+data_as_of: "Data: September 2026 file month (18,086,924 disseminated trades). Full history from September 2024 follows when the full parse completes."
 ---
 
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Data through</dt><dd>2026-09-30</dd></div><div class="bw-sum-item"><dt>Build date</dt><dd>2026-10-20</dd></div></dl><p>Clearing and execution structure of the flow in the tape. The public dissemination does not identify the clearing house, so this page reports the cleared share of flow, not volumes by clearing house; the clearing houses' own published totals are cited on the method page as external context.</p><h2>Cleared and on-SEF shares by week</h2><p>Rates rows cover USD-denominated trades; other classes cover all currencies in the class, because their flow is predominantly dollar-denominated. The cleared field is disseminated as Y (cleared), I (submitted for clearing) or N (not cleared); both components are printed because the mix differs by asset class.</p><table class="market-table bw-grid" data-tid="clearing-weekly" data-def="[140, 120, 100, 110, 180, 160, 120]" data-min="[100, 84, 72, 76, 120, 110, 84]" data-fixed="[]">

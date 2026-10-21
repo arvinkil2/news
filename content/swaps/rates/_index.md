@@ -2,7 +2,7 @@
 title: "Rates"
 date: "2026-10-20"
 lede: "Traded par rates and flow by currency, from outright trades in the DTCC tape."
-data_as_of: "swap tape through 2026-09-30 (file months 2026-09)"
+data_as_of: "Data: September 2026 file month (18,086,924 disseminated trades). Full history from September 2024 follows when the full parse completes."
 ---
 
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Data through</dt><dd>2026-09-30</dd></div><div class="bw-sum-item"><dt>Currencies with a full grid</dt><dd>27</dd></div><div class="bw-sum-item"><dt>Build date</dt><dd>2026-10-20</dd></div></dl><p>Traded par rates across currencies, from outright trades in the DTCC tape. Each currency page carries the full grid with candles, curve spreads and the tenor distribution; this page is the cross-currency summary for the latest day.</p><h2>Par-rate grid by currency, latest day</h2><table class="market-table bw-grid" data-tid="rates-grid-all" data-def="[90, 76, 76, 76, 76, 76, 76, 76, 76, 110]" data-min="[64, 56, 56, 56, 56, 56, 56, 56, 56, 84]" data-fixed="[]" data-sort="1">

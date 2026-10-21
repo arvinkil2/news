@@ -2,7 +2,7 @@
 title: "Credit"
 date: "2026-10-20"
 lede: "Credit default swap flow, index spreads and single-name activity from the DTCC tape."
-data_as_of: "swap tape through 2026-09-30 (file months 2026-09)"
+data_as_of: "Data: September 2026 file month (18,086,924 disseminated trades). Full history from September 2024 follows when the full parse completes."
 ---
 
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Data through</dt><dd>2026-09-30</dd></div><div class="bw-sum-item"><dt>Build date</dt><dd>2026-10-20</dd></div></dl><p>Credit default swaps in the DTCC tape, split between the CFTC record (index and portfolio products) and the SEC record (single-name security-based swaps). Segment flow, the index grid, and the single-name tables are computed from the same chain-resolved record as the index and name pages.</p><h2>Flow by segment, weekly</h2><table class="market-table bw-grid" data-tid="credit-segs" data-def="[140, 140, 100, 180, 120]" data-min="[100, 90, 72, 110, 84]" data-fixed="[]">

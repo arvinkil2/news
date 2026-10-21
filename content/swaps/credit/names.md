@@ -2,7 +2,7 @@
 title: "Single-name CDS panel"
 date: "2026-10-20"
 lede: "The traded five-year single-name CDS panel: every reference entity with a priced five-year point in the window."
-data_as_of: "swap tape through 2026-09-30 (file months 2026-09)"
+data_as_of: "Data: September 2026 file month (18,086,924 disseminated trades). Full history from September 2024 follows when the full parse completes."
 ---
 
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Data through</dt><dd>2026-09-30</dd></div><div class="bw-sum-item"><dt>Names with a priced five-year point</dt><dd>130</dd></div><div class="bw-sum-item"><dt>Build date</dt><dd>2026-10-20</dd></div></dl><p>The traded five-year single-name panel: every reference entity with at least three priced five-year trades in the window. A name keeps its table row while it clears that floor in the rolling window and leaves the panel when it does not; the panel is capped at 150 names, reviewed quarterly. Names with at least three tenor points at the same floor carry their own curve page, linked from the name.</p><h2>Five-year panel, window medians</h2><table class="market-table bw-grid" data-tid="names-panel" data-def="[300, 150, 170, 120, 130, 180, 110, 190]" data-min="[170, 100, 110, 84, 92, 110, 80, 120]" data-fixed="[]" data-sort="1">
