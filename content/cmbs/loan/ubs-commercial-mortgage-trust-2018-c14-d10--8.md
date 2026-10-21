@@ -1,6 +1,6 @@
 ---
 title: "ILPT Hawaii Portfolio (UBS Commercial Mortgage Trust 2018-C14)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in UBS Commercial Mortgage Trust 2018-C14."
 data_as_of: "loan data through April 2019; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
