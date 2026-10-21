@@ -1,12 +1,12 @@
 ---
 title: "Macron refuses interior minister resignation after violent protests"
 date: 2026-10-20T07:27:43-04:00
-last_updated: 2026-10-20T11:09:17-04:00
+last_updated: 2026-10-21T15:46:02-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Prime Minister Sebastien Lecornu on Tuesday blamed an ultra-left movement for seeking to create profound disorder in France through to the presidential election and promised a massive security deployment ahead of further protests called for Saturday, as the government also pledged furlough support for looted businesses."
-why_it_matters: "The government is now framing the unrest as an organised election year destabilisation campaign, a claim the hard left is demanding it prove, while the security build-up for Saturday and aid for nearly 3,000 affected shops set the cost of a second weekend of violence."
+lede: "French police on Wednesday banned protests on Thursday in central parts of Paris, including around the Elysee, both houses of parliament and the Louvre, as President Emmanuel Macron accused foreign leaders of exploiting the unrest for their own election campaigns."
+why_it_matters: "The ban extends the crisis from weekend rioting into a weekday shutdown of the capital's political centre six months before the presidential election, with an Ifop poll putting Marine Le Pen ahead in the first round, France's 10 year yield above 5 percent, and a Moody's decision on French debt expected on Friday."
 featured: false
 evidence_grade: "B"
 sources:
@@ -26,10 +26,16 @@ sources:
     publisher: "Bloomberg, via BusinessMirror"
     url: "https://businessmirror.com.ph/2026/10/20/france-toughens-response-to-protests-as-officials-admit-failure/"
     published: "2026-10-20"
+  - title: "Protests banned in parts of Paris as Macron swipes at Trump"
+    publisher: "Arab News, reporting AFP"
+    url: "https://www.arabnews.com/world/protests-banned-in-parts-of-paris-as-macron-swipes-at-trump-3007604"
+    published: "2026-10-21"
 tags: []
-data_as_of: "Elysee statement of Monday October 19, 2026, as reported by AFP via Arab News and read in full. Update: Lecornu's curfew pledge, the arrest count and the week's meeting schedule from Al Jazeera, October 20, 2026, read in full; arrest and crowd figures are police and organiser reporting as carried by Al Jazeera and are not independently verified here. Update: Lecornu's ultra-left attribution, the promised massive deployment, the furlough aid for businesses and the Marseille demonstration ban from the AFP report carried by France24, October 20, 2026, read via syndication after france24.com would not load directly, with the ultra-left quote corroborated by Bloomberg via BusinessMirror, October 20, 2026; the AFP report adds that interest-free loans will be available from Friday to all affected businesses, that nearly 150 people had been jailed and more than 800 brought before the courts, and that the interior ministry put Saturday's turnout at 550,000 against organisers' 1.1 million; the ultra-left claim is the government's attribution, challenged by Jean-Luc Melenchon, not an established finding."
+data_as_of: "Elysee statement of Monday October 19, 2026, as reported by AFP via Arab News and read in full. Update: Lecornu's curfew pledge, the arrest count and the week's meeting schedule from Al Jazeera, October 20, 2026, read in full; arrest and crowd figures are police and organiser reporting as carried by Al Jazeera and are not independently verified here. Update: Lecornu's ultra-left attribution, the promised massive deployment, the furlough aid for businesses and the Marseille demonstration ban from the AFP report carried by France24, October 20, 2026, read via syndication after france24.com would not load directly, with the ultra-left quote corroborated by Bloomberg via BusinessMirror, October 20, 2026; the AFP report adds that interest-free loans will be available from Friday to all affected businesses, that nearly 150 people had been jailed and more than 800 brought before the courts, and that the interior ministry put Saturday's turnout at 550,000 against organisers' 1.1 million; the ultra-left claim is the government's attribution, challenged by Jean-Luc Melenchon, not an established finding. Latest update: the Thursday Paris ban, Macron's remarks in Doha, Justice Minister Gerald Darmanin's custody and prosecution counts, and the Ifop poll are from Arab News, reporting AFP, October 21, 2026, read in full; the expected Moody's decision is that report's expectation, not a Moody's announcement."
 update_bump: true
 ---
+
+**Latest:** French police said protests will be banned in parts of Paris on Thursday from 8:00 am to 8:00 pm, covering the Elysee presidential palace, both houses of parliament, the Louvre and the Champs-Elysees, and also Bastille and Republique squares and the Chatelet-Les Halles shopping area, Arab News reported, citing AFP. Speaking in Doha, Macron said leaders in campaign mode, on the other side of the Atlantic and in the region, had made what he called stupid comments on the unrest, without naming President Donald Trump or Prime Minister Benjamin Netanyahu, both of whom had commented on it on Tuesday. Justice Minister Gerald Darmanin said 2,500 people had been taken into custody during and after the protests, of whom 174 had been jailed and 917 formally prosecuted, and an Ifop poll carried in the same report put Marine Le Pen ahead in the first round of the presidential election, with Jean-Luc Melenchon her most likely runoff opponent.
 
 **Latest:** Prime Minister Sebastien Lecornu blamed the weekend's looting on an ultra-left movement that, he said, seeks to create profound disorder in the country all the way through to the presidential election, and promised a massive security deployment ahead of further protests called for Saturday, France24 reported. Interior Minister Laurent Nunez said 60,000 police and security personnel had been deployed last Saturday and that he expected protests on a similar scale this Saturday. The interior ministry put Saturday's turnout at 550,000 against organisers' 1.1 million, nearly 3,000 shops were affected by looting, and Lecornu said furlough support for affected businesses would start on Tuesday, with interest-free loans available from Friday and demonstrations banned in Marseille on Monday. Nearly 150 people had been jailed and more than 800 brought before the courts, the AFP report said. Hard-left leader Jean-Luc Melenchon challenged Lecornu to produce evidence for the ultra-left claim or apologise.
 
