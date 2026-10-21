@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-10-21T08:12:48-04:00
-last_updated: 2026-10-21T08:12:48-04:00
-kicker: "Overnight markets"
+last_updated: 2026-10-21T12:34:20-04:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Brent crude settled up 1.9 percent at 110.86 dollars a barrel as tanker attacks and US inventory draws tightened the physical market, even as the tanker freight index fell 8.05 percent in a move today's reporting treats as composition rather than relief."
-why_it_matters: "What matters for the day ahead is whether the physical squeeze, record spot freight and record premiums for nearby grades, keeps tightening diesel and product markets while the paper freight indices and US natural gas say the shock is not broadening."
+lede: "WTI crude fell 4.47 percent to 97.24 dollars a barrel at midday while Brent held flat at 108.82 dollars, splitting the oil market on the day the Energy Information Administration confirmed a 3.1 million barrel draw in US crude stocks."
+why_it_matters: "What matters into the afternoon is whether the falls in WTI and US natural gas mark the physical shock easing or a United States specific move, because the stress gauges have not followed them: Brent is flat, tanker freight is down only 0.42 percent, and France's 10-year yield touched 5 percent this morning."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,23 +15,23 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-21"
 tags: []
-data_as_of: "Market close Tuesday, October 20, 2026"
+data_as_of: "Midday October 21, 2026"
 ---
 
-Tanker freight fell 8.05 percent to 801.20 dollars, the largest move in the tables and a 19.8 percent fall on the week. Today's commodities brief treats the index fall, as it did yesterday's, as a composition effect rather than rate relief: reported spot earnings remain at records, and Goldman Sachs estimates average global crude freight costs have surged to about 20 dollars a barrel from 3 dollars a year ago (see today's Goldman freight story and the story on Asian buyers switching to smaller tankers).
+United States natural gas fell 4.69 percent to 2.82 dollars per million British thermal units, the largest move in the tables, and is down 11.69 percent on the week. No story in today's reporting names a driver for the decline: the morning commodities reporting described gas as the one energy price not participating in the shock, with the loosest positioning in the complex, and the midday fall extends that decoupling rather than starting a new one.
 
-Dry bulk freight fell 3.63 percent to 12.48 dollars. Today's brief groups the move with the tanker index fall as a composition effect, and no story in today's reporting describes an actual fall in dry bulk spot rates, so no clearer driver is claimed here.
+Dry bulk freight rose 4.53 percent to 13.05 dollars. No story in today's reporting explains the rise, and none describes a move in dry bulk spot rates: today's freight reporting is about tanker costs, where the tanker freight index fell only 0.42 percent to 797.84 dollars, so no cause is claimed here.
 
-United States natural gas fell 3.58 percent to 2.86 dollars per million British thermal units and is down 10.66 percent on the week. Today's commodities brief calls it the one energy price not participating in the shock, with the loosest positioning in the complex, and no story in today's reporting names a single driver for the decline.
+WTI crude fell 4.47 percent to 97.24 dollars a barrel while Brent crude was flat, up 0.03 percent at 108.82 dollars. Today's oil story has the same split in its late morning prices, Brent near flat at 108.87 dollars and WTI at 97.69 dollars, on the day the EIA confirmed US crude stocks fell 3.1 million barrels to 412.5 million barrels, with gasoline down 3.0 million barrels and distillates up 1.7 million barrels (see today's story, "Oil rises on API draws as Middle East tensions escalate"). The only WTI specific detail in today's reporting is the 900,000 barrel build at Cushing, the contract's delivery hub, recorded in the earlier API estimates.
 
-Brent crude rose 1.9 percent to 110.86 dollars a barrel at Tuesday's settlement. The drivers in today's reporting are escalation and draws: Kpler counted at least 18 vessel attacks in two weeks, with analysts warning Iran is targeting tankers beyond Hormuz, and the American Petroleum Institute estimated US crude stocks fell 4.93 million barrels in the week to October 16, with gasoline and distillates drawing alongside (see today's oil story). Brent added a further 1.5 percent on Wednesday morning.
+Tesla rose 3.48 percent to 386.73 dollars and is up 5.33 percent on the week. No story in today's reporting explains the rise: the only Tesla reference in today's files is to a former Tesla executive, Drew Baglino, whose company Heron Power signed a transformer deal with Vantage Data Centers, and that story is about data centre power equipment, not about Tesla itself.
 
-WTI crude fell 1.8 percent to 99.96 dollars, moving against Brent on the day. The one WTI specific detail in today's oil story is a 900,000 barrel build at Cushing, the contract's delivery hub, even as national inventories drew; no story in today's reporting gives a fuller explanation of the divergence.
+Meta rose 2.61 percent to 712.37 dollars, trimming its fall on the week to 3.41 percent from 8.95 percent in the morning tables. Today's Meta news does not explain a rise: the company paused conversation sharing on its Muse AI platform after researchers enumerated 6,800 shared chat links and found personal and business secrets in them, and it disclosed that more than 11 percent of the GPUs at its Prometheus supercluster are dead or held idle as spares (see today's Meta Muse story and today's Meta Prometheus story). No story in today's reporting gives a reason for the rebound.
 
-The Russell 2000 rose 1.65 percent to 2,773.4 points, the largest equity index move in the tables. No story in today's reporting explains the small cap rise, and no clear single driver is claimed here.
+Wheat fell 2.49 percent to 627.2 cents a bushel and is down 6.83 percent on the week. Today's wheat story explains the move: wheat fell for a fifth consecutive session, to about 6.27 dollars a bushel at midday, as envoy Steve Witkoff's meeting with President Putin raised hopes of a Russia Ukraine deal that would return two of the world's largest wheat exporters to full Black Sea shipping (see today's story, "Wheat falls to eleven week low as Ukraine talks advance").
 
-BHP fell 1.62 percent to 81.87 dollars. Today's mining brief records miner equities closing lower again as a bloc, copper miners down 0.68 percent, silver miners down 0.60 percent and gold miners down 0.43 percent, with Rio Tinto down 1.50 percent alongside BHP, and names no BHP specific catalyst for the fall.
+Alphabet fell 2.17 percent to 332.90 dollars and is down 4.24 percent on the week. Today's only Alphabet story is the announcement that OpenAI will sell its frontier models through Google Cloud, with no financial terms disclosed (see today's story, "OpenAI to sell frontier models through Google Cloud"). That story does not explain the fall, and no other story in today's reporting names a cause.
 
-Meta fell 1.59 percent to 694.25 dollars and is down 8.95 percent on the week. Today's Meta specific news was the company pausing conversation sharing on its Muse AI platform after researchers enumerated 6,800 shared chat links through public DNS records and found personal and business secrets in them (see today's Meta Muse story).
+Lithium and battery stocks fell 1.84 percent to 63.09 dollars and are down 4.96 percent on the week. The heaviest battery chain news in today's reporting is CATL: its shares fell 10.64 percent in Hong Kong after third quarter net profit fell 5.77 percent from the previous quarter, even as revenue rose 58.58 percent year on year (see today's story on CATL's third quarter profit miss). General Motors' decision to close its Brownstown battery plant, also in today's reporting, points the same way.
 
-The cross-market read is a shock that stayed physical. Brent rose through 110 dollars on attacks and draws while WTI slipped, the freight indices fell on composition rather than relief, and US gas kept decoupling lower. Equities leaned risk on where the shock does not bite, the Dow Jones up 1.02 percent and the S&P 500 up 0.28 percent alongside the small cap gain, while miners fell as a bloc and large technology stayed soft. Rates barely moved, the 30 year Treasury down 4.7 basis points to 5.43 percent and the 10 year down 1.9 basis points to 5.12 percent, and the dollar index was flat, so nothing in the tables reprices the policy path, only the physical oil market.
+The cross-market read at midday is a split market, not a uniform risk move. Equities leaned risk on, the S&P 500 up 0.47 percent to 7,749 points, the Nasdaq 100 up 1.11 percent and the DAX up 1.35 percent, while miners fell again, Rio Tinto down 1.34 percent, BHP down 1.15 percent and copper miners down 1.26 percent. Rates and the dollar barely moved, the 10-year Treasury yield down 0.6 basis points to 5.11 percent, the 30-year down 0.8 basis points to 5.42 percent and the dollar index up 0.05 percent at 101.78, so at midday the oil shock is repricing inside energy, in the split between Brent and WTI and in gas, and not in the policy path.

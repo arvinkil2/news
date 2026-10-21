@@ -1,11 +1,11 @@
 ---
 title: "Wheat falls to eleven week low as Ukraine talks advance"
 date: 2026-10-21T07:16:42-04:00
-last_updated: 2026-10-21T07:16:42-04:00
+last_updated: 2026-10-21T12:33:12-04:00
 beats: ["commodities"]
 regions: ["global", "europe", "north-america"]
 status: "story"
-lede: "Chicago wheat fell for a fifth consecutive session to about 6.40 dollars a bushel, its lowest since August 18, as envoy Steve Witkoff's meeting with President Putin on Wednesday raised hopes of a Russia Ukraine deal."
+lede: "Chicago wheat fell for a fifth consecutive session to about 6.27 dollars a bushel, its lowest since August 18, as envoy Steve Witkoff's meeting with President Putin on Wednesday raised hopes of a Russia Ukraine deal."
 why_it_matters: "Grains are shedding risk premium on diplomacy while energy adds it: the two commodity groups now price opposite tails of the same negotiations, and a Black Sea settlement would return two of the world's largest wheat exporters to full shipping at once."
 featured: false
 evidence_grade: "B"
@@ -22,7 +22,7 @@ tags: []
 data_as_of: "Trading session of Wednesday, October 21, 2026. Market tables show wheat at 639.0 cents a bushel, down 0.66 percent on the day and 5.09 percent on the week; corn 459.8 cents, down 4.37 percent on the week; soybeans 1,245.0 cents, down 2.52 percent on the week."
 ---
 
-Wheat futures fell for a fifth consecutive session to around 6.40 dollars a bushel, remaining at their lowest level since August 18, as renewed hopes for a Russia Ukraine peace deal weighed on prices following President Trump's push for an agreement. Trump said Washington had received nothing back for its support of Ukraine and that it was time to make a deal. US special envoy Steve Witkoff is set to meet Russian President Vladimir Putin on Wednesday to discuss proposals to end the war, following talks with Ukrainian President Volodymyr Zelenskyy. Market tables for Tuesday's close put wheat at 639.0 cents a bushel, down 0.66 percent on the day and 5.09 percent on the week, with corn at 459.8 cents, down 4.37 percent on the week, and soybeans at 1,245.0 cents, down 2.52 percent on the week.
+Wheat futures fell for a fifth consecutive session to around 6.27 dollars a bushel, remaining at their lowest level since August 18, as renewed hopes for a Russia Ukraine peace deal weighed on prices following President Trump's push for an agreement. Trump said Washington had received nothing back for its support of Ukraine and that it was time to make a deal. US special envoy Steve Witkoff is set to meet Russian President Vladimir Putin on Wednesday to discuss proposals to end the war, following talks with Ukrainian President Volodymyr Zelenskyy. Market tables for Tuesday's close put wheat at 639.0 cents a bushel, down 0.66 percent on the day and 5.09 percent on the week, with corn at 459.8 cents, down 4.37 percent on the week, and soybeans at 1,245.0 cents, down 2.52 percent on the week.
 
 The decline reverses the weekend's direction, when wheat rose as strikes between Russia and Ukraine made a deal to restart Black Sea exports look less likely. Escalating attacks in the Black Sea since July have damaged shipping infrastructure and disrupted wheat exports from two of the world's largest producers. Traders are now watching for progress toward a ceasefire, which could ease supply disruptions and bring more Russian and Ukrainian wheat to global markets.
 
