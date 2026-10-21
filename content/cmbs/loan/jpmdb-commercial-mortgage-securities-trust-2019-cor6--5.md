@@ -1,6 +1,6 @@
 ---
 title: "5452-5466 S. Ellis Avenue (and 41 more properties) (JPMDB Commercial Mortgage Securities Trust 2019-COR6)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in JPMDB Commercial Mortgage Securities Trust 2019-COR6."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-15"
 ---
