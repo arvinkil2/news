@@ -1,6 +1,6 @@
 ---
 title: "BBCMS Mortgage Trust 2026-M1"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for BBCMS Mortgage Trust 2026-M1."
 data_as_of: "loan data through September 2026"
 ---

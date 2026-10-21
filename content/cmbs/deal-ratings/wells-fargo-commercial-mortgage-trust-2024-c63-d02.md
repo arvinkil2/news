@@ -1,6 +1,6 @@
 ---
 title: "Wells Fargo Commercial Mortgage Trust 2024-C63 (segment D02, CIK 2029929): rating history"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Rating actions, action dates and public knowledge dates for Wells Fargo Commercial Mortgage Trust 2024-C63."
 data_as_of: "loan data through March 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

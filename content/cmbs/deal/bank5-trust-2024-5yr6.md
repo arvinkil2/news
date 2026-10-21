@@ -1,6 +1,6 @@
 ---
 title: "BANK5 Trust 2024-5YR6"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for BANK5 Trust 2024-5YR6."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

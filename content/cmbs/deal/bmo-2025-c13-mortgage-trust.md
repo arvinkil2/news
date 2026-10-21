@@ -1,6 +1,6 @@
 ---
 title: "BMO 2025-C13 Mortgage Trust"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for BMO 2025-C13 Mortgage Trust."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
 ---

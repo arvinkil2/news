@@ -1,6 +1,6 @@
 ---
 title: "Benchmark 2025-V16 Mortgage Trust (segment D02, CIK 2060845)"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Current collateral, loans, tranches and ratings for Benchmark 2025-V16 Mortgage Trust."
 data_as_of: "loan data through July 2026; ratings as held in the dataset at 2026-10-13"
 ---
