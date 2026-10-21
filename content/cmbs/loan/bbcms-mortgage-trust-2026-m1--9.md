@@ -1,6 +1,6 @@
 ---
 title: "Wescott Apartments (BBCMS Mortgage Trust 2026-M1)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BBCMS Mortgage Trust 2026-M1."
 data_as_of: "loan data through September 2026"
 ---

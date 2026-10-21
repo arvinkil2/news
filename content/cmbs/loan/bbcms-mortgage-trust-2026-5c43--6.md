@@ -1,6 +1,6 @@
 ---
 title: "20 West 47th Street (BBCMS Mortgage Trust 2026-5C43)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BBCMS Mortgage Trust 2026-5C43."
 data_as_of: "loan data through October 2026"
 ---
