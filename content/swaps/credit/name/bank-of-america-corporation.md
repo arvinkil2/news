@@ -1,8 +1,8 @@
 ---
 title: "BANK OF AMERICA CORPORATION"
-date: "2026-10-20"
+date: "2026-10-21"
 lede: "Single-name CDS on BANK OF AMERICA CORPORATION: traded spreads, curve points and activity."
-data_as_of: "Data: September 2026 file month (18,086,924 disseminated trades). Full history from September 2024 follows when the full parse completes."
+data_as_of: "Data: September 2026 file month (60,245,115 disseminated trades). Full history from September 2024 follows when the full parse completes."
 ---
 
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Data through</dt><dd>2026-09-30</dd></div><div class="bw-sum-item"><dt>Trades in window</dt><dd>69</dd></div><div class="bw-sum-item"><dt>Trades with a disseminated spread</dt><dd>36</dd></div><div class="bw-sum-item"><dt>Notional, USD trades</dt><dd>$327.1M</dd></div><div class="bw-sum-item"><dt>Capped share of trades</dt><dd>91.3%</dd></div><div class="bw-sum-item"><dt>Cleared share of trades</dt><dd>73.9%</dd></div></dl><p>Single-name credit default swaps on BANK OF AMERICA CORPORATION. A curve point prints only where at least three priced trades support it in the window; a thinner point reports its trade count and no spread.</p><h2>Spread points by tenor, window medians</h2><table class="market-table bw-grid" data-tid="nm-curve" data-def="[70, 170, 170]" data-min="[56, 110, 110]" data-fixed="[]">
