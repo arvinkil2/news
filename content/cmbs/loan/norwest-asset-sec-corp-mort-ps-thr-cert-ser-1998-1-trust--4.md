@@ -1,8 +1,8 @@
 ---
 title: "1001 North Shoreline Boulevard (Norwest Asset Sec Corp Mort Ps Thr Cert Ser 1998-1 Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Norwest Asset Sec Corp Mort Ps Thr Cert Ser 1998-1 Trust."
-data_as_of: "no loan data attached to this trust in the dataset"
+data_as_of: "loan data through September 2021"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/norwest-asset-sec-corp-mort-ps-thr-cert-ser-1998-1-trust/">&larr; Norwest Asset Sec Corp Mort Ps Thr Cert Ser 1998-1 Trust</a> / <a href="/cmbs/deal-loans/norwest-asset-sec-corp-mort-ps-thr-cert-ser-1998-1-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
