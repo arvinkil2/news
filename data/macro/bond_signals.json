@@ -1,25 +1,6 @@
 {
- "as_of": "2026-10-21T09:52:36-04:00",
+ "as_of": "2026-10-21T10:24:15-04:00",
  "signals": [
-  {
-   "cusip": "21873SAD0",
-   "issuer": "COREWEAVE INC",
-   "security": "",
-   "price": 79.6097,
-   "prev_price": 84.0,
-   "trade_date": "2026-10-19",
-   "trade_time": "10:01:29",
-   "mark": 94.2279,
-   "mark_period": "2026-07-31",
-   "gap": -14.62,
-   "trades_stored": 2933,
-   "fired_at": "2026-10-19T10:09:42-04:00",
-   "level": "tier1",
-   "rule": "print 10+ pts below reference",
-   "ref_price": 90.319,
-   "ref_move": -10.71,
-   "id": "21873SAD0-drop10-2026-10-19"
-  },
   {
    "cusip": "46270CAB5",
    "issuer": "IREN LTD",
