@@ -1,7 +1,7 @@
 ---
 title: "Judge orders Meta to pay $25 billion in New Mexico case"
 date: 2026-10-21T14:22:35-04:00
-last_updated: 2026-10-21T14:22:35-04:00
+last_updated: 2026-10-21T14:27:31-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
@@ -23,12 +23,13 @@ sources:
     url: "https://news.bloomberglaw.com/litigation/meta-to-pay-historic-25-billion-in-new-mexico-deception-case"
     published: "2026-10-21"
 tags: []
-data_as_of: "Reuters report of October 21, 2026, read in full, reporting Judge Francis Mathew's order following the September 25, 2026 jury verdict; corroborated by CNBC and Bloomberg Law reports of the same order on October 21, 2026. Meta had not responded to a request for comment in the reports read."
+data_as_of: "Reuters and CNBC reports of October 21, 2026, both read in full, reporting Judge Francis Mathew's order following the September 25, 2026 jury verdict; corroborated by Bloomberg Law's report of the same order on October 21, 2026. Meta had not responded to a request for comment in the reports read. Updated with the CNBC detail on interest and the investigation finding."
+update_bump: true
 ---
 
 A judge in New Mexico ordered Meta Platforms to pay $25 billion on Wednesday after a jury found the company had misled consumers in a case arising from allegations that Cambridge Analytica, a political consulting firm involved in Donald Trump's 2016 presidential campaign, obtained data from millions of Facebook users without their consent, Reuters reported.
 
-"Facebook's wrongdoing, over the course of years and systematically broadcast to the public, goes to the heart of Facebook's core business practices," Judge Francis Mathew wrote in his order following the verdict. Mathew found that a penalty of more than $219 billion was warranted under state law, based on the jury's violation count and the statutory maximum of $5,000 per violation under New Mexico's Unfair Practices Act, but he reduced the figure to $25 billion. A spokesperson for Meta did not immediately respond to a request for comment, Reuters said.
+"Facebook's wrongdoing, over the course of years and systematically broadcast to the public, goes to the heart of Facebook's core business practices," Judge Francis Mathew wrote in his order following the verdict. Mathew found that a penalty of more than $219 billion was warranted under state law, based on the jury's violation count and the statutory maximum of $5,000 per violation under New Mexico's Unfair Practices Act, but he reduced the figure to $25 billion, with interest accruing at 15 percent a year until it is paid in full, CNBC reported. Mathew also wrote that Facebook did not conduct the comprehensive investigation it promised after the Cambridge Analytica revelations, describing the internal examination as willfully ineffective. A spokesperson for Meta did not immediately respond to a request for comment, Reuters said.
 
 Jurors on September 25 found that 26 of 29 statements made by the company and its leadership were misleading, covering who had access to user data and how the company handled hate speech and misinformation. They put the total at more than 43 million violations of the state's consumer protection law, counted by the number of Facebook users or New Mexico residents in the audience for each misleading statement. At an October 1 hearing, Randi McGinn, a lawyer for New Mexico, asked Mathew to award between $35 billion and $40 billion. In court filings Meta urged the judge to cap the penalties at $3.45 billion, arguing that a higher penalty risked scaring businesses out of the state and that the evidence showed Meta does not sell user data and the state had not proved any consumer was actually misled.
 
