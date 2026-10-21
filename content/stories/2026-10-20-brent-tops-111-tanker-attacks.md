@@ -1,11 +1,11 @@
 ---
 title: "Brent tops 111 dollars as tanker attacks sustain risk premium"
 date: 2026-10-20T07:27:43-04:00
-last_updated: 2026-10-21T06:12:43-04:00
+last_updated: 2026-10-21T08:48:27-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "A tanker was struck by an unknown projectile 11 nautical miles off Bukha, Oman, near the Strait of Hormuz on Wednesday and caught fire, with all crew reported safe and the vessel now at anchor, the UK Maritime Trade Operations centre reported, as Brent crude held above 110 dollars a barrel."
+lede: "The tanker struck by an unknown projectile 11 nautical miles off Bukha, Oman, on Wednesday has been identified as the Kuwait flagged Al Dasma, a 2014 built tanker of about 100,000 tons capacity, which went adrift after the attack before its fire was extinguished and it anchored, with all crew reported safe."
 why_it_matters: "Unlike the Revolutionary Guards' unverified mine claims, this strike is reported by the British maritime security agency that logs incidents in the strait, which makes it a confirmed addition to at least 23 ship attacks in the first two weeks of October and keeps the risk premium in crude tied to verifiable damage to tonnage, not only to claims."
 featured: true
 evidence_grade: "B"
@@ -34,10 +34,16 @@ sources:
     publisher: "Arab News, reporting UKMTO"
     url: "https://www.arabnews.com/middle-east/ship-attacked-near-strait-of-hormuz-maritime-agency-3007496"
     published: "2026-10-21"
+  - title: "Tanker AL DASMA caught fire after an attack in the Strait of Hormuz"
+    publisher: "TASS"
+    url: "https://tass.ru/proisshestviya/28237929"
+    published: "2026-10-21"
 tags: []
-data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters. Update: incident counts, engine room damage reports and export estimates are from Bloomberg reporting of October 20, 2026, read in full via gCaptain, citing naval groups in the region, security consultants, Intertanko, Bimco and Kpler. Update: the Guards' Tuesday mine statements are from the IRGC public affairs office and Iranian state television as reported by Arab News and the Seoul Economic Daily on October 20, 2026, both read in full; the statements name no vessel and the mine claims are not independently confirmed, so they are carried as the Guards' account only. The UKMTO incident report is as carried by the Seoul Economic Daily. Update, Wednesday, October 21, 2026: the Bukha tanker strike, its location 11 nautical miles off Bukha, the fire, the crew reported safe, no reported environmental impact and the vessel at anchor are from the UK Maritime Trade Operations centre as reported by Arab News on October 21, 2026, read in full; Arab News updated the report at 12:46 on October 21, and no party has claimed the strike in that report."
+data_as_of: "Monday, October 19, 2026 settlements from market tables updated October 20, 2026; Tuesday intraday prices at 03:19 GMT as reported by Reuters via SABC News; Kpler attack and flow counts as reported by both sources. Houthi claims of strikes on Saudi facilities are the group's own claims, not independently verified by Reuters. Update: incident counts, engine room damage reports and export estimates are from Bloomberg reporting of October 20, 2026, read in full via gCaptain, citing naval groups in the region, security consultants, Intertanko, Bimco and Kpler. Update: the Guards' Tuesday mine statements are from the IRGC public affairs office and Iranian state television as reported by Arab News and the Seoul Economic Daily on October 20, 2026, both read in full; the statements name no vessel and the mine claims are not independently confirmed, so they are carried as the Guards' account only. The UKMTO incident report is as carried by the Seoul Economic Daily. Update, Wednesday, October 21, 2026: the Bukha tanker strike, its location 11 nautical miles off Bukha, the fire, the crew reported safe, no reported environmental impact and the vessel at anchor are from the UK Maritime Trade Operations centre as reported by Arab News on October 21, 2026, read in full; Arab News updated the report at 12:46 on October 21, and no party has claimed the strike in that report. Update, Wednesday, October 21, 2026: the vessel's name, flag, build year, capacity and drift are from TASS on October 21, 2026, read in full in Russian, citing a navigational warning for mariners that TASS said it had reviewed; UKMTO reported the Bukha incident without naming the vessel, so the identification rests on TASS and the warning it cites."
 update_bump: true
 ---
+
+**Latest:** The tanker struck off Bukha has been identified as the Al Dasma, a Kuwait flagged oil tanker built in 2014 with capacity of about 100,000 tons, TASS reported, citing a navigational warning for mariners that the agency said it had reviewed. The warning places the vessel adrift about 11 nautical miles west of Bukha after the attack and fire; UKMTO, which reported the incident without naming the ship, said the fire was extinguished, no one was injured and the vessel is at anchor. No attacker has been named.
 
 **Latest:** A tanker was struck by an unknown projectile on Wednesday 11 nautical miles off Bukha, Oman, near the Strait of Hormuz, sparking a fire, the United Kingdom Maritime Trade Operations centre reported, as carried by Arab News. The tanker is now at anchor, all crew are reported safe and there is no reported environmental impact at this time, UKMTO said. Arab News reported that attacks on vessels attempting to cross the waterway have increased in recent days, as Washington escorts more ships through the strait.
 
