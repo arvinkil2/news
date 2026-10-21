@@ -1,6 +1,6 @@
 ---
 title: "DOWNTOWN 33 (Benchmark 2026-B43 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Benchmark 2026-B43 Mortgage Trust."
 data_as_of: "loan data through September 2026"
 ---

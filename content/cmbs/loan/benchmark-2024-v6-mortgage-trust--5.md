@@ -1,6 +1,6 @@
 ---
 title: "4813, 4815 &amp; 4721 Emperor Boulevard and 1005, 1007 &amp; 1009 Slater Road (and 3 more properties) (Benchmark 2024-V6 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Benchmark 2024-V6 Mortgage Trust."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "PARKWOOD PATIO APARTMENTS (Benchmark 2025-V16 Mortgage Trust)"
-date: "2026-10-19"
+date: "2026-10-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Benchmark 2025-V16 Mortgage Trust."
 data_as_of: "loan data through July 2026; ratings as held in the dataset at 2026-10-13"
 ---
