@@ -1,12 +1,13 @@
 ---
 title: "Oil rises on API draws as Middle East tensions escalate"
 date: 2026-10-21T07:16:42-04:00
-last_updated: 2026-10-21T07:16:42-04:00
+last_updated: 2026-10-21T11:20:28-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "US crude stocks fell by an estimated 4.9 million barrels in the week to October 16, with gasoline and distillate draws alongside, as Brent rebounded 1.5 percent to about 110 dollars a barrel on Wednesday morning."
-why_it_matters: "The drawdown extends a 27 week slide of more than 56 million barrels from commercial crude inventories even as diplomatic efforts stall, so the market is losing the buffer that was supposed to absorb a supply shock."
+lede: "US crude stocks fell 3.1 million barrels in the week to October 16 to 412.5 million barrels, the Energy Information Administration said on Wednesday, confirming the API draw and leaving stocks 3 percent below the five year average."
+why_it_matters: "The official draw was larger than the roughly 0.8 million barrels expected and extends the slide in commercial inventories even as diplomatic efforts stall, so the market is losing the buffer that was supposed to absorb a supply shock."
 featured: true
 evidence_grade: "B"
 sources:
@@ -18,9 +19,15 @@ sources:
     publisher: "Reuters via Arab News"
     url: "https://www.arabnews.com/energy/oil-rises-on-middle-east-supply-fears-us-inventory-drawdowns-3007473"
     published: "2026-10-21"
+  - title: "EIA Says US Crude Inventories Sink Further"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Sink-Further.html"
+    published: "2026-10-21"
 tags: []
-data_as_of: "API estimates for the week ending October 16, 2026, published October 20. Brent and WTI price moves are Wednesday, October 21, 2026 as reported by Reuters via Arab News. Market tables show Tuesday close: Brent 110.86 dollars, up 1.9 percent; WTI 99.96 dollars, down 1.8 percent."
+data_as_of: "Latest update: EIA figures for the week ending October 16, 2026, released Wednesday, October 21, 2026, as reported in full by OilPrice.com and corroborated on the headline figures by investinglive (crude down 3.060 million barrels against 0.82 million expected); the EIA's own Weekly Petroleum Status Report document was not fetched directly in this update, so the official figures are carried as reported. Earlier: API estimates for the week ending October 16, 2026, published October 20. Brent and WTI price moves are Wednesday, October 21, 2026 as reported by Reuters via Arab News. Market tables show Tuesday close: Brent 110.86 dollars, up 1.9 percent; WTI 99.96 dollars, down 1.8 percent."
 ---
+
+**Latest:** The Energy Information Administration said US crude inventories fell 3.1 million barrels in the week ending October 16 to 412.5 million barrels, 3 percent below the five year average for this time of year, a larger draw than the roughly 0.8 million barrels expected. Gasoline stocks fell 3.0 million barrels, while distillate stocks rose 1.7 million barrels and remain 9 percent below the five year average, reversing the API estimate of a distillate draw. Total products supplied averaged 21.1 million barrels a day over the last four weeks, up 3.2 percent from a year earlier. Brent was near flat at 108.87 dollars a barrel late Wednesday morning in New York and WTI was at 97.69 dollars, OilPrice.com reported.
 
 Crude rebounded on Wednesday as shrinking US inventories met escalating Middle East tensions. Brent futures rose 1.61 dollars, or 1.5 percent, to 110.40 dollars a barrel by 09:30 Saudi time, and WTI gained 1.45 dollars, or 1.5 percent, to 99.27 dollars, Reuters reported via Arab News. The bounce followed a choppy Tuesday in which Brent hit a five month high before easing on hopes of a Qatar or Pakistan brokered deal, hopes the same reporting calls distant: Iran told Pakistan's army chief there would be no talks with Washington until its demands were met.
 
