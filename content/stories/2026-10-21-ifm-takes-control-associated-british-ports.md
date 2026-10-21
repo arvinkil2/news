@@ -1,7 +1,7 @@
 ---
 title: "IFM fund to take control of Associated British Ports"
 date: 2026-10-21T05:13:42-04:00
-last_updated: 2026-10-21T05:13:42-04:00
+last_updated: 2026-10-21T07:09:10-04:00
 beats: ["infra-deals"]
 regions: ["europe", "north-america", "asia-pacific"]
 status: "story"
