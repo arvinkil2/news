@@ -1,3 +1,4 @@
+---
 title: "US jobless claims fall to 194,000, near 1960s low"
 date: 2026-10-22T09:48:26-04:00
 last_updated: 2026-10-22T09:48:26-04:00
