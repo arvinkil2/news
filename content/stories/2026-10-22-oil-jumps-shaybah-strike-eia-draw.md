@@ -1,7 +1,7 @@
 ---
 title: "Oil jumps after Shaybah strike as inventories tighten"
 date: 2026-10-22T07:06:57-04:00
-last_updated: 2026-10-22T08:42:58-04:00
+last_updated: 2026-10-22T12:16:16-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
@@ -30,12 +30,18 @@ sources:
     publisher: "TASS"
     url: "https://tass.ru/mezhdunarodnaya-panorama/28242479"
     published: "2026-10-22"
+  - title: "UN chief condemns Houthi attacks on Saudi Arabia, warns an 'El Nino of war' is hitting world's poor"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/middle-east/un-chief-condemns-houthi-attacks-on-saudi-arabia-warns-an-el-nino-of-war-is-hitting-worlds-poor-3007756"
+    published: "2026-10-22"
 tags: []
-data_as_of: "Market tables updated October 22, 2026 at 06:00 ET: Brent 112.34 dollars, up 3.23 percent on the day and 6.06 percent on the week; WTI 99.78 dollars, up 2.71 percent. Shaybah attack reported October 21 to 22, 2026. EIA data for the week ending October 16, 2026, released October 21. Update: Yonhap News Agency report of October 22, 2026, in Korean, read in full, and TASS report of October 22, 2026, in Russian, read in full; both report Houthi spokesman Yahya Saree's claim of four operations in 48 hours. The Houthis are a party to the conflict and TASS is a Russian state agency; the Riyadh, Yanbu and Abha claims had no Saudi or independent corroboration as of this update."
+data_as_of: "Market tables updated October 22, 2026 at 06:00 ET: Brent 112.34 dollars, up 3.23 percent on the day and 6.06 percent on the week; WTI 99.78 dollars, up 2.71 percent. Shaybah attack reported October 21 to 22, 2026. EIA data for the week ending October 16, 2026, released October 21. Update: Yonhap News Agency report of October 22, 2026, in Korean, read in full, and TASS report of October 22, 2026, in Russian, read in full; both report Houthi spokesman Yahya Saree's claim of four operations in 48 hours. The Houthis are a party to the conflict and TASS is a Russian state agency; the Riyadh, Yanbu and Abha claims had no Saudi or independent corroboration as of this update. Second update: Arab News report of October 22, 2026, read in full, on UN Secretary-General Antonio Guterres's remarks in New York; the airport casualty figures he spoke against are the Coalition to Restore Legitimacy in Yemen's, a party to the conflict, and are attributed to it."
 update_bump: true
 ---
 
-**Latest:** The Houthis have claimed a wider set of strikes than the Shaybah and Dammam attacks reported earlier in this story. Military spokesman Yahya Saree said the group carried out four operations with ballistic missiles and drones in the previous 48 hours, naming the Saudi Defense Ministry headquarters in Riyadh, King Fahd International Airport at Dammam, an Aramco facility at Yanbu, where he said a fire was started, and Abha International Airport. Saudi authorities have confirmed the Dammam airport attack. No Saudi confirmation of strikes on the Riyadh ministry building, Yanbu or Abha had been reported as of this update, and those claims rest on the Houthis' own account, relayed by Yonhap and by TASS.
+**Latest:** The UN secretary-general, Antonio Guterres, condemned the Houthi attacks on civilian targets in Saudi Arabia as "totally unacceptable" on Thursday, telling reporters in New York that fighting in Yemen was escalating around Taiz and elsewhere and warning that the spread of conflicts was acting like an "El Nino of war," sending economic shock waves through energy markets, shipping lanes and supply chains to the world's poorest households. Guterres said he had spoken this week with the head of Yemen's Presidential Leadership Council, that his special envoy was engaging all parties to preserve a path for dialogue, and that he would travel to Egypt on Friday. The Coalition to Restore Legitimacy in Yemen has said at least 19 people were killed and 364 injured in Houthi attacks on Saudi airports, with five airports targeted since October 5; the coalition is a party to the conflict and its figures have not been independently verified. Saudi Arabia's foreign minister also discussed expanding security cooperation with his Iraqi counterpart on Thursday amid the attacks.
+
+Earlier, the Houthis claimed a wider set of strikes than the Shaybah and Dammam attacks reported earlier in this story. Military spokesman Yahya Saree said the group carried out four operations with ballistic missiles and drones in the previous 48 hours, naming the Saudi Defense Ministry headquarters in Riyadh, King Fahd International Airport at Dammam, an Aramco facility at Yanbu, where he said a fire was started, and Abha International Airport. Saudi authorities have confirmed the Dammam airport attack. No Saudi confirmation of strikes on the Riyadh ministry building, Yanbu or Abha had been reported as of this update, and those claims rest on the Houthis' own account, relayed by Yonhap and by TASS.
 
 Oil climbed sharply on Thursday after attacks on Saudi energy sites added a production risk on top of the shipping risk that has driven the market for weeks. Brent rose 3.23 percent to 112.34 dollars a barrel in the latest market tables, up 6.06 percent on the week, and WTI rose 2.71 percent to 99.78 dollars. Reuters market reporting early Thursday had Brent up 2.82 dollars, or 2.59 percent, at 111.64 dollars and WTI up 2.24 dollars at 99.39 dollars.
 
