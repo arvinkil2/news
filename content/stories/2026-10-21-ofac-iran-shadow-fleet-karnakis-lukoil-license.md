@@ -1,13 +1,13 @@
 ---
 title: "OFAC adds Iran shadow fleet network, issues Lukoil sale license"
 date: 2026-10-21T13:14:07-04:00
-last_updated: 2026-10-21T13:52:32-04:00
+last_updated: 2026-10-22T13:43:24-04:00
 beats: ["politics"]
-regions: ["north-america", "middle-east", "asia-pacific"]
+regions: ["north-america", "middle-east", "asia-pacific", "europe"]
 status: "developing"
 developing: true
-lede: "The Treasury's Office of Foreign Assets Control on Wednesday added five individuals, four entities and nine vessels linked to the Karnakis and Karnakis network to the SDN list under Iran sanctions, and issued a Russia related license authorizing negotiations for the sale of Lukoil International GmbH; the Treasury's own release describes Karnakis and Karnakis as a Panama and Greece based law firm that registered shell shipping companies for Iranian cargo trade."
-why_it_matters: "The additions extend the Operation Economic Outcast campaign against Iran's shadow fleet from ship operators to the law firm and shipping agents who set the network up, while the Lukoil license keeps a sanctioned Russian oil group's foreign arm saleable under US supervision rather than frozen outright."
+lede: "Greece's finance ministry said on Thursday it is implementing sanctions in place linked to Iran, a day after the US Treasury sanctioned the Greece and Panama based law firm Karnakis and Karnakis for registering shell shipping companies for Iranian cargo trade and FinCEN subpoenaed records in an inquiry into an unnamed Greek bank."
+why_it_matters: "The Greek statement moves the shadow fleet crackdown from a US designation into European enforcement, where the law firm, the vessels' registries and the bank under inquiry actually operate, while the Lukoil license in the same US release keeps a sanctioned Russian oil group's foreign arm saleable under US supervision rather than frozen outright."
 featured: false
 evidence_grade: "C"
 sources:
@@ -19,12 +19,18 @@ sources:
     publisher: "US Department of the Treasury"
     url: "https://home.treasury.gov/news/press-releases/sb0664/"
     published: "2026-10-21"
+  - title: "Greece says it is implementing sanctions linked to Iran"
+    publisher: "Reuters, via gCaptain"
+    url: "https://gcaptain.com/greece-says-it-is-implementing-sanctions-linked-to-iran/"
+    published: "2026-10-22"
 tags: []
-data_as_of: "OFAC recent actions release of October 21, 2026, read in full, and US Treasury press release sb0664 of October 21, 2026, read in full. Single publisher, the issuing authority itself, in two publications, so this item is single-sourced and graded C. Developing item, updated with the Treasury release."
+data_as_of: "OFAC recent actions release of October 21, 2026, read in full, and US Treasury press release sb0664 of October 21, 2026, read in full. Single publisher, the issuing authority itself, in two publications, so this item is single-sourced and graded C. Developing item, updated with the Treasury release. Latest update: the Greek finance ministry statement of October 22, 2026, is from Reuters reporting of October 22, 2026, read in full via gCaptain; the ministry's own text was not published in the report read."
 update_bump: true
 ---
 
-Latest: the Treasury's press release on the action describes Karnakis and Karnakis as a Panama and Greece based law firm that for years used its legal practice to register shipping companies owning shadow fleet vessels, which moved hundreds of millions of dollars' worth of Iranian steel, petroleum and petrochemicals. The four designated entities are the firm itself, Roxette Maritime Shipping and Trading, Singapore shipping agent Amigoz Singapore PTE. Ltd., and Dubai based Whales Shipping Line, which the Treasury designated for supporting Amigoz. The Treasury said FinCEN, working with European partners, has issued its first administrative subpoena under section 5318(k) of the Bank Secrecy Act in an inquiry into a Greek bank's potential ties to Iran and its proxies. "Whether you are conducting illegal oil transfers at sea or sitting in the corner office of a law firm, if you are supporting the Iranian regime, we will find you and sanction you," Secretary of the Treasury Scott Bessent said.
+Latest: the Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism, Reuters reported. The ministry said it had taken note of the US Treasury statement, adding that all available information is being evaluated, and appropriate measures are being taken in accordance with established procedures and applicable national, EU, and international law. The statement follows the Treasury's Wednesday designations of Karnakis and Karnakis and FinCEN's administrative subpoena in an inquiry into a Greek bank, which the Treasury did not name.
+
+The Treasury's press release on the action describes Karnakis and Karnakis as a Panama and Greece based law firm that for years used its legal practice to register shipping companies owning shadow fleet vessels, which moved hundreds of millions of dollars' worth of Iranian steel, petroleum and petrochemicals. The four designated entities are the firm itself, Roxette Maritime Shipping and Trading, Singapore shipping agent Amigoz Singapore PTE. Ltd., and Dubai based Whales Shipping Line, which the Treasury designated for supporting Amigoz. The Treasury said FinCEN, working with European partners, has issued its first administrative subpoena under section 5318(k) of the Bank Secrecy Act in an inquiry into a Greek bank's potential ties to Iran and its proxies. "Whether you are conducting illegal oil transfers at sea or sitting in the corner office of a law firm, if you are supporting the Iranian regime, we will find you and sanction you," Secretary of the Treasury Scott Bessent said.
 
 The Office of Foreign Assets Control on Wednesday added 18 entries to the Specially Designated Nationals list under the Iran authority of Executive Order 13902: five individuals linked to the shipping firm Karnakis and Karnakis, four entities including Karnakis and Karnakis, Roxette Maritime Shipping and Trading and Whales Shipping Line, and nine vessels, seven of them Panama flagged cargo ships linked to Roxette Maritime and two United Arab Emirates flagged crew and supply vessels linked to Whales Shipping Line. OFAC issued Iran General License GG authorizing the wind down of transactions involving Karnakis and Karnakis, and General License HH authorizing wind down activities, limited safety and environmental transactions, and the offloading of cargo from persons and vessels blocked on October 21.
 
