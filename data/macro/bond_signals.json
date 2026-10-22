@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-22T15:06:25-04:00",
+ "as_of": "2026-10-22T15:23:17-04:00",
  "signals": [
   {
    "cusip": "46270CAB5",
@@ -123,6 +123,42 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "038169AB4-flag-2026-10-22"
+  },
+  {
+   "cusip": "88080TAC8",
+   "issuer": "TERAWULF INC",
+   "security": "1% Notes due 2031",
+   "price": 115.1,
+   "prev_price": 125.1394,
+   "trade_date": "2026-10-22",
+   "trade_time": "15:08:29",
+   "mark": 213.8395,
+   "mark_period": "2026-06-30",
+   "gap": -98.74,
+   "trades_stored": 1510,
+   "fired_at": "2026-10-22T15:23:17-04:00",
+   "level": "tier1",
+   "rule": "print 10+ pts below reference",
+   "ref_price": 125.1394,
+   "ref_move": -10.04,
+   "id": "88080TAC8-drop10-2026-10-22"
+  },
+  {
+   "cusip": "88080TAC8",
+   "issuer": "TERAWULF INC",
+   "security": "1% Notes due 2031",
+   "price": 115.1,
+   "prev_price": 125.1394,
+   "trade_date": "2026-10-22",
+   "trade_time": "15:08:29",
+   "mark": 213.8395,
+   "mark_period": "2026-06-30",
+   "gap": -98.74,
+   "trades_stored": 1510,
+   "fired_at": "2026-10-22T15:23:17-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "88080TAC8-flag-2026-10-22"
   }
  ]
 }
