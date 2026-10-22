@@ -11,6 +11,10 @@ why_it_matters: "Nigeria is Africa's most populous country, and a first case in 
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Africa CDC calls crisis meeting as Ebola spreads"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604"
+    published: "2026-10-22"
   - title: "Ebola has spread from Congo to 4 other countries. A look at where things stand"
     publisher: "Associated Press, via Egypt Independent"
     url: "https://www.egyptindependent.com/ebola-has-spread-from-congo-to-4-other-countries-a-look-at-where-things-stand"
@@ -32,7 +36,7 @@ data_as_of: "Updated Thursday, October 22, 2026, 04:44 ET with the Associated Pr
 update_bump: true
 ---
 
-**Latest:** The outbreak in the Congo has now killed at least 4,600 of the 9,500 people infected there, the Associated Press reported, up from the more than 4,200 deaths the WHO reported as of October 18, and Ebola disease from the outbreak has spread to four other countries, farther across Africa than any previous Ebola outbreak, reaching the central, western and eastern regions. Nigeria is the latest country affected, Uganda's outbreak was declared over on August 27 after 20 confirmed cases and it reported no new cases on Tuesday, Kenya has nine cases with no evidence of transmission beyond known contacts of its first patient, and France recorded the only case outside Africa, in a doctor who returned from the Congo in June and recovered, the AP said.
+**Latest:** The outbreak in the Congo has now killed at least 4,600 of the 9,500 people infected there, the Associated Press reported, up from the more than 4,200 deaths the WHO reported as of October 18, and Ebola disease from the outbreak has spread to four other countries, farther across Africa than any previous Ebola outbreak, reaching the central, western and eastern regions. Nigeria is the latest country affected, Uganda's outbreak was declared over on August 27 after 20 confirmed cases and it reported no new cases on Tuesday, Kenya has nine cases with no evidence of transmission beyond known contacts of its first patient, and France recorded the only case outside Africa, in a doctor who returned from the Congo in June and recovered, the AP said. The Africa CDC announced late on Wednesday an extraordinary virtual meeting of national health officials on October 28, which its director general, Dr. Jean Kaseya, called a chance to strengthen the collective response, Deutsche Welle reported.
 
 The World Health Organization said Nigeria has become the fifth country to detect Bundibugyo Ebola since the outbreak was declared in the Democratic Republic of the Congo in mid-May 2026, in a woman who recently travelled from Uganda and whose symptoms began on October 7, four days after she arrived. She sought care at a private health facility in Abuja on October 11, laboratory testing confirmed the infection on October 20, she remains in isolation, and 44 contacts are being monitored, the WHO said. The Nigeria Centre for Disease Control and Prevention has activated its incident management system, the WHO and partners are supporting case investigation, contact tracing and infection control, including protective equipment for health workers, investigations continue into the likely source of her infection and her full travel and exposure history, and the WHO has not recommended travel or trade restrictions on affected countries. The WHO put the Congo outbreak at more than 9,500 cases and more than 4,200 deaths as of October 18, with nine cases in Kenya and one in the Netherlands linked to it.
 
