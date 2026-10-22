@@ -1,15 +1,19 @@
 ---
 title: "Philippine central bank surprises with a 50-point hike to 5.50 percent"
 date: 2026-10-22T05:19:09-04:00
-last_updated: 2026-10-22T05:19:09-04:00
+last_updated: 2026-10-22T05:22:58-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
 lede: "The Bangko Sentral ng Pilipinas raised its target reverse repurchase rate by 50 basis points to 5.50 percent on Thursday, double the quarter-point move economists had expected, in its fourth straight tightening and its first half-point hike since February 2023."
 why_it_matters: "Manila is tightening into growth of 2.3 percent because September inflation hit 7.2 percent, core inflation neared a three-year high and the peso closed at a record low this week, and the double step tells markets the Monetary Board sees price pressures broadening, with one meeting left this year, on December 17."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Monetary Board raises Target RRP Rate by 50 basis points"
+    publisher: "Bangko Sentral ng Pilipinas"
+    url: "https://www.bsp.gov.ph/SitePages/MediaAndResearch/MediaDisp.aspx?ItemId=8115&MType=MediaReleases"
+    published: "2026-10-22"
   - title: "Philippine central bank hikes key rate by 50 bps amid inflation woes"
     publisher: "BusinessWorld"
     url: "https://bworldonline.com/top-stories/2026/10/22/788621/philippine-central-bank-hikes-key-rate-by-50-bps-amid-inflation-woes/"
@@ -23,7 +27,7 @@ sources:
     url: "https://www.tradingview.com/news/DJN_DN20261022002203:0-philippines-central-bank-delivers-jumbo-hike-in-bid-to-combat-inflation/"
     published: "2026-10-22"
 tags: []
-data_as_of: "Bangko Sentral ng Pilipinas monetary policy statement of October 22, 2026, as quoted in BusinessWorld's report of October 22, 2026, read in full. The statement itself had not been retrieved from bsp.gov.ph at the time of writing, so the decision figures and the Monetary Board's wording rest on that reporting, corroborated by the Reuters and Wall Street Journal reports of the same day. Poll figures are BusinessWorld's survey of 22 analysts, Reuters' survey of 27 economists and the Wall Street Journal's survey of 11 economists, as carried in those reports."
+data_as_of: "Bangko Sentral ng Pilipinas monetary policy statement, 'Monetary Board raises Target RRP Rate by 50 basis points,' October 22, 2026, read in full at bsp.gov.ph; the decision figures, the inflation outlook and the Monetary Board's wording in this story are the BSP's own. Poll figures are BusinessWorld's survey of 22 analysts, Reuters' survey of 27 economists and the Wall Street Journal's survey of 11 economists, from their reports of October 22, 2026, BusinessWorld's read in full and the Reuters and Wall Street Journal reports as carried via TradingView."
 update_bump: true
 ---
 
