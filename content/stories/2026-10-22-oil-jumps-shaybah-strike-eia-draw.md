@@ -1,11 +1,11 @@
 ---
 title: "Oil jumps after Shaybah strike as inventories tighten"
 date: 2026-10-22T07:06:57-04:00
-last_updated: 2026-10-22T12:16:16-04:00
+last_updated: 2026-10-22T12:33:58.065701-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "Brent rose 3.23 percent to 112.34 dollars a barrel in the latest market tables after a Houthi drone strike at Saudi Arabia's Shaybah field killed two people, and the Houthis have since claimed four missile and drone operations in 48 hours, including a strike on the Saudi Defense Ministry in Riyadh that Saudi authorities have not confirmed."
+lede: "Brent rose 2.81 percent to 111.88 dollars a barrel in the latest market tables after a Houthi drone strike at Saudi Arabia's Shaybah field killed two people, and the Houthis have since claimed four missile and drone operations in 48 hours, including a strike on the Saudi Defense Ministry in Riyadh that Saudi authorities have not confirmed."
 why_it_matters: "Saudi production and government sites are now in the firing line, not just shipping: Shaybah produces about one million barrels a day, the United States has ordered non-emergency staff out of Saudi missions, and an unconfirmed claim of a hit on the Defense Ministry in the capital widens the set of targets markets have to price."
 featured: true
 evidence_grade: "B"
@@ -35,7 +35,7 @@ sources:
     url: "https://www.arabnews.com/middle-east/un-chief-condemns-houthi-attacks-on-saudi-arabia-warns-an-el-nino-of-war-is-hitting-worlds-poor-3007756"
     published: "2026-10-22"
 tags: []
-data_as_of: "Market tables updated October 22, 2026 at 06:00 ET: Brent 112.34 dollars, up 3.23 percent on the day and 6.06 percent on the week; WTI 99.78 dollars, up 2.71 percent. Shaybah attack reported October 21 to 22, 2026. EIA data for the week ending October 16, 2026, released October 21. Update: Yonhap News Agency report of October 22, 2026, in Korean, read in full, and TASS report of October 22, 2026, in Russian, read in full; both report Houthi spokesman Yahya Saree's claim of four operations in 48 hours. The Houthis are a party to the conflict and TASS is a Russian state agency; the Riyadh, Yanbu and Abha claims had no Saudi or independent corroboration as of this update. Second update: Arab News report of October 22, 2026, read in full, on UN Secretary-General Antonio Guterres's remarks in New York; the airport casualty figures he spoke against are the Coalition to Restore Legitimacy in Yemen's, a party to the conflict, and are attributed to it."
+data_as_of: "Market tables updated October 22, 2026 at 12:30 ET: Brent 111.88 dollars, up 2.81 percent on the day and 5.63 percent on the week; WTI 98.80 dollars, up 1.70 percent. Shaybah attack reported October 21 to 22, 2026. EIA data for the week ending October 16, 2026, released October 21. Update: Yonhap News Agency report of October 22, 2026, in Korean, read in full, and TASS report of October 22, 2026, in Russian, read in full; both report Houthi spokesman Yahya Saree's claim of four operations in 48 hours. The Houthis are a party to the conflict and TASS is a Russian state agency; the Riyadh, Yanbu and Abha claims had no Saudi or independent corroboration as of this update. Second update: Arab News report of October 22, 2026, read in full, on UN Secretary-General Antonio Guterres's remarks in New York; the airport casualty figures he spoke against are the Coalition to Restore Legitimacy in Yemen's, a party to the conflict, and are attributed to it."
 update_bump: true
 ---
 
@@ -43,7 +43,7 @@ update_bump: true
 
 Earlier, the Houthis claimed a wider set of strikes than the Shaybah and Dammam attacks reported earlier in this story. Military spokesman Yahya Saree said the group carried out four operations with ballistic missiles and drones in the previous 48 hours, naming the Saudi Defense Ministry headquarters in Riyadh, King Fahd International Airport at Dammam, an Aramco facility at Yanbu, where he said a fire was started, and Abha International Airport. Saudi authorities have confirmed the Dammam airport attack. No Saudi confirmation of strikes on the Riyadh ministry building, Yanbu or Abha had been reported as of this update, and those claims rest on the Houthis' own account, relayed by Yonhap and by TASS.
 
-Oil climbed sharply on Thursday after attacks on Saudi energy sites added a production risk on top of the shipping risk that has driven the market for weeks. Brent rose 3.23 percent to 112.34 dollars a barrel in the latest market tables, up 6.06 percent on the week, and WTI rose 2.71 percent to 99.78 dollars. Reuters market reporting early Thursday had Brent up 2.82 dollars, or 2.59 percent, at 111.64 dollars and WTI up 2.24 dollars at 99.39 dollars.
+Oil climbed sharply on Thursday after attacks on Saudi energy sites added a production risk on top of the shipping risk that has driven the market for weeks. Brent rose 2.81 percent to 111.88 dollars a barrel in the latest market tables, up 5.63 percent on the week, and WTI rose 1.70 percent to 98.80 dollars. Reuters market reporting early Thursday had Brent up 2.82 dollars, or 2.59 percent, at 111.64 dollars and WTI up 2.24 dollars at 99.39 dollars.
 
 The trigger was Saudi Arabia's Shaybah field. A Houthi drone aimed at a processing plant at Shaybah on Wednesday was intercepted and its debris struck a contractor vehicle, killing two people and injuring two, according to reporting of the Saudi Energy Ministry's account. The ministry said operations were unaffected. Shaybah, in the Empty Quarter, produces about one million barrels a day. Hours later an attack on King Fahd International Airport at Dammam killed one person and injured eight, according to the civil aviation authority. The United States ordered non-emergency government employees and family members to leave Saudi Arabia, and officials told Reuters families would also be withdrawn from several other regional missions.
 
