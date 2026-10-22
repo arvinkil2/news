@@ -7,14 +7,14 @@ data_as_of: "2026-10-22"
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>2</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>102.73</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 2 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>22 Oct 2026</dd></div><div class="bw-sum-item"><dt>Fund marks to</dt><dd>30 Jun 2026</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>2</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>103.36</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 2 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>22 Oct 2026</dd></div><div class="bw-sum-item"><dt>Fund marks to</dt><dd>30 Jun 2026</dd></div></dl>
 <h2>Bonds</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-wulf-compute" data-def="[300, 124, 110, 92, 128, 84, 110, 96, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:92px"><col style="width:128px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
 <thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead>
 <tbody>
 <tr><td data-v="WULF COMPUTE LLC — 7.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/982911aa7/"><span class="bond-name">WULF COMPUTE LLC</span><span class="bond-sub">7.75% Notes due 2030</span></a></td><td data-v="102.019">102.02</td><td data-v="2026-10-22">22 Oct 2026</td><td data-v="-3.0157999999999987">-3.02</td><td data-v="105.0348">105.03<span class="cell-sub">Period ended 30 Jun 2026</span></td><td data-v="7.75">7.75</td><td data-v="2030-10-15">15 Oct 2030</td><td data-v="S&amp;P BB" title="S&amp;P BB; Moody's Ba2, rated 15 Oct 2025">S&amp;P BB<span class="cell-sub">Moody's Ba2</span></td><td data-v="982911AA7">982911AA7</td></tr>
-<tr><td data-v="WULF COMPUTE LLC — 7.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/u8528kaa6/"><span class="bond-name">WULF COMPUTE LLC</span><span class="bond-sub">7.75% Notes due 2030</span></a></td><td data-v="103.45">103.45</td><td data-v="2026-10-19">19 Oct 2026</td><td data-v="-999">n/a</td><td data-v="-999">n/a</td><td data-v="7.75">7.75</td><td data-v="2030-10-31">31 Oct 2030</td><td data-v="S&amp;P BB" title="S&amp;P BB">S&amp;P BB</td><td data-v="U8528KAA6">U8528KAA6</td></tr>
+<tr><td data-v="WULF COMPUTE LLC — 7.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/u8528kaa6/"><span class="bond-name">WULF COMPUTE LLC</span><span class="bond-sub">7.75% Notes due 2030</span></a></td><td data-v="104.7">104.70</td><td data-v="2026-10-19">19 Oct 2026</td><td data-v="-999">n/a</td><td data-v="-999">n/a</td><td data-v="7.75">7.75</td><td data-v="2030-10-31">31 Oct 2030</td><td data-v="S&amp;P BB" title="S&amp;P BB">S&amp;P BB</td><td data-v="U8528KAA6">U8528KAA6</td></tr>
 </tbody></table></div>
 
 <div class="flow-panel">
