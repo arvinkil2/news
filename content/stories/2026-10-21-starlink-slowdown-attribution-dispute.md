@@ -1,15 +1,15 @@
 ---
-title: Reports conflict over who ordered Starlink slowdown in Ukraine
+title: Trump calls Musk to lift Starlink limits in Ukraine
 date: '2026-10-21T07:14:34-04:00'
-last_updated: '2026-10-21T18:10:24-04:00'
+last_updated: '2026-10-22T15:13:16-04:00'
 beats:
 - politics
 regions:
 - europe
 - north-america
 status: story
-lede: President Trump said on Wednesday that he was not involved in the slowdown of SpaceX's Starlink service in Ukraine and did not know who ordered it, a day after the Wall Street Journal reported that Elon Musk ordered the speed cap and had discussed it with him.
-why_it_matters: 'Attribution is the policy question: if a private company''s owner can throttle a front line army''s communications without a government order, the United States has a command problem that no contract clause written for peacetime anticipated, and Kyiv, still facing speed restrictions at the front, has opened talks with Norway on new satellite capacity.'
+lede: President Trump called Elon Musk and asked him to lift the restrictions on Ukraine's use of Starlink, the Wall Street Journal reported on Thursday, and officials said the service improved afterwards without returning to full capability.
+why_it_matters: 'A day after denying any part in the slowdown, the president is now reported to have intervened personally to undo it, which sharpens the question this dispute has raised all week about who in practice controls the satellite service a front line army depends on.'
 featured: false
 evidence_grade: B
 sources:
@@ -25,12 +25,18 @@ sources:
   publisher: CNBC
   url: https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html
   published: '2026-10-21'
+- title: Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports
+  publisher: Arab News, reporting Reuters
+  url: https://www.arabnews.com/world/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-3007786
+  published: '2026-10-22'
 tags: []
-data_as_of: 'Wall Street Journal report of Tuesday October 20, 2026, as carried by Reuters via Arab News and by AFP via Vanguard, both read in full. The Journal''s sourcing is unnamed US officials and people familiar with the matter. Reuters said it could not immediately verify the report, and its own earlier exclusive reporting attributed the limiting order to inside the White House; both attributions are reported here as competing claims, not as settled fact. Update, 18:10 ET: CNBC report of October 21, 2026, read in full, carrying President Trump''s on camera denial as he left the White House on Wednesday and Senator John Cornyn''s comment the same morning. Status: reported, disputed.'
+data_as_of: 'Wall Street Journal report of Tuesday October 20, 2026, as carried by Reuters via Arab News and by AFP via Vanguard, both read in full. The Journal''s sourcing is unnamed US officials and people familiar with the matter. Reuters said it could not immediately verify the report, and its own earlier exclusive reporting attributed the limiting order to inside the White House; both attributions are reported here as competing claims, not as settled fact. Update, 18:10 ET: CNBC report of October 21, 2026, read in full, carrying President Trump''s on camera denial as he left the White House on Wednesday and Senator John Cornyn''s comment the same morning. Status: reported, disputed. Update, October 22: Wall Street Journal report of October 22, 2026, carried by Reuters via Arab News and read in full, reporting the president''s call to Mr Musk, the partial improvement described by US and Ukrainian officials, and President Zelenskyy''s earlier Thursday statement that speed had not been restored; how far the service has recovered remains disputed between those accounts.'
 update_bump: true
 ---
 
-**Latest:** President Trump denied any part in the slowdown on Wednesday as he left the White House for a campaign rally in South Carolina. Asked about the decision, he said he was not involved, and pressed on whether Musk ordered it, he said he did not know who did it. Senator John Cornyn told CNBC the same morning that he did not believe Musk would throttle Starlink without at least White House acquiescence. President Zelenskyy said on Monday that his military still faces speed restrictions on Starlink and Starshield in different parts of the front and that the American side has given Ukraine no explanation, and on Wednesday he said he had discussed launching new satellite communication capabilities with Norwegian Defence Minister Tore Sandvik.
+**Latest:** President Trump called Elon Musk and asked him to lift the restrictions on Ukraine's use of Starlink, the Wall Street Journal reported on Thursday, citing US officials. US and Ukrainian officials told the Journal the system was working more normally shortly after the conversation, though some Ukrainian officials said speeds had risen without returning to full capability, and the Journal said Mr Trump told Mr Musk he was frustrated that speeds remained capped at around 100 miles per hour. President Zelenskyy, speaking earlier on Thursday, said Starlink speed had not been restored for Ukraine and that he hoped for talks with Secretary of State Marco Rubio in the coming days.
+
+President Trump denied any part in the slowdown on Wednesday as he left the White House for a campaign rally in South Carolina. Asked about the decision, he said he was not involved, and pressed on whether Musk ordered it, he said he did not know who did it. Senator John Cornyn told CNBC the same morning that he did not believe Musk would throttle Starlink without at least White House acquiescence. President Zelenskyy said on Monday that his military still faces speed restrictions on Starlink and Starshield in different parts of the front and that the American side has given Ukraine no explanation, and on Wednesday he said he had discussed launching new satellite communication capabilities with Norwegian Defence Minister Tore Sandvik.
 
 Two incompatible accounts of who slowed Ukraine's military satellite service are now on the record at the same time. The Wall Street Journal reported on Tuesday, citing US officials and people familiar with the matter, that Elon Musk last week ordered the slowdown of Starshield, the military grade version of SpaceX's Starlink service that Ukraine relies on for battlefield communications and drone operations. Restricting the service hampered Ukraine's attack and air defence drone missions against Russia, the Journal reported.
 
