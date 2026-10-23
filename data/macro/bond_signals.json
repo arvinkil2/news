@@ -1,57 +1,6 @@
 {
- "as_of": "2026-10-22T18:45:38-04:00",
+ "as_of": "2026-10-23T14:39:01-04:00",
  "signals": [
-  {
-   "cusip": "86800UAF1",
-   "issuer": "SUPER MICRO COMPUTER INC",
-   "security": "Notes",
-   "price": 95.7697,
-   "prev_price": 89.5814,
-   "trade_date": "2026-10-21",
-   "trade_time": "09:18:57",
-   "mark": 87.2948,
-   "mark_period": "2026-07-31",
-   "gap": 8.47,
-   "trades_stored": 345,
-   "fired_at": "2026-10-21T09:22:58-04:00",
-   "level": "flag",
-   "rule": "move of 5+ pts on a new trade",
-   "id": "86800UAF1-flag-2026-10-21"
-  },
-  {
-   "cusip": "88080TAB0",
-   "issuer": "TERAWULF INC",
-   "security": "2.75% Notes due 2030",
-   "price": 171.7518,
-   "prev_price": 165.7486,
-   "trade_date": "2026-10-21",
-   "trade_time": "11:54:37",
-   "mark": 305.7621,
-   "mark_period": "2026-06-30",
-   "gap": -134.01,
-   "trades_stored": 1335,
-   "fired_at": "2026-10-21T14:34:42-04:00",
-   "level": "flag",
-   "rule": "move of 5+ pts on a new trade",
-   "id": "88080TAB0-flag-2026-10-21"
-  },
-  {
-   "cusip": "88080TAC8",
-   "issuer": "TERAWULF INC",
-   "security": "1% Notes due 2031",
-   "price": 125.1394,
-   "prev_price": 116.9697,
-   "trade_date": "2026-10-21",
-   "trade_time": "11:56:16",
-   "mark": 213.8395,
-   "mark_period": "2026-06-30",
-   "gap": -88.7,
-   "trades_stored": 1508,
-   "fired_at": "2026-10-21T14:34:42-04:00",
-   "level": "flag",
-   "rule": "move of 5+ pts on a new trade",
-   "id": "88080TAC8-flag-2026-10-21"
-  },
   {
    "cusip": "21873SAB4",
    "issuer": "COREWEAVE INC",
@@ -140,6 +89,23 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "88080TAC8-flag-2026-10-22"
+  },
+  {
+   "cusip": "46270CAJ8",
+   "issuer": "IREN LTD",
+   "security": "1% Notes due 2033",
+   "price": 65.7661,
+   "prev_price": 71.4241,
+   "trade_date": "2026-10-23",
+   "trade_time": "10:00:37",
+   "mark": 110.3,
+   "mark_period": "2026-06-30",
+   "gap": -44.53,
+   "trades_stored": 1376,
+   "fired_at": "2026-10-23T10:50:34-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "46270CAJ8-flag-2026-10-23"
   }
  ]
 }
