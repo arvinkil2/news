@@ -1,12 +1,12 @@
 ---
 title: "Brent touches five-month high as Aramco evacuates Dhahran"
 date: 2026-10-23T07:12:03-04:00
-last_updated: 2026-10-23T14:51:54-04:00
+last_updated: 2026-10-23T16:27:42-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
-lede: "Brent crude climbed above 117 dollars a barrel in London trading on Friday, after US envoy Tom Barrack said a US strike on Iran this weekend was absolutely possible, adding to supply concern after Houthi attacks on Saudi Arabia and Aramco's evacuation of its Dhahran headquarters."
-why_it_matters: "Barrack has no direct role on Iran and President Trump had earlier said a strike would not happen before the November 3 elections, so the remark raises the near-term risk priced into crude without settling whether a strike is planned."
+lede: "President Donald Trump said on Friday that the United States may carry out another military operation against Iran, telling a rally in Fort Myers, Florida, “We may do another little Epic Fury,” as Brent crude held above 117 dollars a barrel after touching its highest in five months."
+why_it_matters: "The strike risk priced into crude now rests on the president’s own words and not only an envoy’s, but Trump announced no order, timing or target, and he said earlier this month that no attack would come before the November 3 midterm elections."
 update_bump: true
 featured: true
 evidence_grade: "B"
@@ -35,11 +35,23 @@ sources:
     publisher: "AFP, via Arab News"
     url: "https://www.arabnews.com/middle-east/us-could-strike-iran-this-weekend-envoy-says-3007955"
     published: "2026-10-23"
+  - title: "Trump says US may do another military operation against Iran"
+    publisher: "Reuters, via SRN News"
+    url: "https://srnnews.com/trump-says-us-may-do-another-military-operation-against-iran/"
+    published: "2026-10-23"
+  - title: "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda “iki süper tanker” mayına çarptı"
+    publisher: "Anadolu Agency"
+    url: "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046"
+    published: "2026-10-23"
 tags: []
-data_as_of: "Intraday prices Friday, October 23, 2026: Reuters at 0810 GMT, Brent 113.96 dollars after touching 114.72 dollars; Anadolu at 0630 GMT, Brent 114.47 dollars, and at 1350 GMT, Brent 116.20 dollars; TASS, in Russian, reporting London ICE trading data at 18:37 to 18:44 Moscow time, December Brent 117.09 to 117.37 dollars. AFP report of October 23, 2026, via Arab News, read in full, for Tom Barrack's podcast remarks on a possible weekend strike. Site market tables updated October 23 at 06:00 ET show an earlier snapshot, Brent 109.71 dollars, down 3.06 percent, and WTI 101.16 dollars, up 1.70 percent; the tables and the wire snapshots are different points in a volatile session, not a contradiction to average away."
+data_as_of: "Intraday prices Friday, October 23, 2026: Reuters at 0810 GMT, Brent 113.96 dollars after touching 114.72 dollars; Anadolu at 0630 GMT, Brent 114.47 dollars, and at 1350 GMT, Brent 116.20 dollars; TASS, in Russian, reporting London ICE trading data at 18:37 to 18:44 Moscow time, December Brent 117.09 to 117.37 dollars. AFP report of October 23, 2026, via Arab News, read in full, for Tom Barrack's podcast remarks on a possible weekend strike. Site market tables updated October 23 at 06:00 ET show an earlier snapshot, Brent 109.71 dollars, down 3.06 percent, and WTI 101.16 dollars, up 1.70 percent; the tables and the wire snapshots are different points in a volatile session, not a contradiction to average away. Updated October 23 with a Reuters report of October 23, 2026, read in full via SRN News, on President Trump's Fort Myers rally remarks, and an Anadolu Agency report of October 23, 2026, in Turkish, read in full, relaying an IRGC Navy statement on two tankers and naval mines south of Hormuz; the mine claim is Iran's account, names no vessel, dates the strikes only to recent days, resembles a Guard claim reported on October 18 and October 20, and had no independent confirmation as of writing."
 ---
 
-Latest: Tom Barrack, the US ambassador to Turkiye and envoy for Syria, said on Friday that a US strike on Iran this weekend was absolutely possible. Asked on Mario Nawfal's podcast, as he visited the Gulf, whether there could be a strike this weekend, Barrack replied, "Absolutely," AFP reported via Arab News. Barrack said President Donald Trump was open to a deal after months of talks, and that the United States was not seeking regime change in Iran. The article carried no direct response from Trump to Barrack's remark, and Trump had earlier said a strike would not happen before the US congressional elections on November 3.
+**Latest:** President Donald Trump said on Friday that Washington may carry out another military operation against Iran. “We may do another little Epic Fury,” he told a rally in Fort Myers, Florida, Reuters reported, using the US military’s name for its war against Iran. He did not elaborate. Earlier on Friday, speaking to reporters on the White House South Lawn, Trump said the United States could end the war quickly but questioned whether it should finish it off or let it wither, and said oil was still getting out through the Strait of Hormuz.
+
+Iran’s Revolutionary Guard Navy said on Friday that two supertankers struck naval mines in recent days while using an unauthorized route south of the Strait of Hormuz, Anadolu Agency reported, in Turkish. The statement named no vessel, gave no flag or crew details and dated the strikes only to recent days. Anadolu reported that UK Maritime Trade Operations said it was investigating reports of the incident. No independent confirmation of the mine strikes had been published as of writing, and a near-identical Guard claim about two tankers was reported on October 18 and again on October 20.
+
+Tom Barrack, the US ambassador to Turkiye and envoy for Syria, said on Friday that a US strike on Iran this weekend was absolutely possible. Asked on Mario Nawfal's podcast, as he visited the Gulf, whether there could be a strike this weekend, Barrack replied, "Absolutely," AFP reported via Arab News. Barrack said President Donald Trump was open to a deal after months of talks, and that the United States was not seeking regime change in Iran. The article carried no direct response from Trump to Barrack's remark, and Trump had earlier said a strike would not happen before the US congressional elections on November 3.
 
 Brent extended its rise on Friday. The benchmark climbed 2.7 percent, or 3.06 dollars, to 116.20 dollars a barrel as of 1350 GMT, surpassing the peak recorded at the start of the war, Anadolu reported, describing the level as the highest since June 2022. WTI advanced 3.04 percent to 102.50 dollars, its highest in five weeks. TASS reported later that December Brent futures on London ICE rose above 117 dollars for the first time since April 29, reaching 117.09 dollars at 18:37 Moscow time and 117.37 dollars at 18:44 Moscow time, with November WTI at 103.16 dollars. Anadolu linked the rally to expectations that Washington could resume strikes against Iran in the coming weeks.
 
