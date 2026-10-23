@@ -37,6 +37,7 @@
     <button class="nav-trigger" data-menu="menu-leverage" aria-haspopup="true" aria-expanded="false">Leverage</button>
     <button class="nav-trigger" data-menu="menu-cmbs" aria-haspopup="true" aria-expanded="false">CMBS</button>
     <button class="nav-trigger" data-menu="menu-swaps" aria-haspopup="true" aria-expanded="false">Swaps</button>
+    <button class="nav-trigger" data-menu="menu-reserves" aria-haspopup="true" aria-expanded="false">Reserves</button>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/entities/" | relURL }}" class="nav-link">Entity Index</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
@@ -74,6 +75,11 @@
     <a href="{{ "/swaps/commodities/" | relURL }}" class="dropdown-item" role="menuitem">Commodities</a>
     <a href="{{ "/swaps/weekly/" | relURL }}" class="dropdown-item" role="menuitem">Weekly Review</a>
     <a href="{{ "/swaps/method/" | relURL }}" class="dropdown-item" role="menuitem">Method and Data Notes</a>
+  </div>
+  <div class="dropdown-panel" id="menu-reserves" role="menu">
+    <a href="{{ "/reserves/" | relURL }}" class="dropdown-item" role="menuitem">Reserves Overview</a>
+    <a href="{{ "/reserves/events/" | relURL }}" class="dropdown-item" role="menuitem">Release and Refill Ledger</a>
+    <a href="{{ "/reserves/method/" | relURL }}" class="dropdown-item" role="menuitem">Method and Data Notes</a>
   </div>
 </header>
 <main class="content" id="main">
