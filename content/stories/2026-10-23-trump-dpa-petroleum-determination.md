@@ -1,7 +1,7 @@
 ---
 title: "Trump invokes Defense Production Act for petroleum capacity"
 date: 2026-10-23T06:43:38-04:00
-last_updated: 2026-10-23T06:43:38-04:00
+last_updated: 2026-10-23T07:12:03-04:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "developing"
