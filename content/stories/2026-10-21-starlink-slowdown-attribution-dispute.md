@@ -1,15 +1,15 @@
 ---
 title: Trump calls Musk to lift Starlink limits in Ukraine
 date: '2026-10-21T07:14:34-04:00'
-last_updated: '2026-10-22T15:13:16-04:00'
+last_updated: '2026-10-22T20:27:00-04:00'
 beats:
 - politics
 regions:
 - europe
 - north-america
 status: story
-lede: President Trump called Elon Musk and asked him to lift the restrictions on Ukraine's use of Starlink, the Wall Street Journal reported on Thursday, and officials said the service improved afterwards without returning to full capability.
-why_it_matters: 'A day after denying any part in the slowdown, the president is now reported to have intervened personally to undo it, which sharpens the question this dispute has raised all week about who in practice controls the satellite service a front line army depends on.'
+lede: President Trump said on Thursday that Elon Musk had restored Ukraine's Starlink access, declining to say whether he had spoken to Mr Musk about it, while Ukrainian officials said the service had improved without returning to full capability.
+why_it_matters: 'The president is now claiming the restoration himself, a day after denying any part in the slowdown, while Kyiv says full function has not returned, which sharpens the question this dispute has raised all week about who in practice controls the satellite service a front line army depends on.'
 featured: false
 evidence_grade: B
 sources:
@@ -29,12 +29,18 @@ sources:
   publisher: Arab News, reporting Reuters
   url: https://www.arabnews.com/world/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-3007786
   published: '2026-10-22'
+- title: Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke
+  publisher: Reuters, via 101 WIXX
+  url: https://wixx.com/2026/10/22/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports/
+  published: '2026-10-22'
 tags: []
-data_as_of: 'Wall Street Journal report of Tuesday October 20, 2026, as carried by Reuters via Arab News and by AFP via Vanguard, both read in full. The Journal''s sourcing is unnamed US officials and people familiar with the matter. Reuters said it could not immediately verify the report, and its own earlier exclusive reporting attributed the limiting order to inside the White House; both attributions are reported here as competing claims, not as settled fact. Update, 18:10 ET: CNBC report of October 21, 2026, read in full, carrying President Trump''s on camera denial as he left the White House on Wednesday and Senator John Cornyn''s comment the same morning. Status: reported, disputed. Update, October 22: Wall Street Journal report of October 22, 2026, carried by Reuters via Arab News and read in full, reporting the president''s call to Mr Musk, the partial improvement described by US and Ukrainian officials, and President Zelenskyy''s earlier Thursday statement that speed had not been restored; how far the service has recovered remains disputed between those accounts.'
+data_as_of: 'Wall Street Journal report of Tuesday October 20, 2026, as carried by Reuters via Arab News and by AFP via Vanguard, both read in full. The Journal''s sourcing is unnamed US officials and people familiar with the matter. Reuters said it could not immediately verify the report, and its own earlier exclusive reporting attributed the limiting order to inside the White House; both attributions are reported here as competing claims, not as settled fact. Update, 18:10 ET: CNBC report of October 21, 2026, read in full, carrying President Trump''s on camera denial as he left the White House on Wednesday and Senator John Cornyn''s comment the same morning. Status: reported, disputed. Update, October 22: Wall Street Journal report of October 22, 2026, carried by Reuters via Arab News and read in full, reporting the president''s call to Mr Musk, the partial improvement described by US and Ukrainian officials, and President Zelenskyy''s earlier Thursday statement that speed had not been restored; how far the service has recovered remains disputed between those accounts. Update, October 22, 20:27 ET: Reuters report of October 22, 2026, read in full via 101 WIXX, reporting President Trump''s statement to reporters that Mr Musk had restored Ukraine''s access and his refusal to say whether he had spoken to Mr Musk; the claim of restoration is the president''s, and it is reported here against the Ukrainian accounts in the same report that full function had not returned.'
 update_bump: true
 ---
 
-**Latest:** President Trump called Elon Musk and asked him to lift the restrictions on Ukraine's use of Starlink, the Wall Street Journal reported on Thursday, citing US officials. US and Ukrainian officials told the Journal the system was working more normally shortly after the conversation, though some Ukrainian officials said speeds had risen without returning to full capability, and the Journal said Mr Trump told Mr Musk he was frustrated that speeds remained capped at around 100 miles per hour. President Zelenskyy, speaking earlier on Thursday, said Starlink speed had not been restored for Ukraine and that he hoped for talks with Secretary of State Marco Rubio in the coming days.
+**Latest:** President Trump told reporters on Thursday that Elon Musk had restored Ukraine's Starlink access. Asked whether he had spoken to Mr Musk, he declined to comment, saying it did not make any difference whether he called or somebody else did, and that the bottom line was that Mr Musk had put it back, Reuters reported. The claim goes further than the accounts from Ukraine in the same reporting: some Ukrainian officials said the system was working at higher speeds than under the cap but had not been restored to full functionality, and President Zelenskyy said earlier on Thursday that speed had not been restored.
+
+President Trump called Elon Musk and asked him to lift the restrictions on Ukraine's use of Starlink, the Wall Street Journal reported on Thursday, citing US officials. US and Ukrainian officials told the Journal the system was working more normally shortly after the conversation, though some Ukrainian officials said speeds had risen without returning to full capability, and the Journal said Mr Trump told Mr Musk he was frustrated that speeds remained capped at around 100 miles per hour. President Zelenskyy, speaking earlier on Thursday, said Starlink speed had not been restored for Ukraine and that he hoped for talks with Secretary of State Marco Rubio in the coming days.
 
 President Trump denied any part in the slowdown on Wednesday as he left the White House for a campaign rally in South Carolina. Asked about the decision, he said he was not involved, and pressed on whether Musk ordered it, he said he did not know who did it. Senator John Cornyn told CNBC the same morning that he did not believe Musk would throttle Starlink without at least White House acquiescence. President Zelenskyy said on Monday that his military still faces speed restrictions on Starlink and Starshield in different parts of the front and that the American side has given Ukraine no explanation, and on Wednesday he said he had discussed launching new satellite communication capabilities with Norwegian Defence Minister Tore Sandvik.
 
