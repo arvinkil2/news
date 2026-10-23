@@ -1,13 +1,13 @@
 ---
 title: "Magnitude 7.0 earthquake in Tibet kills 16, injures 32"
 date: 2026-10-22T11:15:33-04:00
-last_updated: 2026-10-22T20:34:01-04:00
+last_updated: 2026-10-22T20:50:19-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "The magnitude 7.0 earthquake that struck the Tibetan plateau near Nagqu on Thursday killed 16 people and injured 32, Xinhua reported, citing Nagqu City's emergency management bureau, with 11 of the injured in serious condition as of the early hours of Friday."
-why_it_matters: "It is the strongest earthquake to hit China since January 2024, and the toll emerged from a remote, high-altitude county where rescue teams are still travelling in and the average elevation near the epicentre is about 4,864 metres, so the casualty count may not be final."
+lede: "The magnitude 7.0 earthquake that struck the Tibetan plateau near Nagqu on Thursday killed 16 people and injured 32, Xinhua reported, citing Nagqu City's emergency management bureau, and collapsed at least 339 homes in Nagqu, the Nagqu media office said, citing city government officials."
+why_it_matters: "It is the strongest earthquake to hit China since January 2024, and the damage count is still coming out of a remote, high-altitude county where the average elevation near the epicentre is about 4,864 metres, search and rescue is continuing and the casualty count may not be final."
 featured: false
 evidence_grade: "B"
 sources:
@@ -23,12 +23,20 @@ sources:
     publisher: "Reuters, via Y100 WNCY"
     url: "https://wncy.com/2026/10/22/earthquake-of-magnitude-7-strikes-chinas-tibet/"
     published: "2026-10-22"
+  - title: "A 7.0 earthquake hits China's Tibet, killing 16 and injuring 32"
+    publisher: "Associated Press, via Arab News"
+    url: "https://www.arabnews.com/world/a-70-earthquake-hits-chinas-tibet-killing-16-and-injuring-32-3007819"
+    published: "2026-10-22"
+  - title: "Magnitude 7 earthquake kills 16 people in China's Tibet, Xinhua reports"
+    publisher: "Al Jazeera, reporting AFP and Reuters"
+    url: "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss"
+    published: "2026-10-22"
 tags: []
-data_as_of: "US Geological Survey event us6000u43g, October 22, 2026, read via the USGS event record (automatic solution, magnitude and location may be revised); the German Research Centre for Geosciences (GFZ) independently reported magnitude 7 at 10 km depth, via Reuters. No felt, casualty or damage reports had been received as of 11:15 EDT. Update, October 22, 20:34 ET: Reuters report of October 22, 2026, read in full via Y100 WNCY, reporting Xinhua, the Chinese state news agency, citing Nagqu City's emergency management bureau for the toll of 16 dead and 32 injured as of 2:25 a.m. Friday local time; the toll is the official Chinese figure carried by Xinhua and has not been independently verified on the ground. Developing item."
+data_as_of: "US Geological Survey event us6000u43g, October 22, 2026, read via the USGS event record (automatic solution, magnitude and location may be revised); the German Research Centre for Geosciences (GFZ) independently reported magnitude 7 at 10 km depth, via Reuters. No felt, casualty or damage reports had been received as of 11:15 EDT. Update, October 22, 20:34 ET: Reuters report of October 22, 2026, read in full via Y100 WNCY, reporting Xinhua, the Chinese state news agency, citing Nagqu City's emergency management bureau for the toll of 16 dead and 32 injured as of 2:25 a.m. Friday local time; the toll is the official Chinese figure carried by Xinhua and has not been independently verified on the ground. Update, October 22, 20:50 ET: Associated Press report of October 22, 2026, read in full via Arab News, reporting the Nagqu media office, citing city government officials, for at least 339 homes collapsed in Nagqu, continuing search and rescue and tents being built for displaced people; Al Jazeera report of October 22, 2026, read in full, reporting a level-II earthquake disaster emergency response activated in the area. The collapsed-homes figure is a Chinese official figure carried by AP and has not been independently verified on the ground. Developing item."
 update_bump: true
 ---
 
-**Latest:** The earthquake killed 16 people and injured 32 others, Xinhua reported, citing Nagqu City's emergency management bureau. As of 2:25 a.m. on Friday, 11 of the injured were in serious condition and 21 had minor injuries, Xinhua said. Some houses in the villages closest to the epicentre showed cracks, the state broadcaster said, local fire and rescue teams have mobilised and are heading to the affected region, and a string of smaller tremors of around magnitude 3 and 4 have been recorded in surrounding regions since the main quake, China Earthquake Networks Center data showed. Reuters described it as the strongest earthquake to hit China since January 2024.
+**Latest:** The earthquake killed 16 people and injured 32 others, Xinhua reported, citing Nagqu City's emergency management bureau. As of 2:25 a.m. on Friday, 11 of the injured were in serious condition and 21 had minor injuries, Xinhua said. The quake collapsed at least 339 homes in Nagqu, the Nagqu media office said, citing city government officials, search and rescue efforts continued, and police and fire rescue teams were building tents to house people displaced by the quake, the Associated Press reported. A level-II earthquake disaster emergency response was activated in the area, Al Jazeera reported. Some houses in the villages closest to the epicentre showed cracks, the state broadcaster said, and a string of smaller tremors of around magnitude 3 and 4 have been recorded in surrounding regions since the main quake, China Earthquake Networks Center data showed. Reuters described it as the strongest earthquake to hit China since January 2024.
 
 A magnitude 7.0 earthquake struck the Tibetan plateau at 14:33 UTC on Thursday (22:33 local time), with an epicentre at 32.336 degrees north, 93.714 degrees east, about 183 kilometres east-northeast of Nagqu and 50 kilometres north of Suo, at a shallow depth of 10 kilometres, the US Geological Survey said. The German Research Centre for Geosciences (GFZ) independently reported the same magnitude and depth for a quake in Tibet.
 
