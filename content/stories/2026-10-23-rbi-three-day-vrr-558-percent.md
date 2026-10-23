@@ -1,7 +1,8 @@
 ---
 title: "RBI three-day repo draws double bids at 5.58 percent"
 date: 2026-10-23T07:17:15-04:00
-last_updated: 2026-10-23T07:17:15-04:00
+last_updated: 2026-10-23T12:47:37-04:00
+update_bump: true
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,8 +19,12 @@ sources:
     publisher: "Reserve Bank of India"
     url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848"
     published: "2026-10-22"
+  - title: "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026"
+    publisher: "Reserve Bank of India"
+    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861"
+    published: "2026-10-23"
 tags: []
-data_as_of: "Reserve Bank of India press releases 2026-2027/1373 (result, October 23, 2026) and 2026-2027/1370 (auction notice, October 22, 2026), read in full. Single primary publisher, the issuing central bank itself."
+data_as_of: "Reserve Bank of India press releases 2026-2027/1373 (result, October 23, 2026), 2026-2027/1370 (auction notice, October 22, 2026) and 2026-2027/1383 (four-day auction notice for October 26, 2026), read in full. Single primary publisher, the issuing central bank itself."
 ---
 
 Demand for central bank money over the weekend stayed heavy. Banks bid 106,949 crore rupees for the Reserve Bank's three-day variable rate repo on Friday, more than twice the 50,000 crore notified, and the bank allotted 50,003 crore at a cut-off rate of 5.58 percent, with a weighted average rate of 5.60 percent and partial allotment of 30.99 percent at the cut-off.
@@ -27,3 +32,5 @@ Demand for central bank money over the weekend stayed heavy. Banks bid 106,949 c
 The operation, announced on Thursday on a review of liquidity conditions, runs to reversal on Monday, October 26. Its pricing is the signal: Thursday's overnight repo cleared at 5.54 percent, Wednesday's at 5.52 percent, and the three-day money now costs 5.58 percent at the cut-off and 5.60 percent on average. Banks are not only bidding larger amounts, they are paying a rising premium to term the funding out over the weekend rather than rolling it overnight.
 
 That pattern, rising bids at rising rates across three consecutive operations, is what separates a calendar squeeze from a one-day settlement bulge. The dated auction the same morning cleared in full, so cash exists in the system for term government paper; the repo queue says it is not sitting with the banks that need it overnight.
+
+**Update:** The Reserve Bank has already scheduled the next operation at three times the size. On a review of current and evolving liquidity conditions in the near term, it will conduct a four-day variable rate repo on Monday, October 26 for a notified 150,000 crore rupees, with reversal on Friday, October 30, the bank said in a further press release on Friday.
