@@ -1,14 +1,14 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-10-23T08:04:32-04:00
-last_updated: 2026-10-23T08:04:32-04:00
+last_updated: 2026-10-23T12:47:04-04:00
 regions: ["global"]
-kicker: "Overnight markets"
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Energy spiked and equities sold off, with US natural gas up 12.09 percent and the miners down more than 5 percent while Treasuries rallied hard"
-why_it_matters: "The day pairs a genuine energy supply scare with a growth-equity liquidation, and the 19.3 basis point fall in the 10-year Treasury yield shows the haven bid winning into next week's Federal Reserve meeting"
+lede: "Energy kept climbing at midday, with US natural gas up 8.30 percent and WTI crude up 3.64 percent above 103 dollars, while Asian equities fell sharply and the miners kept sliding"
+why_it_matters: "The supply shock is now in its second session and broadening, Asian markets have taken the equity hit that US indexes have so far absorbed, and Treasury yields are holding just below 5 percent into next week's Federal Reserve meeting"
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -16,15 +16,21 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-23"
 tags: []
-data_as_of: "Market close October 22, 2026"
+data_as_of: "Midday October 23, 2026"
 ---
 
-US natural gas was the single biggest mover in the tables, up 12.09 percent to 3.13 dollars per million British thermal units after trading near 2.79 dollars earlier in the week. No single US supply headline in this morning's reporting explains a move of that size on its own; it arrived alongside the European spike, colder forecasts and the broader energy risk premium, and it unwinds most of the autumn slide in one session (see today's European gas story).
+US natural gas was again the biggest mover in the tables, up 8.30 percent to 3.03 dollars per million British thermal units, extending Thursday's surge. Today's European gas story sets the context: the Dutch TTF benchmark is at its highest since December 2022, Qatari LNG flows are restricted, and EU storage is only 74.62 percent full heading into winter, which has pulled US gas higher alongside the European spike (see today's European gas story).
 
-Tanker freight rose 11.99 percent, corroborating tight shipping as tanker capacity is repriced for Gulf risk and longer routes, while dry bulk freight fell 4.16 percent on soft grain and Chinese industry demand signals. Brent touched a five-month high intraday after the Houthi attacks on Saudi Arabia and Aramco's evacuation of its Dhahran headquarters, even though the tables' earlier snapshot closed Brent down 3.06 percent at 109.71 dollars (see today's Brent story for the timing reconciliation).
+WTI crude rose 3.64 percent to 103.09 dollars a barrel, its highest in five weeks, as fears of renewed US strikes on Iran added to the supply concern from the Houthi attacks on Saudi Arabia and Aramco's evacuation of its Dhahran headquarters, with a Libyan pipeline shutdown cutting output at two more fields (see today's Brent story). The same story puts Brent at 116.20 dollars at 1350 GMT, with December futures above 117 dollars later in the session; the Brent figure in the tables, down 1.13 percent at 111.89 dollars, is an earlier reading from a volatile session and does not supersede those wire prints.
 
-Meta fell 6.98 percent to 648.85 dollars, the largest megacap decline, inside a broad technology selloff driven by AI spending worries: Meta's negative free cash flow of 2.12 billion dollars and the sector's capital intensity were the reported triggers, with the Nasdaq 100 down 2.90 percent (see today's tech selloff story). Semiconductors fell 6.79 percent as a group, and Lam Research dropped about 11.8 percent despite record quarterly revenue of 8.22 billion dollars, citing supply constraints and a 35 percent China revenue share (see today's Lam Research story). Amazon fell 4.57 percent in the same liquidation, with no company-specific driver in this morning's reporting beyond the sector move.
+Asian equities took the day's equity losses. The Hang Seng fell 3.03 percent and the Nikkei 225 fell 2.65 percent, while US indexes were comparatively steady at midday, with the S&P 500 down 0.18 percent and the Nasdaq 100 up 0.43 percent. No story in today's reporting explains the Hong Kong and Tokyo falls directly; they sit in the shadow of Thursday's technology and AI selloff covered in today's tech selloff story, but this site has no reporting that ties a specific driver to either index today.
 
-The miners sold off far harder than the metals they produce. Silver miners fell 6.65 percent, copper miners 6.27 percent and gold miners 5.80 percent, while gold itself fell only 0.54 percent to 4,038.30 dollars, silver fell 1.61 percent and copper actually rose 1.24 percent to 6.44 dollars. Gold traded near a three-month low as tech liquidation and higher-for-longer rate expectations outweighed the safe-haven bid, and the equity leverage to that modest metal move did the rest (see today's gold story and the mining brief's market frame).
+Copper rose 2.39 percent to 6.51 dollars a pound, extending its recovery as the AI stock selloff eased and Chile's supply picture worsened: the finance minister expects national copper output to fall 8 to 9 percent this year, and BHP reported a 19 percent fall in quarterly copper production (see today's copper story).
 
-The cross-market read is a two-sided risk event, not a simple risk-off day. Energy and shipping priced a supply shock, growth equities and the miners priced liquidation, and bonds priced safety: the 10-year Treasury yield fell 19.3 basis points to 4.95 percent, below 5 percent for the first time since September 23, in its largest one-day fall since March 2023, with the 5-year down 20.4 basis points to 4.77 percent. That rally is being driven by equity risk rather than inflation relief, which makes it fragile heading into the Federal Reserve's October 27 to 28 meeting.
+The miners kept falling even as the session steadied elsewhere. Silver miners fell 1.39 percent and gold miners fell 1.25 percent, with gold itself down 1.11 percent to 4,015.50 dollars and silver down 1.13 percent, as liquidation to cover losses elsewhere continued to outweigh the safe-haven bid (see today's gold story).
+
+Soybeans rose 1.28 percent to 1,269 cents a bushel. No story in today's published reporting explains that move, and none is offered here.
+
+Semiconductors rose 1.25 percent, a partial rebound after Thursday's 6.79 percent fall, in the first session after Lam Research reported record revenue but supply-constrained guidance and a China revenue share set to fall meaningfully next quarter (see today's Lam Research story and the tech selloff story).
+
+The cross-market read at midday is a supply shock with uneven risk transmission, not a uniform risk-off day. Energy is pricing physical disruption, Asia has priced the equity leg, US equities and credit-sensitive names are holding comparatively steady, and bonds are no longer rallying: the 10-year Treasury yield edged up 3.1 basis points to 4.98 percent after Thursday's sharp fall, leaving yields just below 5 percent and the market balanced between the energy-driven inflation risk and the growth risk heading into the Federal Reserve's October 27 to 28 meeting.
