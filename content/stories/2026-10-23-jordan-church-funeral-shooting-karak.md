@@ -1,16 +1,20 @@
 ---
 title: "Gunmen kill seven at church funeral in Jordan"
 date: 2026-10-23T09:20:10-04:00
-last_updated: 2026-10-23T14:36:35-04:00
+last_updated: 2026-10-24T02:50:15-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "Jordan's Public Security Directorate put the toll from Friday's shooting at a church funeral in Karak at seven people killed and 34 injured at a Friday evening press conference, where the interior minister called the attack a terrorist operation and King Abdullah II vowed to strike with an iron fist."
+lede: "Jordan's health minister put the wounded from Friday's shooting at a church funeral in Karak at 40, with two in critical condition, on top of the seven killed, as security was stepped up at malls and embassies across the country."
 why_it_matters: "Jordanian officials are now treating a rare attack on the country's Christian minority as terrorism, which raises the stakes for a state that presents itself as a stable custodian of Christian and Muslim holy sites."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "US embassy says security ramped up in Jordan after deadly church attack"
+    publisher: "Arab News, with Reuters"
+    url: "https://www.arabnews.com/middle-east/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack-3008001"
+    published: "2026-10-24"
   - title: "At least seven killed in attack at church in Jordan, state-owned outlet says"
     publisher: "Reuters, via Northland News Radio"
     url: "https://northlandnewsradio.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries-state-tv-says/"
@@ -36,11 +40,13 @@ sources:
     url: "https://234radio.com/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan/"
     published: "2026-10-23"
 tags: []
-data_as_of: "Update, October 23, 2026, 14:36 ET: Jordan News Agency (Petra) report of October 23, 2026, read in full via Fana News, on the Friday evening joint press conference in Karak by Interior Minister Mazen Al-Faraya and Public Security Directorate Director Maj. Gen. Obaidullah Al-Maaytah, who put the toll at seven killed and 34 injured and described the attack as a terrorist operation; Al Jazeera report of October 23, 2026, read in full via 234Radio, for 27 of the wounded still receiving treatment and King Abdullah II's post on X. Earlier updates: Deutsche Welle report of October 23, 2026, reporting the directorate for a toll of six killed and 28 injured; Reuters report of October 23, 2026, via Northland News Radio, reporting Jordanian state television Al-Mamlaka for the initial toll of seven killed and 10 injured at the Hamoud church in Karak; the BBC and Arab News carried the same state media account. No group had claimed responsibility and officials named no group as of the evening press conference. Developing item."
+data_as_of: "Update, October 24, 2026, 02:50 ET: Reuters report of October 24, 2026, read in full via Arab News, for Health Minister Ibrahim Al-Budour putting the wounded at 40 with two in critical condition, security stepped up at malls, foreign embassies and other locations across Jordan, and the US Embassy Amman security alert of October 23, 2026. Earlier update, October 23, 2026, 14:36 ET: Jordan News Agency (Petra) report of October 23, 2026, read in full via Fana News, on the Friday evening joint press conference in Karak by Interior Minister Mazen Al-Faraya and Public Security Directorate Director Maj. Gen. Obaidullah Al-Maaytah, who put the toll at seven killed and 34 injured and described the attack as a terrorist operation; Al Jazeera report of October 23, 2026, read in full via 234Radio, for 27 of the wounded still receiving treatment and King Abdullah II's post on X. Earlier updates: Deutsche Welle report of October 23, 2026, reporting the directorate for a toll of six killed and 28 injured; Reuters report of October 23, 2026, via Northland News Radio, reporting Jordanian state television Al-Mamlaka for the initial toll of seven killed and 10 injured at the Hamoud church in Karak; the BBC and Arab News carried the same state media account. No group had claimed responsibility and officials named no group as of the evening press conference. Developing item."
 update_bump: true
 ---
 
-**Latest:** At a joint press conference on Friday evening at the Karak Governorate headquarters, Public Security Directorate Director Maj. Gen. Obaidullah Al-Maaytah said seven people had been killed and 34 injured in the attack on the Greek Orthodox Church in Humud village, with 27 of the wounded still receiving treatment in hospital, and pledged that those responsible would be arrested soon and brought to justice. Interior Minister Mazen Al-Faraya, who briefed alongside him, said the country was facing a terrorist operation and that the cowardly attack would only strengthen Jordanians' resolve to reject violence and extremism in all its forms. King Abdullah II had earlier posted on X that the blood of Jordanians is precious and that Jordan would strike with an iron fist against anyone who overreaches against the country. No group had claimed responsibility and officials named no group.
+**Latest:** Health Minister Ibrahim Al-Budour put the wounded at 40, with two in critical condition, Reuters reported via Arab News on Saturday, up from the 34 injured officials reported on Friday, and security has been stepped up at malls, foreign embassies and other locations across Jordan. The US Embassy in Amman said it was closely monitoring what it called the October 23 terror attack on the Greek Orthodox church in Hammoud, reminded US citizens of the continued need for caution, and urged them to stay alert at locations publicly associated with the United States.
+
+At a joint press conference on Friday evening at the Karak Governorate headquarters, Public Security Directorate Director Maj. Gen. Obaidullah Al-Maaytah said seven people had been killed and 34 injured in the attack on the Greek Orthodox Church in Humud village, with 27 of the wounded still receiving treatment in hospital, and pledged that those responsible would be arrested soon and brought to justice. Interior Minister Mazen Al-Faraya, who briefed alongside him, said the country was facing a terrorist operation and that the cowardly attack would only strengthen Jordanians' resolve to reject violence and extremism in all its forms. King Abdullah II had earlier posted on X that the blood of Jordanians is precious and that Jordan would strike with an iron fist against anyone who overreaches against the country. No group had claimed responsibility and officials named no group.
 
 Earlier in the day, Jordan's Public Security Directorate had put the toll at six people killed and 28 injured, Deutsche Welle reported, after state television Al-Mamlaka had initially reported seven killed and 10 injured. Between 150 and 200 mourners were at the Greek Orthodox Church of Saint George in the village of Hmoud, south of Karak city, for a funeral that had begun about 30 minutes earlier when the two gunmen arrived by car and opened fire, one with a rifle and one with a pistol, and the attackers fled as security forces deployed and began a manhunt. Government spokesman Mohammad al-Momani called the shooting a heinous attack, King Abdullah II issued a statement on the attack, and Prime Minister Jafar Hassan was to chair a Security Council meeting with all ministers, while no group had claimed responsibility.
 
