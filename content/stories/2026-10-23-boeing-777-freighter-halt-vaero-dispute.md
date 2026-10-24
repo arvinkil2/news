@@ -1,7 +1,7 @@
 ---
 title: "Supplier dispute halted Boeing 777 freighter production for two months"
 date: 2026-10-23T21:32:57-04:00
-last_updated: 2026-10-23T21:32:57-04:00
+last_updated: 2026-10-23T21:39:01-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
@@ -20,8 +20,8 @@ sources:
     url: "https://wncy.com/2026/10/23/exclusive-boeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say/"
     published: "2026-10-23"
 tags: []
-data_as_of: "October 23, 2026, 21:32 ET: Reuters report of October 23, 2026 by Dan Catchpole, read in full, is the single source for this item, hence grade C. It rests on Boeing's August court complaint against Vaero, which Reuters reviewed, and on three Boeing workers who spoke on condition of anonymity; the $6.5 million a day figure is Boeing's allegation in that complaint, not an audited cost. Boeing declined to comment and Vaero did not respond to requests for comment, Reuters said. Developing item."
+data_as_of: "October 23, 2026, 21:39 ET: Reuters report of October 23, 2026 by Dan Catchpole, read in full, is the single source for this item, hence grade C. It rests on Boeing's August court complaint against Vaero, which Reuters reviewed, and on three Boeing workers who spoke on condition of anonymity; the $6.5 million a day figure is Boeing's allegation in that complaint, not an audited cost. Boeing declined to comment, and Vaero and FedEx did not respond to requests for comment, Reuters said. Developing item."
 update_bump: true
 ---
 
-Boeing's dispute with a small Florida-based supplier, Vaero, halted production of its 777 freighter for nearly two months and disrupted output of the 767, including freighters and KC-46 aerial refuelling tankers, according to Boeing workers and court filings reported by Reuters. Boeing's complaint, filed in August, alleged that Vaero had stopped delivering the trailing-edge rib kit, a critical wing component for which it is the sole supplier and which Boeing called indispensable, stalling work at the Everett, Washington wing-production facility at a cost the complaint put at as much as $6.5 million a day. The companies reached a settlement in late September, but three Boeing workers told Reuters that 777 freighter production has yet to resume, although Boeing has since received some parts for the 767 line.
+Boeing's dispute with a small Florida-based supplier, Vaero, halted production of its 777 freighter for nearly two months and disrupted output of the 767, including freighters and KC-46 aerial refuelling tankers, according to Boeing workers and court filings reported by Reuters. Boeing's complaint, filed in August, alleged that Vaero had stopped delivering the trailing-edge rib kit, a critical wing component for which it is the sole supplier and which Boeing called indispensable, stalling work at the Everett, Washington wing-production facility at a cost the complaint put at as much as $6.5 million a day. The companies reached a settlement in late September, but three Boeing workers told Reuters that 777 freighter production has yet to resume, although Boeing has since received some parts for the 767 line, is trying to bring production of the rib kit in-house, and without the parts removed two partially assembled 777 freighters from its final assembly line, one of them identified by Reuters from IBA data as destined for FedEx.
