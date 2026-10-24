@@ -1,12 +1,12 @@
 ---
 title: "Netanyahu vows West Bank operation unseen since Six-Day War"
 date: 2026-10-23T05:19:30-04:00
-last_updated: 2026-10-23T19:57:35-04:00
+last_updated: 2026-10-24T07:42:43-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "The United Nations said on Friday it was extremely alarmed by Israel's sweeping West Bank closures after the deadly Hebron checkpoint attack, as the Israeli military's large-scale operation in Hebron, encircling the city and setting up checkpoints and roadblocks, continued."
+lede: "The Israeli military has begun demolishing structures near the scene of Friday's Hebron checkpoint attack as its crackdown in the West Bank's largest Palestinian city continues, with roadblocks closing the city's main entrances and exits, The New York Times reported."
 why_it_matters: "Secretary-General António Guterres condemned record settler violence and the closures as a pattern the UN human rights office calls collective punishment, while the operation Netanyahu promised, on a scale he said had not been carried out since the Six-Day War, runs in the territory's largest Palestinian city four days before Tuesday's Israeli election."
 featured: false
 evidence_grade: "B"
@@ -39,10 +39,16 @@ sources:
     publisher: "Deutsche Welle, with AP and AFP"
     url: "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-xml-mrss"
     published: "2026-10-23"
+  - title: "Israel Launches Crackdown in West Bank After Deadly Attack"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    published: "2026-10-24"
 tags: []
 data_as_of: "Update, October 23, 2026, 19:57 ET: UN News report of October 23, 2026, read in full, reporting the noon briefing by UN spokesperson Stéphane Dujarric and statements by Mayy El Sheikh of the UN human rights office in the Occupied Palestinian Territory, is the source for the Secretary-General's alarm, the collective punishment characterisation, the closure of Hebron's entrances and the Ibrahimi Mosque, and the documented settler attack count for the first two weeks of October. Update, October 23, 2026, 18:53 ET: Anadolu Agency report of October 23, 2026, read in full, in Turkish, reporting the Israeli military's statement that a large-scale operation had been launched in Hebron, with the city encircled and checkpoints and roadblocks set up, the operation to run a few more days and residents able to leave through three designated points after search and interrogation; an EFE report carried by RPP, read in full, in Spanish, corroborates the launch, the several-days duration and the three exit points. Earlier update, October 23, 2026, 10:22 ET: AFP report of October 23, 2026, read in full via Arab News, names the two soldiers killed, reports Netanyahu's Hebron remarks on the coming operation and the military's offensive operations and home raids in the Hebron area; The Guardian's headline and opening paragraphs, read before its sign-in gate, corroborate the order for a very extensive operation and the house-to-house and demolition plans. Earlier updates: Reuters report of October 23, 2026, read in full via News Central TV, and the Deutsche Welle account. Correction, October 23, 2026, 05:31 ET: the first version of this item described the attack as a car-ramming near Deir Sharaf west of Nablus, based on a France24 account that could not be verified when re-read; that version was replaced. The full lockdown is reported as instructed and in preparation, not as already imposed. Developing item."
 update_bump: true
 ---
+
+**Latest, October 24:** The Israeli military has begun demolishing structures close to the scene of Friday's checkpoint attack in Hebron as its crackdown in the city continues, The New York Times reported, with troops erecting roadblocks and closing the city's main entrances and exits and the operation expected to last several days. Military chief of staff Eyal Zamir said in a statement that the two soldiers killed had prevented an even more serious attack, and the military said a large cache of ammunition was found in a vehicle used by the attackers.
 
 **Latest:** The United Nations said on Friday it was extremely alarmed by intensifying violence in the occupied West Bank as Israel moved to seal off the territory after the Hebron attack, UN News reported. UN spokesperson Stéphane Dujarric said Secretary-General António Guterres was deeply concerned by the closures and by reports of home demolitions and possible displacement in Hebron, and that the closures severely restrict Palestinians' freedom of movement, access to basic services and livelihoods. Guterres condemned what the UN called record numbers of attacks by Israeli settlers against Palestinians in 2026 and recalled Israel's obligation as the occupying power to protect the Palestinian population and hold perpetrators to account. Mayy El Sheikh, spokesperson for the UN human rights office in the Occupied Palestinian Territory, called the lockdown a pattern of collective punishment, said Hebron's entrances and exits were closed and the Ibrahimi Mosque shut, leaving worshippers unable to perform Friday prayers, and said the closure comes at the height of the olive harvest, with movement restrictions already preventing thousands of farmers from reaching their groves. The human rights office has documented more than 160 settler attacks in the first two weeks of October alone, involving live ammunition, arson, crop theft and damage to olive groves.
 

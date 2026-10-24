@@ -1,13 +1,13 @@
 ---
-title: "Clashes between Ethiopian regional forces kill at least 25"
+title: "Clashes between Ethiopian regional forces in Moyale kill at least six"
 date: 2026-10-24T07:41:10-04:00
-last_updated: 2026-10-24T07:41:10-04:00
+last_updated: 2026-10-24T07:42:43-04:00
 beats: ["politics"]
 regions: ["africa"]
 status: "developing"
 developing: true
-lede: "Fighting between Amhara and Oromia regional forces in Ethiopia's North Shewa zone killed at least 25 people on October 20 and 21, residents told AFP, in the second deadly clash between the neighbouring regions' forces this month."
-why_it_matters: "Clashes between the security forces of Ethiopia's two most populous regions, rather than with insurgents, mark a dangerous escalation in the Amhara-Oromia border dispute and have cut the main road north from Addis Ababa."
+lede: "Clashes between Somali and Oromia regional forces in Moyale, a town on Ethiopia's border with Kenya administered jointly by the two regions, have killed at least six people, including a 13-year-old girl, and driven at least 10,000 people to flee into Kenya, AFP reported."
+why_it_matters: "Fighting between the forces of two Ethiopian regions, rather than with insurgents, over a jointly administered border town is a dangerous escalation of the territorial disputes that recur along Ethiopia's internal borders, and it is already spilling across the Kenyan frontier."
 featured: false
 evidence_grade: "C"
 sources:
@@ -16,8 +16,8 @@ sources:
     url: "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023"
     published: "2026-10-24"
 tags: []
-data_as_of: "AFP report of October 24, 2026 via Arab News, read in full. Single-sourced: the toll and account rest on residents speaking to AFP, the Amhara regional government had not commented in the report, and no independent corroboration was available in this run. Developing item."
+data_as_of: "AFP report of October 24, 2026 via Arab News, read in full. Single-sourced: the toll is from the ACLED conflict monitor as reported by AFP, which said it could not independently verify it, and the Ethiopian federal government had yet to react in the report. Correction: the first version of this item, published at 07:41 ET, misstated the regions, location and toll from a faulty source summary and has been replaced in full. Developing item."
 update_bump: true
 ---
 
-At least 25 people were killed in fighting between Amhara and Oromia regional forces in Ethiopia's North Shewa zone on October 20 and 21, residents told AFP, putting the dead at 10 Amhara special forces and police and 15 Oromia special forces. An earlier clash in the same area on October 15 and 16 killed 18 people, residents said, and the fighting has blocked the main Addis Ababa to Debre Berhan road, cut telecommunications and driven residents to flee, with Oromia's president blaming Amhara forces for the escalation and Amhara officials rejecting that account.
+Several people have died in clashes in recent days between the regional forces of Ethiopia's Somali and Oromia regions in and around Moyale, a town near the border with Kenya that is jointly administered by the two regions, with fighting erupting on Tuesday after a Somali regional flag was hoisted in the town, AFP reported. The ACLED conflict monitor put the toll at a 13-year-old girl and at least five others, a figure AFP said it could not independently verify, while residents speaking to AFP by telephone, with shots audible in the background, described Somali fighters firing heavy weapons from large buildings and several civilians killed and wounded. At least 10,000 people have fled across the border into Kenya, a Red Cross worker there told Kenyan television, and the Ethiopian federal government had yet to react to the clashes.
