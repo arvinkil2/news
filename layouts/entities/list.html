@@ -1,8 +1,0 @@
-{{ define "main" }}
-<h1 class="page-title">{{ .Title }}</h1>
-{{ with .Params.data_as_of }}<p class="data-vintage">{{ . }}</p>{{ end }}
-{{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
-<article class="prose">
-{{ .Content }}
-</article>
-{{ end }}
