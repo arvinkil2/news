@@ -1,8 +1,8 @@
 ---
 title: "Tesla"
-date: "2026-10-22"
+date: "2026-10-23"
 lede: "Benchmark issuer, 1 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
-data_as_of: "2026-10-22"
+data_as_of: "2026-10-23"
 ---
 
 
