@@ -41,7 +41,6 @@ data_as_of: "loan data through not yet reported; ratings as held in the dataset 
 <p>not yet reported.</p>
 <h3>Largest loans at issuance</h3>
 <p>not yet reported.</p>
-<p class="data-vintage">Cross-dataset record: <a href="/entities/">Entity Index</a>. This trust is resolved there to its merged-dataset unit, with fund-mark coverage by class.</p>
 <p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports and the deal prospectus; rating histories published under SEC Rule 17g-7(b) and agency releases. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
 <script>
 (function(){
