@@ -1,22 +1,37 @@
 ---
 title: "DR Congo Ebola outbreak reaches eighth province, spreads regionally"
 date: 2026-10-23T07:13:11-04:00
-last_updated: 2026-10-23T07:13:11-04:00
+last_updated: 2026-10-23T17:28:23-04:00
 beats: ["politics"]
 regions: ["africa"]
 status: "story"
-lede: "The Ebola outbreak in the Democratic Republic of the Congo has reached an eighth province, Nord Ubangi, the UN reported, with 9,552 confirmed infections and more than 4,600 deaths since mid-May and cases now confirmed in five countries."
-why_it_matters: "WHO officials call the outbreak a regional concern rather than a single-country emergency: transmission continues in insecure areas of North Kivu, Kenya has traced 135 contacts of a fatal imported case, and Nigeria is investigating its first case without a known source of exposure."
+lede: "Kenya recorded a second Ebola death on Friday, a 65-year-old woman who was a close relative and direct contact of the Kenyan index patient and developed symptoms in quarantine, taking Kenya to two deaths among its nine confirmed cases, with no evidence of community spread, the health ministry said."
+why_it_matters: "WHO officials call the outbreak a regional concern rather than a single-country emergency: transmission continues in insecure areas of North Kivu, the DRC outbreak has reached an eighth province with 9,552 confirmed infections and more than 4,600 deaths since mid-May, and Nigeria is investigating its first case without a known source of exposure."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Kenya reports second death from Ebola"
+    publisher: "Reuters"
+    url: "https://wncy.com/2026/10/23/kenya-reports-second-death-from-ebola/"
+    published: "2026-10-23"
+  - title: "Kenya reports second death from Ebola"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/world/kenya-reports-second-death-from-ebola-3007961"
+    published: "2026-10-23"
+  - title: "Kenya records second Ebola death"
+    publisher: "Kenya Broadcasting Corporation"
+    url: "https://www.kbc.co.ke/kenya-records-second-ebola-death/"
+    published: "2026-10-23"
   - title: "DR Congo: Ebola responders under pressure as outbreak expands"
     publisher: "UN News"
     url: "https://news.un.org/feed/view/en/story/2026/10/1168647"
     published: "2026-10-22"
 tags: []
-data_as_of: "UN News report of October 22, 2026, read in full. All figures are WHO and national authority figures as reported there: DRC totals since the outbreak was declared in mid-May 2026, Kenyan total of nine cases including one death, Uganda's earlier 20 confirmed cases and two deaths before it declared the threat over at the end of August. The UN is the source of record for its officials' statements; case totals are official counts as reported, not independently audited."
+data_as_of: "Updated October 23, 2026, 17:28 ET: Kenya health ministry statement of Friday evening, October 23, 2026, as reported by Reuters and carried by Arab News and Kenya Broadcasting Corporation, is the source for the second Kenyan death, the patient's relationship to the index case and the absence of evidence of community spread. UN News report of October 22, 2026, read in full, is the source for the DRC figures: totals since the outbreak was declared in mid-May 2026, and Uganda's earlier 20 confirmed cases and two deaths before it declared the threat over at the end of August. Case totals are official counts as reported, not independently audited."
+update_bump: true
 ---
+
+Latest: Kenya has recorded a second Ebola death, the health ministry said late on Friday. The patient was a 65-year-old woman who developed symptoms during quarantine. She was a close relative and a direct contact of the Kenyan man who travelled from Congo to Nairobi and died at a Nairobi hospital on October 5, the country's first identified case. The ministry said the death brings the number of deaths to two among the nine confirmed cases in Kenya, that the remaining seven patients continue to receive care in two isolation facilities, and that there was no evidence of community spread in the country. Kenyan authorities have traced 135 contacts, all of whom were placed in quarantine. Reuters described the outbreak, which started in the Democratic Republic of Congo and has now been reported in four African countries, as the widest geographic spread of any Ebola outbreak on the continent to date, and noted that the United States State Department advised Americans on Monday to reconsider travel to Kenya because of health risks.
 
 The Ebola outbreak in the Democratic Republic of the Congo reached an eighth province this week, as Nord Ubangi, which borders the Central African Republic, confirmed infections amid armed violence that continues to uproot thousands of people. The outbreak, declared in mid-May and caused by Bundibugyo virus, has led to more than 4,600 deaths and a total of 9,552 confirmed infections, and around six in ten deaths have occurred outside health centres, a sign that community transmission is still outrunning the response.
 
