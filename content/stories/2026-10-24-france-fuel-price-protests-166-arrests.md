@@ -1,7 +1,7 @@
 ---
 title: "Fuel price protests bring 166 arrests across France"
 date: 2026-10-24T12:16:35-04:00
-last_updated: 2026-10-24T12:16:35-04:00
+last_updated: 2026-10-24T12:20:28-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -19,11 +19,15 @@ sources:
     publisher: "France 24, in French"
     url: "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisations-en-france-135-interpellations-en-marge-des-manifestations-du-24-octobre"
     published: "2026-10-24"
+  - title: "Live: Fresh protests hit France amid heightened security"
+    publisher: "Deutsche Welle, live blog with AP, AFP, Reuters and dpa"
+    url: "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223"
+    published: "2026-10-24"
 tags: []
-data_as_of: "Tagesschau report of October 24, 2026, in German, read in full, reporting interior ministry figures as of about 18:00 local time; France 24, in French, reported 135 arrests in an earlier count. No turnout figure had been published in the reporting read. Developing item."
+data_as_of: "Update, October 24, 2026: Deutsche Welle live blog of October 24, 2026, read in full, for the wider grievances, the tear gas in four more cities and the October 31 call. Earlier: Tagesschau report of October 24, 2026, in German, read in full, reporting interior ministry figures as of about 18:00 local time; France 24, in French, reported 135 arrests in an earlier count. No turnout figure had been published in the reporting read. Developing item."
 update_bump: true
 ---
 
 Thousands of people marched in cities across France on Saturday in protests over fuel prices, the second consecutive Saturday of demonstrations, with petrol at 2.30 euros a litre on average and diesel at up to 2.70. The interior minister, Laurent Nunez, had banned gatherings in 18 cities, including Paris, Lyon, Lille and Nantes, citing intelligence about violent groups, and about 74,000 police were deployed, many brought in from other regions after officers marched on the Champs-Elysees last weekend over their own pay and conditions.
 
-By about 18:00 local time the interior ministry put arrests at 166, most of them preventive, alongside 1,932 vehicle searches and 481 weapons seized, including knives and tools that can be used as weapons. In Marseille, youths threw bottles, fireworks and stones and police used tear gas, and in Nice police used a water cannon against demonstrators trying to reach the prefecture. The protests were called by 74 associations and unions, among them the CGT, and the government published the decree for its strategic diesel stock sale the same day, with the price benefit due at the pump from November 1.
+By about 18:00 local time the interior ministry put arrests at 166, most of them preventive, alongside 1,932 vehicle searches and 481 weapons seized, including knives and tools that can be used as weapons. In Marseille, youths threw bottles, fireworks and stones and police used tear gas, and in Nice police used a water cannon against demonstrators trying to reach the prefecture. Police also used tear gas in Lyon, Lille, Toulouse and Nantes, where clashes were reported in Toulouse. Fuel prices are the immediate grievance, and the marches also carry the wider cost of living, public services and school conditions, the complaints that began with student protests and widened after last Saturday's demonstrations ended in looting. The protests were called by 74 associations and unions, among them the CGT, the Yellow Vests have called a further protest day for Saturday, October 31, and the government published the decree for its strategic diesel stock sale the same day, with the price benefit due at the pump from November 1.
