@@ -1,0 +1,31 @@
+---
+title: "Hedge funds hold record short in US natural gas"
+date: 2026-10-24T07:03:09-04:00
+last_updated: 2026-10-24T07:03:09-04:00
+beats: ["commodities"]
+regions: ["north-america"]
+status: "story"
+lede: "Money managers lifted short only exposure across seven Henry Hub contracts to 599,731 contracts, the largest since May 2013, CFTC data released Friday showed, as US natural gas fell 5.58 percent to 2.64 dollars."
+why_it_matters: "A record short built on a mild winter forecast is a squeeze risk in itself: any severe cold snap would lift demand, cut production and force rapid covering in the most crowded trade in the energy complex."
+featured: true
+evidence_grade: "B"
+sources:
+  - title: "Hedge funds are record short natural gas on mild winter outlook"
+    publisher: "Bloomberg"
+    url: "https://www.binance.com/en/square/post/10-23-2026-hedge-funds-reach-record-short-position-in-us-natural-gas-on-mild-winter-outlook-380509963545830"
+    published: "2026-10-23"
+  - title: "What could influence natural gas this winter"
+    publisher: "Schwab Network"
+    url: "https://schwabnetwork.com/articles/what-could-influence-natural-gas-this-winter"
+    published: "2026-10-19"
+tags: []
+data_as_of: "CFTC Commitments of Traders data released Friday, October 23, 2026, as reported by Bloomberg the same day; the 599,731 figure is short only exposure, not a net position. Price: site market tables updated October 24 at 06:00 ET, Henry Hub at 2.64 dollars per million British thermal units. Schwab Network analysis of October 19, 2026 is the earlier positioning context, not the record figure."
+---
+
+Hedge fund managers have amassed a record short position in US natural gas on expectations for an unusually mild northern winter that points to weak demand for the heating and power plant fuel, Bloomberg reported, citing Commodity Futures Trading Commission data released on Friday. Money managers increased short only exposure across seven benchmark Henry Hub contracts to 599,731 contracts, the largest in data going back to May 2013.
+
+The price has followed the positioning down, then diverged from Europe. US natural gas fell 5.58 percent to 2.64 dollars per million British thermal units in the site market tables, down 15.28 percent on the week, reversing most of Thursday's 12.09 percent jump in a single session. That is the opposite direction from European gas, which climbed to its highest since December 2022 this week with EU storage at 74.62 percent, because the US trade is a weather and domestic supply trade, not a Gulf supply trade.
+
+The build was visible before it became a record. Schwab Network, summarising the previous CFTC release on October 19, put managed money net short at roughly 144,000 contracts, approaching the October 2024 low of 146,937 contracts, and noted that from October 2024 to January 2025 prices rose nearly 100 percent as weather turned and shorts covered. The new release extends that crowding to a record on the short only measure, which is a different measure from the net position and should not be compared with it directly.
+
+Bloomberg linked the conviction to expectations that a strong El Nino pattern brings very mild weather. The risk is symmetric and well understood in this market: a sudden severe cold snap lifts heating demand while freeze offs cut production, and a record short then has to buy back into a rising market. No cold snap is in this morning's reporting. The position is the catalyst, in either direction.

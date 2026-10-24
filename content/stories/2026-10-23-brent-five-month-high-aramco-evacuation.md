@@ -1,7 +1,7 @@
 ---
 title: "Brent touches five-month high as Aramco evacuates Dhahran"
 date: 2026-10-23T07:12:03-04:00
-last_updated: 2026-10-23T16:27:42-04:00
+last_updated: 2026-10-24T07:03:09-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
@@ -43,9 +43,19 @@ sources:
     publisher: "Anadolu Agency"
     url: "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046"
     published: "2026-10-23"
+  - title: "Oil tops $116 to five-month high as Mideast supply risks mount"
+    publisher: "Reuters, via Views Bangladesh"
+    url: "https://viewsbangladesh.com/oil-tops-116-to-fivemonth-high-as-mideast-supply-risks-mount/"
+    published: "2026-10-24"
+  - title: "Oil surges on Middle East concerns, WTI reclaims $100, Brent hits six-month high"
+    publisher: "Yonhap Infomax"
+    url: "https://en.infomaxai.com/news/articleView.html?idxno=144929"
+    published: "2026-10-24"
 tags: []
 data_as_of: "Intraday prices Friday, October 23, 2026: Reuters at 0810 GMT, Brent 113.96 dollars after touching 114.72 dollars; Anadolu at 0630 GMT, Brent 114.47 dollars, and at 1350 GMT, Brent 116.20 dollars; TASS, in Russian, reporting London ICE trading data at 18:37 to 18:44 Moscow time, December Brent 117.09 to 117.37 dollars. AFP report of October 23, 2026, via Arab News, read in full, for Tom Barrack's podcast remarks on a possible weekend strike. Site market tables updated October 23 at 06:00 ET show an earlier snapshot, Brent 109.71 dollars, down 3.06 percent, and WTI 101.16 dollars, up 1.70 percent; the tables and the wire snapshots are different points in a volatile session, not a contradiction to average away. Updated October 23 with a Reuters report of October 23, 2026, read in full via SRN News, on President Trump's Fort Myers rally remarks, and an Anadolu Agency report of October 23, 2026, in Turkish, read in full, relaying an IRGC Navy statement on two tankers and naval mines south of Hormuz; the mine claim is Iran's account, names no vessel, dates the strikes only to recent days, resembles a Guard claim reported on October 18 and October 20, and had no independent confirmation as of writing."
 ---
+
+**Update, October 24:** Brent settled at 116.72 dollars a barrel on Friday, up 3.55 dollars, or 3.14 percent, its highest settlement since April 29, Reuters reported, with December West Texas Intermediate settling at 103.27 dollars, up 3.80 dollars, or 3.82 percent. For the week Brent rose about 6 percent and WTI about 2.3 percent on the Reuters weekly calculation; the site market tables, updated October 24 at 06:00 ET, show the same settlements, with Brent up 6.24 percent on the week and WTI up 1.83 percent on a front-month roll basis. The settlement confirms Friday's intraday move above 117 dollars rather than reversing it, and leaves crude the strongest group in the complex into the October 27 to 28 Federal Reserve meeting.
 
 **Latest:** President Donald Trump said on Friday that Washington may carry out another military operation against Iran. “We may do another little Epic Fury,” he told a rally in Fort Myers, Florida, Reuters reported, using the US military’s name for its war against Iran. He did not elaborate. Earlier on Friday, speaking to reporters on the White House South Lawn, Trump said the United States could end the war quickly but questioned whether it should finish it off or let it wither, and said oil was still getting out through the Strait of Hormuz.
 
