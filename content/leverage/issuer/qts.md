@@ -1,6 +1,6 @@
 ---
 title: "QTS"
-date: "2026-10-23"
+date: "2026-10-24"
 lede: "Project issuer, 21 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-23"
 ---
