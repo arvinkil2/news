@@ -1,7 +1,7 @@
 ---
 title: "Netanyahu vows West Bank operation unseen since Six-Day War"
 date: 2026-10-23T05:19:30-04:00
-last_updated: 2026-10-24T12:43:51-04:00
+last_updated: 2026-10-25T07:11:07-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
@@ -62,6 +62,18 @@ sources:
   - title: "Israel Launches Crackdown in West Bank After Deadly Attack"
     publisher: "The New York Times"
     url: "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    published: "2026-10-24"
+  - title: "Israel says closing all land crossings with West Bank on election day"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    published: "2026-10-25"
+  - title: "Israel to close West Bank crossings on election day as crackdown escalates"
+    publisher: "BBC News"
+    url: "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    published: "2026-10-25"
+  - title: "Israel to close all West Bank land crossings on election day"
+    publisher: "France 24"
+    url: "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
     published: "2026-10-24"
 tags: []
 data_as_of: "Update, October 24, 2026, 12:43 ET: Al Jazeera report of October 24, 2026 and Arab News report of October 24, 2026 by Sherouk Zakaria, both read in full, reporting Hebron mayor Yousef Al-Jaabari's updated displacement figures; the two reports give different totals from the same mayor on the same day, 2,200 forced from their homes to Al Jazeera and about 1,500 forced to leave with 1,000 more facing displacement to Arab News, and both are reported here as his figures rather than reconciled. A Euronews item on the same operation could not be read in this run, so nothing in this item rests on it. Correction, October 24, 2026, 11:19 ET: the 11:17 update overstated the Al Jazeera report; the video newsfeed item gives no duration for the closure and does not report a bar on movement between cities, and those claims are removed. Al Jazeera video newsfeed report of October 24, 2026, watched in full, is the only source read in this run for the lockdown having begun, for all checkpoints and crossings closed for Palestinians, for about 200 Palestinian families forced out of their homes in Hebron, and for Netanyahu and Ben-Gvir reported as ordering the Jenin model in Hebron; no Israeli military statement or second outlet confirming the start was read in this run. Update, October 24, 2026, 10:16 ET: Reuters report of October 24, 2026, read via U.S. News, with the matching France24 summary verified through syndication after france24.com would not load directly, is the source for the displacement figures, which are Palestinian official and Hebron municipality figures as reported by Reuters, for the Palestinian Prisoners' Club arrest count, on which Israeli officials had not commented, and for the Palestinian Authority's call for international pressure. Update, October 23, 2026, 19:57 ET: UN News report of October 23, 2026, read in full, reporting the noon briefing by UN spokesperson Stéphane Dujarric and statements by Mayy El Sheikh of the UN human rights office in the Occupied Palestinian Territory, is the source for the Secretary-General's alarm, the collective punishment characterisation, the closure of Hebron's entrances and the Ibrahimi Mosque, and the documented settler attack count for the first two weeks of October. Update, October 23, 2026, 18:53 ET: Anadolu Agency report of October 23, 2026, read in full, in Turkish, reporting the Israeli military's statement that a large-scale operation had been launched in Hebron, with the city encircled and checkpoints and roadblocks set up, the operation to run a few more days and residents able to leave through three designated points after search and interrogation; an EFE report carried by RPP, read in full, in Spanish, corroborates the launch, the several-days duration and the three exit points. Earlier update, October 23, 2026, 10:22 ET: AFP report of October 23, 2026, read in full via Arab News, names the two soldiers killed, reports Netanyahu's Hebron remarks on the coming operation and the military's offensive operations and home raids in the Hebron area; The Guardian's headline and opening paragraphs, read before its sign-in gate, corroborate the order for a very extensive operation and the house-to-house and demolition plans. Earlier updates: Reuters report of October 23, 2026, read in full via News Central TV, and the Deutsche Welle account. Correction, October 23, 2026, 05:31 ET: the first version of this item described the attack as a car-ramming near Deir Sharaf west of Nablus, based on a France24 account that could not be verified when re-read; that version was replaced. The full lockdown is reported as instructed and in preparation, not as already imposed. Developing item."

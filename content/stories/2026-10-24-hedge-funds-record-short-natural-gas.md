@@ -1,7 +1,7 @@
 ---
 title: "Hedge funds hold record short in US natural gas"
 date: 2026-10-24T07:03:09-04:00
-last_updated: 2026-10-24T07:03:09-04:00
+last_updated: 2026-10-25T07:04:33-04:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "story"
@@ -29,3 +29,5 @@ The price has followed the positioning down, then diverged from Europe. US natur
 The build was visible before it became a record. Schwab Network, summarising the previous CFTC release on October 19, put managed money net short at roughly 144,000 contracts, approaching the October 2024 low of 146,937 contracts, and noted that from October 2024 to January 2025 prices rose nearly 100 percent as weather turned and shorts covered. The new release extends that crowding to a record on the short only measure, which is a different measure from the net position and should not be compared with it directly.
 
 Bloomberg linked the conviction to expectations that a strong El Nino pattern brings very mild weather. The risk is symmetric and well understood in this market: a sudden severe cold snap lifts heating demand while freeze offs cut production, and a record short then has to buy back into a rising market. No cold snap is in this morning's reporting. The position is the catalyst, in either direction.
+
+Update, October 25: The site market tables updated October 25 at 06:10 ET put United States natural gas at 3.05 dollars per million British thermal units, up 9.08 percent, a sharp rebound from Friday's 2.64 dollar level against the record short only position of 599,731 contracts reported on Saturday. No weather or supply headline in the weekend pool explains the jump, and the tables are the latest snapshot available at the time of writing rather than a settlement. A move of this size against a record short is consistent with the covering risk this story flagged, but that is an interpretation, not a reported cause.

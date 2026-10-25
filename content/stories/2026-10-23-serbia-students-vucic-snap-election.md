@@ -1,7 +1,7 @@
 ---
 title: "Serbia votes in snap election between Vucic party and student list"
 date: 2026-10-23T07:13:11-04:00
-last_updated: 2026-10-25T06:18:45-04:00
+last_updated: 2026-10-25T07:11:07-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
@@ -31,9 +31,15 @@ sources:
     publisher: "Arab News, with AFP"
     url: "https://www.arabnews.com/world/huge-crowds-gather-at-final-pre-election-rally-of-serbias-students-3007782"
     published: "2026-10-22"
+  - title: "Serbia votes as students seek to unseat Vucic in snap election"
+    publisher: "Reuters, via WNCY"
+    url: "https://wncy.com/2026/10/24/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election/"
+    published: "2026-10-25"
 tags: []
 data_as_of: "Update, October 25, 2026, 06:18 ET: the Al Jazeera and Deutsche Welle election day reports of October 25, 2026, read in full, are the sources for the voting hours, the expected timing of first indications, the final Ipsos figures, and the absence of any reported turnout figure, election day incident or observer comment as of midday in Belgrade. France 24's election day report could not be read in this run. Original text: Snap parliamentary election on Sunday, October 25, 2026. Rally reporting of October 22 to 23, 2026: the Associated Press put the Slavija Square crowd in the hundreds of thousands and the Beta news agency in the tens of thousands, and this story carries the range rather than a single figure. Status: election called and campaign closed, result pending."
 ---
+
+**Latest, October 25:** Unusually long lines formed at polling stations in Belgrade and Novi Sad before voting opened at 7 a.m., Reuters reported from Belgrade, with voters telling its reporters they had come out early because the students called them. Reuters put the student list's support in the context of nearly two years of demonstrations, and noted that many voters credit Vucic with a period of modernisation, including highways, railways, schools and hospitals. Polls close at 8 p.m. local time, with first indications expected about two hours later.
 
 **Latest:** Polling stations opened at 7 a.m. local time on Sunday and close at 8 p.m., with first indications of the result expected about two hours after the close, Al Jazeera reported. A final Ipsos poll published on Thursday put the Serbian Progressive Party at 47 percent and the student list at 40 percent, although other polls have put the students ahead. Neither Al Jazeera nor Deutsche Welle reported a turnout figure, an election day incident or an observer comment by midday in Belgrade. Analyst Jelena Vasiljevic of the University of Belgrade told Al Jazeera that turnout would decide the contest, because the governing party holds a disciplined core vote while the student list needs opposition voters, habitual nonvoters and the undecided to turn out together. Both reports said Vucic resigned as president in September, after calling the snap election, to run again for prime minister.
 

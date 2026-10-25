@@ -1,7 +1,7 @@
 ---
 title: "Brent touches five-month high as Aramco evacuates Dhahran"
 date: 2026-10-23T07:12:03-04:00
-last_updated: 2026-10-24T07:03:09-04:00
+last_updated: 2026-10-25T07:04:33-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
@@ -72,3 +72,5 @@ Saudi Aramco on Thursday ordered the evacuation of its headquarters in Dhahran o
 A second supply loss landed the same day. In Libya, an oil pipeline valve from the Hamada and Tahara oilfields to Zawiya port has been shut, leading to a reduction in production at both fields, the head of the National Oil Corporation told Reuters on Thursday.
 
 The weekly picture is split by benchmark. Brent is on track for a third consecutive weekly gain, of almost 4 percent, while WTI is poised to finish about 0.8 percent down on the week, Reuters reported, a divergence that reflects where the disruption sits: seaborne crude priced off Brent carries the Gulf risk directly, while US inland crude is cushioned by domestic supply and capped by the prospect of Russian diesel and crude arrangements reaching the US market. Tanker freight rose 11.99 percent in the latest market tables, which corroborates tight shipping even as dry bulk freight fell 4.16 percent.
+
+Update, October 25: The site market tables updated October 25 at 06:10 ET put Brent crude at 111.7 dollars a barrel, down 1.3 percent, against Friday's settlement of 116.72 dollars, the highest since April 29. No new supply headline in the weekend pool explains the pullback, and the tables are the latest snapshot available at the time of writing rather than a settlement.
