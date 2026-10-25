@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-10-25T07:15:38-04:00
-last_updated: 2026-10-25T07:15:38-04:00
-kicker: "Overnight markets"
+last_updated: 2026-10-25T12:32:26-04:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "US natural gas rebounded 9.08 percent to 3.05 dollars against a record speculative short, the largest single move in the tables, while precious metals kept falling and copper rose."
-why_it_matters: "The weekend tables leave the day ahead set up around positioning, not new supply news: a crowded gas short, a metals complex still liquidating, and a central bank week that starts with the Bank of Canada and the Fed on Wednesday."
+lede: "Midday tables are unchanged from Friday’s close on a Sunday with no trading, leaving US natural gas up 9.08 percent at 3.05 dollars as the largest move, while today’s reporting of further Houthi missile interceptions in Saudi Arabia keeps the driver behind Friday’s crude gain live."
+why_it_matters: "Nothing has repriced since Friday, so the week still opens on the same exposures: a record speculative short in natural gas, crude above 100 dollars on attacks on Saudi Arabia, and precious metals in liquidation into decisions by the Bank of Canada, the Federal Reserve, the European Central Bank and the Bank of Japan between Wednesday and Friday."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,15 +15,19 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-25"
 tags: []
-data_as_of: "Market close October 23, 2026"
+data_as_of: "Midday October 25, 2026"
 ---
 
-US natural gas rose 9.08 percent to 3.05 dollars per million British thermal units, the biggest move in the tables. This morning's commodities reporting offers no new supply or weather headline for the jump; it comes against the record money manager short documented in Friday's CFTC data, which makes the position itself the squeeze risk (see today's update to the record short in US natural gas story).
+US natural gas rose 9.08 percent to 3.05 dollars per million British thermal units, still the largest move in the tables. Today’s Commodities also notable story carries the price with no new supply or weather headline, and the move sits against the record money manager short in the Hedge funds hold record short in US natural gas story, updated today, which makes the position itself the squeeze risk.
 
-WTI crude rose 3.82 percent to 103.27 dollars a barrel, its Friday settlement, while Brent showed 111.70 dollars in the latest table snapshot, down 1.3 percent from Friday's 116.72 dollar settlement (see today's update to the Brent five month high story). The two series are snapshots taken at different points in the weekend, and no single driver in this morning's reporting explains the gap between them.
+WTI crude rose 3.82 percent to 103.27 dollars a barrel at Friday’s settlement. The Brent touches five-month high story attributes Friday’s gain to Houthi attacks on Saudi Arabia and fears of wider Middle East supply disruption, and today’s Saudi Arabia intercepts Houthi missiles story reports further interceptions on Sunday, with debris injuring two people in Khamis Mushait and Ahad Rufaydah, so the driver has not faded over the weekend.
 
-Copper rose 2.28 percent to 6.51 dollars a pound, extending its hold on the weekly range while exchange stocks and Chilean supply expectations stay in the background of this morning's mining and commodities reporting.
+Silver miners fell 2.54 percent to 74.06 dollars and gold miners fell 1.82 percent to 80.20 dollars. No story in today’s edition explains the mining shares separately from the metals they track, and today’s Mining also notable story carries no price driver for them.
 
-Precious metals kept falling. Silver fell 1.49 percent to 53.95 dollars an ounce and gold fell 1.29 percent to 4,007.90 dollars, with silver miners down 2.54 percent and gold miners down 1.82 percent. The move continues the liquidation pattern in this morning's commodities reporting, where gold is being sold to cover equity losses and capped by the inflation expectations that high crude creates, rather than bought as a safe haven.
+Copper rose 2.28 percent to 6.51 dollars a pound. No story in today’s edition explains the rise, and none is claimed here.
 
-The cross-market read is split, not risk-on or risk-off. Energy and copper, the physical scarcity trades, rose or held; precious metals, the liquidity trade, fell; and the sharpest move of all was a positioning rebound in the market with the most crowded short. Into a week with the Bank of Canada, the Fed, the ECB and the Bank of Japan all deciding between Wednesday and Friday, the tables say the risk sits in crowded positions meeting those decisions, not in any new weekend supply shock.
+Silver fell 1.49 percent to 53.95 dollars an ounce and gold fell 1.29 percent to 4,007.90 dollars an ounce, both at Friday’s close. Today’s central bank stories, including Markets price Fed hold in October, hike in December, set the rate context for the week, but no story in today’s edition gives a new Sunday cause for the metals fall, which remains the liquidation pattern carried in this morning’s reporting.
+
+Brent crude showed 111.70 dollars a barrel in the midday tables, down 1.3 percent, against Friday’s settlement at 116.72 dollars. Today’s Commodities also notable story carries the same two figures as this morning, and the gap remains a difference between the table reading and the settlement, not a Sunday trade.
+
+The cross-market read at midday is unchanged and split. Energy rose on a live supply risk, copper rose without a stated driver, and precious metals and their miners fell, while equities closed Friday lower with the Dow Jones down 1.23 percent. With no Sunday trading, the tables have not tested any of this against today’s Saudi interceptions, and the first test comes when markets reopen into the central bank week.
