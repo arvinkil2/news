@@ -7,7 +7,7 @@ regions: ["middle-east"]
 status: "developing"
 developing: true
 lede: "At least seven Palestinians were killed in Israeli attacks across Gaza on Sunday, including three security guards in an air strike on the Islamic University campus in Gaza City, Al Jazeera reported."
-why_it_matters: "The university was hit twice within hours, the second strike killing the guards, in a day of attacks across the strip that underlines how fragile the ceasefire remains for civilians and for the institutions still standing."
+why_it_matters: "The university was hit twice within hours, the second strike killing the guards, in a day of attacks across the strip that shows how fragile the ceasefire remains for civilians and for the institutions still standing."
 featured: false
 evidence_grade: "B"
 sources:
