@@ -1,12 +1,12 @@
 ---
 title: "Bulgarians vote for president amid Black Sea drone strikes"
 date: 2026-10-25T07:10:40-04:00
-last_updated: 2026-10-25T07:10:40-04:00
+last_updated: 2026-10-25T14:17:03-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Bulgarians voted on Sunday for a president from a record field of 27 candidates, in a campaign dominated by economic hardship and deadly drone strikes on Black Sea shipping off the Bulgarian coast."
-why_it_matters: "The race is the first electoral test of Prime Minister Rumen Radev's Moscow friendly Progressive Bulgaria since its April parliamentary win, and it pits acting President Iliana Iotova against pro-Western former caretaker premier Andrey Gyurov, with a runoff expected on November 1."
+lede: "Exit polls in Bulgaria put acting President Iliana Iotova first with about 35.3 percent and pro-Western former caretaker premier Andrey Gyurov second with about 32 percent, sending both to a runoff on November 1 on turnout of about 22.3 percent, the lowest ever recorded in the country."
+why_it_matters: "The exit polls set up the November 1 runoff the campaign had expected, between Radev's Moscow friendly camp and the pro-Western opposition, but on a record low turnout that leaves whoever wins the presidency in January with a thin popular mandate."
 featured: true
 evidence_grade: "B"
 sources:
@@ -18,9 +18,16 @@ sources:
     publisher: "Brussels Morning"
     url: "https://brusselsmorning.com/bulgaria-presidential-vote-2026/105953/"
     published: "2026-10-25"
+  - title: "Exit poll: Iliana Yotova wins the first round of Bulgaria's presidential election"
+    publisher: "TASS, in Russian"
+    url: "https://tass.ru/mezhdunarodnaya-panorama/28251885"
+    published: "2026-10-25"
 tags: []
-data_as_of: "Presidential election on Sunday, October 25, 2026. The Associated Press report of October 25, 2026 is the source for the campaign framing and the expected runoff; Central Election Commission figures for the electorate and overseas stations are as reported by Brussels Morning on October 25, 2026."
+data_as_of: "Update, October 25, 2026, 14:17 ET: exit poll figures are as reported by TASS, in Russian and read in full in this run, citing exit polls by Alpha Research and Myara presented on Bulgarian National Television: Yotova about 35.3 percent, Gyurov about 32 percent, Kostadinov about 13 percent, turnout about 22.3 percent. They are exit polls, not official results, and no independent source carrying the same figures was found in this run. Original text: presidential election on Sunday, October 25, 2026. The Associated Press report of October 25, 2026 is the source for the campaign framing and the expected runoff; Central Election Commission figures for the electorate and overseas stations are as reported by Brussels Morning on October 25, 2026."
+update_bump: true
 ---
+
+**Latest, October 25:** Exit polls published after polls closed at 8 p.m. local time put Iotova on about 35.3 percent, Gyurov on about 32 percent and Kostadin Kostadinov of Revival third on about 13 percent, a closer first round than pre-election surveys had suggested, with a runoff between the top two on November 1. The polls put turnout at about 22.3 percent of eligible voters, below the previous record low of 28.6 percent in May 2007.
 
 Bulgarians headed to the polls on Sunday to elect a president, in the third national election of the day covered in this edition and the one most directly shaped by the war in Ukraine. The campaign centred on economic hardship and on drone attacks against commercial vessels off Bulgaria's Black Sea coast, which have pushed maritime security into a presidential race in an EU and NATO member state.
 
