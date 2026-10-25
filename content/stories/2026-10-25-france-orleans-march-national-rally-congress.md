@@ -1,15 +1,27 @@
 ---
-title: "Thousands march in Orleans against National Rally congress"
+title: "Le Pen launches presidential campaign at Orleans congress"
 date: 2026-10-25T07:10:40-04:00
-last_updated: 2026-10-25T07:10:40-04:00
+last_updated: 2026-10-25T13:42:35-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "About 11,000 people marched peacefully through Orleans on Saturday, by the prefecture's estimate, to protest the National Rally congress at which the party is expected to launch Marine Le Pen's presidential campaign and re-elect Jordan Bardella as leader."
-why_it_matters: "The congress and its counter-mobilisation open the 2027 presidential contest in the streets a year early, with about 3,000 police and gendarmes deployed and the left's national leaders marching against a party that leads most national polling."
+lede: "Marine Le Pen launched her presidential campaign on Sunday with a speech to about 10,000 supporters at the National Rally congress in Orleans, built on a renaissance theme six months before the vote, a day after nationwide cost of living protests ended with 1,314 arrests."
+why_it_matters: "The launch formalises the ticket the congress was staged for: Le Pen, the polling frontrunner, as candidate, with Jordan Bardella re-elected party president on Saturday with 98.98 percent of members voting and in line to become prime minister if she wins, and she is seeking to turn a protest autumn that has put the government on the defensive into campaign momentum."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "France: Le Pen seeks to leverage unrest in presidential campaign kick-off"
+    publisher: "France 24"
+    url: "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off"
+    published: "2026-10-25"
+  - title: "Congres du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir presider a la Renaissance de la France"
+    publisher: "Le Monde, in French"
+    url: "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html"
+    published: "2026-10-25"
+  - title: "Congres du RN a Orleans : Jordan Bardella a la tribune"
+    publisher: "France Info live coverage, in French, via Shango mirror"
+    url: "https://www.shango.media/france-info-congres-du-rn-a-orleans-a-trappes-la-barbarie-a-encore-frappe-declare-jordan-bardella-a-la-tribune-11983419"
+    published: "2026-10-25"
   - title: "France: Thousands march in Orleans against National Rally congress"
     publisher: "France 24"
     url: "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress"
@@ -19,8 +31,11 @@ sources:
     url: "https://anewz.tv/world/world-news/25863/mass-protest-held-against-national-rally-congress-in-orleans/news"
     published: "2026-10-24"
 tags: []
-data_as_of: "March and congress on Saturday, October 24, 2026, in Orleans. The 11,000 crowd figure is the prefecture estimate reported by BFMTV. Deployment and expected counter-demonstration figures are the authorities' advance statements of Thursday, October 22, 2026."
+data_as_of: "Update, October 25, 2026, 13:42 ET: France 24 report of October 25, 2026 is the source for Le Pen addressing about 10,000 supporters in Orleans on Sunday and kicking off her presidential campaign a day after the protests; France 24's own domain could not be fetched in this run, so its text was read through republication and corroborated against Le Monde's headline, in French, for the renaissance theme of her first campaign speech, and France Info live coverage, in French, read via a mirror, for Bardella's re-election on Saturday with 98.98 percent and 75,497 members voting and for the speech being billed in her camp as an optimistic address six months before the presidential election. An automated browser summary of the France 24 article that described Bardella as the candidate and Le Pen as barred from running was checked against these sources and rejected: the Paris Court of Appeal ruled on July 7, 2026 that she can contest the May 2027 election, and Bardella's stated role is prime minister if she wins. March and congress on Saturday, October 24, 2026, in Orleans. The 11,000 crowd figure is the prefecture estimate reported by BFMTV. Deployment and expected counter-demonstration figures are the authorities' advance statements of Thursday, October 22, 2026."
+update_bump: true
 ---
+
+**Latest:** Marine Le Pen delivered the first major speech of her presidential campaign in Orleans on Sunday, telling about 10,000 supporters at the closing rally of the National Rally congress that she wants to preside over a renaissance of France, in an address her camp billed as optimistic, six months before the presidential election. The launch came a day after the nationwide cost of living protests ended in clashes and 1,314 arrests, unrest France 24 reported she is seeking to leverage as the polling frontrunner. Jordan Bardella, re-elected party president on Saturday with 98.98 percent of the members voting as the sole candidate, spoke before her and is in line to become prime minister if she wins the Elysee.
 
 Thousands of people marched through Orleans on Saturday against the far right National Rally, which is holding its congress a few kilometres away in the city south of Paris. The prefecture estimated the crowd at 11,000, and the authorised march passed off peacefully, with demonstrators chanting against both Marine Le Pen and President Emmanuel Macron.
 
