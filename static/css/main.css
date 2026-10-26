@@ -138,6 +138,8 @@ a:hover { color: var(--accent); }
 .bw-pager-links strong { color: var(--accent); }
 .bw-pager-ends { margin-left: auto; display: flex; gap: 14px; }
 .bw-pager-ends a { text-decoration: none; font-weight: 500; }
+.bw-pager-links button, .bw-pager-ends button { background: none; border: 0; padding: 0; font: inherit; color: inherit; cursor: pointer; }
+.bw-pager-ends button { font-weight: 500; }
 .updated-tag { font-weight: 700; color: var(--accent); }
 
 .river-item { padding: 16px 0; border-bottom: 1px solid var(--rule); }
