@@ -1,15 +1,28 @@
 ---
 title: "RBI triples repo support with 150,000 crore auction"
 date: 2026-10-24T07:06:48-04:00
-last_updated: 2026-10-24T07:06:48-04:00
+last_updated: 2026-10-26T02:41:29-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "The Reserve Bank of India will conduct a four-day variable rate repo auction of 150,000 crore rupees on Monday, October 26, three times the size of Friday's operation, on a review of liquidity conditions in the near term."
-why_it_matters: "Escalating the notified amount from 50,000 crore to 150,000 crore, and extending the tenor to four days with reversal on October 30, is the central bank's clearest step yet in a week when banks bid more than twice the amount on offer at rising cut-off rates."
+lede: "Banks bid 186,666 crore rupees for the Reserve Bank of India's 150,000 crore four-day repo on Monday, and the cut-off rate eased to 5.55 percent from Friday's 5.58 percent as the larger operation met more of the queue."
+why_it_matters: "Demand still exceeded the amount on offer by a quarter, so the premium banks pay for term funding into the month-end window has narrowed without disappearing, with the 150,007 crore allotted reversing on Friday, October 30."
 featured: false
 evidence_grade: "B"
+update_bump: true
 sources:
+  - title: "Result of the 4-day Variable Rate Repo (VRR) auction held on October 26, 2026"
+    publisher: "Reserve Bank of India"
+    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63864"
+    published: "2026-10-26"
+  - title: "Money Market Operations as on October 25, 2026"
+    publisher: "Reserve Bank of India"
+    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63866"
+    published: "2026-10-26"
+  - title: "Money Market Operations as on October 24, 2026"
+    publisher: "Reserve Bank of India"
+    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63865"
+    published: "2026-10-26"
   - title: "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026"
     publisher: "Reserve Bank of India"
     url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861"
@@ -19,8 +32,12 @@ sources:
     url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63851"
     published: "2026-10-23"
 tags: []
-data_as_of: "Reserve Bank of India press release 2026-2027/1383, published October 23, 2026 and read in full: auction Monday, October 26, 2026, notified amount 150,000 crore rupees, tenor four days, reversal Friday, October 30, 2026. Friday's comparison figures are the bank's own result for the October 23 three-day operation. Single primary publisher, the issuing central bank itself."
+data_as_of: "Update, October 26, 2026, 02:41 ET: the auction result figures are the Reserve Bank of India's own press release 2026-2027/1386, read in full in this run. The weekend marginal standing facility and standing deposit facility figures are from the bank's money market operations releases as on October 24 and October 25, 2026 (press releases 2026-2027/1387 and 2026-2027/1388), also read in full. Single primary publisher, the issuing central bank itself. Original text: Reserve Bank of India press release 2026-2027/1383, published October 23, 2026 and read in full: auction Monday, October 26, 2026, notified amount 150,000 crore rupees, tenor four days, reversal Friday, October 30, 2026. Friday's comparison figures are the bank's own result for the October 23 three-day operation."
 ---
+
+**Latest, October 26:** Monday's auction drew bids of 186,666 crore rupees against the 150,000 crore on offer, and the Reserve Bank allotted 150,007 crore at a cut-off rate of 5.55 percent and a weighted average rate of 5.59 percent, with bids at the cut-off allotted at 85.07 percent. The queue is shorter than Friday's, when banks bid 106,949 crore for a 50,000 crore operation, more than twice the amount notified, and the cut-off has come down from 5.58 percent after rising through last week. The larger supply relieved the marginal premium without clearing the demand for term money into month-end.
+
+The weekend figures show why cash stays unevenly held. Banks drew 28,311 crore at the marginal standing facility on Saturday and 29,479 crore on Sunday at 5.75 percent, while other banks placed 199,912 crore and 201,337 crore in the standing deposit facility at 5.25 percent on the same two days. Net liquidity on an outstanding basis, including the day's operations, stood at minus 39,083 crore rupees in Sunday's release, close to Friday's minus 39,422 crore.
 
 The Reserve Bank of India is stepping up its liquidity support. On a review of current and evolving liquidity conditions in the near term, the bank said it will conduct a variable rate repo auction on Monday, October 26 with a notified amount of 150,000 crore rupees, a tenor of four days and reversal on Friday, October 30. The operation is three times the 50,000 crore notified for Friday's three-day repo and a day longer.
 
