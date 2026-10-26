@@ -289,9 +289,18 @@ a:hover { color: var(--accent); }
    Plain drag resizes one column and the table width follows;
    minimum widths keep every header legible; headers wrap instead
    of clipping. */
-.bw-grid th { cursor: pointer; user-select: none; }
+.bw-grid th { cursor: pointer; user-select: none; position: relative; }
 .bw-grid th.sasc::after { content: " \2191"; }
 .bw-grid th.sdesc::after { content: " \2193"; }
+/* Touch resize grip: the engine injects .bw-grip into each
+   resizable header - a 24px hit strip centred on the column's
+   right boundary so a fingertip can start the drag the 9px mouse
+   boundary cannot. touch-action:none keeps the gesture for the
+   drag instead of page scroll. Drawn as one hairline a step
+   darker than the table rules, near-black while active. */
+.bw-grip { position: absolute; top: 0; bottom: 0; right: -12px; width: 24px; cursor: col-resize; touch-action: none; z-index: 4; }
+.bw-grip::after { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; border-left: 1px solid #c9c2ae; }
+.bw-grip:active::after { border-left-color: var(--rule-strong); }
 .trace-price-cell { font-weight: 400; font-size: 1.05em; }
 .trace-price-cell.low { color: var(--down, #b3261e); font-weight: 700; }
 
