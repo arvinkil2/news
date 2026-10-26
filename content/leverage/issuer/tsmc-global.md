@@ -55,8 +55,8 @@ document.querySelectorAll('.flow-panel').forEach(function(p){
 
 <h2>Month-end trend</h2>
 <p class="bond-chart-cap">Month-end median last print and trades per month. A month point exists only when at least one of the issuer&rsquo;s bonds traded that month.</p>
-<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: TSMC"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, TSMC"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">82</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">86</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">90</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">94</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">98</text><polyline points="52.0,242.6 70.2,200.0 88.3,184.2 106.5,178.3 124.7,189.9 142.8,195.0 161.0,198.9 179.2,180.2 197.3,179.2 215.5,167.4 233.7,141.3 251.8,127.5 270.0,137.3 288.2,141.8 306.3,142.0 324.5,133.9 342.7,124.6 360.8,114.4 379.0,110.7 397.2,110.6 415.3,101.0 433.5,97.5 451.7,86.9 469.8,80.1 488.0,73.4 506.2,69.2 524.3,68.3 542.5,64.5 560.7,89.3 578.8,65.6 597.0,61.6 615.2,59.8 633.3,60.8 651.5,62.8 669.7,56.9 687.8,54.9 706.0,45.4" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="242.6" r="2.4" fill="#1a1a1a"/><circle cx="70.2" cy="200.0" r="2.4" fill="#1a1a1a"/><circle cx="88.3" cy="184.2" r="2.4" fill="#1a1a1a"/><circle cx="106.5" cy="178.3" r="2.4" fill="#1a1a1a"/><circle cx="124.7" cy="189.9" r="2.4" fill="#1a1a1a"/><circle cx="142.8" cy="195.0" r="2.4" fill="#1a1a1a"/><circle cx="161.0" cy="198.9" r="2.4" fill="#1a1a1a"/><circle cx="179.2" cy="180.2" r="2.4" fill="#1a1a1a"/><circle cx="197.3" cy="179.2" r="2.4" fill="#1a1a1a"/><circle cx="215.5" cy="167.4" r="2.4" fill="#1a1a1a"/><circle cx="233.7" cy="141.3" r="2.4" fill="#1a1a1a"/><circle cx="251.8" cy="127.5" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="137.3" r="2.4" fill="#1a1a1a"/><circle cx="288.2" cy="141.8" r="2.4" fill="#1a1a1a"/><circle cx="306.3" cy="142.0" r="2.4" fill="#1a1a1a"/><circle cx="324.5" cy="133.9" r="2.4" fill="#1a1a1a"/><circle cx="342.7" cy="124.6" r="2.4" fill="#1a1a1a"/><circle cx="360.8" cy="114.4" r="2.4" fill="#1a1a1a"/><circle cx="379.0" cy="110.7" r="2.4" fill="#1a1a1a"/><circle cx="397.2" cy="110.6" r="2.4" fill="#1a1a1a"/><circle cx="415.3" cy="101.0" r="2.4" fill="#1a1a1a"/><circle cx="433.5" cy="97.5" r="2.4" fill="#1a1a1a"/><circle cx="451.7" cy="86.9" r="2.4" fill="#1a1a1a"/><circle cx="469.8" cy="80.1" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="73.4" r="2.4" fill="#1a1a1a"/><circle cx="506.2" cy="69.2" r="2.4" fill="#1a1a1a"/><circle cx="524.3" cy="68.3" r="2.4" fill="#1a1a1a"/><circle cx="542.5" cy="64.5" r="2.4" fill="#1a1a1a"/><circle cx="560.7" cy="89.3" r="2.4" fill="#1a1a1a"/><circle cx="578.8" cy="65.6" r="2.4" fill="#1a1a1a"/><circle cx="597.0" cy="61.6" r="2.4" fill="#1a1a1a"/><circle cx="615.2" cy="59.8" r="2.4" fill="#1a1a1a"/><circle cx="633.3" cy="60.8" r="2.4" fill="#1a1a1a"/><circle cx="651.5" cy="62.8" r="2.4" fill="#1a1a1a"/><circle cx="669.7" cy="56.9" r="2.4" fill="#1a1a1a"/><circle cx="687.8" cy="54.9" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="45.4" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2023-10</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
-<script type="application/json" id="issuer-chart-data">{"tsmc-global":{"name":"TSMC","price":[[1697371200000,83.86850000000001],[1700049600000,86.581],[1702641600000,87.5885],[1705320000000,87.964],[1707998400000,87.226],[1710504000000,86.8977],[1713182400000,86.653],[1715774400000,87.845],[1718452800000,87.907],[1721044800000,88.661],[1723723200000,90.319],[1726401600000,91.202875],[1728993600000,90.574],[1731672000000,90.2895],[1734264000000,90.273812],[1736942400000,90.79],[1739620800000,91.387],[1742040000000,92.03649999999999],[1744718400000,92.2724925],[1747310400000,92.27738550000001],[1749988800000,92.889],[1752580800000,93.113],[1755259200000,93.784449],[1757937600000,94.22],[1760529600000,94.64525],[1763208000000,94.913],[1765800000000,94.97228150000001],[1768478400000,95.2150225],[1771156800000,93.6321555],[1773576000000,95.143],[1776254400000,95.4],[1778846400000,95.5152965],[1781524800000,95.446934],[1784116800000,95.32499999999999],[1786795200000,95.696],[1789473600000,95.826441],[1792065600000,96.4305]],"vol":[[1697371200000,43],[1700049600000,55],[1702641600000,62],[1705320000000,92],[1707998400000,77],[1710504000000,72],[1713182400000,57],[1715774400000,74],[1718452800000,62],[1721044800000,65],[1723723200000,42],[1726401600000,54],[1728993600000,88],[1731672000000,66],[1734264000000,46],[1736942400000,49],[1739620800000,30],[1742040000000,73],[1744718400000,47],[1747310400000,66],[1749988800000,54],[1752580800000,85],[1755259200000,30],[1757937600000,82],[1760529600000,50],[1763208000000,67],[1765800000000,49],[1768478400000,65],[1771156800000,31],[1773576000000,60],[1776254400000,67],[1778846400000,62],[1781524800000,48],[1784116800000,81],[1786795200000,54],[1789473600000,66],[1792065600000,44]]}}</script>
+<div id="issuer-chart-e" class="issuer-chart-e" role="img" aria-label="Issuer trend chart: TSMC"><svg viewBox="0 0 720 300" width="100%" role="img" aria-label="Median last print by month, TSMC"><line x1="52" y1="274" x2="706" y2="274" stroke="#e5e2d8"/><text x="46" y="277" font-size="9.5" text-anchor="end" fill="#6b675c">82</text><line x1="52" y1="209" x2="706" y2="209" stroke="#e5e2d8"/><text x="46" y="212" font-size="9.5" text-anchor="end" fill="#6b675c">86</text><line x1="52" y1="144" x2="706" y2="144" stroke="#e5e2d8"/><text x="46" y="147" font-size="9.5" text-anchor="end" fill="#6b675c">90</text><line x1="52" y1="79" x2="706" y2="79" stroke="#e5e2d8"/><text x="46" y="82" font-size="9.5" text-anchor="end" fill="#6b675c">94</text><line x1="52" y1="14" x2="706" y2="14" stroke="#e5e2d8"/><text x="46" y="17" font-size="9.5" text-anchor="end" fill="#6b675c">98</text><polyline points="52.0,242.6 70.2,200.0 88.3,184.2 106.5,178.3 124.7,189.9 142.8,195.2 161.0,198.9 179.2,180.2 197.3,179.2 215.5,167.4 233.7,141.3 251.8,127.5 270.0,137.3 288.2,141.8 306.3,142.0 324.5,133.9 342.7,124.6 360.8,114.4 379.0,110.7 397.2,110.6 415.3,101.0 433.5,97.7 451.7,86.9 469.8,80.1 488.0,73.4 506.2,69.2 524.3,68.3 542.5,64.4 560.7,89.3 578.8,65.6 597.0,61.6 615.2,59.9 633.3,60.8 651.5,62.8 669.7,56.9 687.8,54.9 706.0,45.4" fill="none" stroke="#3f4750" stroke-width="1.4"/><circle cx="52.0" cy="242.6" r="2.4" fill="#1a1a1a"/><circle cx="70.2" cy="200.0" r="2.4" fill="#1a1a1a"/><circle cx="88.3" cy="184.2" r="2.4" fill="#1a1a1a"/><circle cx="106.5" cy="178.3" r="2.4" fill="#1a1a1a"/><circle cx="124.7" cy="189.9" r="2.4" fill="#1a1a1a"/><circle cx="142.8" cy="195.2" r="2.4" fill="#1a1a1a"/><circle cx="161.0" cy="198.9" r="2.4" fill="#1a1a1a"/><circle cx="179.2" cy="180.2" r="2.4" fill="#1a1a1a"/><circle cx="197.3" cy="179.2" r="2.4" fill="#1a1a1a"/><circle cx="215.5" cy="167.4" r="2.4" fill="#1a1a1a"/><circle cx="233.7" cy="141.3" r="2.4" fill="#1a1a1a"/><circle cx="251.8" cy="127.5" r="2.4" fill="#1a1a1a"/><circle cx="270.0" cy="137.3" r="2.4" fill="#1a1a1a"/><circle cx="288.2" cy="141.8" r="2.4" fill="#1a1a1a"/><circle cx="306.3" cy="142.0" r="2.4" fill="#1a1a1a"/><circle cx="324.5" cy="133.9" r="2.4" fill="#1a1a1a"/><circle cx="342.7" cy="124.6" r="2.4" fill="#1a1a1a"/><circle cx="360.8" cy="114.4" r="2.4" fill="#1a1a1a"/><circle cx="379.0" cy="110.7" r="2.4" fill="#1a1a1a"/><circle cx="397.2" cy="110.6" r="2.4" fill="#1a1a1a"/><circle cx="415.3" cy="101.0" r="2.4" fill="#1a1a1a"/><circle cx="433.5" cy="97.7" r="2.4" fill="#1a1a1a"/><circle cx="451.7" cy="86.9" r="2.4" fill="#1a1a1a"/><circle cx="469.8" cy="80.1" r="2.4" fill="#1a1a1a"/><circle cx="488.0" cy="73.4" r="2.4" fill="#1a1a1a"/><circle cx="506.2" cy="69.2" r="2.4" fill="#1a1a1a"/><circle cx="524.3" cy="68.3" r="2.4" fill="#1a1a1a"/><circle cx="542.5" cy="64.4" r="2.4" fill="#1a1a1a"/><circle cx="560.7" cy="89.3" r="2.4" fill="#1a1a1a"/><circle cx="578.8" cy="65.6" r="2.4" fill="#1a1a1a"/><circle cx="597.0" cy="61.6" r="2.4" fill="#1a1a1a"/><circle cx="615.2" cy="59.9" r="2.4" fill="#1a1a1a"/><circle cx="633.3" cy="60.8" r="2.4" fill="#1a1a1a"/><circle cx="651.5" cy="62.8" r="2.4" fill="#1a1a1a"/><circle cx="669.7" cy="56.9" r="2.4" fill="#1a1a1a"/><circle cx="687.8" cy="54.9" r="2.4" fill="#1a1a1a"/><circle cx="706.0" cy="45.4" r="2.4" fill="#1a1a1a"/><text x="52" y="292" font-size="9.5" fill="#6b675c">2023-10</text><text x="706" y="292" font-size="9.5" text-anchor="end" fill="#6b675c">2026-10</text></svg></div>
+<script type="application/json" id="issuer-chart-data">{"tsmc-global":{"name":"TSMC","price":[[1697371200000,83.86850000000001],[1700049600000,86.581],[1702641600000,87.5885],[1705320000000,87.964],[1707998400000,87.226],[1710504000000,86.88989000000001],[1713182400000,86.653],[1715774400000,87.845],[1718452800000,87.907],[1721044800000,88.661],[1723723200000,90.319],[1726401600000,91.202875],[1728993600000,90.574],[1731672000000,90.2895],[1734264000000,90.273812],[1736942400000,90.79],[1739620800000,91.387],[1742040000000,92.03649999999999],[1744718400000,92.2724925],[1747310400000,92.27738550000001],[1749988800000,92.889],[1752580800000,93.10050000000001],[1755259200000,93.784449],[1757937600000,94.22],[1760529600000,94.64525],[1763208000000,94.913],[1765800000000,94.97228150000001],[1768478400000,95.2209225],[1771156800000,93.6321555],[1773576000000,95.143],[1776254400000,95.4],[1778846400000,95.50779650000001],[1781524800000,95.446934],[1784116800000,95.32499999999999],[1786795200000,95.696],[1789473600000,95.826441],[1792065600000,96.4305]],"vol":[[1697371200000,43],[1700049600000,55],[1702641600000,62],[1705320000000,92],[1707998400000,77],[1710504000000,72],[1713182400000,57],[1715774400000,74],[1718452800000,62],[1721044800000,65],[1723723200000,42],[1726401600000,54],[1728993600000,88],[1731672000000,66],[1734264000000,46],[1736942400000,49],[1739620800000,30],[1742040000000,73],[1744718400000,47],[1747310400000,66],[1749988800000,54],[1752580800000,85],[1755259200000,30],[1757937600000,82],[1760529600000,50],[1763208000000,67],[1765800000000,49],[1768478400000,65],[1771156800000,31],[1773576000000,60],[1776254400000,67],[1778846400000,62],[1781524800000,48],[1784116800000,81],[1786795200000,54],[1789473600000,66],[1792065600000,44]]}}</script>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-m-tsmc-global" data-def="[100, 84, 140, 110, 92]" data-min="[92, 76, 92, 76, 76]" data-fixed="[]">
 <colgroup><col style="width:100px"><col style="width:84px"><col style="width:140px"><col style="width:110px"><col style="width:92px"></colgroup>
 <thead><tr><th>Month</th><th>Trades</th><th>Median last print</th><th>Priced bonds</th><th>Below 90</th></tr></thead>
@@ -66,11 +66,11 @@ document.querySelectorAll('.flow-panel').forEach(function(p){
 <tr><td data-v="2026-08">Aug 2026</td><td data-v="54">54</td><td data-v="95.696">95.70</td><td data-v="10">10</td><td data-v="4">40%</td></tr>
 <tr><td data-v="2026-07">Jul 2026</td><td data-v="81">81</td><td data-v="95.32499999999999">95.32</td><td data-v="10">10</td><td data-v="4">40%</td></tr>
 <tr><td data-v="2026-06">Jun 2026</td><td data-v="48">48</td><td data-v="95.446934">95.45</td><td data-v="7">7</td><td data-v="1">14%</td></tr>
-<tr><td data-v="2026-05">May 2026</td><td data-v="62">62</td><td data-v="95.5152965">95.52</td><td data-v="10">10</td><td data-v="2">20%</td></tr>
+<tr><td data-v="2026-05">May 2026</td><td data-v="62">62</td><td data-v="95.50779650000001">95.51</td><td data-v="10">10</td><td data-v="2">20%</td></tr>
 <tr><td data-v="2026-04">Apr 2026</td><td data-v="67">67</td><td data-v="95.4">95.40</td><td data-v="9">9</td><td data-v="2">22%</td></tr>
 <tr><td data-v="2026-03">Mar 2026</td><td data-v="60">60</td><td data-v="95.143">95.14</td><td data-v="11">11</td><td data-v="2">18%</td></tr>
 <tr><td data-v="2026-02">Feb 2026</td><td data-v="31">31</td><td data-v="93.6321555">93.63</td><td data-v="8">8</td><td data-v="2">25%</td></tr>
-<tr><td data-v="2026-01">Jan 2026</td><td data-v="65">65</td><td data-v="95.2150225">95.22</td><td data-v="10">10</td><td data-v="2">20%</td></tr>
+<tr><td data-v="2026-01">Jan 2026</td><td data-v="65">65</td><td data-v="95.2209225">95.22</td><td data-v="10">10</td><td data-v="2">20%</td></tr>
 <tr><td data-v="2025-12">Dec 2025</td><td data-v="49">49</td><td data-v="94.97228150000001">94.97</td><td data-v="10">10</td><td data-v="2">20%</td></tr>
 <tr><td data-v="2025-11">Nov 2025</td><td data-v="67">67</td><td data-v="94.913">94.91</td><td data-v="11">11</td><td data-v="2">18%</td></tr>
 <tr><td data-v="2025-10">Oct 2025</td><td data-v="50">50</td><td data-v="94.64525">94.65</td><td data-v="11">11</td><td data-v="2">18%</td></tr>
@@ -134,23 +134,21 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     }
     return best;
   }
-  head.addEventListener('pointerdown', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault(); ev.stopPropagation();
-    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+  function startDrag(i, ev, shift){
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0;
+    shift = shift && i + 1 < n;
     function move(e){
       var dx = e.clientX - startX;
       if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
       else widths[i] = Math.max(mins[i], startW + dx);
       apply(); lastDrag = Date.now();
     }
-    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); document.removeEventListener('pointercancel', up); save(); }
     document.addEventListener('pointermove', move);
     document.addEventListener('pointerup', up);
-  });
-  head.addEventListener('dblclick', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault();
+    document.addEventListener('pointercancel', up);
+  }
+  function autoFit(i){
     var clone = t.cloneNode(true);
     clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
     var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
@@ -159,6 +157,36 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     var w = cths[i] ? cths[i].offsetWidth : 0;
     clone.remove();
     if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    startDrag(i, ev, ev.shiftKey);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    autoFit(i);
+  });
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    var grip = document.createElement('span');
+    grip.className = 'bw-grip';
+    grip.setAttribute('aria-hidden', 'true');
+    th.appendChild(grip);
+    var lastTap = 0, downX = 0;
+    grip.addEventListener('pointerdown', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      downX = ev.clientX;
+      startDrag(i, ev, false);
+    });
+    grip.addEventListener('pointerup', function(ev){
+      if (Math.abs(ev.clientX - downX) > 6) { lastTap = 0; return; }
+      var now = Date.now();
+      if (now - lastTap < 300) { lastTap = 0; autoFit(i); }
+      else lastTap = now;
+    });
+    grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));

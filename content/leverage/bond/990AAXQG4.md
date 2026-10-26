@@ -73,7 +73,7 @@ data_as_of: "Trades to 26 Oct 2026; fund marks to 30 Sep 2025"
 <p class="data-vintage">No agency rating in the dataset.</p>
 <h2>Other bonds from this issuer</h2>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead><tbody>
-<tr><td><a class="bond-link" href="/leverage/bond/076912aa2/">6.581% senior secured notes due 2049</a></td><td class="num">91.80</td><td class="muted">26 Oct 2026</td><td class="num">-10.26</td><td class="num">102.06<span class="cell-sub">Period ended 30 Jun 2026</span></td><td class="num">6.581%</td><td class="muted">30 May 2049</td><td data-v="S&amp;P A+" title="S&amp;P A+">S&amp;P A+</td><td class="muted">076912AA2</td></tr>
+<tr><td><a class="bond-link" href="/leverage/bond/076912aa2/">6.581% senior secured notes due 2049</a></td><td class="num">91.48</td><td class="muted">26 Oct 2026</td><td class="num">-10.58</td><td class="num">102.06<span class="cell-sub">Period ended 30 Jun 2026</span></td><td class="num">6.581%</td><td class="muted">30 May 2049</td><td data-v="S&amp;P A+" title="S&amp;P A+">S&amp;P A+</td><td class="muted">076912AA2</td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: FINRA TRACE via the public lookup (collected by Kilambi Research); fund marks from SEC N-PORT bulk data. A fund mark is a period-end valuation reported by a holder; it is not a trade price. Yield to worst takes scheduled calls into account and treats conditional convertible redemption as not certain.</p>
 <script>
@@ -119,23 +119,21 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     }
     return best;
   }
-  head.addEventListener('pointerdown', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault(); ev.stopPropagation();
-    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+  function startDrag(i, ev, shift){
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0;
+    shift = shift && i + 1 < n;
     function move(e){
       var dx = e.clientX - startX;
       if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
       else widths[i] = Math.max(mins[i], startW + dx);
       apply(); lastDrag = Date.now();
     }
-    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); document.removeEventListener('pointercancel', up); save(); }
     document.addEventListener('pointermove', move);
     document.addEventListener('pointerup', up);
-  });
-  head.addEventListener('dblclick', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault();
+    document.addEventListener('pointercancel', up);
+  }
+  function autoFit(i){
     var clone = t.cloneNode(true);
     clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
     var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
@@ -144,6 +142,36 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     var w = cths[i] ? cths[i].offsetWidth : 0;
     clone.remove();
     if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    startDrag(i, ev, ev.shiftKey);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    autoFit(i);
+  });
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    var grip = document.createElement('span');
+    grip.className = 'bw-grip';
+    grip.setAttribute('aria-hidden', 'true');
+    th.appendChild(grip);
+    var lastTap = 0, downX = 0;
+    grip.addEventListener('pointerdown', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      downX = ev.clientX;
+      startDrag(i, ev, false);
+    });
+    grip.addEventListener('pointerup', function(ev){
+      if (Math.abs(ev.clientX - downX) > 6) { lastTap = 0; return; }
+      var now = Date.now();
+      if (now - lastTap < 300) { lastTap = 0; autoFit(i); }
+      else lastTap = now;
+    });
+    grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
