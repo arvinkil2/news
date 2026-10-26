@@ -1,7 +1,7 @@
 ---
 title: "Anthropic files public S-1 for Nasdaq listing as ANT"
 date: 2026-10-26T09:45:01-04:00
-last_updated: 2026-10-26T09:59:04-04:00
+last_updated: 2026-10-26T19:18:01-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
@@ -19,6 +19,10 @@ sources:
     publisher: "U.S. Securities and Exchange Commission, EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.html"
     published: "2026-10-26"
+  - title: "Anthropic halts AI model pretraining to prevent intellectual property theft (in Korean)"
+    publisher: "Yonhap, with Reuters"
+    url: "https://www.yna.co.kr/view/AKR20261027013000009"
+    published: "2026-10-27"
   - title: "Anthropic begins countdown to IPO with prospectus filing"
     publisher: "Financial Times"
     url: "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1"
@@ -28,8 +32,10 @@ sources:
     url: "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
     published: "2026-10-26"
 tags: []
-data_as_of: "Anthropic, PBC Form S-1 filed with the SEC on October 26, 2026 and accepted at 09:00:11 ET (EDGAR accession 0001628280-26-067168, 87 documents), read directly from EDGAR in this run, including the cover, governance summary and summary consolidated financial data. All company figures are the filing's own. Share count and price range are blank in the preliminary prospectus. Roadshow timing and valuation figures are press reporting, not filing contents. The New York Times article was read up to its paywall in the live browser; both Financial Times articles were unreadable, one blocked by the FT's security verification and one paywalled."
+data_as_of: "Update, October 26, 2026, 19:17 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, reporting Reuters on the S-1 risk factors, is the source for the pretraining delay disclosure in the Latest paragraph; the filing passage itself was not re-read in this run. Earlier: Anthropic, PBC Form S-1 filed with the SEC on October 26, 2026 and accepted at 09:00:11 ET (EDGAR accession 0001628280-26-067168, 87 documents), read directly from EDGAR in this run, including the cover, governance summary and summary consolidated financial data. All company figures are the filing's own. Share count and price range are blank in the preliminary prospectus. Roadshow timing and valuation figures are press reporting, not filing contents. The New York Times article was read up to its paywall in the live browser; both Financial Times articles were unreadable, one blocked by the FT's security verification and one paywalled."
 ---
+
+**Latest:** The S-1 also discloses that Anthropic postponed pretraining of a new frontier foundation model by more than a month to strengthen safeguards against theft of its model weights and intellectual property, Yonhap reported, citing Reuters coverage of the filing's risk factors. The company said the halt was for theft prevention, not because the model itself was dangerous, and warned the delay could postpone revenue and leave it behind competitors.
 
 Anthropic, PBC publicly filed its registration statement on Form S-1 with the Securities and Exchange Commission on Monday, converting the confidential draft it submitted on June 1 into a public prospectus and starting the formal countdown to an initial public offering. The filing, accepted by EDGAR at 9:00 a.m. Eastern, covers Class A common stock to be sold by the company and by selling stockholders. Anthropic has applied to list on the Nasdaq Global Select Market under the symbol ANT. The number of shares and the estimated price range are blank in this preliminary prospectus, and the statement is not yet effective.
 

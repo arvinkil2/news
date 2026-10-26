@@ -1,12 +1,12 @@
 ---
 title: "Justice Department presses California counties over suspected noncitizen voters"
 date: 2026-10-25T07:10:40-04:00
-last_updated: 2026-10-25T19:35:32-04:00
+last_updated: 2026-10-26T19:18:01-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "A Ninth Circuit panel gave the Justice Department a skeptical reception at a rare Sunday hearing on its emergency bid to have 20,000 California mail ballots segregated and verified before counting, questioning its jurisdiction and the reliability of the administration's list of likely noncitizens"
-why_it_matters: "The panel issued no ruling at the hearing, so the department's segregation demand now turns on the trial judge's hearing on Tuesday, nine days before the midterms, with mail ballots already being returned and Los Angeles County alone having processed 331,000 of them, according to court filings cited by The Hill"
+lede: "The Ninth Circuit on Monday denied the Justice Department's request to block California from counting mail ballots from voters on its list of more than 20,000 people it alleges are likely noncitizens, a day after a panel questioned the bid at a rare Sunday hearing"
+why_it_matters: "The denial keeps those ballots countable eight days before the midterms and is the latest court setback for the administration's push for a larger federal role in election administration, with the underlying lawsuit and a trial court hearing on Tuesday still ahead"
 featured: false
 evidence_grade: "B"
 sources:
@@ -14,6 +14,10 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/"
     published: "2026-10-25"
+  - title: "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots"
+    published: "2026-10-26"
   - title: "Trump administration demands county election officials identify noncitizen voters in California"
     publisher: "Reuters"
     url: "https://947thebeast.com/2026/10/24/trump-administration-demands-county-election-officials-identify-noncitizen-voters-in-california-report-says/"
@@ -28,8 +32,10 @@ sources:
     published: "2026-10-24"
 tags: []
 update_bump: true
-data_as_of: "Update, October 25, 2026, 19:35 ET: The Hill report of October 25, 2026 (Zach Schonfeld, 6:02 p.m. ET), read via browser in this run, is the source for the Sunday hearing account: the panel's composition and questions, the statements by Judges Bennett, Sanchez and Bumatay, the arguments of DOJ attorney Matthew Donnelly and of Sam Siegel for California, the Tuesday trial court hearing, and the Los Angeles County figure of 331,000 mail ballots processed, from court filings cited by The Hill. The Hill reported no ruling at the hearing. Letters dated Friday, October 23, 2026, whose texts the Justice Department shared with Reuters on Saturday, October 24, 2026. County figures are the department's own, as stated in the letters and reported by Reuters. Registrar responses are as reported by The New York Times and excerpted by the Election Law Blog on October 24, 2026."
+data_as_of: "Update, October 26, 2026, 19:17 ET: The Guardian breaking report of October 26, 2026, published 18:44 ET and read in full via browser, is the source for the Ninth Circuit denying the Justice Department request to block California from counting the mail ballots; Bloomberg Politics carried the same outcome in its headline the same evening. An earlier, conflicting browser summary of this ruling was discarded and nothing in this story rests on it. The Guardian report is a short breaking item and gives no reasoning from the court. Earlier update, October 25, 2026, 19:35 ET: The Hill report of October 25, 2026 (Zach Schonfeld, 6:02 p.m. ET), read via browser in this run, is the source for the Sunday hearing account: the panel's composition and questions, the statements by Judges Bennett, Sanchez and Bumatay, the arguments of DOJ attorney Matthew Donnelly and of Sam Siegel for California, the Tuesday trial court hearing, and the Los Angeles County figure of 331,000 mail ballots processed, from court filings cited by The Hill. The Hill reported no ruling at the hearing. Letters dated Friday, October 23, 2026, whose texts the Justice Department shared with Reuters on Saturday, October 24, 2026. County figures are the department's own, as stated in the letters and reported by Reuters. Registrar responses are as reported by The New York Times and excerpted by the Election Law Blog on October 24, 2026."
 ---
+**Latest, October 26:** The Ninth Circuit ruled against the Justice Department on Monday and denied its request to block California from counting mail ballots from people on the federal list of more than 20,000 registered voters the government alleges are likely noncitizens, The Guardian reported. The denial leaves California free to count those ballots. The department had written to at least 18 California counties on Friday demanding that local officials set aside and verify the ballots, and its lawsuit was filed earlier this month.
+
 **Latest, October 25:** A three judge panel of the Ninth Circuit heard the Justice Department's emergency bid to have 20,000 California mail ballots segregated and verified before they can be counted, and gave it a skeptical reception, The Hill reported from a rare Sunday hearing. Judge Mark Bennett questioned whether the appeals court has jurisdiction over the request at all and said the trial judge had essentially already given the department the hearing timing it wanted; Bennett and Judge Gabriel Sanchez both questioned the reliability of the administration's list of likely noncitizens and whether it matches the list California used to send out ballots in this cycle. Judge Patrick Bumatay, the panel member most sympathetic to the administration, warned that court intervention could confuse local officials but said it was not extraordinary to ask California to verify a voter's citizenship. The department's lawyer, Matthew Donnelly, said the list was purchased from the state and pointed to sworn declarations from homeland security officials; Sam Siegel, for California, said the problem was the manner in which the federal government was asking for the verification. The panel issued no ruling, and a trial judge is set to hold a hearing on Tuesday.
 
 Less than two weeks before the midterm elections, the Justice Department has warned election officials across California that they could face federal scrutiny if they refuse to help identify suspected noncitizens on the voter rolls and set aside their mail ballots pending citizenship checks, Reuters reported.
