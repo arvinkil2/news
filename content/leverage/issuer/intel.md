@@ -1,12 +1,13 @@
 ---
 title: "Intel"
-date: "2026-10-24"
+date: "2026-10-26"
 lede: "Project issuer, 43 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-23"
 ---
 
 
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
+<p class="src">Cross-dataset record: <a href="/entities/intel-corp/">Entity Index</a>. Name forms, swaps panel row and fund-mark coverage for this issuer.</p>
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>43</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>86.87</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>21 of 41 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>23 Oct 2026</dd></div><div class="bw-sum-item"><dt>Fund marks to</dt><dd>31 Jul 2026</dd></div></dl>
 <h2>Bonds</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-intel" data-def="[300, 124, 110, 92, 128, 84, 110, 96, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">

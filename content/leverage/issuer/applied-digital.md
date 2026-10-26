@@ -1,6 +1,6 @@
 ---
 title: "Applied Digital"
-date: "2026-10-24"
+date: "2026-10-26"
 lede: "Project issuer, 1 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-23"
 ---
