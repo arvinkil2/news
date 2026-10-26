@@ -1,8 +1,8 @@
 ---
 title: "Commission opens consultation on new EU hydrogen strategy"
 date: 2026-10-26T06:42:20-04:00
-last_updated: 2026-10-26T06:42:20-04:00
-beats: ["commodities"]
+last_updated: 2026-10-26T07:08:19-04:00
+beats: ["commodities", "infra-deals"]
 regions: ["europe"]
 status: "developing"
 developing: true

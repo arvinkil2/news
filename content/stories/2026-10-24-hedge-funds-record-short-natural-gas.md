@@ -1,7 +1,7 @@
 ---
 title: "Hedge funds hold record short in US natural gas"
 date: 2026-10-24T07:03:09-04:00
-last_updated: 2026-10-25T07:04:33-04:00
+last_updated: 2026-10-26T07:08:26-04:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "story"
@@ -31,3 +31,5 @@ The build was visible before it became a record. Schwab Network, summarising the
 Bloomberg linked the conviction to expectations that a strong El Nino pattern brings very mild weather. The risk is symmetric and well understood in this market: a sudden severe cold snap lifts heating demand while freeze offs cut production, and a record short then has to buy back into a rising market. No cold snap is in this morning's reporting. The position is the catalyst, in either direction.
 
 Update, October 25: The site market tables updated October 25 at 06:10 ET put United States natural gas at 3.05 dollars per million British thermal units, up 9.08 percent, a sharp rebound from Friday's 2.64 dollar level against the record short only position of 599,731 contracts reported on Saturday. No weather or supply headline in the weekend pool explains the jump, and the tables are the latest snapshot available at the time of writing rather than a settlement. A move of this size against a record short is consistent with the covering risk this story flagged, but that is an interpretation, not a reported cause.
+
+Update, October 26: The site market tables updated October 26 at 06:00 ET put United States natural gas at 3.02 dollars per million British thermal units, up 14.36 percent on the table's daily basis, a second consecutive sharp rebound snapshot against the record short only position of 599,731 contracts. No weather, storage or supply headline in this morning's pool reports a cause for the move, and the tables are a snapshot, not a settlement. As with Sunday's rebound, a move of this size against a record short is consistent with the covering risk this story flagged, but that remains an interpretation, not a reported cause. The contrast with Europe widened the same morning: Dutch TTF traded above 95 euros per megawatt hour, more than 30 dollars per million British thermal units, in today's European gas story.

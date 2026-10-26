@@ -1,7 +1,7 @@
 ---
 title: "Genmab shares jump on petosemtamab colorectal cancer data"
 date: 2026-10-26T05:12:06-04:00
-last_updated: 2026-10-26T05:12:06-04:00
+last_updated: 2026-10-26T07:06:47-04:00
 beats: ["life-sciences"]
 regions: ["europe"]
 status: "developing"

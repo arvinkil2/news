@@ -1,8 +1,8 @@
 ---
 title: "EQT to buy Range Resources in all-stock deal"
 date: 2026-10-26T06:42:01-04:00
-last_updated: 2026-10-26T06:42:01-04:00
-beats: ["commodities"]
+last_updated: 2026-10-26T07:08:19-04:00
+beats: ["commodities", "infra-deals"]
 regions: ["north-america"]
 status: "story"
 lede: "EQT will acquire Range Resources in an all-stock transaction creating a combined company with a pro forma enterprise value over 50 billion dollars, more than 9 billion cubic feet equivalent a day of production and over 30 years of inventory in Appalachia."
@@ -14,16 +14,12 @@ sources:
     publisher: "EQT Corporation and Range Resources Corporation, via PR Newswire"
     url: "https://www.prnewswire.com/news-releases/eqt-announces-strategic-acquisition-of-range-resources-creating-americas-undisputed-natural-gas-champion-302919052.html"
     published: "2026-10-26"
-  - title: "EQT to Buy Range Resources in An All-Stock Transaction"
-    publisher: "Bloomberg"
-    url: "https://scoopfeeds.com/article/3778c55e-5db5-5dc0-b87b-14c2cbd34cf0"
-    published: "2026-10-26"
-  - title: "EQT to buy Range Resources in over $50bn deal"
-    publisher: "Mining Weekly, via Google News"
-    url: "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlhKTkh6R0EyMFlscVRXMVFCTl9wS2E3a3I3ZThHZDBROGYyVk5IVGE3SC1MMURPSW92QWV3VnhWRWVIeGhyYXlQdk5hbWJVdHdtSFdJaVRmeWUtUG1MdWxMZEhHOS1LWUVXSGhYQ1dXajBzTUpoaTZxbkJPblNMa1VvajJzMGMwOHdnVjBzZUNhcW1RbXNz?oc=5"
+  - title: "EQT to buy Range Resources in over $50 billion deal"
+    publisher: "Reuters"
+    url: "https://live.euronext.com/en/financial-news/eqt-buy-range-resources-over-50-billion-deal"
     published: "2026-10-26"
 tags: []
-data_as_of: "EQT and Range Resources joint announcement of October 26, 2026, issued via PR Newswire at 06:00 ET and read in full in this run; all transaction terms, production, inventory, synergy and cash flow figures are the companies' own, and the cash flow, synergy and credit figures are forward-looking company projections, not results. Bloomberg and Investing.com reports of the same morning, carried in the feed queue, corroborate the agreement and the over 50 billion dollar combined value. No prior report of talks between the two companies appeared in this site's briefs going into Monday."
+data_as_of: "EQT and Range Resources joint announcement of October 26, 2026, issued via PR Newswire at 06:00 ET and read in full in this run; all transaction terms, production, inventory, synergy and cash flow figures are the companies' own, and the cash flow, synergy and credit figures are forward-looking company projections, not results. Reuters reporting of the same morning corroborates the agreement, the 0.987 exchange ratio, the 73/27 ownership split and the over 50 billion dollar combined value. No prior report of talks between the two companies appeared in this site's briefs going into Monday."
 ---
 
 EQT Corporation and Range Resources Corporation said on Monday that they have entered into a definitive merger agreement under which EQT will acquire Range in an all-stock transaction, creating a combined company with a pro forma enterprise value of more than 50 billion dollars. Each outstanding Range share will be exchanged for 0.987 EQT shares, leaving EQT's existing shareholders with about 73 percent of the combined company and Range shareholders with about 27 percent. Both boards approved the agreement unanimously.

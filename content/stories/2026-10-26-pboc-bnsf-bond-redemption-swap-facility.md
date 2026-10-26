@@ -1,7 +1,7 @@
 ---
 title: "China central bank sets up bond market redemption swap facility"
 date: 2026-10-26T05:41:19-04:00
-last_updated: 2026-10-26T05:41:19-04:00
+last_updated: 2026-10-26T07:07:59-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"

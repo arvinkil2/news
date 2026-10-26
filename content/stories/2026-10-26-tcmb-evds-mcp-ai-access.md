@@ -1,7 +1,7 @@
 ---
 title: "Turkey central bank opens data system to AI applications"
 date: 2026-10-26T03:20:29-04:00
-last_updated: 2026-10-26T03:21:50-04:00
+last_updated: 2026-10-26T07:07:59-04:00
 beats: ["rates"]
 regions: ["middle-east", "europe"]
 status: "developing"

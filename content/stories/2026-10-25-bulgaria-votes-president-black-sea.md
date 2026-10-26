@@ -1,11 +1,11 @@
 ---
 title: "Bulgarians vote for president amid Black Sea drone strikes"
 date: 2026-10-25T07:10:40-04:00
-last_updated: 2026-10-25T19:59:02-04:00
+last_updated: 2026-10-26T07:11:33-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Exit polls in Bulgaria put acting President Iliana Iotova first with about 35.3 percent and pro-Western former caretaker premier Andrey Gyurov second with about 32 percent, sending both to a runoff on November 1 on turnout of about 22.3 percent, the lowest ever recorded in the country."
+lede: "Bulgaria's Central Election Commission, with 99.94 percent of precinct protocols processed, put Iliana Iotova first on 34.76 percent and Andrey Gyurov second on 31.94 percent, confirming the November 1 runoff on turnout of about 22 percent, the lowest ever recorded in the country."
 why_it_matters: "The exit polls set up the November 1 runoff the campaign had expected, between Radev's Moscow friendly camp and the pro-Western opposition, but on a record low turnout that leaves whoever wins the presidency in January with a thin popular mandate."
 featured: true
 evidence_grade: "B"
@@ -26,10 +26,20 @@ sources:
     publisher: "Al Jazeera, with AFP"
     url: "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout"
     published: "2026-10-25"
+  - title: "Bulgarian Presidential Election results with 99.94% of votes counted"
+    publisher: "Bulgarian National Radio, reporting Central Election Commission"
+    url: "https://bnrnews.bg/en/post/547988/bulgarian-presidential-election-results-with-9994percent-of-votes-counted"
+    published: "2026-10-26"
+  - title: "Bulgaria heads to presidential runoff after close vote"
+    publisher: "Reuters"
+    url: "https://q106fm.com/2026/10/26/bulgaria-heads-to-presidential-runoff-after-close-vote/"
+    published: "2026-10-26"
 tags: []
-data_as_of: "Update, October 25, 2026, 19:59 ET: Al Jazeera's report of October 25, 2026, with AFP and read in full in this run, is the source for the second exit poll account (Iotova between 35 and 36.5 percent, Gyurov between 31 and 33.5 percent, ranges that contain the point figures carried below), for turnout of 22.2 percent as of the 8 p.m. close according to the Measure polling agency, for Gyurov's invitation to Iotova to debate before the runoff, and for Interior Minister Ivan Demerdzhiev's statement, reported by Bulgarian National Television, that the vote took place peacefully without the usual practices of vote buying and manipulation. The Al Jazeera report gives no official results and does not mention Kostadinov. Previous update, October 25, 2026, 14:17 ET: exit poll figures are as reported by TASS, in Russian and read in full in this run, citing exit polls by Alpha Research and Myara presented on Bulgarian National Television: Yotova about 35.3 percent, Gyurov about 32 percent, Kostadinov about 13 percent, turnout about 22.3 percent. They are exit polls, not official results, and no independent source carrying the same figures was found in this run. Original text: presidential election on Sunday, October 25, 2026. The Associated Press report of October 25, 2026 is the source for the campaign framing and the expected runoff; Central Election Commission figures for the electorate and overseas stations are as reported by Brussels Morning on October 25, 2026."
+data_as_of: "Update, October 26, 2026, 07:11 ET: Central Election Commission figures with 99.94 percent of precinct protocols processed, as published by Bulgarian National Radio on October 26, 2026, are the source for the official first round figures in the newest paragraph; Reuters reporting of October 26, 2026 (95 percent stage) corroborates the runoff pairing, the November 1 date and the record low turnout. Update, October 25, 2026, 19:59 ET: Al Jazeera's report of October 25, 2026, with AFP and read in full in this run, is the source for the second exit poll account (Iotova between 35 and 36.5 percent, Gyurov between 31 and 33.5 percent, ranges that contain the point figures carried below), for turnout of 22.2 percent as of the 8 p.m. close according to the Measure polling agency, for Gyurov's invitation to Iotova to debate before the runoff, and for Interior Minister Ivan Demerdzhiev's statement, reported by Bulgarian National Television, that the vote took place peacefully without the usual practices of vote buying and manipulation. The Al Jazeera report gives no official results and does not mention Kostadinov. Previous update, October 25, 2026, 14:17 ET: exit poll figures are as reported by TASS, in Russian and read in full in this run, citing exit polls by Alpha Research and Myara presented on Bulgarian National Television: Yotova about 35.3 percent, Gyurov about 32 percent, Kostadinov about 13 percent, turnout about 22.3 percent. They are exit polls, not official results, and no independent source carrying the same figures was found in this run. Original text: presidential election on Sunday, October 25, 2026. The Associated Press report of October 25, 2026 is the source for the campaign framing and the expected runoff; Central Election Commission figures for the electorate and overseas stations are as reported by Brussels Morning on October 25, 2026."
 update_bump: true
 ---
+
+**Latest, October 26:** The official count has replaced the exit polls. The Central Election Commission published results with 99.94 percent of precinct protocols processed, reported by Bulgarian National Radio: Iotova and her running mate Kiril Valchev took 528,753 votes, 34.76 percent; Gyurov and Georgi Kandev took 485,927 votes, 31.94 percent; Kostadin Kostadinov and Petar Volgin took 190,812 votes, 12.54 percent; and 67,323 voters, 4.42 percent, chose the option supporting no candidate. Turnout was approximately 22 percent. Reuters, reporting the count at an earlier 95 percent stage (Iotova 34.6 percent, Gyurov 32 percent), confirmed the runoff on November 1 and the record low participation. The pairing for the runoff is therefore the one the exit polls indicated, on a slightly narrower official margin.
 
 **Latest, October 25:** A second exit poll account, reported by Al Jazeera with AFP, put Iotova between 35 and 36.5 percent and Gyurov between 31 and 33.5 percent, ranges that contain the point figures in the update below, and put turnout at 22.2 percent as of the 8 p.m. close, according to the Measure polling agency. Gyurov invited Iotova to a debate before the November 1 runoff, saying Bulgaria must choose between two directions next week, and Interior Minister Ivan Demerdzhiev said the vote had taken place peacefully, without the usual practices of vote buying and manipulation, Bulgarian National Television reported.
 
