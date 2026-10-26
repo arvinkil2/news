@@ -132,6 +132,12 @@ a:hover { color: var(--accent); }
 .why { margin: 8px 0 0; font-size: 14px; color: var(--ink-soft); }
 .why span { font-weight: 700; color: var(--accent); font-size: 11px; text-transform: uppercase; letter-spacing: 0.07em; }
 .data-vintage { margin: 10px 0 0; font-size: 12.5px; color: var(--muted); font-style: italic; }
+.bw-pager { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; border-top: 1px solid var(--rule-strong); border-bottom: 1px solid var(--rule); padding: 8px 0; margin: 12px 0 6px; font-size: 13.5px; }
+.bw-pager-pos { font-weight: 700; }
+.bw-pager-links a { text-decoration: none; }
+.bw-pager-links strong { color: var(--accent); }
+.bw-pager-ends { margin-left: auto; display: flex; gap: 14px; }
+.bw-pager-ends a { text-decoration: none; font-weight: 500; }
 .updated-tag { font-weight: 700; color: var(--accent); }
 
 .river-item { padding: 16px 0; border-bottom: 1px solid var(--rule); }
