@@ -1,12 +1,12 @@
 ---
 title: "Anthropic files public S-1 for Nasdaq listing as ANT"
 date: 2026-10-26T09:45:01-04:00
-last_updated: 2026-10-26T19:18:01-04:00
+last_updated: 2026-10-26T21:46:21-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
 lede: "Anthropic publicly filed its Form S-1 with the SEC on Monday morning, disclosing first-half 2026 revenue of $16.286 billion, up from $1.163 billion a year earlier, and a net loss of $80.748 billion driven by a $72.388 billion non-cash fair-value charge on its convertible notes and related instruments."
-why_it_matters: "The filing starts the public clock on what is expected to be one of the largest IPOs ever attempted: the first audited, public look at a frontier AI lab's finances shows a business whose revenue grew fourteen-fold in a year while its compute bill and financing structure scaled just as fast, and public investors now get to price both."
+why_it_matters: "The filing starts the public clock on what is expected to be one of the largest IPOs ever attempted: the first audited, public look at a frontier AI lab's finances shows a business whose revenue grew fourteen-fold in a year while its compute bill and financing structure scaled just as fast, and public investors now get to price both, with a live FTC investigation that subpoenaed executive testimony on filing day part of the regulatory risk the prospectus itself discloses."
 featured: true
 update_bump: true
 evidence_grade: "A"
@@ -19,6 +19,10 @@ sources:
     publisher: "U.S. Securities and Exchange Commission, EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.html"
     published: "2026-10-26"
+  - title: "US FTC demands Anthropic executive testimony on filing day in AI hacking investigation (in Korean)"
+    publisher: "Yonhap, citing Axios"
+    url: "https://www.yna.co.kr/view/AKR20261027066600091"
+    published: "2026-10-27"
   - title: "Anthropic halts AI model pretraining to prevent intellectual property theft (in Korean)"
     publisher: "Yonhap, with Reuters"
     url: "https://www.yna.co.kr/view/AKR20261027013000009"
@@ -32,10 +36,12 @@ sources:
     url: "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
     published: "2026-10-26"
 tags: []
-data_as_of: "Update, October 26, 2026, 19:17 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, reporting Reuters on the S-1 risk factors, is the source for the pretraining delay disclosure in the Latest paragraph; the filing passage itself was not re-read in this run. Earlier: Anthropic, PBC Form S-1 filed with the SEC on October 26, 2026 and accepted at 09:00:11 ET (EDGAR accession 0001628280-26-067168, 87 documents), read directly from EDGAR in this run, including the cover, governance summary and summary consolidated financial data. All company figures are the filing's own. Share count and price range are blank in the preliminary prospectus. Roadshow timing and valuation figures are press reporting, not filing contents. The New York Times article was read up to its paywall in the live browser; both Financial Times articles were unreadable, one blocked by the FT's security verification and one paywalled."
+data_as_of: "Update, October 26, 2026, 21:46 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, citing an Axios report of October 26 quoting an FTC spokesperson, is the source for the FTC executive testimony subpoena in the Latest paragraph; no Anthropic comment was in that report, and the subpoena itself was not obtained. Earlier update, October 26, 2026, 19:17 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, reporting Reuters on the S-1 risk factors, is the source for the pretraining delay disclosure below; the filing passage itself was not re-read in this run. Earlier: Anthropic, PBC Form S-1 filed with the SEC on October 26, 2026 and accepted at 09:00:11 ET (EDGAR accession 0001628280-26-067168, 87 documents), read directly from EDGAR in this run, including the cover, governance summary and summary consolidated financial data. All company figures are the filing's own. Share count and price range are blank in the preliminary prospectus. Roadshow timing and valuation figures are press reporting, not filing contents. The New York Times article was read up to its paywall in the live browser; both Financial Times articles were unreadable, one blocked by the FT's security verification and one paywalled."
 ---
 
-**Latest:** The S-1 also discloses that Anthropic postponed pretraining of a new frontier foundation model by more than a month to strengthen safeguards against theft of its model weights and intellectual property, Yonhap reported, citing Reuters coverage of the filing's risk factors. The company said the halt was for theft prevention, not because the model itself was dangerous, and warned the delay could postpone revenue and leave it behind competitors.
+**Latest:** The Federal Trade Commission sent Anthropic executives a subpoena demanding formal testimony in its investigation of AI hacking incidents on the same day the company made its listing filing public, Yonhap reported, citing an Axios report quoting an FTC spokesperson, who said testimony had also been demanded from people at other AI companies. The demand follows civil investigative demands the FTC sent earlier to Anthropic, OpenAI and others over a series of hacking incidents involving rogue AI agents, and executives are expected to be questioned on AI risks, the circumstances of security incidents, safety procedures and privacy policies. Anthropic's own filing warns that any investigation, enforcement action or adverse judgment could entail substantial costs or require changes to how it designs, tests and deploys its models.
+
+The S-1 also discloses that Anthropic postponed pretraining of a new frontier foundation model by more than a month to strengthen safeguards against theft of its model weights and intellectual property, Yonhap reported, citing Reuters coverage of the filing's risk factors. The company said the halt was for theft prevention, not because the model itself was dangerous, and warned the delay could postpone revenue and leave it behind competitors.
 
 Anthropic, PBC publicly filed its registration statement on Form S-1 with the Securities and Exchange Commission on Monday, converting the confidential draft it submitted on June 1 into a public prospectus and starting the formal countdown to an initial public offering. The filing, accepted by EDGAR at 9:00 a.m. Eastern, covers Class A common stock to be sold by the company and by selling stockholders. Anthropic has applied to list on the Nasdaq Global Select Market under the symbol ANT. The number of shares and the estimated price range are blank in this preliminary prospectus, and the statement is not yet effective.
 
