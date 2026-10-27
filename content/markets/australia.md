@@ -2,13 +2,13 @@
 title: "Australia"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Australia, refreshed hourly."
-data_as_of: "Oct 27, 9:18 AM ET"
+data_as_of: "Oct 27, 10:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 9:18 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 10:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,850</td><td class="num"><span class="up">+0.46%</span></td><td class="num"><span class="up">+0.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.4 4.6,16.3 9.1,8.2 13.7,26.0 18.3,19.1 22.9,18.7 27.4,13.6 32.0,14.5 36.6,21.3 41.1,15.6 45.7,8.8 50.3,8.7 54.9,14.4 59.4,15.3 64.0,6.4 68.6,2.4 73.1,5.4 77.7,3.9 82.3,7.8 86.9,7.6 91.4,6.1 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.1700</td><td class="num"><span class="up">+0.17%</span></td><td class="num"><span class="up">+1.18%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.1 4.8,18.6 9.6,19.8 14.4,26.0 19.2,19.6 24.0,17.5 28.8,15.2 33.6,21.4 38.4,21.4 43.2,13.8 48.0,12.8 52.8,10.9 57.6,15.4 62.4,10.1 67.2,11.7 72.0,9.7 76.8,3.5 81.6,2.0 86.4,7.0 91.2,4.1 96.0,3.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.3300</td><td class="num"><span class="up">+0.55%</span></td><td class="num"><span class="up">+0.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.9 4.6,19.2 9.1,20.3 13.7,26.0 18.3,20.1 22.9,18.1 27.4,16.0 32.0,21.7 36.6,21.7 41.1,14.7 45.7,13.8 50.3,12.0 54.9,16.1 59.4,11.3 64.0,12.7 68.6,11.0 73.1,5.2 77.7,3.8 82.3,8.4 86.9,5.8 91.4,4.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>AUD/USD</td><td class="num">0.7035</td><td class="num"><span class="up">+0.07%</span></td><td class="num"><span class="up">+0.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.4 4.6,5.9 9.1,11.5 13.7,20.4 18.3,23.9 22.9,19.2 27.4,16.1 32.0,13.0 36.6,16.7 41.1,17.7 45.7,12.3 50.3,18.3 54.9,12.3 59.4,13.8 64.0,26.0 68.6,15.0 73.1,12.8 77.7,7.8 82.3,3.2 86.9,5.1 91.4,3.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>

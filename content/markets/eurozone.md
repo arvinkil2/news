@@ -2,13 +2,13 @@
 title: "Eurozone"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Eurozone, refreshed hourly."
-data_as_of: "Oct 27, 9:18 AM ET"
+data_as_of: "Oct 27, 10:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 9:18 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 10:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>EURO STOXX 50 (index)</td><td class="num">6,136</td><td class="num"><span class="up">+0.32%</span></td><td class="num"><span class="up">+0.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.6,2.0 9.1,6.9 13.7,15.8 18.3,9.8 22.9,9.4 27.4,6.6 32.0,15.3 36.6,20.4 41.1,16.0 45.7,13.3 50.3,16.6 54.9,14.4 59.4,16.5 64.0,13.0 68.6,18.7 73.1,20.9 77.7,12.7 82.3,24.2 86.9,26.0 91.4,21.4 96.0,19.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>SPDR EURO STOXX 50 (FEZ)</td><td class="num">$64.76</td><td class="num"><span class="up">+0.31%</span></td><td class="num"><span class="down">-0.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,3.7 9.6,9.1 14.4,16.7 19.2,11.0 24.0,12.6 28.8,12.3 33.6,18.4 38.4,19.8 43.2,17.7 48.0,19.7 52.8,18.6 57.6,21.0 62.4,16.9 67.2,18.1 72.0,22.6 76.8,19.6 81.6,16.4 86.4,22.9 91.2,26.0 96.0,24.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EURO STOXX 50 (index)</td><td class="num">6,127</td><td class="num"><span class="up">+0.18%</span></td><td class="num"><span class="up">+0.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.6,2.0 9.1,6.9 13.7,15.8 18.3,9.8 22.9,9.4 27.4,6.6 32.0,15.3 36.6,20.4 41.1,16.0 45.7,13.3 50.3,16.6 54.9,14.4 59.4,16.5 64.0,13.0 68.6,18.7 73.1,20.9 77.7,12.7 82.3,24.2 86.9,26.0 91.4,21.4 96.0,20.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>SPDR EURO STOXX 50 (FEZ)</td><td class="num">$64.93</td><td class="num"><span class="up">+0.27%</span></td><td class="num"><span class="down">-1.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,3.7 9.1,9.1 13.7,16.7 18.3,11.0 22.9,12.6 27.4,12.3 32.0,18.4 36.6,19.8 41.1,17.7 45.7,19.7 50.3,18.6 54.9,21.0 59.4,16.9 64.0,18.1 68.6,22.6 73.1,19.6 77.7,16.4 82.3,22.9 86.9,26.0 91.4,24.8 96.0,23.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>EUR/USD</td><td class="num">1.1151</td><td class="num"><span class="down">-0.60%</span></td><td class="num"><span class="down">-0.58%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.9 13.7,7.4 18.3,15.5 22.9,15.0 27.4,19.0 32.0,15.1 36.6,20.7 41.1,19.4 45.7,20.3 50.3,25.0 54.9,20.4 59.4,21.3 64.0,19.4 68.6,18.2 73.1,19.1 77.7,18.0 82.3,17.1 86.9,18.6 91.4,18.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>

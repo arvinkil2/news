@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed hourly."
-data_as_of: "Oct 27, 9:18 AM ET"
+data_as_of: "Oct 27, 10:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 9:18 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 10:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,665</td><td class="num"><span class="down">-0.95%</span></td><td class="num"><span class="down">-0.63%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.4 4.6,15.0 9.1,16.6 13.7,26.0 18.3,24.2 22.9,22.3 27.4,20.0 32.0,24.4 36.6,25.3 41.1,19.4 45.7,13.9 50.3,14.3 54.9,10.3 59.4,4.2 64.0,2.0 68.6,8.2 73.1,9.9 77.7,8.8 82.3,10.3 86.9,12.1 91.4,8.1 96.0,13.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.6100</td><td class="num"><span class="up">+0.19%</span></td><td class="num"><span class="up">+0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.4 4.8,15.1 9.6,18.8 14.4,26.0 19.2,22.7 24.0,22.6 28.8,20.6 33.6,25.5 38.4,22.2 43.2,18.9 48.0,16.8 52.8,15.5 57.6,14.5 62.4,4.8 67.2,2.0 72.0,9.6 76.8,4.8 81.6,5.6 86.4,3.9 91.2,7.5 96.0,6.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3326</td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="up">+0.13%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.6 4.6,19.6 9.1,22.1 13.7,18.5 18.3,26.0 22.9,20.9 27.4,23.8 32.0,18.1 36.6,24.2 41.1,22.6 45.7,21.1 50.3,24.8 54.9,19.3 59.4,22.5 64.0,17.4 68.6,10.0 73.1,13.3 77.7,5.6 82.3,2.9 86.9,2.0 91.4,5.1 96.0,11.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.1300</td><td class="num"><span class="down">-1.01%</span></td><td class="num"><span class="down">-1.32%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.4 4.6,15.1 9.1,18.8 13.7,26.0 18.3,22.7 22.9,22.6 27.4,20.6 32.0,25.5 36.6,22.2 41.1,18.9 45.7,16.8 50.3,15.5 54.9,14.5 59.4,4.8 64.0,2.0 68.6,9.6 73.1,4.8 77.7,5.6 82.3,3.9 86.9,7.5 91.4,6.5 96.0,12.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3321</td><td class="num"><span class="down">-0.42%</span></td><td class="num"><span class="up">+0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.6 4.6,19.6 9.1,22.1 13.7,18.5 18.3,26.0 22.9,20.9 27.4,23.8 32.0,18.1 36.6,24.2 41.1,22.6 45.7,21.1 50.3,24.8 54.9,19.3 59.4,22.5 64.0,17.4 68.6,10.0 73.1,13.3 77.7,5.6 82.3,2.9 86.9,2.0 91.4,5.1 96.0,11.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>

@@ -2,14 +2,14 @@
 title: "Canada"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Canada, refreshed hourly."
-data_as_of: "Oct 27, 9:18 AM ET"
+data_as_of: "Oct 27, 10:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 9:18 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 10:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P/TSX Composite (index)</td><td class="num">35,944</td><td class="num"><span class="up">+0.44%</span></td><td class="num"><span class="up">+0.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.6 5.1,18.2 10.1,22.4 15.2,23.9 20.2,17.4 25.3,17.1 30.3,14.6 35.4,26.0 40.4,24.1 45.5,14.4 50.5,8.4 55.6,15.9 60.6,5.5 65.7,4.8 70.7,9.4 75.8,6.1 80.8,2.0 85.9,8.6 90.9,12.0 96.0,9.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Canada (EWC)</td><td class="num">$60.86</td><td class="num"><span class="up">+0.28%</span></td><td class="num"><span class="up">+0.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.0 4.8,19.0 9.6,22.9 14.4,23.6 19.2,20.5 24.0,20.0 28.8,17.2 33.6,26.0 38.4,23.3 43.2,18.3 48.0,15.3 52.8,12.0 57.6,16.6 62.4,9.0 67.2,7.3 72.0,9.4 76.8,5.2 81.6,2.0 86.4,4.7 91.2,6.5 96.0,5.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/CAD</td><td class="num">1.4025</td><td class="num"><span class="down">-0.09%</span></td><td class="num"><span class="up">+0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.8 4.6,10.9 9.1,9.7 13.7,5.8 18.3,7.2 22.9,4.3 27.4,3.4 32.0,7.9 36.6,3.9 41.1,6.9 45.7,3.8 50.3,2.0 54.9,7.5 59.4,7.8 64.0,9.5 68.6,15.9 73.1,17.2 77.7,20.5 82.3,22.6 86.9,26.0 91.4,25.1 96.0,24.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P/TSX Composite (index)</td><td class="num">35,887</td><td class="num"><span class="down">-0.16%</span></td><td class="num"><span class="down">-0.61%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.6 4.8,18.2 9.6,22.4 14.4,23.9 19.2,17.4 24.0,17.1 28.8,14.6 33.6,26.0 38.4,24.1 43.2,14.4 48.0,8.4 52.8,15.9 57.6,5.5 62.4,4.8 67.2,9.4 72.0,6.1 76.8,2.0 81.6,8.6 86.4,12.0 91.2,9.1 96.0,10.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Canada (EWC)</td><td class="num">$60.67</td><td class="num"><span class="down">-0.31%</span></td><td class="num"><span class="down">-0.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.0 4.6,19.0 9.1,22.9 13.7,23.6 18.3,20.5 22.9,20.0 27.4,17.2 32.0,26.0 36.6,23.3 41.1,18.3 45.7,15.3 50.3,12.0 54.9,16.6 59.4,9.0 64.0,7.3 68.6,9.4 73.1,5.2 77.7,2.0 82.3,4.7 86.9,6.5 91.4,5.3 96.0,6.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/CAD</td><td class="num">1.4032</td><td class="num"><span class="down">-0.14%</span></td><td class="num"><span class="up">+0.52%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.8 4.6,10.9 9.1,9.7 13.7,5.8 18.3,7.2 22.9,4.3 27.4,3.4 32.0,7.9 36.6,3.9 41.1,6.9 45.7,3.8 50.3,2.0 54.9,7.5 59.4,7.8 64.0,9.5 68.6,15.9 73.1,17.2 77.7,20.5 82.3,22.6 86.9,26.0 91.4,25.1 96.0,23.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
