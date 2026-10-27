@@ -14,11 +14,11 @@ url: "/leverage/activity/7/"
 <div class="bw-sum-item"><dt>Last prints below 90</dt><dd>62</dd></div>
 </dl>
 <h2 id="all">All watched bonds, 21 Oct 2026 to 26 Oct 2026 - page 7 of 7</h2>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="act-all" data-def="[340, 92, 110, 104, 108, 118, 118, 110, 108]" data-min="[200, 68, 84, 64, 76, 84, 84, 92, 96]" data-fixed="[]" data-sort="1">
-<colgroup><col style="width:340px"><col style="width:92px"><col style="width:110px"><col style="width:104px"><col style="width:108px"><col style="width:118px"><col style="width:118px"><col style="width:110px"><col style="width:108px"></colgroup>
-<thead><tr><th>Bond</th><th>Trades (5d)</th><th>Volume ($)</th><th>Last (% of par)</th><th>Move (5d, pts)</th><th>High (5d, % of par)</th><th>Low (5d, % of par)</th><th>Last trade</th><th>CUSIP</th></tr></thead>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="act-all" data-def="[340, 104, 92, 110, 104, 108, 118, 118, 110, 108]" data-min="[200, 72, 68, 84, 64, 76, 84, 84, 92, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:340px"><col style="width:104px"><col style="width:92px"><col style="width:110px"><col style="width:104px"><col style="width:108px"><col style="width:118px"><col style="width:118px"><col style="width:110px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Issued ($M)</th><th>Trades (5d)</th><th>Volume ($)</th><th>Last (% of par)</th><th>Move (5d, pts)</th><th>High (5d, % of par)</th><th>Low (5d, % of par)</th><th>Last trade</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td><a href="/leverage/bond/u8528kaa6/">WULF COMPUTE LLC</a><span class="muted activity-sec">7.75% Notes due 2030</span></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="103.45">103.45</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-19">19 Oct 2026</td><td class="muted">U8528KAA6</td></tr>
+<tr><td><a href="/leverage/bond/u8528kaa6/">WULF COMPUTE LLC</a><span class="muted activity-sec">7.75% Notes due 2030</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="103.45">103.45</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-19">19 Oct 2026</td><td class="muted">U8528KAA6</td></tr>
 </tbody></table></div>
 <nav class="bw-pager" aria-label="All watched bonds pages"><span class="bw-pager-pos">Page 7 of 7</span><span class="bw-pager-links"><a href="/leverage/activity/">1</a> / <a href="/leverage/activity/2/">2</a> / <a href="/leverage/activity/3/">3</a> / <a href="/leverage/activity/4/">4</a> / <a href="/leverage/activity/5/">5</a> / <a href="/leverage/activity/6/">6</a> / <strong>7</strong></span><span class="bw-pager-ends"><a href="/leverage/activity/6/">Previous</a></span></nav>
 <script>
