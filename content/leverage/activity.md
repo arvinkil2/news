@@ -6,7 +6,7 @@ data_as_of: "Tape through 26 Oct 2026"
 ---
 
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 21:18 ET</dd></div>
+<div class="bw-sum-item"><dt>Updated</dt><dd>26 Oct 2026, 21:18 ET</dd></div>
 <div class="bw-sum-item"><dt>Tape through</dt><dd>26 Oct 2026</dd></div>
 <div class="bw-sum-item"><dt>Bonds traded</dt><dd>184</dd></div>
 <div class="bw-sum-item"><dt>Trades</dt><dd>2,137</dd></div>
