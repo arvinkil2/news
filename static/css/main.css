@@ -423,3 +423,19 @@ td.neg { color: #b42318; font-weight: 700; }
 .sw-a98f2d { background: #a98f2d; }
 .sw-c9c4b8 { background: #c9c4b8; }
 .sw-4a6741 { background: #4a6741; }
+
+/* ---------- global markets ---------- */
+.gm-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); border-top: 2px solid var(--rule-strong); border-bottom: 1px solid var(--rule); margin: 16px 0 6px; }
+.gm-strip-item { padding: 10px 14px 12px 0; }
+.gm-strip-item .stat-value { font-size: 24px; }
+.gm-sub { display: block; font-size: 12.5px; color: var(--muted); margin-top: 2px; font-variant-numeric: tabular-nums; }
+.gm-note { font-size: 12.5px; color: var(--muted); margin: 4px 0 22px; }
+.gm-movers { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin: 0 0 26px; }
+.gm-mover h3 { font-family: var(--sans); font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 0 0 4px; }
+.gm-mover .market-table td { padding: 6px 8px 6px 0; }
+.gm-sub-inline { color: var(--muted); font-size: 12px; }
+.gm-method { font-size: 13px; color: var(--muted); margin: 0 0 10px; }
+.gm-story { margin: 0 0 8px; font-size: 14.5px; }
+.gm-story-date { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; margin-right: 6px; }
+.blank { color: var(--muted); }
+@media (max-width: 680px) { .gm-movers { grid-template-columns: 1fr; } }
