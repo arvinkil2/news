@@ -2,13 +2,13 @@
 title: "Saudi Arabia"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed hourly."
-data_as_of: "Oct 27, 10:04 AM ET"
+data_as_of: "Oct 27, 10:37 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 10:04 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 10:37 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.6500</td><td class="num"><span class="up">+1.90%</span></td><td class="num"><span class="down">-0.39%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.0 9.1,6.6 13.7,8.2 18.3,7.4 22.9,5.2 27.4,2.4 32.0,3.6 36.6,8.3 41.1,8.6 45.7,11.5 50.3,10.5 54.9,15.3 59.4,15.2 64.0,15.6 68.6,15.3 73.1,18.0 77.7,19.7 82.3,25.9 86.9,26.0 91.4,23.7 96.0,18.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SAR</td><td class="num">3.7534</td><td class="num"><span class="down">-3.21%</span></td><td class="num"><span class="down">-2.93%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.6 4.6,23.5 9.1,23.4 13.7,23.9 18.3,24.2 22.9,25.7 27.4,25.7 32.0,25.5 36.6,24.3 41.1,24.0 45.7,23.8 50.3,23.8 54.9,23.4 59.4,25.0 64.0,24.5 68.6,24.5 73.1,22.5 77.7,21.5 82.3,26.0 86.9,24.7 91.4,24.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.6900</td><td class="num"><span class="up">+2.01%</span></td><td class="num"><span class="down">-0.27%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.0 9.1,6.6 13.7,8.2 18.3,7.4 22.9,5.2 27.4,2.4 32.0,3.6 36.6,8.3 41.1,8.6 45.7,11.5 50.3,10.5 54.9,15.3 59.4,15.2 64.0,15.6 68.6,15.3 73.1,18.0 77.7,19.7 82.3,25.9 86.9,26.0 91.4,23.7 96.0,18.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SAR</td><td class="num">3.7534</td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
@@ -20,4 +20,4 @@ data_as_of: "Oct 27, 10:04 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-saudi-helicopter-crash-najran/">Saudi reconnaissance helicopter crash in Najran kills two officers</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-egypt-sisi-seeks-mandate-defend-saudi/">Egypt&#x27;s parliament grants Sisi mandate to defend Saudi Arabia</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-syria-saudi-1-5bn-funding/">Syria agrees World Bank recovery fund alongside Saudi financing</a></p>
-<p class="data-vintage">Sources: Yahoo Finance and Stooq. A missing row means no reliable free ticker exists for that instrument.</p>
+<p class="data-vintage">Sources: Yahoo Finance, FRED and Stooq. A missing row means no reliable free ticker exists for that instrument.</p>
