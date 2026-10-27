@@ -1,7 +1,7 @@
 ---
 title: "China industrial profits jump 14.4 percent in September"
 date: 2026-10-26T22:22:36-04:00
-last_updated: 2026-10-26T22:22:36-04:00
+last_updated: 2026-10-26T22:23:57-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -24,7 +24,7 @@ sources:
     url: "https://www.tradingview.com/news/te_news:595210:0-china-industrial-profits-grow-15-5-yoy-in-jan-sept/"
     published: "2026-10-27"
 tags: []
-data_as_of: "National Bureau of Statistics release for September 2026, published Tuesday, October 27, 2026, Beijing time, as reported the same morning by CNBC, Reuters and investingLive with consistent figures, read in this run. The bureau's own release page was not obtained directly in this run; the figures are the bureau's as carried by three outlets. Developing item."
+data_as_of: "National Bureau of Statistics release for September 2026, published Tuesday, October 27, 2026, Beijing time. Reuters and investingLive reports of the release were read in full in this run and CNBC reported the same headline figures; the bureau's own release page was not obtained directly in this run. Developing item."
 update_bump: true
 ---
 
