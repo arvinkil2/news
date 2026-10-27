@@ -1,8 +1,8 @@
 ---
 title: "Vantage"
-date: "2026-10-26"
+date: "2026-10-27"
 lede: "Project issuer, 13 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
-data_as_of: "2026-10-26"
+data_as_of: "2026-10-27"
 ---
 
 
