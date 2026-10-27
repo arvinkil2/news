@@ -1,7 +1,7 @@
 ---
 title: "Brent touches five-month high as Aramco evacuates Dhahran"
 date: 2026-10-23T07:12:03-04:00
-last_updated: 2026-10-26T07:08:26-04:00
+last_updated: 2026-10-27T07:11:53-04:00
 beats: ["commodities"]
 regions: ["global", "middle-east", "north-america"]
 status: "story"
@@ -59,6 +59,14 @@ sources:
     publisher: "Reuters"
     url: "https://q1019fm.com/2026/10/25/asian-shares-make-cautious-start-brent-eases-from-six-month-high/"
     published: "2026-10-26"
+  - title: "Oil slips 1% as Iran diplomacy eases supply fears"
+    publisher: "Reuters"
+    url: "https://q1019fm.com/2026/10/26/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/"
+    published: "2026-10-27"
+  - title: "Yahoo Finance market data"
+    publisher: "Yahoo Finance"
+    url: "https://finance.yahoo.com"
+    published: "2026-10-27"
 tags: []
 data_as_of: "Intraday prices Friday, October 23, 2026: Reuters at 0810 GMT, Brent 113.96 dollars after touching 114.72 dollars; Anadolu at 0630 GMT, Brent 114.47 dollars, and at 1350 GMT, Brent 116.20 dollars; TASS, in Russian, reporting London ICE trading data at 18:37 to 18:44 Moscow time, December Brent 117.09 to 117.37 dollars. AFP report of October 23, 2026, via Arab News, read in full, for Tom Barrack's podcast remarks on a possible weekend strike. Site market tables updated October 23 at 06:00 ET show an earlier snapshot, Brent 109.71 dollars, down 3.06 percent, and WTI 101.16 dollars, up 1.70 percent; the tables and the wire snapshots are different points in a volatile session, not a contradiction to average away. Updated October 23 with a Reuters report of October 23, 2026, read in full via SRN News, on President Trump's Fort Myers rally remarks, and an Anadolu Agency report of October 23, 2026, in Turkish, read in full, relaying an IRGC Navy statement on two tankers and naval mines south of Hormuz; the mine claim is Iran's account, names no vessel, dates the strikes only to recent days, resembles a Guard claim reported on October 18 and October 20, and had no independent confirmation as of writing."
 ---
@@ -84,3 +92,5 @@ A second supply loss landed the same day. In Libya, an oil pipeline valve from t
 The weekly picture is split by benchmark. Brent is on track for a third consecutive weekly gain, of almost 4 percent, while WTI is poised to finish about 0.8 percent down on the week, Reuters reported, a divergence that reflects where the disruption sits: seaborne crude priced off Brent carries the Gulf risk directly, while US inland crude is cushioned by domestic supply and capped by the prospect of Russian diesel and crude arrangements reaching the US market. Tanker freight rose 11.99 percent in the latest market tables, which corroborates tight shipping even as dry bulk freight fell 4.16 percent.
 
 Update, October 25: The site market tables updated October 25 at 06:10 ET put Brent crude at 111.7 dollars a barrel, down 1.3 percent, against Friday's settlement of 116.72 dollars, the highest since April 29. No new supply headline in the weekend pool explains the pullback, and the tables are the latest snapshot available at the time of writing rather than a settlement.
+
+Update, October 27: Oil eased for a second session on Tuesday as talks in Tehran raised hopes of de-escalation, while renewed Houthi attacks on Saudi Arabia kept supply risk in the price. Brent futures were down 1 dollar, or 0.86 percent, at 114.81 dollars a barrel by 0418 GMT, and WTI was down 88 cents, or 0.86 percent, at 100.88 dollars, Reuters reported. Saudi Arabia, Turkey and Pakistan held talks with Iranian officials in Tehran on Monday and agreed to continue talks, Iranian state media said. The site market tables updated October 27 at 06:00 ET carry a lower snapshot, Brent at 110.93 dollars, down 4.21 percent, and WTI at 101.88 dollars, up 0.12 percent. The tables and the Reuters session reporting are different datasets at different points in a volatile session and are not averaged here. October has been the worst month for attacks on commercial shipping in the Strait of Hormuz and nearby waterways in the Washington Institute data cited by Reuters, which is why the pullback from last week's high above 117 dollars remains a diplomacy move, not a supply normalisation.

@@ -1,7 +1,7 @@
 ---
 title: "European gas hits four year high as winter nears"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-26T07:08:26-04:00
+last_updated: 2026-10-27T07:11:53-04:00
 beats: ["commodities"]
 regions: ["europe", "middle-east"]
 status: "story"
@@ -18,6 +18,14 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east"
     published: "2026-10-26"
+  - title: "European natural gas futures surge to 97 euros, highest in four years"
+    publisher: "JKN"
+    url: "https://news.jkn.co.kr/editions/english/post/1051147"
+    published: "2026-10-27"
+  - title: "European Gas at Four-Year High on Winter Supply Fears, Commodities Roundup"
+    publisher: "Dow Jones Newswires, via Morningstar"
+    url: "https://www.morningstar.com/news/dow-jones/202610265979/european-gas-at-four-year-high-on-winter-supply-fears-commodities-roundup"
+    published: "2026-10-26"
 tags: []
 data_as_of: "TTF trading on Monday, October 26, 2026: the 95.73 euros per megawatt hour level and the 2.1 percent rise are OilPrice early Amsterdam reporting, opened and verified in full during the morning verification pass; the Guardian reported the same morning that European gas had hit a four year high. Storage figure is Gas Infrastructure Europe data as of October 25, 2026, reported by OilPrice. Levels are intraday session readings, not a settlement."
 ---
@@ -29,3 +37,5 @@ The driver is storage, not a single new outage. Gas Infrastructure Europe data p
 Supply from the Persian Gulf remains the missing piece. Qatari LNG cargoes, a core source for both Europe and Asia before the war with Iran, have slowed to a trickle over the past seven months as traffic through the Strait of Hormuz has been disrupted, leaving the two regions competing for alternative spot cargoes. OilPrice noted that liquefied natural gas flows have not recovered in any meaningful way even where oil exports from the Middle East have partly resumed.
 
 The risk now compounds with the calendar. The withdrawal season has started with the buffer already thin, so every cold week draws directly on a stockpile that is about 100 terawatt hours light, and every day without Hormuz transits removes the cargoes that would normally rebuild it. Prices remain far below the peaks of the 2022 crisis, but the direction into winter is set by the same combination that drove that crisis: low storage, colder weather and a contested supply route.
+
+Update, October 27: Dutch TTF rose again on Tuesday, reaching 97.64 euros per megawatt hour intraday, up about 4 percent from the previous session and the highest since late 2022, with European gas up about 30 percent this month. Reporting on the session put EU storage at about 75 percent, described as the lowest seasonal level since 2009, with Norwegian production disruptions persisting, October LNG imports below their usual level, and colder temperatures lifting heating demand. A later snapshot put TTF back near 96.26 euros. The new high extends, rather than changes, Monday's story: the buffer is thin, the Gulf supply route is still contested, and analysts cited in the reporting put 100 euros in reach if the Middle East situation does not improve.

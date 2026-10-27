@@ -1,13 +1,13 @@
 ---
 title: "Justice Department sues to block Alaska Senate certification"
 date: 2026-10-23T12:18:52-04:00
-last_updated: 2026-10-26T07:11:33-04:00
+last_updated: 2026-10-27T07:12:59-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Attorney General Todd Blanche defended the Alaska certification suit across the Sunday television shows, calling it guardrails against voter confusion between Senator Dan Sullivan and a second candidate named Daniel J. Sullivan, and denying it lays groundwork to overturn a result."
-why_it_matters: "The intervention turns a department-versus-state filing into a contested case nine days before the vote, with the Peltola campaign's backers also seeking to intervene and the department now publicly narrowing what it says the suit does, ahead of ranked choice tabulation on November 18 and certification after it."
+lede: "Mary Peltola's campaign has asked a federal judge to dismiss the Justice Department's Alaska certification suit as wholly baseless, and Judge Sharon Gleason agreed on Monday to fast-track the case, with the campaign asking for a ruling this week."
+why_it_matters: "The case now has a timetable that could produce a ruling before the November 3 vote, which decides whether the department's pre-emptive certification challenge survives first contact with a court or is thrown out before a single ballot is counted."
 featured: false
 evidence_grade: "B"
 sources:
@@ -47,10 +47,16 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html"
     published: "2026-10-24"
+  - title: "Alaska Democratic Senate candidate Peltola asks judge to toss US lawsuit over certification"
+    publisher: "Reuters"
+    url: "https://duke.fm/2026/10/26/alaska-democratic-senate-candidate-peltola-asks-judge-to-toss-us-lawsuit-over-certification/"
+    published: "2026-10-26"
 tags: []
-data_as_of: "Update, October 26, 2026, 07:11 ET: Blanche's Sunday remarks are as reported by NPR on October 25, 2026 and by CNBC on October 25, 2026, both covering his CNN and CBS appearances; the Peltola car crash item is The Guardian's report of October 25, 2026. Updated 2026-10-25, 2026: motions to intervene filed Friday, October 23, 2026, in United States v. Alaska, US District Court for the District of Alaska, per the ACLU case page, the Common Cause release of October 23, 2026 and The Hill report of October 25, 2026; Deputy Attorney General Blanche remarks as reported by The Hill on October 24, 2026. Election Day is November 3, 2026; Alaska plans its initial ranked choice tabulation on November 18, 2026. Developing item."
+data_as_of: "Update, October 27, 2026: the dismissal filing, the campaign's wording and Judge Gleason's fast-track decision are as reported by Reuters on October 26, 2026; the court filing itself was not read in this run. Update, October 26, 2026, 07:11 ET: Blanche's Sunday remarks are as reported by NPR on October 25, 2026 and by CNBC on October 25, 2026, both covering his CNN and CBS appearances; the Peltola car crash item is The Guardian's report of October 25, 2026. Updated 2026-10-25, 2026: motions to intervene filed Friday, October 23, 2026, in United States v. Alaska, US District Court for the District of Alaska, per the ACLU case page, the Common Cause release of October 23, 2026 and The Hill report of October 25, 2026; Deputy Attorney General Blanche remarks as reported by The Hill on October 24, 2026. Election Day is November 3, 2026; Alaska plans its initial ranked choice tabulation on November 18, 2026. Developing item."
 update_bump: true
 ---
+
+**Latest, October 26:** Mary Peltola's campaign moved from intervening to asking for the case to be thrown out. In a court filing late on Sunday, lawyers for Peltola's campaign and the Democratic Senatorial Campaign Committee said the lawsuit, which alleges voters could be confused because two candidates on the ballot have almost identical names, is an unlawful attempt by the federal government to intervene in election administration, a responsibility the Constitution assigns to the states, Reuters reported. "DOJ's complaint is wholly baseless. The fact that DOJ nonetheless chose to file it raises profound constitutional concerns," the lawyers wrote. US District Judge Sharon Gleason on Monday agreed to fast-track the case but did not say when she would rule on the Justice Department's request; Peltola's campaign has asked for a ruling this week. Reuters noted that election law experts have said the lawsuit has no merit and seeks relief not allowed under federal law.
 
 **Latest, October 25:** The case now has would-be defendants on both tracks. The ACLU and the ACLU of Alaska moved on Friday to intervene for two Alaska voters, the League of Women Voters of Alaska and Common Cause, filing a proposed motion to dismiss and, on one account of the filing, asking the court to consider sanctions against the department's lawyers. Common Cause called the suit an attempt to lay the groundwork to reject election results, and the ACLU calls it frivolous and lawless, resting on a single claim built on the National Voter Registration Act's purpose language. Separately, Alaskans for Mary and the Democratic Senatorial Campaign Committee also moved to intervene, calling the suit an unprecedented pre-emptive strike brought on the president's personal orders. Deputy Attorney General Todd Blanche, asked about the case, said the lawsuit is not trying to stop the certification of Alaska's election, a narrower public description than the complaint's request to block certification of any result that may be impacted by voter confusion pending an investigation.
 

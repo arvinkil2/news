@@ -1,7 +1,7 @@
 ---
 title: "Copper eases in London as warehouse stocks build"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-26T07:08:26-04:00
+last_updated: 2026-10-27T07:13:30-04:00
 beats: ["commodities"]
 regions: ["global", "asia-pacific"]
 status: "story"
@@ -18,8 +18,16 @@ sources:
     publisher: "Reuters, via Mining.com Australia"
     url: "https://mining.com.au/copper-priceeases-as-lme-stocks-rise/"
     published: "2026-10-26"
+  - title: "Typhoon delays import arrivals, inventory drawdown supports high premiums, SMM Copper Morning Meeting Summary"
+    publisher: "Shanghai Metals Market"
+    url: "https://news.metal.com/newscontent/104179543-typhoon-delays-import-arrivals-inventory-drawdown-supports-high-premiums-smm-copper-morning-meeting-summary"
+    published: "2026-10-27"
+  - title: "Copper nudges up on support from stockmarket rally and China demand"
+    publisher: "Reuters, via TradingView"
+    url: "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D09Q:0-copper-nudges-up-on-support-from-stockmarket-rally-and-china-demand/"
+    published: "2026-10-27"
 tags: []
-data_as_of: "London and Shanghai trading on Monday, October 26, 2026: Bloomberg and Reuters are two independent wires reporting the same session and agree on the level near 14,245 dollars a tonne. Yangshan premium record descriptions differ by dataset, Bloomberg data back to 2017 against the Reuters dollar level, so the story carries the 168 dollar level and attributes the record description to Bloomberg."
+data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. London and Shanghai trading on Monday, October 26, 2026: Bloomberg and Reuters are two independent wires reporting the same session and agree on the level near 14,245 dollars a tonne. Yangshan premium record descriptions differ by dataset, Bloomberg data back to 2017 against the Reuters dollar level, so the story carries the 168 dollar level and attributes the record description to Bloomberg."
 ---
 
 Copper eased in London on Monday for a second weekly decline. Benchmark three month copper on the London Metal Exchange fell 0.5 percent to 14,247.50 dollars a tonne in Shanghai hours, Bloomberg reported, while Reuters put the contract down 0.56 percent at 14,242.50 dollars a tonne by 0300 GMT. The most traded contract on the Shanghai Futures Exchange rose 0.55 percent, tracking Friday's overnight gains in London, which left the two benchmarks pointing in opposite directions on the day.
@@ -29,3 +37,7 @@ The London softness is a stock story. Copper stocks in LME warehouses surged las
 China is the counterweight. Chinese smelters are in maintenance and stocks in Shanghai monitored warehouses fell more than a quarter last week to 54,356 tonnes, Reuters reported, while the Yangshan premium, the gauge of demand for imported copper, stood at 168 dollars a tonne on Friday. Bloomberg reported the premium extending gains to its highest in its data going back to 2017, and Minmetals Futures head of base metals research Wu Kunjin warned that doubts about the United States tariff and weakening Chinese consumption into winter could ease the tightness from here.
 
 Other metals were flat to lower in London, with aluminium down about 0.4 percent and nickel down between 0.9 and 1.19 percent across the two reports. The site market tables put United States copper at 6.56 dollars a pound, up 1.24 percent, a different contract and snapshot from the London session, so the day's honest read is divergence: London easing on visible stocks, Chinese import demand still paying a high premium, and the tariff draw the hinge between them.
+
+Update, October 27: Copper turned up on Tuesday. LME copper closed at 14,338 dollars a tonne, up 0.28 percent, with open interest at 262,000 lots, up 641 lots, and the most traded SHFE contract closed at 108,570 yuan a tonne, up 0.43 percent, Shanghai Metals Market reported. Reuters put benchmark three month copper up 0.22 percent at 14,359.50 dollars a tonne by 0301 GMT, supported by a stock market rally and demand strength in China, while Dow Jones market talk cited tight mine supply and declining Chinese inventories against rising LME stocks and rate expectations. SMM reported that typhoon delayed import arrivals and an inventory drawdown were supporting high premiums. The site market tables put United States copper at 6.61 dollars a pound, up 1.55 percent. Monday's divergence remains the story, with the direction now up on both sides of the Pacific.
+
+Update, October 27: The site market tables updated October 27 at 06:00 ET put United States copper at 6.61 dollars a pound, up 1.55 percent on the day and 0.65 percent on the week, a firmer snapshot than Monday's easing London session. The divergence the story describes remains the market's structure: visible LME stocks building in the West, a high Yangshan import premium in China, and the United States tariff decision still the hinge between the two.

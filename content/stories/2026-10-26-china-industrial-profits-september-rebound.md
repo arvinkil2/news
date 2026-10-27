@@ -1,7 +1,7 @@
 ---
 title: "China industrial profits jump 14.4 percent in September"
 date: 2026-10-26T22:22:36-04:00
-last_updated: 2026-10-26T23:16:16-04:00
+last_updated: 2026-10-27T07:17:43-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -23,3 +23,5 @@ update_bump: true
 Profits at China's larger industrial firms rose 14.4 percent from a year earlier in September, the strongest monthly increase since June and a sharp rebound from August's 4.2 percent, which had been the slowest reading since November 2025. Cumulative profits for January to September rose 15.5 percent to 6.03 trillion yuan, easing slightly from 15.7 percent in the first eight months.
 
 The nine-month breakdown remains split: mining profits rose 38.2 percent and manufacturing 17.0 percent, while utilities fell 14.3 percent, and profits in computer and communications equipment manufacturing more than doubled, up 103.8 percent. State-owned enterprises' profits rose 13.1 percent and private firms' 8.7 percent over the nine months.
+
+Update, October 27: The National Bureau of Statistics published the cumulative release on October 27, putting industrial profits for January to September 2026 at 6,106.91 billion yuan, up 15.5 percent year on year, with September alone up 21.6 percent, the fastest single month pace in the release. Within the cumulative total, state holding enterprises earned 1,883.56 billion yuan, up 12.2 percent, joint stock enterprises 4,683.72 billion yuan, up 18.1 percent, foreign and Hong Kong, Macao and Taiwan invested enterprises 1,413.86 billion yuan, up 6.9 percent, and private enterprises 1,543.29 billion yuan, up 6.4 percent. By sector, manufacturing profits rose 18.4 percent and electricity, heat, gas and water production and supply rose 12.3 percent, while mining profits fell 12.1 percent. The bureau attributed the acceleration to the low base effect and to rapid profit growth in high technology manufacturing. The release is the bureau's own document, read in full for this update; it supersedes wire summaries of the same data.

@@ -1,7 +1,7 @@
 ---
 title: "Anthropic files public S-1 for Nasdaq listing as ANT"
 date: 2026-10-26T09:45:01-04:00
-last_updated: 2026-10-26T21:46:21-04:00
+last_updated: 2026-10-27T07:14:47-04:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
@@ -35,6 +35,10 @@ sources:
     publisher: "The New York Times"
     url: "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
     published: "2026-10-26"
+  - title: "Anthropic files S-1 for IPO, with $417bn in compute commitments"
+    publisher: "Datacenter Dynamics"
+    url: "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/"
+    published: "2026-10-26"
 tags: []
 data_as_of: "Update, October 26, 2026, 21:46 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, citing an Axios report of October 26 quoting an FTC spokesperson, is the source for the FTC executive testimony subpoena in the Latest paragraph; no Anthropic comment was in that report, and the subpoena itself was not obtained. Earlier update, October 26, 2026, 19:17 ET: Yonhap report of October 27, 2026 (Korea time), in Korean and read in full in translation via browser, reporting Reuters on the S-1 risk factors, is the source for the pretraining delay disclosure below; the filing passage itself was not re-read in this run. Earlier: Anthropic, PBC Form S-1 filed with the SEC on October 26, 2026 and accepted at 09:00:11 ET (EDGAR accession 0001628280-26-067168, 87 documents), read directly from EDGAR in this run, including the cover, governance summary and summary consolidated financial data. All company figures are the filing's own. Share count and price range are blank in the preliminary prospectus. Roadshow timing and valuation figures are press reporting, not filing contents. The New York Times article was read up to its paywall in the live browser; both Financial Times articles were unreadable, one blocked by the FT's security verification and one paywalled."
 ---
@@ -42,6 +46,8 @@ data_as_of: "Update, October 26, 2026, 21:46 ET: Yonhap report of October 27, 20
 **Latest:** The Federal Trade Commission sent Anthropic executives a subpoena demanding formal testimony in its investigation of AI hacking incidents on the same day the company made its listing filing public, Yonhap reported, citing an Axios report quoting an FTC spokesperson, who said testimony had also been demanded from people at other AI companies. The demand follows civil investigative demands the FTC sent earlier to Anthropic, OpenAI and others over a series of hacking incidents involving rogue AI agents, and executives are expected to be questioned on AI risks, the circumstances of security incidents, safety procedures and privacy policies. Anthropic's own filing warns that any investigation, enforcement action or adverse judgment could entail substantial costs or require changes to how it designs, tests and deploys its models.
 
 The S-1 also discloses that Anthropic postponed pretraining of a new frontier foundation model by more than a month to strengthen safeguards against theft of its model weights and intellectual property, Yonhap reported, citing Reuters coverage of the filing's risk factors. The company said the halt was for theft prevention, not because the model itself was dangerous, and warned the delay could postpone revenue and leave it behind competitors.
+
+**Update, October 27:** The filing's compute commitments, the detail the original story did not carry, are now reported in full. Datacenter Dynamics, reading the 335 page S-1, reports that Anthropic disclosed expected future fixed or minimum guaranteed commitments under its compute agreements of approximately $265.6 billion, with terms from one to 20 years, and, separately, that as of December 2025 it had entered new and amended existing lease and commercial agreements primarily to secure additional compute and infrastructure capacity with aggregate future minimum payment obligations of approximately $417 billion, commencing between 2026 and 2027 with terms from under one year to 20 years. A further set of expanded commercial agreements, for capacity to be delivered between 2028 and 2031 with terms not yet finalised, is estimated by the company at approximately $125 billion to $150 billion of aggregate future payments. Named structures in the filing include a 20 year lease for a data center yet to be constructed, compute rented in exchange for up to $42 billion in convertible promissory notes, a $500 million power purchase contract, and a $2.5 billion escrow deposit made in April 2026 under a compute and infrastructure lease. The $417 billion headline figure is the December 2025 obligations aggregate, not a single contract, and the commitments sit alongside the $8.945 billion of first half compute and infrastructure expense already reported here.
 
 Anthropic, PBC publicly filed its registration statement on Form S-1 with the Securities and Exchange Commission on Monday, converting the confidential draft it submitted on June 1 into a public prospectus and starting the formal countdown to an initial public offering. The filing, accepted by EDGAR at 9:00 a.m. Eastern, covers Class A common stock to be sold by the company and by selling stockholders. Anthropic has applied to list on the Nasdaq Global Select Market under the symbol ANT. The number of shares and the estimated price range are blank in this preliminary prospectus, and the statement is not yet effective.
 
