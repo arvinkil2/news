@@ -1,6 +1,6 @@
 ---
 title: "COREWEAVE COMPUTE ACQUISITION CO II LLC 948GKAII8"
-date: "2026-10-26"
+date: "2026-10-27"
 lede: "Trades, fund marks, terms and call schedule for 948GKAII8."
 data_as_of: "Trades to 26 Oct 2026; fund marks to 31 Mar 2026"
 ---
