@@ -316,16 +316,35 @@ def main():
         results = list(pool.map(lambda j: (j, _run(j[3])), jobs))
     # Serial retry pass for whatever the parallel phase missed:
     # Stooq rate-limits under parallel load, and the Yahoo mirror
-    # drops symbols in waves that pass within minutes.
+    # drops symbols in waves that pass within minutes. Short-circuit
+    # a source family after 4 consecutive network failures so a dead
+    # host cannot stretch the pass past the hourly cadence.
     import time
     final = []
+    net_fails = {"yahoo": 0, "stooq": 0}
+    no_retry = bool(os.environ.get("GM_NO_RETRY"))
     for job, res in results:
         if res[0]:
             final.append((job, res))
             continue
+        if no_retry:
+            final.append((job, res))
+            continue
+        label = job[2]
+        fam = "stooq" if "(10" in label or "(2u" in label or "(30" in label \
+            else "yahoo"
+        if net_fails[fam] >= 4:
+            final.append((job, res))
+            continue
         time.sleep(1)
         retry = _run(job[3])
-        final.append((job, retry if retry[0] else res))
+        if retry[0]:
+            net_fails[fam] = 0
+            final.append((job, retry))
+        else:
+            if "rows" not in str(retry[1]) and "404" not in str(retry[1]):
+                net_fails[fam] += 1
+            final.append((job, res))
     for (ci, field, label, _), (ok, val) in final:
         if not ok:
             errors.append(f"{label}: {val}")
@@ -349,8 +368,12 @@ def main():
         for e in errors:
             print("FAIL", e, file=sys.stderr)
         sys.exit(2)
-    with open(OUT, "w") as f:
+    tmp = OUT + ".tmp"
+    with open(tmp, "w") as f:
         json.dump(out, f, indent=1)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, OUT)
     print(f"wrote {OUT}: {succeeded}/{attempted} instruments, "
           f"{len(errors)} errors")
     for e in errors:
