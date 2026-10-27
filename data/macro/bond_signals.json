@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-27T14:54:17-04:00",
+ "as_of": "2026-10-27T15:35:42-04:00",
  "signals": [
   {
    "cusip": "038169AB4",
@@ -17,6 +17,23 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "038169AB4-flag-2026-10-27"
+  },
+  {
+   "cusip": "88080TAC8",
+   "issuer": "TERAWULF INC",
+   "security": "1% Notes due 2031",
+   "price": 125.03,
+   "prev_price": 114.917,
+   "trade_date": "2026-10-27",
+   "trade_time": "15:14:06",
+   "mark": 213.8395,
+   "mark_period": "2026-06-30",
+   "gap": -88.81,
+   "trades_stored": 1516,
+   "fired_at": "2026-10-27T15:35:42-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "88080TAC8-flag-2026-10-27"
   }
  ]
 }

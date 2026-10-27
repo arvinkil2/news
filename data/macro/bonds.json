@@ -2632,7 +2632,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.51
   },
   {
    "cusip": "68389XAH8",
@@ -2657,7 +2661,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.17
   },
   {
    "cusip": "68389XAL9",
@@ -2699,7 +2707,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.45
   },
   {
    "cusip": "68389XAV7",
@@ -2725,7 +2737,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.3
   },
   {
    "cusip": "68389XAW5",
@@ -2751,7 +2767,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.5
   },
   {
    "cusip": "68389XBD6",
@@ -2777,7 +2797,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.35
   },
   {
    "cusip": "68389XBE4",
@@ -2803,7 +2827,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.0
   },
   {
    "cusip": "68389XBF1",
@@ -2829,7 +2857,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.2
   },
   {
    "cusip": "68389XBG9",
@@ -2855,7 +2887,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.44
   },
   {
    "cusip": "68389XBH7",
@@ -2881,7 +2917,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.89
   },
   {
    "cusip": "68389XBJ3",
@@ -2907,7 +2947,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.03
   },
   {
    "cusip": "68389XBN4",
@@ -2933,7 +2977,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.29
   },
   {
    "cusip": "68389XBP9",
@@ -2959,7 +3007,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.86
   },
   {
    "cusip": "68389XBQ7",
@@ -2985,7 +3037,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.05
   },
   {
    "cusip": "68389XBU8",
@@ -3011,7 +3067,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 2.87
   },
   {
    "cusip": "68389XBV6",
@@ -3037,7 +3097,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.0
   },
   {
    "cusip": "68389XBW4",
@@ -3063,7 +3127,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.64
   },
   {
    "cusip": "68389XBX2",
@@ -3089,7 +3157,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 4500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.64
   },
   {
    "cusip": "68389XBY0",
@@ -3115,7 +3187,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.89
   },
   {
    "cusip": "68389XBZ7",
@@ -3141,7 +3217,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.72
   },
   {
    "cusip": "68389XCA1",
@@ -3167,7 +3247,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 3.98
   },
   {
    "cusip": "68389XCB9",
@@ -3193,7 +3277,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.13
   },
   {
    "cusip": "68389XCD5",
@@ -3219,7 +3307,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 2.36
   },
   {
    "cusip": "68389XCE3",
@@ -3245,7 +3337,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 2.92
   },
   {
    "cusip": "68389XCH6",
@@ -3271,7 +3367,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.21
   },
   {
    "cusip": "68389XCJ2",
@@ -3297,7 +3397,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.32
   },
   {
    "cusip": "68389XCK9",
@@ -3323,7 +3427,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.94
   },
   {
    "cusip": "68389XCM5",
@@ -3349,7 +3457,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.6
   },
   {
    "cusip": "68389XCN3",
@@ -3375,7 +3487,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.75
   },
   {
    "cusip": "68389XCP8",
@@ -3401,7 +3517,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.95
   },
   {
    "cusip": "68389XCQ6",
@@ -3427,7 +3547,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.62
   },
   {
    "cusip": "68389XCS2",
@@ -3453,7 +3577,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.27
   },
   {
    "cusip": "68389XCT0",
@@ -3479,7 +3607,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.77
   },
   {
    "cusip": "68389XCU7",
@@ -3505,7 +3637,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.43
   },
   {
    "cusip": "68389XCV5",
@@ -3531,7 +3667,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.55
   },
   {
    "cusip": "68389XCX1",
@@ -3582,7 +3722,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.94
   },
   {
    "cusip": "68389XCZ6",
@@ -3608,7 +3752,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.36
   },
   {
    "cusip": "68389XDA0",
@@ -3634,7 +3782,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.55
   },
   {
    "cusip": "68389XDB8",
@@ -3660,7 +3812,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.04
   },
   {
    "cusip": "68389XDC6",
@@ -3686,7 +3842,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.17
   },
   {
    "cusip": "68389XDH5",
@@ -3712,7 +3872,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.55
   },
   {
    "cusip": "68389XDK8",
@@ -3738,7 +3902,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.87
   },
   {
    "cusip": "68389XDM4",
@@ -3764,7 +3932,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 4000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.25
   },
   {
    "cusip": "68389XDP7",
@@ -3790,7 +3962,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.91
   },
   {
    "cusip": "68389XDR3",
@@ -3816,7 +3992,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.05
   },
   {
    "cusip": "68389XDT9",
@@ -3842,7 +4022,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.17
   },
   {
    "cusip": "68389XDV4",
@@ -3893,7 +4077,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 4.74
   },
   {
    "cusip": "68389XDX0",
@@ -3919,7 +4107,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.08
   },
   {
    "cusip": "68389XDY8",
@@ -3945,7 +4137,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.42
   },
   {
    "cusip": "68389XDZ5",
@@ -3971,7 +4167,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 5000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.78
   },
   {
    "cusip": "68389XEA9",
@@ -3997,7 +4197,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.59
   },
   {
    "cusip": "68389XEB7",
@@ -4023,7 +4227,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 5000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.74
   },
   {
    "cusip": "68389XEC5",
@@ -4049,7 +4257,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 6.89
   },
   {
    "cusip": "U68308AB8",
@@ -4072,7 +4284,11 @@
    "moodys_rating_date": "2018-04-03",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001193125-26-277521 (period ended 2026-05-31)",
+   "effective_rate_pct": 5.45
   },
   {
    "cusip": "30303M8B1",
@@ -6721,7 +6937,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 2.93
   },
   {
    "cusip": "67066GAG9",
@@ -6747,7 +6967,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 3.54
   },
   {
    "cusip": "67066GAH7",
@@ -6773,7 +6997,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 3.54
   },
   {
    "cusip": "67066GAJ3",
@@ -6799,7 +7027,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 3.73
   },
   {
    "cusip": "67066GAM6",
@@ -6825,7 +7057,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 1.64
   },
   {
    "cusip": "67066GAN4",
@@ -6851,7 +7087,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001045810-26-000021 (period ended 2026-01-25)",
+   "effective_rate_pct": 2.09
   },
   {
    "cusip": "67066GAP9",
@@ -8189,7 +8429,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1655000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.95
   },
   {
    "cusip": "11135FAH4",
@@ -8215,7 +8459,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 606000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.18
   },
   {
    "cusip": "11135FAK7",
@@ -8241,7 +8489,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1118000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.02
   },
   {
    "cusip": "11135FAL5",
@@ -8267,7 +8519,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1118000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.02
   },
   {
    "cusip": "11135FAP6",
@@ -8293,7 +8549,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1856000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.27
   },
   {
    "cusip": "11135FAQ4",
@@ -8319,7 +8579,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1856000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.27
   },
   {
    "cusip": "11135FAR2",
@@ -8345,7 +8609,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.39
   },
   {
    "cusip": "11135FAS0",
@@ -8371,7 +8639,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.39
   },
   {
    "cusip": "11135FBA8",
@@ -8397,7 +8669,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1655000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.95
   },
   {
    "cusip": "11135FBD2",
@@ -8423,7 +8699,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 606000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.18
   },
   {
    "cusip": "11135FBE0",
@@ -8449,7 +8729,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.1
   },
   {
    "cusip": "11135FBF7",
@@ -8475,7 +8759,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.7
   },
   {
    "cusip": "11135FBG5",
@@ -8501,7 +8789,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.84
   },
   {
    "cusip": "11135FBH3",
@@ -8527,7 +8819,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.56
   },
   {
    "cusip": "11135FBJ9",
@@ -8553,7 +8849,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.6
   },
   {
    "cusip": "11135FBK6",
@@ -8579,7 +8879,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.66
   },
   {
    "cusip": "11135FBL4",
@@ -8605,7 +8909,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.63
   },
   {
    "cusip": "11135FBM2",
@@ -8631,7 +8939,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.23
   },
   {
    "cusip": "11135FBN0",
@@ -8657,7 +8969,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.79
   },
   {
    "cusip": "11135FBP5",
@@ -8683,7 +8999,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.23
   },
   {
    "cusip": "11135FBQ3",
@@ -8709,7 +9029,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.79
   },
   {
    "cusip": "11135FBR1",
@@ -8735,7 +9059,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.17
   },
   {
    "cusip": "11135FBS9",
@@ -8761,7 +9089,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.17
   },
   {
    "cusip": "11135FBT7",
@@ -8839,7 +9171,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.33
   },
   {
    "cusip": "11135FBW0",
@@ -8891,7 +9227,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.23
   },
   {
    "cusip": "11135FBY6",
@@ -8917,7 +9257,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.3
   },
   {
    "cusip": "11135FBZ3",
@@ -8943,7 +9287,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.27
   },
   {
    "cusip": "11135FCA7",
@@ -8969,7 +9317,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 875000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.36
   },
   {
    "cusip": "11135FCB5",
@@ -8995,7 +9347,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.51
   },
   {
    "cusip": "11135FCC3",
@@ -9021,7 +9377,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 875000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.7
   },
   {
    "cusip": "11135FCD1",
@@ -9047,7 +9407,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.38
   },
   {
    "cusip": "11135FCE9",
@@ -9073,7 +9437,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1100000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.03
   },
   {
    "cusip": "11135FCF6",
@@ -9099,7 +9467,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 800000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.2
   },
   {
    "cusip": "11135FCG4",
@@ -9125,7 +9497,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1100000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.34
   },
   {
    "cusip": "11135FCK5",
@@ -9151,7 +9527,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.49
   },
   {
    "cusip": "11135FCL3",
@@ -9177,7 +9557,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.04
   },
   {
    "cusip": "11135FCM1",
@@ -9203,7 +9587,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.77
   },
   {
    "cusip": "11135FCP4",
@@ -9229,7 +9617,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.1
   },
   {
    "cusip": "11135FCQ2",
@@ -9254,7 +9646,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.56
   },
   {
    "cusip": "11135FCR0",
@@ -9280,7 +9676,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.7
   },
   {
    "cusip": "11135FCS8",
@@ -9305,7 +9705,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.84
   },
   {
    "cusip": "11135FCT6",
@@ -9330,7 +9734,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.63
   },
   {
    "cusip": "11135FCU3",
@@ -9355,7 +9763,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.66
   },
   {
    "cusip": "11135FCV1",
@@ -9380,7 +9792,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.6
   },
   {
    "cusip": "11135FCW9",
@@ -9432,7 +9848,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.99
   },
   {
    "cusip": "11135FCY5",
@@ -9458,7 +9878,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.9
   },
   {
    "cusip": "11135FCZ2",
@@ -9582,14 +10006,18 @@
    "sp_rating_date": "2025-09-17",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 1655000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.95
   },
   {
    "cusip": "U1109MAG1",
    "issuer": "BROADCOM INC",
    "security": "Notes",
    "class": "bond",
-   "coupon_pct": null,
+   "coupon_pct": 4.7,
    "maturity": "2030-04-15",
    "deal": "Broadcom",
    "watch": "benchmark",
@@ -9604,7 +10032,11 @@
    "sp_rating_date": "2025-09-17",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.75
   },
   {
    "cusip": "U1109MAH9",
@@ -9627,7 +10059,11 @@
    "moodys_rating_date": "2020-05-19",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 1118000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 5.02
   },
   {
    "cusip": "U1109MAK2",
@@ -9650,7 +10086,11 @@
    "moodys_rating_date": "2020-05-06",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 1856000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.27
   },
   {
    "cusip": "U1109MAL0",
@@ -9673,7 +10113,11 @@
    "moodys_rating_date": "2020-05-06",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.39
   },
   {
    "cusip": "U1109MAP1",
@@ -9697,7 +10141,11 @@
    "next_call_date": "2027-12-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.1
   },
   {
    "cusip": "U1109MAQ9",
@@ -9743,7 +10191,11 @@
    "next_call_date": "2050-08-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.84
   },
   {
    "cusip": "U1109MAS5",
@@ -9766,7 +10218,11 @@
    "next_call_date": "2021-01-20 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 2.56
   },
   {
    "cusip": "U1109MAT3",
@@ -9789,7 +10245,11 @@
    "moodys_rating_date": "2021-01-04",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 3000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 3.6
   },
   {
    "cusip": "U1109MAU0",
@@ -9812,7 +10272,11 @@
    "next_call_date": "2033-01-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.66
   },
   {
    "cusip": "U1109MAV8",
@@ -9835,7 +10299,11 @@
    "next_call_date": "2034-01-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.63
   },
   {
    "cusip": "U1109MAW6",
@@ -9859,7 +10327,11 @@
    "next_call_date": "2035-08-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 3250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.23
   },
   {
    "cusip": "U1109MAX4",
@@ -9882,7 +10354,11 @@
    "next_call_date": "2036-08-15 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 2750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.79
   },
   {
    "cusip": "U1109MAY2",
@@ -9905,7 +10381,11 @@
    "moodys_rating_date": "2022-03-31",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
+   "effective_rate_pct": 4.17
   },
   {
    "cusip": "U1109MAZ9",
@@ -11932,7 +12412,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000002488-26-000018 (period ended 2025-12-27)"
   },
   {
    "cusip": "007903BG1",
@@ -11958,7 +12441,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000002488-26-000018 (period ended 2025-12-27)"
   },
   {
    "cusip": "007903BJ5",
@@ -11984,7 +12470,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 625000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000002488-26-000018 (period ended 2025-12-27)"
   },
   {
    "cusip": "007903BK2",
@@ -12134,7 +12623,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 802000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 6.39
   },
   {
    "cusip": "458140AN0",
@@ -12159,7 +12652,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.65
   },
   {
    "cusip": "458140AP5",
@@ -12184,7 +12681,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 567000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.89
   },
   {
    "cusip": "458140AT7",
@@ -12210,7 +12711,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 772000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 6.52
   },
   {
    "cusip": "458140AV2",
@@ -12236,7 +12741,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.8
   },
   {
    "cusip": "458140AX8",
@@ -12262,7 +12771,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.6
   },
   {
    "cusip": "458140AY6",
@@ -12314,7 +12827,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1967000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 6.17
   },
   {
    "cusip": "458140BG4",
@@ -12341,7 +12858,11 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "TRON",
-   "twin_of": "458140BF6"
+   "twin_of": "458140BF6",
+   "amount_outstanding_usd": 1967000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 6.17
   },
   {
    "cusip": "458140BH2",
@@ -12367,7 +12888,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 2.38
   },
   {
    "cusip": "458140BJ8",
@@ -12393,7 +12918,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 3.19
   },
   {
    "cusip": "458140BK5",
@@ -12419,7 +12948,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 3.1
   },
   {
    "cusip": "458140BL3",
@@ -12445,7 +12978,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.59
   },
   {
    "cusip": "458140BM1",
@@ -12471,7 +13008,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.73
   },
   {
    "cusip": "458140BN9",
@@ -12497,7 +13038,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.98
   },
   {
    "cusip": "458140BQ2",
@@ -12549,7 +13094,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 3.91
   },
   {
    "cusip": "458140BT6",
@@ -12575,7 +13124,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 1.67
   },
   {
    "cusip": "458140BU3",
@@ -12601,7 +13154,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 2.02
   },
   {
    "cusip": "458140BV1",
@@ -12627,7 +13184,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 2.81
   },
   {
    "cusip": "458140BW9",
@@ -12653,7 +13214,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 3.05
   },
   {
    "cusip": "458140BX7",
@@ -12679,7 +13244,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 3.2
   },
   {
    "cusip": "458140BY5",
@@ -12731,7 +13300,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 850000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.05
   },
   {
    "cusip": "458140CA6",
@@ -12757,7 +13330,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.17
   },
   {
    "cusip": "458140CB4",
@@ -12783,7 +13360,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.89
   },
   {
    "cusip": "458140CC2",
@@ -12809,7 +13390,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 900000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.03
   },
   {
    "cusip": "458140CE8",
@@ -12835,7 +13420,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 4.92
   },
   {
    "cusip": "458140CF5",
@@ -12861,7 +13450,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.14
   },
   {
    "cusip": "458140CG3",
@@ -12887,7 +13480,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.23
   },
   {
    "cusip": "458140CH1",
@@ -12913,7 +13510,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.61
   },
   {
    "cusip": "458140CJ7",
@@ -12939,7 +13540,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.68
   },
   {
    "cusip": "458140CK4",
@@ -12965,7 +13570,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.88
   },
   {
    "cusip": "458140CL2",
@@ -12991,7 +13600,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 900000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.18
   },
   {
    "cusip": "458140CM0",
@@ -13017,7 +13630,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1150000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.59
   },
   {
    "cusip": "458140CN8",
@@ -13043,7 +13660,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
+   "effective_rate_pct": 5.07
   },
   {
    "cusip": "458140CQ1",
@@ -15032,7 +15653,11 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 600000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 5.879
   },
   {
    "cusip": "038222AK1",
@@ -15058,7 +15683,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 5.127
   },
   {
    "cusip": "038222AL9",
@@ -15084,7 +15713,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1200000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 3.342
   },
   {
    "cusip": "038222AM7",
@@ -15110,7 +15743,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 4.361
   },
   {
    "cusip": "038222AN5",
@@ -15136,7 +15773,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 1.792
   },
   {
    "cusip": "038222AP0",
@@ -15162,7 +15803,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 2.773
   },
   {
    "cusip": "038222AS4",
@@ -15188,7 +15833,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 700000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 4.844
   },
   {
    "cusip": "038222AT2",
@@ -15214,7 +15863,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 550000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 4.07
   },
   {
    "cusip": "038222AU9",
@@ -15240,7 +15893,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 450000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
+   "effective_rate_pct": 4.632
   },
   {
    "cusip": "512807AT5",
@@ -15266,7 +15923,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000707549-26-000037 (period ended 2026-06-28)",
+   "effective_rate_pct": 4.93
   },
   {
    "cusip": "512807AU2",
@@ -15292,7 +15953,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000707549-26-000037 (period ended 2026-06-28)",
+   "effective_rate_pct": 4.09
   },
   {
    "cusip": "512807AV0",
@@ -15318,7 +15983,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000707549-26-000037 (period ended 2026-06-28)",
+   "effective_rate_pct": 2.01
   },
   {
    "cusip": "512807AW8",
@@ -15344,7 +16013,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000707549-26-000037 (period ended 2026-06-28)",
+   "effective_rate_pct": 2.93
   },
   {
    "cusip": "512807AX6",
@@ -15370,7 +16043,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000707549-26-000037 (period ended 2026-06-28)",
+   "effective_rate_pct": 3.18
   },
   {
    "cusip": "482480AF7",
@@ -15396,7 +16073,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 5.67
   },
   {
    "cusip": "482480AG5",
@@ -15422,7 +16103,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 800000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 4.159
   },
   {
    "cusip": "482480AH3",
@@ -15448,7 +16133,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 400000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 5.047
   },
   {
    "cusip": "482480AJ9",
@@ -15474,7 +16163,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 3.302
   },
   {
    "cusip": "482480AL4",
@@ -15500,7 +16193,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 4.657
   },
   {
    "cusip": "482480AM2",
@@ -15526,7 +16223,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 1450000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 5.023
   },
   {
    "cusip": "482480AN0",
@@ -15552,7 +16253,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 800000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 5.259
   },
   {
    "cusip": "482480AP5",
@@ -15578,7 +16283,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
+   "effective_rate_pct": 4.777
   },
   {
    "cusip": "573874AD6",
@@ -15604,7 +16313,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 2.554
   },
   {
    "cusip": "573874AF1",
@@ -15631,7 +16344,11 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHI",
-   "twin_of": "573874AD6"
+   "twin_of": "573874AD6",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 2.554
   },
   {
    "cusip": "573874AG9",
@@ -15657,7 +16374,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 3.043
   },
   {
    "cusip": "573874AJ3",
@@ -15684,7 +16405,11 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHI",
-   "twin_of": "573874AG9"
+   "twin_of": "573874AG9",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 3.043
   },
   {
    "cusip": "573874AM6",
@@ -15710,7 +16435,11 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 499900000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 4.94
   },
   {
    "cusip": "573874AN4",
@@ -15737,7 +16466,11 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHI",
-   "twin_of": "573874AM6"
+   "twin_of": "573874AM6",
+   "amount_outstanding_usd": 499900000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 4.94
   },
   {
    "cusip": "573874AP9",
@@ -15763,7 +16496,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 5.891
   },
   {
    "cusip": "573874AQ7",
@@ -15789,7 +16526,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 6.082
   },
   {
    "cusip": "573874AR5",
@@ -15815,7 +16556,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 4.88
   },
   {
    "cusip": "573874AS3",
@@ -15841,7 +16586,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHI"
+   "industry_group": "OTHI",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 5.531
   },
   {
    "cusip": "573874AT1",
@@ -15888,7 +16637,11 @@
    "sp_rating_date": "2025-10-06",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 2.554
   },
   {
    "cusip": "U5739DAC9",
@@ -15910,7 +16663,11 @@
    "sp_rating_date": "2025-10-06",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 3.043
   },
   {
    "cusip": "U5739DAE5",
@@ -15933,7 +16690,11 @@
    "next_call_date": "2028-03-22 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 499900000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 4.94
   },
   {
    "cusip": "57385LAB4",
@@ -15958,7 +16719,11 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 499900000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
+   "effective_rate_pct": 4.94
   },
   {
    "cusip": "92535UAB0",
@@ -16159,7 +16924,10 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHU"
+   "industry_group": "OTHU",
+   "amount_outstanding_usd": 200000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001551182-26-000007 (period ended 2025-12-31)"
   },
   {
    "cusip": "278058AY8",
@@ -16184,7 +16952,10 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHU"
+   "industry_group": "OTHU",
+   "amount_outstanding_usd": 137000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001551182-26-000007 (period ended 2025-12-31)"
   },
   {
    "cusip": "278058DB5",
@@ -16209,7 +16980,10 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHU"
+   "industry_group": "OTHU",
+   "amount_outstanding_usd": 240000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001551182-26-000007 (period ended 2025-12-31)"
   },
   {
    "cusip": "278058DV1",
@@ -16460,7 +17234,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CAR0",
@@ -16486,7 +17263,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CAX7",
@@ -16513,7 +17293,10 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "INFO",
-   "twin_of": "42824CAQ2"
+   "twin_of": "42824CAQ2",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CAY5",
@@ -16540,7 +17323,10 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "INFO",
-   "twin_of": "42824CAR0"
+   "twin_of": "42824CAR0",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBP3",
@@ -16566,7 +17352,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 550000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBS7",
@@ -16592,7 +17381,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBT5",
@@ -16618,7 +17410,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBU2",
@@ -16644,7 +17439,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1250000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBV0",
@@ -16670,7 +17468,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 2000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBW8",
@@ -16696,7 +17497,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 1500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CBY4",
@@ -16747,7 +17551,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 850000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CCA5",
@@ -16798,7 +17605,10 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "amount_outstanding_usd": 900000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "42824CCC1",
@@ -16918,7 +17728,10 @@
    "sp_rating_date": "2015-10-01",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "amount_outstanding_usd": 750000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0001645590-25-000130 (period ended 2025-10-31)"
   },
   {
    "cusip": "U42832AK8",
