@@ -2,14 +2,14 @@
 title: "Netherlands"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Netherlands, refreshed hourly."
-data_as_of: "Oct 27, 6:08 AM ET"
+data_as_of: "Oct 27, 7:17 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 6:08 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 7:17 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>AEX (index)</td><td class="num">1,134</td><td class="num"><span class="up">+0.10%</span></td><td class="num"><span class="up">+0.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.0 4.6,15.5 9.1,18.7 13.7,26.0 18.3,17.6 22.9,13.3 27.4,10.7 32.0,17.0 36.6,14.9 41.1,9.1 45.7,6.4 50.3,10.1 54.9,5.5 59.4,8.1 64.0,2.0 68.6,2.9 73.1,7.5 77.7,2.3 82.3,9.8 86.9,8.7 91.4,7.8 96.0,7.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AEX (index)</td><td class="num">1,137</td><td class="num"><span class="up">+0.33%</span></td><td class="num"><span class="up">+0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.0 4.6,15.5 9.1,18.7 13.7,26.0 18.3,17.6 22.9,13.3 27.4,10.7 32.0,17.0 36.6,14.9 41.1,9.1 45.7,6.4 50.3,10.1 54.9,5.5 59.4,8.1 64.0,2.0 68.6,2.9 73.1,7.5 77.7,2.3 82.3,9.8 86.9,8.7 91.4,7.8 96.0,5.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Netherlands (EWN)</td><td class="num">$63.91</td><td class="num"><span class="up">+0.22%</span></td><td class="num"><span class="down">-1.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.4 4.8,2.0 9.6,6.1 14.4,11.7 19.2,5.4 24.0,6.3 28.8,4.2 33.6,11.2 38.4,13.9 43.2,11.6 48.0,14.5 52.8,14.8 57.6,20.2 62.4,19.2 67.2,20.2 72.0,21.3 76.8,19.7 81.6,16.8 86.4,24.1 91.2,26.0 96.0,25.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1145</td><td class="num"><span class="down">-0.65%</span></td><td class="num"><span class="down">-0.64%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.8 13.7,7.3 18.3,15.2 22.9,14.7 27.4,18.6 32.0,14.8 36.6,20.2 41.1,19.0 45.7,19.8 50.3,24.5 54.9,19.9 59.4,20.8 64.0,19.0 68.6,17.8 73.1,18.7 77.7,17.6 82.3,16.7 86.9,18.2 91.4,18.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1153</td><td class="num"><span class="down">-0.57%</span></td><td class="num"><span class="down">-0.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.9 13.7,7.4 18.3,15.7 22.9,15.1 27.4,19.2 32.0,15.2 36.6,20.9 41.1,19.6 45.7,20.5 50.3,25.3 54.9,20.6 59.4,21.5 64.0,19.6 68.6,18.3 73.1,19.3 77.7,18.1 82.3,17.3 86.9,18.7 91.4,19.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p>No recent stories name Netherlands in the headline.</p>
