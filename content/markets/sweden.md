@@ -2,14 +2,14 @@
 title: "Sweden"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed hourly."
-data_as_of: "Oct 27, 5:16 PM ET"
+data_as_of: "Oct 27, 6:06 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 5:16 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 6:06 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>OMX Stockholm 30 (index)</td><td class="num">3,257</td><td class="num"><span class="up">+0.96%</span></td><td class="num"><span class="up">+0.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.0 4.6,3.9 9.1,7.0 13.7,14.6 18.3,8.5 22.9,9.0 27.4,4.5 32.0,14.5 36.6,18.9 41.1,8.9 45.7,6.8 50.3,5.6 54.9,5.7 59.4,9.3 64.0,2.0 68.6,7.2 73.1,12.4 77.7,11.4 82.3,26.0 86.9,23.7 91.4,14.8 96.0,9.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$51.23</td><td class="num"><span class="up">+1.31%</span></td><td class="num"><span class="up">+0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.7 4.6,10.2 9.1,18.4 13.7,26.0 18.3,17.6 22.9,17.4 27.4,13.6 32.0,18.4 36.6,16.6 41.1,8.9 45.7,11.9 50.3,2.9 54.9,9.9 59.4,3.5 64.0,2.3 68.6,6.7 73.1,4.0 77.7,4.5 82.3,13.9 86.9,13.1 91.4,10.7 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SEK</td><td class="num">9.9450</td><td class="num"><span class="down">-0.22%</span></td><td class="num"><span class="down">-0.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.0 4.6,15.0 9.1,10.0 13.7,7.5 18.3,2.0 22.9,3.2 27.4,3.0 32.0,9.1 36.6,9.1 41.1,14.6 45.7,9.2 50.3,2.9 54.9,14.6 59.4,11.1 64.0,16.3 68.6,22.4 73.1,21.2 77.7,22.9 82.3,26.0 86.9,23.4 91.4,20.7 96.0,17.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SEK</td><td class="num">9.9506</td><td class="num"><span class="down">-0.28%</span></td><td class="num"><span class="down">-0.31%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.0 4.6,15.0 9.1,10.0 13.7,7.5 18.3,2.0 22.9,3.2 27.4,3.0 32.0,9.1 36.6,9.1 41.1,14.6 45.7,9.2 50.3,2.9 54.9,14.6 59.4,11.1 64.0,16.3 68.6,22.4 73.1,21.2 77.7,22.9 82.3,26.0 86.9,23.4 91.4,20.7 96.0,16.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
