@@ -1,4 +1,22 @@
 {
- "as_of": "2026-10-27T13:35:47-04:00",
- "signals": []
+ "as_of": "2026-10-27T14:11:36-04:00",
+ "signals": [
+  {
+   "cusip": "038169AB4",
+   "issuer": "APPLIED BLOCKCHAIN INC",
+   "security": "2.75% Notes due 2030",
+   "price": 216.86,
+   "prev_price": 208.916,
+   "trade_date": "2026-10-27",
+   "trade_time": "13:41:38",
+   "mark": 398.1456,
+   "mark_period": "2026-06-30",
+   "gap": -181.29,
+   "trades_stored": 322,
+   "fired_at": "2026-10-27T14:11:36-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "038169AB4-flag-2026-10-27"
+  }
+ ]
 }
