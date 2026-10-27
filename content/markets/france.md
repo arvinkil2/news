@@ -2,14 +2,14 @@
 title: "France"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed hourly."
-data_as_of: "Oct 27, 1:03 PM ET"
+data_as_of: "Oct 27, 2:05 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 1:03 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 2:05 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>CAC 40 (index)</td><td class="num">7,887</td><td class="num"><span class="up">+0.51%</span></td><td class="num"><span class="up">+0.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.9 9.1,9.8 13.7,18.7 18.3,14.5 22.9,18.8 27.4,16.7 32.0,23.3 36.6,26.0 41.1,20.9 45.7,18.9 50.3,19.3 54.9,16.1 59.4,11.9 64.0,10.4 68.6,16.5 73.1,18.5 77.7,12.8 82.3,20.4 86.9,22.3 91.4,17.9 96.0,15.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI France (EWQ)</td><td class="num">$41.7000</td><td class="num"><span class="up">+0.46%</span></td><td class="num"><span class="down">-0.48%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.8 9.1,13.1 13.7,21.6 18.3,16.6 22.9,20.8 27.4,20.6 32.0,25.1 36.6,25.2 41.1,23.4 45.7,26.0 50.3,22.3 54.9,23.7 59.4,16.4 64.0,17.7 68.6,22.8 73.1,19.8 77.7,17.8 82.3,20.8 86.9,24.8 91.4,23.4 96.0,21.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1143</td><td class="num"><span class="down">-0.66%</span></td><td class="num"><span class="down">-0.65%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.8 13.7,7.2 18.3,15.1 22.9,14.6 27.4,18.4 32.0,14.7 36.6,20.1 41.1,18.9 45.7,19.7 50.3,24.3 54.9,19.8 59.4,20.7 64.0,18.9 68.6,17.6 73.1,18.5 77.7,17.4 82.3,16.6 86.9,18.0 91.4,18.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI France (EWQ)</td><td class="num">$41.7200</td><td class="num"><span class="up">+0.51%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.8 9.1,13.1 13.7,21.6 18.3,16.6 22.9,20.8 27.4,20.6 32.0,25.1 36.6,25.2 41.1,23.4 45.7,26.0 50.3,22.3 54.9,23.7 59.4,16.4 64.0,17.7 68.6,22.8 73.1,19.8 77.7,17.8 82.3,20.8 86.9,24.8 91.4,23.4 96.0,21.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1137</td><td class="num"><span class="down">-0.72%</span></td><td class="num"><span class="down">-0.70%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.7 13.7,7.1 18.3,14.7 22.9,14.2 27.4,18.0 32.0,14.3 36.6,19.6 41.1,18.4 45.7,19.2 50.3,23.7 54.9,19.3 59.4,20.2 64.0,18.4 68.6,17.2 73.1,18.1 77.7,17.0 82.3,16.2 86.9,17.6 91.4,17.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
