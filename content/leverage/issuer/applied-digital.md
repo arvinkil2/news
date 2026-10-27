@@ -9,11 +9,11 @@ data_as_of: "2026-10-27"
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>1</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>208.92</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>0 of 1 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>22 Oct 2026</dd></div><div class="bw-sum-item"><dt>Fund marks to</dt><dd>30 Jun 2026</dd></div></dl>
 <h2>Bonds</h2>
-<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-applied-digital" data-def="[300, 124, 110, 92, 128, 84, 110, 96, 108]" data-min="[180, 76, 92, 76, 76, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">
-<colgroup><col style="width:300px"><col style="width:124px"><col style="width:110px"><col style="width:92px"><col style="width:128px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
-<thead><tr><th>Bond</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-applied-digital" data-def="[300, 104, 124, 110, 92, 128, 84, 110, 96, 108]" data-min="[180, 72, 76, 92, 76, 76, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">
+<colgroup><col style="width:300px"><col style="width:104px"><col style="width:124px"><col style="width:110px"><col style="width:92px"><col style="width:128px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
+<thead><tr><th>Bond</th><th>Issued ($M)</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td data-v="APPLIED BLOCKCHAIN INC — 2.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/038169ab4/"><span class="bond-name">APPLIED BLOCKCHAIN INC</span><span class="bond-sub">2.75% Notes due 2030</span></a></td><td data-v="208.916">208.92</td><td data-v="2026-10-22">22 Oct 2026</td><td class="neg" data-v="-189.2296">-189.23</td><td data-v="398.1456">398.15<span class="cell-sub">Period ended 30 Jun 2026</span></td><td data-v="2.75">2.75</td><td data-v="2030-06-01">01 Jun 2030</td><td class="muted" data-v="">—</td><td data-v="038169AB4">038169AB4</td></tr>
+<tr><td data-v="APPLIED BLOCKCHAIN INC — 2.75% Notes due 2030"><a class="bond-link" href="/leverage/bond/038169ab4/"><span class="bond-name">APPLIED BLOCKCHAIN INC</span><span class="bond-sub">2.75% Notes due 2030</span></a></td><td class="muted" data-v="-999"></td><td data-v="208.916">208.92</td><td data-v="2026-10-22">22 Oct 2026</td><td class="neg" data-v="-189.2296">-189.23</td><td data-v="398.1456">398.15<span class="cell-sub">Period ended 30 Jun 2026</span></td><td data-v="2.75">2.75</td><td data-v="2030-06-01">01 Jun 2030</td><td class="muted" data-v="">—</td><td data-v="038169AB4">038169AB4</td></tr>
 </tbody></table></div>
 
 <div class="flow-panel">
@@ -85,7 +85,7 @@ document.querySelectorAll('.flow-panel').forEach(function(p){
 <tr><td data-v="HARBOR FUNDS">HARBOR FUNDS</td><td data-v="100000">0</td><td data-v="1">1</td><td data-v="1">1</td></tr>
 </tbody></table></div>
 
-<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders). Coverage: 321 trades are stored in the dataset for this issuer's bonds. A fund mark is a period-end valuation, not a trade price; holder data is positions at the report period, not trading activity. TRACE names no buyer or seller.</p>
+<p class="src">Sources: FINRA TRACE via the public lookup (trades) and SEC N-PORT bulk filings (fund marks and holders). Coverage: 321 trades are stored in the dataset for this issuer's bonds. Issued ($M) is the note's original amount issued, from the issuer's pricing filing where one is on record; blank where no held source states it. A fund mark is a period-end valuation, not a trade price; holder data is positions at the report period, not trading activity. TRACE names no buyer or seller.</p>
 <script defer src="/js/echarts.min.js"></script>
 <script defer src="/js/issuer_chart.js"></script>
 <script>
