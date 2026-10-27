@@ -1,12 +1,12 @@
 ---
 title: "Israel heads to election with neither bloc near majority"
 date: 2026-10-26T07:11:33-04:00
-last_updated: 2026-10-27T04:41:46-04:00
+last_updated: 2026-10-27T06:43:27-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "Polls have opened across Israel in its first general election since the October 7 attack, with 7,331,981 voters eligible to cast ballots until 10 p.m. and neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition projected to reach the 61 seats needed to govern."
-why_it_matters: "About 7.3 million voters decide who manages the aftermath of the Gaza, Lebanon and Iran wars and whether an October 7 inquiry is held, and the arithmetic points to weeks of coalition bargaining in which Arab parties could hold the balance."
+lede: "Turnout in Israel's first general election since the October 7 attack reached 16.68 percent by 10 a.m., more than 1.2 million ballots and the highest early rate at that hour since 1981, with neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition projected to reach the 61 seats needed to govern."
+why_it_matters: "About 7.3 million voters decide who manages the aftermath of the Gaza, Lebanon and Iran wars and whether an October 7 inquiry is held, and an unusually strong turnout, in a race where the arithmetic points to weeks of coalition bargaining, could decide which small parties clear the threshold and hold the balance."
 featured: true
 update_bump: true
 evidence_grade: "B"
@@ -35,11 +35,19 @@ sources:
     publisher: "Associated Press"
     url: "https://www.eastrennews.co.uk/news/national/26672253.polls-open-israelis-vote-tense-election-seen-referendum-netanyahu/"
     published: "2026-10-27"
+  - title: "Israel Election Day Opens With Surging Voter Turnout"
+    publisher: "United with Israel, reporting Central Elections Committee figures"
+    url: "https://unitedwithisrael.org/israel-election-day-opens-with-surging-voter-turnout/"
+    published: "2026-10-27"
+  - title: "Israeli elections: voters turnout reaches '16.7%' four hours after polls open"
+    publisher: "France 24"
+    url: "https://www.france24.com/en/israeli-elections-voters-turnout-reaches-16-7-four-hours-after-polls-open"
+    published: "2026-10-27"
 tags: []
-data_as_of: "Update 2026-10-27T04:41:46-04:00: polls opened at 7 a.m. local time on Tuesday, October 27, 2026 and close at 10 p.m.; eligible voter total of 7,331,981 as reported in election day coverage. Election on Tuesday, October 27, 2026. Poll figures are the final surveys published before the blackout on Friday, October 23, 2026, as reported October 25 to 26, 2026. Eligible voter figure of about 7.3 million is as reported in election eve coverage. The West Bank closure on election day is carried in the updated West Bank story on this site."
+data_as_of: "Update 2026-10-27T06:43:27-04:00: turnout of 16.68 percent by 10 a.m. local time, more than 1.2 million votes, 15.9 percent at the same point in 2022 and the highest early rate at that stage since 1981, are Central Elections Committee figures as reported by United with Israel on October 27, 2026 and read in full in this run; France 24 reported the same rounded 16.7 percent figure. Earlier update 2026-10-27T04:41:46-04:00: polls opened at 7 a.m. local time on Tuesday, October 27, 2026 and close at 10 p.m.; eligible voter total of 7,331,981 as reported in election day coverage. Election on Tuesday, October 27, 2026. Poll figures are the final surveys published before the blackout on Friday, October 23, 2026, as reported October 25 to 26, 2026. Eligible voter figure of about 7.3 million is as reported in election eve coverage. The West Bank closure on election day is carried in the updated West Bank story on this site."
 ---
 
-**Latest, October 27:** Polls opened at 7 a.m. across Israel and voting runs until 10 p.m., with 7,331,981 people eligible to vote. Gadi Eisenkot opened the day by invoking the hour of the October 7 attack, posting at 06:29 that voters should remember that hour when they cast their ballots and presenting the vote as a chance to replace what he called the government of October 7. In Kiryat Shmona, a Netanyahu stronghold near the Lebanon border, a man kicked and tore down an Eisenkot poster as polls opened, the Associated Press reported. No turnout figure or result had been published when this update was written; exit polls are expected after voting closes.
+**Latest, October 27:** Turnout reached 16.68 percent by 10 a.m., more than 1.2 million ballots cast, up from 15.9 percent at the same point in the 2022 election and the highest early participation rate recorded at that stage of election day since 1981, according to the Central Elections Committee. Polls opened at 7 a.m. across Israel and voting runs until 10 p.m., with 7,331,981 people eligible to vote. Gadi Eisenkot opened the day by invoking the hour of the October 7 attack, posting at 06:29 that voters should remember that hour when they cast their ballots and presenting the vote as a chance to replace what he called the government of October 7. In Kiryat Shmona, a Netanyahu stronghold near the Lebanon border, a man kicked and tore down an Eisenkot poster as polls opened, the Associated Press reported. No result had been published when this update was written; exit polls are expected after voting closes.
 
 Israelis vote on Tuesday in the country's first general election since the Hamas led attack of October 7, 2023, and the wars in Gaza, Lebanon and Iran that followed. About 7.3 million people are eligible. Polling stations open at 7 a.m. and close at 10 p.m., voters choose among 37 registered party lists, and only lists clearing the 3.25 percent threshold win seats in the 120 seat Knesset. A government needs 61 seats, a total no single party has ever reached alone.
 
