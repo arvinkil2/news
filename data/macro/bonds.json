@@ -17423,7 +17423,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "AERO"
+   "industry_group": "AERO",
+   "issue_amount_usd": 7000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   },
   {
    "cusip": "84615QAC7",
@@ -17449,7 +17452,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "AERO"
+   "industry_group": "AERO",
+   "issue_amount_usd": 6000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   },
   {
    "cusip": "84615QAE3",
@@ -17475,7 +17481,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "AERO"
+   "industry_group": "AERO",
+   "issue_amount_usd": 6000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   },
   {
    "cusip": "84615QAJ2",
@@ -17501,7 +17510,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "AERO"
+   "industry_group": "AERO",
+   "issue_amount_usd": 3500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   },
   {
    "cusip": "84615QAG8",
@@ -17527,7 +17539,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "AERO"
+   "industry_group": "AERO",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   }
  ]
 }
