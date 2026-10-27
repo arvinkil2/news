@@ -1,13 +1,14 @@
 ---
 title: "Israel heads to election with neither bloc near majority"
 date: 2026-10-26T07:11:33-04:00
-last_updated: 2026-10-26T07:11:33-04:00
+last_updated: 2026-10-27T04:41:46-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "Israel votes on Tuesday in its first general election since the October 7 attack, with the final polls putting Gadi Eisenkot's Yashar ahead of Benjamin Netanyahu's Likud but neither bloc projected to reach the 61 seats needed to govern."
+lede: "Polls have opened across Israel in its first general election since the October 7 attack, with 7,331,981 voters eligible to cast ballots until 10 p.m. and neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition projected to reach the 61 seats needed to govern."
 why_it_matters: "About 7.3 million voters decide who manages the aftermath of the Gaza, Lebanon and Iran wars and whether an October 7 inquiry is held, and the arithmetic points to weeks of coalition bargaining in which Arab parties could hold the balance."
 featured: true
+update_bump: true
 evidence_grade: "B"
 sources:
   - title: "Israel Heads to Tuesday Vote With Polls Pointing to Deadlock"
@@ -26,9 +27,19 @@ sources:
     publisher: "Axios"
     url: "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections"
     published: "2026-10-25"
+  - title: "Live: Polls open in first Israeli election since October 7 attack"
+    publisher: "France 24"
+    url: "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack"
+    published: "2026-10-27"
+  - title: "Polls open as Israelis vote in tense election seen as a referendum on Netanyahu"
+    publisher: "Associated Press"
+    url: "https://www.eastrennews.co.uk/news/national/26672253.polls-open-israelis-vote-tense-election-seen-referendum-netanyahu/"
+    published: "2026-10-27"
 tags: []
-data_as_of: "Election on Tuesday, October 27, 2026. Poll figures are the final surveys published before the blackout on Friday, October 23, 2026, as reported October 25 to 26, 2026. Eligible voter figure of about 7.3 million is as reported in election eve coverage. The West Bank closure on election day is carried in the updated West Bank story on this site."
+data_as_of: "Update 2026-10-27T04:41:46-04:00: polls opened at 7 a.m. local time on Tuesday, October 27, 2026 and close at 10 p.m.; eligible voter total of 7,331,981 as reported in election day coverage. Election on Tuesday, October 27, 2026. Poll figures are the final surveys published before the blackout on Friday, October 23, 2026, as reported October 25 to 26, 2026. Eligible voter figure of about 7.3 million is as reported in election eve coverage. The West Bank closure on election day is carried in the updated West Bank story on this site."
 ---
+
+**Latest, October 27:** Polls opened at 7 a.m. across Israel and voting runs until 10 p.m., with 7,331,981 people eligible to vote. Gadi Eisenkot opened the day by invoking the hour of the October 7 attack, posting at 06:29 that voters should remember that hour when they cast their ballots and presenting the vote as a chance to replace what he called the government of October 7. In Kiryat Shmona, a Netanyahu stronghold near the Lebanon border, a man kicked and tore down an Eisenkot poster as polls opened, the Associated Press reported. No turnout figure or result had been published when this update was written; exit polls are expected after voting closes.
 
 Israelis vote on Tuesday in the country's first general election since the Hamas led attack of October 7, 2023, and the wars in Gaza, Lebanon and Iran that followed. About 7.3 million people are eligible. Polling stations open at 7 a.m. and close at 10 p.m., voters choose among 37 registered party lists, and only lists clearing the 3.25 percent threshold win seats in the 120 seat Knesset. A government needs 61 seats, a total no single party has ever reached alone.
 
