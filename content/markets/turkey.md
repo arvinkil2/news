@@ -2,13 +2,13 @@
 title: "Turkey"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Turkey, refreshed hourly."
-data_as_of: "Oct 27, 12:03 PM ET"
+data_as_of: "Oct 27, 1:03 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 12:03 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 1:03 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>BIST 100 (index)</td><td class="num">11,151</td><td class="num"><span class="down">-0.01%</span></td><td class="num"><span class="down">-5.48%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.9 9.1,12.5 13.7,7.6 18.3,7.2 22.9,4.4 27.4,5.6 32.0,9.6 36.6,8.2 41.1,7.3 45.7,9.2 50.3,7.6 54.9,9.7 59.4,10.5 64.0,16.2 68.6,20.9 73.1,14.9 77.7,18.5 82.3,24.3 86.9,26.0 91.4,25.4 96.0,25.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Turkey (TUR)</td><td class="num">$30.8300</td><td class="num"><span class="up">+0.05%</span></td><td class="num"><span class="down">-5.41%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,5.5 9.1,10.3 13.7,7.3 18.3,7.9 22.9,5.6 27.4,6.9 32.0,10.1 36.6,9.7 41.1,8.7 45.7,10.3 50.3,8.8 54.9,11.2 59.4,11.6 64.0,17.1 68.6,20.5 73.1,16.4 77.7,18.6 82.3,24.1 86.9,26.0 91.4,25.5 96.0,25.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Turkey (TUR)</td><td class="num">$30.8000</td><td class="num"><span class="down">-0.06%</span></td><td class="num"><span class="down">-5.52%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,5.5 9.1,10.3 13.7,7.3 18.3,7.9 22.9,5.6 27.4,6.9 32.0,10.1 36.6,9.7 41.1,8.7 45.7,10.3 50.3,8.8 54.9,11.2 59.4,11.6 64.0,17.1 68.6,20.5 73.1,16.4 77.7,18.6 82.3,24.1 86.9,26.0 91.4,25.5 96.0,25.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/TRY</td><td class="num">49.7823</td><td class="num"><span class="down">-0.09%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,25.3 9.1,24.9 13.7,24.3 18.3,21.6 22.9,20.6 27.4,21.0 32.0,19.4 36.6,18.9 41.1,15.7 45.7,15.2 50.3,15.1 54.9,15.0 59.4,13.2 64.0,9.7 68.6,9.7 73.1,8.4 77.7,7.9 82.3,6.7 86.9,3.5 91.4,3.3 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
