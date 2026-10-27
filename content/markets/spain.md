@@ -2,14 +2,14 @@
 title: "Spain"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed hourly."
-data_as_of: "Oct 27, 7:17 AM ET"
+data_as_of: "Oct 27, 8:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 7:17 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 8:03 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>IBEX 35 (index)</td><td class="num">19,102</td><td class="num"><span class="up">+0.36%</span></td><td class="num"><span class="up">+0.05%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.9 9.1,8.1 13.7,22.8 18.3,20.0 22.9,12.5 27.4,7.5 32.0,18.9 36.6,25.5 41.1,21.8 45.7,13.0 50.3,15.6 54.9,14.9 59.4,16.8 64.0,11.6 68.6,21.6 73.1,19.7 77.7,11.7 82.3,26.0 86.9,23.3 91.4,21.8 96.0,19.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Spain (EWP)</td><td class="num">$57.24</td><td class="num"><span class="down">-0.43%</span></td><td class="num"><span class="down">-0.16%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,6.2 9.6,12.2 14.4,21.6 19.2,18.4 24.0,16.6 28.8,14.7 33.6,21.9 38.4,21.3 43.2,21.3 48.0,20.4 52.8,18.2 57.6,21.3 62.4,18.1 67.2,18.7 72.0,25.4 76.8,20.2 81.6,17.7 86.4,24.1 91.2,24.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1153</td><td class="num"><span class="down">-0.57%</span></td><td class="num"><span class="down">-0.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.9 13.7,7.4 18.3,15.7 22.9,15.1 27.4,19.2 32.0,15.2 36.6,20.9 41.1,19.6 45.7,20.5 50.3,25.3 54.9,20.6 59.4,21.5 64.0,19.6 68.6,18.3 73.1,19.3 77.7,18.1 82.3,17.3 86.9,18.7 91.4,19.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1152</td><td class="num"><span class="down">-0.58%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,5.9 13.7,7.4 18.3,15.6 22.9,15.1 27.4,19.1 32.0,15.2 36.6,20.8 41.1,19.5 45.7,20.4 50.3,25.2 54.9,20.5 59.4,21.4 64.0,19.5 68.6,18.2 73.1,19.2 77.7,18.0 82.3,17.2 86.9,18.7 91.4,19.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
