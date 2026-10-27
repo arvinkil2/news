@@ -4,7 +4,9 @@
 {{ $byDate := $sorted.GroupByDate "2006-01-02" }}
 {{ $latest := index $byDate 0 }}
 
-{{ $bumped := sort (where $latest.Pages "Params.update_bump" true) "Params.last_updated" "desc" }}
+{{ $bumpedFresh := slice }}
+{{ range where $stories "Params.update_bump" true }}{{ if and .Params.last_updated (eq ((.Params.last_updated | time.AsTime).Format "2006-01-02") $latest.Key) }}{{ $bumpedFresh = $bumpedFresh | append . }}{{ end }}{{ end }}
+{{ $bumped := sort $bumpedFresh "Params.last_updated" "desc" }}
 {{ $rest := where $latest.Pages "Params.update_bump" "!=" true }}
 {{ $ordered := union $bumped $rest }}
 
