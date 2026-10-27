@@ -77,8 +77,8 @@ data_as_of: "Trades to 26 Oct 2026; fund marks to 31 Mar 2026"
 <h2>Ratings</h2>
 <p class="data-vintage">No agency rating in the dataset.</p>
 <h2>Other bonds from this issuer</h2>
-<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead><tbody>
-<tr><td><a class="bond-link" href="/leverage/bond/ba0004jk4/">BA0004JK4</a></td><td class="num">—</td><td class="muted">—</td><td class="num">—</td><td class="num">103.05<span class="cell-sub">Period ended 31 Mar 2026</span></td><td class="num">—</td><td class="muted">—</td><td class="muted" data-v="">—</td><td class="muted">BA0004JK4</td></tr>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Security</th><th>Issued ($M)</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead><tbody>
+<tr><td><a class="bond-link" href="/leverage/bond/ba0004jk4/">BA0004JK4</a></td><td class="muted" data-v="-999"></td><td class="num">—</td><td class="muted">—</td><td class="num">—</td><td class="num">103.05<span class="cell-sub">Period ended 31 Mar 2026</span></td><td class="num">—</td><td class="muted">—</td><td class="muted" data-v="">—</td><td class="muted">BA0004JK4</td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: FINRA TRACE via the public lookup (collected by Kilambi Research); fund marks from SEC N-PORT bulk data. A fund mark is a period-end valuation reported by a holder; it is not a trade price. Yield to worst takes scheduled calls into account and treats conditional convertible redemption as not certain.</p>
 <script>
