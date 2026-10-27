@@ -2,13 +2,13 @@
 title: "Brazil"
 date: "2026-10-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed hourly."
-data_as_of: "Oct 27, 3:13 PM ET"
+data_as_of: "Oct 27, 4:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 3:13 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 4:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Ibovespa (index)</td><td class="num">175,588</td><td class="num"><span class="down">-0.58%</span></td><td class="num"><span class="blank">-</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$34.4900</td><td class="num"><span class="up">+0.98%</span></td><td class="num"><span class="blank">-</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Ibovespa (index)</td><td class="num">175,819</td><td class="num"><span class="down">-0.45%</span></td><td class="num"><span class="blank">-</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$34.3100</td><td class="num"><span class="up">+0.47%</span></td><td class="num"><span class="blank">-</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/BRL</td><td class="num">4.9602</td><td class="num"><span class="up">+1.78%</span></td><td class="num"><span class="up">+2.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.2 4.8,2.0 9.6,3.8 14.4,6.0 19.2,2.0 24.0,2.0 28.8,22.7 33.6,24.1 38.4,20.6 43.2,20.8 48.0,23.7 52.8,23.7 57.6,20.0 62.4,18.8 67.2,13.5 72.0,16.6 76.8,19.0 81.6,20.3 86.4,20.5 91.2,17.8 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
