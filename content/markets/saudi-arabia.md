@@ -1,14 +1,14 @@
 ---
 title: "Saudi Arabia"
-date: "2026-10-27"
+date: "2026-10-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed hourly."
-data_as_of: "Oct 27, 7:48 PM ET"
+data_as_of: "Oct 27, 8:06 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 27, 7:48 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 27, 8:06 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.6200 <span class="gm-sub-inline">as of 2026-10-27</span></td><td class="num"><span class="up">+1.82%</span></td><td class="num"><span class="down">-0.46%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.0 9.1,6.6 13.7,8.2 18.3,7.4 22.9,5.2 27.4,2.4 32.0,3.6 36.6,8.3 41.1,8.6 45.7,11.5 50.3,10.5 54.9,15.3 59.4,15.2 64.0,15.6 68.6,15.3 73.1,18.0 77.7,19.7 82.3,25.9 86.9,26.0 91.4,23.7 96.0,19.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SAR</td><td class="num">3.7527 <span class="gm-sub-inline">as of 2026-10-27</span></td><td class="num"><span class="down">-3.19%</span></td><td class="num"><span class="down">-2.91%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.6 4.6,23.5 9.1,23.4 13.7,23.8 18.3,24.2 22.9,25.7 27.4,25.7 32.0,25.5 36.6,24.2 41.1,24.0 45.7,23.8 50.3,23.8 54.9,23.4 59.4,25.0 64.0,24.5 68.6,24.5 73.1,22.5 77.7,21.4 82.3,26.0 86.9,24.7 91.4,24.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.0000 <span class="gm-sub-inline">as of 2026-10-26, stale</span></td><td class="num"><span class="up">+0.92%</span></td><td class="num"><span class="down">-3.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,6.0 9.6,6.6 14.4,8.2 19.2,7.4 24.0,5.2 28.8,2.4 33.6,3.6 38.4,8.3 43.2,8.6 48.0,11.5 52.8,10.5 57.6,15.3 62.4,15.2 67.2,15.6 72.0,15.3 76.8,18.0 81.6,19.7 86.4,25.9 91.2,26.0 96.0,23.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SAR</td><td class="num">3.6283 <span class="gm-sub-inline">as of 2026-10-27</span></td><td class="num"><span class="up">+0.23%</span></td><td class="num"><span class="up">+0.50%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.3 4.6,12.8 9.1,12.2 13.7,14.7 18.3,16.5 22.9,24.4 27.4,24.4 32.0,23.4 36.6,16.8 41.1,15.5 45.7,14.5 50.3,14.5 54.9,12.5 59.4,20.8 64.0,18.3 68.6,17.9 73.1,7.4 77.7,2.0 82.3,26.0 86.9,19.0 91.4,17.4 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
