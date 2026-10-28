@@ -2,14 +2,14 @@
 title: "Spain"
 date: "2026-10-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed hourly."
-data_as_of: "Oct 28, 9:02 AM ET"
+data_as_of: "Oct 28, 12:21 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 9:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 12:21 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>IBEX 35 (index)</td><td class="num">18,968 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-1.01%</span></td><td class="num"><span class="down">-1.84%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,4.9 8.7,8.1 13.1,22.8 17.5,20.0 21.8,12.5 26.2,7.5 30.5,18.9 34.9,25.5 39.3,21.8 43.6,13.0 48.0,15.6 52.4,14.9 56.7,16.8 61.1,11.6 65.5,21.6 69.8,19.7 74.2,11.7 78.5,26.0 82.9,23.3 87.3,21.8 91.6,17.4 96.0,24.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Spain (EWP)</td><td class="num">$57.70 <span class="gm-sub-inline">as of 2026-10-27</span></td><td class="num"><span class="up">+0.80%</span></td><td class="num"><span class="down">-0.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,6.2 9.1,12.2 13.7,21.6 18.3,18.4 22.9,16.6 27.4,14.7 32.0,21.9 36.6,21.3 41.1,21.3 45.7,20.4 50.3,18.2 54.9,21.3 59.4,18.1 64.0,18.7 68.6,25.4 73.1,20.2 77.7,17.7 82.3,24.1 86.9,24.2 91.4,26.0 96.0,22.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1137 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.33%</span></td><td class="num"><span class="down">-0.80%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.5 8.7,5.7 13.1,7.1 17.5,14.7 21.8,14.2 26.2,18.0 30.5,14.3 34.9,19.6 39.3,18.4 43.6,19.2 48.0,23.7 52.4,19.3 56.7,20.2 61.1,18.4 65.5,17.2 69.8,18.1 74.2,17.0 78.5,16.2 82.9,17.6 87.3,17.9 91.6,22.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>IBEX 35 (index)</td><td class="num">18,884 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-1.44%</span></td><td class="num"><span class="down">-2.27%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,4.8 8.7,7.8 13.1,21.9 17.5,19.3 21.8,12.1 26.2,7.2 30.5,18.2 34.9,24.5 39.3,21.0 43.6,12.5 48.0,15.1 52.4,14.4 56.7,16.2 61.1,11.2 65.5,20.8 69.8,19.0 74.2,11.3 78.5,25.0 82.9,22.5 87.3,21.0 91.6,16.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Spain (EWP)</td><td class="num">$56.79 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-1.57%</span></td><td class="num"><span class="down">-2.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,5.7 8.7,11.0 13.1,19.3 17.5,16.5 21.8,14.9 26.2,13.2 30.5,19.6 34.9,19.1 39.3,19.1 43.6,18.2 48.0,16.3 52.4,19.1 56.7,16.2 61.1,16.8 65.5,22.6 69.8,18.1 74.2,15.9 78.5,21.5 82.9,21.6 87.3,23.2 91.6,20.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1148 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.23%</span></td><td class="num"><span class="down">-0.70%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.5 8.7,5.9 13.1,7.3 17.5,15.4 21.8,14.8 26.2,18.8 30.5,14.9 34.9,20.5 39.3,19.2 43.6,20.1 48.0,24.7 52.4,20.2 56.7,21.1 61.1,19.2 65.5,18.0 69.8,18.9 74.2,17.8 78.5,16.9 82.9,18.4 87.3,18.7 91.6,23.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -19,7 +19,7 @@ data_as_of: "Oct 28, 9:02 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-spain-unemployment-rises-q3-ine/">Spain unemployment rate rises to 10.18 percent in third quarter</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-spain-high-speed-trains-collide-toledo/">At least 46 dead after two high-speed trains collide in Spain</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-spain-high-speed-trains-collide-toledo/">At least 64 dead after two high-speed trains collide in Spain</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-technology-also-notable/">Technology also notable: Spain mandate, OpenAI permit, Cadence models</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-spain-softens-datacenter-renewable-rules/">Spain softens data center renewable rules, keeps hourly target</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-24</span> <a href="/stories/2026-10-24-spain-pp-deepfake-video-election/">People&#x27;s Party deepfake video sparks outrage before Spain election</a></p>
