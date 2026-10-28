@@ -19747,6 +19747,24 @@
    "issue_amount_usd": 3500000000,
    "issue_amount_kind": "original_issue",
    "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "20469BAL1",
+   "issuer": "CMPLLC",
+   "security": "6.3% Notes due 2056",
+   "class": "abs",
+   "coupon_pct": 6.3,
+   "maturity": "2056-07-25",
+   "deal": "Compass",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "CDCU6463805",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-28.",
+   "is_144a": "Y"
   }
  ]
 }
