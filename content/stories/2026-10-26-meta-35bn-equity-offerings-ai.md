@@ -1,15 +1,23 @@
 ---
 title: "Meta launches $35 billion equity offerings to fund AI buildout"
 date: 2026-10-26T07:45:44-04:00
-last_updated: 2026-10-27T05:14:06-04:00
+last_updated: 2026-10-28T17:42:23-04:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia will invest 3 billion dollars in Meta's equity offering and the two companies will expand their work on the Muse family of AI models, they announced on Tuesday, as Meta upsized the common stock tranche of its offering to 25 billion dollars and priced the shares at 625 dollars each, taking the full equity program to 97.5 billion dollars including the planned at-the-market leg."
-why_it_matters: "The largest chip supplier to the AI buildout is now also a cornerstone equity investor in one of its biggest customers, and Meta's upsized pricing shows the equity market absorbing a financing program that has grown from 35 billion dollars launched on Monday to 97.5 billion dollars in total planned issuance."
+lede: "Meta has filed the final prospectus supplements for its priced equity package, confirming 25 billion dollars of Class A common stock at 625 dollars a share under forward sale agreements and 12.5 billion dollars of depositary shares at 50 dollars each, representing mandatory convertible preferred stock paying 6.50 percent."
+why_it_matters: "The filings fix the terms the launch left open: the preferred pays a cumulative 6.50 percent and converts in August 2029, the common stock leg delivers about 24.9 billion dollars only when Meta settles the forwards by November 19, 2027, and Nvidia's 3 billion dollar cornerstone investment sits inside a program that reaches 97.5 billion dollars with the planned at-the-market leg."
 featured: false
 evidence_grade: "A"
 sources:
+  - title: "Meta Platforms, Inc. Prospectus Supplement, 250,000,000 Series A Depositary Shares, Form 424B5 (accession 0001193125-26-436405)"
+    publisher: "Meta Platforms, via SEC EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526436405/d133631d424b5.htm"
+    published: "2026-10-28"
+  - title: "Meta Platforms, Inc. Prospectus Supplement, 40,000,000 Shares Class A Common Stock, Form 424B5 (accession 0001193125-26-436410)"
+    publisher: "Meta Platforms, via SEC EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526436410/d94886d424b5.htm"
+    published: "2026-10-28"
   - title: "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements"
     publisher: "Meta Platforms, via PR Newswire"
     url: "https://www.morningstar.com/news/pr-newswire/20261026sf80662/meta-announces-launch-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements"
@@ -35,9 +43,13 @@ sources:
     url: "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
     published: "2026-10-27"
 tags: []
-data_as_of: "Update 2026-10-27T05:14:06-04:00: the Nvidia investment and the expanded Muse collaboration are from the companies' joint Globe Newswire announcement of October 27, 2026, read in full in this run. The upsized 25 billion dollar common tranche, the 625 dollar common share price, the 50 dollar depositary share price and the 97.5 billion dollar total program are as reported by Reuters and Dow Jones Newswires on October 27, 2026. Original text: Meta Platforms announcement of October 26, 2026, read in full; all offering terms, amounts and company figures are from that announcement. Reuters reported the launch the same morning. The $60 billion at-the-market program has not been agreed and may not be established."
+data_as_of: "Update 2026-10-28T17:42:23-04:00: final terms are Meta's own, from the two prospectus supplements on Form 424B5 filed October 28, 2026 (accessions 0001193125-26-436405 and 0001193125-26-436410), read in full from the local EDGAR copies in this run: 40,000,000 Class A shares at a public offering price of 625 dollars, proceeds before expenses of 24,916,750,000 dollars on settlement of the forward sale agreements, and 250,000,000 Series A Depositary Shares at 50 dollars, proceeds before expenses of 12,458,375,000 dollars, with a 6.50 percent cumulative dividend on the underlying preferred stock. Update 2026-10-27T05:14:06-04:00: the Nvidia investment and the expanded Muse collaboration are from the companies' joint Globe Newswire announcement of October 27, 2026, read in full in this run. The upsized 25 billion dollar common tranche, the 625 dollar common share price, the 50 dollar depositary share price and the 97.5 billion dollar total program are as reported by Reuters and Dow Jones Newswires on October 27, 2026. Original text: Meta Platforms announcement of October 26, 2026, read in full; all offering terms, amounts and company figures are from that announcement. Reuters reported the launch the same morning. The $60 billion at-the-market program has not been agreed and may not be established."
 update_bump: true
 ---
+
+**Latest, October 28:** Meta has filed the final prospectus supplements for both legs of the package, and the terms left open at launch are now fixed. The preferred leg is 250 million Series A Depositary Shares at 50 dollars each, a total of 12.5 billion dollars, with proceeds before expenses of 12,458,375,000 dollars. Each depositary share is a twentieth of a share of 6.50 percent Series A Mandatory Convertible Preferred Stock with a liquidation preference of 1,000 dollars a share. Dividends are cumulative at 6.50 percent, payable quarterly from February 15, 2027 to August 15, 2029, and each preferred share converts automatically around August 15, 2029 into between 1.3620 and 1.6000 Class A shares, set by the average trading price in the final averaging period. Underwriters have a 30 day option over 37.5 million more depositary shares. Meta intends to list the depositary shares on Nasdaq under the symbol METAM and to use the proceeds for general corporate purposes.
+
+The common stock leg is 40 million Class A shares at a public offering price of 625 dollars, 25 billion dollars in total, sold by forward sellers under forward sale agreements with Morgan Stanley Capital Services LLC and Goldman Sachs & Co. LLC. Meta receives no proceeds at closing. On settlement, at dates it chooses on or before November 19, 2027, it expects proceeds before expenses of 24,916,750,000 dollars, or about 28.7 billion dollars if the underwriters exercise their option over a further 6 million shares in full. The two prospectus supplements replace the wire reports of October 27 as the record for the pricing: the amounts match, and the dividend rate and conversion range are stated here for the first time.
 
 **Latest, October 27:** Nvidia will invest 3 billion dollars in Meta's equity offering, the two companies announced on Tuesday in a joint statement, and they will expand their partnership on Muse, Meta's AI assistant, and the Muse family of models. Meta intends to expand its deployment of Nvidia infrastructure, including Vera Rubin systems and Vera processors for its next generation of AI agents, with Nvidia Spectrum-X networking and BlueField-4 processors, and the companies said they will consider further work on Nvidia's OpenShell reference architecture and its Sentry tool for monitoring agent behaviour. The 3 billion dollars sits inside the up to 5 billion dollars that Nvidia, Advanced Micro Devices and Broadcom had indicated interest in buying between them when the offering launched on Monday. Separately, Reuters and Dow Jones reported that Meta upsized the common stock tranche from 22.5 billion dollars to 25 billion dollars, priced the Class A shares at 625 dollars each and the depositary shares at 50 dollars each, taking the total equity program to 97.5 billion dollars once the planned 60 billion dollar at-the-market leg is included.
 
