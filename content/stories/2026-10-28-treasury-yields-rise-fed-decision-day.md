@@ -1,15 +1,24 @@
 ---
-title: "Treasury yields rise into Fed decision, December hike priced"
+title: "Fed holds at 3.75 to 4.00 percent, two dissent for a hike"
 date: 2026-10-28T07:09:22-04:00
-last_updated: 2026-10-28T07:09:22-04:00
+last_updated: 2026-10-28T14:13:48-04:00
+update_bump: true
 beats: ["rates"]
 regions: ["north-america", "global"]
 status: "story"
-lede: "The two year Treasury yield rose 1.9 basis points to 4.755 percent in Asian trade on Wednesday and the 10 year rose 3.3 basis points to 5.025 percent, as money markets priced a 91 percent chance the Federal Reserve holds today and a December hike as almost fully priced."
-why_it_matters: "The decision itself is close to settled, so the statement language and Chair Kevin Warsh's press conference, which set the perceived probability of a December move, are what will move a curve that is still down more than 12 basis points on the week at 10 years."
+lede: "The Federal Reserve held the federal funds target range at 3.75 to 4.00 percent on Wednesday by a 10 to 2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a 25 basis point hike, and said inflation remains elevated while job gains have kept pace with the workforce."
+why_it_matters: "The hold matched the 91 percent market pricing, so the two hawkish dissents and the statement's firm language on price stability are the signal for December, where a hike is almost fully priced: the Committee gave no ground to the case for waiting on weaker data."
 featured: true
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Federal Reserve issues FOMC statement"
+    publisher: "Federal Reserve"
+    url: "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    published: "2026-10-28"
+  - title: "Implementation Note issued October 28, 2026"
+    publisher: "Federal Reserve"
+    url: "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm"
+    published: "2026-10-28"
   - title: "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision"
     publisher: "Dow Jones Newswires, via Morningstar"
     url: "https://www.morningstar.com/news/dow-jones/202610282028/us-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision"
@@ -23,8 +32,14 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-28"
 tags: []
-data_as_of: "FOMC decision due Wednesday, October 28, 2026 at 14:00 ET. Intraday yields are Tradeweb levels reported by Dow Jones in Asian and European trade on October 28, 2026; closing levels are this site's market tables updated October 28 at 06:00 ET. Hold probability is LSEG money market pricing via Dow Jones and CME FedWatch via Reuters, reported separately and not averaged."
+data_as_of: "Update 2026-10-28T14:13:48-04:00: Federal Reserve FOMC statement and implementation note of October 28, 2026, released at 14:00 ET and read in full from federalreserve.gov in this run; all decision figures, the vote and the statement language are the Federal Reserve's own. The hold matched the 91 percent pricing reported before the decision. Chair Kevin Warsh's press conference, due at 14:30 ET, had not yet taken place at this update. The text below the update is the pre-decision edition of this story. Earlier data note: intraday yields are Tradeweb levels reported by Dow Jones in Asian and European trade on October 28, 2026; closing levels are this site's market tables updated October 28 at 06:00 ET."
 ---
+
+**Latest, October 28:** The Federal Open Market Committee held the target range for the federal funds rate at 3.75 to 4.00 percent, the level set by September's hike, and continued its policy of maintaining ample reserves. The statement was approved by a 10 to 2 vote. Lisa D. Cook and Beth M. Hammack voted against, preferring to raise the range by a quarter of a percentage point at this meeting. Two dissents in favour of an immediate hike, on a decision markets had priced at 91 percent for a hold, mark this as a hawkish hold rather than a pause in the tightening path.
+
+The statement's account of the economy gave the dissenters their ground. Economic activity is expanding at a strong pace, domestic spending has been resilient, productivity growth is strong and capital investment is robust, in the Committee's words, while uncertainty remains elevated in part because of geopolitical developments. Job gains have kept pace with the workforce and the unemployment rate has changed little, a firmer labour reading than the soft September payrolls figure that had weakened the growth case going into the meeting.
+
+On inflation, the Committee said it remains elevated, that gathering more information will help it determine the stance needed to return inflation to the 2 percent goal in a timely way, and concluded, in full: "The Committee will deliver price stability." The implementation note kept the interest rate on reserve balances at 3.90 percent and the primary credit rate at 4.00 percent, both effective October 29. The next decision is on December 9, and pricing going into today put a December hike as almost fully priced; nothing in the statement argues against it. Chair Kevin Warsh's press conference follows at 14:30 ET.
 
 Treasury yields rose on Wednesday morning as the Federal Open Market Committee prepared to deliver its decision at 14:00 ET. In Asian trade the two year yield rose 1.9 basis points to 4.755 percent and the 10 year rose 3.3 basis points to 5.025 percent, according to Tradeweb levels reported by Dow Jones, and in European morning trade the 10 year was up 1.8 basis points at 5.010 percent, with euro area and UK yields also higher on the day.
 
