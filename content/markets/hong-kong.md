@@ -2,14 +2,14 @@
 title: "Hong Kong"
 date: "2026-10-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed hourly."
-data_as_of: "Oct 28, 12:21 PM ET"
+data_as_of: "Oct 28, 1:17 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 12:21 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 1:17 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Hang Seng (index)</td><td class="num">23,041 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="down">-0.73%</span></td><td class="num"><span class="down">-3.46%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 5.1,3.7 10.1,2.4 15.2,11.4 20.2,10.5 25.3,7.1 30.3,9.2 35.4,14.0 40.4,8.1 45.5,7.2 50.5,6.2 55.6,6.6 60.6,10.1 65.7,8.4 70.7,12.9 75.8,15.9 80.8,26.0 85.9,23.8 90.9,22.1 96.0,24.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$21.8400 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-1.27%</span></td><td class="num"><span class="down">-0.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.4 8.7,10.6 13.1,9.1 17.5,26.0 21.8,20.3 26.2,24.6 30.5,25.7 34.9,21.7 39.3,12.0 43.6,14.9 48.0,3.7 52.4,16.0 56.7,11.4 61.1,11.1 65.5,14.9 69.8,10.6 74.2,13.4 78.5,19.7 82.9,21.4 87.3,15.1 91.6,10.3 96.0,18.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/HKD</td><td class="num">7.8452 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">-0.00%</span></td><td class="num"><span class="up">+0.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.5 4.4,9.3 8.7,6.5 13.1,6.3 17.5,5.9 21.8,4.8 26.2,5.5 30.5,3.4 34.9,4.0 39.3,4.0 43.6,4.4 48.0,4.0 52.4,2.0 56.7,3.4 61.1,4.4 65.5,3.8 69.8,3.6 74.2,2.0 78.5,5.9 82.9,26.0 87.3,13.8 91.6,8.5 96.0,8.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$21.8300 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-1.29%</span></td><td class="num"><span class="down">-0.80%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.4 8.7,10.6 13.1,9.1 17.5,26.0 21.8,20.3 26.2,24.6 30.5,25.7 34.9,21.7 39.3,12.0 43.6,14.9 48.0,3.7 52.4,16.0 56.7,11.4 61.1,11.1 65.5,14.9 69.8,10.6 74.2,13.4 78.5,19.7 82.9,21.4 87.3,15.1 91.6,10.3 96.0,18.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/HKD</td><td class="num">7.8453 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">-0.00%</span></td><td class="num"><span class="up">+0.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.5 4.4,9.3 8.7,6.5 13.1,6.3 17.5,5.9 21.8,4.8 26.2,5.5 30.5,3.4 34.9,4.0 39.3,4.0 43.6,4.4 48.0,4.0 52.4,2.0 56.7,3.4 61.1,4.4 65.5,3.8 69.8,3.6 74.2,2.0 78.5,5.9 82.9,26.0 87.3,13.8 91.6,8.5 96.0,8.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p>No recent stories name Hong Kong in the headline.</p>
