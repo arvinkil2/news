@@ -1,13 +1,13 @@
 ---
 title: "Healey delivers first Budget with 15 billion pounds of headroom"
 date: 2026-10-28T07:09:22-04:00
-last_updated: 2026-10-28T09:50:41-04:00
+last_updated: 2026-10-28T12:43:19-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "Chancellor John Healey delivered his first Budget with the Office for Budget Responsibility putting headroom against the fiscal rules at 15 billion pounds in 2029-30, down from 24 billion in March, a temporary rise in the bank surcharge from 3 percent to 6 percent, and a 100 pound payment to about 20 million households in council tax bands A to D."
-why_it_matters: "The Budget spends part of the buffer built up last year on absorbing the Iran war shock and on household support, and leaves 15 billion pounds of headroom for the gilt market to judge: bank shares rallied because the surcharge stopped at 6 percent rather than returning to the 8 percent lenders had feared, and the remaining test is the Debt Management Office issuance remit and the Bank of England's November 5 decision."
+lede: "Chancellor John Healey delivered his first Budget with headroom against the fiscal rules at 15 billion pounds in 2029-30, down from 24 billion in March, a temporary rise in the bank surcharge from 3 percent to 6 percent, and a further 10 billion pounds of economic and military support for Ukraine, the largest UK package announced so far."
+why_it_matters: "The Budget spends part of the buffer built up last year on absorbing the Iran war shock and on household support, and leaves 15 billion pounds of headroom for the gilt market to judge: bank shares rallied because the surcharge stopped at 6 percent rather than returning to the 8 percent lenders had feared, the Ukraine package takes total UK commitments to 35 billion pounds, and the remaining test is the Debt Management Office issuance remit and the Bank of England's November 5 decision."
 featured: true
 evidence_grade: "B"
 sources:
@@ -43,9 +43,19 @@ sources:
     publisher: "Yahoo Finance market data, via this site's market tables"
     url: "https://finance.yahoo.com"
     published: "2026-10-28"
+  - title: "UK boosts support to Ukraine with \u00a310 billion package"
+    publisher: "HM Treasury, via GOV.UK"
+    url: "https://www.gov.uk/government/news/uk-boosts-support-to-ukraine-with-10-billion-package"
+    published: "2026-10-28"
+  - title: "Further support for Ukraine"
+    publisher: "HM Treasury, via GOV.UK"
+    url: "https://www.gov.uk/government/news/further-support-for-ukraine"
+    published: "2026-10-28"
 tags: []
-data_as_of: "Update 2026-10-28T09:50:41-04:00: the Chancellor's Budget statement to the House of Commons on October 28, 2026 and the Office for Budget Responsibility outlook published with it, as set out in the Guardian's key points summary of the statement, read in full in this run via the live browser, and Reuters reporting of the statement read in full in this run. Headroom, borrowing, growth and debt figures are the OBR's as stated by the Chancellor. The monetary policy remit letter was published by HM Treasury on GOV.UK on October 28, 2026. The text below the update is the pre-statement edition of this story, written before the statement began."
+data_as_of: "Update 2026-10-28T12:43:19-04:00: HM Treasury news releases of October 28, 2026 on GOV.UK, read in full in this run, for the Ukraine package: a further 10 billion pounds of economic and military support, taking total UK commitments to 35 billion pounds. All package figures are HM Treasury's own. Update 2026-10-28T09:50:41-04:00: the Chancellor's Budget statement to the House of Commons on October 28, 2026 and the Office for Budget Responsibility outlook published with it, as set out in the Guardian's key points summary of the statement, read in full in this run via the live browser, and Reuters reporting of the statement read in full in this run. Headroom, borrowing, growth and debt figures are the OBR's as stated by the Chancellor. The monetary policy remit letter was published by HM Treasury on GOV.UK on October 28, 2026. The text below the update is the pre-statement edition of this story, written before the statement began."
 ---
+
+**Latest, October 28:** The Budget also carried a further 10 billion pounds of economic and military support for Ukraine, which HM Treasury called the largest ever package of UK financial backing for the country and which takes total UK commitments to 35 billion pounds. The package is 7 billion pounds of economic support made available over three years, including up to 5.5 billion pounds of World Bank guarantees and a 500 million pound grant contribution to the World Bank International Development Association crisis facility, a 3 billion pound increase in UK Export Finance capacity for Ukraine, bringing its total to 6.5 billion pounds, and 500 million pounds of additional military support for Ukraine's air defences this winter. It is in addition to the 3 billion pounds a year already committed for as long as it takes. Prime Minister Andy Burnham and Chancellor John Healey told President Zelenskyy of the decision this morning.
 
 **Latest, October 28:** Chancellor John Healey has delivered his first Budget, and the fiscal rules are met with a smaller buffer. Healey told the Commons that the Office for Budget Responsibility puts headroom against the stability rule at 15 billion pounds in 2029-30, rising to 22 billion pounds in 2030-31, against 24 billion pounds of headroom at the March forecast. He said he had chosen to use some of the headroom established last year to absorb the impact of the Iran war, and that borrowing falls from 4.2 percent of GDP this year to 3.4 percent next year, 2.9 percent in 2028-29, 2.1 percent in 2029-30 and 1.8 percent in 2030-31. The OBR forecasts growth of 1.2 percent this year and 1.0 percent next year, then 1.6 percent in 2028, 1.8 percent in 2029, 1.7 percent in 2030 and 1.6 percent in 2031, with debt at 83.2 percent of GDP this year and 83.8 percent next year before falling to 81.7 percent by the end of the forecast.
 
