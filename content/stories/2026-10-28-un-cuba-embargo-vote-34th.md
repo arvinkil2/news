@@ -1,12 +1,13 @@
 ---
-title: "UN assembly votes for 34th time on Cuba embargo"
+title: "Cuba embargo resolution passes 130 to 17 at UN"
 date: 2026-10-28T07:11:30-04:00
-last_updated: 2026-10-28T07:11:30-04:00
+last_updated: 2026-10-28T13:11:48-04:00
+update_bump: true
 beats: ["politics"]
 regions: ["latin-america", "north-america"]
 status: "story"
-lede: "The UN General Assembly votes on Wednesday for the 34th time on a Cuban drafted resolution calling for an end to the United States embargo, after a Tuesday debate in which Cuba's foreign minister interrupted the US ambassador and the session was briefly suspended."
-why_it_matters: "The vote is non-binding, but this year's count is the test of whether Washington's tightened embargo and its lobbying against the resolution move any of the near unanimous majority that has backed the text in recent decades."
+lede: "The UN General Assembly adopted Cuba's resolution calling for an end to the United States embargo by 130 votes to 17, with 25 abstentions, the weakest support in the vote's 34 years after an intensive United States lobbying campaign."
+why_it_matters: "The resolution is non-binding, but support fell from 165 votes in favour last year, and Germany, Italy and Latvia refrained from voting for the first time, a sign that Washington's pressure is eroding the near unanimity that has isolated it on the embargo for three decades."
 featured: false
 evidence_grade: "B"
 sources:
@@ -18,9 +19,19 @@ sources:
     publisher: "El País Uruguay"
     url: "https://www.elpais.com.uy/mundo/el-embajador-de-ee-uu-ante-la-onu-sugiere-que-habra-cambios-en-la-votacion-sobre-el-embargo-a-cuba"
     published: "2026-10-28"
+  - title: "US Wins Over 23 More Countries in UN Vote Against Cuba Embargo"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-28/us-wins-over-23-more-countries-in-un-vote-against-cuba-embargo"
+    published: "2026-10-28"
+  - title: "UN condemns US economic embargo of Cuba though more nations sit out after Trump administration push"
+    publisher: "Associated Press, via The Reflector"
+    url: "https://www.reflector.com/news/national/un-condemns-us-economic-embargo-of-cuba-though-more-nations-sit-out-after-trump-administration/article_75b82367-fcfd-58ee-a7db-cdfe427fe1d1.html"
+    published: "2026-10-28"
 tags: []
-data_as_of: "UN News report of October 27, 2026, read in full in this run, is the source for the debate, the voting history and Ambassador Waltz's export figure, which is his claim in debate and is attributed to him. The suggestion of changes in this year's voting is from El País Uruguay's headline in the feed pool, in Spanish; the underlying United States lobbying account was single-sourced to Clarín on October 26 and remains flagged as such. The vote itself had not taken place when this story was written."
+data_as_of: "Update 2026-10-28T13:11:48-04:00: Associated Press report of the October 28, 2026 vote, read in full in this run, for the tally of 130 in favour, 17 against and 25 abstentions and for the countries voting no or refraining for the first time; the tally is corroborated by Bloomberg's report of the vote in the feed pool. The United Nations' own meeting record had not been published when this update was written, so the figures are AP's reporting of the General Assembly vote, not the UN record. UN News report of October 27, 2026, read in full in this run, is the source for the debate, the voting history and Ambassador Waltz's export figure, which is his claim in debate and is attributed to him. The suggestion of changes in this year's voting is from El País Uruguay's headline in the feed pool, in Spanish; the underlying United States lobbying account was single-sourced to Clarín on October 26 and remains flagged as such."
 ---
+
+**Latest, October 28:** The General Assembly has voted, and the margin moved as Washington intended. The resolution was adopted by 130 votes to 17, with 25 abstentions, down from 165 in favour, seven against and 12 abstentions last year, and the lowest support since the annual vote began in 1992. Bosnia, Colombia, Costa Rica, Ecuador, Lithuania, Morocco, North Macedonia, Paraguay and Slovenia were among the countries voting no, most of them for the first time, alongside the United States and Israel, and for the first time in 34 years Germany, Italy and Latvia were among the countries that refrained from voting. The Associated Press attributed the shift to the Trump administration's campaign to influence the outcome, which included lobbying governments ahead of the vote and public appeals by Ambassador Mike Waltz urging members to oppose the resolution.
 
 The General Assembly opened its annual debate on the embargo on Tuesday and votes on Wednesday, the 34th time member states have taken up the Cuban drafted resolution calling for an end to the economic, commercial and financial embargo the United States first imposed in 1960. The assembly has called for the embargo to end on 33 previous occasions. Support has grown markedly since the first vote in 1992, when 59 countries backed the resolution, three opposed it, 71 abstained and 46 did not vote, and it peaked at 191 votes in favour in 2015, 2016 and 2017.
 
