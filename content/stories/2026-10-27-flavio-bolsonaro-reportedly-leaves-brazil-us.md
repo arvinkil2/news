@@ -1,16 +1,20 @@
 ---
-title: "Flavio Bolsonaro reportedly leaves Brazil for United States"
+title: "Flavio Bolsonaro lands in Miami after leaving Brazil"
 date: 2026-10-27T14:43:17-04:00
-last_updated: 2026-10-28T07:09:47-04:00
+last_updated: 2026-10-28T11:22:48-04:00
 beats: ["politics"]
 regions: ["latin-america", "north-america"]
 status: "developing"
 developing: true
-lede: "The United States State Department says it will issue visas to Senator Flavio Bolsonaro and his family, and Reuters reports, citing three sources, that he has left Brazil for the United States after refusing to comply with a Supreme Court order to surrender his passports."
-why_it_matters: "If confirmed, the departure would put the defeated candidate outside Brazil while he faces at least two federal investigations and a court order barring him from leaving, and it would test whether the order is enforced."
+lede: "Flavio Bolsonaro landed in Miami on Wednesday morning, a United States official said, after crossing into Argentina by land on Tuesday night with his wife and two daughters and flying on privately via Guayaquil, Ecuador."
+why_it_matters: "The arrival confirms the defeated candidate is now in the United States while Brazilian authorities have cancelled his passports in a money laundering investigation and a court order required him to surrender them, putting the question of enforcement, and of Washington's decision to issue visas to him and his family, in the open."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
+  - title: "Flavio Bolsonaro lands in Miami after fleeing Brazil"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+    published: "2026-10-28"
   - title: "Flavio Bolsonaro flees Brazil for US amid investigation, reports"
     publisher: "Deutsche Welle, with AP and AFP"
     url: "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094"
@@ -24,9 +28,11 @@ sources:
     url: "https://www.krps.org/2026-10-27/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
     published: "2026-10-27"
 tags: []
-data_as_of: "Update 2026-10-28T07:09:47-04:00: the visa statement is a senior State Department official's, as reported by Reuters and by the Associated Press on October 27, 2026, both read via search results in this run. Reuters cited three sources for the departure and one source close to the family for a landing in Florida; his exact whereabouts remain unconfirmed and no Brazilian authority has confirmed the exit on the record. Lula's runoff share of 51.8 percent is from AP reporting of the result. Earlier note, October 27, 2026: DW reported that accounts differed on whether he complied with the passport order, and AFP cited a police official saying his passports had been cancelled and there was no official record of him leaving Brazil. Graded C because the departure itself still rests on unnamed sources. Developing item."
+data_as_of: "Update 2026-10-28T11:22:48-04:00: the New York Times report of October 28, 2026, updated 10:41 a.m. ET, as read in its accessible portion in this run: a United States official said Bolsonaro landed in Miami on Wednesday, a Reuters photograph shows him arriving at Opa-locka airport near Miami, and the paper reports the land crossing into Argentina on Tuesday night and the onward flights via Guayaquil. The remainder of that article sits behind a sign-in gate and was not read, including its full account of the court order. Update 2026-10-28T07:09:47-04:00: the visa statement is a senior State Department official's, as reported by Reuters and by the Associated Press on October 27, 2026, both read via search results in this run. Reuters cited three sources for the departure and one source close to the family for a landing in Florida; his exact whereabouts remain unconfirmed and no Brazilian authority has confirmed the exit on the record. Lula's runoff share of 51.8 percent is from AP reporting of the result. Earlier note, October 27, 2026: DW reported that accounts differed on whether he complied with the passport order, and AFP cited a police official saying his passports had been cancelled and there was no official record of him leaving Brazil. Graded C because the departure itself still rests on unnamed sources. Developing item."
 update_bump: true
 ---
+
+**Latest, October 28:** He is in Miami. A United States official told the New York Times that Flavio Bolsonaro landed in Miami on Wednesday, and he was seen just after 9:30 a.m. leaving a plane at Opa-locka airport, a private airport near the city, in a Reuters photograph. The Times reports he crossed from Brazil into Argentina by land on Tuesday night with his wife and two daughters, then flew privately to Guayaquil, Ecuador, and took another flight from there. Brazilian authorities had cancelled his passports earlier on Tuesday in a money laundering investigation, the paper reports, and he is separately subject to a police inquiry over millions raised from a disgraced banker for a biopic of his father.
 
 Update, Wednesday: the United States has said it will admit him. "The State Department will issue visas to Flavio Bolsonaro and his family and allow them entry into the United States," a senior State Department official said on Tuesday. Reuters reported, citing three sources, that Bolsonaro left Brazil for the United States after refusing to comply with the Supreme Court order, and that one source close to the family said he had landed in Florida, without saying where. He has yet to concede to Lula, who took 51.8 percent of the runoff vote, and President Trump said on Monday that the Brazilian vote "looked like another rigged election," without mentioning the departure. Lula has accused Washington of colluding with the Bolsonaros to restore them to power. His exact whereabouts remain unconfirmed.
 
