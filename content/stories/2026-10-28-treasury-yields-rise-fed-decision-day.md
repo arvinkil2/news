@@ -1,13 +1,13 @@
 ---
 title: "Fed holds at 3.75 to 4.00 percent, two dissent for a hike"
 date: 2026-10-28T07:09:22-04:00
-last_updated: 2026-10-28T14:13:48-04:00
+last_updated: 2026-10-28T15:23:30-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["north-america", "global"]
 status: "story"
-lede: "The Federal Reserve held the federal funds target range at 3.75 to 4.00 percent on Wednesday by a 10 to 2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a 25 basis point hike, and said inflation remains elevated while job gains have kept pace with the workforce."
-why_it_matters: "The hold matched the 91 percent market pricing, so the two hawkish dissents and the statement's firm language on price stability are the signal for December, where a hike is almost fully priced: the Committee gave no ground to the case for waiting on weaker data."
+lede: "The Federal Reserve held the federal funds target range at 3.75 to 4.00 percent on Wednesday by a 10 to 2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a 25 basis point hike, and Chair Kevin Warsh told his press conference that growth has strengthened and inflation is too high, and announced that one FOMC meeting in 2027 and two in 2028 will be strategy sessions with no rate vote, leaving six rate decisions in 2028."
+why_it_matters: "The hold matched the 91 percent market pricing, and Warsh gave no ground on December, where a hike is almost fully priced: he pointed to third quarter growth likely above 3 percent and said more information will determine the next step, while the calendar change cuts the number of rate setting meetings from 2028, so each remaining decision carries more weight."
 featured: true
 evidence_grade: "A"
 sources:
@@ -31,9 +31,21 @@ sources:
     publisher: "Yahoo Finance market data, via this site's market tables"
     url: "https://finance.yahoo.com"
     published: "2026-10-28"
+  - title: "Warsh Makes Change to Fed Meeting Schedule for 2027"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/videos/2026-10-28/warsh-makes-change-to-fed-meeting-schedule-for-2027-video"
+    published: "2026-10-28"
+  - title: "Fed Chairman Kevin Warsh: More information will help determine appropriate policy steps"
+    publisher: "investinglive"
+    url: "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/"
+    published: "2026-10-28"
 tags: []
-data_as_of: "Update 2026-10-28T14:13:48-04:00: Federal Reserve FOMC statement and implementation note of October 28, 2026, released at 14:00 ET and read in full from federalreserve.gov in this run; all decision figures, the vote and the statement language are the Federal Reserve's own. The hold matched the 91 percent pricing reported before the decision. Chair Kevin Warsh's press conference, due at 14:30 ET, had not yet taken place at this update. The text below the update is the pre-decision edition of this story. Earlier data note: intraday yields are Tradeweb levels reported by Dow Jones in Asian and European trade on October 28, 2026; closing levels are this site's market tables updated October 28 at 06:00 ET."
+data_as_of: "Update 2026-10-28T15:23:30-04:00: Chair Kevin Warsh press conference of October 28, 2026, as reported live by Bloomberg and investinglive and read in this run; the Federal Reserve had not published a press conference transcript at this update. Earlier update 2026-10-28T14:13:48-04:00: Federal Reserve FOMC statement and implementation note of October 28, 2026, released at 14:00 ET and read in full from federalreserve.gov in this run; all decision figures, the vote and the statement language are the Federal Reserve's own. The hold matched the 91 percent pricing reported before the decision. Chair Kevin Warsh's press conference, due at 14:30 ET, had not yet taken place at this update. The text below the update is the pre-decision edition of this story. Earlier data note: intraday yields are Tradeweb levels reported by Dow Jones in Asian and European trade on October 28, 2026; closing levels are this site's market tables updated October 28 at 06:00 ET."
 ---
+
+**Latest, October 28, press conference:** Chair Kevin Warsh announced a change to the meeting calendar. The FOMC will still meet eight times a year, but in 2027 one meeting will be devoted to broad strategy discussion, with no vote on the federal funds rate and no policy statement expected, and in 2028 two meetings will take that form, leaving six rate setting meetings that year. Warsh said he does not anticipate a policy decision at the strategy meetings and that the change allows a focus on longer term deliberations. Bloomberg reported that he first proposed fewer policy meetings in July, on the argument that more data can accumulate between decisions.
+
+On the economy, Warsh said growth has strengthened, with first half growth revised up to about 2.4 percent and the third quarter likely above 3 percent, led by consumer spending, with business investment rising at about a double digit pace and capital spending historically high. He said the Committee's discussion focused mainly on the price stability side of its mandate, that inflation is too high and that energy and related prices have moved higher again in recent weeks, and that its job is to make sure inflation does not broaden out. Employment conditions are positive, he said, and more information will help the Committee determine appropriate policy steps; he declined to call financial conditions tight. Bloomberg reported after the press conference that bond traders were pricing roughly a 90 percent probability of a rate hike in December.
 
 **Latest, October 28:** The Federal Open Market Committee held the target range for the federal funds rate at 3.75 to 4.00 percent, the level set by September's hike, and continued its policy of maintaining ample reserves. The statement was approved by a 10 to 2 vote. Lisa D. Cook and Beth M. Hammack voted against, preferring to raise the range by a quarter of a percentage point at this meeting. Two dissents in favour of an immediate hike, on a decision markets had priced at 91 percent for a hold, mark this as a hawkish hold rather than a pause in the tightening path.
 

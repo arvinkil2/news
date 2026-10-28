@@ -1,12 +1,13 @@
 ---
 title: "Three Russian diesel tankers steam toward United States"
 date: 2026-10-28T07:04:12-04:00
-last_updated: 2026-10-28T07:04:12-04:00
+last_updated: 2026-10-28T15:23:30-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["north-america", "europe"]
 status: "story"
-lede: "Three tankers carrying a collective 924,000 barrels of Russian diesel are en route to the United States, Russian Deputy Prime Minister Alexander Novak said on Tuesday, with a fourth expected to depart on Wednesday."
-why_it_matters: "The cargoes are the first physical test of the Trump and Putin diesel deal and its sanctions waiver, and one vessel named by trackers is itself under United States sanctions, which sets up a legal and political fight on arrival."
+lede: "Three tankers carrying a collective 924,000 barrels of Russian diesel are en route to the United States, and Senator Richard Blumenthal has written to two shipowners demanding they recall their vessels, arguing that Treasury General License 135 cannot override the 2022 statutory ban on imports of Russian oil products."
+why_it_matters: "The letters put the legal fight in writing before any cargo lands: Blumenthal gave Eastern Mediterranean Maritime and PetroVietnam until October 31 to account for their shipments, and his letters name a vessel the first reports of the tanker wave did not, the PVT Azura, tracked toward Norfolk with arrival expected on November 2."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,9 +23,21 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html"
     published: "2026-10-27"
+  - title: "Blumenthal Demands Shipping Companies Recall Tankers Carrying Illegal Russian Diesel"
+    publisher: "U.S. Senator Richard Blumenthal"
+    url: "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-shipping-companies-recall-tankers-carrying-illegal-russian-diesel"
+    published: "2026-10-27"
+  - title: "U.S. Senator Demands Russian Diesel Tanker Turn Around as Legal Fight Escalates"
+    publisher: "gCaptain"
+    url: "https://gcaptain.com/u-s-senator-demands-russian-diesel-tanker-turn-around-as-legal-fight-escalates/"
+    published: "2026-10-28"
 tags: []
-data_as_of: "Novak statement and Kpler tracking reported October 27 to 28, 2026. The 924,000 barrel collective figure is Kpler data as reported by Reuters. Vessel sanctions status is as reported by Reuters and Splash247; no United States arrival has been confirmed."
+data_as_of: "Update 2026-10-28T15:23:30-04:00: Senator Blumenthal press release and letter text of October 27, 2026, read in full from blumenthal.senate.gov in this run, and gCaptain reporting of October 28, 2026, read in full. Earlier: Novak statement and Kpler tracking reported October 27 to 28, 2026. The 924,000 barrel collective figure is Kpler data as reported by Reuters. Vessel sanctions status is as reported by Reuters and Splash247; no United States arrival has been confirmed."
 ---
+
+**Latest, October 28:** Senator Richard Blumenthal wrote on October 27 to two shipping companies demanding that they recall their tankers and refrain from future transactions in Russian diesel. His letter to Eastern Mediterranean Maritime Limited covers the Agioi Fanendes, carrying nearly 40,000 metric tons of diesel loaded at a Russian port, with a declared destination of the Port of New York and New Jersey and an expected arrival date of November 7. His letter to Vietnam National Industry and Energy Group (PetroVietnam) covers the PVT Azura, which departed St. Petersburg reportedly carrying nearly 109,000 barrels of diesel, with a declared destination of Norfolk, Virginia, and an expected arrival date of November 2.
+
+Blumenthal's argument is that the shipments are illegal whatever the administration has authorised. "We recognize that the Treasury Department issued General License No. 135 which reports to authorize transactions for Russia's diesel exports, but no such license can supersede clear, unambiguous law," he wrote, citing the Ending Importation of Russian Oil Act of 2022. He asked both companies to respond by October 31, identifying the seller, purchaser, charterer, insurer and terminal operator for their cargoes and stating whether the Treasury Department or any other federal agency gave them direction. The Treasury Department maintains that the arrangement is legal, gCaptain reported.
 
 Three tankers carrying Russian diesel are en route to the United States, Russian Deputy Prime Minister Alexander Novak told reporters on Tuesday, as part of the deal between President Donald Trump and President Vladimir Putin to ease sanctions in exchange for Moscow releasing diesel onto global markets. A fourth tanker was expected to set off on Wednesday, Novak added.
 
