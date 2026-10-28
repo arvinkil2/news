@@ -1,0 +1,46 @@
+---
+title: "IFED CIG ROCKIES BASIS Bank Participation"
+date: "2026-10-28"
+lede: "Bank positions in IFED CIG ROCKIES BASIS: all-bank net -191,520 contracts, positions as of Tue 6 Oct 2026."
+data_as_of: "Positions as of Tue 6 Oct 2026; report month 2026-10"
+---
+
+<p class="market-table-updated">Positions as of Tue 6 Oct 2026 - report month 2026-10</p>
+<table class="market-table"><tbody>
+<tr><td>Market</td><td>IFED CIG ROCKIES BASIS</td></tr>
+<tr><td>Months in dataset</td><td>57</td></tr>
+<tr><td>Coverage</td><td>2022-02 to 2026-10</td></tr>
+<tr><td>Months with a suppressed bank count</td><td>35</td></tr>
+<tr><td>Latest US bank net, contracts</td><td>-152,898</td></tr>
+<tr><td>Latest non-US bank net, contracts</td><td>-38,622</td></tr>
+<tr><td>Latest all-bank net, contracts</td><td>-191,520</td></tr>
+</tbody></table>
+<h2>Bank positions, last 24 months</h2>
+<table class="market-table"><thead><tr><th>Month</th><th>US banks</th><th>US long</th><th>US short</th><th>US net</th><th>Non-US banks</th><th>Non-US long</th><th>Non-US short</th><th>Non-US net</th><th>All banks</th><th>All net</th></tr></thead><tbody>
+<tr><td>2026-10</td><td class="num">5</td><td class="num">214</td><td class="num">153,112</td><td class="num">-152,898</td><td class="num">4</td><td class="num">1,092</td><td class="num">39,714</td><td class="num">-38,622</td><td class="num">9</td><td class="num">-191,520</td></tr>
+<tr><td>2026-09</td><td class="num">5</td><td class="num">238</td><td class="num">157,634</td><td class="num">-157,396</td><td class="num">4</td><td class="num">1,490</td><td class="num">36,845</td><td class="num">-35,355</td><td class="num">9</td><td class="num">-192,751</td></tr>
+<tr><td>2026-08</td><td class="num">5</td><td class="num">222</td><td class="num">158,426</td><td class="num">-158,204</td><td class="num">4</td><td class="num">1,307</td><td class="num">34,704</td><td class="num">-33,397</td><td class="num">9</td><td class="num">-191,601</td></tr>
+<tr><td>2026-07</td><td class="num">5</td><td class="num">222</td><td class="num">157,897</td><td class="num">-157,675</td><td class="num">4</td><td class="num">1,186</td><td class="num">33,321</td><td class="num">-32,135</td><td class="num">9</td><td class="num">-189,810</td></tr>
+<tr><td>2026-06</td><td class="num">5</td><td class="num">8</td><td class="num">157,985</td><td class="num">-157,977</td><td class="num">4</td><td class="num">1,248</td><td class="num">35,995</td><td class="num">-34,747</td><td class="num">9</td><td class="num">-192,724</td></tr>
+<tr><td>2026-05</td><td class="num"><span class="blank">suppressed</span></td><td class="num">8</td><td class="num">160,614</td><td class="num">-160,606</td><td class="num"><span class="blank">suppressed</span></td><td class="num">90</td><td class="num">35,354</td><td class="num">-35,264</td><td class="num">8</td><td class="num">-195,870</td></tr>
+<tr><td>2026-04</td><td class="num"><span class="blank">suppressed</span></td><td class="num">8</td><td class="num">163,290</td><td class="num">-163,282</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">36,645</td><td class="num">-36,645</td><td class="num">8</td><td class="num">-199,927</td></tr>
+<tr><td>2026-03</td><td class="num"><span class="blank">suppressed</span></td><td class="num">222</td><td class="num">167,724</td><td class="num">-167,502</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">34,607</td><td class="num">-34,607</td><td class="num">8</td><td class="num">-202,109</td></tr>
+<tr><td>2026-02</td><td class="num"><span class="blank">suppressed</span></td><td class="num">222</td><td class="num">170,052</td><td class="num">-169,830</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">35,222</td><td class="num">-35,222</td><td class="num">8</td><td class="num">-205,052</td></tr>
+<tr><td>2026-01</td><td class="num"><span class="blank">suppressed</span></td><td class="num">261</td><td class="num">165,522</td><td class="num">-165,261</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">35,156</td><td class="num">-35,156</td><td class="num">8</td><td class="num">-200,417</td></tr>
+<tr><td>2025-12</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">171,046</td><td class="num">-171,046</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">37,440</td><td class="num">-37,440</td><td class="num">8</td><td class="num">-208,486</td></tr>
+<tr><td>2025-11</td><td class="num">5</td><td class="num">642</td><td class="num">167,355</td><td class="num">-166,713</td><td class="num">4</td><td class="num">0</td><td class="num">35,215</td><td class="num">-35,215</td><td class="num">9</td><td class="num">-201,928</td></tr>
+<tr><td>2025-10</td><td class="num">5</td><td class="num">642</td><td class="num">163,552</td><td class="num">-162,910</td><td class="num">4</td><td class="num">0</td><td class="num">35,245</td><td class="num">-35,245</td><td class="num">9</td><td class="num">-198,155</td></tr>
+<tr><td>2025-09</td><td class="num">5</td><td class="num">1,498</td><td class="num">167,632</td><td class="num">-166,134</td><td class="num">4</td><td class="num">0</td><td class="num">33,633</td><td class="num">-33,633</td><td class="num">9</td><td class="num">-199,767</td></tr>
+<tr><td>2025-08</td><td class="num">5</td><td class="num">917</td><td class="num">163,464</td><td class="num">-162,547</td><td class="num">4</td><td class="num">0</td><td class="num">28,495</td><td class="num">-28,495</td><td class="num">9</td><td class="num">-191,042</td></tr>
+<tr><td>2025-07</td><td class="num">5</td><td class="num">917</td><td class="num">163,245</td><td class="num">-162,328</td><td class="num">4</td><td class="num">0</td><td class="num">20,698</td><td class="num">-20,698</td><td class="num">9</td><td class="num">-183,026</td></tr>
+<tr><td>2025-06</td><td class="num"><span class="blank">suppressed</span></td><td class="num">275</td><td class="num">157,209</td><td class="num">-156,934</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">18,538</td><td class="num">-18,538</td><td class="num">8</td><td class="num">-175,472</td></tr>
+<tr><td>2025-05</td><td class="num"><span class="blank">suppressed</span></td><td class="num">61</td><td class="num">149,259</td><td class="num">-149,198</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">16,834</td><td class="num">-16,834</td><td class="num">8</td><td class="num">-166,032</td></tr>
+<tr><td>2025-04</td><td class="num"><span class="blank">suppressed</span></td><td class="num">31</td><td class="num">130,938</td><td class="num">-130,907</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">4,164</td><td class="num">-4,164</td><td class="num">6</td><td class="num">-135,071</td></tr>
+<tr><td>2025-03</td><td class="num"><span class="blank">suppressed</span></td><td class="num">186</td><td class="num">127,449</td><td class="num">-127,263</td><td class="num"><span class="blank">suppressed</span></td><td class="num">0</td><td class="num">4,257</td><td class="num">-4,257</td><td class="num">5</td><td class="num">-131,520</td></tr>
+<tr><td>2025-02</td><td class="num"><span class="blank">suppressed</span></td><td class="num">484</td><td class="num">127,369</td><td class="num">-126,885</td><td class="num"><span class="blank">suppressed</span></td><td class="num">28</td><td class="num">3,387</td><td class="num">-3,359</td><td class="num">5</td><td class="num">-130,244</td></tr>
+<tr><td>2025-01</td><td class="num"><span class="blank">suppressed</span></td><td class="num">326</td><td class="num">139,856</td><td class="num">-139,530</td><td class="num"><span class="blank">suppressed</span></td><td class="num">308</td><td class="num">3,285</td><td class="num">-2,977</td><td class="num">5</td><td class="num">-142,507</td></tr>
+<tr><td>2024-12</td><td class="num"><span class="blank">suppressed</span></td><td class="num">734</td><td class="num">152,317</td><td class="num">-151,583</td><td class="num"><span class="blank">suppressed</span></td><td class="num">536</td><td class="num">4,250</td><td class="num">-3,714</td><td class="num">5</td><td class="num">-155,297</td></tr>
+<tr><td>2024-11</td><td class="num"><span class="blank">suppressed</span></td><td class="num">1,103</td><td class="num">145,635</td><td class="num">-144,532</td><td class="num"><span class="blank">suppressed</span></td><td class="num">587</td><td class="num">2,697</td><td class="num">-2,110</td><td class="num">5</td><td class="num">-146,642</td></tr>
+</tbody></table>
+<p class="gm-method">Net is gross long minus gross short; the report publishes gross positions and the net is computed here. A suppressed bank count means the group held fewer than four banks that month; the split was withheld, not zero. Months where the split was withheld are part of the record and stay in the table.</p>
+<p class="data-vintage">Source: CFTC Bank Participation Report, monthly, futures. Positions as of Tue 6 Oct 2026.</p>
