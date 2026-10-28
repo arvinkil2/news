@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "Vertiv reported third quarter net sales of 4,313 million dollars, up 61 percent from a year earlier, with adjusted diluted earnings of 2.21 dollars a share, and raised its full year 2026 sales guidance by 650 million dollars to a midpoint of 14,650 million dollars."
 why_it_matters: "Vertiv sells the power and cooling equipment AI data centres run on, and organic orders growth above 100 percent, with sales and earnings well above consensus, is a direct company level read on how fast the buildout is still accelerating."
-featured: false
+featured: true
 evidence_grade: "A"
 sources:
   - title: "Vertiv Reports Strong Third Quarter 2026 (press release, Exhibit 99.1 to Form 8-K)"

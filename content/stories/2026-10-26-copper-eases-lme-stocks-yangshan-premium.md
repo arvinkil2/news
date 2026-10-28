@@ -1,7 +1,7 @@
 ---
 title: "Copper eases in London as warehouse stocks build"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-27T07:13:30-04:00
+last_updated: 2026-10-28T07:04:12-04:00
 beats: ["commodities"]
 regions: ["global", "asia-pacific"]
 status: "story"
@@ -41,3 +41,5 @@ Other metals were flat to lower in London, with aluminium down about 0.4 percent
 Update, October 27: Copper turned up on Tuesday. LME copper closed at 14,338 dollars a tonne, up 0.28 percent, with open interest at 262,000 lots, up 641 lots, and the most traded SHFE contract closed at 108,570 yuan a tonne, up 0.43 percent, Shanghai Metals Market reported. Reuters put benchmark three month copper up 0.22 percent at 14,359.50 dollars a tonne by 0301 GMT, supported by a stock market rally and demand strength in China, while Dow Jones market talk cited tight mine supply and declining Chinese inventories against rising LME stocks and rate expectations. SMM reported that typhoon delayed import arrivals and an inventory drawdown were supporting high premiums. The site market tables put United States copper at 6.61 dollars a pound, up 1.55 percent. Monday's divergence remains the story, with the direction now up on both sides of the Pacific.
 
 Update, October 27: The site market tables updated October 27 at 06:00 ET put United States copper at 6.61 dollars a pound, up 1.55 percent on the day and 0.65 percent on the week, a firmer snapshot than Monday's easing London session. The divergence the story describes remains the market's structure: visible LME stocks building in the West, a high Yangshan import premium in China, and the United States tariff decision still the hinge between the two.
+
+Update, October 28: Copper rose on Tuesday as the Chinese import premium surged. Benchmark three month copper on the LME was up 1.1 percent at 14,487.50 dollars a tonne as of 1700 GMT, having hit 14,490.50 dollars, its strongest since October 16, Reuters reported via Kitco. The Yangshan premium hit a nearly 13 year high of 188 dollars a tonne on Tuesday, SMM put the average warrant price at 188 dollars, up 10 dollars on the day, and the LME cash contract traded at a 199.50 dollar premium over three month metal, having earlier hit 206 dollars, the most since August 27. Shanghai Futures Exchange copper stocks fell more than 25 percent in the latest weekly data cited by Reuters, while LME stocks rose last week and remain concentrated in North America. The site tables put United States copper at 6.64 dollars a pound, up 0.21 percent. ING described the Yangshan premium in its October 28 feed as a record high on its series; SMM and Reuters describe it as a nearly 13 year high, and the story carries both descriptions with their sources.

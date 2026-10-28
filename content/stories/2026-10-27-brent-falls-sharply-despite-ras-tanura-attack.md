@@ -1,7 +1,7 @@
 ---
 title: "Brent falls sharply despite attack near Ras Tanura"
 date: 2026-10-27T07:13:30-04:00
-last_updated: 2026-10-27T07:13:30-04:00
+last_updated: 2026-10-28T07:04:12-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -29,3 +29,5 @@ The day's supply headline pointed the other way. Saudi air defences intercepted 
 The split between the two benchmarks is the tell. WTI, priced on United States supply and demand, barely moved, while Brent, the benchmark that carries the Gulf risk premium, fell. That pattern is consistent with traders judging the Ras Tanura damage contained and prompt physical supply adequate, and trimming premium built during last week's run to 116.72 dollars. No single reported cause for the fall appears in this morning's reporting, and this story does not invent one: the tables record the move, and the attack's contained outcome is the context the market had in front of it.
 
 Freight told a tighter story than crude. Tanker freight in the tables rose 4.15 percent on the day and 7.17 percent on the week, while dry bulk freight fell 2.3 percent, a reminder that the cost of moving oil through contested water is still rising even on a day when the oil itself got cheaper. Iran's Persian Gulf Strait Authority also said on Tuesday that vessels belonging to the shipping company Sinokor will face legal action in the Strait of Hormuz from November 1, covered in today's Hormuz story.
+
+Update, October 28: Oil reversed higher on Wednesday after the Houthis said on Tuesday they had hit Saudi Arabia biggest oil refinery at Ras Tanura, with a capacity of about 550,000 barrels a day, with a missile. Saudi authorities did not immediately confirm the strike on the facility, Reuters reported. Brent futures rose 2.02 dollars, or 1.8 percent, to 115.90 dollars a barrel as of 0735 GMT, and WTI gained 2.01 dollars, or 2.0 percent, to 101.91 dollars. The site market tables updated October 28 at 06:00 ET carry a different snapshot, Brent at 110.76 dollars, down 2.74 percent, and WTI at 101.45 dollars, up 1.55 percent, and the two are not averaged. ING strategists said the market is still pricing a greater likelihood of re-escalation and waits for clarity on President Trump next move toward Iran. The claim is a Houthi claim, unconfirmed by Saudi authorities at the time of the Reuters report, and it builds on yesterday contained drone interception at the same hub, which is a different event.

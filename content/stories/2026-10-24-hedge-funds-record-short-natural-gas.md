@@ -1,7 +1,7 @@
 ---
 title: "Hedge funds hold record short in US natural gas"
 date: 2026-10-24T07:03:09-04:00
-last_updated: 2026-10-27T07:13:30-04:00
+last_updated: 2026-10-28T07:04:12-04:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "story"
@@ -37,3 +37,5 @@ Update, October 26: The site market tables updated October 26 at 06:00 ET put Un
 Update, October 27: The site market tables updated October 27 at 06:00 ET put United States natural gas at 3.04 dollars per million British thermal units, up 16.64 percent on the table's daily basis, a third consecutive sharp rebound snapshot against the record short only position of 599,731 contracts. No weather, storage or supply headline in this morning's pool reports a cause for the move, and the tables are a snapshot, not a settlement. As with the two prior rebounds, a move of this size against a record short is consistent with the covering risk this story flagged, but that remains an interpretation, not a reported cause.
 
 Update, October 27: The squeeze risk materialised in the site market tables updated October 27 at 06:00 ET. United States natural gas stood at 3.04 dollars per million British thermal units, up 16.64 percent on the day, the largest single day move in the tables, against the record short only position of 599,731 contracts. No storage, weather or pipeline headline in this morning's pool reports a fundamental cause for the jump, and the tables are a snapshot rather than a settlement. The scale of the move against a record short is consistent with forced covering, but that remains an interpretation, not a reported cause.
+
+Update, October 28: The site market tables updated October 28 at 06:00 ET put United States natural gas at 3.04 dollars per million British thermal units, up 12.87 percent on the table daily basis and up 9.1 percent on the week, a fourth sharp rebound snapshot against the record short only position of 599,731 contracts. As on the three prior days, no weather, storage or supply headline in this morning pool reports a fundamental cause, and the tables are a snapshot, not a settlement. The covering interpretation remains an interpretation, not a reported cause. The CFTC said on October 27 it will publish Commitments of Traders data twice weekly by the end of 2026, covered in a separate story today, which will shorten this positioning lag in future.

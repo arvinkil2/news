@@ -1,7 +1,7 @@
 ---
 title: "Gold steadies near four thousand dollars before Fed"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-27T07:13:30-04:00
+last_updated: 2026-10-28T07:04:12-04:00
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
@@ -45,3 +45,5 @@ Bloomberg put the longer move in context: gold has fallen by about a quarter sin
 Update, October 27: Gold hovered around 4,000 dollars an ounce on Tuesday after recently hitting a more than three month low, as falling oil prices and bargain hunting ahead of the Federal Reserve decision offered some support, Reuters reported. Spot gold was put at 4,003.59 dollars, down 0.3 percent, in one Reuters based roundup, with December futures at 4,016.10 dollars, down 0.5 percent. Spot silver was 53.06 dollars, down 1.6 percent, platinum 1,506.94 dollars, down 1.3 percent, and palladium 1,030.75 dollars, down 1.8 percent. The site market tables updated October 27 at 06:00 ET put gold at 4,010.30 dollars, down 0.7 percent, and silver at 53.26 dollars, down 1.56 percent. Markets expect the Fed to hold this week and are pricing a December hike at roughly three quarters to four fifths across the reports read, which keeps the rate path, not haven demand, as gold's driver into Wednesday.
 
 Update, October 27: The site market tables updated October 27 at 06:00 ET put gold at 4,010.30 dollars an ounce, down 0.7 percent on the day and 3.19 percent on the week, and silver at 53.26 dollars an ounce, down 1.56 percent on the day and 7.7 percent on the week. Bullion held the 4,000 dollar line into the first day of the Federal Reserve's October 27 to 28 meeting, with silver extending the prior week's losses by more than gold, the pattern of a rates and liquidity repricing rather than a renewed safe haven bid.
+
+Update, October 28: Gold slipped toward 4,000 dollars again on Wednesday ahead of the Federal Reserve decision due later today. Spot gold fell 0.4 percent to 4,042.67 dollars an ounce at 12:09 p.m. in Singapore, Bloomberg reported, with silver down 0.8 percent to 53.99 dollars, while the site tables updated at 06:00 ET put gold at 4,066.30 dollars, down 0.2 percent, and silver at 53.90 dollars, down 0.72 percent. Physical buyers and bargain hunters have helped arrest a sustained decline, Bloomberg reported, with Chinese household appetite growing as prices softened, while Indian buyers are holding back. India biggest precious metals refiner said households are betting the recent drop has further to run and are moderating festive purchases, and Bloomberg reported ETF holders pulled out nearly 17 tonnes in three trading days after a record 31 billion dollars of third quarter ETF inflows on World Gold Council data. JPMorgan Private Bank Tang said he sees more downside risk for gold, in Bloomberg reporting on Wednesday. Support at 3,970 dollars was cited by Saxo Bank strategist Ole Hansen, who said a sustained break above 4,230 dollars is needed to trigger short covering.

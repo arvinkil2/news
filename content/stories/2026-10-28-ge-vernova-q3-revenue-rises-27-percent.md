@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "GE Vernova reported third quarter revenue of 12,642 million dollars, up 27 percent from a year earlier, with net income of 1,291 million dollars and diluted earnings of 4.81 dollars a share, as power and electrification equipment sales grew sharply."
 why_it_matters: "GE Vernova makes the gas turbines and grid equipment the AI data centre buildout depends on, and a 42 percent rise in equipment sales with contract liabilities up to 45,669 million dollars is a direct company level read on the order flow behind that buildout."
-featured: false
+featured: true
 evidence_grade: "A"
 sources:
   - title: "Form 10-Q for the quarter ended September 30, 2026"

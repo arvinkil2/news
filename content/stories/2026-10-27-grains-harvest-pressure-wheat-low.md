@@ -1,7 +1,7 @@
 ---
 title: "Corn and wheat fall on harvest and Black Sea hopes"
 date: 2026-10-27T07:00:00-04:00
-last_updated: 2026-10-27T07:12:56-04:00
+last_updated: 2026-10-28T07:04:12-04:00
 beats: ["commodities"]
 regions: ["north-america", "europe"]
 status: "story"
@@ -33,3 +33,5 @@ The harvest numbers are the USDA's. The soybean harvest was 79 percent complete 
 Wheat's second driver is the Black Sea. Wheat dropped to its lowest since early July on Monday on reports that Russia was reviewing proposals to ensure the safe transport of grain across the Black Sea and was in contact with Turkey on the issue, Interfax reported, citing Russian Deputy Foreign Minister Alexander Alimov. No agreement was reported, so the move prices a possibility, not a reopened corridor.
 
 Export inspections were mixed. Soybean inspections rose to 2.476 million tonnes in the week ended October 22, including 1.652 million tonnes shipped to China, while corn inspections fell to 625,233 tonnes and wheat inspections fell to 183,824 tonnes, Dow Jones and UkrAgroConsult reported from USDA data. The site market tables updated October 27 at 06:00 ET put wheat at 616.5 cents, up 0.08 percent, corn at 454.0 cents, down 0.22 percent, and soybeans at 1,256.8 cents, up 1.25 percent, a later snapshot than the Reuters session reporting.
+
+Update, October 28: Tuesday settlement and Wednesday session split the complex. Corn for December delivery settled down 1.4 percent at 4.4875 dollars a bushel on Tuesday, Dow Jones reported via Morningstar, soybeans for November fell 1 percent to 12.2925 dollars, and wheat for December fell 0.9 percent to 6.1025 dollars. In Wednesday trading, corn fell a further 0.2 percent to 4.545 dollars, wheat was unchanged at 6.16 dollars, and soybeans rose 0.5 percent to 12.5925 dollars, in session reporting carried by StockBiz. The site tables updated October 28 at 06:00 ET put soybeans at 1,247.0 cents, up 1.44 percent, corn at 450.5 cents, up 0.39 percent, and wheat at 610.8 cents, up 0.08 percent, a different snapshot from both the settlement and the session reports. The driver set is unchanged: harvest supply in corn, funds liquidating longs, and wheat capped by Black Sea hopes with no agreement reported.
