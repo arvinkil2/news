@@ -2,14 +2,14 @@
 title: "Japan"
 date: "2026-10-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Japan, refreshed hourly."
-data_as_of: "Oct 28, 3:34 PM ET"
+data_as_of: "Oct 28, 4:09 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 3:34 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 4:09 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nikkei 225 (index)</td><td class="num">63,268 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+1.73%</span></td><td class="num"><span class="down">-1.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.6 4.8,16.7 9.6,13.1 14.4,6.9 19.2,8.7 24.0,4.1 28.8,2.0 33.6,3.8 38.4,6.6 43.2,6.7 48.0,10.2 52.8,10.3 57.6,19.7 62.4,17.1 67.2,18.3 72.0,20.7 76.8,19.1 81.6,24.0 86.4,24.6 91.2,26.0 96.0,23.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$94.73 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.55%</span></td><td class="num"><span class="down">-1.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.4 4.4,14.9 8.7,10.6 13.1,10.9 17.5,3.8 21.8,2.1 26.2,2.0 30.5,6.6 34.9,11.2 39.3,8.7 43.6,11.2 48.0,11.2 52.4,18.0 56.7,19.9 61.1,22.4 65.5,21.9 69.8,19.9 74.2,18.6 78.5,23.7 82.9,26.0 87.3,25.2 91.6,20.7 96.0,23.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/JPY</td><td class="num">157.98 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.29%</span></td><td class="num"><span class="up">+0.18%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.5 4.4,15.7 8.7,15.2 13.1,13.4 17.5,9.0 21.8,11.3 26.2,8.6 30.5,4.7 34.9,7.5 39.3,7.4 43.6,5.8 48.0,2.0 52.4,4.4 56.7,8.7 61.1,6.5 65.5,10.5 69.8,2.0 74.2,5.0 78.5,6.6 82.9,26.0 87.3,22.0 91.6,13.8 96.0,8.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$95.01 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.25%</span></td><td class="num"><span class="down">-0.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 4.6,10.6 9.1,10.9 13.7,3.8 18.3,2.1 22.9,2.0 27.4,6.6 32.0,11.2 36.6,8.7 41.1,11.2 45.7,11.2 50.3,18.0 54.9,19.9 59.4,22.4 64.0,21.9 68.6,19.9 73.1,18.6 77.7,23.7 82.3,26.0 86.9,25.2 91.4,20.7 96.0,21.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/JPY</td><td class="num">157.88 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.22%</span></td><td class="num"><span class="up">+0.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.5 4.4,15.7 8.7,15.2 13.1,13.4 17.5,9.0 21.8,11.3 26.2,8.6 30.5,4.7 34.9,7.5 39.3,7.4 43.6,5.8 48.0,2.0 52.4,4.4 56.7,8.7 61.1,6.5 65.5,10.5 69.8,2.0 74.2,5.0 78.5,6.6 82.9,26.0 87.3,22.0 91.6,13.8 96.0,9.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
