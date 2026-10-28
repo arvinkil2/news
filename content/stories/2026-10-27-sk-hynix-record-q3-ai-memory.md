@@ -1,3 +1,4 @@
+---
 title: "SK Hynix posts record profit as AI memory demand surges"
 date: 2026-10-27T20:13:43-04:00
 last_updated: 2026-10-27T20:13:43-04:00
