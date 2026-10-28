@@ -1,19 +1,19 @@
 ---
 title: "Bank of Canada hikes to 2.50 percent, first increase since 2023"
 date: 2026-10-28T07:09:22-04:00
-last_updated: 2026-10-28T10:03:51-04:00
+last_updated: 2026-10-28T10:08:14-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
 lede: "The Bank of Canada raised its target for the overnight rate by 25 basis points to 2.50 percent, its first increase since July 2023, and revised its inflation projection up to about 3.5 percent for the rest of 2026 and about 3 percent through 2027, returning to the 2 percent target in 2028."
-why_it_matters: "Governing Council judged that underlying inflationary pressures are building even with core inflation recently around 2 percent and unemployment at 6.5 percent, and moved against the pass-through from higher oil, gasoline and diesel prices: bank prime rates follow the policy rate, and the Bank says it is prepared to act further if its outlook changes."
+why_it_matters: "Governing Council judged that underlying inflationary pressures are building even with core inflation recently around 2 percent and unemployment at 6.5 percent, and moved against the pass-through from higher oil, gasoline and diesel prices: bank prime rates follow the policy rate, and the Bank says there could be a need to raise the policy rate further, though it will proceed carefully."
 featured: false
 evidence_grade: "A"
 sources:
-  - title: "Bank of Canada increases policy interest rate 25 basis points to 2.50 per cent"
+  - title: "Bank of Canada raises the policy rate by 25 basis points to 2.50 percent"
     publisher: "Bank of Canada"
-    url: "https://www.bankofcanada.ca/2026/10/bank-of-canada-increases-policy-interest-rate-25-basis-points-to-2-50-per-cent/"
+    url: "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
     published: "2026-10-28"
   - title: "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March"
     publisher: "Reuters, via Kitco"
@@ -32,12 +32,12 @@ sources:
     url: "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/"
     published: "2026-10-28"
 tags: []
-data_as_of: "Update 2026-10-28T10:03:51-04:00: Bank of Canada press release of October 28, 2026, published at 09:45 ET with the quarterly Monetary Policy Report and read in full in this run via the live browser. All decision figures, projections and quoted reasoning are the Bank's own. The outcome matched the roughly three in four pricing for a hike and the 19 of 34 majority in the Reuters poll of October 21 to 23, 2026. The text below the update is the pre-decision edition of this story."
+data_as_of: "Update 2026-10-28T10:03:51-04:00: Bank of Canada press release of October 28, 2026, published at 09:45 ET with the quarterly Monetary Policy Report and read in full in this run via the live browser. All decision figures, projections and quoted reasoning are the Bank's own. The outcome matched the roughly three in four pricing for a hike and the 19 of 34 majority in the Reuters poll of October 21 to 23, 2026. Correction 2026-10-28T10:08:14-04:00: the growth projections in the first version of this update were wrong; the Monetary Policy Report's annual average projections are 1.0 percent growth in 2026, 2.0 percent in 2027 and 2.0 percent in 2028, and the press release source URL has been corrected to the release page read in full. The text below the update is the pre-decision edition of this story."
 ---
 
-**Latest, October 28:** The Bank of Canada raised the target for the overnight rate by 25 basis points to 2.50 percent, its first increase since July 2023, ending a hold at 2.25 percent that had run for a year. The Bank Rate rises to 2.75 percent and the deposit rate to 2.45 percent. Governing Council said it judges that underlying inflationary pressures are building and that the current stance of monetary policy is no longer appropriate, and that it will assess incoming data against its outlook and is prepared to act if the outlook changes.
+**Latest, October 28:** The Bank of Canada raised the target for the overnight rate by 25 basis points to 2.50 percent, its first increase since July 2023, ending a hold at 2.25 percent that had run for a year. The Bank Rate rises to 2.75 percent and the deposit rate to 2.45 percent. Governing Council decided to raise the rate, in its words, to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services, and said there could be a need to increase the policy rate further, but that given the uncertainties it agreed to proceed carefully. The next decision is on December 9, 2026.
 
-The new Monetary Policy Report projections are the substance of the move. Inflation is projected to average about 3.5 percent in the rest of 2026, about 3 percent through 2027 and to return to the 2 percent target in 2028, a large upward revision from the July report's path of 2.5 percent this year and 2 percent next year. The Bank said oil prices have increased materially since July, adding directly to inflation and passing through to gasoline and diesel, with a risk that higher energy prices broaden to other prices, while its preferred core measures have recently been around 2 percent and are expected to rise in coming months. Canadian growth is projected at about 1.75 percent in the second half of 2026, 1.7 percent in 2027 and 1.8 percent in 2028, and US growth is expected to remain stronger than projected in July, with US inflation around 3 percent through 2027. The Bank noted the unemployment rate decreased to 6.5 percent in September and wage growth has slowed, and that trade policy uncertainty remains high ahead of the review of the Canada-United States-Mexico Agreement.
+The new Monetary Policy Report projections are the substance of the move. CPI inflation has been around 3 percent since April and is expected to rise to about 3.5 percent by the end of the year, to average 2.9 percent in 2026, 3.1 percent in 2027 and 2.2 percent in 2028, settling around 2 percent by the middle of 2028, against July's projections of 2.5, 2.0 and 2.1 percent. Excluding gasoline, inflation was 2.2 percent in September and core measures remain close to 2 percent, but the Bank said cost pressures are building, with high fuel prices raising production and transportation costs and its surveys pointing to more pass-through over the next year. Growth is projected at 1.0 percent in 2026, 2.0 percent in 2027 and 2.0 percent in 2028 on an annual average basis, each stronger than July's 0.7, 1.8 and 1.8 percent, after GDP grew 3.3 percent in the second quarter and about 2 percent in the third, with a slower fourth quarter expected as new US tariffs bite. Unemployment is around 6.5 percent, and the Bank said some excess supply remains in the economy.
 
 The Bank of Canada delivers the week's one expected move this morning. The decision and the quarterly Monetary Policy Report arrive together at 09:45 ET, and the question is whether the Bank raises the overnight rate by 25 basis points to 2.50 percent, ending a hold at 2.25 percent that has run all year, or waits while signalling that a hike is coming.
 
