@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure revenue jumps 48 percent to 33.2 billion dollars"
 date: 2026-10-28T17:18:29-04:00
-last_updated: 2026-10-28T17:18:29-04:00
+last_updated: 2026-10-28T18:12:46-04:00
 update_bump: true
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Microsoft reported first quarter fiscal 2027 revenue of 92.3 billion dollars, up 19 percent, and disclosed Azure revenue as a separate line for the first time: 33.2 billion dollars, up 48 percent, as its new Agents and Infra segment beat the company's own forecast."
-why_it_matters: "Azure is the revenue line the AI data centre build-out has to justify, and a 48 percent jump, with capital spending of 45.2 billion dollars in one quarter, shows demand still outrunning the capacity Microsoft and its suppliers can install."
+lede: "Microsoft reported first quarter fiscal 2027 revenue of 92.3 billion dollars, up 19 percent, disclosed Azure revenue as a separate line for the first time at 33.2 billion dollars, up 48 percent, and recorded 10.0 billion dollars of revenue from its commercial arrangements with OpenAI in the quarter, nearly 11 percent of its total."
+why_it_matters: "Azure is the revenue line the AI data centre build-out has to justify, and the OpenAI disclosure puts a number on the circular side of that growth: one customer and investee supplied a tenth of Microsoft's revenue in the quarter and owed it 7.2 billion dollars at quarter end."
 featured: false
 evidence_grade: "B"
 sources:
@@ -28,9 +28,15 @@ sources:
     publisher: "PANews"
     url: "https://www.panews.io/articles/01a1841d-5db5-70fc-a381-a8da7511acff"
     published: "2026-10-28"
+  - title: "Microsoft recorded $10 billion in revenue from OpenAI"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+    published: "2026-10-28"
 tags: []
-data_as_of: "Microsoft's first quarter fiscal 2027 results, for the quarter ended September 30, 2026, furnished in its 8-K of October 28, 2026 (accession 0001193125-26-436122, filed 16:04 ET) and its 10-Q filed the same day (accession 0001193125-26-436133), both in this run's SEC filings pool. The figures in the body are Microsoft's as reported in full by GeekWire, read in full in this run, which attributes the Azure increase and the delayed capacity to the company's quarterly filing, and are corroborated by PANews' report of the official announcement for net income, cloud revenue, remaining performance obligations and property and equipment spending. Expectations comparisons (revenue of 90.75 billion dollars and earnings of 4.72 dollars a share) are Yahoo Finance consensus as reported by GeekWire. Developing item."
+data_as_of: "Update 2026-10-28T18:12:46-04:00: the OpenAI figures are Microsoft's own, from the related party disclosure in its Form 10-Q for the quarter ended September 30, 2026 (accession 0001193125-26-436133), read from the local EDGAR copy in this run: revenue from commercial arrangements with OpenAI, inclusive of revenue sharing payments, of 10.0 billion dollars in the quarter, accounts receivable from OpenAI of 7.2 billion dollars at September 30, 2026 against 6.0 billion at June 30, 2026, an approximate 24 percent equity method interest, and total funding commitments of 13.0 billion dollars, of which 12.0 billion had been funded. TechCrunch's report of the same filing, read in full in this run, is cited for corroboration. Microsoft's first quarter fiscal 2027 results, for the quarter ended September 30, 2026, furnished in its 8-K of October 28, 2026 (accession 0001193125-26-436122, filed 16:04 ET) and its 10-Q filed the same day (accession 0001193125-26-436133), both in this run's SEC filings pool. The figures in the body are Microsoft's as reported in full by GeekWire, read in full in this run, which attributes the Azure increase and the delayed capacity to the company's quarterly filing, and are corroborated by PANews' report of the official announcement for net income, cloud revenue, remaining performance obligations and property and equipment spending. Expectations comparisons (revenue of 90.75 billion dollars and earnings of 4.72 dollars a share) are Yahoo Finance consensus as reported by GeekWire. Developing item."
 ---
+
+**Latest, October 28:** Microsoft's quarterly filing puts a figure on its OpenAI relationship. For the three months ended September 30, 2026, Microsoft recorded revenue from commercial arrangements with OpenAI, inclusive of revenue sharing payments, of 10.0 billion dollars, nearly 11 percent of the quarter's total revenue, and OpenAI owed it 7.2 billion dollars in accounts receivable at quarter end, up from 6.0 billion dollars at June 30. Microsoft holds an approximate 24 percent interest in OpenAI on an as converted basis under the equity method, and said it has made total funding commitments of 13.0 billion dollars, of which 12.0 billion dollars had been funded by September 30.
 
 Microsoft's first quarter of fiscal 2027, reported after the close on Wednesday, was the first under its new financial structure, and the new structure produced the number investors have wanted for years: Azure revenue on its own line. Azure brought in 33.2 billion dollars in the September quarter, up 48 percent from a year earlier and 10.8 billion dollars more in absolute terms, beating the company's own forecast and Wall Street's expectations, GeekWire reported. The cloud platform now sits in a segment called Agents and Infra, alongside Microsoft 365, Dynamics and LinkedIn's business tools, which took in 76.8 billion dollars, up 25 percent, with operating income up 24 percent to 40.6 billion dollars.
 
