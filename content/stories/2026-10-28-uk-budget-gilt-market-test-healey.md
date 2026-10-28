@@ -1,15 +1,32 @@
 ---
-title: "UK Budget faces gilt market test as borrowing overshoots"
+title: "Healey delivers first Budget with 15 billion pounds of headroom"
 date: 2026-10-28T07:09:22-04:00
-last_updated: 2026-10-28T07:09:22-04:00
+last_updated: 2026-10-28T09:50:41-04:00
+update_bump: true
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "Chancellor John Healey presents his first Budget today with UK borrowing at 97.8 billion pounds between April and September against a 91.8 billion forecast, sterling down 0.46 percent at 1.3284, and a poll of all 15 gilt primary dealers expecting 2026/27 issuance to rise by 3.4 billion pounds to 249.6 billion."
-why_it_matters: "The gilt market's price for this Budget is fiscal headroom in double digits and no surprise long dated supply: with inflation at 3.5 percent, Bank Rate at 3.75 percent and a possible Bank of England hike on November 5, a thin buffer or a cost of living package the OBR scores as inflationary would be paid for immediately in the long end."
+lede: "Chancellor John Healey delivered his first Budget with the Office for Budget Responsibility putting headroom against the fiscal rules at 15 billion pounds in 2029-30, down from 24 billion in March, a temporary rise in the bank surcharge from 3 percent to 6 percent, and a 100 pound payment to about 20 million households in council tax bands A to D."
+why_it_matters: "The Budget spends part of the buffer built up last year on absorbing the Iran war shock and on household support, and leaves 15 billion pounds of headroom for the gilt market to judge: bank shares rallied because the surcharge stopped at 6 percent rather than returning to the 8 percent lenders had feared, and the remaining test is the Debt Management Office issuance remit and the Bank of England's November 5 decision."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Budget 2026: key points at a glance"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey"
+    published: "2026-10-28"
+  - title: "Britain's finance minister hikes bank tax to 6%"
+    publisher: "Reuters, via Global Banking and Finance"
+    url: "https://www.globalbankingandfinance.com/britains-finance-minister-hikes-bank-tax-6/"
+    published: "2026-10-28"
+  - title: "Healey says UK will have 15 billion pounds of fiscal headroom at end of forecast period"
+    publisher: "Reuters, via WTBX"
+    url: "https://wtbx.com/2026/10/28/healey-says-uk-will-have-15-billion-of-fiscal-headroom-at-end-of-forecast-period/"
+    published: "2026-10-28"
+  - title: "Monetary policy remit: Budget 2026"
+    publisher: "HM Treasury, via GOV.UK"
+    url: "https://www.gov.uk/government/publications/monetary-policy-remit-budget-2026"
+    published: "2026-10-28"
   - title: "Five things gilt market demands from Healey's first Budget"
     publisher: "Wealth DFM, reporting the deVere Group and a poll of gilt primary dealers"
     url: "https://wealthdfm.com/five-things-gilt-market-demands-from-healeys-first-budget/"
@@ -27,8 +44,14 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-28"
 tags: []
-data_as_of: "Budget day, Wednesday, October 28, 2026; the Chancellor's statement and the OBR outlook were still to come at write time. Borrowing and issuance figures are the OBR comparison and the primary dealer poll as reported on October 28, 2026. The bank tax outcome was unconfirmed at write time: Bloomberg reported the hike was set to be less severe than lenders feared, and no figure for it is stated here. GBP/USD is this site's market tables updated October 28 at 06:00 ET."
+data_as_of: "Update 2026-10-28T09:50:41-04:00: the Chancellor's Budget statement to the House of Commons on October 28, 2026 and the Office for Budget Responsibility outlook published with it, as set out in the Guardian's key points summary of the statement, read in full in this run via the live browser, and Reuters reporting of the statement read in full in this run. Headroom, borrowing, growth and debt figures are the OBR's as stated by the Chancellor. The monetary policy remit letter was published by HM Treasury on GOV.UK on October 28, 2026. The text below the update is the pre-statement edition of this story, written before the statement began."
 ---
+
+**Latest, October 28:** Chancellor John Healey has delivered his first Budget, and the fiscal rules are met with a smaller buffer. Healey told the Commons that the Office for Budget Responsibility puts headroom against the stability rule at 15 billion pounds in 2029-30, rising to 22 billion pounds in 2030-31, against 24 billion pounds of headroom at the March forecast. He said he had chosen to use some of the headroom established last year to absorb the impact of the Iran war, and that borrowing falls from 4.2 percent of GDP this year to 3.4 percent next year, 2.9 percent in 2028-29, 2.1 percent in 2029-30 and 1.8 percent in 2030-31. The OBR forecasts growth of 1.2 percent this year and 1.0 percent next year, then 1.6 percent in 2028, 1.8 percent in 2029, 1.7 percent in 2030 and 1.6 percent in 2031, with debt at 83.2 percent of GDP this year and 83.8 percent next year before falling to 81.7 percent by the end of the forecast.
+
+The main revenue measure is narrower than lenders had feared. The surcharge on bank profits rises from 3 percent to 6 percent, partially reversing the cut from 8 percent made in 2023, and Healey said the rise is temporary and will last 15 months. Shares in the large British banks rallied on Wednesday after the increase came in smaller than feared, Reuters reported. Other new levies fall on drivers, property and gambling: a pay per mile duty for electric cars from April 2028, at 3p a mile for electric vehicles and 1.5p a mile for plug-in hybrids, a surcharge on homes worth more than 2 million pounds from April 2028, remote gaming duty rising from 21 percent to 40 percent, and remote general betting duty rising from 15 percent to 25 percent from April 2027.
+
+Household support is the spending centrepiece. About 20 million households in council tax bands A to D will receive a 100 pound payment, the cut in VAT on electricity bills will be maintained until July next year, the planned fuel duty rises have been cancelled with rates frozen, the state pension rises 4.8 percent in April in line with earnings, and the minimum wage rises 3.9 percent. The abolition of standing charges on gas bills, announced by the government this morning, is covered in a separate story on this site.
 
 Britain's Budget today is a rates event before it is a political one. Chancellor John Healey delivers his first Budget, alongside the Office for Budget Responsibility's updated outlook and the Debt Management Office's revised borrowing plan, to a gilt market that has already marked its conditions: headroom against the fiscal rules in double digits, credibly assembled, and no surprise increase in long dated supply.
 
