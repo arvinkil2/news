@@ -24,8 +24,8 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
 <tr><td>Net</td><td>+0</td></tr>
-<tr><td>Week change</td><td>-70,906</td></tr>
-<tr><td>4-week change</td><td>-64,362</td></tr>
+<tr><td>Week change</td><td>-35,453</td></tr>
+<tr><td>4-week change</td><td>-32,181</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

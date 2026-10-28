@@ -15,11 +15,11 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-25 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">946,080</td><td class="num">316,224</td><td class="num">+629,856</td><td class="num">10.0</td><td class="num">2.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">473,040</td><td class="num">158,112</td><td class="num">+314,928</td><td class="num">5.0</td><td class="num">1.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Investment funds</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">16,677,888</td><td class="num">15,676,464</td><td class="num">+1,001,424</td><td class="num">186.0</td><td class="num">179.0</td><td class="num">22</td></tr>
-<tr><td>Operators with compliance obligations</td><td class="num">122,640</td><td class="num">1,403,520</td><td class="num">-1,280,880</td><td class="num">0.0</td><td class="num">16.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Commercial undertakings</td><td class="num">8,338,944</td><td class="num">7,838,232</td><td class="num">+500,712</td><td class="num">93.0</td><td class="num">90.0</td><td class="num">22</td></tr>
+<tr><td>Operators with compliance obligations</td><td class="num">61,320</td><td class="num">701,760</td><td class="num">-640,440</td><td class="num">0.0</td><td class="num">8.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>

@@ -950,27 +950,30 @@ def load_esma():
                          "unit": row["unit"]}
             d = row["ref_date"]
             grp = row["holder_group"]
-            # Positions are summed across the register's
-            # position categories (risk-reducing and other): the
-            # register files them as separate rows per group.
+            # The register files each position three times per
+            # group: risk-reducing (RISKR), other (OTHER), and
+            # their total (TOTAL). Use the TOTAL rows only;
+            # summing all three would double the position.
+            # Persons are filed once per group, category ALL.
             if row["measure"] == "Number of positions":
-                cur = pos[key][d].setdefault(
-                    grp, {"long": 0.0, "short": 0.0})
-                cur["long"] += num(row["long"]) or 0.0
-                cur["short"] += num(row["short"]) or 0.0
-                cur["net"] = cur["long"] - cur["short"]
+                if row["position_category"] != "TOTAL":
+                    continue
+                lo = num(row["long"]) or 0.0
+                sh = num(row["short"]) or 0.0
+                pos[key][d][grp] = {"long": lo, "short": sh,
+                                    "net": lo - sh}
             elif row["measure"] == "Percentage of open interest":
-                cur = pct[key][d].setdefault(
-                    grp, {"long": 0.0, "short": 0.0})
-                cur["long"] += num(row["long"]) or 0.0
-                cur["short"] += num(row["short"]) or 0.0
+                if row["position_category"] != "TOTAL":
+                    continue
+                pct[key][d][grp] = {
+                    "long": num(row["long"]) or 0.0,
+                    "short": num(row["short"]) or 0.0}
             elif row["measure"].startswith("Number of persons"):
                 v = num(row["long"])
                 if v is None:
                     v = num(row["short"])
                 if v is not None:
-                    persons[key][d][grp] = \
-                        persons[key][d].get(grp, 0.0) + v
+                    persons[key][d][grp] = v
             if d not in pub or row["pub_datetime"] > pub[d][0]:
                 pub[d] = (row["pub_datetime"], key)
     return pos, pct, persons, meta, nrows
@@ -1761,9 +1764,10 @@ def europe_pages(ice_data, ice_oi, ice_units, esma):
                 "register carries each report\'s own publication "
                 "timestamp. A missing report means the venue was "
                 "below the holder and size thresholds that week; "
-                "it is not a zero. Positions are summed across the "
-                "register\'s risk-reducing and other position "
-                "categories. Where a venue files both a futures-only "
+                "it is not a zero. The register files each "
+                "position as risk-reducing, as other, and as a "
+                "total of the two; these pages use the total. "
+                "Where a venue files both a futures-only "
                 "and a combined report, the futures-only report is "
                 "used and labelled.</p>\n")
     esma_rows = []

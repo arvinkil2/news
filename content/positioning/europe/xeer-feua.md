@@ -15,17 +15,17 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-04 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">66,188</td><td class="num">150,276</td><td class="num">-84,088</td><td class="num">72.0</td><td class="num">170.0</td><td class="num">29</td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">33,094</td><td class="num">75,138</td><td class="num">-42,044</td><td class="num">36.0</td><td class="num">85.0</td><td class="num">29</td></tr>
 <tr><td>Investment funds</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">29,338</td><td class="num">6,804</td><td class="num">+22,534</td><td class="num">32.0</td><td class="num">5.0</td><td class="num">56</td></tr>
-<tr><td>Operators with compliance obligations</td><td class="num">84,462</td><td class="num">17,176</td><td class="num">+67,286</td><td class="num">92.0</td><td class="num">18.0</td><td class="num">34</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">14,669</td><td class="num">3,402</td><td class="num">+11,267</td><td class="num">16.0</td><td class="num">3.0</td><td class="num">56</td></tr>
+<tr><td>Operators with compliance obligations</td><td class="num">42,231</td><td class="num">8,588</td><td class="num">+33,643</td><td class="num">46.0</td><td class="num">9.0</td><td class="num">34</td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
 <tr><td>Net</td><td>+0</td></tr>
-<tr><td>Week change</td><td>+272</td></tr>
-<tr><td>4-week change</td><td>+352</td></tr>
+<tr><td>Week change</td><td>+136</td></tr>
+<tr><td>4-week change</td><td>+176</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

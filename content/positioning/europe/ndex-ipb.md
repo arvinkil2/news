@@ -1,7 +1,7 @@
 ---
 title: "IPB-ICE Endex Italian Power Baseload Future Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in IPB-ICE Endex Italian Power Baseload Future at ENDEX Futures Exchange: investment funds net +45,424, positions as of Fri 9 Oct 2026."
+lede: "Article 58 positioning in IPB-ICE Endex Italian Power Baseload Future at ENDEX Futures Exchange: investment funds net +22,712, positions as of Fri 9 Oct 2026."
 data_as_of: "Positions as of Fri 9 Oct 2026"
 ---
 
@@ -15,17 +15,17 @@ data_as_of: "Positions as of Fri 9 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-11 to 2026-10-09</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">306,198</td><td class="num">408,926</td><td class="num">-102,728</td><td class="num">12.0</td><td class="num">16.0</td><td class="num">6</td></tr>
-<tr><td>Investment funds</td><td class="num">45,424</td><td class="num">0</td><td class="num">+45,424</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">153,099</td><td class="num">204,463</td><td class="num">-51,364</td><td class="num">6.0</td><td class="num">8.0</td><td class="num">6</td></tr>
+<tr><td>Investment funds</td><td class="num">22,712</td><td class="num">0</td><td class="num">+22,712</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">4,614,440</td><td class="num">4,557,136</td><td class="num">+57,304</td><td class="num">184.0</td><td class="num">181.0</td><td class="num">25</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">2,307,220</td><td class="num">2,278,568</td><td class="num">+28,652</td><td class="num">92.0</td><td class="num">91.0</td><td class="num">25</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>+45,424</td></tr>
-<tr><td>Week change</td><td>+10,080</td></tr>
-<tr><td>4-week change</td><td>+10,080</td></tr>
+<tr><td>Net</td><td>+22,712</td></tr>
+<tr><td>Week change</td><td>+5,040</td></tr>
+<tr><td>4-week change</td><td>+5,040</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

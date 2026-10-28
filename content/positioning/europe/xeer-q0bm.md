@@ -1,7 +1,7 @@
 ---
 title: "EEX Dutch Power Base Future Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in EEX Dutch Power Base Future at European Energy Exchange – Regulated Market: investment funds net +2,291,640, positions as of Fri 16 Oct 2026."
+lede: "Article 58 positioning in EEX Dutch Power Base Future at European Energy Exchange – Regulated Market: investment funds net +1,145,820, positions as of Fri 16 Oct 2026."
 data_as_of: "Positions as of Fri 16 Oct 2026"
 ---
 
@@ -15,17 +15,17 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-04 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">10,900,550</td><td class="num">12,174,492</td><td class="num">-1,273,942</td><td class="num">25.0</td><td class="num">27.0</td><td class="num">18</td></tr>
-<tr><td>Investment funds</td><td class="num">3,275,120</td><td class="num">983,480</td><td class="num">+2,291,640</td><td class="num">6.0</td><td class="num">2.0</td><td class="num">18</td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">5,450,275</td><td class="num">6,087,246</td><td class="num">-636,971</td><td class="num">13.0</td><td class="num">14.0</td><td class="num">18</td></tr>
+<tr><td>Investment funds</td><td class="num">1,637,560</td><td class="num">491,740</td><td class="num">+1,145,820</td><td class="num">3.0</td><td class="num">1.0</td><td class="num">18</td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">69,633,514</td><td class="num">70,668,992</td><td class="num">-1,035,478</td><td class="num">165.0</td><td class="num">168.0</td><td class="num">51</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">34,816,757</td><td class="num">35,334,496</td><td class="num">-517,739</td><td class="num">83.0</td><td class="num">84.0</td><td class="num">51</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>+2,291,640</td></tr>
-<tr><td>Week change</td><td>+1,214</td></tr>
-<tr><td>4-week change</td><td>+62,964</td></tr>
+<tr><td>Net</td><td>+1,145,820</td></tr>
+<tr><td>Week change</td><td>+607</td></tr>
+<tr><td>4-week change</td><td>+31,482</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

@@ -1,7 +1,7 @@
 ---
 title: "EEX Baltic Supramax 10TC Freight Future Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in EEX Baltic Supramax 10TC Freight Future at European Energy Exchange – Regulated Market: investment funds net -4,296, positions as of Fri 16 Oct 2026."
+lede: "Article 58 positioning in EEX Baltic Supramax 10TC Freight Future at European Energy Exchange – Regulated Market: investment funds net -2,148, positions as of Fri 16 Oct 2026."
 data_as_of: "Positions as of Fri 16 Oct 2026"
 ---
 
@@ -15,17 +15,17 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-04 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">2,526</td><td class="num">4,460</td><td class="num">-1,934</td><td class="num">6.0</td><td class="num">12.0</td><td class="num">9</td></tr>
-<tr><td>Investment funds</td><td class="num">2,130</td><td class="num">6,426</td><td class="num">-4,296</td><td class="num">6.0</td><td class="num">18.0</td><td class="num">8</td></tr>
-<tr><td>Other financial institutions</td><td class="num">13,130</td><td class="num">9,850</td><td class="num">+3,280</td><td class="num">38.0</td><td class="num">28.0</td><td class="num">11</td></tr>
-<tr><td>Commercial undertakings</td><td class="num">49,220</td><td class="num">46,270</td><td class="num">+2,950</td><td class="num">145.0</td><td class="num">137.0</td><td class="num">42</td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">1,263</td><td class="num">2,230</td><td class="num">-967</td><td class="num">3.0</td><td class="num">6.0</td><td class="num">9</td></tr>
+<tr><td>Investment funds</td><td class="num">1,065</td><td class="num">3,213</td><td class="num">-2,148</td><td class="num">3.0</td><td class="num">9.0</td><td class="num">8</td></tr>
+<tr><td>Other financial institutions</td><td class="num">6,565</td><td class="num">4,925</td><td class="num">+1,640</td><td class="num">19.0</td><td class="num">14.0</td><td class="num">11</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">24,610</td><td class="num">23,135</td><td class="num">+1,475</td><td class="num">73.0</td><td class="num">69.0</td><td class="num">42</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>-4,296</td></tr>
-<tr><td>Week change</td><td>-30</td></tr>
-<tr><td>4-week change</td><td>+1,402</td></tr>
+<tr><td>Net</td><td>-2,148</td></tr>
+<tr><td>Week change</td><td>-15</td></tr>
+<tr><td>4-week change</td><td>+701</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

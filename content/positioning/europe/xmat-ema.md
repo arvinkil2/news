@@ -1,7 +1,7 @@
 ---
 title: "Corn / Mais Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in Corn / Mais at Euronext Paris MATIF: investment funds net +16,426, positions as of Fri 16 Oct 2026."
+lede: "Article 58 positioning in Corn / Mais at Euronext Paris MATIF: investment funds net +8,213, positions as of Fri 16 Oct 2026."
 data_as_of: "Positions as of Fri 16 Oct 2026"
 ---
 
@@ -15,16 +15,16 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-25 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">8,186</td><td class="num">2,568</td><td class="num">+5,618</td><td class="num">22.0</td><td class="num">6.0</td><td class="num">32</td></tr>
-<tr><td>Investment funds</td><td class="num">22,696</td><td class="num">6,270</td><td class="num">+16,426</td><td class="num">64.0</td><td class="num">16.0</td><td class="num">116</td></tr>
-<tr><td>Other financial institutions</td><td class="num">948</td><td class="num">28</td><td class="num">+920</td><td class="num">2.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">39,070</td><td class="num">62,036</td><td class="num">-22,966</td><td class="num">109.0</td><td class="num">173.0</td><td class="num">361</td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">4,093</td><td class="num">1,284</td><td class="num">+2,809</td><td class="num">11.0</td><td class="num">3.0</td><td class="num">32</td></tr>
+<tr><td>Investment funds</td><td class="num">11,348</td><td class="num">3,135</td><td class="num">+8,213</td><td class="num">32.0</td><td class="num">8.0</td><td class="num">116</td></tr>
+<tr><td>Other financial institutions</td><td class="num">474</td><td class="num">14</td><td class="num">+460</td><td class="num">1.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Commercial undertakings</td><td class="num">19,535</td><td class="num">31,018</td><td class="num">-11,483</td><td class="num">55.0</td><td class="num">87.0</td><td class="num">361</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>+16,426</td></tr>
-<tr><td>Week change</td><td>+3,112</td></tr>
+<tr><td>Net</td><td>+8,213</td></tr>
+<tr><td>Week change</td><td>+1,556</td></tr>
 <tr><td>4-week change</td><td><span class="blank">-</span></td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>

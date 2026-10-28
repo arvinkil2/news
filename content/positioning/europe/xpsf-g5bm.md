@@ -15,10 +15,10 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-04 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">59,165,048</td><td class="num">14,031,544</td><td class="num">+45,133,504</td><td class="num">62.0</td><td class="num">14.0</td><td class="num">17</td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">29,582,524</td><td class="num">7,015,772</td><td class="num">+22,566,752</td><td class="num">31.0</td><td class="num">7.0</td><td class="num">17</td></tr>
 <tr><td>Investment funds</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">120,453,978</td><td class="num">164,192,074</td><td class="num">-43,738,096</td><td class="num">127.0</td><td class="num">173.0</td><td class="num">57</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">60,226,989</td><td class="num">82,096,037</td><td class="num">-21,869,048</td><td class="num">64.0</td><td class="num">87.0</td><td class="num">57</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>

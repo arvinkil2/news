@@ -1,7 +1,7 @@
 ---
 title: "Nordic Sys Base Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in Nordic Sys Base at EURONEXT COM, COMMODITIES FUTURES AND OPTIONS: investment funds net -780,446, positions as of Fri 16 Oct 2026."
+lede: "Article 58 positioning in Nordic Sys Base at EURONEXT COM, COMMODITIES FUTURES AND OPTIONS: investment funds net -390,223, positions as of Fri 16 Oct 2026."
 data_as_of: "Positions as of Fri 16 Oct 2026"
 ---
 
@@ -15,16 +15,16 @@ data_as_of: "Positions as of Fri 16 Oct 2026"
 <tr><td>Coverage</td><td>2026-10-02 to 2026-10-16</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">127,536</td><td class="num">1,431,370</td><td class="num">-1,303,834</td><td class="num">0.0</td><td class="num">12.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Investment funds</td><td class="num">137,938</td><td class="num">918,384</td><td class="num">-780,446</td><td class="num">0.0</td><td class="num">8.0</td><td class="num">25</td></tr>
-<tr><td>Other financial institutions</td><td class="num">809,114</td><td class="num">129,482</td><td class="num">+679,632</td><td class="num">6.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">20,538,770</td><td class="num">18,084,584</td><td class="num">+2,454,186</td><td class="num">188.0</td><td class="num">167.0</td><td class="num">80</td></tr>
-<tr><td>Operators with compliance obligations</td><td class="num">48,598</td><td class="num">777,566</td><td class="num">-728,968</td><td class="num">0.0</td><td class="num">5.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">63,768</td><td class="num">715,685</td><td class="num">-651,917</td><td class="num">0.0</td><td class="num">6.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Investment funds</td><td class="num">68,969</td><td class="num">459,192</td><td class="num">-390,223</td><td class="num">0.0</td><td class="num">4.0</td><td class="num">25</td></tr>
+<tr><td>Other financial institutions</td><td class="num">404,557</td><td class="num">64,741</td><td class="num">+339,816</td><td class="num">3.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Commercial undertakings</td><td class="num">10,269,385</td><td class="num">9,042,292</td><td class="num">+1,227,093</td><td class="num">94.0</td><td class="num">84.0</td><td class="num">80</td></tr>
+<tr><td>Operators with compliance obligations</td><td class="num">24,299</td><td class="num">388,783</td><td class="num">-364,484</td><td class="num">0.0</td><td class="num">3.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>-780,446</td></tr>
-<tr><td>Week change</td><td>-252,604</td></tr>
+<tr><td>Net</td><td>-390,223</td></tr>
+<tr><td>Week change</td><td>-126,302</td></tr>
 <tr><td>4-week change</td><td><span class="blank">-</span></td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>

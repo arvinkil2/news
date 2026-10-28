@@ -1,7 +1,7 @@
 ---
 title: "TTL-Dutch TTF Natural Gas Daily Financial Futures (ICIS) Article 58"
 date: "2026-10-28"
-lede: "Article 58 positioning in TTL-Dutch TTF Natural Gas Daily Financial Futures (ICIS) at ENDEX Futures Exchange: investment funds net +680,630, positions as of Fri 9 Oct 2026."
+lede: "Article 58 positioning in TTL-Dutch TTF Natural Gas Daily Financial Futures (ICIS) at ENDEX Futures Exchange: investment funds net +340,315, positions as of Fri 9 Oct 2026."
 data_as_of: "Positions as of Fri 9 Oct 2026"
 ---
 
@@ -15,17 +15,17 @@ data_as_of: "Positions as of Fri 9 Oct 2026"
 <tr><td>Coverage</td><td>2026-09-11 to 2026-10-09</td></tr>
 </tbody></table>
 <table class="market-table"><thead><tr><th>Category</th><th>Long</th><th>Short</th><th>Net</th><th>Long % of OI</th><th>Short % of OI</th><th>Persons, as filed</th></tr></thead><tbody>
-<tr><td>Investment firms or credit institutions</td><td class="num">2,195,600</td><td class="num">553,440</td><td class="num">+1,642,160</td><td class="num">104.0</td><td class="num">26.0</td><td class="num">7</td></tr>
-<tr><td>Investment funds</td><td class="num">680,630</td><td class="num">0</td><td class="num">+680,630</td><td class="num">32.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td>Investment firms or credit institutions</td><td class="num">1,097,800</td><td class="num">276,720</td><td class="num">+821,080</td><td class="num">52.0</td><td class="num">13.0</td><td class="num">7</td></tr>
+<tr><td>Investment funds</td><td class="num">340,315</td><td class="num">0</td><td class="num">+340,315</td><td class="num">16.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">1,321,560</td><td class="num">3,650,240</td><td class="num">-2,328,680</td><td class="num">62.0</td><td class="num">172.0</td><td class="num">12</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">660,780</td><td class="num">1,825,120</td><td class="num">-1,164,340</td><td class="num">31.0</td><td class="num">86.0</td><td class="num">12</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>
 <table class="market-table"><tbody>
-<tr><td>Net</td><td>+680,630</td></tr>
-<tr><td>Week change</td><td>+353,040</td></tr>
-<tr><td>4-week change</td><td>+289,200</td></tr>
+<tr><td>Net</td><td>+340,315</td></tr>
+<tr><td>Week change</td><td>+176,520</td></tr>
+<tr><td>4-week change</td><td>+144,600</td></tr>
 <tr><td>13-week change</td><td><span class="blank">-</span></td></tr>
 </tbody></table>
 <p class="gm-method">Percentile gauges are not printed for Article 58 contracts: reports exist only in weeks when the venue clears the holder and size thresholds, so the history has gaps that are threshold events, not zeros.</p>

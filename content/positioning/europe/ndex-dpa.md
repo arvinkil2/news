@@ -18,7 +18,7 @@ data_as_of: "Positions as of Fri 9 Oct 2026"
 <tr><td>Investment firms or credit institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Investment funds</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td>Other financial institutions</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td>Commercial undertakings</td><td class="num">16,896</td><td class="num">16,896</td><td class="num">+0</td><td class="num">200.0</td><td class="num">199.0</td><td class="num">6</td></tr>
+<tr><td>Commercial undertakings</td><td class="num">8,448</td><td class="num">8,448</td><td class="num">+0</td><td class="num">100.0</td><td class="num">100.0</td><td class="num">6</td></tr>
 <tr><td>Operators with compliance obligations</td><td class="num">0</td><td class="num">0</td><td class="num">+0</td><td class="num">0.0</td><td class="num">0.0</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Investment funds net, recent change</h2>

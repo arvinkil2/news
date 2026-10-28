@@ -47,21 +47,21 @@ data_as_of: "Datelines per family below; no single combined stamp"
 </tbody></table>
 <h2>Biggest week changes in speculative net</h2>
 <table class="market-table"><thead><tr><th>Market</th><th>Family</th><th>Change, contracts or lots</th><th>Unit</th><th>Change as % of OI (CFTC)</th></tr></thead><tbody>
-<tr><td><a href="/positioning/europe/">TFM-Dutch TTF Natural Gas Futures</a></td><td>ESMA</td><td class="num">-169,126,702</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX PSV Natural Gas Future</a></td><td>ESMA</td><td class="num">+7,829,760</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX TTF Natural Gas Future</a></td><td>ESMA</td><td class="num">-7,179,328</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX German Power Base Future</a></td><td>ESMA</td><td class="num">-6,928,554</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX French Power Base Future</a></td><td>ESMA</td><td class="num">-4,785,024</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX THE Natural Gas Future</a></td><td>ESMA</td><td class="num">+1,749,896</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">GAB-German Power Financial Base Future</a></td><td>ESMA</td><td class="num">+644,498</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX Spanish Power Base Future</a></td><td>ESMA</td><td class="num">-597,928</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX Italian Power Base Future</a></td><td>ESMA</td><td class="num">-461,394</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">TTL-Dutch TTF Natural Gas Daily Financial Futures (ICIS)</a></td><td>ESMA</td><td class="num">+353,040</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX Austrian Power Base Future</a></td><td>ESMA</td><td class="num">+335,966</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX Belgian Power Base Future</a></td><td>ESMA</td><td class="num">-268,328</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">Nordic Sys Base</a></td><td>ESMA</td><td class="num">-252,604</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td><a href="/positioning/europe/">EEX Japan Power Tokyo Area Base Future</a></td><td>ESMA</td><td class="num">+244,320</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">TFM-Dutch TTF Natural Gas Futures</a></td><td>ESMA</td><td class="num">-84,563,351</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX PSV Natural Gas Future</a></td><td>ESMA</td><td class="num">+3,914,880</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX TTF Natural Gas Future</a></td><td>ESMA</td><td class="num">-3,589,664</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX German Power Base Future</a></td><td>ESMA</td><td class="num">-3,464,277</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX French Power Base Future</a></td><td>ESMA</td><td class="num">-2,392,512</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX THE Natural Gas Future</a></td><td>ESMA</td><td class="num">+874,948</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">GAB-German Power Financial Base Future</a></td><td>ESMA</td><td class="num">+322,249</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX Spanish Power Base Future</a></td><td>ESMA</td><td class="num">-298,964</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td><a href="/positioning/cftc-cot/fed-funds/">FED FUNDS</a></td><td>CFTC</td><td class="num">+231,272</td><td>contracts</td><td class="num">8.4</td></tr>
+<tr><td><a href="/positioning/europe/">EEX Italian Power Base Future</a></td><td>ESMA</td><td class="num">-230,697</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">TTL-Dutch TTF Natural Gas Daily Financial Futures (ICIS)</a></td><td>ESMA</td><td class="num">+176,520</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX Austrian Power Base Future</a></td><td>ESMA</td><td class="num">+167,983</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/europe/">EEX Belgian Power Base Future</a></td><td>ESMA</td><td class="num">-134,164</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td><a href="/positioning/cftc-cot/sofr-3m/">SOFR-3M</a></td><td>CFTC</td><td class="num">-127,533</td><td>contracts</td><td class="num">-1.0</td></tr>
+<tr><td><a href="/positioning/europe/">Nordic Sys Base</a></td><td>ESMA</td><td class="num">-126,302</td><td>lots</td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table>
 <h2>Largest disclosed shorts, Europe</h2>
 <p class="gm-method">Aggregate named net short positions as a percent of issued share capital, summed across holders per issuer. The full tables are on the <a href="/positioning/shorts/">shorts page</a>.</p>
