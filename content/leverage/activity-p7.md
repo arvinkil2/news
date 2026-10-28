@@ -1,24 +1,24 @@
 ---
 title: "Bond Activity"
-date: "2026-10-27"
+date: "2026-10-28"
 lede: "Week trading activity for every watched bond, with the day's most traded, biggest moves and latest prints."
-data_as_of: "Tape through 26 Oct 2026"
+data_as_of: "Tape through 27 Oct 2026"
 url: "/leverage/activity/7/"
 ---
 
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 21:18 ET</dd></div>
-<div class="bw-sum-item"><dt>Tape through</dt><dd>26 Oct 2026</dd></div>
-<div class="bw-sum-item"><dt>Bonds traded</dt><dd>184</dd></div>
-<div class="bw-sum-item"><dt>Trades</dt><dd>2,137</dd></div>
-<div class="bw-sum-item"><dt>Last prints below 90</dt><dd>62</dd></div>
+<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 19:53 ET</dd></div>
+<div class="bw-sum-item"><dt>Tape through</dt><dd>27 Oct 2026</dd></div>
+<div class="bw-sum-item"><dt>Bonds traded</dt><dd>468</dd></div>
+<div class="bw-sum-item"><dt>Trades</dt><dd>11,504</dd></div>
+<div class="bw-sum-item"><dt>Last prints below 90</dt><dd>205</dd></div>
 </dl>
-<h2 id="all">All watched bonds, 21 Oct 2026 to 26 Oct 2026 - page 7 of 7</h2>
+<h2 id="all">All watched bonds, 22 Oct 2026 to 27 Oct 2026 - page 7 of 7</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="act-all" data-def="[340, 104, 92, 110, 104, 108, 118, 118, 110, 108]" data-min="[200, 72, 68, 84, 64, 76, 84, 84, 92, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:340px"><col style="width:104px"><col style="width:92px"><col style="width:110px"><col style="width:104px"><col style="width:108px"><col style="width:118px"><col style="width:118px"><col style="width:110px"><col style="width:108px"></colgroup>
 <thead><tr><th>Bond</th><th>Issued ($M)</th><th>Trades (5d)</th><th>Volume ($)</th><th>Last (% of par)</th><th>Move (5d, pts)</th><th>High (5d, % of par)</th><th>Low (5d, % of par)</th><th>Last trade</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td><a href="/leverage/bond/u8528kaa6/">WULF COMPUTE LLC</a><span class="muted activity-sec">7.75% Notes due 2030</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="103.45">103.45</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-19">19 Oct 2026</td><td class="muted">U8528KAA6</td></tr>
+<tr><td><a href="/leverage/bond/g91139ah1/">TSMC GLOBAL LTD</a><span class="muted activity-sec">2.25% Notes due 2031</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="87.573657">87.57</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-21">21 Oct 2026</td><td class="muted">G91139AH1</td></tr><tr><td><a href="/leverage/bond/g91139al2/">TSMC GLOBAL LTD</a><span class="muted activity-sec">4.625% Notes due 2032</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="96.835733">96.84</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-16">16 Oct 2026</td><td class="muted">G91139AL2</td></tr><tr><td><a href="/leverage/bond/92212kab2/">VANTAGE DATA CENTERS ISSUER LLC</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="99.886718">99.89</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2025-09-02">02 Sep 2025</td><td class="muted">92212KAB2</td></tr><tr><td><a href="/leverage/bond/92212kad8/">VANTAGE DATA CENTERS ISSUER LLC</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="99.597656">99.60</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-08-13">13 Aug 2026</td><td class="muted">92212KAD8</td></tr><tr><td><a href="/leverage/bond/92535uac8/">VERTIV GROUP CORP</a><span class="muted activity-sec">4.125% Notes due 2028</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="99.02">99.02</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-07-21">21 Jul 2026</td><td class="muted">92535UAC8</td></tr><tr><td><a href="/leverage/bond/92212kaj5/">Vantage Data Centers Issuer</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="94.402343">94.40</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-07">07 Oct 2026</td><td class="muted">92212KAJ5</td></tr><tr><td><a href="/leverage/bond/92212kac0/">Vantage Data Centers LLC</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="96.539062">96.54</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-08">08 Oct 2026</td><td class="muted">92212KAC0</td></tr><tr><td><a href="/leverage/bond/92212kae6/">Vantage Data Centers LLC</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="100.46875">100.47</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2025-10-31">31 Oct 2025</td><td class="muted">92212KAE6</td></tr><tr><td><a href="/leverage/bond/92212kag1/">Vantage Data Centers LLC</a></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="96.25">96.25</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-09-24">24 Sep 2026</td><td class="muted">92212KAG1</td></tr><tr><td><a href="/leverage/bond/u8528kaa6/">WULF COMPUTE LLC</a><span class="muted activity-sec">7.75% Notes due 2030</span></td><td class="muted" data-v="-999"></td><td data-v="0">0</td><td data-v="0">$0</td><td data-v="103.45">103.45</td><td class="muted">—</td><td class="muted">—</td><td class="muted">—</td><td data-v="2026-10-19">19 Oct 2026</td><td class="muted">U8528KAA6</td></tr>
 </tbody></table></div>
 <nav class="bw-pager" aria-label="All watched bonds pages"><span class="bw-pager-pos">Page 7 of 7</span><span class="bw-pager-links"><a href="/leverage/activity/">1</a> / <a href="/leverage/activity/2/">2</a> / <a href="/leverage/activity/3/">3</a> / <a href="/leverage/activity/4/">4</a> / <a href="/leverage/activity/5/">5</a> / <a href="/leverage/activity/6/">6</a> / <strong>7</strong></span><span class="bw-pager-ends"><a href="/leverage/activity/6/">Previous</a></span></nav>
 <script>

@@ -877,7 +877,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001769628-26-000183 (filed 2026-04-21)"
   },
   {
    "cusip": "21873SAH1",
@@ -1077,7 +1080,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 3507000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001859392-26-000074, 0001859392-26-000074, 0001859392-26-000079 (filed 2026-07-24, 2026-07-24, 2026-07-28)"
   },
   {
    "cusip": "74690DAA9",
@@ -2561,7 +2567,10 @@
    "is_callable": "N",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 4200000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001769628-26-000432 (filed 2026-09-22)"
   },
   {
    "cusip": "U2069EAC4",
@@ -2584,7 +2593,10 @@
    "next_call_date": "2028-10-01 00:00:00",
    "is_callable": "Y",
    "is_144a": "Y",
-   "trace_grade": "H"
+   "trace_grade": "H",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001769628-26-000183 (filed 2026-04-21)"
   },
   {
    "cusip": "U2069EAD2",
@@ -2607,7 +2619,10 @@
    "next_call_date": "2028-10-01 00:00:00",
    "is_callable": "Y",
    "is_144a": "Y",
-   "trace_grade": "H"
+   "trace_grade": "H",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001769628-26-000183 (filed 2026-04-21)"
   },
   {
    "cusip": "68389XAE5",
@@ -4470,7 +4485,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "30303M8D7",
@@ -4548,7 +4566,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "30303M8G0",
@@ -4574,7 +4595,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "30303M8H8",
@@ -4652,7 +4676,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "30303M8L9",
@@ -5300,7 +5327,10 @@
    "moodys_rating_date": "2022-08-04",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "U59197AD2",
@@ -5370,7 +5400,10 @@
    "moodys_rating_date": "2022-08-04",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950103-22-013830 (filed 2022-08-09)"
   },
   {
    "cusip": "594918AD6",
@@ -5962,7 +5995,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 6249997000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-157234, 0001193125-20-157234 (filed 2020-06-01, 2020-06-01)"
   },
   {
    "cusip": "594918CD4",
@@ -5988,7 +6024,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 3750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-157234, 0001193125-20-157234 (filed 2020-06-01, 2020-06-01)"
   },
   {
    "cusip": "594918CE2",
@@ -6013,7 +6052,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 6250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-084239, 0001193125-21-084239 (filed 2021-03-17, 2021-03-17)"
   },
   {
    "cusip": "594918CF9",
@@ -6039,7 +6081,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 1934966000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-084239, 0001193125-21-084239 (filed 2021-03-17, 2021-03-17)"
   },
   {
    "cusip": "594918CH5",
@@ -6089,7 +6134,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "594918CK8",
@@ -6114,7 +6162,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 762456000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "594918CL6",
@@ -6191,7 +6242,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "594918CU6",
@@ -6217,7 +6271,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "INFO"
+   "industry_group": "INFO",
+   "issue_amount_usd": 762456000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "594918CW2",
@@ -6289,7 +6346,10 @@
    "moodys_rating_date": "2026-08-21",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "U59340AL0",
@@ -6312,7 +6372,10 @@
    "moodys_rating_date": "2026-08-21",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 762456000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-23-271376 (filed 2023-11-06)"
   },
   {
    "cusip": "U59340AM8",
@@ -7868,7 +7931,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-16-473562 (filed 2016-02-23)"
   },
   {
    "cusip": "037833CD0",
@@ -9184,7 +9250,10 @@
    "amount_outstanding_usd": 2000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
-   "effective_rate_pct": 4.39
+   "effective_rate_pct": 4.39,
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-134440 (filed 2020-05-06)"
   },
   {
    "cusip": "11135FAS0",
@@ -9214,7 +9283,10 @@
    "amount_outstanding_usd": 2000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
-   "effective_rate_pct": 4.39
+   "effective_rate_pct": 4.39,
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-134440 (filed 2020-05-06)"
   },
   {
    "cusip": "11135FBA8",
@@ -9746,7 +9818,10 @@
    "amount_outstanding_usd": 2500000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
-   "effective_rate_pct": 5.33
+   "effective_rate_pct": 5.33,
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-108067 (filed 2022-04-18)"
   },
   {
    "cusip": "11135FBW0",
@@ -10751,7 +10826,10 @@
    "amount_outstanding_usd": 2000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001730168-25-000121 (period ended 2025-11-02)",
-   "effective_rate_pct": 4.39
+   "effective_rate_pct": 4.39,
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-134440 (filed 2020-05-06)"
   },
   {
    "cusip": "U1109MAP1",
@@ -11143,7 +11221,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135BB1",
@@ -11186,7 +11267,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135BD7",
@@ -11212,7 +11296,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135BE5",
@@ -11255,7 +11342,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135BG0",
@@ -11419,7 +11509,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 1250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-159531, 0001193125-22-104336 (filed 2020-06-03, 2022-04-13)"
   },
   {
    "cusip": "023135BS4",
@@ -11445,7 +11538,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-159531, 0001193125-22-104336 (filed 2020-06-03, 2022-04-13)"
   },
   {
    "cusip": "023135BT2",
@@ -11497,7 +11593,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-159531, 0001193125-22-104336 (filed 2020-06-03, 2022-04-13)"
   },
   {
    "cusip": "023135BY1",
@@ -11523,7 +11622,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-159084, 0001193125-22-104336 (filed 2021-05-12, 2022-04-13)"
   },
   {
    "cusip": "023135BZ8",
@@ -11549,7 +11651,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-159084, 0001193125-22-104336 (filed 2021-05-12, 2022-04-13)"
   },
   {
    "cusip": "023135CA2",
@@ -11575,7 +11680,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-159084, 0001193125-22-104336 (filed 2021-05-12, 2022-04-13)"
   },
   {
    "cusip": "023135CB0",
@@ -11653,7 +11761,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135CG9",
@@ -11679,7 +11790,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135CH7",
@@ -11705,7 +11819,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-104336 (filed 2022-04-13)"
   },
   {
    "cusip": "023135CJ3",
@@ -11861,7 +11978,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-25-114647 (filed 2025-11-20)"
   },
   {
    "cusip": "023135CT1",
@@ -11887,7 +12007,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-25-114647 (filed 2025-11-20)"
   },
   {
    "cusip": "023135CU8",
@@ -11913,7 +12036,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-25-114647 (filed 2025-11-20)"
   },
   {
    "cusip": "023135CV6",
@@ -11939,7 +12065,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-25-114647 (filed 2025-11-20)"
   },
   {
    "cusip": "023135CW4",
@@ -12063,7 +12192,10 @@
    "is_callable": "N",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DC7",
@@ -12088,7 +12220,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DD5",
@@ -12113,7 +12248,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 5000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DE3",
@@ -12163,7 +12301,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 6000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DG8",
@@ -12188,7 +12329,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DH6",
@@ -12213,7 +12357,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 5500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DJ2",
@@ -12238,7 +12385,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135DK9",
@@ -12263,7 +12413,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-027729 (filed 2026-03-13)"
   },
   {
    "cusip": "023135EA0",
@@ -12312,7 +12465,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-082293 (filed 2026-07-09)"
   },
   {
    "cusip": "023135EC6",
@@ -12362,7 +12518,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 3000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-082293 (filed 2026-07-09)"
   },
   {
    "cusip": "023135EE2",
@@ -12387,7 +12546,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 4500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-082293 (filed 2026-07-09)"
   },
   {
    "cusip": "023135EF9",
@@ -12412,7 +12574,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-082293 (filed 2026-07-09)"
   },
   {
    "cusip": "023135EG7",
@@ -12462,7 +12627,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "RETL"
+   "industry_group": "RETL",
+   "issue_amount_usd": 2250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-26-082293 (filed 2026-07-09)"
   },
   {
    "cusip": "U02320AG1",
@@ -12598,7 +12766,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "twin_of": "36322DAA4"
+   "twin_of": "36322DAA4",
+   "issue_amount_usd": 3507000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001859392-26-000074, 0001859392-26-000074, 0001859392-26-000079 (filed 2026-07-24, 2026-07-24, 2026-07-28)"
   },
   {
    "cusip": "20469BAE7",
@@ -13282,7 +13453,10 @@
    "amount_outstanding_usd": 802000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 6.39
+   "effective_rate_pct": 6.39,
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-11-052231 (filed 2011-09-19)"
   },
   {
    "cusip": "458140AN0",
@@ -13311,7 +13485,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.65
+   "effective_rate_pct": 5.65,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-12-082172, 0001104659-12-083301 (filed 2012-12-06, 2012-12-11)"
   },
   {
    "cusip": "458140AP5",
@@ -13340,7 +13517,10 @@
    "amount_outstanding_usd": 567000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.89
+   "effective_rate_pct": 5.89,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-12-082172, 0001104659-12-083301 (filed 2012-12-06, 2012-12-11)"
   },
   {
    "cusip": "458140AT7",
@@ -13553,7 +13733,10 @@
    "amount_outstanding_usd": 2000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 2.38
+   "effective_rate_pct": 2.38,
+   "issue_amount_usd": 1250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-297652 (filed 2019-11-21)"
   },
   {
    "cusip": "458140BJ8",
@@ -13583,7 +13766,10 @@
    "amount_outstanding_usd": 2000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 3.19
+   "effective_rate_pct": 3.19,
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-297652 (filed 2019-11-21)"
   },
   {
    "cusip": "458140BK5",
@@ -13613,7 +13799,10 @@
    "amount_outstanding_usd": 1000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 3.1
+   "effective_rate_pct": 3.1,
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-035758 (filed 2020-02-13)"
   },
   {
    "cusip": "458140BL3",
@@ -13643,7 +13832,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.59
+   "effective_rate_pct": 4.59,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-085163 (filed 2020-03-25)"
   },
   {
    "cusip": "458140BM1",
@@ -13673,7 +13865,10 @@
    "amount_outstanding_usd": 2250000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.73
+   "effective_rate_pct": 4.73,
+   "issue_amount_usd": 2250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-085163 (filed 2020-03-25)"
   },
   {
    "cusip": "458140BN9",
@@ -13703,7 +13898,10 @@
    "amount_outstanding_usd": 1000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.98
+   "effective_rate_pct": 4.98,
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-085163 (filed 2020-03-25)"
   },
   {
    "cusip": "458140BQ2",
@@ -13759,7 +13957,10 @@
    "amount_outstanding_usd": 1500000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 3.91
+   "effective_rate_pct": 3.91,
+   "issue_amount_usd": 1500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-085163 (filed 2020-03-25)"
   },
   {
    "cusip": "458140BT6",
@@ -13789,7 +13990,10 @@
    "amount_outstanding_usd": 1000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 1.67
+   "effective_rate_pct": 1.67,
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-244840 (filed 2021-08-12)"
   },
   {
    "cusip": "458140BU3",
@@ -13819,7 +14023,10 @@
    "amount_outstanding_usd": 1250000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 2.02
+   "effective_rate_pct": 2.02,
+   "issue_amount_usd": 1250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-244840 (filed 2021-08-12)"
   },
   {
    "cusip": "458140BV1",
@@ -13849,7 +14056,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 2.81
+   "effective_rate_pct": 2.81,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-244840 (filed 2021-08-12)"
   },
   {
    "cusip": "458140BW9",
@@ -13879,7 +14089,10 @@
    "amount_outstanding_usd": 1250000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 3.05
+   "effective_rate_pct": 3.05,
+   "issue_amount_usd": 1250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-244840 (filed 2021-08-12)"
   },
   {
    "cusip": "458140BX7",
@@ -13909,7 +14122,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 3.2
+   "effective_rate_pct": 3.2,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-244840 (filed 2021-08-12)"
   },
   {
    "cusip": "458140BY5",
@@ -13965,7 +14181,10 @@
    "amount_outstanding_usd": 850000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.05
+   "effective_rate_pct": 4.05,
+   "issue_amount_usd": 850000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-213699 (filed 2022-08-05)"
   },
   {
    "cusip": "458140CA6",
@@ -13995,7 +14214,10 @@
    "amount_outstanding_usd": 1250000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.17
+   "effective_rate_pct": 4.17,
+   "issue_amount_usd": 1250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-213699 (filed 2022-08-05)"
   },
   {
    "cusip": "458140CB4",
@@ -14025,7 +14247,10 @@
    "amount_outstanding_usd": 1750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 4.89
+   "effective_rate_pct": 4.89,
+   "issue_amount_usd": 1750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-213699 (filed 2022-08-05)"
   },
   {
    "cusip": "458140CC2",
@@ -14055,7 +14280,10 @@
    "amount_outstanding_usd": 900000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.03
+   "effective_rate_pct": 5.03,
+   "issue_amount_usd": 900000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-213699 (filed 2022-08-05)"
   },
   {
    "cusip": "458140CE8",
@@ -14265,7 +14493,10 @@
    "amount_outstanding_usd": 900000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.18
+   "effective_rate_pct": 5.18,
+   "issue_amount_usd": 900000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-24-041435 (filed 2024-02-21)"
   },
   {
    "cusip": "458140CM0",
@@ -14295,7 +14526,10 @@
    "amount_outstanding_usd": 1150000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.59
+   "effective_rate_pct": 5.59,
+   "issue_amount_usd": 1150000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-24-041435 (filed 2024-02-21)"
   },
   {
    "cusip": "458140CN8",
@@ -14325,7 +14559,10 @@
    "amount_outstanding_usd": 500000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000050863-26-000011 (period ended 2025-12-27)",
-   "effective_rate_pct": 5.07
+   "effective_rate_pct": 5.07,
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-24-041435 (filed 2024-02-21)"
   },
   {
    "cusip": "458140CQ1",
@@ -14459,7 +14696,7 @@
    "issuer": "INTEL CORP",
    "security": "Notes",
    "class": "bond",
-   "coupon_pct": null,
+   "coupon_pct": 4.1,
    "maturity": "2047-12-08",
    "deal": "Intel",
    "watch": "daily",
@@ -14474,7 +14711,10 @@
    "sp_rating_date": "2024-12-10",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 640000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-17-256795, 0001193125-17-256795 (filed 2017-08-14, 2017-08-14)"
   },
   {
    "cusip": "595112AP8",
@@ -14706,7 +14946,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 1000000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)",
+   "amount_outstanding_usd": 1000000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112BT9",
@@ -14735,7 +14978,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 500000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)",
+   "amount_outstanding_usd": 500000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112BU6",
@@ -14764,7 +15010,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 500000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-21-127583 (filed 2021-10-19)",
+   "amount_outstanding_usd": 490000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112BV4",
@@ -14790,7 +15039,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "H",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000723125-22-000051 (filed 2022-10-31)"
   },
   {
    "cusip": "595112BZ5",
@@ -14816,7 +15068,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 176000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112CA9",
@@ -14871,7 +15126,10 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "amount_outstanding_usd": 215000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112CD3",
@@ -14929,7 +15187,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 1000000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-003448 (filed 2025-01-14)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-003448 (filed 2025-01-14)",
+   "amount_outstanding_usd": 136000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112CG6",
@@ -14958,7 +15219,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 500000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-039497 (filed 2025-04-25)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-039497 (filed 2025-04-25)",
+   "amount_outstanding_usd": 71000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "595112CH4",
@@ -14987,7 +15251,10 @@
    "industry_group": "TRON",
    "issue_amount_usd": 1250000000,
    "issue_amount_kind": "original_issue",
-   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-039497 (filed 2025-04-25)"
+   "issue_amount_source": "SEC Form 424B prospectus, accession(s) 0001104659-25-039497 (filed 2025-04-25)",
+   "amount_outstanding_usd": 220000000,
+   "amount_outstanding_kind": "principal_outstanding",
+   "amount_outstanding_source": "SEC Form 10-K, accession 0000723125-26-000023 (period ended 2026-09-03)"
   },
   {
    "cusip": "78392BAC1",
@@ -15353,7 +15620,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 1750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-066045, 0001193125-19-066045, 0001193125-19-074935, 0001193125-19-082281, 0001193125-19-082281 (filed 2019-03-07, 2019-03-07, 2019-03-14, 2019-03-21, 2019-03-21)"
   },
   {
    "cusip": "24703DBC4",
@@ -15379,7 +15649,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001571996-20-000019, 0001571996-20-000019, 0001193125-20-102602 (filed 2020-04-03, 2020-04-03, 2020-04-09)"
   },
   {
    "cusip": "24703DBD2",
@@ -15405,7 +15678,10 @@
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001571996-20-000019, 0001571996-20-000019, 0001193125-20-102602 (filed 2020-04-03, 2020-04-03, 2020-04-09)"
   },
   {
    "cusip": "24703DBE0",
@@ -15999,7 +16275,10 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHF",
-   "twin_of": "24703DBC4"
+   "twin_of": "24703DBC4",
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001571996-20-000019, 0001571996-20-000019, 0001193125-20-102602 (filed 2020-04-03, 2020-04-03, 2020-04-09)"
   },
   {
    "cusip": "24703TAG1",
@@ -16026,7 +16305,10 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHF",
-   "twin_of": "24703DBA8"
+   "twin_of": "24703DBA8",
+   "issue_amount_usd": 1750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-066045, 0001193125-19-066045, 0001193125-19-074935, 0001193125-19-082281, 0001193125-19-082281 (filed 2019-03-07, 2019-03-07, 2019-03-14, 2019-03-21, 2019-03-21)"
   },
   {
    "cusip": "24703TAH9",
@@ -16053,7 +16335,10 @@
    "is_144a": "N",
    "trace_grade": "I",
    "industry_group": "OTHF",
-   "twin_of": "24703DBD2"
+   "twin_of": "24703DBD2",
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001571996-20-000019, 0001571996-20-000019, 0001193125-20-102602 (filed 2020-04-03, 2020-04-03, 2020-04-09)"
   },
   {
    "cusip": "24703TAJ5",
@@ -16253,7 +16538,7 @@
    "issuer": "DELL INTL L L C / EMC CORP",
    "security": "Notes",
    "class": "bond",
-   "coupon_pct": null,
+   "coupon_pct": 5.85,
    "maturity": "2027-07-15",
    "deal": "Dell Technologies",
    "watch": "daily",
@@ -16268,7 +16553,10 @@
    "sp_rating_date": "2026-06-01",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "I"
+   "trace_grade": "I",
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-102602 (filed 2020-04-09)"
   },
   {
    "cusip": "U24724AP8",
@@ -16417,7 +16705,10 @@
    "amount_outstanding_usd": 600000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001628280-25-056742 (period ended 2025-10-26)",
-   "effective_rate_pct": 5.879
+   "effective_rate_pct": 5.879,
+   "issue_amount_usd": 600000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-11-159467, 0001193125-11-162883, 0001193125-11-162883 (filed 2011-06-06, 2011-06-10, 2011-06-10)"
   },
   {
    "cusip": "038222AK1",
@@ -16876,7 +17167,10 @@
    "amount_outstanding_usd": 250000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 5.67
+   "effective_rate_pct": 5.67,
+   "issue_amount_usd": 250000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000319201-14-000064, 0001193125-14-403628, 0001193125-14-403628 (filed 2014-11-06, 2014-11-07, 2014-11-07)"
   },
   {
    "cusip": "482480AG5",
@@ -16906,7 +17200,10 @@
    "amount_outstanding_usd": 800000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 4.159
+   "effective_rate_pct": 4.159,
+   "issue_amount_usd": 800000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-076707 (filed 2019-03-15)"
   },
   {
    "cusip": "482480AH3",
@@ -16936,7 +17233,10 @@
    "amount_outstanding_usd": 400000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 5.047
+   "effective_rate_pct": 5.047,
+   "issue_amount_usd": 400000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-19-076707 (filed 2019-03-15)"
   },
   {
    "cusip": "482480AJ9",
@@ -16966,7 +17266,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 3.302
+   "effective_rate_pct": 3.302,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-20-046328, 0001193125-20-060489, 0001193125-20-060489 (filed 2020-02-24, 2020-03-03, 2020-03-03)"
   },
   {
    "cusip": "482480AL4",
@@ -16996,7 +17299,10 @@
    "amount_outstanding_usd": 1000000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 4.657
+   "effective_rate_pct": 4.657,
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-178111 (filed 2022-06-22)"
   },
   {
    "cusip": "482480AM2",
@@ -17026,7 +17332,10 @@
    "amount_outstanding_usd": 1450000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 5.023
+   "effective_rate_pct": 5.023,
+   "issue_amount_usd": 1200000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-178111 (filed 2022-06-22)"
   },
   {
    "cusip": "482480AN0",
@@ -17056,7 +17365,10 @@
    "amount_outstanding_usd": 800000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 5.259
+   "effective_rate_pct": 5.259,
+   "issue_amount_usd": 800000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-22-178111 (filed 2022-06-22)"
   },
   {
    "cusip": "482480AP5",
@@ -17086,7 +17398,10 @@
    "amount_outstanding_usd": 500000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0000319201-26-000027 (period ended 2026-06-30)",
-   "effective_rate_pct": 4.777
+   "effective_rate_pct": 4.777,
+   "issue_amount_usd": 500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-24-021853 (filed 2024-02-01)"
   },
   {
    "cusip": "573874AD6",
@@ -17177,7 +17492,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 3.043
+   "effective_rate_pct": 3.043,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-272971 (filed 2021-09-14)"
   },
   {
    "cusip": "573874AJ3",
@@ -17208,7 +17526,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 3.043
+   "effective_rate_pct": 3.043,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-272971 (filed 2021-09-14)"
   },
   {
    "cusip": "573874AM6",
@@ -17238,7 +17559,10 @@
    "amount_outstanding_usd": 499900000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 4.94
+   "effective_rate_pct": 4.94,
+   "issue_amount_usd": 479394000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-150119, 0001193125-21-150119 (filed 2021-05-04, 2021-05-04)"
   },
   {
    "cusip": "573874AN4",
@@ -17269,7 +17593,10 @@
    "amount_outstanding_usd": 499900000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 4.94
+   "effective_rate_pct": 4.94,
+   "issue_amount_usd": 479394000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-150119, 0001193125-21-150119 (filed 2021-05-04, 2021-05-04)"
   },
   {
    "cusip": "573874AP9",
@@ -17481,7 +17808,10 @@
    "amount_outstanding_usd": 750000000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 3.043
+   "effective_rate_pct": 3.043,
+   "issue_amount_usd": 750000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-272971 (filed 2021-09-14)"
   },
   {
    "cusip": "U5739DAE5",
@@ -17508,7 +17838,10 @@
    "amount_outstanding_usd": 499900000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 4.94
+   "effective_rate_pct": 4.94,
+   "issue_amount_usd": 479394000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-150119, 0001193125-21-150119 (filed 2021-05-04, 2021-05-04)"
   },
   {
    "cusip": "57385LAB4",
@@ -17537,7 +17870,10 @@
    "amount_outstanding_usd": 499900000,
    "amount_outstanding_kind": "principal_outstanding",
    "amount_outstanding_source": "SEC Form 10-K, accession 0001835632-26-000011 (period ended 2026-01-31)",
-   "effective_rate_pct": 4.94
+   "effective_rate_pct": 4.94,
+   "issue_amount_usd": 479394000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001193125-21-150119, 0001193125-21-150119 (filed 2021-05-04, 2021-05-04)"
   },
   {
    "cusip": "92535UAB0",
@@ -18928,7 +19264,10 @@
    "is_callable": "N",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 425000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0000950142-24-002628 (filed 2024-10-24)"
   },
   {
    "cusip": "88080TAC8",
@@ -18949,7 +19288,10 @@
    "is_callable": "N",
    "is_144a": "Y",
    "trace_grade": "H",
-   "industry_group": "OTHF"
+   "industry_group": "OTHF",
+   "issue_amount_usd": 1000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K exhibit(s), accession(s) 0001104659-25-080911 (filed 2025-08-20)"
   },
   {
    "cusip": "88080TAE4",
@@ -19264,6 +19606,145 @@
    "trace_grade": "I",
    "industry_group": "AERO",
    "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "U8531HAA8",
+   "issuer": "SPACE EXPL TECHNOLOGIES CORP",
+   "security": "5.35% Notes due 2031",
+   "class": "bond",
+   "coupon_pct": 5.35,
+   "maturity": "2031-07-15",
+   "deal": "SpaceX",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "SPCX6434759",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-27.",
+   "sp_rating": "BBB",
+   "sp_rating_date": "2026-06-22",
+   "moodys_rating_date": "2026-07-02",
+   "next_call_date": "2031-06-15 00:00:00",
+   "is_callable": "Y",
+   "is_144a": "Y",
+   "trace_grade": "I",
+   "twin_of": "84615QAA1",
+   "issue_amount_usd": 7000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "U8531HAB6",
+   "issuer": "SPACE EXPL TECHNOLOGIES CORP",
+   "security": "5.65% Notes due 2033",
+   "class": "bond",
+   "coupon_pct": 5.65,
+   "maturity": "2033-07-15",
+   "deal": "SpaceX",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "SPCX6434767",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-27.",
+   "sp_rating": "BBB",
+   "sp_rating_date": "2026-06-22",
+   "moodys_rating_date": "2026-07-02",
+   "next_call_date": "2033-05-15 00:00:00",
+   "is_callable": "Y",
+   "is_144a": "N",
+   "trace_grade": "I",
+   "twin_of": "84615QAC7",
+   "issue_amount_usd": 6000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "U8531HAC4",
+   "issuer": "SPACE EXPL TECHNOLOGIES CORP",
+   "security": "5.875% Notes due 2036",
+   "class": "bond",
+   "coupon_pct": 5.875,
+   "maturity": "2036-07-15",
+   "deal": "SpaceX",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "SPCX6434604",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-27.",
+   "sp_rating": "BBB",
+   "sp_rating_date": "2026-06-22",
+   "moodys_rating_date": "2026-07-02",
+   "is_callable": "N",
+   "is_144a": "N",
+   "trace_grade": "I",
+   "twin_of": "84615QAE3",
+   "issue_amount_usd": 6000000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "U8531HAD2",
+   "issuer": "SPACE EXPL TECHNOLOGIES CORP",
+   "security": "6.6% Notes due 2046",
+   "class": "bond",
+   "coupon_pct": 6.6,
+   "maturity": "2046-07-15",
+   "deal": "SpaceX",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "SPCX6434768",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-27.",
+   "sp_rating": "BBB",
+   "sp_rating_date": "2026-06-22",
+   "moodys_rating_date": "2026-07-02",
+   "next_call_date": "2046-01-15 00:00:00",
+   "is_callable": "Y",
+   "is_144a": "N",
+   "trace_grade": "I",
+   "twin_of": "84615QAG8",
+   "issue_amount_usd": 2500000000,
+   "issue_amount_kind": "original_issue",
+   "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
+  },
+  {
+   "cusip": "U8531HAE0",
+   "issuer": "SPACE EXPL TECHNOLOGIES CORP",
+   "security": "6.65% Notes due 2056",
+   "class": "bond",
+   "coupon_pct": 6.65,
+   "maturity": "2056-07-15",
+   "deal": "SpaceX",
+   "watch": "daily",
+   "finra_covered": true,
+   "in_marks": false,
+   "finra_symbol": "SPCX6434763",
+   "last_trade_price": null,
+   "last_trade_date": null,
+   "exclude_reason": null,
+   "note": "Found by FINRA issuer sweep 2026-10-27.",
+   "sp_rating": "BBB",
+   "sp_rating_date": "2026-06-22",
+   "moodys_rating_date": "2026-07-02",
+   "next_call_date": "2056-01-15 00:00:00",
+   "is_callable": "Y",
+   "is_144a": "N",
+   "trace_grade": "I",
+   "twin_of": "84615QAJ2",
+   "issue_amount_usd": 3500000000,
    "issue_amount_kind": "original_issue",
    "issue_amount_source": "SEC Form 8-K pricing filing, accession 0001628280-26-044955 (filed 2026-06-23)"
   }

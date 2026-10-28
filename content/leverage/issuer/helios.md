@@ -1,6 +1,6 @@
 ---
 title: "Helios"
-date: "2026-10-27"
+date: "2026-10-28"
 lede: "Project issuer, 2 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-27"
 ---
@@ -13,8 +13,8 @@ data_as_of: "2026-10-27"
 <colgroup><col style="width:300px"><col style="width:104px"><col style="width:124px"><col style="width:110px"><col style="width:92px"><col style="width:128px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
 <thead><tr><th>Bond</th><th>Issued ($M)</th><th>Last print (% of par)</th><th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th><th>Coupon (%)</th><th>Matures</th><th>Rating</th><th>CUSIP</th></tr></thead>
 <tbody>
-<tr><td data-v="GALAXY HELIOS DATA CNTR — 9.875% senior secured notes due 2031"><a class="bond-link" href="/leverage/bond/36322daa4/"><span class="bond-name">GALAXY HELIOS DATA CNTR</span><span class="bond-sub">9.875% senior secured notes due 2031</span></a></td><td class="muted" data-v="-999"></td><td data-v="92.922931">92.92</td><td data-v="2026-10-27">27 Oct 2026</td><td class="neg" data-v="-7.349069">-7.35</td><td data-v="100.272">100.27<span class="cell-sub">Period ended 31 Jul 2026</span></td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="S&amp;P BB-" title="S&amp;P BB-, rated 23 Jul 2026">S&amp;P BB-</td><td data-v="36322DAA4">36322DAA4</td></tr>
-<tr><td data-v="GALAXY HELIOS DATA CTRS II LLC — 9.875% Notes due 2031"><a class="bond-link" href="/leverage/bond/u3190caa2/"><span class="bond-name">GALAXY HELIOS DATA CTRS II LLC</span><span class="bond-sub">9.875% Notes due 2031</span></a></td><td class="muted" data-v="-999"></td><td data-v="90.5">90.50</td><td data-v="2026-10-22">22 Oct 2026</td><td data-v="-999">n/a</td><td data-v="-999">n/a</td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="S&amp;P BB-" title="S&amp;P BB-, rated 23 Jul 2026">S&amp;P BB-</td><td data-v="U3190CAA2">U3190CAA2</td></tr>
+<tr><td data-v="GALAXY HELIOS DATA CNTR — 9.875% senior secured notes due 2031"><a class="bond-link" href="/leverage/bond/36322daa4/"><span class="bond-name">GALAXY HELIOS DATA CNTR</span><span class="bond-sub">9.875% senior secured notes due 2031</span></a></td><td class="num" data-v="3507000000">3,507</td><td data-v="92.922931">92.92</td><td data-v="2026-10-27">27 Oct 2026</td><td class="neg" data-v="-7.349069">-7.35</td><td data-v="100.272">100.27<span class="cell-sub">Period ended 31 Jul 2026</span></td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="S&amp;P BB-" title="S&amp;P BB-, rated 23 Jul 2026">S&amp;P BB-</td><td data-v="36322DAA4">36322DAA4</td></tr>
+<tr><td data-v="GALAXY HELIOS DATA CTRS II LLC — 9.875% Notes due 2031"><a class="bond-link" href="/leverage/bond/u3190caa2/"><span class="bond-name">GALAXY HELIOS DATA CTRS II LLC</span><span class="bond-sub">9.875% Notes due 2031</span></a></td><td class="num" data-v="3507000000">3,507</td><td data-v="90.5">90.50</td><td data-v="2026-10-22">22 Oct 2026</td><td data-v="-999">n/a</td><td data-v="-999">n/a</td><td data-v="9.875">9.875</td><td data-v="2031-08-01">01 Aug 2031</td><td data-v="S&amp;P BB-" title="S&amp;P BB-, rated 23 Jul 2026">S&amp;P BB-</td><td data-v="U3190CAA2">U3190CAA2</td></tr>
 </tbody></table></div>
 
 <div class="flow-panel">
