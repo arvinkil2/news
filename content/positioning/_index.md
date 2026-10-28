@@ -14,7 +14,7 @@ data_as_of: "Datelines per family below; no single combined stamp"
 <tr><td>LME Commitments of Traders</td><td>Fri 16 Oct 2026</td><td>Tue 20 Oct 2026</td><td>22 metals, from 3 Jan 2020</td></tr>
 <tr><td>Short positions</td><td>Mon 26 Oct 2026</td><td>Registers publish about one day after the position date</td><td>Eight EU registers, UK ANSP from 13 Jul 2026, UK named archive to 9 Jul 2026</td></tr>
 <tr><td>Asia</td><td>SGX Tue 27 Oct 2026</td><td>Daily files</td><td>SGX from 27 Oct 2026; TOCOM sampled 2022 to 2026; CZCE banked 2016 to 2026, processing pending</td></tr>
-<tr><td>OCC Bank Derivatives</td><td>Quarter ended Tue 30 Jun 2026</td><td>About 10 to 12 weeks after quarter end</td><td>123 quarters, Q4 1995 to Q2 2026</td></tr>
+<tr><td>OCC Bank Derivatives</td><td>Quarter ended Tue 30 Jun 2026</td><td>About 10 to 12 weeks after quarter end</td><td>113 quarters, Q2 1998 to Q2 2026</td></tr>
 </tbody></table>
 <h2>Extremes, CFTC speculative positioning</h2>
 <p class="gm-method">Ranked by the absolute z-score of the speculative net over 52 weeks. A z-score at or above 1.8 in absolute value is marked stretched, at or above 2.5 extreme. The full table is on the <a href="/positioning/cftc-cot/">CFTC page</a>.</p>
@@ -83,7 +83,7 @@ data_as_of: "Datelines per family below; no single combined stamp"
 <h3>CFTC Commitments of Traders</h3>
 <table class="market-table"><tbody>
 <tr><td>Coverage</td><td>476 markets, three report families, history from 1986 (legacy), 2006 (disaggregated)</td></tr>
-<tr><td>Dataset size</td><td>2,960,292 tidy rows</td></tr>
+<tr><td>Dataset size</td><td>2,960,192 tidy rows</td></tr>
 <tr><td>Collector cadence</td><td>Weekly, Friday after the CFTC release</td></tr>
 <tr><td>Latest position date</td><td>Tue 20 Oct 2026</td></tr>
 <tr><td>Latest publication date</td><td>Fri 23 Oct 2026</td></tr>
@@ -119,7 +119,7 @@ data_as_of: "Datelines per family below; no single combined stamp"
 <h3>Short positions</h3>
 <table class="market-table"><tbody>
 <tr><td>Coverage</td><td>Eight EU registers, UK ANSP from 13 Jul 2026, UK named archive to 9 Jul 2026</td></tr>
-<tr><td>Dataset size</td><td>About 310,000 disclosures</td></tr>
+<tr><td>Dataset size</td><td>318,447 disclosures</td></tr>
 <tr><td>Collector cadence</td><td>Daily, weekdays</td></tr>
 <tr><td>Latest position date</td><td>Mon 26 Oct 2026</td></tr>
 <tr><td>Latest publication date</td><td>Registers publish about one day after the position date</td></tr>
@@ -136,7 +136,7 @@ data_as_of: "Datelines per family below; no single combined stamp"
 </tbody></table>
 <h3>OCC Bank Derivatives</h3>
 <table class="market-table"><tbody>
-<tr><td>Coverage</td><td>123 quarters, Q4 1995 to Q2 2026</td></tr>
+<tr><td>Coverage</td><td>113 quarters, Q2 1998 to Q2 2026</td></tr>
 <tr><td>Dataset size</td><td>202,465 observations</td></tr>
 <tr><td>Collector cadence</td><td>Quarterly</td></tr>
 <tr><td>Latest position date</td><td>Quarter ended Tue 30 Jun 2026</td></tr>

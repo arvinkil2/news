@@ -237,8 +237,8 @@ data_as_of: "Latest register position date Mon 26 Oct 2026"
 <tr><td>OCADO GROUP PLC</td><td>GB00B3MBS747</td><td class="num">9.72%</td><td>2026-10-21</td></tr>
 <tr><td>KINGFISHER PLC</td><td>GB0033195214</td><td class="num">9.70%</td><td>2026-10-22</td></tr>
 <tr><td>TAYLOR WIMPEY PLC</td><td>GB0008782301</td><td class="num">9.69%</td><td>2026-10-23</td></tr>
-<tr><td>R&amp;S GROUP HOLDING AG</td><td>CH1107979838</td><td class="num">9.41%</td><td>2026-10-22</td></tr>
 <tr><td>PERSIMMON PUBLIC LIMITED COMPANY</td><td>GB0006825383</td><td class="num">9.41%</td><td>2026-10-23</td></tr>
+<tr><td>R&amp;S GROUP HOLDING AG</td><td>CH1107979838</td><td class="num">9.41%</td><td>2026-10-22</td></tr>
 <tr><td>OXFORD BIOMEDICA PLC</td><td>GB00BDFBVT43</td><td class="num">9.37%</td><td>2026-10-22</td></tr>
 <tr><td>Partners Group Holding AG</td><td>CH0024608827</td><td class="num">9.32%</td><td>2026-10-22</td></tr>
 <tr><td>Barratt Redrow plc</td><td>GB0000811801</td><td class="num">9.08%</td><td>2026-10-22</td></tr>
@@ -255,10 +255,10 @@ data_as_of: "Latest register position date Mon 26 Oct 2026"
 <tr><td>J SAINSBURY PLC</td><td>GB00B019KW72</td><td class="num">6.94%</td><td>2026-10-22</td></tr>
 <tr><td>B&amp;M European Value Retail PLC</td><td>JE00BVSYJW51</td><td class="num">6.93%</td><td>2026-10-22</td></tr>
 <tr><td>GREGGS PLC</td><td>GB00B63QSB39</td><td class="num">6.92%</td><td>2026-10-22</td></tr>
-<tr><td>GB GROUP PLC</td><td>GB0006870611</td><td class="num">6.66%</td><td>2026-10-22</td></tr>
 <tr><td>FUTURE PLC</td><td>GB00BYZN9041</td><td class="num">6.66%</td><td>2026-10-22</td></tr>
-<tr><td>SMITH &amp; NEPHEW PLC</td><td>GB0009223206</td><td class="num">6.66%</td><td>2026-10-23</td></tr>
+<tr><td>GB GROUP PLC</td><td>GB0006870611</td><td class="num">6.66%</td><td>2026-10-22</td></tr>
 <tr><td>SIGMAROC PLC</td><td>GB00BYX5K988</td><td class="num">6.66%</td><td>2026-10-23</td></tr>
+<tr><td>SMITH &amp; NEPHEW PLC</td><td>GB0009223206</td><td class="num">6.66%</td><td>2026-10-23</td></tr>
 <tr><td>COATS GROUP PLC</td><td>GB00B4YZN328</td><td class="num">6.57%</td><td>2026-10-16</td></tr>
 <tr><td>WHITBREAD PLC</td><td>GB00B1KJJ408</td><td class="num">6.42%</td><td>2026-10-22</td></tr>
 <tr><td>Mobico Group PLC</td><td>GB0006215205</td><td class="num">6.37%</td><td>2026-10-22</td></tr>

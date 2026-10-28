@@ -85,6 +85,24 @@ def fdate(iso):
     return d.strftime("%a %-d %b %Y")
 
 
+def qlabel(period_end):
+    """'1998-06-30' -> 'Q2 1998'."""
+    y, m = period_end[:4], int(period_end[5:7])
+    return f"Q{(m - 1) // 3 + 1} {y}"
+
+
+def count_rows(path):
+    """Data rows in a CSV file (newline count minus the header)."""
+    n = 0
+    with open(path, "rb") as f:
+        while True:
+            chunk = f.read(1 << 20)
+            if not chunk:
+                break
+            n += chunk.count(b"\n")
+    return max(n - 1, 0)
+
+
 def slugify(s):
     s = re.sub(r"[^A-Za-z0-9]+", "-", str(s)).strip("-").lower()
     return s or "market"
@@ -357,7 +375,7 @@ def cot_market_summaries(fams, ref, cit):
     seen = {}
     for fam in order:
         F = fams[fam]
-        for code in F["active"]:
+        for code in sorted(F["active"]):
             if code in seen:
                 continue
             hist = [(d, n) for d, n, _oi in F["hist"][code]
@@ -613,7 +631,7 @@ def cot_index_page(summaries, fams, cit):
         rows = [s for s in summaries.values() if s["family"] == fam]
         if not rows:
             continue
-        rows.sort(key=lambda s: -(s["gauges"].get("oi") or 0))
+        rows.sort(key=lambda s: (-(s["gauges"].get("oi") or 0), s["name"]))
         spec_label = fams[fam]["spec"]["spec_label"]
         body.append(f"<h2>{esc(fams[fam]['spec']['label'])}</h2>\n")
         out = []
@@ -728,7 +746,7 @@ def bpr_index_page(markets):
         if b["tot_net"] is not None and b["oi"]:
             netpct = 100.0 * b["tot_net"] / b["oi"]
         rows.append((commodity, b, netpct))
-    rows.sort(key=lambda t: -(abs(t[1]["tot_net"] or 0)))
+    rows.sort(key=lambda t: (-(abs(t[1]["tot_net"] or 0)), t[0]))
     body = []
     b0 = rows[0][1] if rows else {}
     body.append(f'<p class="market-table-updated">Positions as of '
@@ -1340,7 +1358,7 @@ def shorts_page():
             ansp_dates.append(row["position_date"])
             if row["record_type"] == "current":
                 ansp_cur.append(row)
-    ansp_cur.sort(key=lambda r: -float(r["ansp_pct"]))
+    ansp_cur.sort(key=lambda r: (-float(r["ansp_pct"]), r["company_name"]))
     body.append('<p class="gm-method">From 13 July 2026 the FCA '
                 "publishes an anonymised aggregate net short "
                 "position (ANSP) per company instead of named "
@@ -1411,6 +1429,8 @@ def shorts_page():
         "top_issuers": [(agg["issuer"], round(agg["pct"], 2))
                         for _i, agg in iss[:10]],
         "latest_pos": latest_pos,
+        "n_disclosures": sum(m[1] for m in reg_meta)
+        + len(ansp_dates) + len(named),
         "ansp_top": ansp_cur[0]["company_name"] if ansp_cur else None}
 
 
@@ -1599,7 +1619,7 @@ def occ_page():
                 v = num(row["value"])
                 if v:
                     inst.append((row["row_label"], v))
-    inst.sort(key=lambda t: -t[1])
+    inst.sort(key=lambda t: (-t[1], t[0]))
     total = total_series.get(latest)
     body = []
     q = latest[:4] + " Q" + latest[5:7].replace("03", "1") \
@@ -1615,11 +1635,15 @@ def occ_page():
                 "product, at quarter end. Levels print in USD "
                 "trillions; shares are percent of the total.</p>\n")
     if total:
+        span_first = min(total_series)
+        span_last = max(total_series)
         body.append(meta_lines([
             ("Total derivatives notional, USD trillions",
              f"{total / 1e6:,.1f}"),
             ("Quarter ended", fdate(latest)),
-            ("Dataset span", "Q4 1995 to Q2 2026 (123 quarters)"),
+            ("Dataset span",
+             f"{qlabel(span_first)} to {qlabel(span_last)} "
+             f"({len(total_series)} quarters)"),
             ("Observations in dataset", "202,465"),
         ]))
     comp_rows = []
@@ -1669,7 +1693,12 @@ def occ_page():
             f"USD at {fdate(latest)}, by instrument and institution.")
     return (frontmatter("OCC Bank Derivatives Activities", lede,
                         f"Quarter ended {fdate(latest)}")
-            + "".join(body)), {"latest": latest, "total": total}
+            + "".join(body)), {"latest": latest, "total": total,
+                               "quarters": len(total_series),
+                               "first": min(total_series)
+                               if total_series else "",
+                               "last": max(total_series)
+                               if total_series else ""}
 
 
 # ------------------------------------------------------- Europe pages
@@ -1759,7 +1788,7 @@ def europe_pages(ice_data, ice_oi, ice_units, esma):
                           "meta": meta[key], "date": last_d,
                           "funds": funds, "comm": comm, "wow": wow,
                           "ndates": len(dates)})
-    esma_rows.sort(key=lambda r: -(abs(r["funds"].get("net") or 0)))
+    esma_rows.sort(key=lambda r: (-(abs(r["funds"].get("net") or 0)), r["meta"]["commodity"]))
     if esma_latest:
         recent_cutoff = (datetime.date.fromisoformat(esma_latest)
                          - datetime.timedelta(weeks=13)).isoformat()
@@ -2006,7 +2035,7 @@ def landing_page(ctx):
     # extremes
     ex = [s for s in ctx["summaries"].values()
           if s["gauges"].get("z52") is not None]
-    ex.sort(key=lambda s: -abs(s["gauges"]["z52"]))
+    ex.sort(key=lambda s: (-abs(s["gauges"]["z52"]), s["name"]))
     out = []
     for s in ex[:25]:
         g = s["gauges"]
@@ -2055,7 +2084,7 @@ def landing_page(ctx):
         movers.append({"market": m["market"], "family": m["family"],
                        "wow": m["wow"], "unit": m["unit"],
                        "pct": None, "url": "/positioning/europe/"})
-    movers.sort(key=lambda m: -abs(m["wow"]))
+    movers.sort(key=lambda m: (-abs(m["wow"]), m["market"]))
     out = []
     for m in movers[:15]:
         out.append(
@@ -2199,6 +2228,10 @@ def build_all():
     write_page("content/positioning/occ.md", occ)
     # landing
     cot_latest = max(s["date"] for s in summaries.values())
+    cot_total_rows = sum(
+        count_rows(os.path.join(CFTC, "cot", spec["file"]))
+        for spec in COT_FAMILIES.values()) + count_rows(
+            os.path.join(CFTC, "cot", "cit_supplement.csv"))
     bpr_latest_date = ""
     for months in bpr_markets.values():
         if bpr_latest_month in months:
@@ -2213,7 +2246,7 @@ def build_all():
          "coverage": f"{len(summaries)} markets, three report "
                      f"families, history from 1986 (legacy), 2006 "
                      f"(disaggregated)",
-         "size": "2,960,292 tidy rows",
+         "size": f"{cot_total_rows:,} tidy rows",
          "cadence": "Weekly, Friday after the CFTC release"},
         {"name": "Bank Participation",
          "url": "/positioning/bank-participation/",
@@ -2247,7 +2280,7 @@ def build_all():
                         "the position date",
          "coverage": "Eight EU registers, UK ANSP from "
                      "13 Jul 2026, UK named archive to 9 Jul 2026",
-         "size": "About 310,000 disclosures",
+         "size": f"{shorts_summary['n_disclosures']:,} disclosures",
          "cadence": "Daily, weekdays"},
         {"name": "Asia",
          "url": "/positioning/asia/",
@@ -2263,7 +2296,9 @@ def build_all():
          "url": "/positioning/occ/",
          "position": f"Quarter ended {fdate(occ_summary['latest'])}",
          "publication": "About 10 to 12 weeks after quarter end",
-         "coverage": "123 quarters, Q4 1995 to Q2 2026",
+         "coverage": f"{occ_summary['quarters']} quarters, "
+                     f"{qlabel(occ_summary['first'])} to "
+                     f"{qlabel(occ_summary['last'])}",
          "size": "202,465 observations",
          "cadence": "Quarterly"},
     ]

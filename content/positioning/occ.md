@@ -10,7 +10,7 @@ data_as_of: "Quarter ended Tue 30 Jun 2026"
 <table class="market-table"><tbody>
 <tr><td>Total derivatives notional, USD trillions</td><td>300.5</td></tr>
 <tr><td>Quarter ended</td><td>Tue 30 Jun 2026</td></tr>
-<tr><td>Dataset span</td><td>Q4 1995 to Q2 2026 (123 quarters)</td></tr>
+<tr><td>Dataset span</td><td>Q2 1998 to Q2 2026 (113 quarters)</td></tr>
 <tr><td>Observations in dataset</td><td>202,465</td></tr>
 </tbody></table>
 <h2>Notional by instrument, latest quarter</h2>

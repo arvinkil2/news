@@ -513,13 +513,13 @@
    },
    {
     "family": "ESMA",
-    "market": "ULQ-Gasoil 0.1% CIF Med Cargoes vs Low Sulphur Gasoil 1st Line Future",
+    "market": "ULI-ULSD 10ppm CIF Med Cargoes vs Low Sulphur Gasoil 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "ULI-ULSD 10ppm CIF Med Cargoes vs Low Sulphur Gasoil 1st Line Future",
+    "market": "ULQ-Gasoil 0.1% CIF Med Cargoes vs Low Sulphur Gasoil 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
@@ -555,15 +555,15 @@
    },
    {
     "family": "ESMA",
-    "market": "EOB-Argus Euro-Bob Oxy FOB Rotterdam Barges vs Brent 1st Line Future",
-    "unit": "lots",
-    "wow": 20.0
-   },
-   {
-    "family": "ESMA",
     "market": "BAP-Gasoil Diff - Singapore Gasoil (Platts) vs Low Sulphur Gasoil 1st Line Future (in Bbls)",
     "unit": "lots",
     "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EOB-Argus Euro-Bob Oxy FOB Rotterdam Barges vs Brent 1st Line Future",
+    "unit": "lots",
+    "wow": 20.0
    },
    {
     "family": "ESMA",
@@ -603,105 +603,81 @@
    },
    {
     "family": "ESMA",
-    "market": "JOE-Naphtha C+F Japan vs Naphtha CIF NWE Cargoes Future",
-    "unit": "lots",
-    "wow": 2.0
-   },
-   {
-    "family": "ESMA",
     "market": "FOS-Fuel Oil 1% FOB NWE Cargoes vs 3.5% FOB Rotterdam Barges Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "TFE-Dutch TTF Natural Gas Daily Futures",
+    "market": "JOE-Naphtha C+F Japan vs Naphtha CIF NWE Cargoes Future",
+    "unit": "lots",
+    "wow": 2.0
+   },
+   {
+    "family": "ESMA",
+    "market": "ACM-Argus WTI Houston vs WTI Trade Month Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "PEG-French PEG Natural Gas Futures",
+    "market": "AFE-Propane, Argus Far East, Fixed Price Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "DPA-Dutch Power Peak Load (8-20) Futures",
+    "market": "AIN-Fuel Oil 3.5% CIF Med Cargoes (Platts) vs 3.5% FOB MED Cargoes (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "ECP-ICE EUA Daily Futures",
+    "market": "APN-Propane, Argus CIF ARA vs Naphtha, Platts CIF NWE Cargo, Differential Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EPAD-Sundsvall",
+    "market": "ARR-Propane, Argus Far East Index vs Naphtha C+F Japan (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EPAD-Stockholm",
+    "market": "BAO-Gasoil Crack - Singapore Gasoil (Platts) vs Dubai 1st Line (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EPAD-Malmo",
+    "market": "BFZ-Argus Biodiesel Fame Zero FOB Rotterdam (Red Compliant) vs Low Sulphur Gasoil 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EPAD-Helsinki",
+    "market": "BRI-Argus Biodiesel RME FOB Rotterdam (RED Compliant) vs LSGO 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EPAD-Arhus",
+    "market": "BSM-Brent CFD vs First Month Future - 1000bbl",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "Nordic System Price",
+    "market": "BTD-WTI 1st Line vs Brent 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "FTB",
+    "market": "BUTTER FUTURE",
     "unit": "lots",
     "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX Baltic Panamax 4TC Freight Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX EUA Future",
-    "unit": "lots",
-    "wow": 272.0
-   },
-   {
-    "family": "ESMA",
-    "market": "C-EUA Future",
-    "unit": "lots",
-    "wow": -70906.0
-   },
-   {
-    "family": "ESMA",
-    "market": "TFM-Dutch TTF Natural Gas Futures",
-    "unit": "lots",
-    "wow": -169126702.0
    },
    {
     "family": "ESMA",
@@ -723,187 +699,13 @@
    },
    {
     "family": "ESMA",
-    "market": "EEX PVB Natural Gas Futures",
+    "market": "C-EUA Future",
     "unit": "lots",
-    "wow": 0.0
+    "wow": -70906.0
    },
    {
     "family": "ESMA",
-    "market": "EEX-PXE Czech Power Base Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX ZTP Natural Gas Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX CEGH VTP Natural Gas Future",
-    "unit": "lots",
-    "wow": -50400.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX European Power GO Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX Nordic System Price Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX Japan Power Kansai Area Base Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX PEG Natural Gas Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SUPRAMAX TC FREIGHT FUTURE",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EUROPEAN PROCESSING POTATO",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "PXE SLOVAKIAN BASE MTH FUT",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "BSM-Brent CFD vs First Month Future - 1000bbl",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "FOG-Fuel Oil 1% FOB Med Cargoes (Platts) vs 1% FOB NWE Cargoes (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX-PXE Romanian Pwr Bs M Ftr",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "DCR-CPC Blend CIF Med Cargoes (Platts) vs Dated Brent (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "AIN-Fuel Oil 3.5% CIF Med Cargoes (Platts) vs 3.5% FOB MED Cargoes (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "CFU-Urals North vs Dated Brent CFD Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SFF-Singapore Jet Kerosene Cargoes (Platts) vs Dubai 1st Line (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "JEU-Jet FOB Med Cargoes (Platts) vs Jet CIF NWE Cargoes (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SFS-Fuel Oil 180 CST Singapore vs 3.5% FOB Rotterdam Barges Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "GSW-Gasoil Diff - Singapore Gasoil (Platts) vs Singapore Gasoil 0.05% (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "BUTTER FUTURE",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SKIMMED MILK POWDER",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "ULU-Diesel 10ppm (UK) CIF NWE Cargoes vs Low Sulphur Gasoil 1st Line Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "WDE-Dirty USGC-UK Continent (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "CFT-Brent CFD vs Second Month Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "GDE-Premium Unleaded Gasoline 10ppm FOB Med Cargoes (Platts) vs Argus Eurobob Oxy FOB Rotterdam Barges Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SMD-Singapore Mogas 95 Unleaded vs Singapore Mogas 92 Unleaded Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "SFG-Gasoil Crack - Singapore Gasoil 0.05% (Platts) vs Dubai 1st Line (Platts) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "WAT-LPG (BLGP) FFA Middle East Gulf East 44,000 Mts (Baltic) Future (in $/Mt)",
-    "unit": "lots",
-    "wow": 24.0
-   },
-   {
-    "family": "ESMA",
-    "market": "NBG-Naphtha C+F Japan (Platts) vs Brent 1st Line Futures (bbl)",
+    "market": "CER-CER Future",
     "unit": "lots",
     "wow": 0.0
    },
@@ -915,97 +717,79 @@
    },
    {
     "family": "ESMA",
-    "market": "BFZ-Argus Biodiesel Fame Zero FOB Rotterdam (Red Compliant) vs Low Sulphur Gasoil 1st Line Future",
+    "market": "CFT-Brent CFD vs Second Month Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "JRJ-Jet FOB Rotterdam Barges vs Jet CIF NWE Cargoes Future",
+    "market": "CFU-Urals North vs Dated Brent CFD Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "BAO-Gasoil Crack - Singapore Gasoil (Platts) vs Dubai 1st Line (Platts) Future",
+    "market": "DCR-CPC Blend CIF Med Cargoes (Platts) vs Dated Brent (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "TMW-WCS TMX 1a Index Future",
+    "market": "DPA-Dutch Power Peak Load (8-20) Futures",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "AFE-Propane, Argus Far East, Fixed Price Future",
+    "market": "Durum Wheat",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "HBT-Heating Oil 1st Line vs Brent 1st Line Future",
+    "market": "ECP-ICE EUA Daily Futures",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "APN-Propane, Argus CIF ARA vs Naphtha, Platts CIF NWE Cargo, Differential Future",
+    "market": "EEX Baltic Capesize C5 Freight Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EGD-Propane, Argus Far East vs Propane, Argus CIF ARA, Differential Future",
+    "market": "EEX Baltic Panamax 4TC Freight Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "SPS-Fuel Oil 380 CST Singapore vs Brent 1st Line Future",
+    "market": "EEX CEGH Czech VTP Natural Gas Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "ULM-Heating Oil 1st Line vs Low Sulphur Gasoil 1st Line Future (in Bbls)",
+    "market": "EEX CEGH VTP Natural Gas Future",
+    "unit": "lots",
+    "wow": -50400.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX Dutch Power Peak Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "ARR-Propane, Argus Far East Index vs Naphtha C+F Japan (Platts) Future",
+    "market": "EEX EUA Future",
     "unit": "lots",
-    "wow": 0.0
+    "wow": 272.0
    },
    {
     "family": "ESMA",
-    "market": "N-New York Harbor Unleaded Gasoline Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "O-New York Harbor Heating Oil Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "WSL-TC6 FFA - Skikda to Lavera (Cross Med) (Baltic) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "WNU-TC2 FFA - Northwest Europe to USAC (Baltic) Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "MF5-Fuel Oil Diff - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) vs 3.5% FOB Rotterdam Barges (Platts) Future",
+    "market": "EEX European Power GO Future",
     "unit": "lots",
     "wow": 0.0
    },
@@ -1017,13 +801,85 @@
    },
    {
     "family": "ESMA",
-    "market": "PRN-Propane, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "market": "EEX Italian Power Peak Month Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "PRC-Propane, OPIS Conway In-Well, Fixed Price Future",
+    "market": "EEX Japan Power Kansai Area Base Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX Nordic System Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX PEG Natural Gas Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX PVB Natural Gas Futures",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX ZTP Natural Gas Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX-PXE Czech Power Base Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EEX-PXE Romanian Pwr Bs M Ftr",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EGD-Propane, Argus Far East vs Propane, Argus CIF ARA, Differential Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EPAD-Arhus",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EPAD-Helsinki",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EPAD-Malmo",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EPAD-Stockholm",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "EPAD-Sundsvall",
     "unit": "lots",
     "wow": 0.0
    },
@@ -1035,13 +891,31 @@
    },
    {
     "family": "ESMA",
-    "market": "NGE-Natural Gasoline, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "market": "EUROPEAN PROCESSING POTATO",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "NBI-Normal Butane, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "market": "FDF-Fuel Oil Diff - Marine Fuel 0.5% FOB Singapore (Platts) vs Singapore Gasoil (Platts) Future (in MTs)",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "FDH-Fuel Oil Diff - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) vs Low Sulphur Gasoil 1st Line Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "FOG-Fuel Oil 1% FOB Med Cargoes (Platts) vs 1% FOB NWE Cargoes (Platts) Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "FTB",
     "unit": "lots",
     "wow": 0.0
    },
@@ -1053,19 +927,49 @@
    },
    {
     "family": "ESMA",
+    "market": "Future Rapeseed Meal",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "GDE-Premium Unleaded Gasoline 10ppm FOB Med Cargoes (Platts) vs Argus Eurobob Oxy FOB Rotterdam Barges Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "GSW-Gasoil Diff - Singapore Gasoil (Platts) vs Singapore Gasoil 0.05% (Platts) Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "HBT-Heating Oil 1st Line vs Brent 1st Line Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "JEU-Jet FOB Med Cargoes (Platts) vs Jet CIF NWE Cargoes (Platts) Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "JRJ-Jet FOB Rotterdam Barges vs Jet CIF NWE Cargoes Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
     "market": "MF3-Fuel Oil Outright - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "NVS-Fuel Oil 3.5% FOB Med Cargoes vs 3.5% FOB Rotterdam Barges Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "ULC-Low Sulphur Gasoil 1st Line vs Brent 1st Line Future (in MTs)",
+    "market": "MF5-Fuel Oil Diff - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) vs 3.5% FOB Rotterdam Barges (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
@@ -1083,39 +987,141 @@
    },
    {
     "family": "ESMA",
-    "market": "PRL-Propane, OPIS Mt. Belvieu TET, Fixed Price Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "BTD-WTI 1st Line vs Brent 1st Line Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "ACM-Argus WTI Houston vs WTI Trade Month Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "CER-CER Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
     "market": "MFY-Fuel Oil Outright - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) Mini Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "BRI-Argus Biodiesel RME FOB Rotterdam (RED Compliant) vs LSGO 1st Line Future",
+    "market": "N-New York Harbor Unleaded Gasoline Future",
     "unit": "lots",
     "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "NBG-Naphtha C+F Japan (Platts) vs Brent 1st Line Futures (bbl)",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "NBI-Normal Butane, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "NGE-Natural Gasoline, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "NVS-Fuel Oil 3.5% FOB Med Cargoes vs 3.5% FOB Rotterdam Barges Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "Nordic System Price",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "O-New York Harbor Heating Oil Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "PEG-French PEG Natural Gas Futures",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "PRC-Propane, OPIS Conway In-Well, Fixed Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "PRL-Propane, OPIS Mt. Belvieu TET, Fixed Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "PRN-Propane, OPIS Mt. Belvieu Non-TET, Fixed Price Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "PXE SLOVAKIAN BASE MTH FUT",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SFF-Singapore Jet Kerosene Cargoes (Platts) vs Dubai 1st Line (Platts) Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SFG-Gasoil Crack - Singapore Gasoil 0.05% (Platts) vs Dubai 1st Line (Platts) Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SFS-Fuel Oil 180 CST Singapore vs 3.5% FOB Rotterdam Barges Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SKIMMED MILK POWDER",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SMD-Singapore Mogas 95 Unleaded vs Singapore Mogas 92 Unleaded Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SPS-Fuel Oil 380 CST Singapore vs Brent 1st Line Future",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "SUPRAMAX TC FREIGHT FUTURE",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "Salmon",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "TFE-Dutch TTF Natural Gas Daily Futures",
+    "unit": "lots",
+    "wow": 0.0
+   },
+   {
+    "family": "ESMA",
+    "market": "TFM-Dutch TTF Natural Gas Futures",
+    "unit": "lots",
+    "wow": -169126702.0
    },
    {
     "family": "ESMA",
@@ -1125,55 +1131,49 @@
    },
    {
     "family": "ESMA",
-    "market": "FDH-Fuel Oil Diff - Marine Fuel 0.5% FOB Rotterdam Barges (Platts) vs Low Sulphur Gasoil 1st Line Future",
+    "market": "TMW-WCS TMX 1a Index Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "FDF-Fuel Oil Diff - Marine Fuel 0.5% FOB Singapore (Platts) vs Singapore Gasoil (Platts) Future (in MTs)",
+    "market": "ULC-Low Sulphur Gasoil 1st Line vs Brent 1st Line Future (in MTs)",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EEX Italian Power Peak Month Future",
+    "market": "ULM-Heating Oil 1st Line vs Low Sulphur Gasoil 1st Line Future (in Bbls)",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "Future Rapeseed Meal",
+    "market": "ULU-Diesel 10ppm (UK) CIF NWE Cargoes vs Low Sulphur Gasoil 1st Line Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "Durum Wheat",
+    "market": "WAT-LPG (BLGP) FFA Middle East Gulf East 44,000 Mts (Baltic) Future (in $/Mt)",
+    "unit": "lots",
+    "wow": 24.0
+   },
+   {
+    "family": "ESMA",
+    "market": "WDE-Dirty USGC-UK Continent (Platts) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EEX Dutch Power Peak Future",
+    "market": "WNU-TC2 FFA - Northwest Europe to USAC (Baltic) Future",
     "unit": "lots",
     "wow": 0.0
    },
    {
     "family": "ESMA",
-    "market": "EEX CEGH Czech VTP Natural Gas Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "EEX Baltic Capesize C5 Freight Future",
-    "unit": "lots",
-    "wow": 0.0
-   },
-   {
-    "family": "ESMA",
-    "market": "Salmon",
+    "market": "WSL-TC6 FFA - Skikda to Lavera (Cross Med) (Baltic) Future",
     "unit": "lots",
     "wow": 0.0
    }
