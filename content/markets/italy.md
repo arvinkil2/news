@@ -2,14 +2,14 @@
 title: "Italy"
 date: "2026-10-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Italy, refreshed hourly."
-data_as_of: "Oct 28, 1:17 PM ET"
+data_as_of: "Oct 28, 2:06 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 1:17 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 2:06 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE MIB (index)</td><td class="num">49,824 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">+0.40%</span></td><td class="num"><span class="up">+0.36%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.3 4.4,2.0 8.7,5.0 13.1,13.0 17.5,11.3 21.8,8.9 26.2,5.8 30.5,14.9 34.9,19.6 39.3,16.4 43.6,14.4 48.0,14.3 52.4,16.4 56.7,18.9 61.1,15.7 65.5,21.1 69.8,21.2 74.2,17.2 78.5,26.0 82.9,24.8 87.3,20.4 91.6,17.3 96.0,15.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Italy (EWI)</td><td class="num">$56.12 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">+0.47%</span></td><td class="num"><span class="down">-0.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,4.2 8.7,8.3 13.1,15.3 17.5,14.5 21.8,14.1 26.2,12.0 30.5,19.5 34.9,20.9 39.3,19.6 43.6,20.4 48.0,18.0 52.4,20.7 56.7,18.9 61.1,19.0 65.5,24.1 69.8,21.1 74.2,19.7 78.5,25.8 82.9,26.0 87.3,24.0 91.6,21.8 96.0,20.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1150 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.22%</span></td><td class="num"><span class="down">-0.69%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.5 8.7,5.9 13.1,7.4 17.5,15.5 21.8,14.9 26.2,18.9 30.5,15.1 34.9,20.6 39.3,19.4 43.6,20.2 48.0,24.9 52.4,20.3 56.7,21.3 61.1,19.4 65.5,18.1 69.8,19.1 74.2,17.9 78.5,17.1 82.9,18.5 87.3,18.8 91.6,23.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Italy (EWI)</td><td class="num">$56.07 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">+0.38%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,4.2 8.7,8.3 13.1,15.3 17.5,14.5 21.8,14.1 26.2,12.0 30.5,19.5 34.9,20.9 39.3,19.6 43.6,20.4 48.0,18.0 52.4,20.7 56.7,18.9 61.1,19.0 65.5,24.1 69.8,21.1 74.2,19.7 78.5,25.8 82.9,26.0 87.3,24.0 91.6,21.8 96.0,20.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1143 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.27%</span></td><td class="num"><span class="down">-0.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.5 8.7,5.8 13.1,7.2 17.5,15.1 21.8,14.6 26.2,18.4 30.5,14.7 34.9,20.1 39.3,18.9 43.6,19.7 48.0,24.3 52.4,19.8 56.7,20.7 61.1,18.9 65.5,17.6 69.8,18.5 74.2,17.4 78.5,16.6 82.9,18.0 87.3,18.3 91.6,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
