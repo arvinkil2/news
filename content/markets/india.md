@@ -2,10 +2,10 @@
 title: "India"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for India, refreshed hourly."
-data_as_of: "Oct 29, 11:02 AM ET"
+data_as_of: "Oct 29, 12:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 11:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 12:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nifty 50 (index)</td><td class="num">22,937 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+1.05%</span></td><td class="num"><span class="up">+1.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.3 4.8,15.8 9.6,21.0 14.4,17.5 19.2,11.7 24.0,16.3 28.8,26.0 33.6,18.4 38.4,22.5 43.2,13.1 48.0,15.7 52.8,5.9 57.6,2.0 62.4,8.8 67.2,10.8 72.0,14.0 76.8,16.3 81.6,12.3 86.4,12.4 91.2,13.7 96.0,7.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI India (INDA)</td><td class="num">$47.3700 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+1.24%</span></td><td class="num"><span class="up">+0.02%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.1 4.4,14.8 8.7,18.0 13.1,16.4 17.5,15.9 21.8,14.3 26.2,20.5 30.5,26.0 34.9,21.3 39.3,18.0 43.6,9.1 48.0,11.1 52.4,2.0 56.7,4.9 61.1,7.5 65.5,3.7 69.8,8.8 74.2,7.9 78.5,17.0 82.9,15.7 87.3,14.2 91.6,13.6 96.0,7.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
