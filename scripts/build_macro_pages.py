@@ -15,11 +15,12 @@ REGION_LABEL = {
     "asia-pacific": "Asia-Pacific",
 }
 
-def frontmatter(title, lede, vintage, aliases=None):
+def frontmatter(title, lede, vintage, aliases=None, url=None):
     alias_block = ""
     if aliases:
         items = "\n".join(f"  - \"{a}\"" for a in aliases)
         alias_block = f"aliases:\n{items}\n"
+    url_block = f"url: \"{url}\"\n" if url else ""
     import datetime as _dt
     _today = _dt.date.today().isoformat()
     return f"""---
@@ -27,9 +28,38 @@ title: "{title}"
 date: "{_today}"
 lede: "{lede}"
 data_as_of: "{vintage}"
-{alias_block}---
+{alias_block}{url_block}---
 
 """
+
+_ENTITY_CACHE = None
+
+
+def _entity_links():
+    """Entity Index reciprocal links (Stage 4 completion,
+    2026-10-21): issuer page slug -> (hub slug, canonical name) and
+    CUSIP -> (hub slug, canonical name), for the companies resolved
+    against the registry in data/entity_index_resolution.json."""
+    global _ENTITY_CACHE
+    if _ENTITY_CACHE is not None:
+        return _ENTITY_CACHE
+    by_issuer, by_cusip = {}, {}
+    try:
+        res = json.load(open(os.path.join(
+            SITE, "data", "entity_index_resolution.json")))
+        for e in res["pass_a"]["entities"]:
+            if e["status"] != "matched":
+                continue
+            if e.get("issuer_page"):
+                by_issuer[e["issuer_page"]] = (e["slug"],
+                                               e["canonical"])
+            for c in e.get("cusips") or []:
+                by_cusip[c] = (e["slug"], e["canonical"])
+    except Exception:
+        pass
+    _ENTITY_CACHE = (by_issuer, by_cusip)
+    return _ENTITY_CACHE
+
 
 def spreads_page():
     d = json.load(open(os.path.join(DATA, "spreads.json")))
@@ -169,6 +199,7 @@ def _bond_row(r, thin=False):
     return (
         f"<tr><td data-v=\"{_bond_label(r)}\"><a class=\"bond-link\" "
         f"href=\"/leverage/bond/{r['cusip'].lower()}/\">{_bond_label(r)}</a></td>"
+        f"{_issued_cell(r['cusip'])}"
         f"<td class=\"num\" data-v=\"{price:.2f}\">{price:.2f}</td>"
         f"<td class=\"num {chg_cls}\" data-v=\"{chg_v}\">{chg_str}</td>"
         f"<td class=\"muted\">{_fmt_date(r['latest_period'])}</td>"
@@ -475,20 +506,23 @@ def _sparkline2(cusip):
 
 # Column specifications: (header, default px, minimum px, fixed).
 # One interaction system for every grid on the page (research R1/R5).
-TRACE_COLS = [("Bond", 300, 180, False), ("Last print (% of par)", 124, 76, False),
+TRACE_COLS = [("Bond", 300, 180, False), ("Issued ($M)", 104, 72, False),
+              ("Last print (% of par)", 124, 76, False),
               ("Yield at last print (%)", 118, 76, False), ("Spread (bp)", 88, 76, False),
               ("Gap (pts)", 84, 76, False), ("Fund mark (% of par)", 128, 76, False),
               ("Duration (yrs)", 96, 76, False), ("Traded", 176, 92, False),
               ("Coupon (%)", 84, 72, False), ("Matures", 110, 92, False),
               ("Rating", 96, 64, False),
               ("CUSIP", 108, 96, False), ("Trend - 12 mo", 112, 112, True)]
-BENCH_COLS = [("Bond", 300, 180, False), ("Last print (% of par)", 124, 76, False),
+BENCH_COLS = [("Bond", 300, 180, False), ("Issued ($M)", 104, 72, False),
+              ("Last print (% of par)", 124, 76, False),
               ("Yield at last print (%)", 118, 76, False), ("Spread (bp)", 88, 76, False),
               ("Duration (yrs)", 96, 76, False), ("Traded", 176, 92, False),
               ("Coupon (%)", 84, 72, False), ("Matures", 110, 92, False),
               ("Rating", 96, 64, False),
               ("CUSIP", 108, 96, False), ("Trend - 12 mo", 112, 112, True)]
-MARKS_COLS = [("Bond", 300, 180, False), ("Fund mark (% of par)", 124, 76, False),
+MARKS_COLS = [("Bond", 300, 180, False), ("Issued ($M)", 104, 72, False),
+              ("Fund mark (% of par)", 124, 76, False),
               ("Change (pts)", 104, 76, False),
               ("Period ended", 110, 92, False), ("Recent marks", 230, 120, False),
               ("Funds", 76, 76, False), ("Principal held ($M)", 130, 92, False),
@@ -499,6 +533,7 @@ BREADTH_COLS = [("Date", 110, 92, False), ("Corporate adv", 124, 76, False),
                 ("High-yield adv", 124, 76, False),
                 ("High-yield dec", 124, 76, False)]
 FLAGS_COLS = [("Bond", 300, 180, False), ("CUSIP", 108, 96, False),
+              ("Issued ($M)", 104, 72, False),
               ("Rule", 176, 100, False), ("Detail", 430, 160, False)]
 
 
@@ -553,23 +588,21 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     }
     return best;
   }
-  head.addEventListener('pointerdown', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault(); ev.stopPropagation();
-    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+  function startDrag(i, ev, shift){
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0;
+    shift = shift && i + 1 < n;
     function move(e){
       var dx = e.clientX - startX;
       if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
       else widths[i] = Math.max(mins[i], startW + dx);
       apply(); lastDrag = Date.now();
     }
-    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); document.removeEventListener('pointercancel', up); save(); }
     document.addEventListener('pointermove', move);
     document.addEventListener('pointerup', up);
-  });
-  head.addEventListener('dblclick', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault();
+    document.addEventListener('pointercancel', up);
+  }
+  function autoFit(i){
     var clone = t.cloneNode(true);
     clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
     var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
@@ -578,6 +611,36 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     var w = cths[i] ? cths[i].offsetWidth : 0;
     clone.remove();
     if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    startDrag(i, ev, ev.shiftKey);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    autoFit(i);
+  });
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    var grip = document.createElement('span');
+    grip.className = 'bw-grip';
+    grip.setAttribute('aria-hidden', 'true');
+    th.appendChild(grip);
+    var lastTap = 0, downX = 0;
+    grip.addEventListener('pointerdown', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      downX = ev.clientX;
+      startDrag(i, ev, false);
+    });
+    grip.addEventListener('pointerup', function(ev){
+      if (Math.abs(ev.clientX - downX) > 6) { lastTap = 0; return; }
+      var now = Date.now();
+      if (now - lastTap < 300) { lastTap = 0; autoFit(i); }
+      else lastTap = now;
+    });
+    grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
@@ -690,6 +753,7 @@ def _trace_section():
                 f"href=\"/leverage/bond/{p['cusip'].lower()}/\">"
                 f"<span class=\"bond-name\">{p['issuer']}</span>"
                 f"<span class=\"bond-sub\">{p['security']}</span></a></td>"
+                f"{_issued_cell(p['cusip'])}"
                 "<td class=\"muted\">n/a</td>"
                 "<td class=\"muted\">n/a</td>"
                 "<td class=\"muted\">n/a</td>"
@@ -771,6 +835,7 @@ def _trace_section():
             f"href=\"/leverage/bond/{p['cusip'].lower()}/\">"
             f"<span class=\"bond-name\">{p['issuer']}</span>"
             f"<span class=\"bond-sub\">{p['security']}{_twin_s}</span></a></td>"
+            f"{_issued_cell(p['cusip'])}"
             f"<td class=\"{price_cls}\" data-v=\"{trade:.2f}\">{trade:.2f}</td>"
             f"<td class=\"num\" data-v=\"{y_v}\">{y_s}</td>"
             f"{spd_cell}"
@@ -792,7 +857,10 @@ def _trace_section():
         "bond lookup every 15 minutes in market hours. A bond updates only "
         "when it trades; an untraded bond keeps its last print. Prices "
         "are percent of par: 100 is face value, repaid at maturity. Gap: "
-        "last print less the latest fund mark, in points of par. Yield: "
+        "last print less the latest fund mark, in points of par. Issued: "
+        "the note's original amount issued, in millions of dollars, "
+        "from the issuer's pricing filing where one is on record; "
+        "blank where no held source states it. Yield: "
         "yield to worst where a call schedule is on record, else yield to "
         "maturity. Spread: that yield less the interpolated Treasury yield "
         "at the same maturity, in basis points. Duration: modified "
@@ -824,6 +892,7 @@ def _trace_section():
             if trade is None:
                 brows.append(
                     "<tr>" + _bond_cell
+                    + _issued_cell(p['cusip'])
                     + "<td class=\"muted\">n/a</td>" * 4
                     + "<td class=\"muted\" data-v=\"9999-99-99\">"
                       "no trades in the stored record</td>"
@@ -862,6 +931,7 @@ def _trace_section():
                       + (" stale" if stale2 else ""))
             brows.append(
                 "<tr>" + _bond_cell
+                + _issued_cell(p['cusip'])
                 + f"<td class=\"{_pcls2}\" data-v=\"{trade:.2f}\">"
                   f"{trade:.2f}</td>"
                 + f"<td class=\"num\" data-v=\"{y_v}\">{y_s}</td>"
@@ -1313,9 +1383,10 @@ def bond_watch_page():
                          else "Latest mark below 90")
                 _trs.append(
                     f"<tr><td>{issuer.title()}</td><td class=\"muted\">{cusip}</td>"
+                    f"{_issued_cell(cusip)}"
                     f"<td>{label}</td><td class=\"muted\">{detail}</td></tr>")
             else:
-                _trs.append(f"<tr><td colspan=\"4\">{f}</td></tr>")
+                _trs.append(f"<tr><td colspan=\"5\">{f}</td></tr>")
         flags_html = ("<h2 id=\"flags\">Flags on fund marks</h2>\n"
                       "<p class=\"data-vintage\">A flag is a mechanical rule, not a judgement: "
                       "a mark that moved 5 points or more between the two most recent reported "
@@ -1693,6 +1764,30 @@ def _issuer_display(finra_name):
                     for t in toks)
 
 
+def _issued_cell(cusip):
+    """The note's amount issued, in $M, from the registry's sourced
+    issue_amount_usd (an issuer pricing filing where one is held).
+    Blank - an empty cell, never a zero and never fund-held
+    principal - where no held source states an amount. Added
+    2026-10-26 at Arvin's direction: the amount belongs in the
+    table, next to the note. Extended 2026-10-27: where no original
+    issue amount is sourced but the issuer's latest 10-K states the
+    series' principal outstanding, render that figure followed by
+    " (o/s)" - a different quantity, labelled as such, never
+    conflated with the original issue amount."""
+    b = _registry().get(cusip) or {}
+    amt = b.get("issue_amount_usd")
+    suffix = ""
+    if amt is None:
+        amt = b.get("amount_outstanding_usd")
+        suffix = " (o/s)"
+    if amt is None:
+        return '<td class="muted" data-v="-999"></td>'
+    m = amt / 1e6
+    s = f"{m:,.0f}" if m == int(m) else f"{m:,.1f}"
+    return f'<td class="num" data-v="{amt}">{s}{suffix}</td>'
+
+
 def _ana_bond(cusip):
     d = _detail_data().get(cusip) or {}
     b = _registry().get(cusip) or {}
@@ -1702,7 +1797,8 @@ def _ana_bond(cusip):
     return (f'<td data-v="{esc(label)}"><a class="bond-link" '
             f'href="/leverage/bond/{cusip.lower()}/">'
             f'<span class="bond-name">{esc(issuer)}</span>'
-            f'<span class="bond-sub">{esc(sec)}</span></a></td>')
+            f'<span class="bond-sub">{esc(sec)}</span></a></td>'
+            + _issued_cell(cusip))
 
 
 def _ana_note(sec):
@@ -1742,12 +1838,13 @@ def _hist_svg(buckets, aria):
     return "".join(el)
 
 
-def _heat_table(heatmap):
+def _heat_table(heatmap, mx=None):
     weeks = heatmap.get("weeks") or []
     rows = heatmap.get("rows") or []
     if not weeks or not rows:
         return ""
-    mx = max([c for r in rows for c in r["counts"]] + [1])
+    if mx is None:
+        mx = max([c for r in rows for c in r["counts"]] + [1])
     th = "".join(f"<th>{_fmt_date(w)[:6]}</th>" for w in weeks)
     trs = []
     for r in rows:
@@ -1915,11 +2012,13 @@ def _median_path_svg(monthly, name):
 
 
 ISSUER_BOND_COLS = [("Bond", 300, 180, False),
+                    ("Issued ($M)", 104, 72, False),
                     ("Last print (% of par)", 124, 76, False),
                     ("Traded", 110, 92, False), ("Coupon (%)", 84, 72, False),
                     ("Matures", 110, 92, False), ("Rating", 96, 64, False),
                     ("CUSIP", 108, 96, False)]
 ISSUER_BOND_COLS_M = [("Bond", 300, 180, False),
+                      ("Issued ($M)", 104, 72, False),
                       ("Last print (% of par)", 124, 76, False),
                       ("Traded", 110, 92, False),
                       ("Gap (pts)", 92, 76, False),
@@ -1936,34 +2035,59 @@ ISSUER_FUND_COLS = [("Fund complex", 320, 180, False),
                     ("Principal ($M)", 130, 92, False),
                     ("Positions", 96, 76, False),
                     ("Bonds held", 100, 76, False)]
+ISSUER_FILING_COLS = [("Filed", 104, 84, False),
+                      ("Filing", 168, 120, False),
+                      ("What it shows", 660, 240, False)]
 
 
-ANA_DISP_COLS = [("Bond", 300, 180), ("Period", 100, 92), ("Funds", 76, 76),
+def _issuer_filings():
+    """Material SEC filings per issuer group key, maintained by the
+    daily filings pull in data/macro/issuer_filings.json and rendered
+    as the Filings and developments section on issuer pages. Only
+    filings with financing, lease, commitment or capital-structure
+    content are entered."""
+    p = os.path.join(DATA, "issuer_filings.json")
+    if not os.path.exists(p):
+        return {}
+    try:
+        return json.load(open(p)).get("issuers", {})
+    except Exception:
+        return {}
+
+
+ANA_DISP_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                 ("Period", 100, 92), ("Funds", 76, 76),
                  ("Aggregate", 96, 76), ("Median", 84, 76), ("Min", 76, 76),
                  ("Max", 76, 76), ("Range (pts)", 100, 76),
                  ("Most deviant fund", 280, 140), ("Deviation (pts)", 110, 76),
                  ("CUSIP", 108, 96)]
-ANA_GAP_COLS = [("Bond", 300, 180), ("Last print (% of par)", 124, 76),
+ANA_GAP_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                ("Last print (% of par)", 124, 76),
                 ("Traded", 110, 92), ("Fund mark (% of par)", 124, 76),
                 ("Period", 100, 92), ("Gap (pts)", 92, 76),
                 ("CUSIP", 108, 96)]
 ANA_CURVEPT_COLS = [("Issuer", 240, 140), ("Bond", 280, 160),
+                    ("Issued ($M)", 104, 72),
                     ("CUSIP", 108, 96), ("Years", 76, 76), ("Price (% of par)", 112, 76),
                     ("Basis (pts)", 84, 76), ("Basis date", 110, 92),
                     ("Yield (%)", 84, 76), ("Spread (bp)", 104, 76)]
-ANA_TWIN_COLS = [("Bond", 300, 180), ("Registered CUSIP", 130, 108),
+ANA_TWIN_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                 ("Registered CUSIP", 130, 108),
                  ("Reg. print (% of par)", 124, 76), ("Reg. date", 110, 92),
                  ("144A CUSIP", 120, 108), ("144A print (% of par)", 124, 76),
                  ("144A date", 110, 92), ("Basis (pts)", 96, 76)]
-ANA_LIQ_COLS = [("Bond", 300, 180), ("Trades in window", 130, 76),
+ANA_LIQ_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                ("Trades in window", 130, 76),
                 ("Trades, last 7d", 120, 76), ("Last trade date", 110, 92),
                 ("Days since", 100, 76), ("CUSIP", 108, 96)]
 ANA_EVT_COLS = [("Issuer", 240, 140), ("Form", 80, 76), ("Filed", 100, 92),
-                ("Bond", 280, 160), ("Print before (% of par)", 132, 76),
+                ("Bond", 280, 160), ("Issued ($M)", 104, 72),
+                ("Print before (% of par)", 132, 76),
                 ("Before date", 110, 92), ("Print after (% of par)", 132, 76),
                 ("After date", 110, 92), ("Change (pts)", 104, 76),
                 ("Accession", 180, 120)]
-ANA_BACK_COLS = [("Bond", 300, 180), ("Marks fire (period)", 140, 92),
+ANA_BACK_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                 ("Marks fire (period)", 140, 92),
                  ("Knowable from", 120, 92),
                  ("Days before news (marks)", 170, 92),
                  ("First tape print < 90", 150, 92),
@@ -1971,18 +2095,22 @@ ANA_BACK_COLS = [("Bond", 300, 180), ("Marks fire (period)", 140, 92),
 # N-PORT panel tables (Stage 2, 2026-10-20): disagreement between the
 # tape and the full-universe fund median, coverage/concentration, the
 # zero-holder list, and the per-bond top-holder table.
-NP_GAP_COLS = [("Bond", 300, 180), ("Last print (% of par)", 124, 76),
+NP_GAP_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+               ("Last print (% of par)", 124, 76),
                ("Traded", 110, 92), ("Fund median (% of par)", 132, 76),
                ("Period ended", 110, 92), ("Gap (pts)", 92, 76),
                ("Funds", 76, 76), ("CUSIP", 108, 96)]
-NP_CONC_COLS = [("Bond", 300, 180), ("Reported balance ($)", 150, 92),
+NP_CONC_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                ("Reported balance ($)", 150, 92),
                 ("Largest holder (%)", 120, 84), ("Top five (%)", 104, 76),
                 ("Funds", 76, 76), ("CUSIP", 108, 96)]
-NP_DISP_COLS = [("Bond", 300, 180), ("Median (% of par)", 124, 76),
+NP_DISP_COLS = [("Bond", 300, 180), ("Issued ($M)", 104, 72),
+                ("Median (% of par)", 124, 76),
                 ("P10 (% of par)", 110, 76), ("P90 (% of par)", 110, 76),
                 ("Range p10-p90 (pts)", 140, 84), ("Funds", 76, 76),
                 ("CUSIP", 108, 96)]
-NP_ZERO_COLS = [("Bond", 340, 200), ("Deal", 220, 120),
+NP_ZERO_COLS = [("Bond", 340, 200), ("Issued ($M)", 104, 72),
+                ("Deal", 220, 120),
                 ("CUSIP", 108, 96)]
 HOLDER_COLS = [("Fund", 340, 180), ("Reported balance ($)", 160, 96),
                ("Share of reported balance (%)", 170, 110)]
@@ -1995,20 +2123,24 @@ for _n in [k for k in list(globals())
 
 
 
-ACT_MOST_COLS = [("Bond", 340, 200, False), ("Trades", 84, 64, False),
+ACT_MOST_COLS = [("Bond", 340, 200, False), ("Issued ($M)", 104, 72, False),
+                 ("Trades", 84, 64, False),
                  ("Volume ($)", 110, 84, False), ("Last (% of par)", 104, 64, False),
                  ("Last trade time (ET)", 120, 84, False), ("CUSIP", 108, 96, False)]
-ACT_MOVE_COLS = [("Bond", 340, 200, False), ("Move (pts)", 96, 76, False),
+ACT_MOVE_COLS = [("Bond", 340, 200, False), ("Issued ($M)", 104, 72, False),
+                 ("Move (pts)", 96, 76, False),
                  ("Last (% of par)", 104, 64, False), ("Prev (% of par)", 104, 64, False),
                  ("Prev date", 110, 92, False), ("CUSIP", 108, 96, False)]
 ACT_LATE_COLS = [("Time", 84, 64, False), ("Bond", 340, 200, False),
+                 ("Issued ($M)", 104, 72, False),
                  ("Price (% of par)", 104, 64, False), ("Volume ($)", 110, 84, False),
                  ("CUSIP", 108, 96, False)]
 ACT_WEEK_COLS = [("Date", 120, 100, False), ("Trades", 96, 76, False),
                  ("Volume", 120, 92, False),
                  ("Bonds traded", 120, 92, False),
                  ("Last prints below 90", 170, 120, False)]
-ACT_ALL_COLS = [("Bond", 340, 200, False), ("Trades (5d)", 92, 68, False),
+ACT_ALL_COLS = [("Bond", 340, 200, False), ("Issued ($M)", 104, 72, False),
+                ("Trades (5d)", 92, 68, False),
                 ("Volume ($)", 110, 84, False),
                 ("Last (% of par)", 104, 64, False),
                 ("Move (5d, pts)", 108, 76, False),
@@ -2020,11 +2152,11 @@ ACT_ALL_COLS = [("Bond", 340, 200, False), ("Trades (5d)", 92, 68, False),
 def activity_page():
     act = (_analytics_data().get("analyses") or {}).get("activity") or {}
     if not act.get("tape_end"):
-        return frontmatter(
+        return (frontmatter(
             "Bond Activity",
             "Day and week trading activity across the watched bonds.",
             "No tape data yet") + \
-            "<p>No activity data has been computed yet.</p>\n"
+            "<p>No activity data has been computed yet.</p>\n"), {}
     s = act.get("summary") or {}
     upd = ""
     try:
@@ -2054,19 +2186,19 @@ def activity_page():
         f"<div class=\"bw-sum-item\"><dt>{k}</dt><dd>{v}</dd></div>\n"
         for k, v in strip_items) + "</dl>\n")
     mt = "".join(
-        f"<tr>{cell(r)}<td>{r['trades']}</td>"
+        f"<tr>{cell(r)}{_issued_cell(r['cusip'])}<td>{r['trades']}</td>"
         f"<td>{_fmt_vol(r['volume'])}</td><td>{r['last_price']:.2f}</td>"
         f"<td>{(r.get('last_time') or '')[:5]}</td>"
         f"<td class=\"muted\">{r['cusip']}</td></tr>"
         for r in act.get("most_traded") or [])
     mv = "".join(
-        f"<tr>{cell(r)}<td>{r['move']:+.2f}</td>"
+        f"<tr>{cell(r)}{_issued_cell(r['cusip'])}<td>{r['move']:+.2f}</td>"
         f"<td>{r['last_price']:.2f}</td><td>{r['prev_price']:.2f}</td>"
         f"<td>{_fmt_date(r['prev_date'])}</td>"
         f"<td class=\"muted\">{r['cusip']}</td></tr>"
         for r in act.get("biggest_moves") or [])
     lp = "".join(
-        f"<tr><td>{(r['time'] or '')[:5]}</td>{cell(r)}"
+        f"<tr><td>{(r['time'] or '')[:5]}</td>{cell(r)}{_issued_cell(r['cusip'])}"
         f"<td>{r['price']:.2f}</td><td>{_fmt_vol(r.get('volume'))}</td>"
         f"<td class=\"muted\">{r['cusip']}</td></tr>"
         for r in act.get("latest_prints") or [])
@@ -2089,7 +2221,7 @@ def activity_page():
         ld = (f"<td data-v=\"{r['last_date']}\">"
               f"{_fmt_date(r['last_date'])}</td>"
               if r.get("last_date") else "<td class=\"muted\">\u2014</td>")
-        return (f"<tr>{cell(r)}"
+        return (f"<tr>{cell(r)}{_issued_cell(r['cusip'])}"
                 f"<td data-v=\"{r['trades']}\">{r['trades']:,}</td>"
                 f"<td data-v=\"{r['volume']}\">"
                 f"{_fmt_vol(r['volume'])}</td>"
@@ -2097,12 +2229,43 @@ def activity_page():
                 + num(r.get("high")) + num(r.get("low")) + ld
                 + f"<td class=\"muted\">{r['cusip']}</td></tr>")
 
-    ab = "".join(arow(r) for r in act.get("week_bonds") or [])
+    ab_rows = [arow(r) for r in act.get("week_bonds") or []]
     all_head = "<h2 id=\"all\">All watched bonds: last five trade days</h2>\n"
     if act.get("week_start"):
         all_head = (f"<h2 id=\"all\">All watched bonds, "
                     f"{_fmt_date(act['week_start'])} to "
                     f"{_fmt_date(act['tape_end'])}</h2>\n")
+    # The all-bonds table runs to several hundred rows; rendered whole
+    # it made the page lag. It is paginated at 100 rows per page
+    # (2026-10-26, Arvin): page 1 stays at /leverage/activity/ with
+    # the day's summary tables, continuations live at
+    # /leverage/activity/<n>/ via activity-p<n>.md files.
+    page_size = 100
+    page_count = max(1, -(-len(ab_rows) // page_size))
+
+    def act_url(n):
+        return "/leverage/activity/" if n == 1 \
+            else f"/leverage/activity/{n}/"
+
+    def pager(n):
+        if page_count <= 1:
+            return ""
+        links = " / ".join(
+            f"<strong>{i}</strong>" if i == n
+            else f"<a href=\"{act_url(i)}\">{i}</a>"
+            for i in range(1, page_count + 1))
+        ends = ""
+        if n > 1:
+            ends += f"<a href=\"{act_url(n - 1)}\">Previous</a> "
+        if n < page_count:
+            ends += f"<a href=\"{act_url(n + 1)}\">Next</a>"
+        return (f"<nav class=\"bw-pager\" aria-label=\"All watched "
+                f"bonds pages\">"
+                f"<span class=\"bw-pager-pos\">Page {n} of "
+                f"{page_count}</span>"
+                f"<span class=\"bw-pager-links\">{links}</span>"
+                f"<span class=\"bw-pager-ends\">{ends.strip()}</span>"
+                f"</nav>\n")
     body = frontmatter(
         "Bond Activity",
         "Week trading activity for every watched bond, with the day's "
@@ -2115,9 +2278,13 @@ def activity_page():
         "most recent date; on a non-trading day it is the last trading "
         "day. A move is the latest print against the previous print on "
         "an earlier date. In the full table, the 5-day move is the last "
-        "print inside the window against the last print before it.</p>\n"
+        "print inside the window against the last print before it. "
+        "Issued ($M) is the note's original amount issued, from the "
+        "issuer's pricing filing where one is on record; blank where "
+        "no held source states it.</p>\n"
         + all_head
-        + _grid("act-all", ACT_ALL_COLS, ab)
+        + _grid("act-all", ACT_ALL_COLS, "".join(ab_rows[:page_size]))
+        + pager(1)
         + "<h2 id=\"most\">Most traded</h2>\n"
         + _grid("act-most", ACT_MOST_COLS, mt)
         + "<h2 id=\"moves\">Biggest moves</h2>\n"
@@ -2130,13 +2297,54 @@ def activity_page():
           "TRACE. FINRA caps the reported amount on large trades, so "
           "volume understates true size on capped prints.</p>\n")
     body += TABLE_ENGINE_JS
-    return body
+    extras = {}
+    for n in range(2, page_count + 1):
+        rows = "".join(ab_rows[(n - 1) * page_size:n * page_size])
+        eb = frontmatter(
+            "Bond Activity",
+            "Week trading activity for every watched bond, with the "
+            "day's most traded, biggest moves and latest prints.",
+            f"Tape through {_fmt_date(act['tape_end'])}",
+            url=act_url(n))
+        eb += strip
+        if act.get("week_start"):
+            eb += (f"<h2 id=\"all\">All watched bonds, "
+                   f"{_fmt_date(act['week_start'])} to "
+                   f"{_fmt_date(act['tape_end'])} - page {n} of "
+                   f"{page_count}</h2>\n")
+        else:
+            eb += (f"<h2 id=\"all\">All watched bonds: last five "
+                   f"trade days - page {n} of {page_count}</h2>\n")
+        eb += _grid("act-all", ACT_ALL_COLS, rows)
+        eb += pager(n)
+        eb += TABLE_ENGINE_JS
+        extras[n] = eb
+    return body, extras
+
+
+def _pager_html(n, count, url_for, label):
+    if count <= 1:
+        return ""
+    links = " / ".join(
+        f"<strong>{i}</strong>" if i == n
+        else f"<a href=\"{url_for(i)}\">{i}</a>"
+        for i in range(1, count + 1))
+    ends = ""
+    if n > 1:
+        ends += f"<a href=\"{url_for(n - 1)}\">Previous</a> "
+    if n < count:
+        ends += f"<a href=\"{url_for(n + 1)}\">Next</a>"
+    return (f"<nav class=\"bw-pager\" aria-label=\"{label} pages\">"
+            f"<span class=\"bw-pager-pos\">Page {n} of {count}</span>"
+            f"<span class=\"bw-pager-links\">{links}</span>"
+            f"<span class=\"bw-pager-ends\">{ends.strip()}</span>"
+            f"</nav>\n")
 
 
 def bond_analytics_page():
     A = _analytics_data().get("analyses", {})
     if not A:
-        return ""
+        return "", {}
     _bwp = os.path.join(DATA, "bond_watch.json")
     bw = json.load(open(_bwp)) if os.path.exists(_bwp) else {}
     as_of = _analytics_data().get("as_of", "")
@@ -2169,6 +2377,26 @@ def bond_analytics_page():
         as_of)]
     out.append(strip_html)
     out.append(nav)
+    # Pagination (2026-10-26, Arvin): the liquidity heatmap and the
+    # fund-marks table made this page lag (1.3 MB rendered whole).
+    # Both are paginated: page 1 keeps the first slice of each plus
+    # every other section; continuations live at
+    # /leverage/bond-analytics/liquidity/<n>/ and .../marks/<n>/.
+    def _liq_url(n):
+        return "/leverage/bond-analytics/" if n == 1 \
+            else f"/leverage/bond-analytics/liquidity/{n}/"
+
+    def _marks_url(n):
+        return "/leverage/bond-analytics/" if n == 1 \
+            else f"/leverage/bond-analytics/marks/{n}/"
+
+    _gap_trs = []
+    _gap_pages = 1
+    _heat = {}
+    _hrows = []
+    _hmx = 1
+    _hsize = 10
+    _hpages = 1
     # 1 issuers
     if groups:
         from datetime import datetime as _dtm, timezone as _tz
@@ -2292,7 +2520,13 @@ def bond_analytics_page():
     out.append(f'<p class="data-vintage">Stored trades per week, '
                f'core watch, {_fmt_date(s["window_start"])} – '
                f'{_fmt_date(s["tape_end"])}</p>')
-    out.append(_heat_table(sec.get("heatmap") or {}))
+    _heat = sec.get("heatmap") or {}
+    _hrows = _heat.get("rows") or []
+    _hmx = max([c for r in _hrows for c in r["counts"]] + [1])
+    _hpages = max(1, -(-len(_hrows) // _hsize))
+    out.append(_heat_table({"weeks": _heat.get("weeks") or [],
+                            "rows": _hrows[:_hsize]}, mx=_hmx))
+    out.append(_pager_html(1, _hpages, _liq_url, "Liquidity"))
     out.append(f'<p class="data-vintage">Traded in the last 7 days '
                f'of the window: {s["traded_last_7d"]} of '
                f'{len(sec["rows"])} core bonds; silent: '
@@ -2415,7 +2649,10 @@ def bond_analytics_page():
                   f'{r["gap"]:+.2f}</td>'
                 + f'<td data-v="{r["funds"]}">{r["funds"]}</td>'
                 + f'<td data-v="{r["cusip"]}">{r["cusip"]}</td></tr>')
-        out.append(_grid("ana-npgap", NP_GAP_COLS, _trs))
+        _gap_trs = _trs
+        _gap_pages = max(1, -(-len(_trs) // 100))
+        out.append(_grid("ana-npgap", NP_GAP_COLS, _trs[:100]))
+        out.append(_pager_html(1, _gap_pages, _marks_url, "Fund marks"))
         out.append('<p class="src">Sorted by gap, lowest first; '
                    'select a column heading to re-sort.</p>')
     else:
@@ -2500,9 +2737,192 @@ def bond_analytics_page():
         'semiannual 30/360; spreads are against the interpolated '
         'US Treasury curve. Benchmark bonds carry no fund marks. '
         'Quantities the window cannot support are stated as '
-        'absent, not estimated.</p>')
+        'absent, not estimated. Issued ($M) is the note\'s '
+        'original amount issued, from the issuer\'s pricing '
+        'filing where one is on record; the column is blank '
+        'where no held source states an amount.</p>')
     out.append(TABLE_ENGINE_JS)
-    return "\n".join(out)
+    _lede = ("Bond prices, trends, curves and holders by issuer, "
+             "from the FINRA tape and SEC fund filings.")
+    extras = {}
+    for n in range(2, _hpages + 1):
+        eb = [frontmatter("Bond Analytics", _lede, as_of,
+                          url=_liq_url(n))]
+        eb.append(strip_html)
+        eb.append(f'<h2 id="liquidity">Liquidity - page {n} of '
+                  f'{_hpages}</h2>')
+        eb.append(f'<p class="data-vintage">Stored trades per week, '
+                  f'core watch, {_fmt_date(liq_s["window_start"])} – '
+                  f'{_fmt_date(liq_s["tape_end"])}</p>')
+        eb.append(_heat_table(
+            {"weeks": _heat.get("weeks") or [],
+             "rows": _hrows[(n - 1) * _hsize:n * _hsize]}, mx=_hmx))
+        eb.append(_pager_html(n, _hpages, _liq_url, "Liquidity"))
+        extras[f"liquidity-p{n}"] = "\n".join(eb)
+    for n in range(2, _gap_pages + 1):
+        eb = [frontmatter("Bond Analytics", _lede, as_of,
+                          url=_marks_url(n))]
+        eb.append(strip_html)
+        eb.append(f'<h2 id="marksgap">Fund marks vs the tape - page '
+                  f'{n} of {_gap_pages}</h2>')
+        eb.append(_grid("ana-npgap", NP_GAP_COLS,
+                        _gap_trs[(n - 1) * 100:n * 100]))
+        eb.append(_pager_html(n, _gap_pages, _marks_url, "Fund marks"))
+        eb.append(TABLE_ENGINE_JS)
+        extras[f"marks-p{n}"] = "\n".join(eb)
+    return "\n".join(out), extras
+
+def _projects():
+    """Standing project pages, gated list in data/projects.json. A
+    project earns a page only when it is a named deal in the leverage
+    program registry with material scale and a running record of
+    dated developments, or when Arvin names it. The list is the gate:
+    nothing renders a project page unless it is entered here."""
+    p = os.path.join(DATA, "projects.json")
+    if not os.path.exists(p):
+        return []
+    try:
+        return json.load(open(p)).get("projects", [])
+    except Exception:
+        return []
+
+
+PROJECT_DEV_COLS = [("Date", 104, 84, False),
+                    ("Development", 660, 240, False),
+                    ("Source", 190, 110, False)]
+
+
+def _fmt_dev_date(d):
+    """Development dates may carry month precision (YYYY-MM) when
+    the record fixes only the month; render those as Mon YYYY."""
+    if d and len(d) == 7:
+        from datetime import datetime as _dm
+        return _dm.strptime(d, "%Y-%m").strftime("%b %Y")
+    return _fmt_date(d)
+PROJECT_PARTY_COLS = [("Party", 320, 160, False),
+                      ("Role", 560, 220, False)]
+
+
+def project_pages():
+    """One standing page per gated project at /projects/<slug>/:
+    summary, key facts, parties, and the dated development record,
+    newest first. Pages regenerate from data/projects.json on every
+    build, so an appended development updates the page."""
+    pages = {}
+    for pr in _projects():
+        devs = sorted(pr.get("developments", []),
+                      key=lambda d: d["date"], reverse=True)
+        latest = devs[0]["date"] if devs else ""
+        lede = pr.get("lede", "")
+        out = [frontmatter(pr["name"], lede, latest)]
+        out.append('<p class="src"><a href="/projects/">'
+                   '&larr; Projects</a></p>')
+        if pr.get("sponsor_key"):
+            out.append(
+                f'<p class="src">Sponsor: <a href="/leverage/issuer/'
+                f'{pr["sponsor_key"]}/">{esc(pr.get("sponsor", ""))}'
+                f'</a>. Bond record for the sponsor sits on its '
+                f'issuer page.</p>')
+        for para in pr.get("summary", []):
+            out.append(f"<p>{para}</p>")
+        facts = pr.get("facts") or []
+        if facts:
+            out.append('<dl class="bw-summary">'
+                       + "".join(
+                           f'<div class="bw-sum-item"><dt>{esc(k)}'
+                           f'</dt><dd>{esc(v)}</dd></div>'
+                           for k, v in facts) + "</dl>")
+        parties = pr.get("parties") or []
+        if parties:
+            out.append("<h2>Parties</h2>")
+            prows = [f'<tr><td data-v="{esc(x["name"])}">'
+                     f'{esc(x["name"])}</td>'
+                     f'<td data-v="">{esc(x["role"])}</td></tr>'
+                     for x in parties]
+            out.append(_grid(f'proj-p-{pr["slug"]}',
+                             PROJECT_PARTY_COLS, prows,
+                             sortable=False))
+        if devs:
+            out.append("<h2>Developments</h2>")
+            out.append('<p class="src">The running record, newest '
+                       'first. Each entry is dated by the event, '
+                       'not by when it was collected.</p>')
+            drows = []
+            for d in devs:
+                src = esc(d.get("source_label", ""))
+                if d.get("source_url"):
+                    src = (f'<a href="{esc(d["source_url"])}">'
+                           f'{src}</a>')
+                if d.get("grade"):
+                    src += (f'<span class="cell-sub">Grade '
+                            f'{esc(d["grade"])}</span>')
+                drows.append(
+                    f'<tr><td data-v="{d["date"]}">'
+                    f'{_fmt_dev_date(d["date"])}</td>'
+                    f'<td data-v=""><span class="bond-name">'
+                    f'{esc(d["title"])}</span>'
+                    f'<span class="bond-sub">{esc(d["detail"])}'
+                    f'</span></td>'
+                    f'<td data-v="">{src}</td></tr>')
+            out.append(_grid(f'proj-d-{pr["slug"]}',
+                             PROJECT_DEV_COLS, drows, sortable=False))
+        stories = pr.get("stories") or []
+        if stories:
+            out.append("<h2>Coverage on this site</h2>")
+            items = "".join(
+                f'<li><a href="/stories/{s["slug"]}/">'
+                f'{esc(s["title"])}</a></li>' for s in stories)
+            out.append(f"<ul>{items}</ul>")
+        out.append('<p class="src">Record maintained by the AI '
+                   'infrastructure leverage monitor: SEC filings, '
+                   'county and municipal records, and the news '
+                   'operation&rsquo;s own coverage, each entry '
+                   'graded at collection.</p>')
+        out.append(TABLE_ENGINE_JS)
+        pages[pr["slug"]] = "\n".join(out)
+    return pages
+
+
+def projects_index():
+    """Section index at /projects/: the gated project list with the
+    latest development on each."""
+    projs = _projects()
+    rows = []
+    for pr in projs:
+        devs = sorted(pr.get("developments", []),
+                      key=lambda d: d["date"], reverse=True)
+        latest = devs[0] if devs else {}
+        rows.append(
+            f'<tr><td data-v="{esc(pr["name"])}">'
+            f'<a class="bond-link" href="/projects/{pr["slug"]}/">'
+            f'<span class="bond-name">{esc(pr["name"])}</span>'
+            f'<span class="bond-sub">{esc(pr.get("location", ""))}'
+            f'</span></td>'
+            f'<td data-v="{esc(pr.get("sponsor", ""))}">'
+            f'{esc(pr.get("sponsor", ""))}</td>'
+            f'<td data-v="{latest.get("date", "")}">'
+            f'{_fmt_dev_date(latest["date"]) if latest else "—"}</td>'
+            f'<td data-v="">{esc(latest.get("title", ""))}</td></tr>')
+    cols = [("Project", 300, 180, False), ("Sponsor", 150, 100, False),
+            ("Latest development", 130, 92, False),
+            ("What happened", 420, 200, False)]
+    body = [frontmatter(
+        "Projects",
+        "Standing pages for the largest tracked data center "
+        "projects: the financing, the parties, and the dated record "
+        "of developments, updated as events land.",
+        "")]
+    body.append('<p>The leverage program follows named projects '
+                'through filings, county records and permitting. A '
+                'project earns a standing page when its scale and '
+                'record warrant one; the list is deliberately short. '
+                'Each page carries the development record in date '
+                'order and updates when a new filing, vote or '
+                'decision lands.</p>')
+    body.append(_grid("proj-index", cols, rows, sortable=False))
+    body.append(TABLE_ENGINE_JS)
+    return "\n".join(body)
+
 
 def issuer_pages():
     """One page per issuer group at /leverage/issuer/<key>/:
@@ -2528,6 +2948,21 @@ def issuer_pages():
         out = [frontmatter(g["name"], lede, as_of)]
         out.append('<p class="src"><a href="/leverage/bond-analytics/">'
                    '&larr; Bond Analytics</a></p>')
+        _ent = _entity_links()[0].get(g["key"])
+        if _ent:
+            out.append(
+                f'<p class="src">Cross-dataset record: '
+                f'<a href="/entities/{_ent[0]}/">Entity Index</a>. '
+                f'Name forms, swaps panel row and fund-mark coverage '
+                f'for this issuer.</p>')
+        for _pr in _projects():
+            if _pr.get("sponsor_key") == g["key"]:
+                out.append(
+                    f'<p class="src">Tracked project: '
+                    f'<a href="/projects/{_pr["slug"]}/">'
+                    f'{esc(_pr["name"])}</a>. Standing page with '
+                    f'the project record and its dated '
+                    f'developments.</p>')
         med = (f'{g["median_last"]:.2f}'
                if g["median_last"] is not None else "n/a")
         strip = [("Bonds", f"{g['n_bonds']}"),
@@ -2542,6 +2977,28 @@ def issuer_pages():
                    + "".join(f'<div class="bw-sum-item"><dt>{esc(k)}'
                              f'</dt><dd>{esc(v)}</dd></div>'
                              for k, v in strip) + "</dl>")
+        _fil = _issuer_filings().get(g["key"]) or []
+        if _fil:
+            out.append("<h2>Filings and developments</h2>")
+            out.append('<p class="src">Material SEC filings recorded '
+                       'by the daily filings pull. Figures are as '
+                       'stated in the filing itself.</p>')
+            frows = []
+            for e in _fil:
+                frows.append(
+                    f'<tr><td data-v="{e["date"]}">'
+                    f'{_fmt_date(e["date"])}</td>'
+                    f'<td data-v="{esc(e["form"])}">'
+                    f'<a href="{esc(e["url"])}">{esc(e["form"])}</a>'
+                    f'<span class="cell-sub">Accession '
+                    f'{esc(e["accession"])}</span></td>'
+                    f'<td data-v=""><span class="bond-name">'
+                    f'{esc(e["title"])}</span>'
+                    f'<span class="bond-sub">{esc(e["detail"])}'
+                    f'</span></td></tr>')
+            out.append(_grid(f'iss-fil-{g["key"]}',
+                             ISSUER_FILING_COLS, frows,
+                             sortable=False))
         out.append("<h2>Bonds</h2>")
 
         def brow(b, sec_marks):
@@ -2690,7 +3147,10 @@ def issuer_pages():
                 '(trades) and SEC N-PORT bulk filings (fund marks '
                 'and holders). '
                 f'Coverage: {g["trades_stored"]:,} trades are '
-                f'stored in the dataset for this issuer\'s bonds.')
+                f'stored in the dataset for this issuer\'s bonds. '
+                'Issued ($M) is the note\'s original amount issued, '
+                'from the issuer\'s pricing filing where one is on '
+                'record; blank where no held source states it.')
         if has_marks:
             prov += (' A fund mark is a period-end valuation, not '
                      'a trade price; holder data is positions at '
@@ -3197,6 +3657,15 @@ def bond_pages():
         trow("Coupon", f"{coup:.3f}".rstrip("0").rstrip(".") + "%"
              if coup else None)
         trow("Maturity", _fmt_date(mat))
+        _ia = b.get("issue_amount_usd")
+        if _ia is not None:
+            _iak = ("Original issue amount"
+                    if b.get("issue_amount_kind") == "original_issue"
+                    else "Amount outstanding")
+            trow("Amount issued",
+                 f"${_ia:,.0f}"
+                 f"<span class=\"cell-sub\">{_iak}; "
+                 f"{esc(b.get('issue_amount_source') or '')}</span>")
         if y is not None:
             trow("Analytics convention",
                  "Yields use 30/360, semiannual")
@@ -3351,6 +3820,7 @@ def bond_pages():
                     f"<tr><td><a class=\"bond-link\" "
                     f"href=\"/leverage/bond/{s['cusip'].lower()}/\">"
                     f"{esc(s.get('security') or s['cusip'])}</a></td>"
+                    f"{_issued_cell(s['cusip'])}"
                     f"<td class=\"num\">{lp_c}</td>"
                     f"<td class=\"muted\">{td_c}</td>"
                     f"<td class=\"num\">{gap_c}</td>"
@@ -3363,7 +3833,7 @@ def bond_pages():
             comp_html = (
                 "<h2>Other bonds from this issuer</h2>\n"
                 "<div class=\"market-table-scroll\"><table class=\"market-table\">"
-                "<thead><tr><th>Security</th><th>Last print (% of par)</th>"
+                "<thead><tr><th>Security</th><th>Issued ($M)</th><th>Last print (% of par)</th>"
                 "<th>Traded</th><th>Gap (pts)</th><th>Fund mark (% of par)</th>"
                 "<th>Coupon (%)</th><th>Matures</th><th>Rating</th>"
                 "<th>CUSIP</th></tr></thead><tbody>\n"
@@ -3425,6 +3895,12 @@ def bond_pages():
                 (_twin_label,
                  f"<a href=\"/leverage/bond/{b['twin_of'].lower()}/\">"
                  f"{b['twin_of']}</a>"))
+        _ent = _entity_links()[1].get(cusip)
+        if _ent:
+            _id_items.append(
+                ("Entity Index",
+                 f"<a href=\"/entities/{_ent[0]}/\">"
+                 f"{esc(_ent[1])}</a>"))
         identity = ('<dl class="bw-summary">\n' + "".join(
             f"<div class=\"bw-sum-item\"><dt>{k}</dt><dd>{v}</dd></div>\n"
             for k, v in _id_items) + "</dl>\n")
@@ -3519,15 +3995,40 @@ def main():
     with open(os.path.join(lev_out, "bond-watch.md"), "w") as f:
         f.write(bond_watch_page())
     print("wrote leverage/bond-watch.md")
+    ana_body, ana_extras = bond_analytics_page()
     with open(os.path.join(lev_out, "bond-analytics.md"), "w") as f:
-        f.write(bond_analytics_page())
+        f.write(ana_body)
     print("wrote leverage/bond-analytics.md")
+    wanted = {f"bond-analytics-{k}.md" for k in ana_extras}
+    for stale in os.listdir(lev_out):
+        if re.fullmatch(
+                r"bond-analytics-(liquidity|marks)-p\d+\.md", stale) \
+                and stale not in wanted:
+            os.remove(os.path.join(lev_out, stale))
+    for key, ebody in ana_extras.items():
+        with open(os.path.join(lev_out, f"bond-analytics-{key}.md"),
+                  "w") as f:
+            f.write(ebody)
+    if ana_extras:
+        print("wrote", len(ana_extras),
+              "bond-analytics continuation pages")
     with open(os.path.join(lev_out, "zero-holders.md"), "w") as f:
         f.write(zero_holders_page())
     print("wrote leverage/zero-holders.md")
+    act_body, act_extras = activity_page()
     with open(os.path.join(lev_out, "activity.md"), "w") as f:
-        f.write(activity_page())
+        f.write(act_body)
     print("wrote leverage/activity.md")
+    wanted = {f"activity-p{n}.md" for n in act_extras}
+    for stale in os.listdir(lev_out):
+        if re.fullmatch(r"activity-p\d+\.md", stale) \
+                and stale not in wanted:
+            os.remove(os.path.join(lev_out, stale))
+    for n, ebody in act_extras.items():
+        with open(os.path.join(lev_out, f"activity-p{n}.md"), "w") as f:
+            f.write(ebody)
+    if act_extras:
+        print("wrote", len(act_extras), "activity continuation pages")
     iss_dir = os.path.join(lev_out, "issuer")
     os.makedirs(iss_dir, exist_ok=True)
     ipages = issuer_pages()
@@ -3538,6 +4039,19 @@ def main():
         with open(os.path.join(iss_dir, f"{key}.md"), "w") as f:
             f.write(content)
     print("wrote", len(ipages), "issuer pages")
+    proj_dir = os.path.join(SITE, "content", "projects")
+    os.makedirs(proj_dir, exist_ok=True)
+    ppages = project_pages()
+    for stale in os.listdir(proj_dir):
+        if stale.endswith(".md") and stale != "_index.md" \
+                and stale[:-3] not in ppages:
+            os.remove(os.path.join(proj_dir, stale))
+    for slug, content in ppages.items():
+        with open(os.path.join(proj_dir, f"{slug}.md"), "w") as f:
+            f.write(content)
+    with open(os.path.join(proj_dir, "_index.md"), "w") as f:
+        f.write(projects_index())
+    print("wrote", len(ppages), "project pages")
     with open(os.path.join(lev_out, "monitor.md"), "w") as f:
         f.write(leverage_monitor_page())
     print("wrote leverage/monitor.md")
