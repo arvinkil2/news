@@ -2,14 +2,14 @@
 title: "Mexico"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Mexico, refreshed hourly."
-data_as_of: "Oct 29, 7:04 AM ET"
+data_as_of: "Oct 29, 8:02 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 7:04 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 8:02 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>IPC (index)</td><td class="num">69,182 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.76%</span></td><td class="num"><span class="down">-1.52%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.8 4.4,21.2 8.7,24.6 13.1,26.0 17.5,23.4 21.8,21.7 26.2,20.5 30.5,22.9 34.9,21.7 39.3,17.7 43.6,15.1 48.0,14.3 52.4,14.9 56.7,11.7 61.1,6.9 65.5,6.6 69.8,5.7 74.2,2.0 78.5,3.3 82.9,3.4 87.3,4.9 91.6,4.0 96.0,6.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Mexico (EWW)</td><td class="num">$74.63 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.49%</span></td><td class="num"><span class="down">-1.22%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.5 4.6,20.5 9.1,26.0 13.7,20.5 18.3,17.3 22.9,13.9 27.4,16.9 32.0,18.7 36.6,16.9 41.1,11.6 45.7,11.6 50.3,13.8 54.9,8.9 59.4,4.5 64.0,2.8 68.6,2.2 73.1,2.0 77.7,4.5 82.3,3.2 86.9,3.0 91.4,4.3 96.0,5.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/MXN</td><td class="num">18.7302 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.23%</span></td><td class="num"><span class="down">-0.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.9 4.4,23.7 8.7,22.6 13.1,15.1 17.5,20.0 21.8,23.1 26.2,26.0 30.5,25.8 34.9,19.1 39.3,11.8 43.6,16.8 48.0,13.2 52.4,10.4 56.7,11.1 61.1,11.1 65.5,12.1 69.8,11.6 74.2,3.6 78.5,2.3 82.9,2.4 87.3,7.7 91.6,3.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/MXN</td><td class="num">18.7658 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.42%</span></td><td class="num"><span class="down">-0.47%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.9 4.4,23.8 8.7,22.7 13.1,15.6 17.5,20.2 21.8,23.2 26.2,26.0 30.5,25.8 34.9,19.4 39.3,12.5 43.6,17.2 48.0,13.8 52.4,11.1 56.7,11.8 61.1,11.8 65.5,12.7 69.8,12.3 74.2,4.6 78.5,3.4 82.9,3.4 87.3,8.5 91.6,4.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
