@@ -1,12 +1,12 @@
 ---
-title: "Xi opens fifth plenum focused on party self-governance"
+title: "Fifth plenum ratifies Zhang Youxia expulsion from party"
 date: 2026-10-26T07:11:33-04:00
-last_updated: 2026-10-26T07:11:33-04:00
+last_updated: 2026-10-29T06:13:25-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "China's Communist Party opened its fifth plenum in Beijing on Monday, a four day closed door meeting of the Central Committee whose stated theme is full and rigorous party self-governance, with Xi Jinping briefing members on a draft document."
-why_it_matters: "The opening theme is governance and discipline rather than the economic agenda the calendar preview expected, and analysts read the session as possibly the last major party gathering before the 2027 leadership reshuffle, so Thursday's communique wording is the document to watch."
+lede: "China's fifth plenum has ratified the expulsion of Zhang Youxia, the former vice chairman of the Central Military Commission, from the Communist Party, Yonhap reported on Thursday as the four day session closed in Beijing."
+why_it_matters: "Ratifying the expulsion of the military's former second ranking officer is the clearest personnel outcome of the plenum so far, extending Xi Jinping's purge of the top ranks of the armed forces, and the closing communique is still to come."
 featured: false
 evidence_grade: "C"
 sources:
@@ -14,9 +14,16 @@ sources:
     publisher: "Reuters, reporting Xinhua"
     url: "https://wncy.com/2026/10/25/chinas-communist-party-opens-fifth-plenum/"
     published: "2026-10-26"
+  - title: "Fifth plenum ratifies expulsion of former CMC vice chairman Zhang Youxia from the party"
+    publisher: "Yonhap News Agency, in Korean"
+    url: "https://www.yna.co.kr/view/AKR20261029197100083"
+    published: "2026-10-29"
 tags: []
-data_as_of: "Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
+data_as_of: "Update 2026-10-29T06:13:25-04:00: the Zhang Youxia ratification is from a Yonhap News Agency breaking news flash published October 29, 2026 and read in full in this run via the live browser, in Korean; the flash carries no body text beyond its headline, names no other personnel decisions and gives no reasons, and no Xinhua or plenum communique text confirming it was available in this run, so that item is single-sourced. Earlier: Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
+update_bump: true
 ---
+
+**Latest, October 29:** The fifth plenum has ratified the expulsion of Zhang Youxia from the Communist Party, Yonhap News Agency reported in a breaking news flash on Thursday. Zhang is a former vice chairman of the Central Military Commission, the military's top body, and his ratified expulsion makes the purge of the armed forces' senior ranks a formal outcome of the session. The flash carried no other personnel decisions and no reasons, and the plenum's closing communique has not yet been published.
 
 China's Communist Party began a four day meeting of its Central Committee in Beijing on Monday, the fifth plenum of the cohort formed in 2022, targeting concrete measures for full and rigorous party self-governance as President Xi Jinping seeks to reinforce his authority and enforce ideological uniformity, Reuters reported. Xi briefed the committee on a draft document that the state news agency Xinhua said addressed the challenges the party faced, including growing its governing capacity, guarding against complacency and combating corruption, his signature campaign.
 
