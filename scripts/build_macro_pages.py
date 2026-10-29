@@ -2801,6 +2801,8 @@ def _fmt_dev_date(d):
     return _fmt_date(d)
 PROJECT_PARTY_COLS = [("Party", 320, 160, False),
                       ("Role", 560, 220, False)]
+PROJECT_INST_COLS = [("Instrument", 300, 160, False),
+                     ("Terms on record", 620, 240, False)]
 
 
 def project_pages():
@@ -2841,6 +2843,23 @@ def project_pages():
                      for x in parties]
             out.append(_grid(f'proj-p-{pr["slug"]}',
                              PROJECT_PARTY_COLS, prows,
+                             sortable=False))
+        insts = pr.get("instruments") or []
+        if insts:
+            out.append("<h2>Financing on record</h2>")
+            if pr.get("instruments_note"):
+                out.append(f'<p class="src">'
+                           f'{pr["instruments_note"]}</p>')
+            irows = []
+            for x in insts:
+                nm = esc(x["name"])
+                if x.get("url"):
+                    nm = (f'<a href="{esc(x["url"])}">{nm}</a>')
+                irows.append(
+                    f'<tr><td data-v="{esc(x["name"])}">{nm}</td>'
+                    f'<td data-v="">{esc(x["detail"])}</td></tr>')
+            out.append(_grid(f'proj-i-{pr["slug"]}',
+                             PROJECT_INST_COLS, irows,
                              sortable=False))
         if devs:
             out.append("<h2>Developments</h2>")

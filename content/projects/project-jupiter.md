@@ -29,6 +29,18 @@ data_as_of: "2026-10-27"
 <tr><td data-v="FERC">FERC</td><td data-v="">Federal approval for the Green Chile pipeline. The expedite request is pending in the record.</td></tr>
 </tbody></table></div>
 
+<h2>Financing on record</h2>
+<p class="src">The Jupiter bonds are private placements. No CUSIP, fund holder position or trade print for any of them appears in the record, so none carries a bond page in the Leverage section. The sponsor's traded bonds sit on the Oracle issuer page.</p>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="proj-i-project-jupiter" data-def="[300, 620]" data-min="[160, 240]" data-fixed="[]">
+<colgroup><col style="width:300px"><col style="width:620px"></colgroup>
+<thead><tr><th>Instrument</th><th>Terms on record</th></tr></thead>
+<tbody>
+<tr><td data-v="Series 2025A industrial revenue bonds, $15B">Series 2025A industrial revenue bonds, $15B</td><td data-v="">Doña Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.</td></tr>
+<tr><td data-v="Series 2025B industrial revenue bonds, $25B">Series 2025B industrial revenue bonds, $25B</td><td data-v="">Doña Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.</td></tr>
+<tr><td data-v="Series 2025C industrial revenue bonds, about $125B">Series 2025C industrial revenue bonds, about $125B</td><td data-v="">Doña Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.</td></tr>
+<tr><td data-v="Yucca Growth Infrastructure first lien loan"><a href="https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm">Yucca Growth Infrastructure first lien loan</a></td><td data-v="">Held by Apollo Debt Solutions BDC. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Matured September 18, 2026; repayment, refinancing or extension is not in the record.</td></tr>
+</tbody></table></div>
+
 <h2>Developments</h2>
 <p class="src">The running record, newest first. Each entry is dated by the event, not by when it was collected.</p>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="proj-d-project-jupiter" data-def="[104, 660, 190]" data-min="[84, 240, 110]" data-fixed="[]">

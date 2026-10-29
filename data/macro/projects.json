@@ -1,1 +1,196 @@
-{"gate":"A project earns a standing page only when it is a named deal in the AI infrastructure leverage monitor registry with material scale and a running record of dated developments from more than one source, or when Arvin names it. Candidates that meet the scale test but are not yet listed are proposed in the daily filings memo, never auto-created.","note":"Standing project pages for the leverage program. Maintained by the daily filings pull and the catalyst flow: when a filing, county record or story touches a listed project, a dated development is appended here and the page rebuilds on the next site build. Entries are dated by the event, graded as collected.","projects":[{"developments":[{"date":"2025-09-22","detail":"The ordinance behind the Project Jupiter IRB structure, recorded as instrument 2520581 in the county clerk records.","grade":"B","source_label":"Doña Ana County Clerk records, via the leverage monitor registry","title":"Ordinance 367-2025 recorded"},{"date":"2025-10-17","detail":"The New Mexico Environmental Law Center's first suit over the September 2025 IRB approval procedure. A second suit followed on February 6, 2026.","grade":"C","source_label":"Data Center Dynamics, recorded in the daily filings memo","title":"Litigation over the IRB approval procedure begins"},{"date":"2025-11-12","detail":"Exhibit A, Section 8.4 states that Project Jupiter will power itself with an onsite microgrid system, with natural gas generation and battery storage. Thirteen deeds of trust dated the same day run from the Red Chiles entities and Yucca Growth Infrastructure LLCs to Fidelity National Title of New Mexico, with IRB deeds to the county, leasebacks, and subordinations naming Citibank and Goldman Sachs Bank USA.","source_label":"Doña Ana County Clerk records, via the leverage monitor registry","title":"Community Benefits Agreement signed"},{"date":"2026-02-06","detail":"A second lawsuit over the project and its IRB approval procedure, following the October 2025 suit.","grade":"C","source_label":"Daily filings memo, October 22, 2026","title":"Second lawsuit filed"},{"date":"2026-07","detail":"State regulators rejected Energy Transfer's application for a gas pipeline to the site, citing large scale water use, increased carbon emissions and a lack of state revenue generation.","grade":"C","source_label":"Bloomberg via Datacenter Dynamics","title":"New Mexico rejects the gas pipeline application"},{"date":"2026-09","detail":"Oracle was reported to have sent a force majeure notice to Blue Owl Capital, its financier, to shield itself from increased costs if the facility fails to come online in 2028 as planned.","grade":"C","source_label":"Reporting carried in the October 16, 2026 site story","title":"Force majeure notice reported"},{"date":"2026-09-18","detail":"The first lien loan to Yucca Growth Infrastructure, LLC matured. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Whether the loan was repaid, refinanced or extended is not in the record.","grade":"A","source_label":"Apollo Debt Solutions BDC schedule of investments, accession 0001193125-26-421669","source_url":"https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm","title":"Yucca Growth loan matures"},{"date":"2026-10-13","detail":"Commissioners reviewed a proposed energy services agreement of $10M per year for 10 years, plus proposed credits of up to $55M per year for up to three years. Commissioners said an amendment to the IRB agreements would be required. No agreement was approved, and Oracle indicated it would reconsider the arrangement.","grade":"C","source_label":"Local press report of the commission meeting","title":"County reviews the proposed El Paso Electric connection"},{"date":"2026-10-14","detail":"The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.","grade":"C","source_label":"Doña Ana County release","title":"Community Monitoring Committee appointed"},{"date":"2026-10-16","detail":"Oracle asked FERC to expedite approval of the 17.8 mile Green Chile pipeline, about 400 million cubic feet of gas a day to on site fuel cells supplied by Bloom Energy. The pipeline timeline had slipped to February 2027. New Mexico Attorney General Raul Torrez pressed FERC to broaden its environmental review to the combined footprint of the data centre and the pipeline.","grade":"C","source_label":"Kilambi Research coverage","source_url":"/stories/2026-10-16-oracle-project-jupiter-pipeline-ferc/","title":"Oracle presses FERC to expedite the Green Chile pipeline"},{"date":"2026-10-27","detail":"After a closed session of more than two hours, commissioners voted 5-0 to authorize county management and legal counsel to notify the Project Jupiter entities of a potential breach of the IRB agreements over the proposed El Paso Electric connection and power generation plan, and to engage in discussions on a path forward. The chairman reads Section 8.4 as requiring on site generation with no utility connection. The quoted text does not expressly bar a utility connection, no breach has been established, the vote revokes nothing, and Oracle had not responded at publication.","grade":"C","source_label":"Organ Mountain News, October 28, 2026","title":"County authorizes a potential breach notice"}],"facts":[["Capacity","2.5 GW"],["Location","Santa Teresa, Doña Ana County, New Mexico"],["IRB authorization","$165B ceiling"],["Series","2025A $15B, 2025B $25B, 2025C about $125B"],["Power","Onsite microgrid under the Community Benefits Agreement, contested"],["Online target","2028, as reported"]],"lede":"Oracle's 2.5 GW campus in Doña Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.","location":"Santa Teresa, Doña Ana County, New Mexico","name":"Project Jupiter","parties":[{"name":"Oracle","role":"Sponsor. Oracle America, Inc. is named as purchaser in the executed Series 2025C instruments."},{"name":"Red Chiles A, B, C and D","role":"Project companies. Grantors on the November 2025 deeds of trust, parties to the IRB deeds and leasebacks."},{"name":"Yucca Growth Infrastructure, LLC","role":"Project vehicle. Borrower on the Apollo Debt Solutions BDC first lien loan."},{"name":"Green Chile Ventures LLC","role":"Project party named in the executed Series 2025B and 2025C instruments."},{"name":"Doña Ana County","role":"IRB issuer and title holder. The county holds title and leases the project back to the project companies."},{"name":"El Paso Electric","role":"Territory utility. Counterparty to the proposed supplemental grid connection and energy services agreement."},{"name":"Energy Transfer","role":"Applicant for the gas pipeline rejected at state level in July 2026."},{"name":"Bloom Energy","role":"Supplier of the on site fuel cells in the Green Chile pipeline plan."},{"name":"Blue Owl Capital","role":"Financier named in reporting. Recipient of the reported September 2026 force majeure notice."},{"name":"Apollo Debt Solutions BDC","role":"Holder of the Yucca Growth first lien loan that matured September 18, 2026."},{"name":"FERC","role":"Federal approval for the Green Chile pipeline. The expedite request is pending in the record."}],"slug":"project-jupiter","sponsor":"Oracle","sponsor_key":"oracle","stories":[{"slug":"2026-10-16-oracle-project-jupiter-pipeline-ferc","title":"Oracle presses FERC to expedite gas pipeline for Project Jupiter"}],"summary":["Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Doña Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.","Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."]}]}
+{
+ "gate": "A project earns a standing page only when it is a named deal in the AI infrastructure leverage monitor registry with material scale and a running record of dated developments from more than one source, or when Arvin names it. Candidates that meet the scale test but are not yet listed are proposed in the daily filings memo, never auto-created.",
+ "note": "Standing project pages for the leverage program. Maintained by the daily filings pull and the catalyst flow: when a filing, county record or story touches a listed project, a dated development is appended here and the page rebuilds on the next site build. Entries are dated by the event, graded as collected.",
+ "projects": [
+  {
+   "developments": [
+    {
+     "date": "2025-09-22",
+     "detail": "The ordinance behind the Project Jupiter IRB structure, recorded as instrument 2520581 in the county clerk records.",
+     "grade": "B",
+     "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
+     "title": "Ordinance 367-2025 recorded"
+    },
+    {
+     "date": "2025-10-17",
+     "detail": "The New Mexico Environmental Law Center's first suit over the September 2025 IRB approval procedure. A second suit followed on February 6, 2026.",
+     "grade": "C",
+     "source_label": "Data Center Dynamics, recorded in the daily filings memo",
+     "title": "Litigation over the IRB approval procedure begins"
+    },
+    {
+     "date": "2025-11-12",
+     "detail": "Exhibit A, Section 8.4 states that Project Jupiter will power itself with an onsite microgrid system, with natural gas generation and battery storage. Thirteen deeds of trust dated the same day run from the Red Chiles entities and Yucca Growth Infrastructure LLCs to Fidelity National Title of New Mexico, with IRB deeds to the county, leasebacks, and subordinations naming Citibank and Goldman Sachs Bank USA.",
+     "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
+     "title": "Community Benefits Agreement signed"
+    },
+    {
+     "date": "2026-02-06",
+     "detail": "A second lawsuit over the project and its IRB approval procedure, following the October 2025 suit.",
+     "grade": "C",
+     "source_label": "Daily filings memo, October 22, 2026",
+     "title": "Second lawsuit filed"
+    },
+    {
+     "date": "2026-07",
+     "detail": "State regulators rejected Energy Transfer's application for a gas pipeline to the site, citing large scale water use, increased carbon emissions and a lack of state revenue generation.",
+     "grade": "C",
+     "source_label": "Bloomberg via Datacenter Dynamics",
+     "title": "New Mexico rejects the gas pipeline application"
+    },
+    {
+     "date": "2026-09",
+     "detail": "Oracle was reported to have sent a force majeure notice to Blue Owl Capital, its financier, to shield itself from increased costs if the facility fails to come online in 2028 as planned.",
+     "grade": "C",
+     "source_label": "Reporting carried in the October 16, 2026 site story",
+     "title": "Force majeure notice reported"
+    },
+    {
+     "date": "2026-09-18",
+     "detail": "The first lien loan to Yucca Growth Infrastructure, LLC matured. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Whether the loan was repaid, refinanced or extended is not in the record.",
+     "grade": "A",
+     "source_label": "Apollo Debt Solutions BDC schedule of investments, accession 0001193125-26-421669",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm",
+     "title": "Yucca Growth loan matures"
+    },
+    {
+     "date": "2026-10-13",
+     "detail": "Commissioners reviewed a proposed energy services agreement of $10M per year for 10 years, plus proposed credits of up to $55M per year for up to three years. Commissioners said an amendment to the IRB agreements would be required. No agreement was approved, and Oracle indicated it would reconsider the arrangement.",
+     "grade": "C",
+     "source_label": "Local press report of the commission meeting",
+     "title": "County reviews the proposed El Paso Electric connection"
+    },
+    {
+     "date": "2026-10-14",
+     "detail": "The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.",
+     "grade": "C",
+     "source_label": "Do\u00f1a Ana County release",
+     "title": "Community Monitoring Committee appointed"
+    },
+    {
+     "date": "2026-10-16",
+     "detail": "Oracle asked FERC to expedite approval of the 17.8 mile Green Chile pipeline, about 400 million cubic feet of gas a day to on site fuel cells supplied by Bloom Energy. The pipeline timeline had slipped to February 2027. New Mexico Attorney General Raul Torrez pressed FERC to broaden its environmental review to the combined footprint of the data centre and the pipeline.",
+     "grade": "C",
+     "source_label": "Kilambi Research coverage",
+     "source_url": "/stories/2026-10-16-oracle-project-jupiter-pipeline-ferc/",
+     "title": "Oracle presses FERC to expedite the Green Chile pipeline"
+    },
+    {
+     "date": "2026-10-27",
+     "detail": "After a closed session of more than two hours, commissioners voted 5-0 to authorize county management and legal counsel to notify the Project Jupiter entities of a potential breach of the IRB agreements over the proposed El Paso Electric connection and power generation plan, and to engage in discussions on a path forward. The chairman reads Section 8.4 as requiring on site generation with no utility connection. The quoted text does not expressly bar a utility connection, no breach has been established, the vote revokes nothing, and Oracle had not responded at publication.",
+     "grade": "C",
+     "source_label": "Organ Mountain News, October 28, 2026",
+     "title": "County authorizes a potential breach notice"
+    }
+   ],
+   "facts": [
+    [
+     "Capacity",
+     "2.5 GW"
+    ],
+    [
+     "Location",
+     "Santa Teresa, Do\u00f1a Ana County, New Mexico"
+    ],
+    [
+     "IRB authorization",
+     "$165B ceiling"
+    ],
+    [
+     "Series",
+     "2025A $15B, 2025B $25B, 2025C about $125B"
+    ],
+    [
+     "Power",
+     "Onsite microgrid under the Community Benefits Agreement, contested"
+    ],
+    [
+     "Online target",
+     "2028, as reported"
+    ]
+   ],
+   "instruments": [
+    {
+     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.",
+     "name": "Series 2025A industrial revenue bonds, $15B"
+    },
+    {
+     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.",
+     "name": "Series 2025B industrial revenue bonds, $25B"
+    },
+    {
+     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.",
+     "name": "Series 2025C industrial revenue bonds, about $125B"
+    },
+    {
+     "detail": "Held by Apollo Debt Solutions BDC. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Matured September 18, 2026; repayment, refinancing or extension is not in the record.",
+     "name": "Yucca Growth Infrastructure first lien loan",
+     "url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm"
+    }
+   ],
+   "instruments_note": "The Jupiter bonds are private placements. No CUSIP, fund holder position or trade print for any of them appears in the record, so none carries a bond page in the Leverage section. The sponsor's traded bonds sit on the Oracle issuer page.",
+   "lede": "Oracle's 2.5 GW campus in Do\u00f1a Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.",
+   "location": "Santa Teresa, Do\u00f1a Ana County, New Mexico",
+   "name": "Project Jupiter",
+   "parties": [
+    {
+     "name": "Oracle",
+     "role": "Sponsor. Oracle America, Inc. is named as purchaser in the executed Series 2025C instruments."
+    },
+    {
+     "name": "Red Chiles A, B, C and D",
+     "role": "Project companies. Grantors on the November 2025 deeds of trust, parties to the IRB deeds and leasebacks."
+    },
+    {
+     "name": "Yucca Growth Infrastructure, LLC",
+     "role": "Project vehicle. Borrower on the Apollo Debt Solutions BDC first lien loan."
+    },
+    {
+     "name": "Green Chile Ventures LLC",
+     "role": "Project party named in the executed Series 2025B and 2025C instruments."
+    },
+    {
+     "name": "Do\u00f1a Ana County",
+     "role": "IRB issuer and title holder. The county holds title and leases the project back to the project companies."
+    },
+    {
+     "name": "El Paso Electric",
+     "role": "Territory utility. Counterparty to the proposed supplemental grid connection and energy services agreement."
+    },
+    {
+     "name": "Energy Transfer",
+     "role": "Applicant for the gas pipeline rejected at state level in July 2026."
+    },
+    {
+     "name": "Bloom Energy",
+     "role": "Supplier of the on site fuel cells in the Green Chile pipeline plan."
+    },
+    {
+     "name": "Blue Owl Capital",
+     "role": "Financier named in reporting. Recipient of the reported September 2026 force majeure notice."
+    },
+    {
+     "name": "Apollo Debt Solutions BDC",
+     "role": "Holder of the Yucca Growth first lien loan that matured September 18, 2026."
+    },
+    {
+     "name": "FERC",
+     "role": "Federal approval for the Green Chile pipeline. The expedite request is pending in the record."
+    }
+   ],
+   "slug": "project-jupiter",
+   "sponsor": "Oracle",
+   "sponsor_key": "oracle",
+   "stories": [
+    {
+     "slug": "2026-10-16-oracle-project-jupiter-pipeline-ferc",
+     "title": "Oracle presses FERC to expedite gas pipeline for Project Jupiter"
+    }
+   ],
+   "summary": [
+    "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Do\u00f1a Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
+    "Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."
+   ]
+  }
+ ]
+}
