@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-10-29T07:21:52-04:00
-last_updated: 2026-10-29T07:21:52-04:00
-kicker: "Overnight markets"
+last_updated: 2026-10-29T12:44:33-04:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "US natural gas jumped 8.34 percent to 3.05 dollars, a fifth straight sharp rebound against a record speculative short, while Brent fell 4.11 percent in the site tables snapshot."
-why_it_matters: "Energy is moving on positioning and freight rather than new supply news, and the hawkish Fed hold is lifting yields while squeezing the crowded gas short into winter."
+lede: "Alphabet fell 12.23 percent to 285.15 dollars in the midday tables, by far the largest move of the day, after third quarter earnings that showed search growth slowing and free cash flow negative on record AI spending."
+why_it_matters: "The midday tape is selective rather than broad: one earnings report is doing more damage than the Fed, energy is splitting between crude down and gas and freight up, and miners are falling harder than the metals they produce with the 10 year yield still at 5 percent."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,17 +15,23 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-29"
 tags: []
-data_as_of: "Market close October 28, 2026"
+data_as_of: "Midday October 29, 2026"
 ---
 
-US natural gas rose 8.34 percent to 3.05 dollars per million Btu in the site market tables, the fifth consecutive sharp rebound snapshot against the record money manager short position in the contract. No fundamental driver appears in this morning's reporting; the move remains a squeeze pattern against crowded positioning into winter (see the updated US natural gas story in today's commodities coverage).
+Alphabet fell 12.23 percent to 285.15 dollars, the largest move in the midday tables. Today's Google story covers the earnings behind it: search revenue growth slowed to 12 percent in the third quarter from 17 percent in the second, and free cash flow turned negative on 51.4 billion dollars of capital spending, even as cloud revenue rose 103 percent to 30.7 billion dollars (see today's story, "Google takes AI search advertising global as core growth slows").
 
-Brent crude fell 4.11 percent to 110.58 dollars a barrel in the tables snapshot, with WTI down 1.12 percent to 101.63 dollars. Session reporting diverged again, with Interfax putting Brent at 114.02 dollars in Thursday trading, and the two are not averaged. No new attack or confirmation on Ras Tanura appears in this morning's pool, and the official EIA data showed crude stocks down 1.9 million barrels with distillate 10 percent below the five year average (see today's Brent update and today's EIA story).
+Tanker freight rose 4.99 percent to 943.80 dollars. Today's Scorpio Tankers story reports fourth quarter LR2 bookings averaging 181,000 dollars a day, up from 72,283 dollars in the third quarter, as longer voyages and displaced vessels leave available tonnage scarce (see today's Scorpio Tankers story).
 
-Broadcom rose 2.77 percent and the semiconductor index rose 2.13 percent. This morning's technology reporting carries fresh AI spending news, including Google's Gemini 4 launch and the global expansion of AI search ads, but no Broadcom-specific development appears in the reporting, so no single driver is claimed for the chip move.
+US natural gas rose 4.76 percent to 2.95 dollars per million Btu. No fundamental driver appears in today's reporting; today's commodities roundup sets record US production against the record speculative short position, and the move still reads as a squeeze against that positioning into winter (see today's commodities roundup).
 
-Uranium miners rose 1.92 percent. No clear single driver appears in this morning's reporting; the sector's most recent hard news, on US uranium milling approvals, was published yesterday.
+Brent crude fell 4.50 percent to 110.13 dollars a barrel in the tables, with WTI down 1.59 percent to 101.15 dollars. No story in today's edition explains the fall: today's EIA story showed crude stocks down 1.9 million barrels, a supportive draw, and no new attack or supply confirmation appears in today's reporting (see today's EIA story).
 
-Silver fell 1.61 percent to 52.60 dollars an ounce and gold fell 0.33 percent to 4,038.10 dollars after the Federal Reserve held rates with two dissents in favour of a hike, a hawkish hold that pushed the 10 year Treasury yield up 5.2 basis points to 5.05 percent (see today's gold update and today's Fed story). Alphabet rose 1.34 percent on the morning its AI search ads expansion and Gemini 4 launch lead today's technology coverage.
+Meta rose 3.49 percent to 633.85 dollars. No story in today's edition explains the rise; today's technology roundup notes only the final terms of Meta's October 28 equity package filings.
 
-The cross-market read is positioning over fundamentals in energy and policy over growth in rates: gas squeezes higher with no supply news, crude softens in the snapshot despite tight distillate stocks and record tanker rates, and a Fed that held but leaned toward tightening lifts yields across the curve while precious metals slip and AI hardware keeps its bid.
+Amazon fell 3.23 percent to 246.38 dollars. No story in today's edition explains the fall.
+
+Rio Tinto fell 3.21 percent to 83.17 dollars with the rest of the mining complex. Its own news in today's edition was positive, the opening of 1.4 billion dollars of Argentina lithium projects, so no story in today's reporting explains the fall (see today's Rio Tinto story).
+
+Gold miners fell 3.04 percent, more than gold itself, down 0.65 percent to 4,025.30 dollars an ounce, with silver down 1.85 percent to 52.47 dollars. The pressure sits in rates: the Fed's hawkish hold and a core PCE reading steady at 3.1 percent keep a December hike priced, and the 10 year Treasury yield is at 5.00 percent in the midday tables (see today's Fed story and today's US growth and core PCE story).
+
+The cross-market read is selective selling, not a broad risk-off move. The S&P 500 is down 0.38 percent and the Nasdaq 100 down 1.38 percent, dragged by Alphabet and Amazon, while the DAX is up 1.42 percent, the STOXX 600 up 0.86 percent and the Russell 2000 up 1.15 percent in the same tables. Energy splits three ways, crude down, gas up and freight up, and yields eased a few basis points on the day without leaving the 5 percent area, which leaves the miners, not the broad market, under the most pressure.
