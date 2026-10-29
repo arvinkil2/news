@@ -2,14 +2,14 @@
 title: "France"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed hourly."
-data_as_of: "Oct 28, 8:11 PM ET"
+data_as_of: "Oct 28, 9:01 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 8:11 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 9:01 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>CAC 40 (index)</td><td class="num">7,887 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+0.51%</span></td><td class="num"><span class="up">+0.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.9 9.1,9.8 13.7,18.7 18.3,14.5 22.9,18.8 27.4,16.7 32.0,23.3 36.6,26.0 41.1,20.9 45.7,18.9 50.3,19.3 54.9,16.1 59.4,11.9 64.0,10.4 68.6,16.5 73.1,18.5 77.7,12.8 82.3,20.4 86.9,22.3 91.4,17.9 96.0,15.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI France (EWQ)</td><td class="num">$41.7400 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+0.55%</span></td><td class="num"><span class="down">-0.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,9.9 9.6,20.4 14.4,14.3 19.2,19.5 24.0,19.3 28.8,24.8 33.6,25.1 38.4,22.7 43.2,26.0 48.0,21.4 52.8,23.2 57.6,13.9 62.4,15.6 67.2,22.0 72.0,18.2 76.8,15.7 81.6,19.5 86.4,24.5 91.2,22.8 96.0,20.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1151 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.19%</span></td><td class="num"><span class="down">-0.75%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,5.2 8.7,6.5 13.1,14.1 17.5,13.7 21.8,17.4 26.2,13.8 30.5,19.0 34.9,17.8 39.3,18.6 43.6,23.0 48.0,18.7 52.4,19.6 56.7,17.8 61.1,16.6 65.5,17.5 69.8,16.4 74.2,15.6 78.5,17.0 82.9,17.3 87.3,21.7 91.6,26.0 96.0,23.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1140 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.09%</span></td><td class="num"><span class="down">-0.85%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,5.2 8.7,6.5 13.1,14.1 17.5,13.7 21.8,17.4 26.2,13.8 30.5,19.0 34.9,17.8 39.3,18.6 43.6,23.0 48.0,18.7 52.4,19.6 56.7,17.8 61.1,16.6 65.5,17.5 69.8,16.4 74.2,15.6 78.5,17.0 82.9,17.3 87.3,21.7 91.6,26.0 96.0,25.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>

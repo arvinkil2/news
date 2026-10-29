@@ -2,14 +2,14 @@
 title: "Switzerland"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Switzerland, refreshed hourly."
-data_as_of: "Oct 28, 8:11 PM ET"
+data_as_of: "Oct 28, 9:01 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 8:11 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 9:01 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>SMI (index)</td><td class="num">14,598 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+0.40%</span></td><td class="num"><span class="up">+0.82%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.1 4.6,18.9 9.1,20.9 13.7,26.0 18.3,25.1 22.9,24.0 27.4,21.9 32.0,21.4 36.6,25.7 41.1,21.9 45.7,19.7 50.3,18.5 54.9,13.5 59.4,8.1 64.0,7.1 68.6,7.6 73.1,4.9 77.7,3.1 82.3,3.2 86.9,5.3 91.4,3.4 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Switzerland (EWL)</td><td class="num">$63.40 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+0.76%</span></td><td class="num"><span class="up">+0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.3 4.8,24.4 9.6,26.0 14.4,24.0 19.2,23.8 24.0,23.7 28.8,23.2 33.6,23.9 38.4,21.4 43.2,22.6 48.0,20.7 52.8,17.8 57.6,10.3 62.4,9.1 67.2,10.2 72.0,5.2 76.8,4.6 81.6,2.0 86.4,5.1 91.2,5.8 96.0,3.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/CHF</td><td class="num">0.8287 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.01%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.0 4.4,4.3 8.7,2.0 13.1,9.8 17.5,13.5 21.8,8.9 26.2,7.3 30.5,6.1 34.9,8.5 39.3,10.8 43.6,4.4 48.0,6.7 52.4,8.2 56.7,13.9 61.1,20.0 65.5,15.4 69.8,17.2 74.2,19.7 78.5,26.0 82.9,20.0 87.3,14.4 91.6,12.4 96.0,12.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/CHF</td><td class="num">0.8292 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.05%</span></td><td class="num"><span class="down">-0.63%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.0 4.4,4.3 8.7,2.0 13.1,9.8 17.5,13.5 21.8,8.9 26.2,7.3 30.5,6.1 34.9,8.5 39.3,10.8 43.6,4.4 48.0,6.7 52.4,8.2 56.7,13.9 61.1,20.0 65.5,15.4 69.8,17.2 74.2,19.7 78.5,26.0 82.9,20.0 87.3,14.4 91.6,12.4 96.0,11.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>

@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed hourly."
-data_as_of: "Oct 28, 8:11 PM ET"
+data_as_of: "Oct 28, 9:01 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 8:11 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 9:01 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,686 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="down">-0.75%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.4 4.6,15.0 9.1,16.6 13.7,26.0 18.3,24.2 22.9,22.3 27.4,20.0 32.0,24.4 36.6,25.3 41.1,19.4 45.7,13.9 50.3,14.3 54.9,10.3 59.4,4.2 64.0,2.0 68.6,8.2 73.1,9.9 77.7,8.8 82.3,10.3 86.9,12.1 91.4,8.1 96.0,12.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.1900 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="down">-0.88%</span></td><td class="num"><span class="down">-1.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.1 4.8,18.8 9.6,26.0 14.4,22.7 19.2,22.6 24.0,20.6 28.8,25.5 33.6,22.2 38.4,18.9 43.2,16.8 48.0,15.5 52.8,14.5 57.6,4.8 62.4,2.0 67.2,9.6 72.0,4.8 76.8,5.6 81.6,3.9 86.4,7.5 91.2,6.5 96.0,11.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3317 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.08%</span></td><td class="num"><span class="down">-0.59%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.6 4.4,22.1 8.7,18.5 13.1,26.0 17.5,20.9 21.8,23.8 26.2,18.1 30.5,24.2 34.9,22.6 39.3,21.1 43.6,24.8 48.0,19.3 52.4,22.5 56.7,17.4 61.1,10.0 65.5,13.3 69.8,5.6 74.2,2.9 78.5,2.0 82.9,5.1 87.3,8.9 91.6,13.5 96.0,12.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3314 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.06%</span></td><td class="num"><span class="down">-0.61%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.6 4.4,22.1 8.7,18.5 13.1,26.0 17.5,20.9 21.8,23.8 26.2,18.1 30.5,24.2 34.9,22.6 39.3,21.1 43.6,24.8 48.0,19.3 52.4,22.5 56.7,17.4 61.1,10.0 65.5,13.3 69.8,5.6 74.2,2.9 78.5,2.0 82.9,5.1 87.3,8.9 91.6,13.5 96.0,12.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -21,9 +21,9 @@ data_as_of: "Oct 28, 8:11 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-uk-abolishes-gas-standing-charges/">Britain to abolish standing charges on household gas bills</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-life-sciences-also-notable/">Life sciences also notable: Adlai ENA slot, UK vaccine withdrawal</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-iluka-eneabba-refinery-65-percent/">Iluka Eneabba rare earths refinery reaches 65 percent construction</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-khnp-ends-dukovany-construction-talks/">KHNP ends Dukovany construction talks with Daewoo, Doosan</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-cma-invites-comment-prologis-segro/">UK regulator invites comment on Prologis bid for SEGRO</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-stubb-store-putin-call-ukraine/">Finland and Norway leaders call Putin on Ukraine war</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-mahama-moscow-russia-africa-summit/">Mahama arrives in Moscow to press Putin on Ukraine ceasefire</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-uk-eu-free-movement-summit-options/">UK officials discuss EU options including free movement before summit</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-life-sciences-also-notable/">Life sciences also notable: GSK oncology, Treasury China rules, UK recall</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
