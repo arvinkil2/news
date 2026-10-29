@@ -12,6 +12,9 @@ data_as_of: ""
 <thead><tr><th>Project</th><th>Sponsor</th><th>Latest development</th><th>What happened</th></tr></thead>
 <tbody>
 <tr><td data-v="Project Jupiter"><a class="bond-link" href="/projects/project-jupiter/"><span class="bond-name">Project Jupiter</span><span class="bond-sub">Santa Teresa, Doña Ana County, New Mexico</span></td><td data-v="Oracle">Oracle</td><td data-v="2026-10-27">27 Oct 2026</td><td data-v="">County authorizes a potential breach notice</td></tr>
+<tr><td data-v="Hyperion"><a class="bond-link" href="/projects/hyperion/"><span class="bond-name">Hyperion</span><span class="bond-sub">Richland Parish, Louisiana</span></td><td data-v="Meta Platforms (20% owner, tenant); Blue Owl Capital funds (80%)">Meta Platforms (20% owner, tenant); Blue Owl Capital funds (80%)</td><td data-v="2026-07-13">13 Jul 2026</td><td data-v="">Meta expands Hyperion to 5 GW</td></tr>
+<tr><td data-v="Sopaipilla"><a class="bond-link" href="/projects/sopaipilla/"><span class="bond-name">Sopaipilla</span><span class="bond-sub">El Paso, Texas</span></td><td data-v="Meta Platforms (20% owner, tenant); BlackRock funds via GIP and HPS (80%)">Meta Platforms (20% owner, tenant); BlackRock funds via GIP and HPS (80%)</td><td data-v="2026-07-28">28 Jul 2026</td><td data-v="">Meta announces the BlackRock joint venture</td></tr>
+<tr><td data-v="Galaxy Helios"><a class="bond-link" href="/projects/galaxy-helios/"><span class="bond-name">Galaxy Helios</span><span class="bond-sub">Dickens County, Texas</span></td><td data-v="Galaxy Digital Inc. (owner and operator); CoreWeave, sole tenant">Galaxy Digital Inc. (owner and operator); CoreWeave, sole tenant</td><td data-v="2026-10-27">27 Oct 2026</td><td data-v="">Q3 2026: first full quarter of Phase I revenue</td></tr>
 </tbody></table></div>
 
 <script>

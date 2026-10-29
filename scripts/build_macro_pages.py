@@ -2803,6 +2803,9 @@ PROJECT_PARTY_COLS = [("Party", 320, 160, False),
                       ("Role", 560, 220, False)]
 PROJECT_INST_COLS = [("Instrument", 300, 160, False),
                      ("Terms on record", 620, 240, False)]
+PROJECT_BOND_COLS = [("Bond", 340, 180, False),
+                     ("CUSIP", 110, 96, False),
+                     ("Terms on record", 470, 200, False)]
 
 
 def project_pages():
@@ -2843,6 +2846,28 @@ def project_pages():
                      for x in parties]
             out.append(_grid(f'proj-p-{pr["slug"]}',
                              PROJECT_PARTY_COLS, prows,
+                             sortable=False))
+        pbonds = pr.get("bonds") or []
+        if pbonds:
+            out.append("<h2>Bonds</h2>")
+            brows = []
+            for x in pbonds:
+                cus = (x.get("cusip") or "").strip()
+                lab = esc(x["label"])
+                if cus and cus.upper() != "N/A":
+                    cell = (f'<a href="/leverage/bond/'
+                            f'{esc(cus.lower())}/">{lab}</a>')
+                    ccell = esc(cus)
+                else:
+                    cell = lab
+                    ccell = "none on record"
+                brows.append(
+                    f'<tr><td data-v="{esc(x["label"])}">{cell}</td>'
+                    f'<td data-v="{esc(cus)}">{ccell}</td>'
+                    f'<td data-v="">{esc(x.get("terms") or "")}</td>'
+                    f'</tr>')
+            out.append(_grid(f'proj-b-{pr["slug"]}',
+                             PROJECT_BOND_COLS, brows,
                              sortable=False))
         insts = pr.get("instruments") or []
         if insts:

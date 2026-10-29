@@ -191,6 +191,374 @@
     "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Do\u00f1a Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
     "Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."
    ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "076912AA2",
+     "label": "Beignet Investor LLC 6.581% senior secured notes due 2049",
+     "terms": "144A tranche of the $27.294B single-tranche issue, priced October 16, 2025 at Treasuries plus 225bp. S&P A+. Last print 92.93 on October 29, 2026; latest fund mark 102.06, period ended June 30, 2026."
+    },
+    {
+     "cusip": "U06930AA6",
+     "label": "Beignet Investor LLC 6.581% senior secured notes due 2049 (Reg S)",
+     "terms": "Reg S tranche of the same issue. Last print 92.68 on October 28, 2026."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2024-12-04",
+     "detail": "Meta and Louisiana Economic Development announce the Richland Parish campus; site work begins the same month. Initial reported cost above $10 billion.",
+     "grade": "C",
+     "source_label": "American Buildout tracker",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Meta announces the Hyperion campus"
+    },
+    {
+     "date": "2025-08-20",
+     "detail": "The Louisiana Public Service Commission approves Entergy's first three gas plants and transmission for the site, docket U-37425.",
+     "grade": "C",
+     "source_label": "American Buildout tracker",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Louisiana PSC approves Entergy gas plants for the site"
+    },
+    {
+     "date": "2025-10-16",
+     "detail": "Beignet Investor LLC prices $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 at Treasuries plus 225 basis points, rated A+ by S&P, the largest single-tranche private debt offering on record.",
+     "grade": "B",
+     "source_label": "IFR",
+     "source_url": "https://www.ifre.com/ifr-awards/2327933/financing-package-blue-owl-capitalbeignet-investors-us27.3bn-23.6-year-bond",
+     "title": "Beignet Investor prices $27.294 billion of notes"
+    },
+    {
+     "date": "2025-10-21",
+     "detail": "Blue Owl funds take 80 percent and Meta 20 percent of the venture, with about $27 billion of committed development costs, a Blue Owl cash contribution of about $7 billion, a one-time distribution to Meta of about $3 billion, and a residual value guarantee covering roughly the first 16 years.",
+     "grade": "B",
+     "source_label": "Meta press release",
+     "source_url": "https://www.webwire.com/ViewPressRel.asp?aId=345656",
+     "title": "Meta announces the Blue Owl joint venture"
+    },
+    {
+     "date": "2026-07-13",
+     "detail": "Meta announces the expansion of Hyperion to 5 GW, with total planned investment above $50 billion, about 2 GW expected online by 2030 and full buildout around 2032.",
+     "grade": "B",
+     "source_label": "Meta announcement, per Reuters",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Meta expands Hyperion to 5 GW"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "Richland Parish, Louisiana"
+    ],
+    [
+     "Ownership",
+     "Blue Owl Capital funds 80 percent; Meta 20 percent"
+    ],
+    [
+     "Tenant",
+     "Meta Platforms, sole tenant, construction and property manager"
+    ],
+    [
+     "Financing",
+     "$27.294B of 6.581% notes due 2049, issued by Beignet Investor LLC"
+    ],
+    [
+     "Site",
+     "2,250 acres; expanding to 5 GW; total planned investment above $50B"
+    ]
+   ],
+   "index_lede": "Meta's Louisiana AI campus, owned 80/20 by Blue Owl funds and Meta and financed with $27.3 billion of Beignet Investor notes due 2049.",
+   "instruments_note": "The registry also carries an unverified line, PROJECT BEIGNET 6.85% due 06/01/49, which matches nothing in public reporting; it is not listed as a bond of this project.",
+   "issuer_groups": [
+    "beignet",
+    "meta"
+   ],
+   "location": "Richland Parish, Louisiana",
+   "name": "Hyperion",
+   "parties": [
+    {
+     "name": "Beignet Investor LLC",
+     "role": "Issuer of the $27.294B notes; bankruptcy-remote SPV"
+    },
+    {
+     "name": "Project Beignet Holdings LLC",
+     "role": "The joint venture company (structure per deal reporting)"
+    },
+    {
+     "name": "Blue Owl Capital funds",
+     "role": "80 percent owner; about $7B cash contribution at close"
+    },
+    {
+     "name": "Meta Platforms",
+     "role": "20 percent owner; sole tenant; residual value guarantor"
+    },
+    {
+     "name": "Entergy Louisiana",
+     "role": "Power supply; first three gas plants approved August 2025"
+    },
+    {
+     "name": "Morgan Stanley",
+     "role": "Sole bookrunner on the notes"
+    }
+   ],
+   "slug": "hyperion",
+   "sponsor": "Meta Platforms (20% owner, tenant); Blue Owl Capital funds (80%)",
+   "sponsor_url": "/leverage/issuer/meta/",
+   "summary": [
+    "Hyperion is Meta's flagship AI data center campus in Richland Parish, Louisiana, a 2,250-acre site announced in December 2024 at an initially reported cost above $10 billion. In October 2025 Meta moved the campus into a joint venture owned 80 percent by funds managed by Blue Owl Capital and 20 percent by Meta, with about $27 billion of committed development costs; Blue Owl funds contributed about $7 billion in cash and Meta received a one-time distribution of about $3 billion.",
+    "The venture's issuer, Beignet Investor LLC, sold $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 in October 2025, the largest single-tranche private debt offering on record. Meta leases the campus under operating leases with a four-year initial term and extension options, backed by a residual value guarantee covering roughly the first 16 years. In July 2026 Meta announced an expansion to 5 GW, taking total planned investment above $50 billion."
+   ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "83577VAA8",
+     "label": "Sopaipilla Investor LLC 7.534% senior secured notes due 2048",
+     "terms": "144A tranche of the $12.547B single-tranche issue, priced July 27, 2026 at Treasuries plus 287.5bp. S&P A+ and Fitch AA-, stable outlooks. Last print 100.29 on October 29, 2026; latest fund mark 103.65, period ended July 31, 2026."
+    },
+    {
+     "cusip": "U8358CAA9",
+     "label": "Sopaipilla Inv LLC 7.534% senior secured notes due 2048 (Reg S)",
+     "terms": "Reg S tranche of the same issue."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2025-10-15",
+     "detail": "Meta announces a $1.5 billion first phase on about 1,000 acres in northeast El Paso, scalable to 1 GW, online 2028, with about 1,800 peak construction workers and about 100 permanent jobs.",
+     "grade": "B",
+     "source_label": "Meta announcement, per Reuters",
+     "source_url": "https://www.constructionequipmentguide.com/meta-platforms-commits-15b-for-texas-ai-data-center/69608",
+     "title": "Meta announces the El Paso campus and breaks ground"
+    },
+    {
+     "date": "2026-03-26",
+     "detail": "Meta lifts the planned El Paso investment to about $10 billion in total, with about 300 operational jobs and up to 4,000 peak construction workers.",
+     "grade": "B",
+     "source_label": "Meta expansion update, per Data Center Dynamics",
+     "source_url": "https://elpasoinfocus.com/briefing",
+     "title": "Meta raises planned campus investment to about $10 billion"
+    },
+    {
+     "date": "2026-07-27",
+     "detail": "Sopaipilla Investor LLC prices $12.547 billion of 7.534 percent amortizing notes due November 30, 2048 at Treasuries plus 287.5 basis points, rated A+ by S&P and AA- by Fitch, run by JPMorgan and Morgan Stanley.",
+     "grade": "B",
+     "source_label": "PitchBook",
+     "source_url": "https://pitchbook.com/news/articles/investors-flock-to-12-5b-data-center-bond-deal-for-blackrock-sponsored-sopaipilla",
+     "title": "Sopaipilla Investor prices $12.547 billion of notes"
+    },
+    {
+     "date": "2026-07-28",
+     "detail": "BlackRock funds take 80 percent and Meta 20 percent, with about $14 billion of total development costs, a BlackRock cash contribution of about $4.9 billion, Meta land and construction in progress of about $2.3 billion, a $1 billion one-time distribution to Meta, and a residual value guarantee threshold of about $13 billion declining over the first 16 years.",
+     "grade": "B",
+     "source_label": "Meta press release, per multiple reports",
+     "source_url": "https://elpasoinfocus.com/briefing",
+     "title": "Meta announces the BlackRock joint venture"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "El Paso, Texas"
+    ],
+    [
+     "Ownership",
+     "BlackRock funds (GIP, HPS) 80 percent; Meta 20 percent"
+    ],
+    [
+     "Tenant",
+     "Meta Platforms, sole tenant under triple-net leases from 2028"
+    ],
+    [
+     "Financing",
+     "$12.547B of 7.534% notes due 2048, issued by Sopaipilla Investor LLC"
+    ],
+    [
+     "Capacity",
+     "960 MW planned; campus designed to scale to 1 GW; online 2028"
+    ]
+   ],
+   "index_lede": "Meta's El Paso campus, owned 80/20 by BlackRock funds and Meta and financed with $12.5 billion of Sopaipilla Investor notes due 2048.",
+   "issuer_groups": [
+    "sopaipilla",
+    "meta"
+   ],
+   "location": "El Paso, Texas",
+   "name": "Sopaipilla",
+   "parties": [
+    {
+     "name": "Sopaipilla Investor LLC",
+     "role": "Issuer of the $12.547B notes"
+    },
+    {
+     "name": "Project Sopaipilla Holdings LLC",
+     "role": "The joint venture holding company"
+    },
+    {
+     "name": "BlackRock (GIP, HPS Investment Partners)",
+     "role": "80 percent owner; about $4.9B cash contribution"
+    },
+    {
+     "name": "Meta Platforms",
+     "role": "20 percent owner; sole tenant; residual value guarantor"
+    },
+    {
+     "name": "Wurldwide LLC",
+     "role": "Meta subsidiary named on Texas site development filings"
+    },
+    {
+     "name": "El Paso Electric",
+     "role": "Local utility; proposed 366 MW McCloud gas facility contested locally"
+    }
+   ],
+   "slug": "sopaipilla",
+   "sponsor": "Meta Platforms (20% owner, tenant); BlackRock funds via GIP and HPS (80%)",
+   "sponsor_url": "/leverage/issuer/meta/",
+   "summary": [
+    "Sopaipilla is the financing structure for Meta's AI data center campus in northeast El Paso, Texas, announced in October 2025 as a $1.5 billion first phase on about 1,000 acres, designed to scale to 1 GW and come online in 2028. Meta raised the planned investment to about $10 billion in March 2026.",
+    "In July 2026 Meta placed the campus into a joint venture owned 80 percent by funds managed by BlackRock, through Global Infrastructure Management and HPS Investment Partners, and 20 percent by Meta, with about $14 billion of total development costs. The venture's issuer, Sopaipilla Investor LLC, sold $12.547 billion of 7.534 percent senior secured notes due November 30, 2048, secured by Meta's lease payments. The campus is planned at 960 MW."
+   ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "36322DAA4",
+     "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031",
+     "terms": "From the $3.507B single offering priced July 23, 2026 and closed July 28, 2026, sold under Rule 144A and Regulation S. Last print 94.25 on October 29, 2026; latest fund mark 100.27, period ended July 31, 2026."
+    },
+    {
+     "cusip": "U3190CAA2",
+     "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031 (Reg S)",
+     "terms": "Second CUSIP on the same $3.507B offering; the registry's split of the two CUSIPs across two entity names is under review against the offering documents, which name a single issuer. Last print 90.50 on October 22, 2026."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2022-12-28",
+     "detail": "Galaxy acquires the Helios facility and real property in Dickens County from Argo Blockchain for $65 million.",
+     "grade": "B",
+     "source_label": "Argo Blockchain announcement",
+     "source_url": "https://www.argoblockchain.com/news-room/2022-december-helios-sale-to-galaxy",
+     "title": "Galaxy acquires the Helios site from Argo Blockchain"
+    },
+    {
+     "date": "2025-03-28",
+     "detail": "Galaxy announces the Phase I lease with CoreWeave: 133 MW of critical IT load on a 15-year term, with about $4.5 billion of expected total revenue over the term.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release, per Data Center Dynamics",
+     "source_url": "https://www.datacenterdynamics.com/en/news/galaxy-digital-pivots-from-crypto-to-ai-signs-200mw-deal-with-coreweave/",
+     "title": "Phase I lease signed with CoreWeave"
+    },
+    {
+     "date": "2025-08-15",
+     "detail": "Galaxy closes the $1.4 billion Phase I project facility, announces the executed Phase II lease, and announces CoreWeave's exercise of the final Phase III option, taking commitments to 526 MW of critical IT load.",
+     "grade": "A",
+     "source_label": "Galaxy Digital release and Form 8-K",
+     "source_url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+     "title": "Phase I financing closes; CoreWeave commits to all three phases"
+    },
+    {
+     "date": "2026-01-15",
+     "detail": "Following the Large Load Interconnection Study, ERCOT approves an additional 830 MW and Galaxy signs a service agreement with AEP Texas, taking total approved and contracted capacity to 1.63 GW.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release",
+     "source_url": "https://investor.galaxy.com/static-files/1cf65341-3f6a-4b2c-8341-a88f609de2b0",
+     "title": "ERCOT approves a further 830 MW"
+    },
+    {
+     "date": "2026-07-06",
+     "detail": "Galaxy completes Phase I and delivers all 133 MW of critical IT load to CoreWeave; rent commenced in the second quarter of 2026.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release",
+     "source_url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+     "title": "Phase I completed and delivered to CoreWeave"
+    },
+    {
+     "date": "2026-07-23",
+     "detail": "Galaxy Helios Data Centers II LLC prices $3.507 billion of 9.875 percent senior secured notes due 2031 to finance part of Phase II; the offering closes on July 28, 2026.",
+     "grade": "B",
+     "source_label": "Galaxy Digital pricing release",
+     "source_url": "https://www.prnewswire.com/news-releases/galaxy-digital-inc-announces-pricing-of-3-507-billion-of-senior-secured-notes-302833899.html",
+     "title": "Phase II notes priced at $3.507 billion"
+    },
+    {
+     "date": "2026-10-27",
+     "detail": "Galaxy reports net income of $323 million, Data Centers adjusted gross profit of $79 million and adjusted EBITDA of $69 million, with Phase II fully financed, under construction, on schedule and within budget, and tenant discussions under way for the unleased 830 MW.",
+     "grade": "A",
+     "source_label": "Galaxy Digital Form 8-K (0001859392-26-000108)",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm",
+     "title": "Q3 2026: first full quarter of Phase I revenue"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "Dickens County, Texas"
+    ],
+    [
+     "Owner and operator",
+     "Galaxy Digital Inc."
+    ],
+    [
+     "Tenant",
+     "CoreWeave, 526 MW of critical IT load across three phases, 15-year leases"
+    ],
+    [
+     "Approved power",
+     "1.63 GW gross (800 MW Helios I; 830 MW Helios II, unleased)"
+    ],
+    [
+     "Financing",
+     "$1.4B Phase I term loan due 2028; $3.507B of 9.875% notes due 2031"
+    ]
+   ],
+   "index_lede": "Galaxy Digital's West Texas campus, leased to CoreWeave for 526 MW across three phases and financed with a $1.4 billion project loan and $3.5 billion of notes due 2031.",
+   "instruments": [
+    {
+     "detail": "Borrower Galaxy Helios I LLC; closed August 15, 2025, maturing August 15, 2028. One-month Term SOFR with a 2.50 percent floor plus 4.75 percent; initial lender Deutsche Bank AG, New York Branch; agent GLAS USA LLC. Maximum loan-to-cost 80 percent; Galaxy provided the $350 million equity requirement. The registry baseline records $1.3 billion drawn at Q2 2026.",
+     "name": "Phase I senior secured term loan, $1.4B"
+    }
+   ],
+   "issuer_groups": [
+    "helios"
+   ],
+   "location": "Dickens County, Texas",
+   "name": "Galaxy Helios",
+   "parties": [
+    {
+     "name": "Galaxy Digital Inc.",
+     "role": "Sponsor, owner, developer and operator"
+    },
+    {
+     "name": "CoreWeave Inc.",
+     "role": "Sole tenant for Helios I, all three phases"
+    },
+    {
+     "name": "Galaxy Helios Data Centers II LLC",
+     "role": "Issuer of the $3.507B Phase II notes"
+    },
+    {
+     "name": "Galaxy Helios I LLC",
+     "role": "Borrower under the $1.4B Phase I facility"
+    },
+    {
+     "name": "Deutsche Bank AG, New York Branch",
+     "role": "Initial lender under the Phase I facility"
+    },
+    {
+     "name": "ERCOT and AEP Texas",
+     "role": "Grid approval and utility service for the 1.63 GW"
+    }
+   ],
+   "slug": "galaxy-helios",
+   "sponsor": "Galaxy Digital Inc. (owner and operator); CoreWeave, sole tenant",
+   "sponsor_url": "/leverage/issuer/helios/",
+   "summary": [
+    "Helios is Galaxy Digital's data center campus in Dickens County, West Texas, converted from a Bitcoin mining site Galaxy acquired from Argo Blockchain in December 2022 for about $65 million. CoreWeave is the sole tenant for Helios I: 526 MW of critical IT load across three phases, using 800 MW of gross power, each phase on a 15-year base lease term.",
+    "Phase I (133 MW) was completed and fully delivered to CoreWeave by July 2026. Phase II (260 MW) is under construction, financed in July 2026 with $3.507 billion of 9.875 percent senior secured notes due 2031 issued by Galaxy Helios Data Centers II LLC, with data hall deliveries scheduled to begin in the second quarter of 2027. The campus holds 1.63 GW of ERCOT-approved gross power, including a further 830 MW approved in January 2026 that was not under lease at the third quarter of 2026."
+   ]
   }
  ]
 }
