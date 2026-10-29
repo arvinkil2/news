@@ -1,7 +1,7 @@
 ---
 title: "Report links Nvidia customer executive to Chinese intelligence gathering"
 date: 2026-10-29T09:44:22-04:00
-last_updated: 2026-10-29T09:44:22-04:00
+last_updated: 2026-10-29T09:46:17-04:00
 update_bump: true
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
@@ -24,6 +24,6 @@ tags: []
 data_as_of: "Single underlying source: The New York Times report of October 29, 2026, as summarised by Investing.com and read in full via the live browser in this run. The intelligence conclusions, the surveillance account and the trade records figure are the Times' reporting and are not independently corroborated in this run. No response from Alice Huang, Megaspeed or Beijing is reported in that coverage. Developing item."
 ---
 
-United States intelligence agencies concluded that Alice Huang, an executive at Singapore-based data centre company Megaspeed, was gathering intelligence for Beijing, The New York Times reported on Thursday. Megaspeed is suspected by United States officials of helping Chinese companies gain access to advanced computing capacity through data centres in Southeast Asia, and trade records cited by the Times put purchases by its Malaysian affiliate at at least 4.8 billion dollars of AI equipment containing Nvidia chips between June 2024 and February 2026. Surveillance reportedly showed Alice Huang had developed a close relationship with Nvidia chief executive Jensen Huang, raising concern about access to sensitive information, though the report does not establish that he knowingly assisted intelligence gathering or shared confidential information.
+United States intelligence agencies concluded that Alice Huang, an executive at Singapore-based data centre company Megaspeed, was gathering intelligence for Beijing, The New York Times reported on Thursday. Megaspeed is suspected by United States officials of helping Chinese companies gain access to advanced computing capacity through data centres in Southeast Asia, and trade records cited by the Times put purchases by its Malaysian affiliate at least 4.8 billion dollars of AI equipment containing Nvidia chips between June 2024 and February 2026. Surveillance reportedly showed Alice Huang had developed a close relationship with Nvidia chief executive Jensen Huang, raising concern about access to sensitive information, though the report does not establish that he knowingly assisted intelligence gathering or shared confidential information.
 
 Nvidia said its interactions with Alice Huang were ordinary business dealings, that customers such as Megaspeed receive no sensitive trade secrets or information relevant to national security, and that it complies with United States law. The Times also reported that President Donald Trump was briefed on the findings roughly a year ago and chose not to act, citing concerns about disrupting Nvidia's chip sales and complicating trade relations with China. No response from Alice Huang, Megaspeed or Beijing was reported in the coverage read in this run.
