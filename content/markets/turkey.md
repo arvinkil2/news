@@ -2,14 +2,14 @@
 title: "Turkey"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Turkey, refreshed hourly."
-data_as_of: "Oct 29, 4:02 AM ET"
+data_as_of: "Oct 29, 5:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 4:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 5:03 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>BIST 100 (index)</td><td class="num">11,165 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="up">+0.13%</span></td><td class="num"><span class="down">-3.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,6.9 8.7,12.5 13.1,7.6 17.5,7.2 21.8,4.4 26.2,5.6 30.5,9.6 34.9,8.2 39.3,7.3 43.6,9.2 48.0,7.6 52.4,9.7 56.7,10.5 61.1,16.2 65.5,20.9 69.8,14.9 74.2,18.5 78.5,24.3 82.9,26.0 87.3,25.4 91.6,25.4 96.0,25.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Turkey (TUR)</td><td class="num">$30.7700 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.19%</span></td><td class="num"><span class="down">-4.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,7.7 9.1,4.1 13.7,4.8 18.3,2.1 22.9,3.7 27.4,7.4 32.0,6.9 36.6,5.7 41.1,7.6 45.7,5.9 50.3,8.6 54.9,9.1 59.4,15.6 64.0,19.6 68.6,14.8 73.1,17.4 77.7,23.7 82.3,26.0 86.9,25.4 91.4,25.3 96.0,25.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TRY</td><td class="num">49.8325 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.07%</span></td><td class="num"><span class="down">-0.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,25.7 8.7,25.1 13.1,22.5 17.5,21.4 21.8,21.9 26.2,20.3 30.5,19.8 34.9,16.8 39.3,16.3 43.6,16.2 48.0,16.1 52.4,14.3 56.7,10.9 61.1,10.9 65.5,9.6 69.8,9.1 74.2,8.0 78.5,4.9 82.9,4.7 87.3,3.5 91.6,3.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TRY</td><td class="num">49.8338 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.07%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,25.7 8.7,25.1 13.1,22.5 17.5,21.5 21.8,21.9 26.2,20.3 30.5,19.8 34.9,16.8 39.3,16.3 43.6,16.2 48.0,16.1 52.4,14.3 56.7,10.9 61.1,10.9 65.5,9.6 69.8,9.1 74.2,8.1 78.5,5.0 82.9,4.7 87.3,3.5 91.6,3.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
