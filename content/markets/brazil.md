@@ -2,13 +2,13 @@
 title: "Brazil"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed hourly."
-data_as_of: "Oct 29, 4:04 PM ET"
+data_as_of: "Oct 29, 5:15 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 4:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 5:15 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Ibovespa (index)</td><td class="num">169,364 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.96%</span></td><td class="num"><span class="down">-17.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.3 4.6,15.7 9.1,15.2 13.7,12.2 18.3,3.3 22.9,4.0 27.4,4.9 32.0,3.7 36.6,2.0 41.1,3.3 45.7,3.5 50.3,4.9 54.9,4.2 59.4,4.4 64.0,2.5 68.6,3.6 73.1,5.0 77.7,4.4 82.3,21.6 86.9,22.2 91.4,25.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$33.1500 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-1.41%</span></td><td class="num"><span class="down">-20.80%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.5 4.6,16.8 9.1,14.4 13.7,3.3 18.3,3.2 22.9,4.7 27.4,4.2 32.0,2.0 36.6,2.0 41.1,3.5 45.7,4.2 50.3,6.5 54.9,5.9 59.4,5.7 64.0,3.4 68.6,4.4 73.1,5.9 77.7,4.2 82.3,23.7 86.9,23.3 91.4,24.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Ibovespa (index)</td><td class="num">169,186 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-1.06%</span></td><td class="num"><span class="down">-17.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.2 4.6,15.7 9.1,15.2 13.7,12.2 18.3,3.3 22.9,3.9 27.4,4.9 32.0,3.7 36.6,2.0 41.1,3.3 45.7,3.5 50.3,4.9 54.9,4.2 59.4,4.4 64.0,2.5 68.6,3.5 73.1,5.0 77.7,4.4 82.3,21.5 86.9,22.1 91.4,24.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$33.1400 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-1.43%</span></td><td class="num"><span class="down">-20.81%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.5 4.6,16.8 9.1,14.3 13.7,3.3 18.3,3.2 22.9,4.7 27.4,4.2 32.0,2.0 36.6,2.0 41.1,3.5 45.7,4.2 50.3,6.5 54.9,5.9 59.4,5.7 64.0,3.4 68.6,4.4 73.1,5.9 77.7,4.2 82.3,23.7 86.9,23.3 91.4,24.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/BRL</td><td class="num">5.3744 <span class="gm-sub-inline">as of 2026-10-29 (Banco Central do Brasil)</span></td><td class="num"><span class="down">-0.61%</span></td><td class="num"><span class="down">-6.67%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.3 5.6,26.0 11.3,24.9 16.9,24.1 22.6,25.1 28.2,24.2 33.9,22.6 39.5,22.3 45.2,20.9 50.8,22.1 56.5,24.0 62.1,23.4 67.8,22.9 73.4,22.9 79.1,2.0 84.7,9.5 90.4,9.2 96.0,7.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
