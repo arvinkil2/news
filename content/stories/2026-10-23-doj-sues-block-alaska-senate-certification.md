@@ -1,12 +1,12 @@
 ---
 title: "Justice Department sues to block Alaska Senate certification"
 date: 2026-10-23T12:18:52-04:00
-last_updated: 2026-10-27T07:12:59-04:00
+last_updated: 2026-10-29T07:07:15-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Mary Peltola's campaign has asked a federal judge to dismiss the Justice Department's Alaska certification suit as wholly baseless, and Judge Sharon Gleason agreed on Monday to fast-track the case, with the campaign asking for a ruling this week."
+lede: "Democrat Mary Peltola's campaign reportedly recruited a second Dan Sullivan as a spoiler in Alaska's Senate race, The Guardian reported, as President Trump called for her to be banned and Alaska's Republican led government asked a court to block the Justice Department's own certification lawsuit."
 why_it_matters: "The case now has a timetable that could produce a ruling before the November 3 vote, which decides whether the department's pre-emptive certification challenge survives first contact with a court or is thrown out before a single ballot is counted."
 featured: false
 evidence_grade: "B"
@@ -51,10 +51,24 @@ sources:
     publisher: "Reuters"
     url: "https://duke.fm/2026/10/26/alaska-democratic-senate-candidate-peltola-asks-judge-to-toss-us-lawsuit-over-certification/"
     published: "2026-10-26"
+  - title: "Democrat Mary Peltola's campaign reportedly recruited second Dan Sullivan in Alaska Senate race"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate"
+    published: "2026-10-28"
+  - title: "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/"
+    published: "2026-10-29"
+  - title: "Alaska's GOP-led government asks court to block DOJ Senate race certification lawsuit"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/"
+    published: "2026-10-28"
 tags: []
-data_as_of: "Update, October 27, 2026: the dismissal filing, the campaign's wording and Judge Gleason's fast-track decision are as reported by Reuters on October 26, 2026; the court filing itself was not read in this run. Update, October 26, 2026, 07:11 ET: Blanche's Sunday remarks are as reported by NPR on October 25, 2026 and by CNBC on October 25, 2026, both covering his CNN and CBS appearances; the Peltola car crash item is The Guardian's report of October 25, 2026. Updated 2026-10-25, 2026: motions to intervene filed Friday, October 23, 2026, in United States v. Alaska, US District Court for the District of Alaska, per the ACLU case page, the Common Cause release of October 23, 2026 and The Hill report of October 25, 2026; Deputy Attorney General Blanche remarks as reported by The Hill on October 24, 2026. Election Day is November 3, 2026; Alaska plans its initial ranked choice tabulation on November 18, 2026. Developing item."
+data_as_of: "Update 2026-10-29T07:07:15-04:00: the spoiler recruitment allegation is The Guardian's report of October 28, 2026 in the feed pool, also carried by Fox News; it is an allegation about the Peltola campaign, not a finding, and Daniel J. Sullivan has previously denied any connection to Democrats (below). Trump's ban and prosecution calls are from The Hill and Arab News in the feed pool. The Alaska government's move against the DOJ suit is The Hill, October 28, 2026. None of the three items was opened in full in this run. Update, October 27, 2026: the dismissal filing, the campaign's wording and Judge Gleason's fast-track decision are as reported by Reuters on October 26, 2026; the court filing itself was not read in this run. Update, October 26, 2026, 07:11 ET: Blanche's Sunday remarks are as reported by NPR on October 25, 2026 and by CNBC on October 25, 2026, both covering his CNN and CBS appearances; the Peltola car crash item is The Guardian's report of October 25, 2026. Updated 2026-10-25, 2026: motions to intervene filed Friday, October 23, 2026, in United States v. Alaska, US District Court for the District of Alaska, per the ACLU case page, the Common Cause release of October 23, 2026 and The Hill report of October 25, 2026; Deputy Attorney General Blanche remarks as reported by The Hill on October 24, 2026. Election Day is November 3, 2026; Alaska plans its initial ranked choice tabulation on November 18, 2026. Developing item."
 update_bump: true
 ---
+
+**Latest, October 29:** The Alaska race has acquired a second front. The Guardian reported that Mary Peltola's campaign and Democrats backed a covert scheme to field spoiler candidates, specifically recruiting a second Dan Sullivan, a retired teacher whose near identical name to Senator Dan Sullivan is the entire basis of the Justice Department lawsuit below. Fox News carried the same allegation. President Trump called the alleged scheme voter fraud at the highest level, called for Peltola to be banned from the race and, per Arab News, for her prosecution. In a separate twist, Alaska's Republican led state government asked the court to block the Justice Department's certification lawsuit, The Hill reported, putting the state and the federal government on opposite sides of a case the president says he personally ordered. The recruitment claim is reported, not adjudicated: Daniel J. Sullivan has denied any Democratic connection, and no court has ruled on either the scheme allegation or the certification suit.
 
 **Latest, October 26:** Mary Peltola's campaign moved from intervening to asking for the case to be thrown out. In a court filing late on Sunday, lawyers for Peltola's campaign and the Democratic Senatorial Campaign Committee said the lawsuit, which alleges voters could be confused because two candidates on the ballot have almost identical names, is an unlawful attempt by the federal government to intervene in election administration, a responsibility the Constitution assigns to the states, Reuters reported. "DOJ's complaint is wholly baseless. The fact that DOJ nonetheless chose to file it raises profound constitutional concerns," the lawyers wrote. US District Judge Sharon Gleason on Monday agreed to fast-track the case but did not say when she would rule on the Justice Department's request; Peltola's campaign has asked for a ruling this week. Reuters noted that election law experts have said the lawsuit has no merit and seeks relief not allowed under federal law.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hedge funds hold record short in US natural gas"
 date: 2026-10-24T07:03:09-04:00
-last_updated: 2026-10-28T07:04:12-04:00
+last_updated: 2026-10-29T07:14:34-04:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "story"
@@ -19,7 +19,7 @@ sources:
     url: "https://schwabnetwork.com/articles/what-could-influence-natural-gas-this-winter"
     published: "2026-10-19"
 tags: []
-data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. CFTC Commitments of Traders data released Friday, October 23, 2026, as reported by Bloomberg the same day; the 599,731 figure is short only exposure, not a net position. Price: site market tables updated October 24 at 06:00 ET, Henry Hub at 2.64 dollars per million British thermal units. Schwab Network analysis of October 19, 2026 is the earlier positioning context, not the record figure."
+data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. CFTC Commitments of Traders data released Friday, October 23, 2026, as reported by Bloomberg the same day; the 599,731 figure is short only exposure, not a net position. Price: site market tables updated October 24 at 06:00 ET, Henry Hub at 2.64 dollars per million British thermal units. Schwab Network analysis of October 19, 2026 is the earlier positioning context, not the record figure. Update October 29, 2026: site market tables at 06:00 ET."
 ---
 
 Hedge fund managers have amassed a record short position in US natural gas on expectations for an unusually mild northern winter that points to weak demand for the heating and power plant fuel, Bloomberg reported, citing Commodity Futures Trading Commission data released on Friday. Money managers increased short only exposure across seven benchmark Henry Hub contracts to 599,731 contracts, the largest in data going back to May 2013.
@@ -39,3 +39,5 @@ Update, October 27: The site market tables updated October 27 at 06:00 ET put Un
 Update, October 27: The squeeze risk materialised in the site market tables updated October 27 at 06:00 ET. United States natural gas stood at 3.04 dollars per million British thermal units, up 16.64 percent on the day, the largest single day move in the tables, against the record short only position of 599,731 contracts. No storage, weather or pipeline headline in this morning's pool reports a fundamental cause for the jump, and the tables are a snapshot rather than a settlement. The scale of the move against a record short is consistent with forced covering, but that remains an interpretation, not a reported cause.
 
 Update, October 28: The site market tables updated October 28 at 06:00 ET put United States natural gas at 3.04 dollars per million British thermal units, up 12.87 percent on the table daily basis and up 9.1 percent on the week, a fourth sharp rebound snapshot against the record short only position of 599,731 contracts. As on the three prior days, no weather, storage or supply headline in this morning pool reports a fundamental cause, and the tables are a snapshot, not a settlement. The covering interpretation remains an interpretation, not a reported cause. The CFTC said on October 27 it will publish Commitments of Traders data twice weekly by the end of 2026, covered in a separate story today, which will shorten this positioning lag in future.
+
+Update, October 29: The site market tables updated October 29 at 06:00 ET put United States natural gas at 3.05 dollars per million British thermal units, up 8.34 percent on the day and up 9.16 percent on the week, a fifth sharp rebound snapshot against the record short only position of 599,731 contracts. No weather, storage or pipeline headline in this morning's pool reports a fundamental cause, and the tables are a snapshot, not a settlement. OilPrice.com reported that United States natural gas production has hit new records as demand surges, which, if borne out, cuts both ways: record supply argues for the shorts, record demand argues against them. The covering interpretation remains an interpretation, not a reported cause.

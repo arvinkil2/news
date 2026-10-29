@@ -1,7 +1,7 @@
 ---
 title: "Gold steadies near four thousand dollars before Fed"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-28T07:04:12-04:00
+last_updated: 2026-10-29T07:14:34-04:00
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
@@ -31,7 +31,7 @@ sources:
     url: "https://financefeeds.com/gold-price-today-4004-tuesday-three-month-low-fomc-day-one-pce-thursday-bull-4110-bear-3890/"
     published: "2026-10-27"
 tags: []
-data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. Spot trading on Monday, October 26, 2026: Bloomberg early Singapore reporting and Qatar News Agency reporting the same session are two separate origins for the near 4,000 dollar level and the weekly drop. Site market tables updated October 26 at 06:00 ET are a later snapshot and are labelled as such in the body."
+data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. Spot trading on Monday, October 26, 2026: Bloomberg early Singapore reporting and Qatar News Agency reporting the same session are two separate origins for the near 4,000 dollar level and the weekly drop. Site market tables updated October 26 at 06:00 ET are a later snapshot and are labelled as such in the body. Update October 29, 2026: Bloomberg reporting of October 28 and site market tables at 06:00 ET."
 ---
 
 Gold steadied on Monday after its biggest weekly drop since June. Bullion traded on either side of 4,000 dollars an ounce after falling more than 4 percent last week to its lowest since July, Bloomberg reported, with spot gold slipping 0.1 percent to 3,993.20 dollars in early Singapore trading. The site market tables, updated October 26 at 06:00 ET, put gold at 4,031.70 dollars an ounce, up 0.59 percent on the day and down 3.09 percent on the week, a later snapshot of the same range bound session rather than a different market.
@@ -47,3 +47,5 @@ Update, October 27: Gold hovered around 4,000 dollars an ounce on Tuesday after 
 Update, October 27: The site market tables updated October 27 at 06:00 ET put gold at 4,010.30 dollars an ounce, down 0.7 percent on the day and 3.19 percent on the week, and silver at 53.26 dollars an ounce, down 1.56 percent on the day and 7.7 percent on the week. Bullion held the 4,000 dollar line into the first day of the Federal Reserve's October 27 to 28 meeting, with silver extending the prior week's losses by more than gold, the pattern of a rates and liquidity repricing rather than a renewed safe haven bid.
 
 Update, October 28: Gold slipped toward 4,000 dollars again on Wednesday ahead of the Federal Reserve decision due later today. Spot gold fell 0.4 percent to 4,042.67 dollars an ounce at 12:09 p.m. in Singapore, Bloomberg reported, with silver down 0.8 percent to 53.99 dollars, while the site tables updated at 06:00 ET put gold at 4,066.30 dollars, down 0.2 percent, and silver at 53.90 dollars, down 0.72 percent. Physical buyers and bargain hunters have helped arrest a sustained decline, Bloomberg reported, with Chinese household appetite growing as prices softened, while Indian buyers are holding back. India biggest precious metals refiner said households are betting the recent drop has further to run and are moderating festive purchases, and Bloomberg reported ETF holders pulled out nearly 17 tonnes in three trading days after a record 31 billion dollars of third quarter ETF inflows on World Gold Council data. JPMorgan Private Bank Tang said he sees more downside risk for gold, in Bloomberg reporting on Wednesday. Support at 3,970 dollars was cited by Saxo Bank strategist Ole Hansen, who said a sustained break above 4,230 dollars is needed to trigger short covering.
+
+Update, October 29: Gold edged lower after the Federal Reserve held rates with limited guidance, Bloomberg reported late Wednesday, and the site market tables updated October 29 at 06:00 ET put gold at 4,038.10 dollars an ounce, down 0.33 percent on the day and down 0.55 percent on the week, with silver at 52.60 dollars, down 1.61 percent. The 4,000 dollar line held through the decision. No new physical demand or ETF flow figure appears in this morning's pool, so the India and China split reported yesterday stands as the latest demand read.

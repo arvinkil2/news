@@ -1,7 +1,7 @@
 ---
 title: "RBI triples repo support with 150,000 crore auction"
 date: 2026-10-24T07:06:48-04:00
-last_updated: 2026-10-28T07:09:22-04:00
+last_updated: 2026-10-29T07:05:55-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
@@ -11,6 +11,10 @@ featured: false
 evidence_grade: "B"
 update_bump: true
 sources:
+  - title: "Money Market Operations as on October 28, 2026"
+    publisher: "Reserve Bank of India"
+    url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63879"
+    published: "2026-10-29"
   - title: "Money Market Operations as on October 27, 2026"
     publisher: "Reserve Bank of India"
     url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63874"
@@ -40,10 +44,12 @@ sources:
     url: "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63851"
     published: "2026-10-23"
 tags: []
-data_as_of: "Update, October 28, 2026: Tuesday's figures are the Reserve Bank of India's press release 2026-2027/1396 (money market operations as on October 27, 2026), read in full in this run. Update, October 27, 2026: Monday's money market operations figures are the Reserve Bank of India's press release 2026-2027/1391 (operations as on October 26, 2026), read in full in this run. Update, October 26, 2026, 02:41 ET: the auction result figures are the Reserve Bank of India's own press release 2026-2027/1386, read in full in this run. The weekend marginal standing facility and standing deposit facility figures are from the bank's money market operations releases as on October 24 and October 25, 2026 (press releases 2026-2027/1387 and 2026-2027/1388), also read in full. Single primary publisher, the issuing central bank itself. Original text: Reserve Bank of India press release 2026-2027/1383, published October 23, 2026 and read in full: auction Monday, October 26, 2026, notified amount 150,000 crore rupees, tenor four days, reversal Friday, October 30, 2026. Friday's comparison figures are the bank's own result for the October 23 three-day operation."
+data_as_of: "Update, October 29, 2026: Wednesday's figures are the Reserve Bank of India's press release 2026-2027/1401 (money market operations as on October 28, 2026), read in full in this run. Update, October 28, 2026: Tuesday's figures are the Reserve Bank of India's press release 2026-2027/1396 (money market operations as on October 27, 2026), read in full in this run. Update, October 27, 2026: Monday's money market operations figures are the Reserve Bank of India's press release 2026-2027/1391 (operations as on October 26, 2026), read in full in this run. Update, October 26, 2026, 02:41 ET: the auction result figures are the Reserve Bank of India's own press release 2026-2027/1386, read in full in this run. The weekend marginal standing facility and standing deposit facility figures are from the bank's money market operations releases as on October 24 and October 25, 2026 (press releases 2026-2027/1387 and 2026-2027/1388), also read in full. Single primary publisher, the issuing central bank itself. Original text: Reserve Bank of India press release 2026-2027/1383, published October 23, 2026 and read in full: auction Monday, October 26, 2026, notified amount 150,000 crore rupees, tenor four days, reversal Friday, October 30, 2026. Friday's comparison figures are the bank's own result for the October 23 three-day operation."
 ---
 
-**Latest, October 28:** The Reserve Bank's money market operations release for Tuesday, October 27 shows the marginal standing facility draw down sharply to 7,022 crore rupees at 5.75 percent, from 17,385 crore on Monday, while banks placed 172,235 crore in the standing deposit facility at 5.25 percent. Net liquidity on an outstanding basis, including the day's operations, stood at minus 30,419 crore, improved from Monday's minus 34,082 crore. Call money averaged 5.75 percent and triparty repo 5.62 percent. The 150,007 crore four day repo allotted Monday remains outstanding and reverses on Friday, October 30.
+**Latest, October 29:** The Reserve Bank's money market operations release for Wednesday, October 28 shows the marginal standing facility draw down to 495 crore rupees at 5.75 percent, from 7,022 crore on Tuesday, while banks placed 146,807 crore in the standing deposit facility at 5.25 percent. Net liquidity on an outstanding basis, including the day's operations, stood at minus 13,453 crore, improved from Tuesday's minus 30,419 crore. Call money averaged 5.68 percent and triparty repo 5.57 percent. The 150,007 crore four day repo allotted Monday remains outstanding and reverses on Friday, October 30, the day the bank also auctions 33,000 crore of dated government securities.
+
+**October 28:** The Reserve Bank's money market operations release for Tuesday, October 27 shows the marginal standing facility draw down sharply to 7,022 crore rupees at 5.75 percent, from 17,385 crore on Monday, while banks placed 172,235 crore in the standing deposit facility at 5.25 percent. Net liquidity on an outstanding basis, including the day's operations, stood at minus 30,419 crore, improved from Monday's minus 34,082 crore. Call money averaged 5.75 percent and triparty repo 5.62 percent. The 150,007 crore four day repo allotted Monday remains outstanding and reverses on Friday, October 30.
 
 **October 27:** The Reserve Bank's money market operations release for Monday, October 26 shows the marginal standing facility draw down to 17,385 crore rupees at 5.75 percent, from 28,311 crore on Saturday and 29,479 crore on Sunday, while banks placed 182,261 crore in the standing deposit facility at 5.25 percent. Net liquidity on an outstanding basis, including the day's operations, stood at minus 34,082 crore, an improvement on Sunday's minus 39,083 crore. Overnight money traded firm regardless: call money averaged 5.81 percent and triparty repo 5.74 percent. The 150,007 crore repo allotted on Monday reverses on Friday, October 30, the same day the bank auctions 33,000 crore of Government of India dated securities.
 

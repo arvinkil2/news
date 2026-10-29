@@ -1,7 +1,7 @@
 ---
 title: "Three Russian diesel tankers steam toward United States"
 date: 2026-10-28T07:04:12-04:00
-last_updated: 2026-10-28T15:23:30-04:00
+last_updated: 2026-10-29T07:14:34-04:00
 update_bump: true
 beats: ["commodities"]
 regions: ["north-america", "europe"]
@@ -32,7 +32,7 @@ sources:
     url: "https://gcaptain.com/u-s-senator-demands-russian-diesel-tanker-turn-around-as-legal-fight-escalates/"
     published: "2026-10-28"
 tags: []
-data_as_of: "Update 2026-10-28T15:23:30-04:00: Senator Blumenthal press release and letter text of October 27, 2026, read in full from blumenthal.senate.gov in this run, and gCaptain reporting of October 28, 2026, read in full. Earlier: Novak statement and Kpler tracking reported October 27 to 28, 2026. The 924,000 barrel collective figure is Kpler data as reported by Reuters. Vessel sanctions status is as reported by Reuters and Splash247; no United States arrival has been confirmed."
+data_as_of: "Update 2026-10-28T15:23:30-04:00: Senator Blumenthal press release and letter text of October 27, 2026, read in full from blumenthal.senate.gov in this run, and gCaptain reporting of October 28, 2026, read in full. Earlier: Novak statement and Kpler tracking reported October 27 to 28, 2026. The 924,000 barrel collective figure is Kpler data as reported by Reuters. Vessel sanctions status is as reported by Reuters and Splash247; no United States arrival has been confirmed. Update October 29, 2026: Blumenthal letter of October 27, 2026, as reported by gCaptain on October 28."
 ---
 
 **Latest, October 28:** Senator Richard Blumenthal wrote on October 27 to two shipping companies demanding that they recall their tankers and refrain from future transactions in Russian diesel. His letter to Eastern Mediterranean Maritime Limited covers the Agioi Fanendes, carrying nearly 40,000 metric tons of diesel loaded at a Russian port, with a declared destination of the Port of New York and New Jersey and an expected arrival date of November 7. His letter to Vietnam National Industry and Energy Group (PetroVietnam) covers the PVT Azura, which departed St. Petersburg reportedly carrying nearly 109,000 barrels of diesel, with a declared destination of Norfolk, Virginia, and an expected arrival date of November 2.
@@ -46,3 +46,5 @@ The three ships appear to be the Talisman, which is sanctioned by the United Sta
 The scale needs context. The first cargo, aboard the Agioi Fanendes, loaded about 40,000 metric tonnes of ultra low sulphur diesel at Primorsk on October 22 and is tracked toward New York with arrival expected around November 7, after the November 3 midterm elections. Moscow has said Russian companies could supply as much as 500,000 metric tonnes of diesel in October. Even the full three tanker total is hours, not days, of national diesel use, so the price effect depends on the larger tranches that follow, not on these cargoes alone.
 
 The politics are the cargo. The measure was presented as an attempt to lower fuel prices for American consumers ahead of the midterms and drew sharp criticism from Ukraine and its allies, Reuters reported. The United States energy secretary told CNBC on Tuesday that the administration may let more Russian diesel onto the market. A sanctioned vessel in the first wave makes the legal position on discharge, payment and insurance the story to watch on arrival, not the volume.
+
+Update, October 29: The legal fight over the first cargo escalated. Senator Richard Blumenthal wrote on October 27 to Greek shipowner Eastern Mediterranean Maritime demanding it recall the Malta flagged Agioi Fanendes, which loaded nearly 40,000 metric tons of diesel at Primorsk on October 22 and is signalling the Port of New York and New Jersey with an expected arrival of November 7, gCaptain reported. Blumenthal argued that Treasury General License 135, which authorises Russian diesel transactions through April 7, 2027, cannot supersede the Ending Importation of Russian Oil Act of 2022, and set an October 31 deadline for the shipowner to identify the cargo's seller, buyer, charterer and insurer. The Treasury Department maintains the arrangement is legal. A bipartisan group of lawmakers wrote on October 24 urging banks and port authorities in Texas and New York to avoid facilitating the imports and to preserve records.

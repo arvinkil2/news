@@ -1,7 +1,7 @@
 ---
 title: "Fifth plenum ratifies Zhang Youxia expulsion from party"
 date: 2026-10-26T07:11:33-04:00
-last_updated: 2026-10-29T06:13:25-04:00
+last_updated: 2026-10-29T07:07:15-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,10 +18,16 @@ sources:
     publisher: "Yonhap News Agency, in Korean"
     url: "https://www.yna.co.kr/view/AKR20261029197100083"
     published: "2026-10-29"
+  - title: "China Names New Politburo Member, Plans Party Congress Next Year"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-10-29/china-names-vice-military-chair-as-new-politburo-member"
+    published: "2026-10-29"
 tags: []
-data_as_of: "Update 2026-10-29T06:13:25-04:00: the Zhang Youxia ratification is from a Yonhap News Agency breaking news flash published October 29, 2026 and read in full in this run via the live browser, in Korean; the flash carries no body text beyond its headline, names no other personnel decisions and gives no reasons, and no Xinhua or plenum communique text confirming it was available in this run, so that item is single-sourced. Earlier: Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
+data_as_of: "Update 2026-10-29T07:07:15-04:00: Zhang Shengmin, vice chair of the Central Military Commission, has been promoted to the Politburo, per Bloomberg in the feed pool and Reuters reporting Xinhua via search results in this run; both accounts trace to the same official announcement, so the promotion is reported, not independently corroborated, and the grade stays C. Bloomberg also reported the party plans its congress next year. Zhang Shengmin is a different person from Zhang Youxia, whose expulsion was ratified (below). Update 2026-10-29T06:13:25-04:00: the Zhang Youxia ratification is from a Yonhap News Agency breaking news flash published October 29, 2026 and read in full in this run via the live browser, in Korean; the flash carries no body text beyond its headline, names no other personnel decisions and gives no reasons, and no Xinhua or plenum communique text confirming it was available in this run, so that item is single-sourced. Earlier: Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
 update_bump: true
 ---
+
+**Latest, October 29:** The plenum has also promoted Zhang Shengmin, a vice chairman of the Central Military Commission, to the Politburo, Bloomberg reported, and the party plans its next congress next year. Zhang Shengmin is not Zhang Youxia: Shengmin is the military's discipline chief who rose to CMC vice chair last year, while Youxia is the former vice chairman whose expulsion the same session ratified, in the update below. One general promoted and another expelled at the same plenum is the personnel story of the session in miniature: the purge and the rebuilding of the military leadership are proceeding together, a year before a congress at which Xi Jinping is expected to seek a fourth term.
 
 **Latest, October 29:** The fifth plenum has ratified the expulsion of Zhang Youxia from the Communist Party, Yonhap News Agency reported in a breaking news flash on Thursday. Zhang is a former vice chairman of the Central Military Commission, the military's top body, and his ratified expulsion makes the purge of the armed forces' senior ranks a formal outcome of the session. The flash carried no other personnel decisions and no reasons, and the plenum's closing communique has not yet been published.
 

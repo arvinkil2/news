@@ -1,7 +1,7 @@
 ---
 title: "Brent falls sharply despite attack near Ras Tanura"
 date: 2026-10-27T07:13:30-04:00
-last_updated: 2026-10-28T07:04:12-04:00
+last_updated: 2026-10-29T07:14:34-04:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -19,7 +19,7 @@ sources:
     url: "https://news.kilambi.com/stories/2026-10-27-ras-tanura-fire-contained-after-attack/"
     published: "2026-10-27"
 tags: []
-data_as_of: "Site market tables updated October 27, 2026 at 06:00 ET (Brent 110.93 dollars, down 4.21 percent; WTI 101.88 dollars, up 0.12 percent). Ras Tanura attack reported October 27, 2026; see today's Ras Tanura story for the defence ministry account."
+data_as_of: "Site market tables updated October 27, 2026 at 06:00 ET (Brent 110.93 dollars, down 4.21 percent; WTI 101.88 dollars, up 0.12 percent). Ras Tanura attack reported October 27, 2026; see today's Ras Tanura story for the defence ministry account. Update October 29, 2026: site market tables at 06:00 ET and Interfax session reporting of October 29, in Russian."
 ---
 
 Brent crude fell sharply in the latest market snapshot even as the war supplied a fresh reason to buy it. The site market tables updated at 06:00 ET on October 27 put Brent at 110.93 dollars a barrel, down 4.21 percent on the day and up 1.97 percent on the week, while WTI crude was almost unchanged at 101.88 dollars a barrel, up 0.12 percent. The Brent premium over WTI stood near 9 dollars a barrel.
@@ -31,3 +31,5 @@ The split between the two benchmarks is the tell. WTI, priced on United States s
 Freight told a tighter story than crude. Tanker freight in the tables rose 4.15 percent on the day and 7.17 percent on the week, while dry bulk freight fell 2.3 percent, a reminder that the cost of moving oil through contested water is still rising even on a day when the oil itself got cheaper. Iran's Persian Gulf Strait Authority also said on Tuesday that vessels belonging to the shipping company Sinokor will face legal action in the Strait of Hormuz from November 1, covered in today's Hormuz story.
 
 Update, October 28: Oil reversed higher on Wednesday after the Houthis said on Tuesday they had hit Saudi Arabia biggest oil refinery at Ras Tanura, with a capacity of about 550,000 barrels a day, with a missile. Saudi authorities did not immediately confirm the strike on the facility, Reuters reported. Brent futures rose 2.02 dollars, or 1.8 percent, to 115.90 dollars a barrel as of 0735 GMT, and WTI gained 2.01 dollars, or 2.0 percent, to 101.91 dollars. The site market tables updated October 28 at 06:00 ET carry a different snapshot, Brent at 110.76 dollars, down 2.74 percent, and WTI at 101.45 dollars, up 1.55 percent, and the two are not averaged. ING strategists said the market is still pricing a greater likelihood of re-escalation and waits for clarity on President Trump next move toward Iran. The claim is a Houthi claim, unconfirmed by Saudi authorities at the time of the Reuters report, and it builds on yesterday contained drone interception at the same hub, which is a different event.
+
+Update, October 29: The site market tables updated October 29 at 06:00 ET put Brent at 110.58 dollars a barrel, down 4.11 percent on the day and down 2.29 percent on the week, with WTI at 101.63 dollars, down 1.12 percent, leaving the Brent premium over WTI near 9 dollars. Interfax reported Brent at 114.02 dollars a barrel in Thursday session trading, another instance of the tables snapshot and session reporting diverging, and the two are not averaged. The official EIA data released Wednesday, crude down 1.9 million barrels with distillate 10 percent below the five year average, are covered in today's EIA story. No new attack or confirmation regarding Ras Tanura appears in this morning's pool.
