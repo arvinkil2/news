@@ -472,11 +472,11 @@
     },
     {
      "label": "-10 to -5",
-     "n": 60
+     "n": 61
     },
     {
      "label": "-5 to 0",
-     "n": 156
+     "n": 155
     },
     {
      "label": "0 to +5",
@@ -893,16 +893,6 @@
      "gap": -6.64
     },
     {
-     "cusip": "007903BG1",
-     "issuer": "ADVANCED MICRO DEVICES INC",
-     "security": "4.393% Notes due 2052",
-     "last_trade": 77.23171,
-     "trade_date": "2026-10-29",
-     "mark": 83.8606,
-     "period": "2026-06-30",
-     "gap": -6.63
-    },
-    {
      "cusip": "458140BM1",
      "issuer": "INTEL CORP",
      "security": "4.75% Notes due 2050",
@@ -931,6 +921,16 @@
      "mark": 99.4928,
      "period": "2026-06-30",
      "gap": -6.61
+    },
+    {
+     "cusip": "007903BG1",
+     "issuer": "ADVANCED MICRO DEVICES INC",
+     "security": "4.393% Notes due 2052",
+     "last_trade": 77.29421,
+     "trade_date": "2026-10-29",
+     "mark": 83.8606,
+     "period": "2026-06-30",
+     "gap": -6.57
     },
     {
      "cusip": "24702RAM3",
@@ -1283,6 +1283,16 @@
      "gap": -5.14
     },
     {
+     "cusip": "42824CAY5",
+     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
+     "security": "6.35% Notes due 2045",
+     "last_trade": 97.33,
+     "trade_date": "2026-10-29",
+     "mark": 102.438,
+     "period": "2026-06-30",
+     "gap": -5.11
+    },
+    {
      "cusip": "458140BG4",
      "issuer": "INTEL CORP",
      "security": "3.734% Notes due 2047",
@@ -1329,16 +1339,6 @@
      "last_trade": 103.51,
      "trade_date": "2026-10-28",
      "mark": 108.4501,
-     "period": "2026-06-30",
-     "gap": -4.94
-    },
-    {
-     "cusip": "42824CAY5",
-     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "6.35% Notes due 2045",
-     "last_trade": 97.5,
-     "trade_date": "2026-10-29",
-     "mark": 102.438,
      "period": "2026-06-30",
      "gap": -4.94
     },
@@ -1653,16 +1653,6 @@
      "gap": -3.92
     },
     {
-     "cusip": "007903BF3",
-     "issuer": "ADVANCED MICRO DEVICES INC",
-     "security": "3.924% Notes due 2032",
-     "last_trade": 92.732,
-     "trade_date": "2026-10-29",
-     "mark": 96.5978,
-     "period": "2026-06-30",
-     "gap": -3.87
-    },
-    {
      "cusip": "36828AAB7",
      "issuer": "GE VERNOVA INC",
      "security": "4.875% Notes due 2036",
@@ -1741,6 +1731,16 @@
      "mark": 104.9273,
      "period": "2026-03-31",
      "gap": -3.63
+    },
+    {
+     "cusip": "007903BF3",
+     "issuer": "ADVANCED MICRO DEVICES INC",
+     "security": "3.924% Notes due 2032",
+     "last_trade": 92.982,
+     "trade_date": "2026-10-29",
+     "mark": 96.5978,
+     "period": "2026-06-30",
+     "gap": -3.62
     },
     {
      "cusip": "78392BAK3",
@@ -1996,7 +1996,7 @@
      "cusip": "24703TAM8",
      "issuer": "DELL INTL L L C / EMC CORP",
      "security": "5% Notes due 2030",
-     "last_trade": 98.401,
+     "last_trade": 98.398,
      "trade_date": "2026-10-29",
      "mark": 100.8792,
      "period": "2026-06-30",
@@ -2233,16 +2233,6 @@
      "gap": -1.9
     },
     {
-     "cusip": "42824CCA5",
-     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "4.4% Notes due 2030",
-     "last_trade": 96.278,
-     "trade_date": "2026-10-29",
-     "mark": 98.1677,
-     "period": "2026-06-30",
-     "gap": -1.89
-    },
-    {
      "cusip": "85236KAM4",
      "issuer": "Stack Infrastructure Issuer LL",
      "security": "",
@@ -2301,6 +2291,16 @@
      "mark": 101.0019,
      "period": "2026-03-31",
      "gap": -1.7
+    },
+    {
+     "cusip": "42824CCA5",
+     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
+     "security": "4.4% Notes due 2030",
+     "last_trade": 96.478,
+     "trade_date": "2026-10-29",
+     "mark": 98.1677,
+     "period": "2026-06-30",
+     "gap": -1.69
     },
     {
      "cusip": "42824CBT5",
@@ -2586,11 +2586,11 @@
      "cusip": "92535UAB0",
      "issuer": "VERTIV GROUP CORP",
      "security": "4.125% Notes due 2028",
-     "last_trade": 98.09668,
+     "last_trade": 98.12792,
      "trade_date": "2026-10-28",
      "mark": 98.9043,
      "period": "2026-06-30",
-     "gap": -0.81
+     "gap": -0.78
     },
     {
      "cusip": "24703TAL0",
@@ -2763,6 +2763,16 @@
      "gap": -0.15
     },
     {
+     "cusip": "78392BAG2",
+     "issuer": "SK HYNIX INC",
+     "security": "5.5% Notes due 2027",
+     "last_trade": 100.398,
+     "trade_date": "2026-10-05",
+     "mark": 100.5254,
+     "period": "2026-06-30",
+     "gap": -0.13
+    },
+    {
      "cusip": "01627AAA6",
      "issuer": "ALIGNED DATA CENTERS ISSUER LLC",
      "security": "",
@@ -2781,16 +2791,6 @@
      "mark": 100.0,
      "period": "2025-08-31",
      "gap": -0.11
-    },
-    {
-     "cusip": "78392BAG2",
-     "issuer": "SK HYNIX INC",
-     "security": "5.5% Notes due 2027",
-     "last_trade": 100.428,
-     "trade_date": "2026-10-05",
-     "mark": 100.5254,
-     "period": "2026-06-30",
-     "gap": -0.1
     },
     {
      "cusip": "20469AAF6",
@@ -3043,16 +3043,6 @@
      "gap": 2.37
     },
     {
-     "cusip": "595112BV4",
-     "issuer": "MICRON TECHNOLOGY INC",
-     "security": "6.75% Notes due 2029",
-     "last_trade": 109.4,
-     "trade_date": "2025-10-22",
-     "mark": 106.8153,
-     "period": "2025-04-30",
-     "gap": 2.58
-    },
-    {
      "cusip": "G91139AH1",
      "issuer": "TSMC GLOBAL LTD",
      "security": "2.25% Notes due 2031",
@@ -3061,6 +3051,16 @@
      "mark": 84.9876,
      "period": "2024-03-31",
      "gap": 2.59
+    },
+    {
+     "cusip": "595112BV4",
+     "issuer": "MICRON TECHNOLOGY INC",
+     "security": "6.75% Notes due 2029",
+     "last_trade": 109.5,
+     "trade_date": "2025-10-22",
+     "mark": 106.8153,
+     "period": "2025-04-30",
+     "gap": 2.68
     },
     {
      "cusip": "20469CAC9",
@@ -3596,10 +3596,10 @@
        "cusip": "24703DBY6",
        "security": "5.1% Notes due 2029",
        "years": 2.88,
-       "price": 99.354,
+       "price": 99.351,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 5.342806817357748,
+       "yield_pct": 5.343949313449081,
        "spread_bp": 54
       },
       {
@@ -3636,10 +3636,10 @@
        "cusip": "24703TAM8",
        "security": "5% Notes due 2030",
        "years": 3.42,
-       "price": 98.401,
+       "price": 98.398,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 5.517692674187624,
+       "yield_pct": 5.518675889574731,
        "spread_bp": 72
       },
       {
@@ -3726,10 +3726,10 @@
        "cusip": "24703DCA7",
        "security": "5.6% Notes due 2033",
        "years": 6.88,
-       "price": 98.04,
+       "price": 98.052,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 5.950057498325445,
+       "yield_pct": 5.947881037605929,
        "spread_bp": 108
       },
       {
@@ -3982,11 +3982,11 @@
        "cusip": "42824CCA5",
        "security": "4.4% Notes due 2030",
        "years": 3.96,
-       "price": 96.278,
+       "price": 96.478,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 5.456956284780445,
-       "spread_bp": 66
+       "yield_pct": 5.398914233226049,
+       "spread_bp": 60
       },
       {
        "cusip": "42824CBU2",
@@ -4042,11 +4042,11 @@
        "cusip": "42824CAY5",
        "security": "6.35% Notes due 2045",
        "years": 18.96,
-       "price": 97.5,
+       "price": 97.33,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 6.582376055722716,
-       "spread_bp": 144
+       "yield_pct": 6.598503908919651,
+       "spread_bp": 146
       },
       {
        "cusip": "42824CAR0",
@@ -4118,11 +4118,11 @@
        "cusip": "595112BV4",
        "security": "6.75% Notes due 2029",
        "years": 4.03,
-       "price": 109.4,
+       "price": 109.5,
        "basis": "trade",
        "basis_date": "2025-10-22",
-       "yield_pct": 4.187496465815044,
-       "spread_bp": -61
+       "yield_pct": 4.161688322411883,
+       "spread_bp": -64
       },
       {
        "cusip": "595112CD3",
@@ -4254,11 +4254,11 @@
        "cusip": "78392BAG2",
        "security": "5.5% Notes due 2027",
        "years": 0.28,
-       "price": 100.428,
+       "price": 100.398,
        "basis": "trade",
        "basis_date": "2026-10-05",
-       "yield_pct": 3.927286195002222,
-       "spread_bp": -87
+       "yield_pct": 4.034606779338845,
+       "spread_bp": -77
       },
       {
        "cusip": "78392BAE7",
@@ -4904,11 +4904,11 @@
        "cusip": "278058AY8",
        "security": "5.45% Notes due 2034",
        "years": 7.96,
-       "price": 100.58,
+       "price": 99.11,
        "basis": "trade",
        "basis_date": "2026-10-28",
-       "yield_pct": 5.35919538849472,
-       "spread_bp": 45
+       "yield_pct": 5.589602653414061,
+       "spread_bp": 68
       },
       {
        "cusip": "278058DZ2",
@@ -5152,11 +5152,11 @@
        "cusip": "007903BF3",
        "security": "3.924% Notes due 2032",
        "years": 5.59,
-       "price": 92.732,
+       "price": 92.982,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 5.449187566971259,
-       "spread_bp": 63
+       "yield_pct": 5.3944248461547994,
+       "spread_bp": 57
       },
       {
        "cusip": "007903BM8",
@@ -5182,11 +5182,11 @@
        "cusip": "007903BG1",
        "security": "4.393% Notes due 2052",
        "years": 25.59,
-       "price": 77.23171,
+       "price": 77.29421,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 6.174271890586636,
-       "spread_bp": 92
+       "yield_pct": 6.168381410525625,
+       "spread_bp": 91
       }
      ]
     },
@@ -5508,10 +5508,10 @@
        "cusip": "84615QAE3",
        "security": "5.875% Notes due 2036",
        "years": 9.71,
-       "price": 88.737,
+       "price": 88.74,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 7.528824595947348,
+       "yield_pct": 7.5283493761287845,
        "spread_bp": 255
       },
       {
@@ -5564,11 +5564,11 @@
        "cusip": "U8531HAC4",
        "security": "5.875% Notes due 2036",
        "years": 9.71,
-       "price": 87.841726,
+       "price": 88.282726,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 7.671547894301267,
-       "spread_bp": 269
+       "yield_pct": 7.601017690583567,
+       "spread_bp": 262
       },
       {
        "cusip": "U8531HAD2",
@@ -5584,11 +5584,11 @@
        "cusip": "U8531HAE0",
        "security": "6.65% Notes due 2056",
        "years": 29.71,
-       "price": 84.956,
+       "price": 85.056,
        "basis": "trade",
        "basis_date": "2026-10-29",
-       "yield_pct": 7.979129351983372,
-       "spread_bp": 265
+       "yield_pct": 7.969028842622206,
+       "spread_bp": 264
       }
      ]
     },
@@ -5856,11 +5856,11 @@
        "cusip": "92535UAB0",
        "security": "4.125% Notes due 2028",
        "years": 2.05,
-       "price": 98.09668,
+       "price": 98.12792,
        "basis": "trade",
        "basis_date": "2026-10-28",
-       "yield_pct": 5.114898365165099,
-       "spread_bp": 31
+       "yield_pct": 5.098438939673788,
+       "spread_bp": 30
       },
       {
        "cusip": "U9222UAB9",
@@ -6135,7 +6135,7 @@
    "limits": "The two lines rarely print on the same day; the basis mixes the liquidity premium with timing differences. Both print dates are stated.",
    "summary": {
     "pairs": 32,
-    "mean_abs_basis": 0.71
+    "mean_abs_basis": 0.7
    },
    "rows": [
     {
@@ -6352,11 +6352,11 @@
      "twin_cusip": "Y8085FBT6",
      "issuer": "SK HYNIX INC",
      "security": "5.5% Notes due 2027",
-     "registered_price": 100.428,
+     "registered_price": 100.398,
      "registered_date": "2026-10-05",
      "twin_price": 99.3,
      "twin_date": "2026-10-21",
-     "basis_pts": -1.13
+     "basis_pts": -1.1
     },
     {
      "registered_cusip": "78392BAH0",
@@ -6407,11 +6407,11 @@
      "twin_cusip": "92535UAC8",
      "issuer": "VERTIV GROUP CORP",
      "security": "4.125% Notes due 2028",
-     "registered_price": 98.09668,
+     "registered_price": 98.12792,
      "registered_date": "2026-10-28",
      "twin_price": 99.02,
      "twin_date": "2026-07-21",
-     "basis_pts": 0.92
+     "basis_pts": 0.89
     },
     {
      "registered_cusip": "42824CAR0",
@@ -6420,9 +6420,9 @@
      "security": "6.35% Notes due 2045",
      "registered_price": 99.201,
      "registered_date": "2025-05-28",
-     "twin_price": 97.5,
+     "twin_price": 97.33,
      "twin_date": "2026-10-29",
-     "basis_pts": -1.7
+     "basis_pts": -1.87
     },
     {
      "registered_cusip": "44813DAA4",
@@ -6462,11 +6462,11 @@
      "twin_cusip": "U8531HAC4",
      "issuer": "SPACE EXPLORATION TECHNOLOGIES CORP",
      "security": "5.875% Notes due 2036",
-     "registered_price": 88.737,
+     "registered_price": 88.74,
      "registered_date": "2026-10-29",
-     "twin_price": 87.841726,
+     "twin_price": 88.282726,
      "twin_date": "2026-10-29",
-     "basis_pts": -0.9
+     "basis_pts": -0.46
     },
     {
      "registered_cusip": "84615QAG8",
@@ -6486,9 +6486,9 @@
      "security": "6.65% Notes due 2056",
      "registered_price": 84.84,
      "registered_date": "2026-10-29",
-     "twin_price": 84.956,
+     "twin_price": 85.056,
      "twin_date": "2026-10-29",
-     "basis_pts": 0.12
+     "basis_pts": 0.22
     }
    ]
   },
@@ -16011,173 +16011,6 @@
       "total": 25
      },
      {
-      "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
-      "counts": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       1,
-       1,
-       2,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       1,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       1,
-       1,
-       1,
-       0,
-       0,
-       1,
-       0,
-       3,
-       2,
-       0,
-       0,
-       1,
-       0,
-       0
-      ],
-      "total": 23
-     },
-     {
       "issuer": "SABEY DATA CENTER ISSUER LLC",
       "counts": [
        0,
@@ -16341,6 +16174,173 @@
        0,
        0,
        2
+      ],
+      "total": 23
+     },
+     {
+      "issuer": "COMPASS DATACENTERS ISSUER 2 LLC CMPDC_25-2",
+      "counts": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1,
+       1,
+       2,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       1,
+       1,
+       1,
+       0,
+       0,
+       1,
+       0,
+       3,
+       2,
+       0,
+       0,
+       1,
+       0,
+       0
       ],
       "total": 23
      },
@@ -21979,7 +21979,7 @@
       {
        "month": "2025-08",
        "trades": 1188,
-       "median": 99.870137,
+       "median": 99.820137,
        "priced": 4,
        "below90": 0
       },
@@ -22336,7 +22336,7 @@
        "vehicle": null,
        "coupon": 1.95,
        "maturity": "2028-02-15",
-       "last_price": 94.511,
+       "last_price": 94.436,
        "last_date": "2026-10-01",
        "trades_stored": 555,
        "mark": null,
@@ -22349,7 +22349,7 @@
        "vehicle": null,
        "coupon": 4.8,
        "maturity": "2028-04-15",
-       "last_price": 99.494,
+       "last_price": 99.594,
        "last_date": "2026-10-28",
        "trades_stored": 5448,
        "mark": 100.6032,
@@ -22570,7 +22570,7 @@
        "vehicle": null,
        "coupon": 4.2,
        "maturity": "2030-10-15",
-       "last_price": 94.916,
+       "last_price": 94.481,
        "last_date": "2026-10-28",
        "trades_stored": 6026,
        "mark": 98.0638,
@@ -22635,7 +22635,7 @@
        "vehicle": null,
        "coupon": 2.45,
        "maturity": "2031-02-15",
-       "last_price": 92.00651,
+       "last_price": 91.97651,
        "last_date": "2026-02-18",
        "trades_stored": 3160,
        "mark": 90.9513,
@@ -22648,7 +22648,7 @@
        "vehicle": null,
        "coupon": 2.45,
        "maturity": "2031-02-15",
-       "last_price": 87.178,
+       "last_price": 87.278,
        "last_date": "2026-10-28",
        "trades_stored": 4136,
        "mark": 90.4982,
@@ -22739,7 +22739,7 @@
        "vehicle": null,
        "coupon": 4.9,
        "maturity": "2032-07-15",
-       "last_price": 94.78,
+       "last_price": 95.74,
        "last_date": "2026-10-28",
        "trades_stored": 9330,
        "mark": 100.3271,
@@ -22986,7 +22986,7 @@
        "vehicle": null,
        "coupon": 3.137,
        "maturity": "2035-11-15",
-       "last_price": 79.187,
+       "last_price": 77.635,
        "last_date": "2026-10-20",
        "trades_stored": 413,
        "mark": null,
@@ -23239,7 +23239,7 @@
       {
        "month": "2024-01",
        "trades": 4758,
-       "median": 87.9495,
+       "median": 87.64949999999999,
        "priced": 30,
        "below90": 18
       },
@@ -23421,7 +23421,7 @@
       {
        "month": "2026-03",
        "trades": 15699,
-       "median": 98.580712,
+       "median": 98.827205,
        "priced": 41,
        "below90": 7
       },
@@ -23463,7 +23463,7 @@
       {
        "month": "2026-09",
        "trades": 22823,
-       "median": 91.535275,
+       "median": 91.42577499999999,
        "priced": 36,
        "below90": 13
       },
@@ -23534,7 +23534,7 @@
        ],
        [
         2.7,
-        4.576,
+        4.553,
         "11135FBX8"
        ],
        [
@@ -23549,7 +23549,7 @@
        ],
        [
         3.46,
-        5.701,
+        5.688,
         "11135FBD2"
        ],
        [
@@ -23559,7 +23559,7 @@
        ],
        [
         3.96,
-        5.778,
+        5.768,
         "11135FCW9"
        ],
        [
@@ -23614,7 +23614,7 @@
        ],
        [
         5.71,
-        5.785,
+        5.991,
         "11135FCL3"
        ],
        [
@@ -23776,13 +23776,13 @@
        ],
        [
         2.71,
-        4.71,
-        "11135FBR1"
+        4.72,
+        "11135FBA8"
        ],
        [
         2.71,
-        4.72,
-        "11135FBA8"
+        4.723,
+        "11135FBR1"
        ],
        [
         2.71,
@@ -23791,7 +23791,7 @@
        ],
        [
         2.95,
-        4.576,
+        4.553,
         "11135FBX8"
        ],
        [
@@ -24023,7 +24023,7 @@
        ],
        [
         3.29,
-        4.069,
+        4.063,
         "11135FBA8"
        ],
        [
@@ -24038,7 +24038,7 @@
        ],
        [
         4.13,
-        4.116,
+        4.143,
         "11135FCB5"
        ],
        [
@@ -24138,7 +24138,7 @@
        ],
        [
         9.54,
-        4.861,
+        4.874,
         "11135FCM1"
        ],
        [
@@ -24406,7 +24406,7 @@
        "vehicle": null,
        "coupon": 1.65,
        "maturity": "2028-05-12",
-       "last_price": 95.137,
+       "last_price": 95.141,
        "last_date": "2026-10-28",
        "trades_stored": 14136,
        "mark": 95.2801,
@@ -24458,7 +24458,7 @@
        "vehicle": null,
        "coupon": 3.45,
        "maturity": "2029-04-13",
-       "last_price": 96.30073,
+       "last_price": 96.26949,
        "last_date": "2026-10-28",
        "trades_stored": 10992,
        "mark": 97.5892,
@@ -24484,7 +24484,7 @@
        "vehicle": null,
        "coupon": 4.6,
        "maturity": "2029-07-09",
-       "last_price": 98.61,
+       "last_price": 98.51,
        "last_date": "2026-10-28",
        "trades_stored": 5871,
        "mark": 99.6601,
@@ -24562,7 +24562,7 @@
        "vehicle": null,
        "coupon": 4.8,
        "maturity": "2031-07-09",
-       "last_price": 97.555,
+       "last_price": 98.53055,
        "last_date": "2026-10-28",
        "trades_stored": 8345,
        "mark": 99.0668,
@@ -24575,7 +24575,7 @@
        "vehicle": null,
        "coupon": 3.6,
        "maturity": "2032-04-13",
-       "last_price": 91.777,
+       "last_price": 92.027,
        "last_date": "2026-10-28",
        "trades_stored": 22431,
        "mark": 94.7677,
@@ -24640,7 +24640,7 @@
        "vehicle": null,
        "coupon": 4.8,
        "maturity": "2034-12-05",
-       "last_price": 95.405,
+       "last_price": 95.38,
        "last_date": "2026-10-28",
        "trades_stored": 20320,
        "mark": 100.2842,
@@ -24770,7 +24770,7 @@
        "vehicle": null,
        "coupon": 6.0,
        "maturity": "2046-07-09",
-       "last_price": 97.807,
+       "last_price": 95.682,
        "last_date": "2026-10-28",
        "trades_stored": 12828,
        "mark": 97.2575,
@@ -24796,7 +24796,7 @@
        "vehicle": null,
        "coupon": 4.05,
        "maturity": "2047-08-22",
-       "last_price": 73.095,
+       "last_price": 73.07,
        "last_date": "2026-10-28",
        "trades_stored": 10358,
        "mark": 79.2318,
@@ -24874,7 +24874,7 @@
        "vehicle": null,
        "coupon": 5.8,
        "maturity": "2056-03-13",
-       "last_price": 89.861,
+       "last_price": 89.80549,
        "last_date": "2026-10-28",
        "trades_stored": 5956,
        "mark": 99.362,
@@ -24965,7 +24965,7 @@
        "vehicle": null,
        "coupon": 4.1,
        "maturity": "2062-04-13",
-       "last_price": 67.319,
+       "last_price": 67.294,
        "last_date": "2026-10-28",
        "trades_stored": 6249,
        "mark": 74.0958,
@@ -25017,7 +25017,7 @@
        "vehicle": null,
        "coupon": 6.05,
        "maturity": "2076-03-13",
-       "last_price": 89.85767,
+       "last_price": 89.82642,
        "last_date": "2026-10-28",
        "trades_stored": 8341,
        "mark": 99.6977,
@@ -25117,7 +25117,7 @@
        "trades": 8801,
        "median": 89.3223,
        "priced": 23,
-       "below90": 13
+       "below90": 12
       },
       {
        "month": "2024-04",
@@ -25241,7 +25241,7 @@
       {
        "month": "2025-09",
        "trades": 9066,
-       "median": 91.986,
+       "median": 92.236,
        "priced": 23,
        "below90": 11
       },
@@ -25381,7 +25381,7 @@
        ],
        [
         2.46,
-        5.07,
+        5.084,
         "023135CG9"
        ],
        [
@@ -25446,7 +25446,7 @@
        ],
        [
         8.1,
-        5.51,
+        5.514,
         "023135AP1"
        ],
        [
@@ -25456,7 +25456,7 @@
        ],
        [
         9.37,
-        5.745,
+        5.818,
         "023135DF0"
        ],
        [
@@ -25506,7 +25506,7 @@
        ],
        [
         25.46,
-        6.463,
+        6.459,
         "023135CJ3"
        ],
        [
@@ -25546,7 +25546,7 @@
        ],
        [
         35.46,
-        6.458,
+        6.409,
         "023135CK0"
        ],
        [
@@ -25566,7 +25566,7 @@
        ],
        [
         49.37,
-        6.764,
+        6.762,
         "023135DK9"
        ]
       ],
@@ -25623,7 +25623,7 @@
        ],
        [
         3.34,
-        4.692,
+        4.682,
         "023135CQ7"
        ],
        [
@@ -25663,7 +25663,7 @@
        ],
        [
         6.62,
-        5.15,
+        5.151,
         "023135DE3"
        ],
        [
@@ -25748,7 +25748,7 @@
        ],
        [
         29.62,
-        6.371,
+        6.346,
         "023135DH6"
        ],
        [
@@ -25835,7 +25835,7 @@
        ],
        [
         3.28,
-        3.858,
+        3.784,
         "023135CG9"
        ],
        [
@@ -25870,7 +25870,7 @@
        ],
        [
         7.22,
-        4.346,
+        4.363,
         "023135CU8"
        ],
        [
@@ -25940,7 +25940,7 @@
        ],
        [
         35.36,
-        5.569,
+        5.572,
         "023135CC8"
        ],
        [
@@ -25950,7 +25950,7 @@
        ],
        [
         39.89,
-        5.72,
+        5.713,
         "023135CY0"
        ]
       ]
@@ -26225,7 +26225,7 @@
        "vehicle": null,
        "coupon": 3.25,
        "maturity": "2030-05-15",
-       "last_price": 89.077,
+       "last_price": 89.096,
        "last_date": "2026-10-28",
        "trades_stored": 9123,
        "mark": 92.9535,
@@ -26316,7 +26316,7 @@
        "vehicle": null,
        "coupon": 4.9,
        "maturity": "2033-02-06",
-       "last_price": 87.05595,
+       "last_price": 87.0872,
        "last_date": "2026-10-28",
        "trades_stored": 28426,
        "mark": 94.8483,
@@ -26433,7 +26433,7 @@
        "vehicle": null,
        "coupon": 3.8,
        "maturity": "2037-11-15",
-       "last_price": 71.468,
+       "last_price": 71.422,
        "last_date": "2026-10-28",
        "trades_stored": 9390,
        "mark": 79.9438,
@@ -26706,7 +26706,7 @@
        "vehicle": null,
        "coupon": 6.7,
        "maturity": "2056-02-04",
-       "last_price": 82.304,
+       "last_price": 82.294,
        "last_date": "2026-10-28",
        "trades_stored": 6102,
        "mark": 94.1338,
@@ -26962,7 +26962,7 @@
       {
        "month": "2025-08",
        "trades": 15612,
-       "median": 95.418,
+       "median": 95.383,
        "priced": 41,
        "below90": 15
       },
@@ -27053,9 +27053,9 @@
       {
        "month": "2026-09",
        "trades": 30483,
-       "median": 84.30375000000001,
+       "median": 84.6465,
        "priced": 56,
-       "below90": 39
+       "below90": 38
       },
       {
        "month": "2026-10",
@@ -27114,17 +27114,17 @@
        ],
        [
         3.52,
-        7.027,
+        7.025,
         "68389XCN3"
        ],
        [
         3.54,
-        6.767,
+        6.76,
         "68389XBD6"
        ],
        [
         3.91,
-        6.802,
+        7.02,
         "68389XDH5"
        ],
        [
@@ -27159,7 +27159,7 @@
        ],
        [
         6.51,
-        7.481,
+        7.489,
         "68389XDY8"
        ],
        [
@@ -27204,7 +27204,7 @@
        ],
        [
         11.46,
-        7.816,
+        7.806,
         "68389XAE5"
        ],
        [
@@ -27294,12 +27294,12 @@
        ],
        [
         28.91,
-        8.275,
+        8.268,
         "68389XDR3"
        ],
        [
         29.27,
-        8.321,
+        8.32,
         "68389XEB7"
        ],
        [
@@ -27381,7 +27381,7 @@
        ],
        [
         3.76,
-        5.626,
+        5.355,
         "68389XCN3"
        ],
        [
@@ -27401,7 +27401,7 @@
        ],
        [
         4.65,
-        6.239,
+        6.209,
         "68389XCE3"
        ],
        [
@@ -27446,7 +27446,7 @@
        ],
        [
         9.01,
-        6.724,
+        6.714,
         "68389XDA0"
        ],
        [
@@ -27628,12 +27628,12 @@
        ],
        [
         3.74,
-        4.71,
+        4.488,
         "68389XCS2"
        ],
        [
         3.86,
-        4.818,
+        4.81,
         "68389XCH6"
        ],
        [
@@ -27643,7 +27643,7 @@
        ],
        [
         4.34,
-        4.786,
+        4.798,
         "68389XCN3"
        ],
        [
@@ -27808,7 +27808,7 @@
        ],
        [
         34.25,
-        6.802,
+        6.791,
         "68389XBY0"
        ],
        [
@@ -28567,7 +28567,7 @@
       {
        "month": "2024-07",
        "trades": 10449,
-       "median": 92.721,
+       "median": 93.721,
        "priced": 35,
        "below90": 14
       },
@@ -28616,7 +28616,7 @@
       {
        "month": "2025-02",
        "trades": 10744,
-       "median": 88.524,
+       "median": 88.474,
        "priced": 36,
        "below90": 20
       },
@@ -28742,7 +28742,7 @@
       {
        "month": "2026-08",
        "trades": 9702,
-       "median": 90.9505,
+       "median": 91.0755,
        "priced": 40,
        "below90": 20
       },
@@ -28825,7 +28825,7 @@
        ],
        [
         5.77,
-        5.73,
+        5.708,
         "458140CA6"
        ],
        [
@@ -29037,7 +29037,7 @@
        ],
        [
         6.38,
-        5.381,
+        5.386,
         "458140AN0"
        ],
        [
@@ -29092,7 +29092,7 @@
        ],
        [
         19.8,
-        6.557,
+        6.573,
         "458140AV2"
        ],
        [
@@ -29239,7 +29239,7 @@
        ],
        [
         6.96,
-        4.735,
+        4.737,
         "458140AN0"
        ],
        [
@@ -29254,7 +29254,7 @@
        ],
        [
         14.23,
-        5.696,
+        5.697,
         "458140BL3"
        ],
        [
@@ -29269,7 +29269,7 @@
        ],
        [
         16.96,
-        6.0,
+        5.989,
         "458140AP5"
        ],
        [
@@ -29279,7 +29279,7 @@
        ],
        [
         19.58,
-        6.072,
+        6.062,
         "458140AT7"
        ],
        [
@@ -29334,17 +29334,17 @@
        ],
        [
         34.12,
-        6.229,
+        6.167,
         "458140BK5"
        ],
        [
         34.23,
-        6.22,
+        6.228,
         "458140BN9"
        ],
        [
         35.61,
-        6.315,
+        6.157,
         "458140BX7"
        ],
        [
@@ -29486,7 +29486,7 @@
        "vehicle": null,
        "coupon": 3.2,
        "maturity": "2027-05-11",
-       "last_price": 99.332,
+       "last_price": 99.474857,
        "last_date": "2026-10-28",
        "trades_stored": 13324,
        "mark": 99.325,
@@ -29512,7 +29512,7 @@
        "vehicle": null,
        "coupon": 2.9,
        "maturity": "2027-09-12",
-       "last_price": 98.652,
+       "last_price": 98.662,
        "last_date": "2026-10-28",
        "trades_stored": 11504,
        "mark": 98.594,
@@ -29733,7 +29733,7 @@
        "vehicle": null,
        "coupon": 4.75,
        "maturity": "2035-05-12",
-       "last_price": 97.082,
+       "last_price": 97.037,
        "last_date": "2026-10-28",
        "trades_stored": 8103,
        "mark": 100.4025,
@@ -29746,7 +29746,7 @@
        "vehicle": null,
        "coupon": 4.5,
        "maturity": "2036-02-23",
-       "last_price": 95.27675,
+       "last_price": 95.2455,
        "last_date": "2026-10-28",
        "trades_stored": 14535,
        "mark": 98.928,
@@ -29798,7 +29798,7 @@
        "vehicle": null,
        "coupon": 3.45,
        "maturity": "2045-02-09",
-       "last_price": 72.21,
+       "last_price": 72.31,
        "last_date": "2026-10-28",
        "trades_stored": 11451,
        "mark": 75.983,
@@ -29824,7 +29824,7 @@
        "vehicle": null,
        "coupon": 4.65,
        "maturity": "2046-02-23",
-       "last_price": 85.496,
+       "last_price": 85.44381,
        "last_date": "2026-10-28",
        "trades_stored": 28906,
        "mark": 89.486,
@@ -29863,7 +29863,7 @@
        "vehicle": null,
        "coupon": 3.75,
        "maturity": "2047-09-12",
-       "last_price": 73.68027,
+       "last_price": 73.74277,
        "last_date": "2026-10-27",
        "trades_stored": 5495,
        "mark": 76.8362,
@@ -29980,7 +29980,7 @@
        "vehicle": null,
        "coupon": 2.55,
        "maturity": "2060-08-20",
-       "last_price": 50.654,
+       "last_price": 50.698,
        "last_date": "2026-10-28",
        "trades_stored": 14213,
        "mark": 53.8318,
@@ -30065,7 +30065,7 @@
       {
        "month": "2024-03",
        "trades": 11782,
-       "median": 86.76197,
+       "median": 86.82447,
        "priced": 39,
        "below90": 23
       },
@@ -30306,7 +30306,7 @@
        ],
        [
         0.87,
-        4.495,
+        4.483,
         "037833DB3"
        ],
        [
@@ -30321,17 +30321,17 @@
        ],
        [
         1.53,
-        4.506,
+        4.712,
         "037833ET3"
        ],
        [
         1.54,
-        4.798,
+        4.793,
         "037833EY2"
        ],
        [
         1.77,
-        4.794,
+        4.784,
         "037833EH9"
        ],
        [
@@ -30406,7 +30406,7 @@
        ],
        [
         16.51,
-        5.856,
+        5.922,
         "037833AL4"
        ],
        [
@@ -30416,7 +30416,7 @@
        ],
        [
         18.28,
-        5.956,
+        5.967,
         "037833BA7"
        ],
        [
@@ -30461,7 +30461,7 @@
        ],
        [
         23.81,
-        6.001,
+        6.032,
         "037833DZ0"
        ],
        [
@@ -30471,7 +30471,7 @@
        ],
        [
         24.77,
-        6.003,
+        5.996,
         "037833EK2"
        ],
        [
@@ -30518,7 +30518,7 @@
        ],
        [
         0.89,
-        4.282,
+        4.215,
         "037833CX6"
        ],
        [
@@ -30688,7 +30688,7 @@
        ],
        [
         25.01,
-        5.919,
+        5.961,
         "037833EK2"
        ],
        [
@@ -30713,7 +30713,7 @@
        ],
        [
         35.01,
-        5.982,
+        5.984,
         "037833EL0"
        ],
        [
@@ -30730,7 +30730,7 @@
        ],
        [
         1.36,
-        3.639,
+        3.601,
         "037833CR9"
        ],
        [
@@ -30825,7 +30825,7 @@
        ],
        [
         9.36,
-        4.37,
+        4.357,
         "037833FB1"
        ],
        [
@@ -30895,7 +30895,7 @@
        ],
        [
         24.64,
-        5.387,
+        5.423,
         "037833DZ0"
        ],
        [
@@ -30930,7 +30930,7 @@
        ],
        [
         35.59,
-        5.433,
+        5.423,
         "037833EL0"
        ],
        [
@@ -31132,7 +31132,7 @@
        "vehicle": "Dell International L.L.C. / EMC Corporation",
        "coupon": 5.1,
        "maturity": "2029-09-15",
-       "last_price": 99.354,
+       "last_price": 99.351,
        "last_date": "2026-10-29",
        "trades_stored": 876,
        "mark": null,
@@ -31197,7 +31197,7 @@
        "vehicle": "Dell International L.L.C. / EMC Corporation",
        "coupon": 5.0,
        "maturity": "2030-04-01",
-       "last_price": 98.401,
+       "last_price": 98.398,
        "last_date": "2026-10-29",
        "trades_stored": 6900,
        "mark": 100.8792,
@@ -31327,7 +31327,7 @@
        "vehicle": "Dell International L.L.C. / EMC Corporation",
        "coupon": 5.6,
        "maturity": "2033-09-15",
-       "last_price": 98.04,
+       "last_price": 98.052,
        "last_date": "2026-10-29",
        "trades_stored": 840,
        "mark": null,
@@ -31594,7 +31594,7 @@
       {
        "month": "2024-03",
        "trades": 2965,
-       "median": 102.114075,
+       "median": 102.145315,
        "priced": 12,
        "below90": 2
       },
@@ -31699,7 +31699,7 @@
       {
        "month": "2025-06",
        "trades": 4925,
-       "median": 102.192738,
+       "median": 102.130238,
        "priced": 18,
        "below90": 2
       },
@@ -31804,14 +31804,14 @@
       {
        "month": "2026-09",
        "trades": 9265,
-       "median": 97.050095,
+       "median": 97.058595,
        "priced": 30,
        "below90": 3
       },
       {
        "month": "2026-10",
        "trades": 9759,
-       "median": 97.756,
+       "median": 97.764,
        "priced": 30,
        "below90": 2
       }
@@ -31840,7 +31840,7 @@
        ],
        [
         2.88,
-        5.343,
+        5.344,
         "24703DBY6"
        ],
        [
@@ -31860,7 +31860,7 @@
        ],
        [
         3.42,
-        5.519,
+        5.518,
         "24703TAM8"
        ],
        [
@@ -31940,7 +31940,7 @@
        ],
        [
         10.42,
-        6.188,
+        6.186,
         "24703DCB5"
        ],
        [
@@ -32338,7 +32338,7 @@
        "vehicle": null,
        "coupon": 3.3,
        "maturity": "2027-02-06",
-       "last_price": 99.7925,
+       "last_price": 99.73,
        "last_date": "2026-10-28",
        "trades_stored": 33931,
        "mark": 99.5392,
@@ -32533,7 +32533,7 @@
        "vehicle": null,
        "coupon": 3.75,
        "maturity": "2043-05-01",
-       "last_price": 77.274,
+       "last_price": 76.974,
        "last_date": "2026-10-27",
        "trades_stored": 1079,
        "mark": 121.7823,
@@ -32585,7 +32585,7 @@
        "vehicle": null,
        "coupon": 3.7,
        "maturity": "2046-08-08",
-       "last_price": 74.273,
+       "last_price": 74.173,
        "last_date": "2026-10-28",
        "trades_stored": 7888,
        "mark": 77.9589,
@@ -32754,7 +32754,7 @@
        "vehicle": null,
        "coupon": 4.5,
        "maturity": "2057-02-06",
-       "last_price": 79.459,
+       "last_price": 79.484,
        "last_date": "2026-10-27",
        "trades_stored": 4059,
        "mark": 85.3822,
@@ -32839,7 +32839,7 @@
       {
        "month": "2024-03",
        "trades": 5547,
-       "median": 92.15055,
+       "median": 92.1193,
        "priced": 31,
        "below90": 15
       },
@@ -32902,7 +32902,7 @@
       {
        "month": "2024-12",
        "trades": 5539,
-       "median": 88.3125,
+       "median": 88.2625,
        "priced": 28,
        "below90": 15
       },
@@ -32930,7 +32930,7 @@
       {
        "month": "2025-04",
        "trades": 6183,
-       "median": 89.96954,
+       "median": 90.01954,
        "priced": 28,
        "below90": 14
       },
@@ -32979,7 +32979,7 @@
       {
        "month": "2025-11",
        "trades": 6199,
-       "median": 91.619,
+       "median": 92.119,
        "priced": 27,
        "below90": 12
       },
@@ -33028,7 +33028,7 @@
       {
        "month": "2026-06",
        "trades": 6319,
-       "median": 87.846,
+       "median": 87.9085,
        "priced": 27,
        "below90": 17
       },
@@ -33065,7 +33065,7 @@
       "Latest": [
        [
         0.27,
-        4.655,
+        4.048,
         "594918BY9"
        ],
        [
@@ -33135,7 +33135,7 @@
        ],
        [
         17.13,
-        5.695,
+        5.708,
         "594918AX2"
        ],
        [
@@ -33205,7 +33205,7 @@
        ],
        [
         30.28,
-        5.975,
+        5.985,
         "594918CB8"
        ],
        [
@@ -33257,7 +33257,7 @@
        ],
        [
         10.02,
-        5.167,
+        5.171,
         "594918BS2"
        ],
        [
@@ -33287,7 +33287,7 @@
        ],
        [
         16.75,
-        5.744,
+        5.755,
         "594918AU8"
        ],
        [
@@ -33357,12 +33357,12 @@
        ],
        [
         30.02,
-        5.993,
+        5.974,
         "594918BU7"
        ],
        [
         30.52,
-        5.938,
+        5.919,
         "594918CB8"
        ],
        [
@@ -33409,7 +33409,7 @@
        ],
        [
         9.84,
-        4.193,
+        4.209,
         "594918BK9"
        ],
        [
@@ -33424,7 +33424,7 @@
        ],
        [
         13.42,
-        4.696,
+        4.706,
         "594918AD6"
        ],
        [
@@ -33474,13 +33474,13 @@
        ],
        [
         21.45,
-        5.151,
-        "594918CU6"
+        5.154,
+        "594918CK8"
        ],
        [
         21.45,
-        5.154,
-        "594918CK8"
+        5.159,
+        "594918CU6"
        ],
        [
         24.42,
@@ -33674,7 +33674,7 @@
        "vehicle": null,
        "coupon": 3.5,
        "maturity": "2027-08-15",
-       "last_price": 99.1,
+       "last_price": 99.0,
        "last_date": "2026-10-28",
        "trades_stored": 91,
        "mark": null,
@@ -33687,7 +33687,7 @@
        "vehicle": null,
        "coupon": 4.6,
        "maturity": "2028-05-15",
-       "last_price": 99.597,
+       "last_price": 99.617,
        "last_date": "2026-10-28",
        "trades_stored": 17316,
        "mark": 100.5197,
@@ -33817,7 +33817,7 @@
        "vehicle": null,
        "coupon": 4.95,
        "maturity": "2033-05-15",
-       "last_price": 95.406,
+       "last_price": 95.454,
        "last_date": "2026-10-28",
        "trades_stored": 30770,
        "mark": 99.9541,
@@ -33830,7 +33830,7 @@
        "vehicle": null,
        "coupon": 4.875,
        "maturity": "2033-05-15",
-       "last_price": 94.91,
+       "last_price": 94.935,
        "last_date": "2026-10-28",
        "trades_stored": 6713,
        "mark": 99.0964,
@@ -33947,7 +33947,7 @@
        "vehicle": null,
        "coupon": 5.6,
        "maturity": "2053-05-15",
-       "last_price": 81.093,
+       "last_price": 81.062,
        "last_date": "2026-10-28",
        "trades_stored": 15698,
        "mark": 90.9842,
@@ -34186,7 +34186,7 @@
       {
        "month": "2024-12",
        "trades": 6427,
-       "median": 97.729,
+       "median": 97.72749999999999,
        "priced": 16,
        "below90": 2
       },
@@ -34340,7 +34340,7 @@
       {
        "month": "2026-10",
        "trades": 29201,
-       "median": 93.03,
+       "median": 91.874,
        "priced": 27,
        "below90": 11
       }
@@ -34404,12 +34404,12 @@
        ],
        [
         6.54,
-        5.794,
+        5.803,
         "30303M8N5"
        ],
        [
         6.54,
-        5.797,
+        5.821,
         "30303MAG7"
        ],
        [
@@ -34419,7 +34419,7 @@
        ],
        [
         9.05,
-        6.098,
+        5.87,
         "30303MAD4"
        ],
        [
@@ -34454,12 +34454,12 @@
        ],
        [
         27.79,
-        7.176,
+        7.173,
         "30303M8V7"
        ],
        [
         29.05,
-        7.198,
+        7.204,
         "30303MAE2"
        ],
        [
@@ -34576,12 +34576,12 @@
        ],
        [
         9.79,
-        5.815,
+        5.818,
         "30303MAH5"
        ],
        [
         19.29,
-        6.747,
+        6.737,
         "30303M8X3"
        ],
        [
@@ -34626,7 +34626,7 @@
        ],
        [
         36.04,
-        6.952,
+        6.955,
         "30303M8K1"
        ],
        [
@@ -34768,7 +34768,7 @@
        ],
        [
         39.87,
-        6.017,
+        6.03,
         "30303M8Y1"
        ]
       ]
@@ -34991,7 +34991,7 @@
        "vehicle": null,
        "coupon": 4.0,
        "maturity": "2030-05-15",
-       "last_price": 96.349,
+       "last_price": 96.384,
        "last_date": "2026-10-28",
        "trades_stored": 5301,
        "mark": 98.569,
@@ -35004,7 +35004,7 @@
        "vehicle": null,
        "coupon": 1.1,
        "maturity": "2030-08-15",
-       "last_price": 86.174,
+       "last_price": 86.324,
        "last_date": "2026-10-28",
        "trades_stored": 16274,
        "mark": 87.7302,
@@ -35082,7 +35082,7 @@
        "vehicle": null,
        "coupon": 5.2,
        "maturity": "2033-08-15",
-       "last_price": 98.108,
+       "last_price": 98.083,
        "last_date": "2026-10-28",
        "trades_stored": 5092,
        "mark": null,
@@ -35121,7 +35121,7 @@
        "vehicle": null,
        "coupon": 4.8,
        "maturity": "2036-02-15",
-       "last_price": 93.405,
+       "last_price": 93.43,
        "last_date": "2026-10-28",
        "trades_stored": 13170,
        "mark": 98.3047,
@@ -35134,7 +35134,7 @@
        "vehicle": null,
        "coupon": 5.45,
        "maturity": "2036-08-15",
-       "last_price": 97.668,
+       "last_price": 97.893,
        "last_date": "2026-10-28",
        "trades_stored": 8783,
        "mark": null,
@@ -35160,7 +35160,7 @@
        "vehicle": null,
        "coupon": 5.35,
        "maturity": "2045-11-15",
-       "last_price": 90.216,
+       "last_price": 90.157,
        "last_date": "2026-10-28",
        "trades_stored": 10641,
        "mark": 97.0158,
@@ -35173,7 +35173,7 @@
        "vehicle": null,
        "coupon": 5.5,
        "maturity": "2046-02-15",
-       "last_price": 91.645,
+       "last_price": 91.67,
        "last_date": "2026-10-28",
        "trades_stored": 9053,
        "mark": 98.5144,
@@ -35225,7 +35225,7 @@
        "vehicle": null,
        "coupon": 5.45,
        "maturity": "2055-11-15",
-       "last_price": 86.644,
+       "last_price": 86.524,
        "last_date": "2026-10-27",
        "trades_stored": 5801,
        "mark": 95.9277,
@@ -35316,7 +35316,7 @@
        "vehicle": null,
        "coupon": 5.7,
        "maturity": "2075-11-15",
-       "last_price": 88.644,
+       "last_price": 86.644,
        "last_date": "2026-10-28",
        "trades_stored": 8970,
        "mark": 96.1811,
@@ -35425,7 +35425,7 @@
       {
        "month": "2024-12",
        "trades": 1719,
-       "median": 65.749,
+       "median": 65.399,
        "priced": 5,
        "below90": 4
       },
@@ -35579,7 +35579,7 @@
       {
        "month": "2026-10",
        "trades": 23866,
-       "median": 95.2365,
+       "median": 95.7695,
        "priced": 34,
        "below90": 10
       }
@@ -35588,7 +35588,7 @@
       "Latest": [
        [
         0.79,
-        4.784,
+        4.718,
         "02079KAJ6"
        ],
        [
@@ -35598,7 +35598,7 @@
        ],
        [
         2.05,
-        4.858,
+        4.868,
         "02079KAV9"
        ],
        [
@@ -35613,7 +35613,7 @@
        ],
        [
         3.54,
-        5.128,
+        5.139,
         "02079KAK3"
        ],
        [
@@ -35623,7 +35623,7 @@
        ],
        [
         4.05,
-        5.206,
+        5.216,
         "02079KAW7"
        ],
        [
@@ -35638,7 +35638,7 @@
        ],
        [
         6.05,
-        5.356,
+        5.372,
         "02079KAX5"
        ],
        [
@@ -35648,7 +35648,7 @@
        ],
        [
         6.8,
-        5.541,
+        5.536,
         "02079KCR6"
        ],
        [
@@ -35663,12 +35663,12 @@
        ],
        [
         9.3,
-        5.724,
+        5.72,
         "02079KBM8"
        ],
        [
         9.8,
-        5.763,
+        5.733,
         "02079KCS4"
        ],
        [
@@ -35678,12 +35678,12 @@
        ],
        [
         19.05,
-        6.235,
+        6.24,
         "02079KAZ0"
        ],
        [
         19.3,
-        6.25,
+        6.248,
         "02079KBN6"
        ],
        [
@@ -35718,7 +35718,7 @@
        ],
        [
         33.8,
-        5.962,
+        5.982,
         "02079KAG2"
        ],
        [
@@ -35738,7 +35738,7 @@
        ],
        [
         49.05,
-        6.638,
+        6.622,
         "02079KBB2"
        ]
       ],
@@ -36676,7 +36676,7 @@
        "vehicle": null,
        "coupon": 4.4,
        "maturity": "2030-10-15",
-       "last_price": 96.278,
+       "last_price": 96.478,
        "last_date": "2026-10-29",
        "trades_stored": 3066,
        "mark": 98.1677,
@@ -36780,7 +36780,7 @@
        "vehicle": null,
        "coupon": 6.35,
        "maturity": "2045-10-15",
-       "last_price": 97.5,
+       "last_price": 97.33,
        "last_date": "2026-10-29",
        "trades_stored": 12115,
        "mark": 102.438,
@@ -36831,7 +36831,7 @@
       {
        "month": "2023-12",
        "trades": 636,
-       "median": 106.01538,
+       "median": 106.03413,
        "priced": 4,
        "below90": 0
       },
@@ -36852,7 +36852,7 @@
       {
        "month": "2024-03",
        "trades": 820,
-       "median": 106.972,
+       "median": 106.903,
        "priced": 3,
        "below90": 0
       },
@@ -36999,7 +36999,7 @@
       {
        "month": "2025-12",
        "trades": 3217,
-       "median": 100.47939149999999,
+       "median": 100.631639,
        "priced": 12,
        "below90": 0
       },
@@ -37013,7 +37013,7 @@
       {
        "month": "2026-02",
        "trades": 3381,
-       "median": 100.46549999999999,
+       "median": 100.4795,
        "priced": 12,
        "below90": 0
       },
@@ -37055,7 +37055,7 @@
       {
        "month": "2026-08",
        "trades": 3137,
-       "median": 99.378666,
+       "median": 99.2020185,
        "priced": 16,
        "below90": 1
       },
@@ -37078,7 +37078,7 @@
       "Latest": [
        [
         0.88,
-        4.81,
+        4.751,
         "42824CCB3"
        ],
        [
@@ -37190,7 +37190,7 @@
        ],
        [
         4.21,
-        5.077,
+        5.085,
         "42824CCA5"
        ],
        [
@@ -37272,12 +37272,12 @@
        ],
        [
         9.79,
-        5.015,
+        4.983,
         "42824CAX7"
        ],
        [
         19.79,
-        6.07,
+        6.057,
         "42824CAY5"
        ],
        [
@@ -37445,7 +37445,7 @@
        "vehicle": null,
        "coupon": 6.75,
        "maturity": "2029-11-01",
-       "last_price": 109.4,
+       "last_price": 109.5,
        "last_date": "2025-10-22",
        "trades_stored": 13102,
        "mark": 106.8153,
@@ -37763,7 +37763,7 @@
       {
        "month": "2025-02",
        "trades": 3520,
-       "median": 101.42699999999999,
+       "median": 101.477,
        "priced": 12,
        "below90": 3
       },
@@ -37784,14 +37784,14 @@
       {
        "month": "2025-05",
        "trades": 4670,
-       "median": 101.129438,
+       "median": 101.06943799999999,
        "priced": 14,
        "below90": 3
       },
       {
        "month": "2025-06",
        "trades": 3705,
-       "median": 102.841,
+       "median": 102.796,
        "priced": 13,
        "below90": 3
       },
@@ -37903,7 +37903,7 @@
       {
        "month": "2026-10",
        "trades": 738,
-       "median": 100.486,
+       "median": 100.436,
        "priced": 8,
        "below90": 3
       }
@@ -37947,7 +37947,7 @@
        ],
        [
         6.01,
-        5.565,
+        5.545,
         "595112CG6"
        ],
        [
@@ -37999,7 +37999,7 @@
        ],
        [
         3.26,
-        4.091,
+        4.064,
         "595112BV4"
        ],
        [
@@ -38024,7 +38024,7 @@
        ],
        [
         6.53,
-        5.707,
+        5.688,
         "595112BZ5"
        ],
        [
@@ -39320,13 +39320,13 @@
        ],
        [
         1.89,
-        4.689,
-        "573874AN4"
+        4.647,
+        "57385LAB4"
        ],
        [
         1.89,
-        4.71,
-        "57385LAB4"
+        4.689,
+        "573874AN4"
        ],
        [
         2.55,
@@ -39516,7 +39516,7 @@
        "vehicle": null,
        "coupon": 5.5,
        "maturity": "2027-01-16",
-       "last_price": 100.428,
+       "last_price": 100.398,
        "last_date": "2026-10-05",
        "trades_stored": 167,
        "mark": 100.5254,
@@ -39745,7 +39745,7 @@
       {
        "month": "2024-05",
        "trades": 123,
-       "median": 99.691,
+       "median": 99.6865,
        "priced": 10,
        "below90": 2
       },
@@ -39787,14 +39787,14 @@
       {
        "month": "2024-11",
        "trades": 117,
-       "median": 101.191,
+       "median": 101.221,
        "priced": 9,
        "below90": 2
       },
       {
        "month": "2024-12",
        "trades": 99,
-       "median": 101.101195,
+       "median": 101.109005,
        "priced": 10,
        "below90": 2
       },
@@ -39843,7 +39843,7 @@
       {
        "month": "2025-07",
        "trades": 69,
-       "median": 103.5075,
+       "median": 103.52250000000001,
        "priced": 8,
        "below90": 2
       },
@@ -39871,7 +39871,7 @@
       {
        "month": "2025-11",
        "trades": 124,
-       "median": 101.524,
+       "median": 101.449,
        "priced": 14,
        "below90": 0
       },
@@ -39934,7 +39934,7 @@
       {
        "month": "2026-08",
        "trades": 138,
-       "median": 100.46,
+       "median": 100.445,
        "priced": 14,
        "below90": 2
       },
@@ -40019,7 +40019,7 @@
        ],
        [
         4.47,
-        4.915,
+        4.879,
         "78392BAC1"
        ],
        [
@@ -40719,7 +40719,7 @@
        "vehicle": null,
        "coupon": 1.55,
        "maturity": "2028-06-15",
-       "last_price": 94.35,
+       "last_price": 94.6,
        "last_date": "2026-10-28",
        "trades_stored": 10238,
        "mark": 94.82,
@@ -40921,7 +40921,7 @@
       {
        "month": "2024-03",
        "trades": 1439,
-       "median": 84.83735,
+       "median": 84.852975,
        "priced": 6,
        "below90": 5
       },
@@ -41147,12 +41147,12 @@
       "Latest": [
        [
         1.63,
-        4.247,
+        5.018,
         "67066GAP9"
        ],
        [
         1.63,
-        5.046,
+        5.214,
         "67066GAM6"
        ],
        [
@@ -41172,12 +41172,12 @@
        ],
        [
         4.63,
-        5.41,
+        5.537,
         "67066GAR5"
        ],
        [
         6.63,
-        5.548,
+        5.784,
         "67066GAS3"
        ],
        [
@@ -41607,7 +41607,7 @@
       {
        "month": "2024-02",
        "trades": 77,
-       "median": 87.211,
+       "median": 87.226,
        "priced": 10,
        "below90": 7
       },
@@ -41796,7 +41796,7 @@
       {
        "month": "2026-05",
        "trades": 62,
-       "median": 95.5152965,
+       "median": 95.50779650000001,
        "priced": 10,
        "below90": 2
       },
@@ -42107,7 +42107,7 @@
        "vehicle": null,
        "coupon": 5.45,
        "maturity": "2034-10-15",
-       "last_price": 100.58,
+       "last_price": 99.11,
        "last_date": "2026-10-28",
        "trades_stored": 130,
        "mark": null,
@@ -42213,7 +42213,7 @@
       {
        "month": "2024-06",
        "trades": 52,
-       "median": 103.515,
+       "median": 103.484,
        "priced": 3,
        "below90": 0
       },
@@ -42248,7 +42248,7 @@
       {
        "month": "2024-11",
        "trades": 55,
-       "median": 103.041,
+       "median": 103.022,
        "priced": 3,
        "below90": 0
       },
@@ -42283,7 +42283,7 @@
       {
        "month": "2025-04",
        "trades": 50,
-       "median": 103.842,
+       "median": 104.175333,
        "priced": 3,
        "below90": 0
       },
@@ -42297,7 +42297,7 @@
       {
        "month": "2025-06",
        "trades": 142,
-       "median": 105.036,
+       "median": 105.055,
        "priced": 3,
        "below90": 0
       },
@@ -42443,7 +42443,7 @@
        ],
        [
         7.96,
-        5.59,
+        5.621,
         "278058AY8"
        ],
        [
@@ -42453,7 +42453,7 @@
        ],
        [
         10.38,
-        5.791,
+        5.784,
         "278058DB5"
        ],
        [
@@ -42500,7 +42500,7 @@
        ],
        [
         10.62,
-        5.204,
+        5.192,
         "278058DB5"
        ],
        [
@@ -42517,7 +42517,7 @@
        ],
        [
         8.79,
-        4.938,
+        4.951,
         "278058AY8"
        ],
        [
@@ -42763,7 +42763,7 @@
       {
        "month": "2023-11",
        "trades": 748,
-       "median": 91.7915,
+       "median": 91.79599999999999,
        "priced": 6,
        "below90": 3
       },
@@ -42791,7 +42791,7 @@
       {
        "month": "2024-03",
        "trades": 692,
-       "median": 93.369,
+       "median": 93.269,
        "priced": 6,
        "below90": 2
       },
@@ -42861,7 +42861,7 @@
       {
        "month": "2025-01",
        "trades": 962,
-       "median": 97.726,
+       "median": 97.706,
        "priced": 7,
        "below90": 3
       },
@@ -42917,7 +42917,7 @@
       {
        "month": "2025-09",
        "trades": 1420,
-       "median": 99.077,
+       "median": 99.086,
        "priced": 9,
        "below90": 3
       },
@@ -43309,7 +43309,7 @@
        "vehicle": null,
        "coupon": 3.924,
        "maturity": "2032-06-01",
-       "last_price": 92.732,
+       "last_price": 92.982,
        "last_date": "2026-10-29",
        "trades_stored": 6416,
        "mark": 96.5978,
@@ -43348,7 +43348,7 @@
        "vehicle": null,
        "coupon": 4.393,
        "maturity": "2052-06-01",
-       "last_price": 77.23171,
+       "last_price": 77.29421,
        "last_date": "2026-10-29",
        "trades_stored": 3343,
        "mark": 83.8606,
@@ -43553,7 +43553,7 @@
       {
        "month": "2025-10",
        "trades": 406,
-       "median": 97.946,
+       "median": 97.846,
        "priced": 3,
        "below90": 1
       },
@@ -43661,7 +43661,7 @@
        ],
        [
         5.59,
-        5.45,
+        5.395,
         "007903BF3"
        ],
        [
@@ -43683,7 +43683,7 @@
       "Jul 2026": [
        [
         1.65,
-        4.511,
+        4.499,
         "007903BJ5"
        ],
        [
@@ -44085,7 +44085,7 @@
       {
        "month": "2025-08",
        "trades": 808,
-       "median": 96.3215,
+       "median": 96.3415,
        "priced": 8,
        "below90": 1
       },
@@ -44176,7 +44176,7 @@
       {
        "month": "2026-09",
        "trades": 1074,
-       "median": 88.1515,
+       "median": 88.20150000000001,
        "priced": 8,
        "below90": 4
       },
@@ -45297,7 +45297,7 @@
        "vehicle": "Vertiv Group Corporation",
        "coupon": 4.125,
        "maturity": "2028-11-15",
-       "last_price": 98.09668,
+       "last_price": 98.12792,
        "last_date": "2026-10-28",
        "trades_stored": 3295,
        "mark": 98.9043,
@@ -45442,7 +45442,7 @@
       {
        "month": "2024-06",
        "trades": 61,
-       "median": 93.398,
+       "median": 93.44800000000001,
        "priced": 2,
        "below90": 0
       },
@@ -45512,7 +45512,7 @@
       {
        "month": "2025-04",
        "trades": 134,
-       "median": 96.729,
+       "median": 96.75999999999999,
        "priced": 2,
        "below90": 0
       },
@@ -45568,14 +45568,14 @@
       {
        "month": "2025-12",
        "trades": 73,
-       "median": 99.01,
+       "median": 99.038,
        "priced": 3,
        "below90": 0
       },
       {
        "month": "2026-01",
        "trades": 59,
-       "median": 98.6055,
+       "median": 98.7305,
        "priced": 2,
        "below90": 0
       },
@@ -45603,7 +45603,7 @@
       {
        "month": "2026-05",
        "trades": 626,
-       "median": 98.799,
+       "median": 98.757,
        "priced": 7,
        "below90": 0
       },
@@ -46338,7 +46338,7 @@
       {
        "month": "2024-06",
        "trades": 355,
-       "median": 84.488,
+       "median": 83.988,
        "priced": 5,
        "below90": 3
       },
@@ -46602,12 +46602,12 @@
        ],
        [
         4.45,
-        4.051,
+        4.059,
         "512807AV0"
        ],
        [
         23.2,
-        5.502,
+        5.505,
         "512807AT5"
        ],
        [
@@ -46762,7 +46762,7 @@
        "vehicle": null,
        "coupon": 5.875,
        "maturity": "2036-07-15",
-       "last_price": 87.841726,
+       "last_price": 88.282726,
        "last_date": "2026-10-29",
        "trades_stored": 1965,
        "mark": null,
@@ -46788,7 +46788,7 @@
        "vehicle": null,
        "coupon": 6.65,
        "maturity": "2056-07-15",
-       "last_price": 84.956,
+       "last_price": 85.056,
        "last_date": "2026-10-29",
        "trades_stored": 1257,
        "mark": null,
@@ -46827,7 +46827,7 @@
       {
        "month": "2026-10",
        "trades": 1956,
-       "median": 87.841726,
+       "median": 88.282726,
        "priced": 5,
        "below90": 3
       }
@@ -46837,7 +46837,7 @@
      "fund_period": null,
      "n_bonds": 5,
      "trades_stored": 7714,
-     "median_last": 87.84,
+     "median_last": 88.28,
      "below90": 3,
      "n_priced": 5,
      "latest_trade": "2026-10-29"
@@ -47713,7 +47713,7 @@
        "vehicle": null,
        "coupon": 5.875,
        "maturity": "2036-07-15",
-       "last_price": 88.737,
+       "last_price": 88.74,
        "last_date": "2026-10-29",
        "trades_stored": 3242,
        "mark": null,
@@ -49386,7 +49386,7 @@
     "below90": 63,
     "below75": 20
    },
-   "updated": "2026-10-29T18:38:39-04:00",
+   "updated": "2026-10-29T18:52:38-04:00",
    "tape_end": "2026-10-29",
    "most_traded": [
     {
@@ -49586,44 +49586,44 @@
      "volume": 500000.0
     },
     {
+     "cusip": "24703DBV2",
+     "issuer": "DELL INTL L L C / EMC CORP",
+     "security": "4.75% Notes due 2031",
+     "time": "17:13:53",
+     "price": 96.241515,
+     "volume": 335000.0
+    },
+    {
+     "cusip": "482480AH3",
+     "issuer": "KLA CORP",
+     "security": "5% Notes due 2049",
+     "time": "17:13:53",
+     "price": 85.445988,
+     "volume": 3000.0
+    },
+    {
+     "cusip": "007903BM8",
+     "issuer": "ADVANCED MICRO DEVICES INC",
+     "security": "5.25% Notes due 2033",
+     "time": "17:13:53",
+     "price": 97.461741,
+     "volume": 10000.0
+    },
+    {
+     "cusip": "458140CH1",
+     "issuer": "INTEL CORP",
+     "security": "5.625% Notes due 2043",
+     "time": "17:13:53",
+     "price": 90.338955,
+     "volume": 64000.0
+    },
+    {
      "cusip": "982911AA7",
      "issuer": "WULF COMPUTE LLC",
      "security": "7.75% Notes due 2030",
      "time": "17:13:53",
      "price": 102.604562,
      "volume": 10000.0
-    },
-    {
-     "cusip": "573874AJ3",
-     "issuer": "MARVELL TECHNOLOGY INC",
-     "security": "2.95% Notes due 2031",
-     "time": "17:13:53",
-     "price": 89.447234,
-     "volume": 170000.0
-    },
-    {
-     "cusip": "42824CBT5",
-     "issuer": "HEWLETT PACKARD ENTERPRISE CO",
-     "security": "4.55% Notes due 2029",
-     "time": "17:13:53",
-     "price": 97.775792,
-     "volume": 37000.0
-    },
-    {
-     "cusip": "458140CB4",
-     "issuer": "INTEL CORP",
-     "security": "4.9% Notes due 2052",
-     "time": "17:13:53",
-     "price": 77.406582,
-     "volume": 50000.0
-    },
-    {
-     "cusip": "U2069EAE0",
-     "issuer": "COREWEAVE INC",
-     "security": "",
-     "time": "17:13:53",
-     "price": 82.416667,
-     "volume": 367000.0
     }
    ],
    "week": [
@@ -49740,7 +49740,7 @@
      "last_price": 89.13,
      "last_date": "2026-10-28",
      "last_time": "11:05:25",
-     "week_move": 1.73
+     "week_move": 1.71
     },
     {
      "cusip": "30303MAJ1",
@@ -49971,7 +49971,7 @@
      "volume": 274730000.0,
      "high": 90.334,
      "low": 88.242,
-     "last_price": 88.74,
+     "last_price": 88.737,
      "last_date": "2026-10-29",
      "last_time": "16:54:00",
      "week_move": 0.63
@@ -50023,10 +50023,10 @@
      "volume": 20725000.0,
      "high": 99.804,
      "low": 97.096,
-     "last_price": 98.108,
+     "last_price": 98.083,
      "last_date": "2026-10-28",
      "last_time": "10:49:36",
-     "week_move": -0.4
+     "week_move": -0.43
     },
     {
      "cusip": "84615QAC7",
@@ -50065,7 +50065,7 @@
      "last_price": 89.636,
      "last_date": "2026-10-28",
      "last_time": "11:18:06",
-     "week_move": 0.7
+     "week_move": 0.6
     },
     {
      "cusip": "21873SAB4",
@@ -50101,10 +50101,10 @@
      "volume": 21989000.0,
      "high": 95.4,
      "low": 92.996,
-     "last_price": 93.653,
+     "last_price": 93.753,
      "last_date": "2026-10-28",
      "last_time": "11:05:33",
-     "week_move": 0.47
+     "week_move": 0.57
     },
     {
      "cusip": "007903BN6",
@@ -50192,10 +50192,10 @@
      "volume": 48073000.0,
      "high": 93.513,
      "low": 91.194,
-     "last_price": 93.09,
+     "last_price": 91.59,
      "last_date": "2026-10-28",
      "last_time": "10:57:11",
-     "week_move": 2.41
+     "week_move": 0.91
     },
     {
      "cusip": "67066GAV6",
@@ -50208,7 +50208,7 @@
      "last_price": 86.978,
      "last_date": "2026-10-28",
      "last_time": "11:12:17",
-     "week_move": 0.59
+     "week_move": 0.79
     },
     {
      "cusip": "24703DCB5",
@@ -50218,10 +50218,10 @@
      "volume": 27820000.0,
      "high": 99.465,
      "low": 97.329,
-     "last_price": 97.815,
+     "last_price": 97.799,
      "last_date": "2026-10-29",
      "last_time": "16:09:02",
-     "week_move": 0.47
+     "week_move": 0.45
     },
     {
      "cusip": "30303MAB8",
@@ -50296,10 +50296,10 @@
      "volume": 33023000.0,
      "high": 94.887,
      "low": 93.186,
-     "last_price": 93.405,
+     "last_price": 93.43,
      "last_date": "2026-10-28",
      "last_time": "10:56:21",
-     "week_move": 0.3
+     "week_move": 0.33
     },
     {
      "cusip": "42824CBU2",
@@ -50400,10 +50400,10 @@
      "volume": 24384000.0,
      "high": 98.601,
      "low": 97.156,
-     "last_price": 98.53055,
+     "last_price": 97.555,
      "last_date": "2026-10-28",
      "last_time": "11:22:32",
-     "week_move": 1.0
+     "week_move": 0.02
     },
     {
      "cusip": "11135FCG4",
@@ -50416,7 +50416,7 @@
      "last_price": 96.309,
      "last_date": "2026-10-28",
      "last_time": "11:20:33",
-     "week_move": 0.14
+     "week_move": 0.12
     },
     {
      "cusip": "30303M8N5",
@@ -50426,10 +50426,10 @@
      "volume": 11088000.0,
      "high": 97.35,
      "low": 94.436,
-     "last_price": 95.454,
+     "last_price": 95.406,
      "last_date": "2026-10-28",
      "last_time": "11:09:50",
-     "week_move": 0.84
+     "week_move": 0.8
     },
     {
      "cusip": "023135ED4",
@@ -50569,10 +50569,10 @@
      "volume": 18693000.0,
      "high": 95.328,
      "low": 94.102,
-     "last_price": 94.516,
+     "last_price": 94.481,
      "last_date": "2026-10-28",
      "last_time": "11:18:51",
-     "week_move": 0.02
+     "week_move": -0.01
     },
     {
      "cusip": "482480AL4",
@@ -50689,7 +50689,7 @@
      "last_price": 97.775792,
      "last_date": "2026-10-29",
      "last_time": "17:13:53",
-     "week_move": 0.24
+     "week_move": 0.27
     },
     {
      "cusip": "458140CJ7",
@@ -50780,7 +50780,7 @@
      "last_price": 86.919618,
      "last_date": "2026-10-29",
      "last_time": "17:13:53",
-     "week_move": 2.15
+     "week_move": 2.03
     },
     {
      "cusip": "67066GAQ7",
@@ -51014,7 +51014,7 @@
      "last_price": 94.78,
      "last_date": "2026-10-28",
      "last_time": "10:59:31",
-     "week_move": 0.37
+     "week_move": 0.34
     },
     {
      "cusip": "038222AN5",
@@ -51102,10 +51102,10 @@
      "volume": 41852000.0,
      "high": 86.245,
      "low": 81.841,
-     "last_price": 84.90933,
+     "last_price": 84.576,
      "last_date": "2026-10-28",
      "last_time": "10:03:18",
-     "week_move": 4.49
+     "week_move": 4.15
     },
     {
      "cusip": "24703DBX8",
@@ -51128,10 +51128,10 @@
      "volume": 20124000.0,
      "high": 92.982,
      "low": 92.075,
-     "last_price": 92.732,
+     "last_price": 92.982,
      "last_date": "2026-10-29",
      "last_time": "16:48:31",
-     "week_move": 0.43
+     "week_move": 0.68
     },
     {
      "cusip": "30303M8Y1",
@@ -51248,7 +51248,7 @@
      "last_price": 98.738,
      "last_date": "2026-10-28",
      "last_time": "11:14:33",
-     "week_move": 0.52
+     "week_move": 0.41
     },
     {
      "cusip": "42824CBS7",
@@ -51284,10 +51284,10 @@
      "volume": 7971000.0,
      "high": 99.299,
      "low": 97.823,
-     "last_price": 97.823,
+     "last_price": 97.863,
      "last_date": "2026-10-28",
      "last_time": "11:18:42",
-     "week_move": -0.05
+     "week_move": -0.01
     },
     {
      "cusip": "68389XDA0",
@@ -51310,10 +51310,10 @@
      "volume": 7430000.0,
      "high": 99.782305,
      "low": 96.63,
-     "last_price": 98.608,
+     "last_price": 99.347,
      "last_date": "2026-10-28",
      "last_time": "11:10:01",
-     "week_move": 0.07
+     "week_move": 0.79
     },
     {
      "cusip": "023135BF2",
@@ -51352,7 +51352,7 @@
      "last_price": 91.866,
      "last_date": "2026-10-28",
      "last_time": "11:10:23",
-     "week_move": 0.49
+     "week_move": 0.59
     },
     {
      "cusip": "458140BY5",
@@ -51401,10 +51401,10 @@
      "volume": 12385000.0,
      "high": 93.055,
      "low": 91.268,
-     "last_price": 92.331,
+     "last_price": 92.431,
      "last_date": "2026-10-29",
      "last_time": "16:32:08",
-     "week_move": 0.22
+     "week_move": 0.32
     },
     {
      "cusip": "U2069EAA8",
@@ -51466,10 +51466,10 @@
      "volume": 28523000.0,
      "high": 89.25,
      "low": 84.156,
-     "last_price": 85.056,
+     "last_price": 84.956,
      "last_date": "2026-10-29",
      "last_time": "16:04:15",
-     "week_move": 1.41
+     "week_move": 1.31
     },
     {
      "cusip": "02079KAX5",
@@ -51479,10 +51479,10 @@
      "volume": 11716000.0,
      "high": 96.536,
      "low": 93.99,
-     "last_price": 94.989,
+     "last_price": 94.909,
      "last_date": "2026-10-28",
      "last_time": "10:57:11",
-     "week_move": 0.21
+     "week_move": 0.13
     },
     {
      "cusip": "11135FCU3",
@@ -51508,7 +51508,7 @@
      "last_price": 99.7925,
      "last_date": "2026-10-28",
      "last_time": "10:48:41",
-     "week_move": 0.8
+     "week_move": 0.13
     },
     {
      "cusip": "24703TAJ5",
@@ -51596,10 +51596,10 @@
      "volume": 36113000.0,
      "high": 98.704,
      "low": 97.142,
-     "last_price": 98.662,
+     "last_price": 98.652,
      "last_date": "2026-10-28",
      "last_time": "10:59:46",
-     "week_move": 0.15
+     "week_move": 0.14
     },
     {
      "cusip": "30303MAF9",
@@ -51703,7 +51703,7 @@
      "last_price": 90.966,
      "last_date": "2026-10-28",
      "last_time": "11:09:58",
-     "week_move": -0.42
+     "week_move": -0.04
     },
     {
      "cusip": "74751AAA1",
@@ -51778,10 +51778,10 @@
      "volume": 17932000.0,
      "high": 79.536,
      "low": 77.264,
-     "last_price": 78.731,
+     "last_price": 78.756,
      "last_date": "2026-10-28",
      "last_time": "11:01:10",
-     "week_move": 1.7
+     "week_move": 1.73
     },
     {
      "cusip": "11135FCT6",
@@ -51804,10 +51804,10 @@
      "volume": 11491000.0,
      "high": 97.512,
      "low": 95.61,
-     "last_price": 96.01,
+     "last_price": 95.975,
      "last_date": "2026-10-28",
      "last_time": "11:12:43",
-     "week_move": 0.04
+     "week_move": 0.0
     },
     {
      "cusip": "023135EH5",
@@ -52142,10 +52142,10 @@
      "volume": 2312000.0,
      "high": 93.179,
      "low": 92.455,
-     "last_price": 92.762,
+     "last_price": 92.862,
      "last_date": "2026-10-28",
      "last_time": "10:52:54",
-     "week_move": -0.37
+     "week_move": -0.27
     },
     {
      "cusip": "595112CB7",
@@ -52155,10 +52155,10 @@
      "volume": 943000.0,
      "high": 102.419,
      "low": 99.652,
-     "last_price": 101.3,
+     "last_price": 101.675,
      "last_date": "2026-10-29",
      "last_time": "14:41:37",
-     "week_move": 0.93
+     "week_move": 1.28
     },
     {
      "cusip": "44813DAA4",
@@ -52194,10 +52194,10 @@
      "volume": 26970000.0,
      "high": 90.485,
      "low": 88.543,
-     "last_price": 89.861,
+     "last_price": 89.80549,
      "last_date": "2026-10-28",
      "last_time": "10:56:05",
-     "week_move": 0.95
+     "week_move": 0.89
     },
     {
      "cusip": "458140CB4",
@@ -52236,7 +52236,7 @@
      "last_price": 94.375,
      "last_date": "2026-10-29",
      "last_time": "16:01:03",
-     "week_move": 0.17
+     "week_move": 0.11
     },
     {
      "cusip": "594918CD4",
@@ -52285,10 +52285,10 @@
      "volume": 7335000.0,
      "high": 72.139,
      "low": 70.395,
-     "last_price": 71.468,
+     "last_price": 71.422,
      "last_date": "2026-10-28",
      "last_time": "11:09:09",
-     "week_move": 1.35
+     "week_move": 1.31
     },
     {
      "cusip": "023135CS3",
@@ -52340,7 +52340,7 @@
      "last_price": 85.273,
      "last_date": "2026-10-28",
      "last_time": "11:12:25",
-     "week_move": 1.29
+     "week_move": 1.39
     },
     {
      "cusip": "573874AR5",
@@ -52353,7 +52353,7 @@
      "last_price": 97.397377,
      "last_date": "2026-10-29",
      "last_time": "17:13:53",
-     "week_move": -0.02
+     "week_move": 0.1
     },
     {
      "cusip": "11135FCK5",
@@ -52470,7 +52470,7 @@
      "last_price": 99.314,
      "last_date": "2026-10-29",
      "last_time": "14:54:47",
-     "week_move": 0.02
+     "week_move": 0.35
     },
     {
      "cusip": "458140CM0",
@@ -52496,7 +52496,7 @@
      "last_price": 99.038,
      "last_date": "2026-10-28",
      "last_time": "10:45:28",
-     "week_move": -0.0
+     "week_move": -0.02
     },
     {
      "cusip": "023135BJ4",
@@ -52506,10 +52506,10 @@
      "volume": 7502000.0,
      "high": 73.6,
      "low": 72.658,
-     "last_price": 73.07,
+     "last_price": 73.095,
      "last_date": "2026-10-28",
      "last_time": "10:56:39",
-     "week_move": 0.21
+     "week_move": 0.23
     },
     {
      "cusip": "68389XAV7",
@@ -52532,10 +52532,10 @@
      "volume": 5664000.0,
      "high": 95.343,
      "low": 94.962,
-     "last_price": 95.141,
+     "last_price": 95.137,
      "last_date": "2026-10-28",
      "last_time": "10:43:43",
-     "week_move": -0.0
+     "week_move": -0.01
     },
     {
      "cusip": "458140CN8",
@@ -52701,7 +52701,7 @@
      "volume": 12147000.0,
      "high": 92.109,
      "low": 91.15,
-     "last_price": 91.711,
+     "last_price": 91.705,
      "last_date": "2026-10-28",
      "last_time": "11:09:17",
      "week_move": 1.12
@@ -52769,7 +52769,7 @@
      "last_price": 74.149,
      "last_date": "2026-10-28",
      "last_time": "10:46:49",
-     "week_move": 0.87
+     "week_move": 1.0
     },
     {
      "cusip": "68389XCZ6",
@@ -52818,10 +52818,10 @@
      "volume": 3456000.0,
      "high": 90.918,
      "low": 89.069,
-     "last_price": 90.216,
+     "last_price": 90.157,
      "last_date": "2026-10-28",
      "last_time": "10:43:50",
-     "week_move": 1.31
+     "week_move": 1.25
     },
     {
      "cusip": "02079KBP1",
@@ -52873,7 +52873,7 @@
      "last_price": 70.922,
      "last_date": "2026-10-29",
      "last_time": "16:00:32",
-     "week_move": -0.06
+     "week_move": -0.03
     },
     {
      "cusip": "11135FCQ2",
@@ -52909,10 +52909,10 @@
      "volume": 1923000.0,
      "high": 72.56,
      "low": 71.923,
-     "last_price": 72.31,
+     "last_price": 72.21,
      "last_date": "2026-10-28",
      "last_time": "11:08:23",
-     "week_move": 0.44
+     "week_move": 0.34
     },
     {
      "cusip": "21873SAD0",
@@ -52948,10 +52948,10 @@
      "volume": 1707000.0,
      "high": 92.194,
      "low": 88.762,
-     "last_price": 90.223,
+     "last_price": 90.148,
      "last_date": "2026-10-28",
      "last_time": "10:51:27",
-     "week_move": 1.3
+     "week_move": 1.22
     },
     {
      "cusip": "92537NAA6",
@@ -52964,7 +52964,7 @@
      "last_price": 92.692,
      "last_date": "2026-10-29",
      "last_time": "16:14:13",
-     "week_move": 0.5
+     "week_move": 0.53
     },
     {
      "cusip": "023135BU9",
@@ -52977,7 +52977,7 @@
      "last_price": 49.26,
      "last_date": "2026-10-28",
      "last_time": "11:01:13",
-     "week_move": 0.61
+     "week_move": 0.66
     },
     {
      "cusip": "02079KCN5",
@@ -53055,7 +53055,7 @@
      "last_price": 88.701217,
      "last_date": "2026-10-28",
      "last_time": "10:34:00",
-     "week_move": 0.09
+     "week_move": 0.22
     },
     {
      "cusip": "68389XBQ7",
@@ -53065,10 +53065,10 @@
      "volume": 2574000.0,
      "high": 59.359,
      "low": 57.134,
-     "last_price": 58.61,
+     "last_price": 58.635,
      "last_date": "2026-10-28",
      "last_time": "10:52:15",
-     "week_move": 1.83
+     "week_move": 1.86
     },
     {
      "cusip": "023135DB9",
@@ -53094,7 +53094,7 @@
      "last_price": 65.374,
      "last_date": "2026-10-28",
      "last_time": "09:20:39",
-     "week_move": 2.43
+     "week_move": 2.41
     },
     {
      "cusip": "037833EV8",
@@ -53107,7 +53107,7 @@
      "last_price": 95.823,
      "last_date": "2026-10-28",
      "last_time": "10:43:57",
-     "week_move": 0.24
+     "week_move": 0.57
     },
     {
      "cusip": "02079KBN6",
@@ -53130,10 +53130,10 @@
      "volume": 2000000.0,
      "high": 91.943858,
      "low": 91.354,
-     "last_price": 91.604,
+     "last_price": 91.354,
      "last_date": "2026-10-28",
      "last_time": "10:41:47",
-     "week_move": -0.03
+     "week_move": -0.28
     },
     {
      "cusip": "30303M8Q8",
@@ -53159,7 +53159,7 @@
      "last_price": 99.42,
      "last_date": "2026-10-29",
      "last_time": "16:00:10",
-     "week_move": -0.13
+     "week_move": -0.15
     },
     {
      "cusip": "023135BS4",
@@ -53208,10 +53208,10 @@
      "volume": 3100000.0,
      "high": 98.188,
      "low": 97.948069,
-     "last_price": 98.087,
+     "last_price": 98.107,
      "last_date": "2026-10-28",
      "last_time": "10:52:11",
-     "week_move": -1.27
+     "week_move": -0.32
     },
     {
      "cusip": "278058DY5",
@@ -53351,10 +53351,10 @@
      "volume": 18389000.0,
      "high": 99.402,
      "low": 99.224,
-     "last_price": 99.402,
+     "last_price": 99.352,
      "last_date": "2026-10-29",
      "last_time": "15:50:26",
-     "week_move": 0.03
+     "week_move": -0.02
     },
     {
      "cusip": "68389XDB8",
@@ -53367,7 +53367,7 @@
      "last_price": 75.179,
      "last_date": "2026-10-28",
      "last_time": "10:21:32",
-     "week_move": 2.5
+     "week_move": 2.48
     },
     {
      "cusip": "02079KBA4",
@@ -53377,10 +53377,10 @@
      "volume": 10644000.0,
      "high": 87.912,
      "low": 86.292,
-     "last_price": 86.524,
+     "last_price": 86.644,
      "last_date": "2026-10-27",
      "last_time": "16:45:20",
-     "week_move": 0.34
+     "week_move": 0.46
     },
     {
      "cusip": "68389XEA9",
@@ -53523,7 +53523,7 @@
      "last_price": 97.51,
      "last_date": "2026-10-28",
      "last_time": "11:01:31",
-     "week_move": -1.56
+     "week_move": -0.11
     },
     {
      "cusip": "037833CR9",
@@ -53653,7 +53653,7 @@
      "last_price": 52.97,
      "last_date": "2026-10-28",
      "last_time": "10:19:06",
-     "week_move": 0.27
+     "week_move": 0.37
     },
     {
      "cusip": "11135FCZ2",
@@ -53731,7 +53731,7 @@
      "last_price": 73.11,
      "last_date": "2026-10-28",
      "last_time": "11:08:19",
-     "week_move": 2.34
+     "week_move": 2.22
     },
     {
      "cusip": "037833EN6",
@@ -53793,10 +53793,10 @@
      "volume": 2413000.0,
      "high": 99.103,
      "low": 98.731694,
-     "last_price": 98.837,
+     "last_price": 98.83,
      "last_date": "2026-10-28",
      "last_time": "11:13:43",
-     "week_move": -0.12
+     "week_move": -0.13
     },
     {
      "cusip": "023135CW4",
@@ -53848,7 +53848,7 @@
      "last_price": 89.411,
      "last_date": "2026-10-28",
      "last_time": "11:15:17",
-     "week_move": 0.92
+     "week_move": 0.81
     },
     {
      "cusip": "68389XBD6",
@@ -53861,7 +53861,7 @@
      "last_price": 89.096,
      "last_date": "2026-10-28",
      "last_time": "10:24:56",
-     "week_move": 1.21
+     "week_move": 1.16
     },
     {
      "cusip": "458140CC2",
@@ -53910,10 +53910,10 @@
      "volume": 9437000.0,
      "high": 99.784,
      "low": 99.5,
-     "last_price": 99.597,
+     "last_price": 99.617,
      "last_date": "2026-10-28",
      "last_time": "10:53:24",
-     "week_move": 0.05
+     "week_move": 0.07
     },
     {
      "cusip": "573874AF1",
@@ -53936,10 +53936,10 @@
      "volume": 5659000.0,
      "high": 55.138,
      "low": 54.411,
-     "last_price": 54.676,
+     "last_price": 54.411,
      "last_date": "2026-10-28",
      "last_time": "11:18:12",
-     "week_move": 0.35
+     "week_move": 0.25
     },
     {
      "cusip": "02079KAG2",
@@ -53949,10 +53949,10 @@
      "volume": 4996000.0,
      "high": 47.973,
      "low": 44.092,
-     "last_price": 46.285,
+     "last_price": 46.31,
      "last_date": "2026-10-28",
      "last_time": "11:07:00",
-     "week_move": 0.5
+     "week_move": 0.87
     },
     {
      "cusip": "482480AF7",
@@ -53978,7 +53978,7 @@
      "last_price": 74.173,
      "last_date": "2026-10-28",
      "last_time": "10:24:38",
-     "week_move": 0.14
+     "week_move": 0.2
     },
     {
      "cusip": "573874AS3",
@@ -54017,7 +54017,7 @@
      "last_price": 59.273,
      "last_date": "2026-10-28",
      "last_time": "10:15:00",
-     "week_move": 0.49
+     "week_move": 0.56
     },
     {
      "cusip": "46270CAJ8",
@@ -54157,10 +54157,10 @@
      "volume": 28367000.0,
      "high": 78.034,
      "low": 76.961,
-     "last_price": 77.29421,
+     "last_price": 77.23171,
      "last_date": "2026-10-29",
      "last_time": "15:34:02",
-     "week_move": 0.06
+     "week_move": 0.2
     },
     {
      "cusip": "278058DV1",
@@ -54238,7 +54238,7 @@
      "last_price": 59.723,
      "last_date": "2026-10-28",
      "last_time": "11:12:55",
-     "week_move": 1.51
+     "week_move": 1.61
     },
     {
      "cusip": "02079KBJ5",
@@ -54264,7 +54264,7 @@
      "last_price": 53.646,
      "last_date": "2026-10-27",
      "last_time": "15:54:29",
-     "week_move": 1.76
+     "week_move": 1.8
     },
     {
      "cusip": "038222AK1",
@@ -54313,10 +54313,10 @@
      "volume": 17508000.0,
      "high": 56.898,
      "low": 55.52,
-     "last_price": 56.898,
+     "last_price": 56.798,
      "last_date": "2026-10-28",
      "last_time": "09:35:57",
-     "week_move": 0.83
+     "week_move": 0.73
     },
     {
      "cusip": "68389XCU7",
@@ -54355,7 +54355,7 @@
      "last_price": 87.263,
      "last_date": "2026-10-28",
      "last_time": "09:25:21",
-     "week_move": 1.56
+     "week_move": -0.72
     },
     {
      "cusip": "278058EA6",
@@ -54381,7 +54381,7 @@
      "last_price": 91.281,
      "last_date": "2026-10-28",
      "last_time": "11:10:23",
-     "week_move": 0.05
+     "week_move": -0.18
     },
     {
      "cusip": "038222AM7",
@@ -54407,7 +54407,7 @@
      "last_price": 98.912,
      "last_date": "2026-10-28",
      "last_time": "13:27:57",
-     "week_move": -0.97
+     "week_move": -0.9
     },
     {
      "cusip": "68389XBY0",
@@ -54433,7 +54433,7 @@
      "last_price": 76.771,
      "last_date": "2026-10-28",
      "last_time": "11:15:28",
-     "week_move": 0.17
+     "week_move": 0.22
     },
     {
      "cusip": "46270CAG4",
@@ -54472,7 +54472,7 @@
      "last_price": 71.45,
      "last_date": "2026-10-28",
      "last_time": "11:05:31",
-     "week_move": -0.19
+     "week_move": -0.08
     },
     {
      "cusip": "037833EW6",
@@ -54521,10 +54521,10 @@
      "volume": 654000.0,
      "high": 91.413,
      "low": 90.247,
-     "last_price": 90.983,
+     "last_price": 91.032,
      "last_date": "2026-10-29",
      "last_time": "11:40:52",
-     "week_move": -0.04
+     "week_move": 0.01
     },
     {
      "cusip": "42824CBZ1",
@@ -54589,7 +54589,7 @@
      "last_price": 64.626,
      "last_date": "2026-10-29",
      "last_time": "16:14:48",
-     "week_move": 0.11
+     "week_move": 0.04
     },
     {
      "cusip": "595112BT9",
@@ -54719,7 +54719,7 @@
      "last_price": 100.447,
      "last_date": "2026-10-29",
      "last_time": "15:45:15",
-     "week_move": -1.18
+     "week_move": -0.07
     },
     {
      "cusip": "037833DW7",
@@ -54771,7 +54771,7 @@
      "last_price": 88.790042,
      "last_date": "2026-10-28",
      "last_time": "11:12:39",
-     "week_move": -0.55
+     "week_move": -0.61
     },
     {
      "cusip": "458140BX7",
@@ -54849,7 +54849,7 @@
      "last_price": 87.981,
      "last_date": "2026-10-28",
      "last_time": "09:45:42",
-     "week_move": -0.08
+     "week_move": -0.1
     },
     {
      "cusip": "594918AD6",
@@ -54862,7 +54862,7 @@
      "last_price": 98.04,
      "last_date": "2026-10-28",
      "last_time": "10:50:09",
-     "week_move": 0.1
+     "week_move": 0.04
     },
     {
      "cusip": "11135FCS8",
@@ -54914,7 +54914,7 @@
      "last_price": 96.384,
      "last_date": "2026-10-28",
      "last_time": "10:19:27",
-     "week_move": -0.05
+     "week_move": -0.17
     },
     {
      "cusip": "037833DQ0",
@@ -54927,7 +54927,7 @@
      "last_price": 62.248,
      "last_date": "2026-10-28",
      "last_time": "11:12:49",
-     "week_move": 0.11
+     "week_move": 0.15
     },
     {
      "cusip": "037833BH2",
@@ -55158,10 +55158,10 @@
      "volume": 1094000.0,
      "high": 99.259,
      "low": 98.719,
-     "last_price": 98.959,
+     "last_price": 99.259,
      "last_date": "2026-10-28",
      "last_time": "11:02:32",
-     "week_move": 0.06
+     "week_move": 0.36
     },
     {
      "cusip": "594918BL7",
@@ -55171,10 +55171,10 @@
      "volume": 1061000.0,
      "high": 84.036,
      "low": 83.303666,
-     "last_price": 83.303666,
+     "last_price": 83.637,
      "last_date": "2026-10-28",
      "last_time": "09:57:19",
-     "week_move": 0.19
+     "week_move": 0.52
     },
     {
      "cusip": "037833EG1",
@@ -55187,7 +55187,7 @@
      "last_price": 53.859,
      "last_date": "2026-10-28",
      "last_time": "09:51:50",
-     "week_move": 1.03
+     "week_move": 0.63
     },
     {
      "cusip": "24703DBH3",
@@ -55379,10 +55379,10 @@
      "volume": 766000.0,
      "high": 67.819,
      "low": 66.494,
-     "last_price": 67.819,
+     "last_price": 67.294,
      "last_date": "2026-10-28",
      "last_time": "10:16:37",
-     "week_move": 0.77
+     "week_move": 0.24
     },
     {
      "cusip": "594918BD5",
@@ -55395,7 +55395,7 @@
      "last_price": 75.937625,
      "last_date": "2026-10-27",
      "last_time": "17:29:40",
-     "week_move": 0.34
+     "week_move": 0.24
     },
     {
      "cusip": "74690FBP0",
@@ -55447,7 +55447,7 @@
      "last_price": 79.339,
      "last_date": "2026-10-27",
      "last_time": "16:45:53",
-     "week_move": 0.12
+     "week_move": 0.15
     },
     {
      "cusip": "023135BR6",
@@ -55512,7 +55512,7 @@
      "last_price": 102.604562,
      "last_date": "2026-10-29",
      "last_time": "17:13:53",
-     "week_move": -2.1
+     "week_move": -0.85
     },
     {
      "cusip": "594918BM5",
@@ -55525,7 +55525,7 @@
      "last_price": 82.992,
      "last_date": "2026-10-27",
      "last_time": "12:41:01",
-     "week_move": -0.1
+     "week_move": -0.2
     },
     {
      "cusip": "594918CU6",
@@ -55535,10 +55535,10 @@
      "volume": 110000.0,
      "high": 84.203,
      "low": 82.941,
-     "last_price": 84.203,
+     "last_price": 83.203,
      "last_date": "2026-10-27",
      "last_time": "14:40:37",
-     "week_move": 1.38
+     "week_move": 0.38
     },
     {
      "cusip": "594918CQ5",
@@ -55733,7 +55733,7 @@
      "last_price": 96.999554,
      "last_date": "2026-10-27",
      "last_time": "17:29:40",
-     "week_move": 0.12
+     "week_move": 0.15
     },
     {
      "cusip": "U59197AB6",
@@ -55967,7 +55967,7 @@
      "last_price": 96.675,
      "last_date": "2026-10-27",
      "last_time": "10:25:36",
-     "week_move": -1.49
+     "week_move": -1.52
     },
     {
      "cusip": "G91139AK4",
@@ -56900,7 +56900,7 @@
      "volume": 0,
      "high": null,
      "low": null,
-     "last_price": 109.5,
+     "last_price": 109.4,
      "last_date": "2025-10-22",
      "last_time": null,
      "week_move": null
@@ -56939,7 +56939,7 @@
      "volume": 0,
      "high": null,
      "low": null,
-     "last_price": 100.425,
+     "last_price": 100.525,
      "last_date": "2026-10-16",
      "last_time": null,
      "week_move": null
