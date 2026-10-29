@@ -1,14 +1,14 @@
 ---
-title: "North Korea launches unidentified projectile toward East Sea"
+title: "North Korea fires suspected ballistic missile toward East Sea"
 date: 2026-10-29T00:16:15-04:00
-last_updated: 2026-10-29T00:16:15-04:00
+last_updated: 2026-10-29T00:49:17-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "South Korea's Joint Chiefs of Staff said North Korea launched an unidentified projectile toward the East Sea, in a Yonhap breaking news flash published late on October 28 Toronto time, with no type, flight path or landing details given."
-why_it_matters: "Projectile launches toward the East Sea are Pyongyang's standard signalling tool, and the first official details on type and range will decide whether this one is routine artillery or a longer range missile test with wider regional consequences."
+lede: "Japan's Coast Guard said the projectile North Korea fired toward the sea off its east coast could be a ballistic missile and had already fallen into the sea, Reuters reported, after South Korea's Joint Chiefs of Staff first announced an unidentified projectile launch."
+why_it_matters: "A ballistic identification would make this Pyongyang's first ballistic missile firing since October 12, per Reuters, in a year with more than ten missile tests; the type and range Seoul and Tokyo publish next will decide whether it reads as routine signalling or a step up."
 featured: false
 evidence_grade: "C"
 sources:
@@ -16,10 +16,18 @@ sources:
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261029105900504"
     published: "2026-10-29"
+  - title: "North Korea fires projectile toward sea off east coast, South Korea military says"
+    publisher: "Reuters"
+    url: "https://srnnews.com/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says/"
+    published: "2026-10-29"
 tags: []
-data_as_of: "Yonhap breaking news flash (in Korean), transmitted October 29, 2026 at 12:39 Korea time, read in full in this run via the live browser after the text fetch was blocked; the flash is a single line reporting the Joint Chiefs of Staff announcement and gives no projectile type, launch time or flight details. Russian wires carried matching headlines in the feed pool (RIA: an unidentified projectile toward the Sea of Japan; TASS: Japan described a presumed ballistic missile), but both articles were blocked to this run and are not relied on. Single-sourced to the Yonhap flash, hence grade C. Developing item."
+data_as_of: "Update 2026-10-29T00:49:17-04:00: the ballistic characterisation, the fall into the sea, the October 12 last ballistic firing and the more than ten tests this year are from Reuters, Seoul, October 29, 2026, read in full in this run via its SRN News syndication; Reuters attributes the Coast Guard statement to Japan's Coast Guard directly and the Defence Ministry detection to Yonhap. Later Yonhap Korean flashes in the feed pool carried a Joint Chiefs characterisation of the launch in their headlines; their full text could not be read in this run, so no missile count or launch area is stated here. Original text: Yonhap breaking news flash (in Korean), transmitted October 29, 2026 at 12:39 Korea time, read in full via the live browser in the original run; the flash is a single line reporting the Joint Chiefs of Staff announcement. Developing item."
 ---
 
 North Korea launched an unidentified projectile toward the East Sea, South Korea's Joint Chiefs of Staff announced, according to a Yonhap breaking news flash transmitted early on October 29 Korea time. The flash gave no further detail: it did not identify the projectile type, the launch site or where the projectile landed.
 
-No official reaction beyond the Joint Chiefs announcement was reported in the flash. Further South Korean and Japanese assessments, which usually follow within the hour with a type and range estimate, had not reached the feed pool when this item was written.
+## Latest
+
+Japan's Coast Guard said the launched projectile could be a ballistic missile and had already fallen into the sea, Reuters reported from Seoul on October 29. Japan's Defence Ministry also said it had detected a North Korean launch of a possible ballistic weapon, according to Yonhap, as reported by Reuters.
+
+Reuters noted that North Korea last fired ballistic missiles on October 12, amid heightened tension on the inter-Korean border over a mine blast that wounded South Korean soldiers last month, and that Pyongyang has conducted missile tests on more than 10 occasions this year. No launch site, range or missile count has been published in the reporting read for this update.
