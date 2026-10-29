@@ -1,15 +1,15 @@
 ---
 title: "Japan"
-date: "2026-10-28"
+date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Japan, refreshed hourly."
-data_as_of: "Oct 28, 7:05 PM ET"
+data_as_of: "Oct 28, 8:11 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 28, 7:05 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 28, 8:11 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Nikkei 225 (index)</td><td class="num">63,268 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+1.73%</span></td><td class="num"><span class="down">-1.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.6 4.8,16.7 9.6,13.1 14.4,6.9 19.2,8.7 24.0,4.1 28.8,2.0 33.6,3.8 38.4,6.6 43.2,6.7 48.0,10.2 52.8,10.3 57.6,19.7 62.4,17.1 67.2,18.3 72.0,20.7 76.8,19.1 81.6,24.0 86.4,24.6 91.2,26.0 96.0,23.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$94.99 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.27%</span></td><td class="num"><span class="down">-0.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 4.6,10.6 9.1,10.9 13.7,3.8 18.3,2.1 22.9,2.0 27.4,6.6 32.0,11.2 36.6,8.7 41.1,11.2 45.7,11.2 50.3,18.0 54.9,19.9 59.4,22.4 64.0,21.9 68.6,19.9 73.1,18.6 77.7,23.7 82.3,26.0 86.9,25.2 91.4,20.7 96.0,21.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/JPY</td><td class="num">157.78 <span class="gm-sub-inline">as of 2026-10-28</span></td><td class="num"><span class="down">-0.16%</span></td><td class="num"><span class="up">+0.31%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.5 4.4,15.7 8.7,15.2 13.1,13.4 17.5,9.0 21.8,11.3 26.2,8.6 30.5,4.7 34.9,7.5 39.3,7.4 43.6,5.8 48.0,2.0 52.4,4.4 56.7,8.7 61.1,6.5 65.5,10.5 69.8,2.0 74.2,5.0 78.5,6.6 82.9,26.0 87.3,22.0 91.6,13.8 96.0,10.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Nikkei 225 (index)</td><td class="num">63,268 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+1.73%</span></td><td class="num"><span class="down">-1.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.7 5.1,13.1 10.1,6.9 15.2,8.7 20.2,4.1 25.3,2.0 30.3,3.8 35.4,6.6 40.4,6.7 45.5,10.2 50.5,10.3 55.6,19.7 60.6,17.1 65.7,18.3 70.7,20.7 75.8,19.1 80.8,24.0 85.9,24.6 90.9,26.0 96.0,23.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$95.25 <span class="gm-sub-inline">as of 2026-10-27, stale</span></td><td class="num"><span class="up">+1.03%</span></td><td class="num"><span class="down">-0.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 4.8,10.6 9.6,10.9 14.4,3.8 19.2,2.1 24.0,2.0 28.8,6.6 33.6,11.2 38.4,8.7 43.2,11.2 48.0,11.2 52.8,18.0 57.6,19.9 62.4,22.4 67.2,21.9 72.0,19.9 76.8,18.6 81.6,23.7 86.4,26.0 91.2,25.2 96.0,20.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/JPY</td><td class="num">157.99 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.00%</span></td><td class="num"><span class="up">+0.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.7 4.4,15.2 8.7,13.4 13.1,9.0 17.5,11.3 21.8,8.6 26.2,4.7 30.5,7.5 34.9,7.4 39.3,5.8 43.6,2.0 48.0,4.4 52.4,8.7 56.7,6.5 61.1,10.5 65.5,2.0 69.8,5.0 74.2,6.6 78.5,26.0 82.9,22.0 87.3,13.8 91.6,8.3 96.0,8.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
