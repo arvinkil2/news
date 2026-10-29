@@ -1,18 +1,18 @@
 ---
 title: "OFAC issues wind-down license for designated development bank"
 date: 2026-10-29T14:44:50-04:00
-last_updated: 2026-10-29T14:44:50-04:00
+last_updated: 2026-10-29T14:50:27-04:00
 update_bump: true
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "The Treasury's Office of Foreign Assets Control issued Iran General License FF-1 on Thursday, authorizing the wind down of transactions involving the International Development Bank for Investment and Finance."
-why_it_matters: "A wind-down license is the step that follows a blocking action: it gives banks and counterparties a defined channel to unwind dealings with the designated bank rather than freezing every transaction at once."
+lede: "The Treasury's Office of Foreign Assets Control issued Iran General License FF-1 on Thursday, authorizing the wind down of transactions involving the International Development Bank for Investment and Finance, also known as Iraq Development Bank, through 12:01 a.m. eastern standard time on December 1, 2026."
+why_it_matters: "The amended license replaces the October 15 license in full and gives banks and counterparties a defined window, ending December 1, to unwind dealings with the designated bank, with any payment to a blocked person required to go into a blocked account."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
-  - title: "Issuance of Amended Iran-related General License"
+  - title: "Issuance of Amended Iran-related General License, with Iran General License FF-1"
     publisher: "Office of Foreign Assets Control, US Treasury"
     url: "https://ofac.treasury.gov/recent-actions/20261029"
     published: "2026-10-29"
@@ -21,9 +21,9 @@ sources:
     url: "https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions"
     published: "2026-10-29"
 tags: []
-data_as_of: "OFAC's Iran sanctions program page, crawled October 29, 2026, lists Iran General License FF-1, dated October 29, 2026, as authorizing the wind down of transactions involving International Development Bank for Investment and Finance; OFAC's October 29 recent-actions page records the issuance of an amended Iran-related general license the same day. The license text itself, including any wind-down deadline, could not be read in this run, and no deadline is stated. Developing item."
+data_as_of: "Update 2026-10-29T14:50:27-04:00: OFAC's October 29, 2026 recent-actions page and the text of Iran General License FF-1 itself, both read in full in this run. The license is dated October 29, 2026, replaces General License FF of October 15, 2026 in its entirety, and is the only action on the page: no designations or SDN list changes accompany it. Developing item."
 ---
 
-The Office of Foreign Assets Control issued Iran General License FF-1 on Thursday, authorizing the wind down of transactions involving the International Development Bank for Investment and Finance, according to OFAC's Iran sanctions program page. OFAC's recent-actions page for October 29 records the action as the issuance of an amended Iran-related general license.
+The Office of Foreign Assets Control issued Iran General License FF-1 on Thursday, authorizing transactions ordinarily incident and necessary to the wind down of dealings involving the International Development Bank for Investment and Finance, also known as Iraq Development Bank, and any entity it owns, directly or indirectly, by 50 percent or more. The authorization runs through 12:01 a.m. eastern standard time on December 1, 2026, and any payment to a blocked person under it must be made into a blocked account.
 
-The license is the standard companion to a blocking designation: it lets United States persons and counterparties unwind existing dealings with the bank in an orderly way instead of halting them outright. OFAC's listing does not state the wind-down period in the program page summary, and the full license text was not readable in this run, so no deadline is reported here.
+The license is an amendment in form as well as name: effective October 29, it replaces and supersedes General License FF, dated October 15, 2026, in its entirety. It authorizes nothing beyond the wind down, and transactions involving any other person blocked under the Iranian Transactions and Sanctions Regulations remain prohibited unless separately authorized. The issuance is the only action on OFAC's October 29 page, with no new designations attached.
