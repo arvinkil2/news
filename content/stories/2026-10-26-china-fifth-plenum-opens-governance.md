@@ -1,12 +1,12 @@
 ---
 title: "Fifth plenum ratifies Zhang Youxia expulsion from party"
 date: 2026-10-26T07:11:33-04:00
-last_updated: 2026-10-29T07:07:15-04:00
+last_updated: 2026-10-29T12:47:40-04:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "China's fifth plenum has ratified the expulsion of Zhang Youxia, the former vice chairman of the Central Military Commission, from the Communist Party, Yonhap reported on Thursday as the four day session closed in Beijing."
-why_it_matters: "Ratifying the expulsion of the military's former second ranking officer is the clearest personnel outcome of the plenum so far, extending Xi Jinping's purge of the top ranks of the armed forces, and the closing communique is still to come."
+lede: "China's fifth plenum has closed with a resolution praising Xi Jinping's anti corruption leadership and demanding stricter party discipline, Deutsche Welle reported, on top of the session's ratified expulsion of Zhang Youxia and the promotion of Zhang Shengmin to the Politburo."
+why_it_matters: "The closing resolution confirms the session was about control, not economic policy: discipline and loyalty language, no successor named, and the personnel moves, one general expelled and one promoted, show the purge and the rebuilding of the military leadership proceeding together a year before the party congress."
 featured: false
 evidence_grade: "C"
 sources:
@@ -22,10 +22,16 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-29/china-names-vice-military-chair-as-new-politburo-member"
     published: "2026-10-29"
+  - title: "China leaders demand more loyalty and more initiative"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-xml-mrss"
+    published: "2026-10-29"
 tags: []
-data_as_of: "Update 2026-10-29T07:07:15-04:00: Zhang Shengmin, vice chair of the Central Military Commission, has been promoted to the Politburo, per Bloomberg in the feed pool and Reuters reporting Xinhua via search results in this run; both accounts trace to the same official announcement, so the promotion is reported, not independently corroborated, and the grade stays C. Bloomberg also reported the party plans its congress next year. Zhang Shengmin is a different person from Zhang Youxia, whose expulsion was ratified (below). Update 2026-10-29T06:13:25-04:00: the Zhang Youxia ratification is from a Yonhap News Agency breaking news flash published October 29, 2026 and read in full in this run via the live browser, in Korean; the flash carries no body text beyond its headline, names no other personnel decisions and gives no reasons, and no Xinhua or plenum communique text confirming it was available in this run, so that item is single-sourced. Earlier: Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
+data_as_of: "Update 2026-10-29T12:47:40-04:00: the closing resolution is as reported by Deutsche Welle on October 29, 2026, in an article originally published in Chinese and read in full in this run via the live browser; DW reported the committee's Thursday press release and resolution, and named no personnel decisions and no successor. The Xinhua communique text itself was not obtained in this run, so the grade stays C. Update 2026-10-29T07:07:15-04:00: Zhang Shengmin, vice chair of the Central Military Commission, has been promoted to the Politburo, per Bloomberg in the feed pool and Reuters reporting Xinhua via search results in this run; both accounts trace to the same official announcement, so the promotion is reported, not independently corroborated, and the grade stays C. Bloomberg also reported the party plans its congress next year. Zhang Shengmin is a different person from Zhang Youxia, whose expulsion was ratified (below). Update 2026-10-29T06:13:25-04:00: the Zhang Youxia ratification is from a Yonhap News Agency breaking news flash published October 29, 2026 and read in full in this run via the live browser, in Korean; the flash carries no body text beyond its headline, names no other personnel decisions and gives no reasons, and no Xinhua or plenum communique text confirming it was available in this run, so that item is single-sourced. Earlier: Plenum opened Monday, October 26, 2026 and runs to Thursday, October 29, 2026. Single-sourced: Reuters dispatch of October 26, 2026 reporting the Xinhua account; no independent second source for the opening session's content was available in this run, and the communique is not due until Thursday. Evidence grade capped at C on that basis."
 update_bump: true
 ---
+
+**Latest, October 29:** The session has now closed, and its closing resolution is a discipline document. Deutsche Welle reported that the committee published a resolution praising the leadership and Xi Jinping for, in its words, enormous political courage and a strong sense of responsibility in tackling corruption and the weakening of the party's governance, and emphasizing the need to consistently advance comprehensive and strict party leadership. Xi signaled he would deepen the anti corruption effort and that officials at all levels should show more loyalty and more initiative. The article named no successor, and analysts cited by DW said the succession question was left unanswered, with Xi likely to be confirmed as general secretary at next year's congress and able to stay until 2032. On the evidence available in this run, the communique carried no shift in economic, property or technology policy language.
 
 **Latest, October 29:** The plenum has also promoted Zhang Shengmin, a vice chairman of the Central Military Commission, to the Politburo, Bloomberg reported, and the party plans its next congress next year. Zhang Shengmin is not Zhang Youxia: Shengmin is the military's discipline chief who rose to CMC vice chair last year, while Youxia is the former vice chairman whose expulsion the same session ratified, in the update below. One general promoted and another expelled at the same plenum is the personnel story of the session in miniature: the purge and the rebuilding of the military leadership are proceeding together, a year before a congress at which Xi Jinping is expected to seek a fourth term.
 
