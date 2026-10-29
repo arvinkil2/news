@@ -2,13 +2,13 @@
 title: "United States"
 date: "2026-10-29"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Oct 29, 1:03 PM ET"
+data_as_of: "Oct 29, 2:06 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 1:03 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 2:06 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,716 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.36%</span></td><td class="num"><span class="up">+0.69%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.2 4.4,22.6 8.7,20.7 13.1,13.8 17.5,7.5 21.8,2.0 26.2,4.1 30.5,8.6 34.9,2.9 39.3,3.4 43.6,3.7 48.0,14.3 52.4,11.2 56.7,21.6 61.1,17.8 65.5,15.1 69.8,9.6 74.2,21.1 78.5,26.0 82.9,19.5 87.3,13.8 91.6,11.2 96.0,14.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$769.15 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.41%</span></td><td class="num"><span class="up">+0.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.7 4.4,22.7 8.7,21.0 13.1,13.9 17.5,7.3 21.8,2.0 26.2,4.3 30.5,8.5 34.9,2.7 39.3,3.2 43.6,3.4 48.0,13.9 52.4,11.2 56.7,21.9 61.1,17.8 65.5,14.6 69.8,9.5 74.2,21.0 78.5,26.0 82.9,19.2 87.3,13.8 91.6,10.5 96.0,14.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P 500 (index)</td><td class="num">7,698 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.59%</span></td><td class="num"><span class="up">+0.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.2 4.4,22.6 8.7,20.7 13.1,13.8 17.5,7.5 21.8,2.0 26.2,4.1 30.5,8.6 34.9,2.9 39.3,3.4 43.6,3.7 48.0,14.3 52.4,11.2 56.7,21.6 61.1,17.8 65.5,15.1 69.8,9.6 74.2,21.1 78.5,26.0 82.9,19.5 87.3,13.8 91.6,11.2 96.0,16.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$767.39 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.64%</span></td><td class="num"><span class="up">+0.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.7 4.4,22.7 8.7,21.0 13.1,13.9 17.5,7.3 21.8,2.0 26.2,4.3 30.5,8.5 34.9,2.7 39.3,3.2 43.6,3.4 48.0,13.9 52.4,11.2 56.7,21.9 61.1,17.8 65.5,14.6 69.8,9.5 74.2,21.0 78.5,26.0 82.9,19.2 87.3,13.8 91.6,10.5 96.0,16.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -25,5 +25,5 @@ data_as_of: "Oct 29, 1:03 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-29</span> <a href="/stories/2026-10-29-eia-crude-distillate-fall-gasoline-rises/">US crude and distillate stocks fall as gasoline builds</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-29</span> <a href="/stories/2026-10-29-qatarenergy-woodside-louisiana-lng-deal/">QatarEnergy signs 20 year US LNG deal with Woodside</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-29</span> <a href="/stories/2026-10-29-centrus-first-centrifuge-oak-ridge/">Centrus ships first centrifuge for enrichment expansion</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-api-crude-draw-gasoline-build/">US crude stocks draw as gasoline inventories build</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-10-29</span> <a href="/stories/2026-10-29-us-finland-critical-minerals-framework/">United States and Finland sign critical minerals framework agreement</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
