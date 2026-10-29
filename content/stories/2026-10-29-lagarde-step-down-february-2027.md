@@ -1,13 +1,13 @@
 ---
 title: "Lagarde to step down as ECB president on February 7"
 date: 2026-10-29T06:42:25-04:00
-last_updated: 2026-10-29T06:42:25-04:00
+last_updated: 2026-10-29T11:42:57-04:00
 update_bump: true
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "Christine Lagarde told the ECB Governing Council and European Council President António Costa on Thursday that she will step down as ECB president on February 7, 2027, about nine months before her term was due to end."
-why_it_matters: "The early departure starts the succession contest now, on the morning of an ECB rate decision, and it hands euro area leaders a compressed negotiation over the bank's next president while France, normally one of the two decisive voices, borrows at crisis-era spreads over Germany."
+lede: "Christine Lagarde will step down as ECB president on February 7, 2027, about nine months before her term was due to end, and at her press conference on Thursday she said she could not stay neutral while truth is damaged by distorted representations and that she has things to say she cannot say in her current post."
+why_it_matters: "The early departure starts the succession contest now, and the stated reason matters as much as the date: a departing ECB president who says she can no longer stay neutral, with France's presidential election due in April 2027, will be read as preparing to intervene in European politics the moment she leaves office."
 featured: true
 evidence_grade: "A"
 sources:
@@ -19,9 +19,15 @@ sources:
     publisher: "Council of the European Union"
     url: "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027/"
     published: "2026-10-29"
+  - title: "Lagarde si dimette dalla Bce: 'Non posso restare neutrale con il voto in Francia'"
+    publisher: "ANSA"
+    url: "https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-non-posso-restare-neutrale-con-il-voto_3100c924-edf9-44a1-9175-21f84dd04681.html"
+    published: "2026-10-29"
 tags: []
-data_as_of: "European Central Bank press release of October 29, 2026, read in full in this run; it is the primary source for the departure date and the appointment process. Eurogroup President Pierrakakis's statement of October 29, 2026, read in full via the Council of the European Union. Term end date, succession frontrunners and board turnover are from this site's October 25 succession reporting, sourced to Reuters' September 28 explainer. Today's rate decision timing and hold expectation are from this site's October 25 ECB preview. No market reaction figures are stated because no price source was read in this run."
+data_as_of: "Update 2026-10-29T11:42:57-04:00: Lagarde's press conference remarks on neutrality and truth are from ANSA's report of October 29, 2026 (in Italian), read in full in this run, including the questions put to her about France's political situation ahead of its April presidential election; Bloomberg's video report of the same remarks is corroboration. European Central Bank press release of October 29, 2026, read in full in this run; it is the primary source for the departure date and the appointment process. Eurogroup President Pierrakakis's statement of October 29, 2026, read in full via the Council of the European Union. Term end date, succession frontrunners and board turnover are from this site's October 25 succession reporting, sourced to Reuters' September 28 explainer. Today's rate decision timing and hold expectation are from this site's October 25 ECB preview. No market reaction figures are stated because no price source was read in this run."
 ---
+
+**Latest, October 29:** Lagarde has now given her reason. Asked at her press conference about the ECB's constraint of neutrality and about how much France's political situation weighed on her decision, with the French presidential election due in April, she said she cannot remain neutral, or be comfortable in that neutrality, ANSA reported. She said truth is very often damaged and contradicted by distorted representations, and that from the position she has held for more than twenty years, at the International Monetary Fund and then the ECB, she has things to say that she cannot say in her current post. She added that her voice and her action could help on principles she cares about, in many parts of the world and not only in Europe. In a short farewell video she called the ECB a rock, said she leaves it ready for the future, and clarified that the two plasters visible on her face were from a small dermatological operation this week, not a health problem.
 
 Christine Lagarde will leave the European Central Bank on February 7, 2027. The ECB said on Thursday that Lagarde had informed the Governing Council and António Costa, the President of the European Council, that she will step down on that date. Her successor will be appointed by the European Council under the nomination process in Article 283 of the Treaty on the Functioning of the European Union. The Governing Council thanked her and gave her a long standing ovation, the bank said.
 
