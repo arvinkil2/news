@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-29T08:06:48-04:00",
+ "as_of": "2026-10-29T08:23:19-04:00",
  "signals": [
   {
    "cusip": "038169AB4",
@@ -34,6 +34,40 @@
    "level": "flag",
    "rule": "move of 5+ pts on a new trade",
    "id": "88080TAC8-flag-2026-10-27"
+  },
+  {
+   "cusip": "21873SAC2",
+   "issuer": "COREWEAVE, INC.",
+   "security": "9.00% senior notes due 2031",
+   "price": 83.25,
+   "prev_price": 84.75,
+   "trade_date": "2026-10-29",
+   "trade_time": "07:57:32",
+   "mark": 98.84,
+   "mark_period": "2026-06-30",
+   "gap": -15.59,
+   "trades_stored": 8240,
+   "fired_at": "2026-10-29T08:23:19-04:00",
+   "level": "tier1",
+   "rule": "print >15 pts below fund mark",
+   "id": "21873SAC2-gap15-2026-10-29"
+  },
+  {
+   "cusip": "U2069EAB6",
+   "issuer": "COREWEAVE INC",
+   "security": "",
+   "price": 83.6,
+   "prev_price": 84.5,
+   "trade_date": "2026-10-29",
+   "trade_time": "08:04:37",
+   "mark": 99.2848,
+   "mark_period": "2026-04-30",
+   "gap": -15.68,
+   "trades_stored": 2133,
+   "fired_at": "2026-10-29T08:23:19-04:00",
+   "level": "tier1",
+   "rule": "print >15 pts below fund mark",
+   "id": "U2069EAB6-gap15-2026-10-29"
   }
  ]
 }
