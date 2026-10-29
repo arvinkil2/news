@@ -1,6 +1,6 @@
 ---
 title: "Latvia petroleum reserves"
-date: "2026-10-23"
+date: "2026-10-29"
 lede: "Latvia: agency stockholding under the IEA and EU system, administered by The central stockholding function has been performed since 1 January 2020 by the State Construction Control Bureau, which procures storage services for state emergency stocks."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---
@@ -35,23 +35,21 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     }
     return best;
   }
-  head.addEventListener('pointerdown', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault(); ev.stopPropagation();
-    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+  function startDrag(i, ev, shift){
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0;
+    shift = shift && i + 1 < n;
     function move(e){
       var dx = e.clientX - startX;
       if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
       else widths[i] = Math.max(mins[i], startW + dx);
       apply(); lastDrag = Date.now();
     }
-    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); document.removeEventListener('pointercancel', up); save(); }
     document.addEventListener('pointermove', move);
     document.addEventListener('pointerup', up);
-  });
-  head.addEventListener('dblclick', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault();
+    document.addEventListener('pointercancel', up);
+  }
+  function autoFit(i){
     var clone = t.cloneNode(true);
     clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
     var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
@@ -60,6 +58,36 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     var w = cths[i] ? cths[i].offsetWidth : 0;
     clone.remove();
     if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    startDrag(i, ev, ev.shiftKey);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    autoFit(i);
+  });
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    var grip = document.createElement('span');
+    grip.className = 'bw-grip';
+    grip.setAttribute('aria-hidden', 'true');
+    th.appendChild(grip);
+    var lastTap = 0, downX = 0;
+    grip.addEventListener('pointerdown', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      downX = ev.clientX;
+      startDrag(i, ev, false);
+    });
+    grip.addEventListener('pointerup', function(ev){
+      if (Math.abs(ev.clientX - downX) > 6) { lastTap = 0; return; }
+      var now = Date.now();
+      if (now - lastTap < 300) { lastTap = 0; autoFit(i); }
+      else lastTap = now;
+    });
+    grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
