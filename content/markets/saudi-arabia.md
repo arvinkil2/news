@@ -2,13 +2,13 @@
 title: "Saudi Arabia"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed hourly."
-data_as_of: "Oct 29, 8:02 PM ET"
+data_as_of: "Oct 29, 9:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 8:02 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 9:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.7200 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="up">+0.29%</span></td><td class="num"><span class="up">+0.49%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.3 4.8,7.9 9.6,7.1 14.4,4.8 19.2,2.0 24.0,3.3 28.8,8.1 33.6,8.3 38.4,11.3 43.2,10.3 48.0,15.1 52.8,15.0 57.6,15.5 62.4,15.2 67.2,17.9 72.0,19.6 76.8,25.9 81.6,26.0 86.4,23.7 91.2,19.0 96.0,18.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SAR</td><td class="num">3.6388 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.17%</span></td><td class="num"><span class="down">-0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.2 4.6,14.7 9.1,16.5 13.7,24.4 18.3,24.4 22.9,23.4 27.4,16.8 32.0,15.5 36.6,14.5 41.1,14.5 45.7,12.5 50.3,20.8 54.9,18.3 59.4,17.9 64.0,7.4 68.6,2.0 73.1,26.0 77.7,19.0 82.3,17.4 86.9,26.0 91.4,21.4 96.0,15.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SAR</td><td class="num">3.7527 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-3.13%</span></td><td class="num"><span class="down">-3.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.4 4.4,23.8 8.7,24.2 13.1,25.7 17.5,25.7 21.8,25.5 26.2,24.2 30.5,24.0 34.9,23.8 39.3,23.8 43.6,23.4 48.0,25.0 52.4,24.5 56.7,24.5 61.1,22.5 65.5,21.4 69.8,26.0 74.2,24.7 78.5,24.4 82.9,26.0 87.3,25.1 91.6,24.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
