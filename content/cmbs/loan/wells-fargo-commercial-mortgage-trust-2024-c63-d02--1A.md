@@ -1,8 +1,8 @@
 ---
 title: "Loan 1A (Wells Fargo Commercial Mortgage Trust 2024-C63)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Wells Fargo Commercial Mortgage Trust 2024-C63."
-data_as_of: "loan data through March 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through March 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/wells-fargo-commercial-mortgage-trust-2024-c63-d02/">&larr; Wells Fargo Commercial Mortgage Trust 2024-C63 (segment D02, CIK 2029929)</a> / <a href="/cmbs/deal-loans/wells-fargo-commercial-mortgage-trust-2024-c63-d02/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
