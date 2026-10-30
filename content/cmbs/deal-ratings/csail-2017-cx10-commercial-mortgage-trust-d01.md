@@ -1,8 +1,8 @@
 ---
 title: "CSAIL 2017-CX10 Commercial Mortgage Trust (segment D01, CIK 1720474): rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for CSAIL 2017-CX10 Commercial Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/csail-2017-cx10-commercial-mortgage-trust-d01/">&larr; CSAIL 2017-CX10 Commercial Mortgage Trust (segment D01, CIK 1720474)</a> / <a href="/cmbs/">CMBS market</a></p>
