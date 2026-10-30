@@ -1,7 +1,7 @@
 ---
 title: "Commodities also notable: diesel relief, tanker freight, Teck"
 date: 2026-10-30T07:17:54-04:00
-last_updated: 2026-10-30T07:17:54-04:00
+last_updated: 2026-10-30T11:25:38-04:00
 beats: ["commodities"]
 regions: ["global", "north-america", "europe", "africa"]
 status: "story"
@@ -18,6 +18,10 @@ sources:
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-10-30"
+  - title: "EU household gas prices decrease in first half of 2026"
+    publisher: "Eurostat, European Commission"
+    url: "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261030-3"
+    published: "2026-10-30"
   - title: "Teck profit surges as copper prices hit record highs"
     publisher: "Mining.com"
     url: "https://www.mining.com/teck-profit-surges-as-copper-prices-hit-record-highs/"
@@ -30,8 +34,9 @@ sources:
     publisher: "Antara News Agency"
     url: "https://www.antaranews.com/berita/5821435/uni-eropa-percepat-pelepasan-cadangan-minyak-untuk-pasokan-diesel"
     published: "2026-10-30"
+update_bump: true
 tags: []
-data_as_of: "Roundup, October 29 to 30, 2026. Grade C because the Teck, Agnico and Antara items are carried from feed headlines and search verified summaries, their pages not opened in this run (Antara's domain was blocked in this run). The diesel relief item is the USDA release of October 29, 2026 read via reproductions. Market figures are site market tables updated October 30 at 06:00 ET."
+data_as_of: "Roundup, October 29 to 30, 2026. Grade C because the Teck, Agnico and Antara items are carried from feed headlines and search verified summaries, their pages not opened in this run (Antara's domain was blocked in this run). The diesel relief item is the USDA release of October 29, 2026 read via reproductions. Market figures are site market tables updated October 30 at 06:00 ET. Update 2026-10-30T11:25:38-04:00: the European household gas figures are from Eurostat, the European Commission's statistical office, published October 30, 2026 and read in full in this run."
 ---
 
 In the United States, Agriculture Secretary Brooke Rollins recognised the 31 states that have taken action alongside the federal emergency dyed diesel relief created by Executive Order 14435 of October 5, and urged the remaining governors to follow. The IRS has suspended enforcement and collection of the federal dyed diesel excise tax, 24.4 cents a gallon, for the relief period, and the USDA estimates combined federal and state savings of more than 640 million dollars across about 224.6 million harvested acres.
@@ -43,5 +48,7 @@ In mining earnings, Teck Resources' profit surged as copper prices hit record hi
 Diesel reached the gold cost line: Agnico Eagle flagged diesel as a risk to gold output costs next year, Bloomberg reported, the first major gold miner in this window to put the fuel, rather than the metal price, at the centre of its cost warning. Gold itself slipped below 4,000 dollars today, covered in the update to the gold story.
 
 In Europe, Indonesia's Antara news agency reported that the European Union is accelerating its oil stock release for diesel supply, in Indonesian. That is follow on coverage of the 42 million barrel European release, half of it diesel, covered in yesterday's story, and no new release figure is claimed here.
+
+Also in Europe, Eurostat put the average household natural gas price in the European Union at 0.11 euro per kilowatt hour in the first half of 2026, down 10.2 percent from the second half of 2025 and 3.5 percent below the first half of 2025, the lowest average since the first half of 2022. Sweden was the most expensive market at 0.22 euro per kilowatt hour and Hungary the cheapest at 0.03 euro, and Eurostat said seasonal price patterns have resumed the shape they had before the 2022 energy crisis.
 
 In US gas, natural gas eased 1.56 percent to 2.91 dollars per million British thermal units in the tables after yesterday's 8.34 percent rebound, leaving it up 10.08 percent on the week. The record money manager short reported on October 23 remains the standing positioning extreme, and the week's net move is now higher despite today's down snapshot.
