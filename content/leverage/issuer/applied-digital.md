@@ -172,14 +172,34 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     });
     grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
+  function cellKey(v){
+    v = String(v == null ? '' : v).trim();
+    if (v === '' || v === '—') return null;
+    if (/^\d{4}-\d{2}-\d{2}/.test(v)) return {k: 1, s: v.slice(0, 10)};
+    var num = v.replace(/,/g, '');
+    if (/^[+-]?(\d+\.?\d*|\.\d+)$/.test(num)) return {k: 0, n: parseFloat(num)};
+    var m = v.match(/^(\d{1,2}) ([A-Za-z]{3})[a-z]* (\d{4})$/);
+    if (m) {
+      var mi = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'].indexOf(m[2]);
+      if (mi >= 0) return {k: 1, s: m[3] + '-' + ('0' + (mi + 1)).slice(-2) + '-' + ('0' + m[1]).slice(-2)};
+    }
+    return {k: 2, s: v.toLowerCase()};
+  }
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
     rows.sort(function(a, b){
       var x = a.children[i], y = b.children[i];
       var xv = x && x.hasAttribute('data-v') ? x.getAttribute('data-v') : (x ? x.textContent.trim() : '');
       var yv = y && y.hasAttribute('data-v') ? y.getAttribute('data-v') : (y ? y.textContent.trim() : '');
-      var xn = parseFloat(xv), yn = parseFloat(yv);
-      var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
+      var kx = cellKey(xv), ky = cellKey(yv);
+      if (kx === null || ky === null) {
+        if (kx === ky) return 0;
+        return kx === null ? 1 : -1;
+      }
+      var c;
+      if (kx.k !== ky.k) c = kx.k - ky.k;
+      else if (kx.k === 0) c = kx.n - ky.n;
+      else c = kx.s < ky.s ? -1 : (kx.s > ky.s ? 1 : 0);
       return asc ? c : -c;
     });
     var tb = t.querySelector(':scope > tbody');
