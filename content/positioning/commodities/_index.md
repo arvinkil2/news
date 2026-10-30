@@ -1,6 +1,6 @@
 ---
 title: "Commodities by sector"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Positioning by commodity, organised as Energy, Metals, Agriculture and Other, each sector with its complexes and the holder data held for them."
 data_as_of: "Position dates per commodity page"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Commodities, Agriculture"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "The agriculture complexes in the positioning section, grouped, with the holder data held for each."
 data_as_of: "Position dates per commodity page"
 ---

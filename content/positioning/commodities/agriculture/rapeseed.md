@@ -1,6 +1,6 @@
 ---
 title: "Rapeseed complex (CZCE and MATIF) positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Investment funds net +47,842 lots at Euronext Paris MATIF, positions as of 16 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---

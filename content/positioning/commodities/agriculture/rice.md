@@ -1,6 +1,6 @@
 ---
 title: "Rice (CZCE) positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Top-20 member net +0 lots at CZCE (Zhengzhou), Early indica rice (RI), positions as of 30 Jun 2022."
 data_as_of: "Position dates per venue, printed on the page"
 ---

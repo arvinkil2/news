@@ -1,6 +1,6 @@
 ---
 title: "Wheat positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Managed Money net -52,005 contracts at CFTC (United States), positions as of 20 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
@@ -1039,7 +1039,7 @@ data_as_of: "Position dates per venue, printed on the page"
 </tbody></table></div>
 <h2>Price, as held by the site</h2>
 <table class="market-table"><tbody>
-<tr><td>Latest price</td><td>599.50 ¢/bu</td></tr>
+<tr><td>Latest price</td><td>608.00 ¢/bu</td></tr>
 <tr><td>Observations held</td><td>23</td></tr>
 <tr><td>Price window</td><td>The site's market tables hold about one month of daily observations; no longer price history is held for this commodity.</td></tr>
 <tr><td>Position and publication dates</td><td>Position dates print per venue above; this price is the latest market-table value and is not aligned to any position date.</td></tr>

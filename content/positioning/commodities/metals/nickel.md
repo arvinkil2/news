@@ -1,6 +1,6 @@
 ---
 title: "Nickel positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Investment funds net +31,092 lots at London Metal Exchange, positions as of 24 Dec 2020."
 data_as_of: "Position dates per venue, printed on the page"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Polysilicon positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Polysilicon trades only at Guangzhou, from 26 December 2024."
 data_as_of: "Position dates per venue, printed on the page"
 ---

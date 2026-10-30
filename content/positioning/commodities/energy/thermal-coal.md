@@ -1,6 +1,6 @@
 ---
 title: "Thermal coal (CZCE) positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Top-20 member net +0 lots at CZCE (Zhengzhou), Thermal coal (ZC), positions as of 30 Dec 2022."
 data_as_of: "Position dates per venue, printed on the page"
 ---

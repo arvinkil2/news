@@ -1,6 +1,6 @@
 ---
 title: "Silicomanganese (CZCE) positioning"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Top-20 member net -8,289 lots at CZCE (Zhengzhou), Silicomanganese (SM), positions as of 28 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
