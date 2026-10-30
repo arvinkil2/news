@@ -1,8 +1,8 @@
 ---
 title: "Headquarters Plaza (Bank 2017-BNK9)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Bank 2017-BNK9."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bank-2017-bnk9/">&larr; Bank 2017-BNK9</a> / <a href="/cmbs/deal-loans/bank-2017-bnk9/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>

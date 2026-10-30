@@ -1,8 +1,8 @@
 ---
 title: "Loan 1B (Bank 2018-BNK12)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Bank 2018-BNK12."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bank-2018-bnk12/">&larr; Bank 2018-BNK12</a> / <a href="/cmbs/deal-loans/bank-2018-bnk12/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
