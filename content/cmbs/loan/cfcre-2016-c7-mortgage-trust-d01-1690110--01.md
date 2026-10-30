@@ -1,8 +1,8 @@
 ---
 title: "Hilton Hawaiian Village Waikiki Beach Resort (CFCRE 2016-C7 Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CFCRE 2016-C7 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/cfcre-2016-c7-mortgage-trust-d01-1690110/">&larr; CFCRE 2016-C7 Mortgage Trust</a> / <a href="/cmbs/deal-loans/cfcre-2016-c7-mortgage-trust-d01-1690110/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
