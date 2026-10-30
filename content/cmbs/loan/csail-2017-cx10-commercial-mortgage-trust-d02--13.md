@@ -1,8 +1,8 @@
 ---
 title: "Flight (CSAIL 2017-CX10 Commercial Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CSAIL 2017-CX10 Commercial Mortgage Trust."
-data_as_of: "loan data through December 2020; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through December 2020; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/csail-2017-cx10-commercial-mortgage-trust-d02/">&larr; CSAIL 2017-CX10 Commercial Mortgage Trust (segment D02, CIK 1720474)</a> / <a href="/cmbs/deal-loans/csail-2017-cx10-commercial-mortgage-trust-d02/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
