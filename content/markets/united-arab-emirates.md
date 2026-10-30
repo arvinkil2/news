@@ -2,13 +2,13 @@
 title: "United Arab Emirates"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Arab Emirates, refreshed hourly."
-data_as_of: "Oct 30, 3:05 PM ET"
+data_as_of: "Oct 30, 6:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 3:05 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 6:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI UAE (UAE)</td><td class="num">$18.9200 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.61%</span></td><td class="num"><span class="down">-0.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.4 8.7,12.9 13.1,8.7 17.5,8.9 21.8,8.9 26.2,18.1 30.5,17.7 34.9,17.9 39.3,16.4 43.6,13.3 48.0,12.6 52.4,13.5 56.7,11.6 61.1,10.1 65.5,9.3 69.8,18.7 74.2,23.3 78.5,20.8 82.9,10.6 87.3,15.4 91.6,19.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/AED</td><td class="num">3.6725 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="down">-0.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,26.0 8.7,26.0 13.1,26.0 17.5,26.0 21.8,26.0 26.2,26.0 30.5,26.0 34.9,26.0 39.3,26.0 43.6,26.0 48.0,26.0 52.4,26.0 56.7,26.0 61.1,26.0 65.5,26.0 69.8,26.0 74.2,26.0 78.5,26.0 82.9,26.0 87.3,26.0 91.6,26.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI UAE (UAE)</td><td class="num">$19.0000 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.20%</span></td><td class="num"><span class="down">-0.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.8 8.7,13.7 13.1,9.2 17.5,9.4 21.8,9.4 26.2,19.3 30.5,18.8 34.9,19.0 39.3,17.5 43.6,14.1 48.0,13.4 52.4,14.3 56.7,12.3 61.1,10.7 65.5,9.9 69.8,19.9 74.2,24.9 78.5,22.2 82.9,11.2 87.3,16.4 91.6,20.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/AED</td><td class="num">3.6726 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="down">-0.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,26.0 8.7,26.0 13.1,26.0 17.5,26.0 21.8,26.0 26.2,26.0 30.5,26.0 34.9,26.0 39.3,26.0 43.6,26.0 48.0,26.0 52.4,26.0 56.7,26.0 61.1,26.0 65.5,26.0 69.8,26.0 74.2,26.0 78.5,26.0 82.9,26.0 87.3,26.0 91.6,26.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
