@@ -1,8 +1,8 @@
 ---
 title: "925 La Brea Avenue (Citigroup Commercial Mortgage Trust 2016-P6)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Citigroup Commercial Mortgage Trust 2016-P6."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2022-11-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2022-11-14"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2016-p6-d01-1690255/">&larr; Citigroup Commercial Mortgage Trust 2016-P6</a> / <a href="/cmbs/deal-loans/citigroup-commercial-mortgage-trust-2016-p6-d01-1690255/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
