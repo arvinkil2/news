@@ -1,7 +1,7 @@
 ---
 title: "Bank of Japan holds at 1.25 percent, declares target met"
 date: 2026-10-29T23:48:10-04:00
-last_updated: 2026-10-29T23:48:10-04:00
+last_updated: 2026-10-30T07:14:51-04:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"

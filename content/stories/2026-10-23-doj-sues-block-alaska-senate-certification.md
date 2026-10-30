@@ -1,7 +1,7 @@
 ---
 title: "Justice Department sues to block Alaska Senate certification"
 date: 2026-10-23T12:18:52-04:00
-last_updated: 2026-10-29T07:07:15-04:00
+last_updated: 2026-10-30T07:14:09-04:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -63,6 +63,18 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/"
     published: "2026-10-28"
+  - title: "Alaska governor casts doubt on certifying election if Peltola wins"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification"
+    published: "2026-10-30"
+  - title: "Alaska governor: Election certification 'could be stopped' due to Peltola probe"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+    published: "2026-10-30"
+  - title: "Trump administration renews bid to block Alaska election results"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results"
+    published: "2026-10-30"
 tags: []
 data_as_of: "Update 2026-10-29T07:07:15-04:00: the spoiler recruitment allegation is The Guardian's report of October 28, 2026 in the feed pool, also carried by Fox News; it is an allegation about the Peltola campaign, not a finding, and Daniel J. Sullivan has previously denied any connection to Democrats (below). Trump's ban and prosecution calls are from The Hill and Arab News in the feed pool. The Alaska government's move against the DOJ suit is The Hill, October 28, 2026. None of the three items was opened in full in this run. Update, October 27, 2026: the dismissal filing, the campaign's wording and Judge Gleason's fast-track decision are as reported by Reuters on October 26, 2026; the court filing itself was not read in this run. Update, October 26, 2026, 07:11 ET: Blanche's Sunday remarks are as reported by NPR on October 25, 2026 and by CNBC on October 25, 2026, both covering his CNN and CBS appearances; the Peltola car crash item is The Guardian's report of October 25, 2026. Updated 2026-10-25, 2026: motions to intervene filed Friday, October 23, 2026, in United States v. Alaska, US District Court for the District of Alaska, per the ACLU case page, the Common Cause release of October 23, 2026 and The Hill report of October 25, 2026; Deputy Attorney General Blanche remarks as reported by The Hill on October 24, 2026. Election Day is November 3, 2026; Alaska plans its initial ranked choice tabulation on November 18, 2026. Developing item."
 update_bump: true
@@ -81,3 +93,5 @@ The legal foundation is drawing sharp criticism. The Election Law Blog's reading
 **Latest, October 26:** Attorney General Todd Blanche took the department's case to the Sunday shows, appearing on CNN's State of the Union and CBS's Face the Nation. He said the suit aims to put guardrails in place so ballots are preserved in a way that lets a court later judge whether confusion between Senator Dan Sullivan and Daniel J. Sullivan, a retired schoolteacher from Petersburg, swung the race. Pressed by CNN's Dana Bash on whether the administration was preparing ground for President Trump to reverse an unwelcome outcome, Blanche said it was not laying any groundwork for the president to do that and that Trump was not trying to seize control of a state election in any way. He accused the second Sullivan of intentionally trying to confuse voters, a charge Daniel J. Sullivan has denied. Separately, Democratic candidate Mary Peltola delayed campaign stops after a family car crash, The Guardian reported on Sunday. No court ruling on the suit or on the intervention motions had been reported by Monday morning.
 
 The suit, filed in US District Court in Alaska, asks a judge to declare that certifying a result affected by voter confusion would breach the state's duties under the National Voter Registration Act, CNBC reported. It quotes Alaska Elections Director Carol Beecher's finding that Daniel J. Sullivan's candidacy, which took 2.5 percent in the August 28 open primary, was for the purpose of confusing or misleading voters, and argues that his votes would transfer to Peltola under ranked choice voting after his elimination. Peltola leads Sullivan by a narrow two points in the FiftyPlusOne polling average cited by CNBC. The race is one of seven Senate toss ups rated by Cook Political Report, and polls close on November 3.
+
+**Latest, October 30:** The certification question now has the governor's own voice on it. Governor Mike Dunleavy, who ordered a state investigation into the alleged spoiler recruitment on Thursday, declined on NewsNation to commit to certifying the Senate result if Mary Peltola wins, saying Alaska will follow the law, that findings of illegal conduct could impact whether somebody is seated, and that the state will not send a scam to Washington. His term ends on December 7, less than two weeks after the state's target date for certifying the election. The federal track escalated in parallel: the Justice Department issued subpoenas in its criminal investigation into the alleged recruitment of Daniel J. Sullivan, House Oversight Chair James Comer opened a congressional investigation, and Al Jazeera reported the administration renewing its bid to block the results. Peltola's side called the governor's remarks a threat to override the will of voters; Daniel J. Sullivan and the Peltola campaign continue to deny the recruitment allegation, which remains reported, not adjudicated. This file is updated in place.

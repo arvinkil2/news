@@ -1,7 +1,7 @@
 ---
 title: "Canada hosts EU leaders in Montreal for partnership summit"
 date: 2026-10-29T07:07:15-04:00
-last_updated: 2026-10-29T07:07:15-04:00
+last_updated: 2026-10-30T07:14:09-04:00
 beats: ["politics"]
 regions: ["north-america", "europe"]
 status: "story"
@@ -22,6 +22,14 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake"
     published: "2026-10-28"
+  - title: "Canada, European Union officials drop 'associate member' from joint summit declaration"
+    publisher: "Reuters"
+    url: "https://srnnews.com/canada-european-union-officials-drop-associate-member-from-summit-declaration/"
+    published: "2026-10-28"
+  - title: "EU and Canada meet in Montreal"
+    publisher: "Brussels Signal"
+    url: "https://brusselssignal.eu/2026/10/eu-and-canada-meet-in-montreal-as-capitals-rein-in-von-der-leyens-associate-membership-plan/"
+    published: "2026-10-30"
 tags: []
 data_as_of: "Summit October 29 to 30, 2026 in Montreal; Prime Minister's Office release of October 25, 2026 read via search results in this run is the primary source for the summit's dates, participants and stated aims. BBC News headline of October 29, 2026 is from the feed pool (a direct fetch was blocked in this run and was not retried). The Canadian Press report of October 29, 2026, read via search results, is the source for the associate membership wording dispute and the Quebec premier's speech request."
 ---
@@ -35,3 +43,5 @@ The vocabulary is contested. Von der Leyen has described the proposed partnershi
 The summit builds on ground already covered. Canada has become the first non-European country to join the EU's SAFE defence initiative, Carney was the first non-European leader to take part in a European Political Community summit, and he addressed the European Parliament in September. The existing trade agreement, CETA, is the foundation the new foreign and security partnership is meant to extend.
 
 There is domestic friction alongside the diplomacy. Quebec's premier has pressed the federal government to let him deliver a speech at the event, and Carney faced backlash in Quebec after declining the request, Bloomberg reported on Wednesday. Thursday's agenda opens with a welcome dinner for elected and business leaders; the test of the summit is Friday's joint declaration and whether its commitments carry dates, money or only language.
+
+**Latest, October 30:** The naming dispute has been settled in the draft, against the label. Reuters reported that the joint declaration officials plan to publish on Friday drops associate membership entirely and promises an ever closer association instead, after Germany led a group of member states arguing the term has no legal status or precedent and had not been fleshed out; six member states in all opposed it, the National Post reported. Von der Leyen nonetheless kept her own language, describing the plan at the C.D. Howe Institute in Montreal on Thursday as an association without accession, while the summit launches the Alliance for the Future framework across trade, critical minerals, technology and research. The draft's substance survived the vocabulary fight: a joint initiative on new subsea cable infrastructure linking Europe, Canada and Asia, a joint feasibility study on Canadian LNG exports to Europe, cross Atlantic youth work mobility, and the conclusion of substantive talks on a digital trade agreement. Work to define the relationship continues to the 2027 summit. The final declaration text, due today, is the confirming document; this file is updated in place and will be corrected if the published text differs from the draft reporting.
