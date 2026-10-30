@@ -1,8 +1,8 @@
 ---
 title: "ZENITH RIDGE (CSAIL 2017-CX9 Commercial Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CSAIL 2017-CX9 Commercial Mortgage Trust."
-data_as_of: "loan data through January 2019; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through January 2019; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/csail-2017-cx9-commercial-mortgage-trust-d02/">&larr; CSAIL 2017-CX9 Commercial Mortgage Trust (segment D02, CIK 1716602)</a> / <a href="/cmbs/deal-loans/csail-2017-cx9-commercial-mortgage-trust-d02/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
