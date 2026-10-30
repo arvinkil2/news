@@ -1,16 +1,20 @@
 ---
-title: "Algeria's president orders troop deployment to Niger"
+title: "First Algerian troops arrive in Niger"
 date: 2026-10-25T11:15:25-04:00
-last_updated: 2026-10-26T14:44:09-04:00
+last_updated: 2026-10-30T19:52:55-04:00
 beats: ["politics"]
 regions: ["africa"]
 status: "developing"
 developing: true
-lede: "President Abdelmadjid Tebboune has ordered Algerian troops to neighbouring Niger, the presidency announced on Monday, a day after both houses of parliament approved what would be the country's first military deployment abroad since 1973."
-why_it_matters: "The order converts parliamentary approval into an actual mission to protect shared energy interests at Niger's request, a break with Algeria's long refusal to intervene beyond its borders and a further step in its military rapprochement with Niger's junta."
+lede: "The first Algerian military convoy has reached Arlit, a uranium mining town in northwestern Niger, Reuters reported on Friday, days after President Abdelmadjid Tebboune ordered the deployment parliament approved as Algeria's first mission abroad since 1973."
+why_it_matters: "The arrival puts troops on the ground for the energy protection mission both governments cite, covering Sonatrach's investments and the planned Trans-Saharan Gas Pipeline, in a country fighting insurgents linked to Al-Qaeda and Islamic State."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "First Algerian troops arrive in Niger where insurgents threaten stability"
+    publisher: "Arab News, reporting Reuters"
+    url: "https://www.arabnews.com/middle-east/first-algerian-troops-arrive-in-niger-where-insurgents-threaten-stability-3009067"
+    published: "2026-10-30"
   - title: "Algeria's president orders troop deployment to neighbouring Niger"
     publisher: "Al Jazeera, with Reuters"
     url: "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger"
@@ -32,9 +36,11 @@ sources:
     url: "https://www.democrata.es/en/international/the-parliament-of-algeria-unanimously-gives-the-green-light-to-the-deployment-of-troops-in-niger/"
     published: "2026-10-25"
 tags: []
-data_as_of: "Update, October 26, 2026, 14:44 ET: Al Jazeera report of October 26, 2026, by Al Jazeera staff and Reuters, read in full, is the source for the presidency announcement that President Tebboune has ordered the deployment, for Niger's request for military assistance, and for the point that neither troop numbers nor a start date have been announced. Arab News carried the same announcement the same day. Previous update, October 26, 2026, 07:11 ET: Reuters reporting carried by Town Press on October 26, 2026 is the source for the lower house approval on October 25, for Senator Belkacem Boulghiti's account of the mission as protection of economic and strategic interests, and for the point that no deployment had officially taken place when Reuters reported. The official agency APS account, carried by Democrata in Spanish, gives the upper house vote as 148 in favour and places the deployment at Madama in northern Niger to secure hydrocarbon facilities including the Kafra field operated by Sonatrach; the Madama detail rests on that account. No troop numbers or timetable have been published by any source read. Previous: Al Jazeera report of October 25, 2026, read in full, is the sole source read in this run. It gives no troop numbers, duration or mission order, states the expected task of securing oil facilities as an expectation rather than a quoted order, and the lower house vote was still pending when it was published. Developing item."
+data_as_of: "Update, October 30, 2026, 19:52 ET: Reuters reporting carried by Arab News on October 30, 2026, read in full in this run, is the source for the first convoy's arrival at Arlit; Reuters based the arrival account on ten people it spoke to, none named, and Algeria has not disclosed the size of the force or the timetable. Update, October 26, 2026, 14:44 ET: Al Jazeera report of October 26, 2026, by Al Jazeera staff and Reuters, read in full, is the source for the presidency announcement that President Tebboune has ordered the deployment, for Niger's request for military assistance, and for the point that neither troop numbers nor a start date have been announced. Arab News carried the same announcement the same day. Previous update, October 26, 2026, 07:11 ET: Reuters reporting carried by Town Press on October 26, 2026 is the source for the lower house approval on October 25, for Senator Belkacem Boulghiti's account of the mission as protection of economic and strategic interests, and for the point that no deployment had officially taken place when Reuters reported. The official agency APS account, carried by Democrata in Spanish, gives the upper house vote as 148 in favour and places the deployment at Madama in northern Niger to secure hydrocarbon facilities including the Kafra field operated by Sonatrach; the Madama detail rests on that account. No troop numbers or timetable have been published by any source read. Previous: Al Jazeera report of October 25, 2026, read in full, is the sole source read in this run. It gives no troop numbers, duration or mission order, states the expected task of securing oil facilities as an expectation rather than a quoted order, and the lower house vote was still pending when it was published. Developing item."
 update_bump: true
 ---
+
+**Latest, October 30:** The first Algerian military convoy has reached Arlit, a uranium mining town in northwestern Niger, Reuters reported, in Algeria's first foreign troop deployment since it sent forces to support Egypt in the 1973 war. Algeria has not disclosed the size of the force or its timetable. The stated purpose remains the protection of the country's energy and economic interests, including state oil and gas firm Sonatrach's investments in Niger and the planned Trans-Saharan Gas Pipeline, which would carry Nigerian gas through Niger and Algeria to Europe, in a country whose military government is fighting insurgents linked to Al-Qaeda and Islamic State.
 
 **Latest, October 26:** President Abdelmadjid Tebboune has ordered troops to Niger, Algeria's presidency announced on Monday, after both chambers of parliament approved the deployment on Sunday. The presidency said Niger's authorities had requested military assistance and that the decision was taken under the constitutional provisions allowing the military to operate abroad with parliamentary approval. The troops are to protect energy and economic interests shared by the two countries, and Senator Belkacem Boulghiti said Algeria was not sending its soldiers to wage war in Niger. No troop numbers or start date have been announced.
 
