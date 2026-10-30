@@ -1,6 +1,6 @@
 ---
 title: "Meta"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Benchmark issuer, 34 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-29"
 ---
@@ -15,6 +15,7 @@ data_as_of: "2026-10-29"
 <colgroup><col style="width:104px"><col style="width:168px"><col style="width:660px"></colgroup>
 <thead><tr><th>Filed</th><th>Filing</th><th>What it shows</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-10-29">29 Oct 2026</td><td data-v="8-K"><a href="https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/0001193125-26-438017-index.htm">8-K</a><span class="cell-sub">Accession 0001193125-26-438017</span></td><td data-v=""><span class="bond-name">Depositary shares offering closes; forward sale agreements recorded</span><span class="bond-sub">The offering of 250,000,000 Series A depositary shares (each a 1/20th interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share) closed on October 29, 2026 under the October 26, 2026 underwriting agreement with Morgan Stanley and Goldman Sachs; certificates of designations were filed in Delaware on October 28, 2026 and a deposit agreement was signed with Computershare as depositary. The same 8-K records the forward sale agreements for 40,000,000 Class A shares with Morgan Stanley Capital Services and Goldman Sachs as forward purchasers. Together these are the closing filings for the $37.5B package priced on October 27, 2026.</span></td></tr>
 <tr><td data-v="2026-10-28">28 Oct 2026</td><td data-v="424B5"><a href="https://www.sec.gov/Archives/edgar/data/1326801/000119312526436410/0001193125-26-436410-index.htm">424B5</a><span class="cell-sub">Accession 0001193125-26-436410</span></td><td data-v=""><span class="bond-name">Final terms, forward share sale, part of the $37.5B priced equity package</span><span class="bond-sub">40,000,000 Class A shares under forward sale agreements with Morgan Stanley Capital Services LLC and Goldman Sachs &amp; Co. LLC as forward purchasers. Meta receives no proceeds at sale and expects physical settlement at its discretion on or before November 19, 2027.</span></td></tr>
 <tr><td data-v="2026-10-28">28 Oct 2026</td><td data-v="424B5"><a href="https://www.sec.gov/Archives/edgar/data/1326801/000119312526436405/0001193125-26-436405-index.htm">424B5</a><span class="cell-sub">Accession 0001193125-26-436405</span></td><td data-v=""><span class="bond-name">Final terms, mandatory convertible preferred depositary shares, part of the $37.5B priced equity package</span><span class="bond-sub">250,000,000 Series A Depositary Shares at $50.00, each a one twentieth interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share.</span></td></tr>
 </tbody></table></div>

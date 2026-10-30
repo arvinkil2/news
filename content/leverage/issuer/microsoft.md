@@ -1,6 +1,6 @@
 ---
 title: "Microsoft"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Benchmark issuer, 36 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-29"
 ---
@@ -15,6 +15,7 @@ data_as_of: "2026-10-29"
 <colgroup><col style="width:104px"><col style="width:168px"><col style="width:660px"></colgroup>
 <thead><tr><th>Filed</th><th>Filing</th><th>What it shows</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-10-30">30 Oct 2026</td><td data-v="FWP"><a href="https://www.sec.gov/Archives/edgar/data/789019/000119312526439794/0001193125-26-439794-index.htm">FWP</a><span class="cell-sub">Accession 0001193125-26-439794</span></td><td data-v=""><span class="bond-name">Pricing term sheet: $25.0B of senior notes in ten series</span><span class="bond-sub">Ten series priced on October 29, 2026 for settlement on November 4, 2026: floating rate notes due 2028 and 2029 of $1.0B each at Compounded SOFR plus 35 and 53 basis points, and $23.0B of fixed rate notes with coupons from 4.850% due 2028 to 6.350% due 2066. It is Microsoft's first US investment grade bond offering since 2017, sold for general corporate purposes. The preliminary prospectus supplement is accession 0001193125-26-437008.</span></td></tr>
 <tr><td data-v="2026-10-29">29 Oct 2026</td><td data-v="424B2"><a href="https://www.sec.gov/Archives/edgar/data/789019/000119312526437008/0001193125-26-437008-index.htm">424B2</a><span class="cell-sub">Accession 0001193125-26-437008</span></td><td data-v=""><span class="bond-name">Preliminary prospectus supplement, multi-tranche notes offering</span><span class="bond-sub">Preliminary terms for a new multi-tranche senior notes offering. Final pricing terms had not been published when the filing was recorded.</span></td></tr>
 <tr><td data-v="2026-10-28">28 Oct 2026</td><td data-v="10-Q"><a href="https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/0001193125-26-436133-index.htm">10-Q</a><span class="cell-sub">Accession 0001193125-26-436133</span></td><td data-v=""><span class="bond-name">Quarterly report, quarter ended September 30, 2026</span><span class="bond-sub">Additional leases that had not yet commenced total $364.6B, primarily for datacenters, commencing fiscal 2027 to fiscal 2034 with terms of 1 to 20 years. Total debt of $35,481M. Recorded lease liabilities of $27,477M operating and $70,973M finance.</span></td></tr>
 </tbody></table></div>

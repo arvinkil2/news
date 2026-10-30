@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Benchmark issuer, 60 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-29"
 ---
@@ -9,6 +9,15 @@ data_as_of: "2026-10-29"
 <p class="src"><a href="/leverage/bond-analytics/">&larr; Bond Analytics</a></p>
 <p class="src">Cross-dataset record: <a href="/entities/amazon-com-inc/">Entity Index</a>. Name forms, swaps panel row and fund-mark coverage for this issuer.</p>
 <dl class="bw-summary"><div class="bw-sum-item"><dt>Bonds</dt><dd>60</dd></div><div class="bw-sum-item"><dt>Median last print</dt><dd>93.47</dd></div><div class="bw-sum-item"><dt>Below 90</dt><dd>18 of 49 priced</dd></div><div class="bw-sum-item"><dt>Latest trade</dt><dd>29 Oct 2026</dd></div><div class="bw-sum-item"><dt>Fund marks to</dt><dd>31 Jul 2026</dd></div></dl>
+<h2>Filings and developments</h2>
+<p class="src">Material SEC filings recorded by the daily filings pull. Figures are as stated in the filing itself.</p>
+<div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-fil-amazon" data-def="[104, 168, 660]" data-min="[84, 120, 240]" data-fixed="[]">
+<colgroup><col style="width:104px"><col style="width:168px"><col style="width:660px"></colgroup>
+<thead><tr><th>Filed</th><th>Filing</th><th>What it shows</th></tr></thead>
+<tbody>
+<tr><td data-v="2026-10-30">30 Oct 2026</td><td data-v="10-Q"><a href="https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm">10-Q</a><span class="cell-sub">Accession 0001018724-26-000040</span></td><td data-v=""><span class="bond-name">Third quarter 2026 10-Q: long-term debt $173,125M</span><span class="bond-sub">Long-term debt of $173,125M at September 30, 2026 against $65,648M at December 31, 2025, after the year's note issuance. Leases not yet commenced total $164,922M of future payments; unconditional purchase obligations total $94,759M and property and equipment commitments $159,640M. Long-term lease liabilities were $98,824M.</span></td></tr>
+</tbody></table></div>
+
 <h2>Bonds</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="iss-b-amazon" data-def="[300, 104, 124, 110, 92, 128, 84, 110, 96, 108]" data-min="[180, 72, 76, 92, 76, 76, 72, 92, 64, 96]" data-fixed="[]" data-sort="1">
 <colgroup><col style="width:300px"><col style="width:104px"><col style="width:124px"><col style="width:110px"><col style="width:92px"><col style="width:128px"><col style="width:84px"><col style="width:110px"><col style="width:96px"><col style="width:108px"></colgroup>
