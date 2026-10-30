@@ -1,8 +1,8 @@
 ---
 title: "Marketplace at Millcreek (Wells Fargo Commercial Mortgage Trust 2017-C38)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Wells Fargo Commercial Mortgage Trust 2017-C38."
-data_as_of: "loan data through October 2017; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2017; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/wells-fargo-commercial-mortgage-trust-2017-c38-d04/">&larr; Wells Fargo Commercial Mortgage Trust 2017-C38 (segment D04, CIK 850779)</a> / <a href="/cmbs/deal-loans/wells-fargo-commercial-mortgage-trust-2017-c38-d04/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
