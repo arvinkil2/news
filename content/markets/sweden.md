@@ -2,14 +2,14 @@
 title: "Sweden"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed hourly."
-data_as_of: "Oct 30, 7:23 AM ET"
+data_as_of: "Oct 30, 8:02 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 7:23 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 8:02 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>OMX Stockholm 30 (index)</td><td class="num">3,269 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.36%</span></td><td class="num"><span class="up">+2.94%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.0 4.4,14.6 8.7,8.5 13.1,9.0 17.5,4.5 21.8,14.5 26.2,18.9 30.5,8.9 34.9,6.8 39.3,5.6 43.6,5.7 48.0,9.3 52.4,2.0 56.7,7.2 61.1,12.4 65.5,11.4 69.8,26.0 74.2,23.7 78.5,14.8 82.9,9.2 87.3,7.3 91.6,4.9 96.0,7.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>OMX Stockholm 30 (index)</td><td class="num">3,271 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.29%</span></td><td class="num"><span class="up">+3.01%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.0 4.4,14.6 8.7,8.5 13.1,9.0 17.5,4.5 21.8,14.5 26.2,18.9 30.5,8.9 34.9,6.8 39.3,5.6 43.6,5.7 48.0,9.3 52.4,2.0 56.7,7.2 61.1,12.4 65.5,11.4 69.8,26.0 74.2,23.7 78.5,14.8 82.9,9.2 87.3,7.3 91.6,4.9 96.0,6.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$52.03 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+1.23%</span></td><td class="num"><span class="up">+3.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.7 4.6,26.0 9.1,20.1 13.7,20.0 18.3,17.4 22.9,20.7 27.4,19.5 32.0,14.1 36.6,16.2 41.1,10.0 45.7,14.8 50.3,10.3 54.9,9.5 59.4,12.6 64.0,10.7 68.6,11.1 73.1,17.6 77.7,17.0 82.3,15.4 86.9,9.3 91.4,7.8 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SEK</td><td class="num">9.8053 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.98%</span></td><td class="num"><span class="up">+1.01%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.2 4.4,5.5 8.7,2.0 13.1,2.8 17.5,2.6 21.8,6.6 26.2,6.6 30.5,10.1 34.9,6.6 39.3,2.6 43.6,10.2 48.0,7.9 52.4,11.3 56.7,15.2 61.1,14.5 65.5,15.6 69.8,17.5 74.2,15.8 78.5,14.1 82.9,11.0 87.3,11.2 91.6,16.2 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SEK</td><td class="num">9.8041 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.99%</span></td><td class="num"><span class="up">+1.02%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.1 4.4,5.5 8.7,2.0 13.1,2.8 17.5,2.6 21.8,6.6 26.2,6.6 30.5,10.1 34.9,6.6 39.3,2.6 43.6,10.1 48.0,7.9 52.4,11.2 56.7,15.1 61.1,14.4 65.5,15.5 69.8,17.5 74.2,15.8 78.5,14.0 82.9,11.0 87.3,11.1 91.6,16.1 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
