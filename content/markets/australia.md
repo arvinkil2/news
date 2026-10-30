@@ -1,15 +1,15 @@
 ---
 title: "Australia"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Australia, refreshed hourly."
-data_as_of: "Oct 29, 7:10 PM ET"
+data_as_of: "Oct 29, 8:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 7:10 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 8:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,847 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="up">+0.18%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.2 4.8,26.0 9.6,19.1 14.4,18.7 19.2,13.6 24.0,14.5 28.8,21.3 33.6,15.6 38.4,8.8 43.2,8.7 48.0,14.4 52.8,15.3 57.6,6.4 62.4,2.4 67.2,5.4 72.0,3.9 76.8,7.8 81.6,7.6 86.4,6.1 91.2,2.0 96.0,2.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.6300 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.14%</span></td><td class="num"><span class="up">+2.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.3 4.6,26.0 9.1,21.2 13.7,19.6 18.3,17.8 22.9,22.5 27.4,22.5 32.0,16.8 36.6,16.0 41.1,14.6 45.7,18.0 50.3,14.0 54.9,15.2 59.4,13.7 64.0,9.0 68.6,7.9 73.1,11.7 77.7,9.5 82.3,8.7 86.9,4.2 91.4,2.6 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>AUD/USD</td><td class="num">0.7022 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-0.11%</span></td><td class="num"><span class="down">-0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.0 4.4,10.9 8.7,20.2 13.1,23.8 17.5,18.9 21.8,15.6 26.2,12.4 30.5,16.3 34.9,17.4 39.3,11.7 43.6,18.0 48.0,11.7 52.4,13.2 56.7,26.0 61.1,14.5 65.5,12.2 69.8,7.0 74.2,2.2 78.5,4.2 82.9,2.0 87.3,4.4 91.6,2.0 96.0,3.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,962 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+1.29%</span></td><td class="num"><span class="up">+1.92%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.9 4.6,26.0 9.1,21.3 13.7,21.0 18.3,17.6 22.9,18.2 27.4,22.8 32.0,18.9 36.6,14.3 41.1,14.3 45.7,18.2 50.3,18.7 54.9,12.7 59.4,10.0 64.0,12.0 68.6,11.0 73.1,13.6 77.7,13.5 82.3,12.5 86.9,9.7 91.4,9.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.5900 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="up">+0.37%</span></td><td class="num"><span class="up">+1.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.2 4.8,26.0 9.6,21.0 14.4,19.4 19.2,17.6 24.0,22.4 28.8,22.4 33.6,16.5 38.4,15.8 43.2,14.3 48.0,17.7 52.8,13.7 57.6,14.9 62.4,13.4 67.2,8.6 72.0,7.4 76.8,11.3 81.6,9.0 86.4,8.3 91.2,3.6 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AUD/USD</td><td class="num">0.7030 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.40%</span></td><td class="num"><span class="up">+0.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.9 4.4,21.3 8.7,24.3 13.1,20.3 17.5,17.7 21.8,15.1 26.2,18.2 30.5,19.1 34.9,14.6 39.3,19.6 43.6,14.6 48.0,15.8 52.4,26.0 56.7,16.8 61.1,14.9 65.5,10.8 69.8,7.0 74.2,8.6 78.5,6.8 82.9,8.7 87.3,6.8 91.6,2.0 96.0,6.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
