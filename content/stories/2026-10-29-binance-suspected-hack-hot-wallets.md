@@ -1,12 +1,12 @@
 ---
 title: "Billions leave Binance wallets in suspected hack"
 date: 2026-10-29T18:25:09-04:00
-last_updated: 2026-10-29T18:25:09-04:00
+last_updated: 2026-10-29T20:21:27-04:00
 update_bump: true
 beats: ["technology"]
 regions: ["global"]
 status: "story"
-lede: "About 3.3 billion dollars in suspicious transfers left Binance-linked wallets in about 40 minutes on Thursday, founder Changpeng Zhao said the outflows look like a hack and that user funds are safe, and Tether and Circle froze more than 2.3 billion dollars of stablecoins as Binance investigates."
+lede: "About 3.3 billion dollars in suspicious transfers left Binance-linked wallets in about 40 minutes on Thursday, founder Changpeng Zhao said the outflows look like a hack and that user funds are safe, Tether and Circle froze more than 2.3 billion dollars of stablecoins, and Binance has limited withdrawals while it investigates, with outside estimates of the amount taken running from 1.7 billion to 5.7 billion dollars."
 why_it_matters: "Binance is the world's largest crypto exchange, so a confirmed theft on this scale would be one of the largest in the industry's history; the stablecoin freezes cap how much of the money can be moved on, and the exchange's own finding on whether customer balances were touched is still outstanding."
 featured: false
 evidence_grade: "B"
@@ -23,9 +23,15 @@ sources:
     publisher: "Crypto Briefing"
     url: "https://cryptobriefing.com/binance-suspected-hack-user-funds-safe/"
     published: "2026-10-29"
+  - title: "Binance probes what may be biggest-ever crypto hack"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist"
+    published: "2026-10-29"
 tags: []
-data_as_of: "October 29, 2026, as of 18:25 Toronto time. The transfer totals are on-chain estimates from blockchain security firm Blockaid and analytics platform Arkham Intelligence as reported by Cointelegraph, FXStreet and Crypto Briefing, each read in full in this run; estimates of the flagged outflows range from about 2.5 billion to 3.3 billion dollars, Arkham's roughly 5.84 billion dollar figure is the reported holdings of wallets it labels as the attacker's rather than a loss estimate, and no final loss figure is confirmed. Binance's position is its own statement, quoted by FXStreet and given to Cointelegraph and Gizmodo, that it is investigating a potential security issue and has not confirmed any impact on user funds. Changpeng Zhao's comments are his posts on X as quoted by Cointelegraph, FXStreet and Crypto Briefing. The freeze totals are the issuers' own: Tether chief executive Paolo Ardoino said more than 1.567 billion dollars of USDT was frozen and Circle chief executive Jeremy Allaire said more than 800 million dollars of USDC was frozen in coordination with law enforcement, both via Cointelegraph; Zhao's earlier post cited about 971 million and about 823 million dollars respectively. The first reports in the feed pool were Russian and Ukrainian wires (Lenta, RT, TASS and UNIAN, in Russian and Ukrainian) relaying Zhao's post."
+data_as_of: "Update 2026-10-29T20:21:27-04:00: the withdrawal limits, the 1.7 billion to 5.7 billion dollar estimate range attributed to analysts and traders who follow the crypto markets, and the position that Binance has not confirmed a total taken or who was behind the attack are from Axios reporting of October 29, 2026, read in full in this run. Original: October 29, 2026, as of 18:25 Toronto time. The transfer totals are on-chain estimates from blockchain security firm Blockaid and analytics platform Arkham Intelligence as reported by Cointelegraph, FXStreet and Crypto Briefing, each read in full in this run; estimates of the flagged outflows range from about 2.5 billion to 3.3 billion dollars, Arkham's roughly 5.84 billion dollar figure is the reported holdings of wallets it labels as the attacker's rather than a loss estimate, and no final loss figure is confirmed. Binance's position is its own statement, quoted by FXStreet and given to Cointelegraph and Gizmodo, that it is investigating a potential security issue and has not confirmed any impact on user funds. Changpeng Zhao's comments are his posts on X as quoted by Cointelegraph, FXStreet and Crypto Briefing. The freeze totals are the issuers' own: Tether chief executive Paolo Ardoino said more than 1.567 billion dollars of USDT was frozen and Circle chief executive Jeremy Allaire said more than 800 million dollars of USDC was frozen in coordination with law enforcement, both via Cointelegraph; Zhao's earlier post cited about 971 million and about 823 million dollars respectively. The first reports in the feed pool were Russian and Ukrainian wires (Lenta, RT, TASS and UNIAN, in Russian and Ukrainian) relaying Zhao's post."
 ---
+
+**Latest, October 29:** Binance has limited withdrawals as its investigation continues, Axios reported on Thursday evening. Analysts and traders who follow the crypto markets estimate that between 1.7 billion and 5.7 billion dollars was taken in the suspected attack, a range that brackets the on-chain outflow estimates below and is not a Binance figure: the exchange has not confirmed the total taken or who was behind the attack, and Zhao and a Binance spokesperson both said user funds are safe, Axios reported.
 
 Binance is investigating a suspected hack after billions of dollars left its hot wallets in about 40 minutes on Thursday afternoon. Blockchain security firm Blockaid put the suspicious transfers at roughly 3.3 billion dollars across Ethereum, Arbitrum and Avalanche, including about 2.5 billion dollars from the wallets known as Binance 14 and Binance 16 and about 780 million dollars of USDC from a Binance smart account, Cointelegraph reported. The outflows ran from 20:24 to 21:04 UTC, the receiving addresses were newly created, and funds were pushed onward within minutes, according to Crypto Briefing. Blockchain researcher Spreek first flagged the activity, reporting that assets from a Binance-linked Ethereum wallet had moved to a new address through a contract call funded via Tornado Cash, and that wallets connected to the transfers had begun selling USDT on decentralized exchanges.
 
