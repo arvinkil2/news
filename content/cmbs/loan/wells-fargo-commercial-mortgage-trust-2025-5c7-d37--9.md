@@ -1,8 +1,8 @@
 ---
 title: "The Bluffs (Wells Fargo Commercial Mortgage Trust 2025-5C7)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Wells Fargo Commercial Mortgage Trust 2025-5C7."
-data_as_of: "loan data through March 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through March 2026; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/wells-fargo-commercial-mortgage-trust-2025-5c7-d37/">&larr; Wells Fargo Commercial Mortgage Trust 2025-5C7 (segment D37, CIK 850779)</a> / <a href="/cmbs/deal-loans/wells-fargo-commercial-mortgage-trust-2025-5c7-d37/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
