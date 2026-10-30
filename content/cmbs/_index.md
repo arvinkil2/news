@@ -12,8 +12,8 @@ data_as_of: "loan data through September 2026; ratings as held in the dataset at
 <text x="40" y="182" text-anchor="end" class="chart-lab">1.8%</text>
 <line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="126" text-anchor="end" class="chart-lab">3.5%</text>
-<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
-<text x="40" y="69" text-anchor="end" class="chart-lab">5.3%</text>
+<line x1="46" y1="67" x2="708" y2="67" stroke="#e5ddc8" stroke-width="1"/>
+<text x="40" y="70" text-anchor="end" class="chart-lab">5.3%</text>
 <line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="13" text-anchor="end" class="chart-lab">7.1%</text>
 <text x="54" y="254" text-anchor="middle" class="chart-lab">2020</text>
@@ -483,7 +483,7 @@ data_as_of: "loan data through September 2026; ratings as held in the dataset at
 <text x="40" y="182" text-anchor="end" class="chart-lab">1.4%</text>
 <line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="126" text-anchor="end" class="chart-lab">2.7%</text>
-<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<line x1="46" y1="67" x2="708" y2="67" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="70" text-anchor="end" class="chart-lab">4.1%</text>
 <line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="13" text-anchor="end" class="chart-lab">5.5%</text>
@@ -587,7 +587,7 @@ data_as_of: "loan data through September 2026; ratings as held in the dataset at
 <text x="40" y="182" text-anchor="end" class="chart-lab">2.4%</text>
 <line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="126" text-anchor="end" class="chart-lab">4.7%</text>
-<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<line x1="46" y1="67" x2="708" y2="67" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="70" text-anchor="end" class="chart-lab">7.1%</text>
 <line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="13" text-anchor="end" class="chart-lab">9.4%</text>
@@ -984,7 +984,7 @@ data_as_of: "loan data through September 2026; ratings as held in the dataset at
 <line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="126" text-anchor="end" class="chart-lab">4.1%</text>
 <line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
-<text x="40" y="70" text-anchor="end" class="chart-lab">6.1%</text>
+<text x="40" y="69" text-anchor="end" class="chart-lab">6.1%</text>
 <line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="13" text-anchor="end" class="chart-lab">8.2%</text>
 <text x="54" y="254" text-anchor="middle" class="chart-lab">2020</text>
