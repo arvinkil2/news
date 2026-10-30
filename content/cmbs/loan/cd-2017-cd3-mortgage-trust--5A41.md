@@ -1,8 +1,8 @@
 ---
 title: "Prudential Plaza (CD 2017-CD3 Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CD 2017-CD3 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd3-mortgage-trust/">&larr; CD 2017-CD3 Mortgage Trust</a> / <a href="/cmbs/deal-loans/cd-2017-cd3-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
