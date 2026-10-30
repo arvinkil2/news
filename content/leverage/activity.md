@@ -1,12 +1,12 @@
 ---
 title: "Bond Activity"
-date: "2026-10-29"
+date: "2026-10-30"
 lede: "Week trading activity for every watched bond, with the day's most traded, biggest moves and latest prints."
 data_as_of: "Tape through 29 Oct 2026"
 ---
 
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 19:24 ET</dd></div>
+<div class="bw-sum-item"><dt>Updated</dt><dd>29 Oct 2026, 19:24 ET</dd></div>
 <div class="bw-sum-item"><dt>Tape through</dt><dd>29 Oct 2026</dd></div>
 <div class="bw-sum-item"><dt>Bonds traded</dt><dd>461</dd></div>
 <div class="bw-sum-item"><dt>Trades</dt><dd>11,804</dd></div>
