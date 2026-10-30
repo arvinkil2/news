@@ -7,11 +7,11 @@ url: "/leverage/activity/7/"
 ---
 
 <dl class="bw-summary">
-<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 08:25 ET</dd></div>
+<div class="bw-sum-item"><dt>Updated</dt><dd>Today, 09:41 ET</dd></div>
 <div class="bw-sum-item"><dt>Tape through</dt><dd>30 Oct 2026</dd></div>
-<div class="bw-sum-item"><dt>Bonds traded</dt><dd>44</dd></div>
-<div class="bw-sum-item"><dt>Trades</dt><dd>73</dd></div>
-<div class="bw-sum-item"><dt>Last prints below 90</dt><dd>20</dd></div>
+<div class="bw-sum-item"><dt>Bonds traded</dt><dd>82</dd></div>
+<div class="bw-sum-item"><dt>Trades</dt><dd>218</dd></div>
+<div class="bw-sum-item"><dt>Last prints below 90</dt><dd>27</dd></div>
 </dl>
 <h2 id="all">All watched bonds, 26 Oct 2026 to 30 Oct 2026 - page 7 of 7</h2>
 <div class="market-table-scroll"><table class="market-table bw-grid " data-tid="act-all" data-def="[340, 104, 92, 110, 104, 108, 118, 118, 110, 108]" data-min="[200, 72, 68, 84, 64, 76, 84, 84, 92, 96]" data-fixed="[]" data-sort="1">
