@@ -1,8 +1,8 @@
 ---
 title: "GS Mortgage Securities Trust 2019-GC39: rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for GS Mortgage Securities Trust 2019-GC39."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/gs-mortgage-securities-trust-2019-gc39-d01/">&larr; GS Mortgage Securities Trust 2019-GC39</a> / <a href="/cmbs/">CMBS market</a></p>

@@ -1,8 +1,8 @@
 ---
 title: "FIVE 2023-V1 Mortgage Trust: rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for FIVE 2023-V1 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/five-2023-v1-mortgage-trust-d01-1961629/">&larr; FIVE 2023-V1 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

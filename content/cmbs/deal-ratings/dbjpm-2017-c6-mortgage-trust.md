@@ -1,8 +1,8 @@
 ---
 title: "DBJPM 2017-C6 Mortgage Trust: rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for DBJPM 2017-C6 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-14"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/dbjpm-2017-c6-mortgage-trust/">&larr; DBJPM 2017-C6 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

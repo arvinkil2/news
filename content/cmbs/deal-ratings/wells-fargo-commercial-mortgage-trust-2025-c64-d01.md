@@ -1,8 +1,8 @@
 ---
 title: "Wells Fargo Commercial Mortgage Trust 2025-C64: rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for Wells Fargo Commercial Mortgage Trust 2025-C64."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/wells-fargo-commercial-mortgage-trust-2025-c64-d01/">&larr; Wells Fargo Commercial Mortgage Trust 2025-C64</a> / <a href="/cmbs/">CMBS market</a></p>

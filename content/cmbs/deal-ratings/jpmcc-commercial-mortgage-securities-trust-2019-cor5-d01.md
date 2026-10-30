@@ -1,8 +1,8 @@
 ---
 title: "JPMCC Commercial Mortgage Securities Trust 2019-COR5: rating history"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Rating actions, action dates and public knowledge dates for JPMCC Commercial Mortgage Securities Trust 2019-COR5."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-15"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-16"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/jpmcc-commercial-mortgage-securities-trust-2019-cor5-d01/">&larr; JPMCC Commercial Mortgage Securities Trust 2019-COR5</a> / <a href="/cmbs/">CMBS market</a></p>
