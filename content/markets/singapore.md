@@ -2,14 +2,14 @@
 title: "Singapore"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Singapore, refreshed hourly."
-data_as_of: "Oct 29, 10:02 PM ET"
+data_as_of: "Oct 29, 11:01 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 10:02 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 11:01 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Straits Times (index)</td><td class="num">5,382 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.26%</span></td><td class="num"><span class="down">-0.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.9 4.4,4.5 8.7,7.0 13.1,4.8 17.5,2.0 21.8,9.0 26.2,23.7 30.5,24.5 34.9,23.5 39.3,22.4 43.6,22.9 48.0,24.4 52.4,23.5 56.7,23.7 61.1,24.3 65.5,21.8 69.8,23.5 74.2,23.0 78.5,23.5 82.9,24.9 87.3,24.8 91.6,24.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Straits Times (index)</td><td class="num">5,390 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.11%</span></td><td class="num"><span class="down">-0.60%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.4,4.6 8.7,7.1 13.1,4.9 17.5,2.0 21.8,9.2 26.2,24.2 30.5,25.1 34.9,24.0 39.3,22.9 43.6,23.4 48.0,25.0 52.4,24.0 56.7,24.3 61.1,24.9 65.5,22.3 69.8,24.1 74.2,23.5 78.5,24.0 82.9,25.5 87.3,25.4 91.6,25.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Singapore (EWS)</td><td class="num">$30.8900 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="up">+0.03%</span></td><td class="num"><span class="down">-0.83%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.6 9.1,5.0 13.7,2.0 18.3,2.6 22.9,9.8 27.4,18.5 32.0,18.7 36.6,19.2 41.1,19.3 45.7,22.7 50.3,20.2 54.9,21.3 59.4,22.4 64.0,21.4 68.6,21.5 73.1,23.2 77.7,23.9 82.3,25.0 86.9,26.0 91.4,25.9 96.0,25.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SGD</td><td class="num">1.2783 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.21%</span></td><td class="num"><span class="down">-0.12%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.6 4.4,21.9 8.7,14.0 13.1,16.7 17.5,17.1 21.8,23.3 26.2,16.1 30.5,12.3 34.9,13.3 39.3,11.9 43.6,16.1 48.0,2.0 52.4,9.5 56.7,17.4 61.1,15.7 65.5,21.9 69.8,24.6 74.2,26.0 78.5,22.2 82.9,11.9 87.3,10.2 91.6,11.3 96.0,20.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SGD</td><td class="num">1.2776 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.26%</span></td><td class="num"><span class="down">-0.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.6 4.4,21.9 8.7,14.0 13.1,16.7 17.5,17.1 21.8,23.3 26.2,16.1 30.5,12.3 34.9,13.3 39.3,11.9 43.6,16.1 48.0,2.0 52.4,9.5 56.7,17.4 61.1,15.7 65.5,21.9 69.8,24.6 74.2,26.0 78.5,22.2 82.9,11.9 87.3,10.2 91.6,11.3 96.0,22.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
