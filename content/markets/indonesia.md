@@ -2,13 +2,13 @@
 title: "Indonesia"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Indonesia, refreshed hourly."
-data_as_of: "Oct 29, 9:02 PM ET"
+data_as_of: "Oct 29, 10:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 29, 9:02 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 29, 10:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Jakarta Composite (index)</td><td class="num">5,282 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="up">+0.31%</span></td><td class="num"><span class="down">-0.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.4 4.6,4.4 9.1,5.7 13.7,5.1 18.3,3.5 22.9,2.0 27.4,2.9 32.0,5.2 36.6,4.0 41.1,7.2 45.7,7.4 50.3,7.0 54.9,8.6 59.4,22.2 64.0,26.0 68.6,20.3 73.1,19.3 77.7,18.2 82.3,17.1 86.9,18.4 91.4,20.6 96.0,20.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.4500 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="up">+1.06%</span></td><td class="num"><span class="down">-0.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.1 4.8,5.3 9.6,4.6 14.4,2.1 19.2,2.0 24.0,2.7 28.8,4.7 33.6,2.4 38.4,4.7 43.2,4.3 48.0,4.7 52.8,4.6 57.6,22.6 62.4,26.0 67.2,18.9 72.0,16.5 76.8,15.4 81.6,15.8 86.4,16.6 91.2,18.4 96.0,17.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Jakarta Composite (index)</td><td class="num">5,098 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-3.49%</span></td><td class="num"><span class="down">-5.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.4 4.6,5.7 9.1,5.1 13.7,3.5 18.3,2.0 22.9,2.9 27.4,5.2 32.0,4.0 36.6,7.2 41.1,7.4 45.7,7.0 50.3,8.6 54.9,22.2 59.4,26.0 64.0,20.3 68.6,19.3 73.1,18.2 77.7,17.1 82.3,18.4 86.9,20.6 91.4,20.3 96.0,24.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.0800 <span class="gm-sub-inline">as of 2026-10-29</span></td><td class="num"><span class="down">-3.54%</span></td><td class="num"><span class="down">-5.17%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.1 4.6,5.3 9.1,4.6 13.7,2.1 18.3,2.0 22.9,2.7 27.4,4.7 32.0,2.4 36.6,4.7 41.1,4.3 45.7,4.7 50.3,4.6 54.9,22.6 59.4,26.0 64.0,18.9 68.6,16.5 73.1,15.4 77.7,15.8 82.3,16.6 86.9,18.4 91.4,17.3 96.0,21.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/IDR</td><td class="num">18,128 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.35%</span></td><td class="num"><span class="down">-0.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,17.3 8.7,15.0 13.1,15.8 17.5,17.1 21.8,20.5 26.2,17.7 30.5,21.8 34.9,15.8 39.3,15.6 43.6,18.3 48.0,20.9 52.4,9.3 56.7,7.2 61.1,8.1 65.5,11.3 69.8,10.0 74.2,7.4 78.5,5.7 82.9,2.0 87.3,2.3 91.6,6.6 96.0,2.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
