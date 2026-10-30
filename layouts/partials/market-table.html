@@ -5,6 +5,8 @@
 {{ else if eq $section "technology" }}{{ $tables = slice "technology" "equities" }}
 {{ else }}{{ $tables = slice $section }}{{ end }}
 {{ $updated := (time $site.Data.market_tables.updated).Format "Jan 2, 3:04 PM" }}
+{{ $quotesUpdated := "" }}
+{{ with $site.Data.market_tables.quotes_updated }}{{ $quotesUpdated = (time .).Format "Jan 2, 3:04 PM" }}{{ end }}
 {{ range $tables }}
 {{ $key := . }}
 {{ $data := index $site.Data.market_tables $key }}
@@ -12,17 +14,24 @@
 <section class="market-table-wrap" aria-label="Market data">
 <h2 class="market-table-title">{{ if eq $key "commodities" }}Commodity prices{{ else if eq $key "mining" }}Mining equities{{ else if eq $key "technology" }}Tech equities{{ else if eq $key "rates" }}Sovereign yields{{ else if eq $key "fx" }}Currencies{{ else if eq $key "equities" }}Global equities{{ else }}{{ $key }}{{ end }}</h2>
 <p class="market-table-updated">Updated as of {{ $updated }} ET - 30-day trend</p>
+{{ if $quotesUpdated }}<p class="market-table-updated">Intraday prices as of {{ $quotesUpdated }} ET. Prices are delayed about 10 to 15 minutes. Each row shows the time of its last trade, Eastern.</p>{{ end }}
 <div class="market-table-scroll">
 <table class="market-table">
-<thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>Trend</th></tr></thead>
+<thead><tr><th>Instrument</th><th>Last</th><th>Last trade</th><th>Day</th><th>Week</th><th>Trend</th></tr></thead>
 <tbody>
 {{ range . }}
+{{ $price := .value }}{{ if isset . "now" }}{{ $price = .now }}{{ end }}
+{{ $hasD := or (isset . "now_change_1d") (isset . "change_1d") }}
+{{ $hasW := or (isset . "now_change_1w") (isset . "change_1w") }}
+{{ $c1d := .change_1d }}{{ $u1d := .up_1d }}{{ if isset . "now_change_1d" }}{{ $c1d = .now_change_1d }}{{ $u1d = .now_up_1d }}{{ end }}
+{{ $c1w := .change_1w }}{{ if isset . "now_change_1w" }}{{ $c1w = .now_change_1w }}{{ end }}
 <tr>
 <td>{{ .name }}</td>
-<td class="num">{{ .value }} <span class="unit">{{ .unit }}</span></td>
-<td class="num {{ if .up_1d }}up{{ else }}down{{ end }}">{{ if .up_1d }}+{{ end }}{{ .change_1d }}{{ .change_unit }}</td>
-<td class="num {{ if ge .change_1w 0 }}up{{ else }}down{{ end }}">{{ if ge .change_1w 0 }}+{{ end }}{{ .change_1w }}{{ .change_unit }}</td>
-<td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="{{ .spark }}" fill="none" stroke="{{ if .up_1d }}#1a7f37{{ else }}#b42318{{ end }}" stroke-width="1.5"/></svg></td>
+<td class="num">{{ $price }} <span class="unit">{{ .unit }}</span></td>
+<td class="trade-time">{{ if isset . "now_time" }}{{ (time .now_time).Format "Jan 2, 3:04 PM" }}{{ end }}</td>
+<td class="num {{ if $u1d }}up{{ else }}down{{ end }}">{{ if $hasD }}{{ if $u1d }}+{{ end }}{{ $c1d }}{{ .change_unit }}{{ end }}</td>
+<td class="num {{ if and $hasW (ge $c1w 0.0) }}up{{ else }}down{{ end }}">{{ if $hasW }}{{ if ge $c1w 0.0 }}+{{ end }}{{ $c1w }}{{ .change_unit }}{{ end }}</td>
+<td>{{ if .spark }}<svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="{{ .spark }}" fill="none" stroke="{{ if $u1d }}#1a7f37{{ else }}#b42318{{ end }}" stroke-width="1.5"/></svg>{{ end }}</td>
 </tr>
 {{ end }}
 </tbody>
