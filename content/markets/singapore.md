@@ -2,10 +2,10 @@
 title: "Singapore"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Singapore, refreshed hourly."
-data_as_of: "Oct 30, 6:04 PM ET"
+data_as_of: "Oct 30, 7:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 6:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 7:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Straits Times (index)</td><td class="num">5,396 <span class="gm-sub-inline">as of 2026-10-29, stale</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="down">-0.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.6,4.7 9.1,7.2 13.7,4.9 18.3,2.0 22.9,9.3 27.4,24.7 32.0,25.5 36.6,24.5 41.1,23.3 45.7,23.9 50.3,25.4 54.9,24.5 59.4,24.7 64.0,25.4 68.6,22.7 73.1,24.5 77.7,23.9 82.3,24.4 86.9,25.9 91.4,25.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Singapore (EWS)</td><td class="num">$30.6300 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.84%</span></td><td class="num"><span class="down">-1.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.5 8.7,4.7 13.1,2.0 17.5,2.5 21.8,9.1 26.2,17.0 30.5,17.1 34.9,17.6 39.3,17.7 43.6,20.8 48.0,18.5 52.4,19.5 56.7,20.5 61.1,19.6 65.5,19.7 69.8,21.3 74.2,21.9 78.5,22.9 82.9,23.8 87.3,23.7 91.6,23.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>

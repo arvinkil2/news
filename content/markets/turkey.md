@@ -2,10 +2,10 @@
 title: "Turkey"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Turkey, refreshed hourly."
-data_as_of: "Oct 30, 6:04 PM ET"
+data_as_of: "Oct 30, 7:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 6:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 7:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>BIST 100 (index)</td><td class="num">11,165 <span class="gm-sub-inline">as of 2026-10-28, stale</span></td><td class="num"><span class="up">+0.13%</span></td><td class="num"><span class="down">-3.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.0 4.8,5.5 9.6,5.1 14.4,2.0 19.2,3.3 24.0,7.8 28.8,6.2 33.6,5.2 38.4,7.3 43.2,5.5 48.0,7.9 52.8,8.8 57.6,15.1 62.4,20.3 67.2,13.7 72.0,17.7 76.8,24.1 81.6,26.0 86.4,25.4 91.2,25.4 96.0,25.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Turkey (TUR)</td><td class="num">$29.5300 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-3.97%</span></td><td class="num"><span class="down">-3.87%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.3 4.4,3.5 8.7,4.1 13.1,2.0 17.5,3.2 21.8,6.1 26.2,5.7 30.5,4.8 34.9,6.2 39.3,4.9 43.6,7.0 48.0,7.4 52.4,12.4 56.7,15.5 61.1,11.8 65.5,13.8 69.8,18.8 74.2,20.5 78.5,20.0 82.9,20.0 87.3,20.3 91.6,20.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>

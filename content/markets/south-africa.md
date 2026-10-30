@@ -2,10 +2,10 @@
 title: "South Africa"
 date: "2026-10-30"
 lede: "Benchmark index, country ETF, currency and sovereign yields for South Africa, refreshed hourly."
-data_as_of: "Oct 30, 6:04 PM ET"
+data_as_of: "Oct 30, 7:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 6:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 7:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE/JSE All Share (index)</td><td class="num">6,589 <span class="gm-sub-inline">as of 2026-10-29, stale</span></td><td class="num"><span class="up">+0.62%</span></td><td class="num"><span class="up">+0.69%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.2 4.6,23.0 9.1,18.9 13.7,20.8 18.3,14.3 22.9,26.0 27.4,25.3 32.0,16.4 36.6,15.8 41.1,11.9 45.7,19.9 50.3,8.2 54.9,2.0 59.4,11.2 64.0,3.2 68.6,7.6 73.1,16.8 77.7,22.2 82.3,18.4 86.9,14.2 91.4,16.5 96.0,13.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI South Africa (EZA)</td><td class="num">$61.78 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-3.60%</span></td><td class="num"><span class="down">-2.15%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.6 4.4,18.9 8.7,16.8 13.1,16.9 17.5,13.7 21.8,22.7 26.2,20.2 30.5,12.8 34.9,13.0 39.3,9.3 43.6,16.2 48.0,4.8 52.4,3.0 56.7,7.4 61.1,2.0 65.5,2.8 69.8,12.4 74.2,17.1 78.5,14.8 82.9,11.3 87.3,9.1 91.6,10.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
