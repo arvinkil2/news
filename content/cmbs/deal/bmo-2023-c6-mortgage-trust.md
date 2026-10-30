@@ -1,6 +1,6 @@
 ---
 title: "BMO 2023-C6 Mortgage Trust"
-date: "2026-10-21"
+date: "2026-10-30"
 lede: "Current collateral, loans, tranches and ratings for BMO 2023-C6 Mortgage Trust."
 data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
@@ -200,6 +200,7 @@ data_as_of: "loan data through September 2026; ratings as held in the dataset at
 <p class="data-vintage">Property type is reported for 100.0% of the filed loan balance; shares are of the filed loan total, with component records counted once.</p>
 <h3>Largest loans at issuance</h3>
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Property</th><th>Location</th><th>Original balance</th><th>Share of pool</th><th>Coupon</th><th>Originated</th></tr></thead><tbody><tr><td>Belpre V Cancer Center - Belpre, OH (and 61 more properties)</td><td>Belpre, OH (and 61 more)</td><td class="num">$60.0M</td><td class="num">9.9%</td><td class="num">6.45%</td><td class="num">2023</td></tr><tr><td>Skorpios Industrial</td><td>Temecula, CA</td><td class="num">$60.0M</td><td class="num">9.9%</td><td class="num">6.64%</td><td class="num">2023</td></tr><tr><td>Fashion Valley Mall</td><td>San Diego, CA</td><td class="num">$50.0M</td><td class="num">8.3%</td><td class="num">5.73%</td><td class="num">2023</td></tr><tr><td>CX - 250 Water Street</td><td>Cambridge, MA</td><td class="num">$46.2M</td><td class="num">7.6%</td><td class="num">5.51%</td><td class="num">2023</td></tr><tr><td>Marriott Philadelphia West</td><td>West Conshohocken, PA</td><td class="num">$34.0M</td><td class="num">5.6%</td><td class="num">7.15%</td><td class="num">2023</td></tr></tbody></table></div>
+<p class="data-vintage">Cross-dataset record: <a href="/entities/">Entity Index</a>. This trust is resolved there to its merged-dataset unit, with fund-mark coverage by class.</p>
 <p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports, Form 10-D distribution reports and the deal prospectus; rating histories published under SEC Rule 17g-7(b) and agency releases. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
 <script>
 (function(){
@@ -272,23 +273,21 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     }
     return best;
   }
-  head.addEventListener('pointerdown', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault(); ev.stopPropagation();
-    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0, shift = ev.shiftKey && i + 1 < n;
+  function startDrag(i, ev, shift){
+    var startX = ev.clientX, startW = widths[i], startN = (i + 1 < n) ? widths[i + 1] : 0;
+    shift = shift && i + 1 < n;
     function move(e){
       var dx = e.clientX - startX;
       if (shift) { var w = Math.max(mins[i], Math.min(startW + startN - mins[i + 1], startW + dx)); widths[i] = w; widths[i + 1] = startW + startN - w; }
       else widths[i] = Math.max(mins[i], startW + dx);
       apply(); lastDrag = Date.now();
     }
-    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); save(); }
+    function up(){ document.removeEventListener('pointermove', move); document.removeEventListener('pointerup', up); document.removeEventListener('pointercancel', up); save(); }
     document.addEventListener('pointermove', move);
     document.addEventListener('pointerup', up);
-  });
-  head.addEventListener('dblclick', function(ev){
-    var i = boundary(ev); if (i < 0) return;
-    ev.preventDefault();
+    document.addEventListener('pointercancel', up);
+  }
+  function autoFit(i){
     var clone = t.cloneNode(true);
     clone.style.cssText = 'position:absolute;visibility:hidden;left:-9999px;top:0;width:auto;table-layout:auto;';
     var ccg = clone.querySelector('colgroup'); if (ccg) ccg.remove();
@@ -297,6 +296,36 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     var w = cths[i] ? cths[i].offsetWidth : 0;
     clone.remove();
     if (w > 0) { widths[i] = Math.max(mins[i], w); apply(); save(); }
+  }
+  head.addEventListener('pointerdown', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault(); ev.stopPropagation();
+    startDrag(i, ev, ev.shiftKey);
+  });
+  head.addEventListener('dblclick', function(ev){
+    var i = boundary(ev); if (i < 0) return;
+    ev.preventDefault();
+    autoFit(i);
+  });
+  ths.forEach(function(th, i){
+    if (fixed.indexOf(i) >= 0) return;
+    var grip = document.createElement('span');
+    grip.className = 'bw-grip';
+    grip.setAttribute('aria-hidden', 'true');
+    th.appendChild(grip);
+    var lastTap = 0, downX = 0;
+    grip.addEventListener('pointerdown', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      downX = ev.clientX;
+      startDrag(i, ev, false);
+    });
+    grip.addEventListener('pointerup', function(ev){
+      if (Math.abs(ev.clientX - downX) > 6) { lastTap = 0; return; }
+      var now = Date.now();
+      if (now - lastTap < 300) { lastTap = 0; autoFit(i); }
+      else lastTap = now;
+    });
+    grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
