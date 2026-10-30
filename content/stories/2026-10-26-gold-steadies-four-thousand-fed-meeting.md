@@ -1,15 +1,20 @@
 ---
 title: "Gold steadies near four thousand dollars before Fed"
 date: 2026-10-26T07:08:26-04:00
-last_updated: 2026-10-30T07:18:16-04:00
+last_updated: 2026-10-30T13:16:28-04:00
+update_bump: true
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
-lede: "Gold traded on either side of 4,000 dollars an ounce on Monday after falling more than 4 percent last week, its biggest weekly drop since June."
+lede: "Gold fell to $3,891.67 an ounce on Friday, its lowest in a year, and silver broke below $50 for the first time since November 2025, as rising oil prices hardened bets on a December Fed hike and a deepening technology rout forced investors to sell the metals to cover losses elsewhere."
 why_it_matters: "Gold's war trade has inverted: the same energy shock that once lifted bullion now pressures it through rate expectations, so the Fed meeting, not the battlefield, sets the next move."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank"
+    publisher: "Mining.com, with Reuters and Bloomberg"
+    url: "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/"
+    published: "2026-10-30"
   - title: "Gold steadies after weekly drop as focus shifts to Fed meeting"
     publisher: "Bloomberg, via Moneyweb"
     url: "https://www.moneyweb.co.za/mineweb/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting/"
@@ -31,7 +36,7 @@ sources:
     url: "https://financefeeds.com/gold-price-today-4004-tuesday-three-month-low-fomc-day-one-pce-thursday-bull-4110-bear-3890/"
     published: "2026-10-27"
 tags: []
-data_as_of: "Update October 27, 2026: site market tables snapshot at 06:00 ET. Spot trading on Monday, October 26, 2026: Bloomberg early Singapore reporting and Qatar News Agency reporting the same session are two separate origins for the near 4,000 dollar level and the weekly drop. Site market tables updated October 26 at 06:00 ET are a later snapshot and are labelled as such in the body. Update October 29, 2026: Bloomberg reporting of October 28 and site market tables at 06:00 ET. Update October 30, 2026: site market tables at 06:00 ET, session reporting of spot gold at 3,992.46 dollars, and Umicore's Friday market comment."
+data_as_of: "Update October 30, 2026 (intraday): Mining.com report of October 30, 2026, with files from Reuters and Bloomberg, read in full in this run: spot and Comex prices late morning in New York, the one year low, the silver break below 50 dollars, the analyst comment and the mining share falls are as reported there. Earlier: Update October 27, 2026: site market tables snapshot at 06:00 ET. Spot trading on Monday, October 26, 2026: Bloomberg early Singapore reporting and Qatar News Agency reporting the same session are two separate origins for the near 4,000 dollar level and the weekly drop. Site market tables updated October 26 at 06:00 ET are a later snapshot and are labelled as such in the body. Update October 29, 2026: Bloomberg reporting of October 28 and site market tables at 06:00 ET. Update October 30, 2026: site market tables at 06:00 ET, session reporting of spot gold at 3,992.46 dollars, and Umicore's Friday market comment."
 ---
 
 Gold steadied on Monday after its biggest weekly drop since June. Bullion traded on either side of 4,000 dollars an ounce after falling more than 4 percent last week to its lowest since July, Bloomberg reported, with spot gold slipping 0.1 percent to 3,993.20 dollars in early Singapore trading. The site market tables, updated October 26 at 06:00 ET, put gold at 4,031.70 dollars an ounce, up 0.59 percent on the day and down 3.09 percent on the week, a later snapshot of the same range bound session rather than a different market.
@@ -51,3 +56,5 @@ Update, October 28: Gold slipped toward 4,000 dollars again on Wednesday ahead o
 Update, October 29: Gold edged lower after the Federal Reserve held rates with limited guidance, Bloomberg reported late Wednesday, and the site market tables updated October 29 at 06:00 ET put gold at 4,038.10 dollars an ounce, down 0.33 percent on the day and down 0.55 percent on the week, with silver at 52.60 dollars, down 1.61 percent. The 4,000 dollar line held through the decision. No new physical demand or ETF flow figure appears in this morning's pool, so the India and China split reported yesterday stands as the latest demand read.
 
 Update, October 30: The 4,000 dollar line broke. The site market tables updated October 30 at 06:00 ET put gold at 3,997.40 dollars an ounce, down 0.84 percent on the day, and session reporting put spot gold down 0.7 percent at 3,992.46 dollars, with US futures down 0.8 percent at 4,002.22 dollars, after September PCE inflation rose 0.5 percent on the month and 3.6 percent on the year, lifting expectations of a December Fed rate increase. Silver fell harder in both snapshots, down 2.71 percent to 50.78 dollars in the tables and down 1.7 percent to 51.29 dollars in session reporting, with platinum and palladium also lower. Gold is on course for a second consecutive monthly loss, down more than 3 percent in October. ANZ, cited in the session reporting, said the technology selloff has added liquidation pressure, with investors having sold gold to cover losses elsewhere, while Chinese buying interest provided some support near 4,000 dollars. Umicore's Friday market comment, an independent dealer read, put spot gold at about 3,990 dollars, down 0.7 percent, and noted it was the second break below 4,000 dollars this week.
+
+Update, October 30 (intraday): The break deepened into a one year low. Spot gold fell as much as 3.2 percent to 3,891.67 dollars an ounce, its weakest since October 28 last year, and was down 2.7 percent at 3,910.53 dollars late morning in New York, with Comex December gold down 3.1 percent at 3,907.90 dollars, Mining.com reported, with files from Reuters and Bloomberg. Silver fell 5.8 percent to 49.34 dollars, its first time below 50 dollars since November 2025 and down about 18 percent for October, giving back everything gained since early December, when the two month run that carried it above 120 dollars began. Gold is on track for a fall of about 6 percent in October, its worst October since 2008, and trades about 28 percent below the record close of 5,419.83 dollars set on January 28. The selling came from both directions the updates above identified: Brent crude rose to its highest since April on fears of renewed United States military action against Iran, hardening the inflation case behind a December hike, which traders now price at more than 70 percent, while technology shares fell for a second day and, in the reading of TD Securities' Bart Melek and Commerzbank's analysts, forced selling to meet margin calls. Commerzbank called the metals decline exaggerated and still expects a recovery. Physical buyers are not stepping in yet: demand in India stayed subdued and demand in China muted, Reuters reported. The miners fell further than the metals: Newmont dropped 5 percent to a 110 billion dollar market value, Agnico Eagle lost 6.7 percent, Barrick fell 5 percent and Kinross slid 7.7 percent, and North America's five most valuable gold companies have together lost almost 140 billion dollars from their 52 week highs.
