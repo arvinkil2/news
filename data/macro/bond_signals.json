@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-30T09:39:08-04:00",
+ "as_of": "2026-10-30T10:00:46-04:00",
  "signals": [
   {
    "cusip": "21873SAC2",
@@ -51,6 +51,23 @@
    "level": "tier1",
    "rule": "print >15 pts below fund mark",
    "id": "21873SAC2-gap15-2026-10-30"
+  },
+  {
+   "cusip": "21873SAL2",
+   "issuer": "COREWEAVE INC",
+   "security": "2.875% Convertible Notes due 2033",
+   "price": 78.3496,
+   "prev_price": 83.9235,
+   "trade_date": "2026-10-30",
+   "trade_time": "09:33:04",
+   "mark": null,
+   "mark_period": null,
+   "gap": null,
+   "trades_stored": 681,
+   "fired_at": "2026-10-30T10:00:46-04:00",
+   "level": "flag",
+   "rule": "move of 5+ pts on a new trade",
+   "id": "21873SAL2-flag-2026-10-30"
   }
  ]
 }
