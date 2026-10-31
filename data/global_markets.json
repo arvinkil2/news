@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:03:48.905929-04:00",
+ "updated": "2026-10-30T21:03:57.855733-04:00",
  "volatility": {
   "vix": {
    "value": 19.42,
@@ -3555,7 +3555,7 @@
  ],
  "errors": [
   "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Japan y10 (official:JP): official official:JP: IncompleteRead(694958 bytes read, 500590 more expected)",
+  "Japan y10 (official:JP): official official:JP: IncompleteRead(1092638 bytes read, 102910 more expected)",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]

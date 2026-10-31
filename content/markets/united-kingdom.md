@@ -2,10 +2,10 @@
 title: "United Kingdom"
 date: "2026-10-31"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed hourly."
-data_as_of: "Oct 30, 8:03 PM ET"
+data_as_of: "Oct 30, 9:03 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 30, 8:03 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 30, 9:03 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,722 <span class="gm-sub-inline">as of 2026-10-29, stale</span></td><td class="num"><span class="up">+0.26%</span></td><td class="num"><span class="down">-0.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.6 4.6,26.0 9.1,24.2 13.7,22.3 18.3,20.0 22.9,24.4 27.4,25.3 32.0,19.4 36.6,13.9 41.1,14.3 45.7,10.3 50.3,4.2 54.9,2.0 59.4,8.2 64.0,9.9 68.6,8.8 73.1,10.3 77.7,12.1 82.3,8.1 86.9,12.3 91.4,11.9 96.0,10.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.7000 <span class="gm-sub-inline">as of 2026-10-29, stale</span></td><td class="num"><span class="up">+0.87%</span></td><td class="num"><span class="down">-0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.6,26.0 9.1,22.7 13.7,22.6 18.3,20.6 22.9,25.5 27.4,22.2 32.0,18.9 36.6,16.8 41.1,15.5 45.7,14.5 50.3,4.8 54.9,2.0 59.4,9.6 64.0,4.8 68.6,5.6 73.1,3.9 77.7,7.5 82.3,6.5 86.9,11.3 91.4,10.2 96.0,5.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
