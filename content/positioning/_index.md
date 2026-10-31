@@ -1,6 +1,6 @@
 ---
 title: "Positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Who holds what in commodities, organised by sector: every venue that publishes holder data for a commodity on one page, at full held depth."
 data_as_of: "Position dates per source, printed on the page"
 ---

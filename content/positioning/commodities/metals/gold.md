@@ -1,6 +1,6 @@
 ---
 title: "Gold positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Managed Money net +104,206 contracts at CFTC (United States), positions as of 20 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
@@ -540,14 +540,6 @@ data_as_of: "Position dates per venue, printed on the page"
 <tr class="pos-row" data-name="2026-01-21"><td data-v="2026-01-21">2026-01-21</td><td class="num" data-v="11158.0">11,158</td></tr>
 <tr class="pos-row" data-name="2026-01-22"><td data-v="2026-01-22">2026-01-22</td><td class="num" data-v="11244.0">11,244</td></tr>
 </tbody></table></div>
-<h2>Price, as held by the site</h2>
-<table class="market-table"><tbody>
-<tr><td>Latest price</td><td>4,010.00 $/oz</td></tr>
-<tr><td>Observations held</td><td>23</td></tr>
-<tr><td>Price window</td><td>The site's market tables hold about one month of daily observations; no longer price history is held for this commodity.</td></tr>
-<tr><td>Position and publication dates</td><td>Position dates print per venue above; this price is the latest market-table value and is not aligned to any position date.</td></tr>
-</tbody></table>
-<p class="gm-method">The price panel prints only where the site already holds the series, and it is not merged with the positioning panels: positioning is dated Tuesday or Friday and published later, so the two series are not contemporaneous.</p>
 <h2>In this section</h2>
 <table class="market-table"><tbody>
 <tr><td><a href="/positioning/commodities/metals/">Commodities, Metals</a></td></tr>

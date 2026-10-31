@@ -1,6 +1,6 @@
 ---
 title: "Caustic soda (CZCE) positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Top-20 member net -35,949 lots at CZCE (Zhengzhou), Caustic soda (SH), positions as of 28 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---

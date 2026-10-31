@@ -1,6 +1,6 @@
 ---
 title: "Coffee positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Managed Money net +22,337 contracts at CFTC (United States), positions as of 20 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---

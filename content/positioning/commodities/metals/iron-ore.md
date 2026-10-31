@@ -1,6 +1,6 @@
 ---
 title: "Iron ore positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Open interest 339,846 contracts, SGX, SGX IODEX Iron Ore Futures (futures), as of 27 Oct 2026. No holder split is published for this commodity."
 data_as_of: "Position dates per venue, printed on the page"
 ---

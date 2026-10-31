@@ -1,6 +1,6 @@
 ---
 title: "Freight (SGX) positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Open interest 11,040 contracts, SGX, SGX Baltic Capesize Time Charter (5 Routes) Average 180 Futures Options (futures), as of 27 Oct 2026. No holder split is published for this commodity."
 data_as_of: "Position dates per venue, printed on the page"
 ---

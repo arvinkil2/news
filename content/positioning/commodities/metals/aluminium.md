@@ -1,6 +1,6 @@
 ---
 title: "Aluminium positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Managed Money net +362 contracts at CFTC (United States), positions as of 9 Jun 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---

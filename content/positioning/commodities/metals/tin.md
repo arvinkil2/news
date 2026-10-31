@@ -1,6 +1,6 @@
 ---
 title: "Tin positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Investment funds net +1,247 lots at London Metal Exchange, positions as of 24 Dec 2020."
 data_as_of: "Position dates per venue, printed on the page"
 ---

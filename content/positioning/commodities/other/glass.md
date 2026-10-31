@@ -1,6 +1,6 @@
 ---
 title: "Glass (CZCE) positioning"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Top-20 member net -222,187 lots at CZCE (Zhengzhou), Glass (FG), positions as of 28 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
