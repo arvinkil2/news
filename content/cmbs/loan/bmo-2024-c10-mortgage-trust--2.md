@@ -1,8 +1,8 @@
 ---
 title: "The Mall of Victor Valley (BMO 2024-C10 Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BMO 2024-C10 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2024-c10-mortgage-trust/">&larr; BMO 2024-C10 Mortgage Trust</a> / <a href="/cmbs/deal-loans/bmo-2024-c10-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>

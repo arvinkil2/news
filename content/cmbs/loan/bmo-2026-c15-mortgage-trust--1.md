@@ -1,8 +1,8 @@
 ---
 title: "Arizona Mills (BMO 2026-C15 Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BMO 2026-C15 Mortgage Trust."
-data_as_of: "loan data through September 2026"
+data_as_of: "loan data through October 2026"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2026-c15-mortgage-trust/">&larr; BMO 2026-C15 Mortgage Trust</a> / <a href="/cmbs/deal-loans/bmo-2026-c15-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
