@@ -1,15 +1,19 @@
 ---
-title: "Russia prepares diesel export ban extension to January"
+title: "Russia signs diesel export ban extension through January"
 date: 2026-10-31T03:14:38-04:00
-last_updated: 2026-10-31T03:14:38-04:00
+last_updated: 2026-10-31T07:42:53-04:00
 beats: ["commodities"]
 regions: ["europe", "north-america"]
 status: "story"
-lede: "Russia is preparing a government order extending its diesel export ban to the end of January 2027, Deputy Prime Minister Alexander Novak said on October 30, with exceptions that would lift planned exports from 510,000 tonnes in October to about 2.15 million tonnes in November."
+lede: "Russia has signed a government resolution extending the ban on diesel, marine fuel and gas oil exports by direct producers through January 31, 2027, the cabinet press service said on October 31, formalising the extension Deputy Prime Minister Alexander Novak announced on October 30, with exceptions that would lift planned exports from 510,000 tonnes in October to about 2.15 million tonnes in November."
 why_it_matters: "The ban stays in place through the winter, so the baseline restriction on Russian diesel continues, but the exempted volume more than quadruples in November, and that exempted flow is the supply behind the Russian cargoes now heading to the United States and other markets."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "The Cabinet has extended the temporary ban on diesel exports by producers"
+    publisher: "TASS, in Russian, reporting the Russian cabinet press service"
+    url: "https://tass.ru/ekonomika/28274485"
+    published: "2026-10-31"
   - title: "Novak: the diesel export ban will be extended to the end of January"
     publisher: "Vedomosti"
     url: "https://www.vedomosti.ru/business/news/2026/10/30/1241598-zapret-na-eksport"
@@ -27,11 +31,13 @@ sources:
     url: "https://srnnews.com/russia-to-extend-diesel-export-ban-use-quotas-to-fulfil-us-deal-sources-say/"
     published: "2026-10-29"
 tags: []
-data_as_of: "Statements by Russian Deputy Prime Minister Alexander Novak to journalists on October 30, 2026, as reported by Vedomosti, Interfax and Finmarket, each read in full in Russian in this run. The extending government order itself has not been published: Novak said it is still being prepared, so no primary decree text exists to cite yet, and the figures below are his stated plans, not enacted quotas. Reuters is cited only for the expectations reported on October 29. The Government of the Russian Federation was logged to SOURCES-TO-IMPLEMENT.md in this run as an uncovered primary source."
+data_as_of: "Update 2026-10-31T07:42:53-04:00: TASS report of October 31, 2026, read in full in Russian in this run, quoting the Russian cabinet press service that a government resolution extending the producer ban has been signed. TASS gave no resolution number and did not say the text has been published, so the resolution itself is still not cited here; the signing and its scope are the cabinet's own statement via its state wire, and the figures below remain Novak's stated plans, not enacted quotas. Original: statements by Russian Deputy Prime Minister Alexander Novak to journalists on October 30, 2026, as reported by Vedomosti, Interfax and Finmarket, each read in full in Russian. Reuters is cited only for the expectations reported on October 29. The Government of the Russian Federation was logged to SOURCES-TO-IMPLEMENT.md on 2026-10-31 as an uncovered primary source."
 update_bump: true
 ---
 
-Russia's diesel export ban, which was due to expire for producers on October 31, will instead run to the end of January 2027 under a government order now in preparation, Deputy Prime Minister Alexander Novak told journalists on October 30. "A government order is now being prepared on extending the ban on diesel supplies to the end of January next year, that is, in effect for three months," Novak said, adding that, as before, separate exceptions will be made for supplies to world markets. He did not specify the conditions of the exceptions.
+Latest: the extension is now signed. The Russian cabinet press service said on October 31 that a government resolution has been signed extending, for three months, the temporary ban on exports by direct producers of diesel fuel, marine fuel and gas oils, so the producer restriction now runs through January 31, 2027 inclusive, the date the general fuel export ban already in force was due to end. The producer ban had been due to expire on October 31. The stated purpose is unchanged: to maintain a stable situation on the domestic fuel market. The TASS report of the press service statement gives no resolution number and does not list exceptions in the extension itself; it repeats Novak's October 30 statement that, as before, separate exceptions will be made for supplies to world markets.
+
+Russia's diesel export ban, which was due to expire for producers on October 31, will instead run to the end of January 2027 under the government order Novak described, Deputy Prime Minister Alexander Novak told journalists on October 30. "A government order is now being prepared on extending the ban on diesel supplies to the end of January next year, that is, in effect for three months," Novak said, adding that, as before, separate exceptions will be made for supplies to world markets. He did not specify the conditions of the exceptions.
 
 The structure underneath the ban does not change. On September 30 the government extended the ban for producers through October 31, while for companies that are not producers the restrictions already run to January 31, 2027, a split the extension now aligns. The stated purpose throughout has been stability on Russia's domestic fuel market. On October 10 the cabinet partially lifted the restrictions under the diesel arrangement agreed by Presidents Vladimir Putin and Donald Trump, allowing 500,000 tonnes onto the world market in the first stage, and the permitted October volume came to 510,000 tonnes.
 
