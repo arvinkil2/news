@@ -1,13 +1,13 @@
 ---
-title: "France's third protest weekend draws 320,000, ministry says"
+title: "France protest detentions reach 511 on third weekend"
 date: 2026-10-31T07:55:10-04:00
-last_updated: 2026-10-31T15:17:26-04:00
+last_updated: 2026-10-31T17:16:21-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "Police made more than 290 arrests across France on Saturday as the third weekend of cost of living protests, which the interior ministry put at 320,000 people nationwide including 70,000 in Paris, ended in clashes in Paris, Marseille, Toulouse and Rennes."
-why_it_matters: "On the ministry's count, turnout has fallen for a second straight Saturday, from 550,000 on October 17, but the day still ended with more than 290 arrests, street fires in Marseille and incendiary devices thrown at police in Paris, six months before presidential elections, with 70,000 police and gendarmes deployed."
+lede: "Detentions across France reached 511 by 8 p.m. on Saturday, BFMTV reported citing the interior ministry, as the third weekend of cost of living protests, which the ministry put at 320,000 people nationwide including 70,000 in Paris, ended in clashes in Paris, Marseille, Toulouse and Rennes."
+why_it_matters: "On the ministry's count, turnout has fallen for a second straight Saturday, from 550,000 on October 17, but the day still ended with 511 detentions, street fires in Marseille and incendiary devices thrown at police in Paris, six months before presidential elections, with 70,000 police and gendarmes deployed."
 featured: false
 evidence_grade: "B"
 sources:
@@ -31,10 +31,16 @@ sources:
     publisher: "Deutsche Welle, with AP, AFP, Reuters and dpa"
     url: "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138"
     published: "2026-10-31"
+  - title: "In France 511 people were detained at protests against the rising cost of living"
+    publisher: "RIA Novosti, in Russian, reporting BFMTV citing the interior ministry"
+    url: "https://ria.ru/20261031/frantsija-2128384069.html"
+    published: "2026-10-31"
 tags: []
-data_as_of: "Update 2026-10-31T13:45:51-04:00: Reuters report of October 31, 2026 and Press Association report of October 31, 2026, each read in full in this run, carrying the interior ministry's turnout figures and the end of march clashes; TASS and RIA Novosti, in Russian, and AFP via UOL, in Portuguese, carried the same 320,000 ministry figure in the feed pool for this run, and organisers' claims of about half a million were reported by AFP via UOL and by Le Monde's live coverage. Original: France 24 video report of October 31, 2026. The France 24 page itself was blocked in the original run, so the item was verified against the broadcaster's official upload of the same video and matching indexed excerpts of the page; it was a preview published before the authorised Paris gathering began, so it carried no protester turnout, injury or arrest figures. Developing item. Update 2026-10-31T15:17:26-04:00: Deutsche Welle report of October 31, 2026, with AP, AFP, Reuters and dpa, read in full in this run, carrying the police figure of more than 290 arrests and the end of day clashes in Paris, Marseille, Toulouse and Rennes; Prensa Latina, in Spanish, put arrests at at least 296 among the 320,000 demonstrators in the feed pool for this run."
+data_as_of: "Update 2026-10-31T13:45:51-04:00: Reuters report of October 31, 2026 and Press Association report of October 31, 2026, each read in full in this run, carrying the interior ministry's turnout figures and the end of march clashes; TASS and RIA Novosti, in Russian, and AFP via UOL, in Portuguese, carried the same 320,000 ministry figure in the feed pool for this run, and organisers' claims of about half a million were reported by AFP via UOL and by Le Monde's live coverage. Original: France 24 video report of October 31, 2026. The France 24 page itself was blocked in the original run, so the item was verified against the broadcaster's official upload of the same video and matching indexed excerpts of the page; it was a preview published before the authorised Paris gathering began, so it carried no protester turnout, injury or arrest figures. Developing item. Update 2026-10-31T15:17:26-04:00: Deutsche Welle report of October 31, 2026, with AP, AFP, Reuters and dpa, read in full in this run, carrying the police figure of more than 290 arrests and the end of day clashes in Paris, Marseille, Toulouse and Rennes; Prensa Latina, in Spanish, put arrests at at least 296 among the 320,000 demonstrators in the feed pool for this run. Update 2026-10-31T17:16:21-04:00: RIA Novosti report of October 31, 2026, read in full in Russian in this run, carrying BFMTV's report, citing the interior ministry, that detentions had reached 511 as of 8 p.m. local time; the turnout figures are unchanged. RIA is a Russian state wire relaying a French broadcaster's report of the French ministry's own figure, and the figure is carried on that basis."
 update_bump: true
 ---
+
+Latest: detentions rose through the evening to 511 as of 8 p.m. local time, BFMTV reported citing the interior ministry, up from the 296 reported earlier in the day. The ministry's turnout figures were unchanged at 320,000 nationwide, including 70,000 in Paris.
 
 Latest: police made more than 290 arrests across France on Saturday, Deutsche Welle reported with AP, AFP, Reuters and dpa. The interior ministry said radical elements in Bordeaux, Toulouse and Marseille tried to enter city centres to vandalise and loot, while the declared marches otherwise proceeded smoothly. Fires burned in the streets in Marseille, clashes with police were reported in Rennes and Toulouse, and police fired tear gas in Paris and Lyon in the late afternoon. At the end of the Paris march, on the city's southern outskirts, fireworks exploded and incendiary devices were thrown at officers in riot gear, with several officers caught in the flames; no injury count was reported. Paris police said they had carried out more than 1,200 checks at railway stations and nearby areas early on Saturday to keep fireworks, knives and other prohibited items out of the marches.
 
