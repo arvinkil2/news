@@ -1,14 +1,14 @@
 ---
 title: "Citigroup Commercial Mortgage Trust 2026-MFAM1"
-date: "2026-10-30"
+date: "2026-10-31"
 lede: "Current collateral, loans, tranches and ratings for Citigroup Commercial Mortgage Trust 2026-MFAM1."
-data_as_of: "loan data through September 2026"
+data_as_of: "loan data through October 2026"
 aliases:
   - "/cmbs/deal/citigroup-commercial-mortgage-trust-2026-mfam1-d13/"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deals/">&larr; Deal index</a> / <a href="/cmbs/">CMBS market</a> / <a href="/cmbs/deal-loans/citigroup-commercial-mortgage-trust-2026-mfam1-d01/">Loan annex</a></p>
-<dl class="bw-summary"><div class="bw-sum-item"><dt>Current pool balance</dt><dd>$816.9M (September 2026)</dd></div><div class="bw-sum-item"><dt>Loans reporting</dt><dd>27 (September 2026)</dd></div><div class="bw-sum-item"><dt>30+ delinquent (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Specially serviced (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Distress (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Median DSCR (latest)</dt><dd>not yet reported</dd></div><div class="bw-sum-item"><dt>Net rating change since issuance</dt><dd>not yet reported</dd></div></dl>
+<dl class="bw-summary"><div class="bw-sum-item"><dt>Current pool balance</dt><dd>$816.9M (September 2026)</dd></div><div class="bw-sum-item"><dt>Loans reporting</dt><dd>27 (October 2026)</dd></div><div class="bw-sum-item"><dt>30+ delinquent (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Specially serviced (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Distress (latest)</dt><dd>0.00%</dd></div><div class="bw-sum-item"><dt>Median DSCR (latest)</dt><dd>not yet reported</dd></div><div class="bw-sum-item"><dt>Net rating change since issuance</dt><dd>not yet reported</dd></div></dl>
 <h2>Parties and documents</h2>
 <table class="terms-table"><tbody><tr><td class="muted">Master servicer (primary servicer in the filings)</td><td>Midland Loan Services (25 loans); Berkadia (2 loans)</td></tr><tr><td class="muted">Loan servicer</td><td>not yet reported</td></tr><tr><td class="muted">Trustee</td><td>not yet reported</td></tr><tr><td class="muted">Documents</td><td><a href="https://www.sec.gov/Archives/edgar/data/2143199/000153949726001972/0001539497-26-001972-index.htm">Prospectus filing (SEC EDGAR)</a> / <a href="https://www.sec.gov/edgar/browse/?CIK=2143199&owner=exclude">Trust filing index (SEC EDGAR)</a></td></tr></tbody></table><p class="data-vintage">Servicer and trustee names are as at filing: the name on the latest asset-level record for each loan. The asset-level filings record special servicer transfer dates but not the special servicer's name.</p>
 <h2>Collateral today</h2>
@@ -56,7 +56,7 @@ aliases:
 <div class="market-table-scroll"><table class="market-table"><thead><tr><th>Property</th><th>Location</th><th>Original balance</th><th>Share of pool</th><th>Coupon</th><th>Originated</th></tr></thead><tbody><tr><td>The Leo</td><td>Chicago, IL</td><td class="num">$65.0M</td><td class="num">8.0%</td><td class="num">5.85%</td><td class="num">2026</td></tr><tr><td>Solterra at Civic Center</td><td>Norwalk, CA</td><td class="num">$54.0M</td><td class="num">6.6%</td><td class="num">5.84%</td><td class="num">2026</td></tr><tr><td>Edge at Novi</td><td>Novi, MI</td><td class="num">$50.0M</td><td class="num">6.1%</td><td class="num">5.86%</td><td class="num">2026</td></tr><tr><td>The Dutton</td><td>Murfreesboro, TN</td><td class="num">$47.5M</td><td class="num">5.8%</td><td class="num">5.92%</td><td class="num">2026</td></tr><tr><td>Edison Grand</td><td>Fort Myers, FL</td><td class="num">$47.0M</td><td class="num">5.8%</td><td class="num">5.89%</td><td class="num">2026</td></tr></tbody></table></div>
 <h2>Filing sources</h2>
 <p>This page combines the filing units below for this trust. The figures are the main unit's (the first row); the combined units are earlier or partial filings of the same trust whose dated loans carry the same origination dates as the main unit's loans, and no month is counted twice.</p>
-<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Filing unit</th><th>Months of loan reports</th><th>Loans</th></tr></thead><tbody><tr><td>CIK 2143199, segment D01</td><td class="num">2</td><td class="num">27</td></tr><tr><td>CIK 1258361, segment D13</td><td class="num">1</td><td class="num">27</td></tr></tbody></table></div>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Filing unit</th><th>Months of loan reports</th><th>Loans</th></tr></thead><tbody><tr><td>CIK 2143199, segment D01</td><td class="num">3</td><td class="num">27</td></tr><tr><td>CIK 1258361, segment D13</td><td class="num">1</td><td class="num">27</td></tr></tbody></table></div>
 <p class="data-vintage">Cross-dataset record: <a href="/entities/">Entity Index</a>. This trust is resolved there to its merged-dataset unit, with fund-mark coverage by class.</p>
 <p class="data-vintage">Sources: SEC Form ABS-EE asset-level reports and the deal prospectus; rating histories published under SEC Rule 17g-7(b) and agency releases. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p>
 <script>
