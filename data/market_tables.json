@@ -237,7 +237,7 @@
    "up_1d": false,
    "now": 6.48,
    "now_time": "2026-10-30T16:45:00-04:00",
-   "now_change_1d": -0.99,
+   "now_change_1d": -0.97,
    "now_change_1w": -1.49,
    "now_up_1d": false
   },
@@ -2005,5 +2005,5 @@
    "now_up_1d": false
   }
  ],
- "quotes_updated": "2026-10-31T08:36:49.249090-04:00"
+ "quotes_updated": "2026-10-31T08:51:48.538703-04:00"
 }
