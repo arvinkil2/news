@@ -1,7 +1,7 @@
 ---
 title: "AstraZeneca launches $1.5 billion savings programme after Q3 beat"
 date: 2026-10-30T07:15:22-04:00
-last_updated: 2026-10-30T07:15:22-04:00
+last_updated: 2026-10-31T07:05:35-04:00
 beats: ["life-sciences"]
 regions: ["europe", "global"]
 status: "story"
@@ -35,3 +35,6 @@ Oncology did the work in the quarter, rising 17 percent to about $7.77 billion a
 Full year 2026 guidance was reaffirmed: total revenue growth of a mid to high single digit percentage and core earnings per share growth of a low double digit percentage, both at constant exchange rates, with a core tax rate of 18 to 22 percent. Chief executive Pascal Soriot said the company remains on track for its 2030 ambition of $80 billion in annual revenue, up from nearly $59 billion last year, and pointed to a catalyst rich 2027, when late stage results could support more than $20 billion in peak annual sales on analyst reporting of the call outlook.
 
 The sequencing matters. GSK laid out a £1.9 billion savings plan in July to fund development ahead of patent losses, and AstraZeneca has now followed with the same logic at similar scale, after late stage failures this year raised the stakes for 2027. Two of Europe's largest drugmakers are now explicitly funding their pipelines by cutting elsewhere, which makes the delivery of the savings, and the readouts they are meant to protect, the paired tests for both stocks.
+
+
+Updated October 31: reporting of the results call added the first detail on where the savings fall. Reuters reported that some departments face cutbacks or restructuring while others will reskill and hire, and that chief executive Pascal Soriot said shifting focus from patent expiring Farxiga and Brilinta toward oncology and rare diseases could render some research and development roles redundant. Executives gave no specific employment or geographic targets and said the company would see net job growth across different areas overall. That detail does not change the programme size or timetable reported above, and the Endpoints News headline in this edition about trials shifting to emerging markets could not be corroborated from an accessible second source in this run, so it is not relied on here.
