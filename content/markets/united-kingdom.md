@@ -2,10 +2,10 @@
 title: "United Kingdom"
 date: "2026-10-31"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed hourly."
-data_as_of: "Oct 31, 6:02 AM ET"
+data_as_of: "Oct 31, 7:24 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Oct 31, 6:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Oct 31, 7:24 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,730 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.07%</span></td><td class="num"><span class="up">+0.37%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.6 4.4,26.0 8.7,24.2 13.1,22.3 17.5,20.0 21.8,24.4 26.2,25.3 30.5,19.4 34.9,13.9 39.3,14.3 43.6,10.3 48.0,4.2 52.4,2.0 56.7,8.2 61.1,9.9 65.5,8.8 69.8,10.3 74.2,12.1 78.5,8.1 82.9,12.3 87.3,11.9 91.6,10.5 96.0,10.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.8300 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.27%</span></td><td class="num"><span class="up">+0.65%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.4,26.0 8.7,22.7 13.1,22.6 17.5,20.6 21.8,25.5 26.2,22.2 30.5,18.9 34.9,16.8 39.3,15.5 43.6,14.5 48.0,4.8 52.4,2.0 56.7,9.6 61.1,4.8 65.5,5.6 69.8,3.9 74.2,7.5 78.5,6.5 82.9,11.3 87.3,10.2 91.6,5.5 96.0,4.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -18,6 +18,7 @@ data_as_of: "Oct 31, 6:02 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-10-29 (Bank of England), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-commonwealth-reparations-antigua-burnham-dialogue/">Britain offers reparations dialogue before Antigua Commonwealth summit</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-waymo-toyota-bz4x-japan-uk/">Waymo taps Toyota to build robotaxis for Japan and Britain</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-allied-gold-kurmuk-wet-commissioning/">Allied Gold starts Kurmuk wet commissioning ahead of first gold</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-life-sciences-also-notable/">Life sciences also notable: Genmab record, UK budget pledges</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Oct 31, 6:02 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-commission-proposes-45-billion-ukraine-2027/">Commission proposes approving 45 billion euros for Ukraine in 2027</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-uk-approves-sea-link-undersea-cable/">Britain approves Sea Link undersea power cable</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-us-approves-patriot-sale-ukraine-2-1-billion/">US approves $2.1 billion Patriot missile sale to Ukraine</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-29</span> <a href="/stories/2026-10-29-dnipro-station-drone-strike-13-dead/">Ukrainian officials say drone strike on Dnipro station killed 14</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
