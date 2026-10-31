@@ -1,8 +1,8 @@
 ---
 title: "iStar Leased Fee Portfolio (Morgan Stanley Capital I Trust 2017-H1)"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Morgan Stanley Capital I Trust 2017-H1."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/morgan-stanley-capital-i-trust-2017-h1-d01-1705163/">&larr; Morgan Stanley Capital I Trust 2017-H1</a> / <a href="/cmbs/deal-loans/morgan-stanley-capital-i-trust-2017-h1-d01-1705163/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
