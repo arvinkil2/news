@@ -1,7 +1,7 @@
 ---
 title: "Drone hits two fishing boats south of Qeshm"
 date: 2026-10-31T06:12:50-04:00
-last_updated: 2026-10-31T06:12:50-04:00
+last_updated: 2026-10-31T08:15:17-04:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
@@ -19,10 +19,16 @@ sources:
     publisher: "TASS, in Russian, citing Fars"
     url: "https://tass.ru/mezhdunarodnaya-panorama/28274399"
     published: "2026-10-31"
+  - title: "Iran's Mojtaba Khamenei orders military response without 'geographic limits' to new threats"
+    publisher: "Arab News, with AFP"
+    url: "https://www.arabnews.com/middle-east/irans-mojtaba-khamenei-orders-military-response-without-geographic-limits-to-new-threats-3009105"
+    published: "2026-10-31"
 tags: []
-data_as_of: "Single source chain, grade C: Iran's semi official Fars news agency, as reported by Reuters on October 31, 2026 and by TASS in Russian the same day, each read in full in this run. Fars described the drone only as an enemy drone and named no operator; no independent source has confirmed who carried out the attack, and the casualty figures are preliminary."
+data_as_of: "Single source chain, grade C: Iran's semi official Fars news agency, as reported by Reuters on October 31, 2026 and by TASS in Russian the same day, each read in full. Update October 31, 2026: the report that the missing fishermen had been found is Iranian state television, as reported by Arab News with AFP, read in full in the 08:09 catalyst run. Fars described the drone only as an enemy drone and named no operator; no independent source has confirmed who carried out the attack."
 update_bump: true
 ---
+
+Latest: Iranian state television said the two fishermen reported missing after the attack had been found, Arab News reported with AFP on Saturday. AFP said it had sought comment from US Central Command, which had not responded in the report.
 
 An enemy drone attacked two fishing boats 14 nautical miles south of Qeshm Island on Saturday, according to Iran's semi official Fars news agency, reported by Reuters. Two fishermen were missing and two were wounded, and TASS, also citing Fars, said the wounded were taken to Qeshm and the search for the missing was continuing.
 
