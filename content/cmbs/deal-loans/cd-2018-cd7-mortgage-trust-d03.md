@@ -1,8 +1,8 @@
 ---
 title: "CD 2018-CD7 Mortgage Trust (segment D03, CIK 1746406): loan annex"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Loan detail for CD 2018-CD7 Mortgage Trust."
-data_as_of: "loan data through August 2022; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through August 2022; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/cd-2018-cd7-mortgage-trust-d03/">&larr; CD 2018-CD7 Mortgage Trust (segment D03, CIK 1746406)</a> / <a href="/cmbs/">CMBS market</a></p>
