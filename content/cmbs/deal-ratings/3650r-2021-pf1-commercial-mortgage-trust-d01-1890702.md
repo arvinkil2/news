@@ -1,8 +1,8 @@
 ---
 title: "3650R 2021-PF1 Commercial Mortgage Trust: rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for 3650R 2021-PF1 Commercial Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/3650r-2021-pf1-commercial-mortgage-trust-d01-1890702/">&larr; 3650R 2021-PF1 Commercial Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

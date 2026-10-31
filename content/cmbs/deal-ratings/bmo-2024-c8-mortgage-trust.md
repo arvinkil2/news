@@ -1,8 +1,8 @@
 ---
 title: "BMO 2024-C8 Mortgage Trust: rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for BMO 2024-C8 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2024-c8-mortgage-trust/">&larr; BMO 2024-C8 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

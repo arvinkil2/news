@@ -1,8 +1,8 @@
 ---
 title: "Morgan Stanley Capital I Trust 2020-HR8: rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for Morgan Stanley Capital I Trust 2020-HR8."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/morgan-stanley-capital-i-trust-2020-hr8-d01/">&larr; Morgan Stanley Capital I Trust 2020-HR8</a> / <a href="/cmbs/">CMBS market</a></p>

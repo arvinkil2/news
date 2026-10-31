@@ -1,8 +1,8 @@
 ---
 title: "Cd 2017-CD5 Mortgage Trust: rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for Cd 2017-CD5 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2022-10-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2022-10-17"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/cd-2017-cd5-mortgage-trust/">&larr; Cd 2017-CD5 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>

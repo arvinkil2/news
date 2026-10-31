@@ -1,8 +1,8 @@
 ---
 title: "Citigroup Commercial Mortgage Trust 2017-B1: rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for Citigroup Commercial Mortgage Trust 2017-B1."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2022-11-18"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2022-11-18"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/citigroup-commercial-mortgage-trust-2017-b1-d01/">&larr; Citigroup Commercial Mortgage Trust 2017-B1</a> / <a href="/cmbs/">CMBS market</a></p>

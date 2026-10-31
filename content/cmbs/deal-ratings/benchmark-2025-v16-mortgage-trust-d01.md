@@ -1,8 +1,8 @@
 ---
 title: "Benchmark 2025-V16 Mortgage Trust (segment D01, CIK 2060845): rating history"
-date: "2026-10-21"
+date: "2026-10-31"
 lede: "Rating actions, action dates and public knowledge dates for Benchmark 2025-V16 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/benchmark-2025-v16-mortgage-trust-d01/">&larr; Benchmark 2025-V16 Mortgage Trust (segment D01, CIK 2060845)</a> / <a href="/cmbs/">CMBS market</a></p>
