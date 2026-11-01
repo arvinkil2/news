@@ -1,15 +1,27 @@
 ---
-title: "OPEC+ set to hold December output targets steady"
+title: "OPEC+ holds December output targets steady"
 date: 2026-11-01T07:15:53-05:00
-last_updated: 2026-11-01T07:15:53-05:00
+last_updated: 2026-11-01T08:19:51-05:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
-lede: "OPEC+ members have agreed in principle to keep oil production targets unchanged for December, three people familiar with the matter told Reuters ahead of Sunday's online meeting."
-why_it_matters: "With Gulf members still pumping well below their targets because of war disruption, a formal hold changes no physical supply, and the group's real negotiation is now the 2027 quota baselines."
+lede: "OPEC+ members confirmed they will keep oil production targets unchanged for December, maintaining September's required production levels, the group said in a statement after Sunday's online meeting."
+why_it_matters: "With Gulf members still pumping well below their targets because of war disruption, the formal hold changes no physical supply, and the group's real negotiation is now the 2027 quota baselines, with the next meeting set for November 29."
 featured: true
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman reaffirm commitment to market stability"
+    publisher: "OPEC"
+    url: "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    published: "2026-11-01"
+  - title: "The OPEC+ Seven kept the oil production plan unchanged in December"
+    publisher: "TASS, in Russian"
+    url: "https://tass.ru/ekonomika/28276203"
+    published: "2026-11-01"
+  - title: "The OPEC+ Seven decided to keep the current oil production quotas for December"
+    publisher: "Interfax, in Russian"
+    url: "https://www.interfax.ru/business/1126402"
+    published: "2026-11-01"
   - title: "OPEC+ set to keep oil output targets steady, sources say"
     publisher: "Reuters"
     url: "https://kwsn.com/2026/11/01/opec-set-to-keep-oil-output-targets-steady-sources-say/"
@@ -23,8 +35,11 @@ sources:
     url: "https://houseofsaud.com/opec-saudi-oil-price-nov1/"
     published: "2026-11-01"
 tags: []
-data_as_of: "OPEC+ online meeting on Sunday November 1, 2026, starting 1200 GMT; agreement in principle reported by Reuters on November 1 ahead of the meeting, read in full. Saudi September output figure from OPEC's October monthly report as cited by House of Saud."
+data_as_of: "Update 2026-11-01T08:19:51-05:00: the confirmed decision, the December 2026 required production table and the November 29 next meeting date are from OPEC's own press release of November 1, 2026, read in full in this run via the live browser; TASS and Interfax, in Russian, read in full in this run via the live browser, carried the same decision and the same country figures. Original: OPEC+ online meeting on Sunday November 1, 2026, starting 1200 GMT; agreement in principle reported by Reuters on November 1 ahead of the meeting, read in full. Saudi September output figure from OPEC's October monthly report as cited by House of Saud."
+update_bump: true
 ---
+
+Latest: the seven OPEC+ members confirmed the December hold after their online meeting on Sunday. Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman decided to maintain September 2026 required production for December 2026, OPEC said in its press release, and reiterated their collective commitment to full conformity with the Declaration of Cooperation. The December required production levels are unchanged from September, October and November: Saudi Arabia at 10.478 million barrels per day, Russia at 9.949 million, Iraq at 4.431 million, Kuwait at 2.676 million, Kazakhstan at 1.628 million, Algeria at 1.007 million and Oman at 841,000, a combined 31.01 million barrels per day. The seven will keep meeting monthly to review market conditions, and their next meeting is on November 29, 2026, the day of the full OPEC+ ministerial meeting.
 
 OPEC+ oil producing countries were set to keep oil production targets steady for December at a meeting on Sunday, as the group still struggles with export disruptions from the United States and Iran war, Reuters reported. The seven core members meeting online, Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman, have agreed in principle to keep output unchanged for next month, three people with knowledge of the matter told Reuters on Saturday.
 
