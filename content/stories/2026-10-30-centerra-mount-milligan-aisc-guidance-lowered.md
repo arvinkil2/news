@@ -1,7 +1,7 @@
 ---
 title: "Centerra lowers Mount Milligan cost guidance on copper credits"
 date: 2026-10-30T07:08:20-04:00
-last_updated: 2026-10-30T07:08:20-04:00
+last_updated: 2026-11-01T07:16:18-05:00
 beats: ["mining"]
 regions: ["north-america"]
 status: "story"
@@ -19,7 +19,7 @@ sources:
     url: "https://discoveryalert.com/news/centerra-gold-q3-2026-results-mount-milligan-october-2026/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Third quarter 2026 results released October 29, 2026. Mount Milligan full year production guidance held at 140,000 to 155,000 ounces of gold and 50 to 60 million pounds of copper."
+data_as_of: "Third quarter 2026 results released October 29, 2026. Mount Milligan full year production guidance held at 140,000 to 155,000 ounces of gold and 50 to 60 million pounds of copper. Updated November 1, 2026 with the company's third quarter earnings call: adjusted net earnings, buybacks and Oksut detail added."
 ---
 
 Centerra Gold reported third quarter results on October 29 and used them to cut the cost outlook at its Mount Milligan copper gold mine in British Columbia. Mount Milligan's all in sustaining costs on a by product basis were 985 dollars an ounce in the quarter, down 22 percent quarter on quarter, and the company lowered full year by product AISC guidance to 1,100 to 1,200 dollars an ounce from 1,200 to 1,300 dollars.
@@ -29,3 +29,5 @@ The company was explicit about the mechanism. Gold production costs at the mine 
 Operations held plan for a fourth straight quarter. Mount Milligan produced 44,070 ounces of gold and 12.8 million pounds of copper in the quarter, and full year targets of 140,000 to 155,000 ounces of gold and 50 to 60 million pounds of copper remain intact. Consolidated gold production was 75,429 ounces and revenue was 500.3 million dollars, with free cash flow of 17.1 million dollars as growth projects absorbed cash.
 
 For readers, the distinction matters. A by product AISC cut driven by copper prices flatters gold margins while copper is strong and reverses if copper weakens, whereas Centerra's unchanged gold cost guidance is the cleaner read on mine performance. Consolidated AISC guidance was held at 1,650 to 1,750 dollars an ounce.
+
+Update, November 1: on its third quarter earnings call Centerra put adjusted net earnings at 72 million dollars, or 0.37 dollars a share, with operating cash flow of 143 million dollars and free cash flow of 17 million dollars after growth spending. The company completed a record 53 million dollars of share repurchases in the quarter, taking year to date buybacks to 125 million dollars. At Oksut in Turkey, production exceeded 31,000 ounces on higher grades, third quarter all in sustaining costs were 1,892 dollars an ounce, and the mine remains on track for its raised full year guidance of 120,000 to 135,000 ounces. Development work advanced at Goldfield and on the restart of the Thompson Creek molybdenum operation, and Centerra sold about 4.6 million pounds of molybdenum through its Langeloth facility at an average realised price of 33.43 dollars a pound.

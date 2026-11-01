@@ -1,11 +1,11 @@
 ---
 title: "South Africa heads for hung councils and coalition bargaining"
 date: 2026-10-30T07:14:09-04:00
-last_updated: 2026-10-30T07:14:09-04:00
+last_updated: 2026-11-01T07:16:36-05:00
 beats: ["politics"]
 regions: ["africa"]
 status: "story"
-lede: "Forecasting ahead of South Africa's November 4 local elections points to no outright majority in six of the country's eight metros, with polling showing nearly seven in ten voters favouring ANC and DA coalition governments where neither party wins alone."
+lede: "South Africa's parties closed their campaigns this weekend ahead of Wednesday's local elections, with Ramaphosa promising ANC councillors 100 days to show progress and Ipsos polling pointing to hung councils across the metros, the ANC at 31 percent and the DA at 25 percent."
 why_it_matters: "Who runs Johannesburg and the other metros will be decided in post election bargaining rather than at the ballot box, and whether the ANC and DA extend their national partnership into city halls is now the central question of South African coalition politics."
 featured: false
 evidence_grade: "B"
@@ -22,9 +22,23 @@ sources:
     publisher: "Business Day"
     url: "https://www.businessday.co.za/politics/2026-10-27-news-analysis-joburg-result-could-test-anc-da-ties-as-parties-face-hung-council/"
     published: "2026-10-27"
+  - title: "ANC wraps up election campaign with Siyanqoba Rally in Ku-Gompo"
+    publisher: "SABC News"
+    url: "https://www.sabcnews.com/sabcnews/anc-wraps-up-election-campaign-with-siyanqoba-rally-in-ku-gompo/"
+    published: "2026-11-01"
+  - title: "Ramaphosa calls on municipalities to attract investment and create jobs"
+    publisher: "JD Global Media, reporting the ANC Limpopo rally"
+    url: "https://www.jdglobalmedia.co.za/2026/11/ramaphosa-calls-on-municipalities-to.html"
+    published: "2026-11-01"
+  - title: "South Africa local elections: hung councils point to weeks of coalition talks"
+    publisher: "Africa Biz Monitor"
+    url: "https://africabizmonitor.com/2026/11/01/voters-may-wait-weeks-to-learn-who-runs-their-cities/"
+    published: "2026-11-01"
 tags: []
-data_as_of: "Local government elections November 4, 2026; Mail and Guardian report of October 30, 2026 from the feed pool, with the polling figures corroborated via search results in this run. Polling is a snapshot, not a forecast of seats, and the Social Research Foundation figures were published October 20, 2026."
+data_as_of: "Local government elections November 4, 2026; Mail and Guardian report of October 30, 2026 from the feed pool, with the polling figures corroborated via search results in this run. Polling is a snapshot, not a forecast of seats, and the Social Research Foundation figures were published October 20, 2026. Update November 1, 2026: final rallies October 31 and November 1, 2026, SABC News from the feed pool and rally reporting read via search results in this run; Ipsos projections as reported by Africa Biz Monitor on November 1, 2026."
 ---
+
+**Update, November 1:** The campaign has closed. The ANC wrapped up with its Siyanqoba rally at Sisa Dukashe Stadium in the Eastern Cape on Sunday, after Ramaphosa addressed the party's Limpopo rally in Polokwane on Saturday with an accountability pitch: ANC councillors would hold regular community meetings, publish budgets and audit outcomes, and have 100 days to demonstrate progress, while municipalities were told to attract investment and create jobs. The EFF closed in Soweto, where Julius Malema warned voters against the DA, and the DA made its final appeal in Mamelodi, Tshwane. Ipsos polling reported this weekend puts the ANC at 31 percent, the DA at 25 percent, the MK Party at 14 percent, the EFF at 11 percent, ActionSA at 6 percent and the IFP at 3 percent, with hung councils, up from 70 in 2021, pointing to weeks of coalition talks after Wednesday. No marches are permitted on election day, the police service has said.
 
 South Africans vote in local government elections on November 4, and the likely result is already visible: councils that nobody wins. Oxford Economics Africa's polling forecasts no outright majority nationally and in six of the country's eight metropolitan municipalities, a picture independent research bodies broadly share. The Mail and Guardian reported on Friday that a post election ANC and DA coalition is the likely outcome in the places where the two largest parties can together command a majority.
 

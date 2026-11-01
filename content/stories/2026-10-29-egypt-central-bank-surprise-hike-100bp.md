@@ -1,7 +1,7 @@
 ---
 title: "Egypt's central bank surprises with a 100 basis point hike"
 date: 2026-10-29T17:07:07-04:00
-last_updated: 2026-10-29T17:07:07-04:00
+last_updated: 2026-11-01T07:17:27-05:00
 update_bump: true
 beats: ["rates"]
 regions: ["middle-east", "africa"]
@@ -23,6 +23,14 @@ sources:
     publisher: "Zawia3"
     url: "https://zawia3.com/en/rate-hike/"
     published: "2026-10-29"
+  - title: "Banks to review savings, lending rates following CBE's 1% rate hike"
+    publisher: "Daily News Egypt"
+    url: "https://dailynewsegypt.com/2026/10/31/banks-to-review-savings-lending-rates-following-cbes-1-rate-hike/"
+    published: "2026-10-31"
+  - title: "Egyptian banks to reset interest rates following central bank hike"
+    publisher: "Tholth"
+    url: "https://tholth.com/2026/11/01/egyptian-banks-to-reset-interest-rates-following-central-bank-hike/"
+    published: "2026-11-01"
 tags: []
 data_as_of: "Thursday, October 29, 2026. The decision, the four rates and the committee's reasoning are as reported from the Central Bank of Egypt's Monetary Policy Committee press release of October 29, 2026 by Reuters, The Edge and Zawia3, each read in full in this run; The Edge states its account is taken from the bank's full statement. The bank's own press release on cbe.org.eg was not obtained directly in this run, and that limitation is stated plainly here; the bank has been logged for implementation as a direct source. Expectations are the pre-meeting consensus reported by HC Securities (11 institutions surveyed, all expecting a hold) and Zawia3. The pound and debt-flow figures are Zawia3's, citing the central bank's trading data and investor flow reporting."
 ---
@@ -32,3 +40,5 @@ The Central Bank of Egypt raised its policy rates by 100 basis points on Thursda
 The committee called the step preemptive. Annual urban inflation eased to 13.9 percent in September from 14.5 percent in August, and core inflation eased to 14.1 percent from 14.9 percent, but monthly headline inflation picked up to 1.3 percent in September and the bank said a more restrictive stance is needed to anchor expectations and keep inflation converging toward its target of 7 percent, plus or minus 2 points, on average in the fourth quarter of 2027. Its nowcast puts third quarter growth broadly steady near the 4.7 percent recorded in the second quarter. The statement named the risks as a regional conflict lasting longer than first envisaged, with spillovers to energy and commodity prices, tighter global financial conditions, and pass-through from fiscal consolidation that could exceed expectations.
 
 The currency is the immediate context. The pound fell to a record low this week, the dollar exceeding 56 pounds at the central bank for the first time on Monday, October 26, the same day foreign and Arab investors recorded net sales of about 664 million dollars of Treasury bills and bonds, Zawia3 reported. A hike defends the carry that keeps those investors in Egyptian paper, at the cost of higher debt service for the state and dearer credit for businesses whose borrowing is priced off the corridor. The committee meets once more this year, on December 17.
+
+Update, November 1: the hike took effect today and transmission began on schedule. Banks operating in Egypt start adjusting interest rates on savings products and loans from Sunday, Daily News Egypt reported on October 31, and variable rate certificates of deposit and loan products linked directly to the central bank's benchmarks reflected the full one percentage point increase immediately, including the National Bank of Egypt's Platinum Certificate and Banque Misr's Al Qimma Certificate, according to two independent reports of the repricing. Fixed rate savings certificates are under review bank by bank. The bank restated that the step was preemptive, aimed at sustaining the downward path of inflation and reaching its target of 7 percent, plus or minus 2 points, on average in the fourth quarter of 2027. What the market is now watching is the pass-through to domestic Treasury bill yields at the next auctions, which is where the higher corridor either holds foreign buyers or does not.

@@ -1,7 +1,7 @@
 ---
 title: "Lynas revenue jumps 55 percent on record rare earth prices"
 date: 2026-10-28T22:42:15-04:00
-last_updated: 2026-10-28T22:42:15-04:00
+last_updated: 2026-11-01T07:16:18-05:00
 beats: ["mining"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -9,7 +9,7 @@ developing: true
 lede: "Lynas Rare Earths reported gross sales revenue of A$310.1 million for the quarter ended September 30, up 55 percent from A$200.2 million a year earlier, as its average selling price rose 88 percent to a record A$102.1 per kilogram, and said a month-long planned maintenance shutdown at its Malaysian plant in the December quarter will reduce sales volumes against the September quarter."
 why_it_matters: "Lynas is the largest rare earths producer outside China, so its record realised prices and a month of lost Malaysian output in the December quarter both bear on how much separated rare earth supply reaches buyers outside China this year."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
   - title: "Lynas Rare Earths' revenue jumped 55% as prices hit records"
     publisher: "Finimize"
@@ -19,8 +19,12 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-10-29/lynas-expects-one-month-shutdown-at-malaysian-rare-earths-plant"
     published: "2026-10-29"
+  - title: "Lynas locks in price floors as revenue jumps 55%"
+    publisher: "Mining.com"
+    url: "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/"
+    published: "2026-10-30"
 tags: []
-data_as_of: "Lynas quarterly figures for the quarter ended September 30, 2026, as reported by Finimize on October 28, 2026 and read in full in this run, with the Malaysian shutdown also reported by Bloomberg on October 29, 2026. The company's own quarterly report was not read directly in this run, so this item ships at grade C. Developing item."
+data_as_of: "Lynas quarterly figures for the quarter ended September 30, 2026, as reported by Finimize on October 28, 2026, with the Malaysian shutdown also reported by Bloomberg on October 29, 2026. Updated November 1, 2026: the figures, the record A$102.1 per kilogram average price and the floor price contracts covering more than half of production were corroborated by Mining.com, carrying Reuters reporting, on October 30, 2026, so the grade rises to B. The Mining.com page itself returned 403 to a direct fetch in the November 1 run and was not re-read; corroboration rests on the Reuters figures as reported. Developing item."
 update_bump: true
 ---
 

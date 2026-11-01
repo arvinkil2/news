@@ -1,7 +1,7 @@
 ---
 title: "Trojanised Claude Code extension on Cursor planted SSH backdoor"
 date: 2026-10-31T07:06:33-04:00
-last_updated: 2026-10-31T07:06:33-04:00
+last_updated: 2026-11-01T07:18:40-05:00
 beats: ["technology"]
 regions: ["north-america", "global"]
 status: "story"
@@ -25,6 +25,8 @@ sources:
 tags: []
 data_as_of: "Incident window October 29, 2026, about 2:27 a.m. to 1:35 p.m. Pacific Time, per Cursor's security notice, the primary source. Technical detail (66 line loader, svc-telemetry SSH key) is from OpenSourceMalware's analysis as reported by The Hacker News on October 30, 2026. Anthropic's position, that the malicious build was not developed by Anthropic, is Cursor's statement, reported by The Register."
 ---
+
+**Latest, November 1:** Anthropic has now denied directly that its own systems were breached. After security figures alleged the tampered extension reached Cursor's marketplace through a compromise at Anthropic, technical staff member Felix Rieseberg said the company is working with Cursor on the incident, but it was not a compromise of Anthropic's systems or employee laptops: a malicious actor used access to Cursor's marketplace to publish a tampered copy of the extension, which Anthropic did not build or publish, and versions on its official channels are unaffected. Neither company has yet explained how the actor obtained that marketplace access. The Register's account of the implant, first spotted by EDR vendor Phorion, adds a technical limit: the script that opens the SSH tunnel required administrator rights on macOS and Windows and in the vast majority of cases did not have them, so the tunnel failed, though the implant still forwarded collected host and user data, dropped the attacker's SSH key and installed persistence, which is why updating alone does not remediate an affected machine.
 
 For about 11 hours on October 29, anyone who installed or updated the Claude Code extension from Cursor's own marketplace received a trojanised build. Cursor's security notice says versions 2.1.312 and 2.1.313 for Windows and macOS were maliciously modified, were not developed by Anthropic, and affected at most 5,000 users who installed the extension between about 2:27 a.m. and 1:35 p.m. Pacific Time.
 

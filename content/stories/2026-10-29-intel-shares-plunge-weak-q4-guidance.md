@@ -1,7 +1,7 @@
 ---
 title: "Intel shares plunge 29 percent on weak guidance"
 date: 2026-10-29T16:46:46-04:00
-last_updated: 2026-10-31T07:06:33-04:00
+last_updated: 2026-11-01T07:18:40-05:00
 update_bump: true
 beats: ["technology"]
 regions: ["north-america", "middle-east"]
@@ -31,6 +31,10 @@ sources:
     publisher: "TechCrunch"
     url: "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
     published: "2026-10-30"
+  - title: "Intel reallocates chip capacity from client to server CPUs"
+    publisher: "Silicon Report, reporting Tom's Hardware's account of the Intel earnings call"
+    url: "https://www.siliconreport.com/intel-reallocates-chip-capacity-from-client-to-server-cpus"
+    published: "2026-10-31"
   - title: "Intel shares plunge 28.58 percent on weak fourth quarter guidance and Israel plant shutdown"
     publisher: "JKN"
     url: "https://news.jkn.co.kr/editions/english/post/1060565"
@@ -38,6 +42,8 @@ sources:
 tags: []
 data_as_of: "Update 2026-10-31T07:06:33-04:00: Friday's regular session close, down 28.58 percent to 65.76 dollars from 92.07 dollars, the roughly 12 billion dollar fall in the value of the United States government's roughly 10 percent stake, and the worst day since 1974 characterisation are from TechCrunch and JKN reporting of October 30, 2026, corroborated by Seoul Economic Daily; the stake remains worth roughly three times its 2025 cost on the figures in that reporting. Update 2026-10-30T05:47:52-04:00: the roughly two week Fab 28 shutdown, the expected restart by the end of this week, the about 300 million dollar fourth quarter revenue impact with a similar impact expected in the first quarter of 2027, the approximately 2 percentage point reduction in fourth quarter non-GAAP gross margin, the concentration in 10nm server products and the expected fourth quarter wafer write-offs are Intel finance chief David Zinsner's statements on the company's earnings call, as reported by Tom's Hardware on October 30, 2026, read in full in this run. The explosion itself, at the Kiryat Gat plant in mid-October, was covered on this site on October 15, 2026 from CTech and Tom's Hardware reporting; Intel has not identified the affected Xeon families or said when the plant returns to full capacity. Original: Intel's Form 8-K filed October 29, 2026 (accession 0000050863-26-000188), read in full in this run, furnishes the company's third quarter press release as Exhibit 99.1, covering results for the quarter ended September 26, 2026 and forward looking statements for the fourth quarter. The figures, segment detail, consensus comparisons and executive comments are from CNBC and Investing.com reporting of that release, read in full in this run; the two reports put the fourth quarter revenue consensus at 17.1 billion dollars (LSEG, via CNBC) and 17.08 billion (Investing.com). One wire headline referred to an Israel fab incident; neither article read in this run mentions one, and no such incident is stated here."
 ---
+
+**Latest, November 1:** Intel is answering the server shortage by taking capacity from PCs. On the earnings call, reported by Tom's Hardware on October 31, the company said it will convert manufacturing resources in Oregon from the Intel 18A process, intended for Panther Lake client chips, to Intel 3 to produce more Xeon 6 Granite Rapids server processors, with the converted capacity entering production in the second half of 2027. Fab 24 in Ireland is being expanded for Xeon output, due online by the end of 2027 unless accelerated, equipment installation at Fab 62 in Arizona for 18A has begun ahead of schedule, and advanced packaging capacity is being expanded in New Mexico and Malaysia. Finance chief David Zinsner said weaker PC demand freed the room. Intel expects supply constraints, including an advanced substrate shortage, to stay severe through the first half of 2027, with about 40 percent more substrate capacity arriving in the second half of 2027, and capital spending of roughly 20 billion dollars in 2026 rising further in 2027. Chief executive Lip-Bu Tan called the shortage one of the most significant in history. The reallocation does not change the fourth quarter guidance below; it shows where Intel is placing its scarce wafers while it waits for Fab 28 and the new lines.
 
 **Latest, October 31:** Friday's regular session turned the after hours fall into a historic one. Intel closed on October 30 down 28.58 percent at 65.76 dollars, from a prior close of 92.07 dollars, its worst single day since 1974 on the reporting of TechCrunch, JKN and Seoul Economic Daily. The rout cut about 12 billion dollars from the value of the United States government's roughly 10 percent stake in the company, and about 6 billion dollars from Nvidia's holding, though the government stake remains worth roughly three times what it cost in 2025. The guidance and Fab 28 detail below is unchanged; Friday added the market's full verdict, not new company information.
 

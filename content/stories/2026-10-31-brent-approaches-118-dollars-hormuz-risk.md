@@ -1,7 +1,7 @@
 ---
 title: "Brent approaches 118 dollars as Hormuz risk builds"
 date: 2026-10-31T07:10:07-04:00
-last_updated: 2026-10-31T07:10:07-04:00
+last_updated: 2026-11-01T07:15:53-05:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "story"
@@ -19,8 +19,10 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-10-31"
 tags: []
-data_as_of: "Friday October 30, 2026 trading. Site market tables close: Brent 117.64 dollars, up 2.4 percent on the day and 0.79 percent on the week; WTI 104.12 dollars, up 2.08 percent. OilPrice.com weekly outlook read in full."
+data_as_of: "Updated November 1, 2026: Friday October 30 settlement confirmed, December Brent expired at 117.64 dollars, the highest settlement since late April, up 13.6 percent in October; WTI settled at 104.12 dollars, up 15.2 percent in October. The current front month series in the site market tables stands at 113.43 dollars, down 1.26 percent. Settlement figures corroborated by Kitco reporting via HawkValue and Business Recorder reporting via EuropeSays, both read in this run."
 ---
+
+Update, November 1: Brent's December contract settled on Friday at 117.64 dollars a barrel, up 2.76 dollars or 2.4 percent, its highest settlement since late April, and expired that day. WTI settled at 104.12 dollars, up 2.12 dollars or 2.08 percent. For October as a whole Brent gained 13.6 percent and WTI 15.2 percent. The new front month series carried in the site market tables stands at 113.43 dollars, down 1.26 percent, so the headline level steps down on the contract roll even though the expired contract closed at the highs.
 
 Brent crude is approaching 118 dollars a barrel, putting oil prices on track for a hefty 13 to 14 percent month on month increase, OilPrice.com reported on Friday, as fears of renewed United States and Iran hostilities intensify. The site market tables put the Brent close at 117.64 dollars, up 2.4 percent on the day, with WTI crude at 104.12 dollars, up 2.08 percent.
 
