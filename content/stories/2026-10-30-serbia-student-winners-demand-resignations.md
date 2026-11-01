@@ -1,7 +1,8 @@
 ---
 title: "Serbia's student backed winners demand sweeping resignations"
 date: 2026-10-30T07:14:09-04:00
-last_updated: 2026-10-30T07:14:09-04:00
+last_updated: 2026-11-01T18:14:34-05:00
+update_bump: true
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
@@ -14,13 +15,19 @@ sources:
     publisher: "BBC News"
     url: "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo"
     published: "2026-10-30"
+  - title: "Vucic's coalition received less than 40 percent of the votes in the elections in Serbia"
+    publisher: "RIA Novosti, in Russian, citing Serbia's Republican Electoral Commission (RIK)"
+    url: "https://ria.ru/20261102/vuchich-2128514970.html"
+    published: "2026-11-01"
   - title: "Serbia's students demand top officials resign after beating strongman Vucic's party"
     publisher: "Associated Press"
     url: "https://wdctv.news/serbias-students-demand-top-officials-resign-after-beating-strongman-vucics-party/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Election Sunday October 25, 2026; demands made Thursday October 29, 2026 in Belgrade. BBC News report of October 30, 2026 from the feed pool, corroborated via search results in this run including Associated Press reporting. Seat figures (Student List 141 of 250, SNS 106) are as reported by El Mundo and Berliner Zeitung via search results; final results await a rerun at about 50 polling stations, so seat totals are preliminary."
+data_as_of: "Update 2026-11-01T18:14:34-05:00: final vote shares are Serbia's Republican Electoral Commission (RIK) figures as reported by RIA Novosti, in Russian, read in full in this run via the live browser: Student List 53.01 percent, the United Serbia coalition 38.98 percent, from 100 percent of polling stations after repeat voting at 53 stations on November 1; the commission's own document was not read directly, and mandate distribution follows within 10 days. Election Sunday October 25, 2026; demands made Thursday October 29, 2026 in Belgrade. BBC News report of October 30, 2026 from the feed pool, corroborated via search results in this run including Associated Press reporting. Seat figures (Student List 141 of 250, SNS 106) are as reported by El Mundo and Berliner Zeitung via search results; final results await a rerun at about 50 polling stations, so seat totals are preliminary."
 ---
+
+Latest, November 1: Serbia's Republican Electoral Commission has published final results after Sunday's repeat voting at 53 polling stations, with figures from 100 percent of stations processed: the Student List took 53.01 percent of the vote and Aleksandar Vucic's United Serbia coalition 38.98 percent, RIA Novosti reported, with no other list clearing the 3 percent threshold apart from national minority lists, which are exempt and are expected to take one to two seats each. The commission must distribute the 250 mandates proportionally within 10 days. Acting President Ana Brnabic had earlier called on the Student List to begin forming the new organs of power and noted that the date of the presidential election must be set by November 27.
 
 The movement that won Serbia's election on Sunday has started governing before it holds office. Newly elected MPs from the Student List, which ended 14 years of rule by Aleksandar Vucic's Serbian Progressive Party, stood in Pioneers' Park opposite parliament in Belgrade on Thursday and demanded the immediate dismissal of every police officer who had broken the law, naming the heads of the police, the BIA security agency and the anti terror unit, and called for senior judicial figures to step down as well.
 
