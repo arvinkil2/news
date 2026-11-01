@@ -1,6 +1,6 @@
 ---
 title: "Commodities, Metals"
-date: "2026-10-31"
+date: "2026-11-01"
 lede: "The metals complexes in the positioning section, grouped, with the holder data held for each."
 data_as_of: "Position dates per commodity page"
 ---
