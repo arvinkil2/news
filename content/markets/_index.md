@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-01"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed hourly."
-data_as_of: "Market data as of Nov 1, 12:17 AM ET"
+data_as_of: "Market data as of Nov 1, 2:11 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 1, 12:17 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 1, 2:11 AM ET - refreshed hourly</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">19.42</span><span class="gm-sub">1d <span class="up">+12.91%</span> / 1w <span class="down">-0.15%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.21%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -80,7 +80,7 @@ data_as_of: "Market data as of Nov 1, 12:17 AM ET"
 <colgroup><col style="width:170px"><col style="width:80px"><col style="width:80px"><col style="width:80px"><col style="width:92px"><col style="width:130px"></colgroup>
 <thead><tr><th>Country</th><th data-num="1">2Y %</th><th data-num="1">10Y %</th><th data-num="1">30Y %</th><th data-num="1">10Y 1d, bp</th><th data-num="1">Spread to UST, bp</th></tr></thead>
 <tbody>
-<tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td class="num" data-v="4.61">4.61</td><td class="num" data-v="4.98">4.98</td><td class="num" data-v="5.32">5.32</td><td class="num" data-v="-7.0"><span class="down">-7.0</span></td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td class="num" data-v="4.61">4.61</td><td class="num" data-v="4.98">4.98</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-7.0"><span class="down">-7.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Canada"><a href="/markets/canada/">Canada</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="3.84">3.84</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-3.0"><span class="down">-3.0</span></td><td class="num" data-v="-114">-114</td></tr>
 <tr><td data-v="Brazil"><a href="/markets/brazil/">Brazil</a></td><td class="num" data-v="14.89">14.89</td><td class="num" data-v="15.35">15.35</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="23.0"><span class="up">+23.0</span></td><td class="num" data-v="1037">+1037</td></tr>
 <tr><td data-v="Mexico"><a href="/markets/mexico/">Mexico</a></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td></tr>
