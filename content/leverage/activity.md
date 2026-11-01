@@ -1,6 +1,6 @@
 ---
 title: "Bond Activity"
-date: "2026-10-31"
+date: "2026-11-01"
 lede: "Week trading activity for every watched bond, with the day's most traded, biggest moves and latest prints."
 data_as_of: "Tape through 30 Oct 2026"
 ---
