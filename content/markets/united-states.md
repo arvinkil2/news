@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-01"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Nov 1, 2:11 AM ET"
+data_as_of: "Nov 1, 3:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 1, 2:11 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 1, 3:03 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,580 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.82%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.4,17.3 8.7,11.7 13.1,6.5 17.5,2.0 21.8,3.7 26.2,7.4 30.5,2.7 34.9,3.2 39.3,3.4 43.6,12.0 48.0,9.5 52.4,18.0 56.7,14.9 61.1,12.7 65.5,8.2 69.8,17.6 74.2,21.6 78.5,16.3 82.9,11.7 87.3,9.5 91.6,11.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$755.72 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.77%</span></td><td class="num"><span class="down">-0.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.9 4.4,17.5 8.7,11.7 13.1,6.4 17.5,2.0 21.8,3.9 26.2,7.3 30.5,2.5 34.9,3.0 39.3,3.1 43.6,11.7 48.0,9.5 52.4,18.3 56.7,14.9 61.1,12.3 65.5,8.2 69.8,17.5 74.2,21.6 78.5,16.1 82.9,11.7 87.3,9.0 91.6,12.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -14,6 +14,7 @@ data_as_of: "Nov 1, 2:11 AM ET"
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>2Y benchmark yield</td><td class="num">4.61 <span class="unit">%</span></td><td class="num"><span class="down">-6.0</span> <span class="unit">bp</span></td><td class="num"><span class="down">-4.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.4 3.3,14.4 6.6,14.4 9.9,18.3 13.2,7.4 16.6,5.9 19.9,10.5 23.2,2.0 26.5,4.3 29.8,5.1 33.1,12.8 36.4,9.0 39.7,8.2 43.0,12.1 46.3,13.6 49.7,15.2 53.0,11.3 56.3,12.1 59.6,9.7 62.9,13.6 66.2,15.9 69.5,13.6 72.8,12.1 76.1,10.5 79.4,22.9 82.8,19.8 86.1,20.6 89.4,19.0 92.7,21.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>10Y benchmark yield</td><td class="num">4.98 <span class="unit">%</span></td><td class="num"><span class="down">-7.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+2.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 3.3,21.5 6.6,24.7 9.9,24.7 13.2,15.0 16.6,10.4 19.9,11.1 23.2,6.5 26.5,5.2 29.8,3.3 33.1,6.5 36.4,3.9 39.7,2.0 43.0,4.6 46.3,3.9 49.7,7.8 53.0,6.5 56.3,8.5 59.6,9.8 62.9,15.6 66.2,16.3 69.5,12.4 72.8,14.3 76.1,13.7 79.4,24.7 82.8,22.1 86.1,22.1 89.4,22.8 92.7,18.9 96.0,23.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>30Y benchmark yield</td><td class="num">5.32 <span class="unit">%</span></td><td class="num"><span class="down">-5.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+3.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 3.3,22.8 6.6,26.0 9.9,26.0 13.2,19.1 16.6,14.6 19.9,13.4 23.2,8.9 26.5,7.1 29.8,3.9 33.1,5.8 36.4,4.5 39.7,2.6 43.0,3.9 46.3,2.0 49.7,6.4 53.0,6.4 56.3,8.9 59.6,11.5 62.9,17.2 66.2,17.2 69.5,14.0 72.8,17.8 76.1,17.8 79.4,26.0 82.8,23.5 86.1,24.7 89.4,25.4 92.7,20.9 96.0,24.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
