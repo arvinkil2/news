@@ -1,16 +1,20 @@
 ---
 title: "Poland tribunal president suspended as president cuts short trip"
 date: 2026-10-30T19:01:24-04:00
-last_updated: 2026-10-31T05:41:48-04:00
+last_updated: 2026-10-31T21:14:28-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "President Karol Nawrocki entered Poland's Constitutional Tribunal building shortly before 1 a.m. on Saturday, pushing past the judges who had suspended its president hours earlier, told them they were not judges of the tribunal, and left near 5 a.m. announcing urgent consultations with parliamentary forces."
-why_it_matters: "Poland now has two rival claims to lead its constitutional court, a head of state who physically entered the building to back one of them, and a prosecutor general seeking to lift the suspended leaders' immunity, which turns a long legal dispute over the tribunal into an open contest over who holds the institution."
+lede: "Poland's president and prime minister held crisis talks on Saturday over the Constitutional Tribunal standoff that ended without a breakthrough, with further talks set for Sunday and the tribunal still claimed by two rival leaders."
+why_it_matters: "The talks are the first direct attempt to settle a dispute that now has two rival claims to lead Poland's constitutional court, and the lack of agreement on Saturday leaves the institution contested heading into Sunday."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Polish president holds crisis talks in court standoff"
+    publisher: "Al Jazeera, reporting Reuters"
+    url: "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss"
+    published: "2026-11-01"
   - title: "Poland: Protesters clash with police over sacked court chief"
     publisher: "Deutsche Welle, with AFP and AP"
     url: "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882"
@@ -24,9 +28,11 @@ sources:
     url: "https://interbellumnews.com/politics/europe/polands-tribunal-standoff-what-happened-and-what-is-disputed"
     published: "2026-10-31"
 tags: []
-data_as_of: "Update, October 31, 2026, 05:41 ET: Inter Bellum News timeline of October 31, 2026 (state as of about 06:00 Warsaw time), read in full in this run, compiling Polish media including Onet, RMF and Polish Radio and the statements of both camps, is the source for the overnight entry, the three detentions, the immunity requests and the two ambassadors' resignations. Accounts of the doorway confrontation conflict and are reported as the parties' own claims. Russian state wires (TASS, RIA) carried the same overnight facts and were not relied on. Previous updates: Deutsche Welle report of October 30, 2026, with AFP and AP, and Fox News report of October 30, 2026, each read in full."
+data_as_of: "Update, October 31, 2026, 21:14 ET: Al Jazeera report of November 1, 2026 (00:30 UTC), reporting Reuters, read in full in this run, is the source for the Saturday crisis talks, the positions stated there, the Sunday continuation and the European Commission statement. Previous update, October 31, 2026, 05:41 ET: Inter Bellum News timeline of October 31, 2026 (state as of about 06:00 Warsaw time), read in full in this run, compiling Polish media including Onet, RMF and Polish Radio and the statements of both camps, is the source for the overnight entry, the three detentions, the immunity requests and the two ambassadors' resignations. Accounts of the doorway confrontation conflict and are reported as the parties' own claims. Russian state wires (TASS, RIA) carried the same overnight facts and were not relied on. Previous updates: Deutsche Welle report of October 30, 2026, with AFP and AP, and Fox News report of October 30, 2026, each read in full."
 update_bump: true
 ---
+
+**Latest, October 31, evening:** The urgent consultations Nawrocki announced on leaving the tribunal took place on Saturday. He met Prime Minister Donald Tusk and parliamentary group leaders at the Presidential Palace for talks chaired by Sejm Speaker Włodzimierz Czarzasty, and no breakthrough was reported. Nawrocki said he would not recognise any replacement for Święczkowski while the suspended president's term runs, said the judges who suspended him had broken the law, and called on the Sejm to elect tribunal judges lawfully. Tusk said Nawrocki broke the law by entering the tribunal at night and said dialogue was the only way out of the crisis. Law and Justice leader Jarosław Kaczyński refused to attend, saying a meeting in the format proposed had no point. Nawrocki's office said the talks will continue on Sunday. Supporters of both camps protested in Warsaw on Saturday, and the European Commission said it was following events with deep concern.
 
 **Latest, October 31, morning:** The standoff moved inside the building overnight. Nawrocki landed in Warsaw, met Supreme Court First President Zbigniew Kapiński and Święczkowski at the Presidential Palace until after midnight, then went to the tribunal with Kapiński shortly before 1 a.m. Video shows him pushing past people in the doorway, among them Korwin-Piotrowska and judges Krystian Markiewicz and Maciej Berek, and telling them, "You are not judges of the Constitutional Tribunal." His spokesman said people in the doorway tried to block him; Berek said the president physically attacked the judges; the accounts conflict. A photo posted after 2 a.m. showed Nawrocki inside with Kapiński, his chief of staff and the suspended deputy Sochański. He left at about 5 a.m., saying constitutional order had been violated and a constitutional organ seized by force, and announced urgent consultations with parliamentary forces. Warsaw police said three people who climbed the court's fence were detained on suspicion of trespass. Justice Minister and Prosecutor General Waldemar Żurek has asked for the immunity of Święczkowski and Sochański to be lifted so they can be prosecuted over blocking the parliament-elected judges, and two Polish ambassadors, Jakub Kumoch in China and Paweł Soloch in Romania, announced resignations over the events at the court.
 
