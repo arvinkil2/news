@@ -1,16 +1,20 @@
 ---
-title: "France protest detentions reach 511 on third weekend"
+title: "France protest arrests reach 565 on third weekend"
 date: 2026-10-31T07:55:10-04:00
-last_updated: 2026-10-31T17:16:21-04:00
+last_updated: 2026-11-01T06:46:02-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "Detentions across France reached 511 by 8 p.m. on Saturday, BFMTV reported citing the interior ministry, as the third weekend of cost of living protests, which the ministry put at 320,000 people nationwide including 70,000 in Paris, ended in clashes in Paris, Marseille, Toulouse and Rennes."
-why_it_matters: "On the ministry's count, turnout has fallen for a second straight Saturday, from 550,000 on October 17, but the day still ended with 511 detentions, street fires in Marseille and incendiary devices thrown at police in Paris, six months before presidential elections, with 70,000 police and gendarmes deployed."
+lede: "Police arrested 565 people across France on Saturday, the interior ministry said in its late count, as the third weekend of cost of living protests ended in clashes in Paris, Marseille, Toulouse and Rennes, with four police officers and a gendarme injured in Paris, three of them burned by Molotov cocktails."
+why_it_matters: "The final count runs above the evening tally of detentions, and the injuries in Paris, where the interior minister called a Molotov attack on an officer an attempted murder, harden the dispute over policing that now sits at the centre of the movement six months before presidential elections."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Clashes break out as hundreds of thousands protest in France"
+    publisher: "AFP, via EuropeSays"
+    url: "https://www.europesays.com/europe/171499/"
+    published: "2026-11-01"
   - title: "Turnout for French protests lower than during previous Saturdays, interior ministry says"
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/4000145-turnout-for-french-protests-lower-than-during-previous-saturdays-interior-ministry-says?amp"
@@ -36,9 +40,11 @@ sources:
     url: "https://ria.ru/20261031/frantsija-2128384069.html"
     published: "2026-10-31"
 tags: []
-data_as_of: "Update 2026-10-31T13:45:51-04:00: Reuters report of October 31, 2026 and Press Association report of October 31, 2026, each read in full in this run, carrying the interior ministry's turnout figures and the end of march clashes; TASS and RIA Novosti, in Russian, and AFP via UOL, in Portuguese, carried the same 320,000 ministry figure in the feed pool for this run, and organisers' claims of about half a million were reported by AFP via UOL and by Le Monde's live coverage. Original: France 24 video report of October 31, 2026. The France 24 page itself was blocked in the original run, so the item was verified against the broadcaster's official upload of the same video and matching indexed excerpts of the page; it was a preview published before the authorised Paris gathering began, so it carried no protester turnout, injury or arrest figures. Developing item. Update 2026-10-31T15:17:26-04:00: Deutsche Welle report of October 31, 2026, with AP, AFP, Reuters and dpa, read in full in this run, carrying the police figure of more than 290 arrests and the end of day clashes in Paris, Marseille, Toulouse and Rennes; Prensa Latina, in Spanish, put arrests at at least 296 among the 320,000 demonstrators in the feed pool for this run. Update 2026-10-31T17:16:21-04:00: RIA Novosti report of October 31, 2026, read in full in Russian in this run, carrying BFMTV's report, citing the interior ministry, that detentions had reached 511 as of 8 p.m. local time; the turnout figures are unchanged. RIA is a Russian state wire relaying a French broadcaster's report of the French ministry's own figure, and the figure is carried on that basis."
+data_as_of: "Update 2026-11-01T06:46:02-05:00: the final arrest total of 565, the four police officers and one gendarme injured in Paris with three burned by Molotov cocktails, Interior Minister Laurent Nuñez's description of the Molotov attack as an attempted murder and his blame of far-left extremist groups, the youth organisations' turnout claim of nearly 500,000 including 200,000 in Paris, and the planned student blockades in the coming week are from AFP reporting of November 1, 2026, read in full in this run via syndication, carrying the interior ministry's late Saturday figures. The 565 total supersedes the 511 detentions reported as of 8 p.m. on Saturday in the update below. Update 2026-10-31T13:45:51-04:00: Reuters report of October 31, 2026 and Press Association report of October 31, 2026, each read in full in this run, carrying the interior ministry's turnout figures and the end of march clashes; TASS and RIA Novosti, in Russian, and AFP via UOL, in Portuguese, carried the same 320,000 ministry figure in the feed pool for this run, and organisers' claims of about half a million were reported by AFP via UOL and by Le Monde's live coverage. Original: France 24 video report of October 31, 2026. The France 24 page itself was blocked in the original run, so the item was verified against the broadcaster's official upload of the same video and matching indexed excerpts of the page; it was a preview published before the authorised Paris gathering began, so it carried no protester turnout, injury or arrest figures. Developing item. Update 2026-10-31T15:17:26-04:00: Deutsche Welle report of October 31, 2026, with AP, AFP, Reuters and dpa, read in full in this run, carrying the police figure of more than 290 arrests and the end of day clashes in Paris, Marseille, Toulouse and Rennes; Prensa Latina, in Spanish, put arrests at at least 296 among the 320,000 demonstrators in the feed pool for this run. Update 2026-10-31T17:16:21-04:00: RIA Novosti report of October 31, 2026, read in full in Russian in this run, carrying BFMTV's report, citing the interior ministry, that detentions had reached 511 as of 8 p.m. local time; the turnout figures are unchanged. RIA is a Russian state wire relaying a French broadcaster's report of the French ministry's own figure, and the figure is carried on that basis."
 update_bump: true
 ---
+
+Latest: the interior ministry's late count put arrests across France at 565, above the 511 detentions reported as of 8 p.m., AFP reported. In Paris, four police officers and a gendarme were injured, three of them burned by Molotov cocktails, and Interior Minister Laurent Nuñez described the throwing of a Molotov cocktail at a riot police officer, who escaped with minor injuries, as an attempted murder, blaming far-left extremist groups for what he called an extraordinary level of violence. Youth organisations put turnout at nearly 500,000 nationwide, including 200,000 in Paris, against the ministry's 320,000 and 70,000, and students vowed new blockades of schools and universities in the coming week, including a union demonstration on November 5. A night curfew ran in the central Paris neighbourhoods of République and Châtelet-Les Halles from 11 p.m. to 6 a.m. on Saturday and Sunday nights.
 
 Latest: detentions rose through the evening to 511 as of 8 p.m. local time, BFMTV reported citing the interior ministry, up from the 296 reported earlier in the day. The ministry's turnout figures were unchanged at 320,000 nationwide, including 70,000 in Paris.
 
