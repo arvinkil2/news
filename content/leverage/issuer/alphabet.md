@@ -1,6 +1,6 @@
 ---
 title: "Alphabet"
-date: "2026-11-01"
+date: "2026-11-02"
 lede: "Benchmark issuer, 34 bonds: prices, trend, yield curve and fund holders from the FINRA tape and SEC fund filings."
 data_as_of: "2026-10-30"
 ---
@@ -15,6 +15,7 @@ data_as_of: "2026-10-30"
 <colgroup><col style="width:104px"><col style="width:168px"><col style="width:660px"></colgroup>
 <thead><tr><th>Filed</th><th>Filing</th><th>What it shows</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-11-02">02 Nov 2026</td><td data-v="424B5"><a href="https://www.sec.gov/Archives/edgar/data/1652044/000119312526442515/0001193125-26-442515-index.htm">424B5</a><span class="cell-sub">Accession 0001193125-26-442515</span></td><td data-v=""><span class="bond-name">Preliminary prospectus supplement for euro senior notes offering</span><span class="bond-sub">Alphabet launched a euro-denominated senior unsecured notes offering in seven series, one floating rate series priced off three-month EURIBOR and six fixed rate series, in minimum denominations of 100,000 euro. The preliminary supplement leaves aggregate principal, coupons and maturities blank; net proceeds are stated for general corporate purposes, which may include repayment of outstanding debt. Joint book-running managers are Barclays, BNP Paribas and Deutsche Bank.</span></td></tr>
 <tr><td data-v="2026-10-29">29 Oct 2026</td><td data-v="10-Q"><a href="https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm">10-Q</a><span class="cell-sub">Accession 0001652044-26-000084</span></td><td data-v=""><span class="bond-name">Quarterly report, quarter ended September 30, 2026</span><span class="bond-sub">Leases not yet commenced carry future payments of $130.5B, primarily data centers and energy infrastructure. Future funding and support commitments to unconsolidated variable interest entities rose to $31.9B, including $10.0B of data center and energy backstops behind Crux AI, the joint venture with Blackstone formed in May 2026. Long-term debt of $125,102M after $80.8B of note issuance in 2026.</span></td></tr>
 </tbody></table></div>
 
