@@ -1,7 +1,7 @@
 ---
 title: "Ukraine resumes refinery strikes, defying US pressure"
 date: 2026-11-01T13:47:13-05:00
-last_updated: 2026-11-01T17:47:17-04:00
+last_updated: 2026-11-02T11:47:01-04:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -19,10 +19,16 @@ sources:
     publisher: "Reuters, via Arab News"
     url: "https://www.arabnews.com/world/ukraines-leader-says-will-stop-hitting-russia-refineries-if-us-provides-interceptor-missiles-3009333"
     published: "2026-11-01"
+  - title: "Ukraine has hit three Russian refineries since Friday"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Has-Hit-Three-Russian-Refineries-Since-Friday.html"
+    published: "2026-11-02"
 tags: []
-data_as_of: "Update 2026-11-01T17:47:17-04:00: the conditional offer, the one month for one month terms, the offer to pay, the alternative that Russia stop attacking Ukraine’s energy system, and the warning that the approved sale of 500 Patriot missiles could take years to deliver are from a Reuters report of November 1, 2026, carried by Arab News and read in full in this run via the live browser, reporting President Zelensky’s interview with Fox News on Sunday. The statements are Zelensky’s own, made for Kyiv; no US response to the offer was in the report. Original: The Guardian report of November 1, 2026 (17.20 GMT), read in full in this run. The Kstovo fire is attributed to Russian state media, the Samara strike to photo captions in the same report, and the denial of a 30-day pause agreement to Ukrainian officials speaking to the Kyiv Independent, as reported by the Guardian; the Kremlin's characterisation is Moscow's own. Claims by parties to the conflict are uncorroborated, so this item is grade C. Developing item."
+data_as_of: "Update 2026-11-02T11:47:01-04:00: the possible Samara pumping station fire, the weekend strikes in Bashkortostan and at Kstovo, and the 6.29 dollar US diesel average are from the OilPrice.com report of November 2, 2026, read in full in this run, which attributes the Samara fire to Bloomberg analysis of NASA satellite imagery and to Ukrainian media reports; the claim is a party-adjacent report and is uncorroborated, so this item stays grade C. Earlier update 2026-11-01T17:47:17-04:00: the conditional offer, the one month for one month terms, the offer to pay, the alternative that Russia stop attacking Ukraine’s energy system, and the warning that the approved sale of 500 Patriot missiles could take years to deliver are from a Reuters report of November 1, 2026, carried by Arab News and read in full in this run via the live browser, reporting President Zelensky’s interview with Fox News on Sunday. The statements are Zelensky’s own, made for Kyiv; no US response to the offer was in the report. Original: The Guardian report of November 1, 2026 (17.20 GMT), read in full in this run. The Kstovo fire is attributed to Russian state media, the Samara strike to photo captions in the same report, and the denial of a 30-day pause agreement to Ukrainian officials speaking to the Kyiv Independent, as reported by the Guardian; the Kremlin's characterisation is Moscow's own. Claims by parties to the conflict are uncorroborated, so this item is grade C. Developing item."
 update_bump: true
 ---
+
+**Latest (Monday):** Satellite imagery points to a further hit on Monday. Bloomberg, citing heat anomalies in NASA satellite data, reported a possible fire at the Samara crude oil pumping station, after Ukrainian strikes over the weekend on a Rosneft refinery in Bashkortostan and Lukoil's Kstovo refinery in Nizhny Novgorod, reported by OilPrice.com on November 2. The Samara report rests on satellite imagery and Ukrainian media reports and is uncorroborated by an independent source in this run. OilPrice put the US national average retail diesel price at 6.29 dollars a gallon on November 2, citing AAA.
 
 **Latest (Sunday evening):** President Volodymyr Zelensky has now stated terms for a pause. Speaking to Fox News on Sunday, he said Ukraine would cease attacks on Russian refineries for one month if Washington provided Patriot interceptor systems for one month, that Ukraine would find the money rather than rely only on aid, and that the other route to a pause was Russia stopping its attacks on Ukraine’s energy system. He said Ukraine could not refrain from responding while Russia attacked its energy infrastructure and killed its people, and, asked whether he was concerned the offer would be seen as an attempt to pressure President Trump, said he had no concerns about sharing the truth between partners. The Trump administration on Friday approved the sale of 500 Patriot missiles to Ukraine, according to the State Department, but Zelensky warned that deliveries could take years, and last week he proposed that US and European allies supply missiles from their own stockpiles, to be replenished by the new purchase.
 
