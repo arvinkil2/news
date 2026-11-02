@@ -2,13 +2,13 @@
 title: "Poland"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed hourly."
-data_as_of: "Nov 2, 11:03 AM ET"
+data_as_of: "Nov 2, 12:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 11:03 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 12:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$42.9200 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-1.09%</span></td><td class="num"><span class="down">-1.53%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.8 4.6,19.4 9.1,8.4 13.7,18.4 18.3,20.2 22.9,16.0 27.4,14.9 32.0,8.7 36.6,13.9 41.1,9.0 45.7,7.8 50.3,13.0 54.9,11.7 59.4,2.0 64.0,12.7 68.6,19.6 73.1,18.6 77.7,12.4 82.3,11.6 86.9,6.0 91.4,20.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/PLN</td><td class="num">3.9468 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.61%</span></td><td class="num"><span class="down">-0.66%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.1 4.6,21.0 9.1,16.7 13.7,23.6 18.3,15.9 22.9,17.6 27.4,15.3 32.0,9.6 36.6,17.8 41.1,16.9 45.7,20.0 50.3,20.5 54.9,20.0 59.4,21.7 64.0,26.0 68.6,18.9 73.1,11.7 77.7,6.2 82.3,2.0 86.9,4.6 91.4,11.1 96.0,3.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$43.0200 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.88%</span></td><td class="num"><span class="down">-1.31%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.9 4.6,20.3 9.1,8.8 13.7,19.2 18.3,21.1 22.9,16.7 27.4,15.5 32.0,9.0 36.6,14.5 41.1,9.3 45.7,8.1 50.3,13.5 54.9,12.1 59.4,2.0 64.0,13.2 68.6,20.4 73.1,19.4 77.7,13.0 82.3,12.0 86.9,6.2 91.4,21.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/PLN</td><td class="num">3.9422 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.49%</span></td><td class="num"><span class="down">-0.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.1 4.6,21.0 9.1,16.7 13.7,23.6 18.3,15.9 22.9,17.6 27.4,15.3 32.0,9.6 36.6,17.8 41.1,16.9 45.7,20.0 50.3,20.5 54.9,20.0 59.4,21.7 64.0,26.0 68.6,18.9 73.1,11.7 77.7,6.2 82.3,2.0 86.9,4.6 91.4,11.1 96.0,5.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
