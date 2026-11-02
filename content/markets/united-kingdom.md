@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed hourly."
-data_as_of: "Nov 2, 1:03 AM ET"
+data_as_of: "Nov 2, 2:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 1:03 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 2:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,730 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.07%</span></td><td class="num"><span class="up">+0.37%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.6 4.4,26.0 8.7,24.2 13.1,22.3 17.5,20.0 21.8,24.4 26.2,25.3 30.5,19.4 34.9,13.9 39.3,14.3 43.6,10.3 48.0,4.2 52.4,2.0 56.7,8.2 61.1,9.9 65.5,8.8 69.8,10.3 74.2,12.1 78.5,8.1 82.9,12.3 87.3,11.9 91.6,10.5 96.0,10.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.8300 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="up">+0.27%</span></td><td class="num"><span class="up">+0.65%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.4,26.0 8.7,22.7 13.1,22.6 17.5,20.6 21.8,25.5 26.2,22.2 30.5,18.9 34.9,16.8 39.3,15.5 43.6,14.5 48.0,4.8 52.4,2.0 56.7,9.6 61.1,4.8 65.5,5.6 69.8,3.9 74.2,7.5 78.5,6.5 82.9,11.3 87.3,10.2 91.6,5.5 96.0,4.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3400 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.16%</span></td><td class="num"><span class="up">+0.17%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,20.9 9.1,23.8 13.7,18.1 18.3,24.2 22.9,22.6 27.4,21.1 32.0,24.8 36.6,19.3 41.1,22.5 45.7,17.4 50.3,10.0 54.9,13.3 59.4,5.6 64.0,2.9 68.6,2.0 73.1,5.1 77.7,8.9 82.3,13.5 86.9,10.9 91.4,4.9 96.0,2.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3405 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.20%</span></td><td class="num"><span class="up">+0.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,21.0 9.1,23.8 13.7,18.2 18.3,24.2 22.9,22.6 27.4,21.1 32.0,24.8 36.6,19.3 41.1,22.5 45.7,17.5 50.3,10.1 54.9,13.4 59.4,5.7 64.0,3.1 68.6,2.1 73.1,5.2 77.7,9.0 82.3,13.6 86.9,11.0 91.4,5.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>

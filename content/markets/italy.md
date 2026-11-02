@@ -2,14 +2,14 @@
 title: "Italy"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Italy, refreshed hourly."
-data_as_of: "Nov 2, 1:03 AM ET"
+data_as_of: "Nov 2, 2:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 1:03 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 2:04 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE MIB (index)</td><td class="num">49,501 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.00%</span></td><td class="num"><span class="up">+1.94%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,11.1 8.7,9.1 13.1,6.4 17.5,2.9 21.8,13.2 26.2,18.7 30.5,15.1 34.9,12.7 39.3,12.6 43.6,15.0 48.0,17.9 52.4,14.2 56.7,20.4 61.1,20.5 65.5,15.9 69.8,26.0 74.2,24.6 78.5,19.6 82.9,16.0 87.3,14.4 91.6,13.0 96.0,17.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Italy (EWI)</td><td class="num">$55.87 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-0.92%</span></td><td class="num"><span class="up">+1.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,11.5 8.7,10.5 13.1,9.9 17.5,7.0 21.8,17.2 26.2,19.1 30.5,17.4 34.9,18.4 39.3,15.2 43.6,18.8 48.0,16.4 52.4,16.6 56.7,23.4 61.1,19.4 65.5,17.5 69.8,25.7 74.2,26.0 78.5,23.2 82.9,20.4 87.3,18.6 91.6,17.0 96.0,20.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1187 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.04%</span></td><td class="num"><span class="down">-0.27%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.6,2.0 9.1,9.3 13.7,2.2 18.3,12.4 22.9,10.1 27.4,11.6 32.0,20.2 36.6,11.8 41.1,13.5 45.7,10.1 50.3,7.8 54.9,9.5 59.4,7.4 64.0,5.8 68.6,8.5 73.1,9.1 77.7,17.6 82.3,26.0 86.9,21.0 91.4,15.8 96.0,15.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1192 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.08%</span></td><td class="num"><span class="down">-0.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.6,2.0 9.1,9.3 13.7,2.2 18.3,12.4 22.9,10.1 27.4,11.6 32.0,20.2 36.6,11.8 41.1,13.5 45.7,10.1 50.3,7.8 54.9,9.5 59.4,7.4 64.0,5.8 68.6,8.5 73.1,9.1 77.7,17.6 82.3,26.0 86.9,21.0 91.4,15.8 96.0,14.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
