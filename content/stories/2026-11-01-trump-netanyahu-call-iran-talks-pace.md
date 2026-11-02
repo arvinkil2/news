@@ -1,13 +1,13 @@
 ---
 title: "Trump and Netanyahu clash over pace of Iran talks"
 date: 2026-11-01T13:47:13-05:00
-last_updated: 2026-11-01T22:46:34-05:00
+last_updated: 2026-11-02T04:14:33-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "President Trump told a rally in Iowa on Sunday that the United States may at some point have to give Iran \"the hammer\", renewing his strike threat as Iranian military spokesmen warned a renewed war would be longer and without geographical limits, and Secretary of State Marco Rubio said no decision on resuming strikes has been taken."
-why_it_matters: "The split puts a timetable dispute between Washington and Jerusalem on the record while Qatari mediated talks with Iran continue, and a US strike decision taken on an election calendar would move oil and shipping markets without warning."
+lede: "Iran said on Monday it could reopen the Strait of Hormuz within two days if the United States meets its demands, shortening a proposed one-week timeline, a day after President Trump renewed his threat of strikes if no deal is reached."
+why_it_matters: "A two-day reopening, if agreed, would restore the strait far faster than Tehran's earlier one-week proposal and ease the oil and shipping disruption, but no agreement has been announced, Iran's demands were not specified, and a US strike decision taken on an election calendar would still move oil and shipping markets without warning."
 featured: false
 evidence_grade: "C"
 sources:
@@ -23,10 +23,16 @@ sources:
     publisher: "Arab News, via AFP"
     url: "https://www.arabnews.com/middle-east/trump-says-at-some-point-us-will-have-to-give-iran-the-hammer-3009347"
     published: "2026-11-01"
+  - title: "Iran says Strait of Hormuz could reopen within two days if US meets its demands"
+    publisher: "Arab News, via Reuters"
+    url: "https://www.arabnews.com/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3009389"
+    published: "2026-11-02"
 tags: []
-data_as_of: "Update 2026-11-01T22:46:34-05:00: AFP report carried by Arab News on November 1, 2026, read in full in this run via the live browser, reporting President Trump's remarks at a campaign rally in Dubuque, Iowa on Sunday and the responses of Iranian army and Revolutionary Guards spokesmen; the Iranian warnings are those officials' own statements, reported as such. Earlier update 2026-11-01: CNBC report of November 1, 2026, read in full via the live browser, reporting Secretary of State Marco Rubio's remarks to reporters over the weekend and President Trump's remarks the same day to Right Side Broadcasting Network; the preparations for renewed strikes are attributed by CNBC to Wall Street Journal and New York Times reporting, and Iran's designation of UK military intelligence is from Iran's foreign ministry via Telegram. Original: Axios report of November 1, 2026, read in this run; the account rests on one Israeli and one US source, both unnamed, and the White House and the Israeli prime minister's office declined to comment. Part of the article sits behind a sign-up gate and could not be read; this item uses only the reporting that was visible. Single-sourced, grade C. Developing item."
+data_as_of: "Update 2026-11-02T04:14:33-05:00: Reuters report carried by Arab News on November 2, 2026, read in full in this run via the live browser, reporting Foreign Ministry spokesman Esmaeil Baqaei's Monday remarks and Foreign Minister Abbas Araghchi's Sunday remarks, the latter via Al Jazeera as cited in the report; Iran's demands were not specified in the report and no agreement was announced. Update 2026-11-01T22:46:34-05:00: AFP report carried by Arab News on November 1, 2026, read in full in this run via the live browser, reporting President Trump's remarks at a campaign rally in Dubuque, Iowa on Sunday and the responses of Iranian army and Revolutionary Guards spokesmen; the Iranian warnings are those officials' own statements, reported as such. Earlier update 2026-11-01: CNBC report of November 1, 2026, read in full via the live browser, reporting Secretary of State Marco Rubio's remarks to reporters over the weekend and President Trump's remarks the same day to Right Side Broadcasting Network; the preparations for renewed strikes are attributed by CNBC to Wall Street Journal and New York Times reporting, and Iran's designation of UK military intelligence is from Iran's foreign ministry via Telegram. Original: Axios report of November 1, 2026, read in this run; the account rests on one Israeli and one US source, both unnamed, and the White House and the Israeli prime minister's office declined to comment. Part of the article sits behind a sign-up gate and could not be read; this item uses only the reporting that was visible. Single-sourced, grade C. Developing item."
 update_bump: true
 ---
+
+**Latest, November 2:** Iran's Foreign Ministry spokesman Esmaeil Baqaei said on Monday that Iran was considering reopening the Strait of Hormuz within two days if its demands are met, Reuters reported, presenting the shorter timeline, down from a previously proposed one week, as a good-faith signal and a way to restore security to the waterway and resume negotiations. Foreign Minister Abbas Araghchi said on Sunday that Iranian and Qatari negotiators had developed a proposal to reopen the strait within two days of a potential agreement with Washington, with no final conclusion reached, and Iranian negotiators left Doha after three days of consultations with Qatari mediators; an official briefed on the talks told Reuters the departure was not because of difficulties in the talks. The report did not specify Iran's demands, and no agreement between Washington and Tehran was announced.
 
 **Latest, November 1 (evening):** Speaking at a campaign rally in Dubuque, Iowa, Trump renewed his threat of strikes on Iran, saying he had held back to try to save lives but that at some point the United States would have to give Iran "the hammer", AFP reported. He also said Washington still had one or two remaining targets in Iran, among them the suspected Pickaxe Mountain underground nuclear complex, that could be struck within minutes. Iranian army spokesman Mohammad Akraminia warned that another war could last longer than the previous one and that Washington would not dictate its timing, and Revolutionary Guards spokesman Hossein Mohebbi said a confrontation would have no geographical limitations; UAE presidential adviser Anwar Gargash told a conference in Manama the Emirates hoped diplomacy would break through but was braced for the worst.
 
