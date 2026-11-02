@@ -2,14 +2,14 @@
 title: "Australia"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Australia, refreshed hourly."
-data_as_of: "Nov 2, 12:02 PM ET"
+data_as_of: "Nov 2, 1:01 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 12:02 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 1:01 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,856 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.58%</span></td><td class="num"><span class="up">+0.53%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.6,23.5 9.1,18.7 13.7,19.5 18.3,26.0 22.9,20.6 27.4,14.1 32.0,14.1 36.6,19.5 41.1,20.3 45.7,11.8 50.3,8.1 54.9,10.9 59.4,9.5 64.0,13.2 68.6,13.0 73.1,11.5 77.7,7.6 82.3,7.9 86.9,3.6 91.4,2.0 96.0,7.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.5500 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="up">+1.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 4.6,22.6 9.1,20.5 13.7,26.0 18.3,26.0 22.9,19.3 27.4,18.5 32.0,16.7 36.6,20.7 41.1,16.1 45.7,17.4 50.3,15.7 54.9,10.2 59.4,8.9 64.0,13.3 68.6,10.7 73.1,9.9 77.7,4.6 82.3,2.7 86.9,2.0 91.4,3.5 96.0,3.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>AUD/USD</td><td class="num">0.7020 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.11%</span></td><td class="num"><span class="down">-0.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.3 4.6,20.3 9.1,17.7 13.7,15.1 18.3,18.2 22.9,19.1 27.4,14.6 32.0,19.6 36.6,14.6 41.1,15.8 45.7,26.0 50.3,16.8 54.9,14.9 59.4,10.8 64.0,7.0 68.6,8.6 73.1,6.8 77.7,8.7 82.3,6.8 86.9,2.0 91.4,7.4 96.0,8.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Australia (EWA)</td><td class="num">$29.5100 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.10%</span></td><td class="num"><span class="up">+1.17%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 4.6,22.6 9.1,20.5 13.7,26.0 18.3,26.0 22.9,19.3 27.4,18.5 32.0,16.7 36.6,20.7 41.1,16.1 45.7,17.4 50.3,15.7 54.9,10.2 59.4,8.9 64.0,13.3 68.6,10.7 73.1,9.9 77.7,4.6 82.3,2.7 86.9,2.0 91.4,3.5 96.0,4.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AUD/USD</td><td class="num">0.7014 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.19%</span></td><td class="num"><span class="down">-0.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.3 4.6,20.3 9.1,17.7 13.7,15.1 18.3,18.2 22.9,19.1 27.4,14.6 32.0,19.6 36.6,14.6 41.1,15.8 45.7,26.0 50.3,16.8 54.9,14.9 59.4,10.8 64.0,7.0 68.6,8.6 73.1,6.8 77.7,8.7 82.3,6.8 86.9,2.0 91.4,7.4 96.0,9.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
