@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Nov 2, 6:02 AM ET"
+data_as_of: "Nov 2, 7:16 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 6:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 7:16 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,580 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.82%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.4,17.3 8.7,11.7 13.1,6.5 17.5,2.0 21.8,3.7 26.2,7.4 30.5,2.7 34.9,3.2 39.3,3.4 43.6,12.0 48.0,9.5 52.4,18.0 56.7,14.9 61.1,12.7 65.5,8.2 69.8,17.6 74.2,21.6 78.5,16.3 82.9,11.7 87.3,9.5 91.6,11.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$755.72 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-1.77%</span></td><td class="num"><span class="down">-0.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.9 4.4,17.5 8.7,11.7 13.1,6.4 17.5,2.0 21.8,3.9 26.2,7.3 30.5,2.5 34.9,3.0 39.3,3.1 43.6,11.7 48.0,9.5 52.4,18.3 56.7,14.9 61.1,12.3 65.5,8.2 69.8,17.5 74.2,21.6 78.5,16.1 82.9,11.7 87.3,9.0 91.6,12.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -18,12 +18,12 @@ data_as_of: "Nov 2, 6:02 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-lotus-kayelekera-first-uranium-shipment/">Lotus ships first uranium concentrate from Kayelekera</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-nebul-gb300-belgium-supercluster/">Nebul to deploy 1,000 Blackwell Ultra GPUs in Belgium</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-tesla-samsung-oppose-vietnam-tariffs/">Tesla and Samsung oppose new US tariffs on Vietnam</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-us-lime-q3-profit-slips-diesel-costs/">United States Lime profit slips as diesel costs bite</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-apple-ternus-ai-comments/">Apple chief Ternus defends deliberate pace on AI features</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-ukraine-resumes-refinery-strikes-us-pressure/">Ukraine resumes refinery strikes, defying US pressure</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-sunrise-syerston-scandium-fid-approved/">Sunrise approves Syerston scandium mine on US financing</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-us-backs-russian-gas-resumption-ukraine-wsj/">US backs restarting Russian gas flows via Ukraine, WSJ says</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-nigeria-us-minerals-committee-alake-denies-sale/">Nigeria inaugurates United States minerals committee, denies asset sale</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-perseus-nyanzaga-backup-power-first-gold/">Perseus installs backup power at Nyanzaga before first gold</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-phosco-gasaat-us-grant-tunisia-phosphate/">United States funds investor hunt for Tunisia phosphate project</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

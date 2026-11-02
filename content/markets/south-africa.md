@@ -2,17 +2,18 @@
 title: "South Africa"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for South Africa, refreshed hourly."
-data_as_of: "Nov 2, 6:02 AM ET"
+data_as_of: "Nov 2, 7:16 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 6:02 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 7:16 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>FTSE/JSE All Share (index)</td><td class="num">6,490 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+1.48%</span></td><td class="num"><span class="down">-0.48%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.9 4.6,19.7 9.1,13.6 13.7,24.6 18.3,23.9 22.9,15.6 27.4,15.0 32.0,11.3 36.6,18.9 41.1,7.8 45.7,2.0 50.3,10.7 54.9,3.1 59.4,7.2 64.0,15.9 68.6,21.0 73.1,17.5 77.7,13.5 82.3,15.7 86.9,12.9 91.4,26.0 96.0,19.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>FTSE/JSE All Share (index)</td><td class="num">6,482 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+1.35%</span></td><td class="num"><span class="down">-0.60%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.9 4.6,19.7 9.1,13.6 13.7,24.6 18.3,23.9 22.9,15.6 27.4,15.0 32.0,11.3 36.6,18.9 41.1,7.8 45.7,2.0 50.3,10.7 54.9,3.1 59.4,7.2 64.0,15.9 68.6,21.0 73.1,17.5 77.7,13.5 82.3,15.7 86.9,12.9 91.4,26.0 96.0,20.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI South Africa (EZA)</td><td class="num">$61.78 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-3.60%</span></td><td class="num"><span class="down">-2.15%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.6 4.4,18.9 8.7,16.8 13.1,16.9 17.5,13.7 21.8,22.7 26.2,20.2 30.5,12.8 34.9,13.0 39.3,9.3 43.6,16.2 48.0,4.8 52.4,3.0 56.7,7.4 61.1,2.0 65.5,2.8 69.8,12.4 74.2,17.1 78.5,14.8 82.9,11.3 87.3,9.1 91.6,10.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/ZAR</td><td class="num">16.6399 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.20%</span></td><td class="num"><span class="down">-0.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,5.3 9.1,6.3 13.7,14.6 18.3,6.9 22.9,10.1 27.4,16.3 32.0,13.3 36.6,17.6 41.1,10.4 45.7,16.0 50.3,19.7 54.9,22.5 59.4,24.5 64.0,26.0 68.6,18.0 73.1,7.4 77.7,6.9 82.3,6.4 86.9,8.6 91.4,8.7 96.0,6.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/ZAR</td><td class="num">16.6366 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.18%</span></td><td class="num"><span class="down">-0.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,5.3 9.1,6.3 13.7,14.6 18.3,6.9 22.9,10.1 27.4,16.3 32.0,13.3 36.6,17.6 41.1,10.4 45.7,16.0 50.3,19.7 54.9,22.5 59.4,24.5 64.0,26.0 68.6,18.0 73.1,7.4 77.7,6.9 82.3,6.4 86.9,8.6 91.4,8.7 96.0,6.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-south-africa-election-security-standby/">South Africa puts army on standby for Wednesday&#x27;s local elections</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-infra-deals-also-notable/">Infra also notable: Arevon tax equity, PowerBank, Stonepeak, South Africa fund call</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-sarb-pboc-renew-currency-swap/">South Africa and China renew currency swap for five years</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-south-africa-gdp-rebasing-economy-larger/">South Africa rebasing finds economy 4.9 percent larger</a></p>
@@ -20,5 +21,4 @@ data_as_of: "Nov 2, 6:02 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-22</span> <a href="/stories/2026-10-22-south-africa-inflation-4-5-september/">South Africa inflation rises to 4.5 percent in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-21</span> <a href="/stories/2026-10-21-south-africa-fuel-levy-cut-debt-stabilises/">South Africa cuts fuel levy as debt stabilises</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-16</span> <a href="/stories/2026-10-16-south-africa-mine-deaths-safety-review/">South Africa mine deaths pass two year totals already</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-15</span> <a href="/stories/2026-10-15-south-africa-concourt-anc-ballot/">South Africa court restores 181 ANC candidates to ballot</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
