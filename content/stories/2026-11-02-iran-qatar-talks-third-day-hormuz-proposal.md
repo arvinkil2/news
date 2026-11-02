@@ -1,7 +1,7 @@
 ---
 title: "Iran talks end with no breakthrough as contacts continue"
 date: 2026-11-02T07:07:54-05:00
-last_updated: 2026-11-02T15:20:52-05:00
+last_updated: 2026-11-02T16:47:14-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
@@ -36,9 +36,11 @@ sources:
     url: "https://news.kilambi.com/stories/2026-10-30-qatari-mediators-tehran-us-iran-talks/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Latest update November 2, 2026: Reuters report of November 2, 2026, read in full via gCaptain, on the end of the Doha round, Araghchi's comments carried by IRNA, Baghaei's briefing and the Chinese and Russian statements; Axios phone interview of November 2, 2026, whose opening was read via the live browser (the full text sits behind a sign-up gate), for Trump's no-rush remark and the two-track description. Earlier updates: Reuters reporting via OilPrice.com on the draft proposal's circulation, the negotiators' departure from Qatar, Baghaei's stated conditions and Monday's oil prices; talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text had been published as of this run. Developing item."
+data_as_of: "Latest update November 2, 2026: Reuters report of November 2, 2026, read in full via gCaptain, on the end of the Doha round, Araghchi's comments carried by IRNA, Baghaei's briefing and the Chinese and Russian statements; Axios phone interview of November 2, 2026, whose opening was read via the live browser (the full text sits behind a sign-up gate), for Trump's no-rush remark and the two-track description. Earlier updates: Reuters reporting via OilPrice.com on the draft proposal's circulation, the negotiators' departure from Qatar, Baghaei's stated conditions and Monday's oil prices; talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text had been published as of this run. Later update the same day: IRNA report via Reuters, carried by Arab News, of explosions heard on Qeshm Island, cause unclear, with no official confirmation from the Iranian side and no independent corroboration; that element is grade C. Developing item."
 update_bump: true
 ---
+
+**Update, November 2 (later):** Several explosions were heard on Iran's Qeshm Island in the Strait of Hormuz on Monday, the state outlet IRNA reported, with the cause unclear and no official confirmation from the Iranian side on the source of the blasts. The report, carried by Reuters, is single-sourced to IRNA, does not describe an attack and has no independent corroboration; it is recorded here at evidence grade C as an uncorroborated claim while the talks track above continues.
 
 **Latest, November 2:** The talks with Qatari mediators have ended with altered proposals but no breakthrough, and contacts between Iran and the United States through mediators are continuing, Reuters reported on Monday. Foreign Minister Abbas Araghchi, in comments carried by the state outlet IRNA, called the consultations through mediators “very intensive” and said everything now depends on the “political rationality of Washington”. Iranian sources told Reuters they believed a new US attack was still more likely than a deal. President Trump told Axios in a phone interview on Monday that he is in no rush to decide whether to resume bombing Iran, and that negotiations would continue while the United States prepares to go back to war if he concludes a deal is not reachable. China’s Foreign Minister Wang Yi said on Monday that all parties should focus on political solutions rather than resorting to arms again, after meeting senior Iranian security official Ali Bagheri Kani in Beijing, and Russia’s Foreign Ministry said reports of new military action against Iran were a cause for extreme concern.
 
