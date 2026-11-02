@@ -1,16 +1,24 @@
 ---
-title: "Iran and Qatar hold third day of talks on Hormuz proposal"
+title: "Iran talks end with no breakthrough as contacts continue"
 date: 2026-11-02T07:07:54-05:00
-last_updated: 2026-11-02T12:33:46-05:00
+last_updated: 2026-11-02T15:20:52-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "Iranian negotiators left Qatar on Sunday and a draft proposal to end the US-Israeli war on Iran is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters, while Brent crude fell 7.6 percent to 104.85 dollars a barrel."
-why_it_matters: "Circulation of a draft text is the first concrete step past talking positions in the Doha mediation, and oil traders marked it immediately, taking Brent down more than 7 percent and WTI below 100 dollars, but Tehran says no agreement can start until the US naval blockade ends, and Washington has not responded publicly."
+lede: "Days of Iranian talks with Qatari mediators ended with altered proposals but no breakthrough, Tehran said on Monday, while President Trump told Axios he is in no rush to decide whether to resume bombing Iran."
+why_it_matters: "The mediation channel remains open, but Iranian sources told Reuters they judge a renewed US attack more likely than a deal, and China and Russia both spoke out on Monday against a return to military action after Tuesday's US midterm elections."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Iran Says Contacts Over Ending War Continue After Talks Finish With No Breakthrough"
+    publisher: "Reuters, via gCaptain"
+    url: "https://gcaptain.com/iran-says-contacts-over-ending-war-continue-after-talks-finish-with-no-breakthrough/"
+    published: "2026-11-02"
+  - title: "Trump to Axios: \"No rush\" to decide on restarting war in Iran"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war"
+    published: "2026-11-02"
   - title: "Iranian negotiators hold third day of talks in Qatar to end US-Iran war"
     publisher: "Alsiasi, reporting Reuters and agency copy"
     url: "https://english.alsiasi.com/iranian-negotiators-hold-third-day-of-talks-in-qatar-to-end-us-iran-war/"
@@ -28,10 +36,15 @@ sources:
     url: "https://news.kilambi.com/stories/2026-10-30-qatari-mediators-tehran-us-iran-talks/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Latest update November 2, 2026: Reuters reporting via OilPrice.com, read in full in this run, on the draft proposal's circulation, the negotiators' departure from Qatar, Foreign Ministry spokesman Esmaeil Baghaei's stated conditions and Monday's oil prices. Earlier: talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text or official US response had been published as of this run. Developing item."
+data_as_of: "Latest update November 2, 2026: Reuters report of November 2, 2026, read in full via gCaptain, on the end of the Doha round, Araghchi's comments carried by IRNA, Baghaei's briefing and the Chinese and Russian statements; Axios phone interview of November 2, 2026, whose opening was read via the live browser (the full text sits behind a sign-up gate), for Trump's no-rush remark and the two-track description. Earlier updates: Reuters reporting via OilPrice.com on the draft proposal's circulation, the negotiators' departure from Qatar, Baghaei's stated conditions and Monday's oil prices; talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text had been published as of this run. Developing item."
+update_bump: true
 ---
 
-**Latest, November 2:** Iranian negotiators left Qatar on Sunday and a draft proposal on a potential end to the war is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters on Monday, without describing what the draft contains. Foreign Ministry spokesman Esmaeil Baghaei said Iran's demands had been articulated clearly and that no final agreement can be initiated, and the Strait of Hormuz cannot be reopened or secured, unless the US naval blockade is ended and Iran's demands are respected. Oil extended its Asian losses into early US trade: Brent fell 7.6 percent to 104.85 dollars a barrel and WTI fell 7.25 percent to 96.57 dollars. ING analysts Warren Patterson and Ewa Manthey said it remains to be seen whether the talks will lead to anything, and noted that many key developments in this conflict have unfolded over weekends.
+**Latest, November 2:** The talks with Qatari mediators have ended with altered proposals but no breakthrough, and contacts between Iran and the United States through mediators are continuing, Reuters reported on Monday. Foreign Minister Abbas Araghchi, in comments carried by the state outlet IRNA, called the consultations through mediators “very intensive” and said everything now depends on the “political rationality of Washington”. Iranian sources told Reuters they believed a new US attack was still more likely than a deal. President Trump told Axios in a phone interview on Monday that he is in no rush to decide whether to resume bombing Iran, and that negotiations would continue while the United States prepares to go back to war if he concludes a deal is not reachable. China’s Foreign Minister Wang Yi said on Monday that all parties should focus on political solutions rather than resorting to arms again, after meeting senior Iranian security official Ali Bagheri Kani in Beijing, and Russia’s Foreign Ministry said reports of new military action against Iran were a cause for extreme concern.
+
+Foreign Ministry spokesman Esmaeil Baghaei said the basis of the talks remained Iran’s seven-step proposal, first submitted in September and rejected by Trump that month, now condensed so it could be implemented within two days. The plan would have the United States end its blockade of Iranian ports, Iran reopen the Strait of Hormuz, Washington waive sanctions on Iranian oil sales and cancel new sanctions, and talks on other issues follow. Asked whether transferring Iran’s highly enriched uranium stockpile to another country had been raised in the talks, Baghaei said it had not, and that Iran would not agree to it.
+
+Iranian negotiators left Qatar on Sunday and a draft proposal on a potential end to the war is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters on Monday, without describing what the draft contains. Foreign Ministry spokesman Esmaeil Baghaei said Iran's demands had been articulated clearly and that no final agreement can be initiated, and the Strait of Hormuz cannot be reopened or secured, unless the US naval blockade is ended and Iran's demands are respected. Oil extended its Asian losses into early US trade: Brent fell 7.6 percent to 104.85 dollars a barrel and WTI fell 7.25 percent to 96.57 dollars. ING analysts Warren Patterson and Ewa Manthey said it remains to be seen whether the talks will lead to anything, and noted that many key developments in this conflict have unfolded over weekends.
 
 Iranian negotiators were in Doha on Sunday for a third consecutive day of talks with Qatari mediators aimed at a deal to end the US-Israeli war on Iran, an official briefed on the discussions said. The Qatari mediators had spent more than 12 hours in Tehran on Friday before the talks moved to Doha on Saturday, in regular contact with Washington throughout.
 
