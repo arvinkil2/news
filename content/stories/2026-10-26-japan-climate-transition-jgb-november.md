@@ -1,7 +1,7 @@
 ---
 title: "Japan to sell 250 billion yen of climate transition bonds"
 date: 2026-10-26T07:07:59-04:00
-last_updated: 2026-10-26T07:07:59-04:00
+last_updated: 2026-11-02T01:42:58-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,9 +18,16 @@ sources:
     publisher: "Dow Jones Newswires, via TradingView"
     url: "https://www.tradingview.com/news/DJN_DN20261025000825:0-japan-mof-to-auction-y250-0b-of-nov-2/"
     published: "2026-10-26"
+  - title: "Auction Result of 5-year Climate Transition JGBs on November 2, 2026"
+    publisher: "Japan Ministry of Finance"
+    url: "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261102.htm"
+    published: "2026-11-02"
 tags: []
-data_as_of: "Ministry of Finance announcement dated October 26, 2026, read in full on the ministry's own site in this run. Terms corroborated by Dow Jones Newswires reporting of the same announcement on October 26, 2026. Auction November 2, 2026."
+data_as_of: "Ministry of Finance announcement dated October 26, 2026, read in full on the ministry's own site in this run. Terms corroborated by Dow Jones Newswires reporting of the same announcement on October 26, 2026. Auction November 2, 2026. Updated November 2, 2026 with the ministry's own auction result for the sale (issue No. 6), read on the ministry's results page in this run."
+update_bump: true
 ---
+
+The November 2 auction cleared at par. The Ministry of Finance accepted 249.8 billion yen of the five-year Climate Transition bonds (issue No. 6) from 959.9 billion yen of competitive bids, a cover of about 3.8 times, at a nominal coupon of 2.2 percent, with the highest accepted yield at 2.200 percent and a price of 100.00 per 100 yen. Issue is on November 4 for maturity on September 20, 2031. Priced exactly at par, the labelled sale sent no discount or premium signal against the conventional curve; its cover was firmer than the 3.56 times drawn by the October 14 conventional five-year auction cited below.
 
 Japan's Ministry of Finance announced on Monday that it will sell about 250 billion yen of five-year Climate Transition Japanese government bonds in November. The auction is set for November 2, 2026, with issue on November 4 and maturity on September 20, 2031. The sale will use a Dutch style yield competitive auction, with bids at intervals of 0.1 basis point, the ministry said. Dow Jones Newswires reported the same terms on Monday.
 
