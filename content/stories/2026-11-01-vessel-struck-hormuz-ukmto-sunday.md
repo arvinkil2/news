@@ -1,13 +1,13 @@
 ---
 title: "Another vessel struck by unknown projectile in Hormuz"
 date: 2026-11-01T14:47:02-05:00
-last_updated: 2026-11-01T14:47:02-05:00
+last_updated: 2026-11-02T03:14:14-05:00
 beats: ["commodities"]
 regions: ["middle-east", "global"]
 status: "developing"
 developing: true
-lede: "A vessel was struck by an unknown projectile in the Strait of Hormuz on Sunday, Britain’s UK Maritime Trade Operations agency said after the master of a merchant vessel relayed a Mayday call reporting the hit."
-why_it_matters: "It is the second reported strike on a vessel in Gulf waters in three days, after Friday’s hit on the Qatari LNG carrier Al Mayeda, and no vessel name, damage report or claim of responsibility has been published for the Sunday incident."
+lede: "The vessel struck by an unknown projectile in the Strait of Hormuz on Sunday has been identified by maritime security firm Vanguard Tech as the offshore tug Selat Storm, which was reported to be partially sinking."
+why_it_matters: "A named vessel reported partially sinking raises the Sunday incident from an unexplained hit to the weekend's most serious reported casualty, although UK Maritime Trade Operations has not confirmed the identification or the damage report."
 featured: false
 evidence_grade: "C"
 sources:
@@ -23,10 +23,16 @@ sources:
     publisher: "Kommersant, in Russian"
     url: "https://www.kommersant.ru/doc/9078630"
     published: "2026-11-01"
+  - title: "Hormuz attacks spread deeper into the Gulf"
+    publisher: "Splash247"
+    url: "https://splash247.com/hormuz-attacks-spread-deeper-into-the-gulf/"
+    published: "2026-11-02"
 tags: []
-data_as_of: "UK Maritime Trade Operations report relayed on Sunday, November 1, 2026, as reported the same day by Arab News with AFP, read in full in this run via the live browser, and carried the same day by Anadolu Agency, in Turkish, and Kommersant, in Russian, in the feed pool. The report originates with UKMTO alone: the struck vessel is unnamed, and no damage or casualty information was reported for it, so the item ships at grade C. Developing item."
+data_as_of: "Update 2026-11-02: Splash247 report of November 2, 2026, identifying the struck vessel as the offshore tug Selat Storm on the reporting of maritime security firm Vanguard Tech, with the tug reported partially sinking; UK Maritime Trade Operations has not confirmed the identification or the damage report, so the update ships at grade C. Original: UK Maritime Trade Operations report relayed on Sunday, November 1, 2026, as reported the same day by Arab News with AFP, read in full via the live browser, and carried the same day by Anadolu Agency, in Turkish, and Kommersant, in Russian, in the feed pool. Developing item."
 update_bump: true
 ---
+
+Latest: the vessel struck in the Strait of Hormuz on Sunday was the offshore tug Selat Storm, maritime security firm Vanguard Tech said, and the tug was reported to be partially sinking, Splash247 reported on Monday. UK Maritime Trade Operations, whose warning recorded the incident at 15:09 UTC on Sunday, has not identified the vessel or confirmed the damage report, and no claim of responsibility has been reported.
 
 A vessel was struck by an unknown projectile in the Strait of Hormuz on Sunday, Britain’s UK Maritime Trade Operations agency said. The agency said the master of a merchant vessel had relayed a Mayday call stating that another vessel had been struck in the strait. The report gives no name, flag or type for the struck vessel, no time for the strike, and no information on damage or casualties, and no claim of responsibility was reported.
 
