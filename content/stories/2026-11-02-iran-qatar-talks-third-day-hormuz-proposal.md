@@ -1,7 +1,7 @@
 ---
 title: "Iran talks end with no breakthrough as contacts continue"
 date: 2026-11-02T07:07:54-05:00
-last_updated: 2026-11-02T17:14:28-05:00
+last_updated: 2026-11-02T17:48:05-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
@@ -35,14 +35,20 @@ sources:
     publisher: "OilPrice.com, reporting Reuters"
     url: "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-as-Draft-Proposal-to-End-US-Iran-War-is-Circulated.html"
     published: "2026-11-02"
+  - title: "Iranian official says US attacked fishing boats off Qeshm Island, state media reports"
+    publisher: "Reuters, via Arab News"
+    url: "https://www.arabnews.com/middle-east/iranian-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media-reports-3009496"
+    published: "2026-11-02"
   - title: "Qatari mediators hold marathon Tehran talks on US-Iran deal"
     publisher: "Kilambi News, prior edition"
     url: "https://news.kilambi.com/stories/2026-10-30-qatari-mediators-tehran-us-iran-talks/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Latest update November 2, 2026: Reuters report of November 2, 2026, read in full via gCaptain, on the end of the Doha round, Araghchi's comments carried by IRNA, Baghaei's briefing and the Chinese and Russian statements; Axios phone interview of November 2, 2026, whose opening was read via the live browser (the full text sits behind a sign-up gate), for Trump's no-rush remark and the two-track description. Earlier updates: Reuters reporting via OilPrice.com on the draft proposal's circulation, the negotiators' departure from Qatar, Baghaei's stated conditions and Monday's oil prices; talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text had been published as of this run. Later update the same day: IRNA report via Reuters, carried by Arab News, of explosions heard on Qeshm Island, cause unclear, with no official confirmation from the Iranian side and no independent corroboration; that element is grade C. Developing item."
+data_as_of: "Latest update November 2, 2026: Reuters report of November 2, 2026, read in full via gCaptain, on the end of the Doha round, Araghchi's comments carried by IRNA, Baghaei's briefing and the Chinese and Russian statements; Axios phone interview of November 2, 2026, whose opening was read via the live browser (the full text sits behind a sign-up gate), for Trump's no-rush remark and the two-track description. Earlier updates: Reuters reporting via OilPrice.com on the draft proposal's circulation, the negotiators' departure from Qatar, Baghaei's stated conditions and Monday's oil prices; talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text had been published as of this run. Later update the same day: IRNA report via Reuters, carried by Arab News, of explosions heard on Qeshm Island, cause unclear, with no official confirmation from the Iranian side and no independent corroboration; that element is grade C. Latest element: Reuters report of November 2, 2026, read in full via Arab News, carrying IRIB's claim, citing a Hormozgan province official, that the US attacked two fishing boats near Qeshm Island on Saturday, wounding one fisherman; the report states there was no official confirmation from Iranian authorities and no immediate US confirmation, with the White House and Pentagon not responding to requests for comment; that element is grade C. Developing item."
 update_bump: true
 ---
+
+**Update, November 2 (evening, later):** Iranian state broadcaster IRIB, citing a Hormozgan province official, said the United States attacked two fishing boats near Qeshm Island on Saturday and that one fisherman was wounded, Reuters reported on Monday. The report carried no official confirmation from Iranian authorities, and Reuters said there was no immediate US confirmation, with the White House and the Pentagon not responding to requests for comment. The claim is single-sourced to Iranian state media, is uncorroborated, and is recorded here at evidence grade C.
 
 **Update, November 2 (evening):** President Trump raised doubts on Monday about whether he would follow through on a threatened resumption of strikes against Iran, Reuters reported. Asked by reporters after a speech at the Washington Reflecting Pool, billed as his closing argument ahead of Tuesday's midterm elections, whether he was considering striking Iran after the midterms, Trump replied "no", and said he believed Iran wanted to make a deal and that such an agreement could happen. Vice President JD Vance said there had been "a number of good conversations with the Iranians" and that he and the president both feel pretty good about the prospects for potentially coming to a negotiated settlement. Trump restated his bottom line that Iran must never possess a nuclear weapon. The remarks are US official statements on the administration's own intentions, reported by Reuters the same evening; no agreement has been announced and Tehran has not responded to them.
 

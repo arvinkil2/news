@@ -1,7 +1,7 @@
 ---
 title: "Anthropic to sell up to $3.5 billion of shares in Japan"
 date: 2026-11-02T02:13:45-05:00
-last_updated: 2026-11-02T11:56:03-05:00
+last_updated: 2026-11-02T17:46:06-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -27,10 +27,16 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo"
     published: "2026-11-02"
+  - title: "Anthropic warns that it's very close to RSI capability, aka self-building AI"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    published: "2026-11-02"
 tags: []
-data_as_of: "November 2, 2026: Amendment No. 1 to Form S-1 (Form S-1/A) of Anthropic, PBC, filed with the SEC on November 2, 2026 and accepted at 9:24 a.m. ET (EDGAR accession 0001628280-26-068676, Registration No. 333-299633), read directly from EDGAR in this run, including the summary consolidated financial data, the quarterly statements of operations and the contractual obligations section. Every financial and commitment figure in this story is the filing's own, evidence grade A. The size of the Japan offering, up to 552.9 billion yen, is not stated in the US filing, which confirms only that the offering includes a public offering in Japan; the size, the use of proceeds and the valuation talk are from Reuters' report of November 2, 2026 on the company's Japanese disclosure, which this site has not obtained, evidence grade C for those elements. This update supersedes the earlier version of this story, which relied on CNBC's and Reuters' reports of the two filings."
+data_as_of: "November 2, 2026: Amendment No. 1 to Form S-1 (Form S-1/A) of Anthropic, PBC, filed with the SEC on November 2, 2026 and accepted at 9:24 a.m. ET (EDGAR accession 0001628280-26-068676, Registration No. 333-299633), read directly from EDGAR in this run, including the summary consolidated financial data, the quarterly statements of operations and the contractual obligations section. Every financial and commitment figure in this story is the filing's own, evidence grade A. The size of the Japan offering, up to 552.9 billion yen, is not stated in the US filing, which confirms only that the offering includes a public offering in Japan; the size, the use of proceeds and the valuation talk are from Reuters' report of November 2, 2026 on the company's Japanese disclosure, which this site has not obtained, evidence grade C for those elements. This update supersedes the earlier version of this story, which relied on CNBC's and Reuters' reports of the two filings. Later update the same day: the amendment's risk factor language on AI-accelerated development, read directly from the filing's text in this run, including the statement that the company may imminently meet its Responsible Scaling Policy definition of dramatically accelerated progress attributable to AI; TechCrunch's report of November 2, 2026 surfaced that language."
 update_bump: true
 ---
+
+**Update, November 2 (later):** The same amendment carries new risk factor language on the pace of Anthropic's own development. The company says its increasing use of AI systems to accelerate its research and development may advance its models' capabilities faster than it can develop corresponding safety, alignment and security measures, that it has in the past not identified a significant acceleration in its rate of development until after it occurred, and that its internal estimates and expectations for future models indicate it may imminently meet its Responsible Scaling Policy's definition of "dramatically accelerated progress attributable to AI." It says it has not designated any current model as exceeding that threshold, is still assessing the underlying data, and is evaluating the implications of meeting the AI research and development capability threshold. The language is the company's own disclosure in the filing, surfaced in reporting by TechCrunch on Monday.
 
 **Latest, November 2:** Anthropic, PBC filed Amendment No. 1 to its Form S-1 with the Securities and Exchange Commission on Monday, accepted at 9:24 a.m. Eastern, and the amendment adds the financial statements for the quarter and nine months ended September 30, 2026. Revenue was $16.956 billion in the third quarter and $33.242 billion in the nine months, against $2.545 billion in the same nine months of 2025, a thirteen-fold increase. The net loss was $23.291 billion in the quarter and $104.039 billion over the nine months, against $25.107 billion a year earlier. Of the nine month loss, $94.324 billion is a single non-cash line, the change in fair value of convertible notes, derivative liabilities and SAFEs, which grows as the company's own valuation rises. Compute and infrastructure expense was $18.808 billion in the nine months, up $14.427 billion, or 329 percent, from $4.381 billion a year earlier.
 
