@@ -2,13 +2,13 @@
 title: "Poland"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed hourly."
-data_as_of: "Nov 2, 4:04 PM ET"
+data_as_of: "Nov 2, 5:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 4:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 5:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$42.6900 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-1.64%</span></td><td class="num"><span class="down">-2.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.8 4.8,7.8 9.6,16.9 14.4,18.5 19.2,14.7 24.0,13.6 28.8,8.0 33.6,12.7 38.4,8.3 43.2,7.2 48.0,11.9 52.8,10.7 57.6,2.0 62.4,11.6 67.2,17.9 72.0,17.0 76.8,11.4 81.6,10.6 86.4,5.6 91.2,18.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/PLN</td><td class="num">3.9462 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.59%</span></td><td class="num"><span class="down">-0.64%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.1 4.6,21.0 9.1,16.7 13.7,23.6 18.3,15.9 22.9,17.6 27.4,15.3 32.0,9.6 36.6,17.8 41.1,16.9 45.7,20.0 50.3,20.5 54.9,20.0 59.4,21.7 64.0,26.0 68.6,18.9 73.1,11.7 77.7,6.2 82.3,2.0 86.9,4.6 91.4,11.1 96.0,4.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/PLN</td><td class="num">3.9432 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.52%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.1 4.6,21.0 9.1,16.7 13.7,23.6 18.3,15.9 22.9,17.6 27.4,15.3 32.0,9.6 36.6,17.8 41.1,16.9 45.7,20.0 50.3,20.5 54.9,20.0 59.4,21.7 64.0,26.0 68.6,18.9 73.1,11.7 77.7,6.2 82.3,2.0 86.9,4.6 91.4,11.1 96.0,4.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
