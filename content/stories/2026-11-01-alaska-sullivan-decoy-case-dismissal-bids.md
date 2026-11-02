@@ -1,7 +1,7 @@
 ---
 title: "Judge dismisses Justice Department lawsuit over Alaska Senate election"
 date: 2026-11-01T07:16:36-05:00
-last_updated: 2026-11-01T14:14:33-05:00
+last_updated: 2026-11-02T07:10:16-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -27,9 +27,11 @@ sources:
     url: "https://thehill.com/homenews/campaign/6183444-doj-subpoenas-peltola-alleged-ballot-stacking/"
     published: "2026-10-30"
 tags: []
-data_as_of: "Update, November 1, 2026, 14:14 ET: Judge Sharon Gleason's dismissal order as reported November 1, 2026 by CNBC, read in full in this run, corroborated the same day by Al Jazeera and The Hill. Federal court scheduling reported October 30, 2026 by CNBC from the feed pool (direct fetch blocked by policy and not retried), corroborated by The Hill's report of October 30, 2026 on the subpoenas. The underlying ballot dispute was covered in the October 23 and October 30 editions; this story covers only the new procedural developments."
+data_as_of: "Update, November 2, 2026: Fox News reported on November 1, 2026 that the Justice Department is set to appeal the dismissal in the Decoy Dan dispute; no appeal filing had been read in this run and the intention is carried as reported. Earlier update, November 1, 2026, 14:14 ET: Judge Sharon Gleason's dismissal order as reported November 1, 2026 by CNBC, read in full in this run, corroborated the same day by Al Jazeera and The Hill. Federal court scheduling reported October 30, 2026 by CNBC from the feed pool (direct fetch blocked by policy and not retried), corroborated by The Hill's report of October 30, 2026 on the subpoenas. The underlying ballot dispute was covered in the October 23 and October 30 editions; this story covers only the new procedural developments."
 update_bump: true
 ---
+
+**Update, November 2:** The Justice Department is set to appeal Judge Gleason's dismissal, Fox News reported, which would keep the federal case alive over the count even though the dismissal stands unless reversed. Senator Dan Sullivan said on Sunday he would accept the election results, while Senator Tim Scott declined to give the same commitment for the case of a Peltola win. The appeal's filing and any emergency stay request are the documents to watch before polls close on Tuesday.
 
 **Latest, November 1:** Judge Sharon Gleason of the U.S. District Court in Anchorage has dismissed the Justice Department's lawsuit, which had sought to delay certification of the Alaska Senate election if Senator Dan S. Sullivan lost, so that voter intent could be investigated over confusion between the incumbent and a second ballot candidate named Dan J. Sullivan, a retired schoolteacher. In a 20 page decision, Gleason ruled the government had failed to establish legal standing, and that the orders the department sought, blocking certification in certain circumstances, segregating ballots and investigating voters who chose the second Sullivan, involve the time, place and manner of Alaska's election, which she said are the responsibilities of the state, not the federal executive branch. The dismissal, sought by Mary Peltola's campaign and state election officials, came two days before Tuesday's vote and two days after the U.S. Attorney for Alaska said criminal and civil investigations into the second Sullivan's decision to run were ongoing.
 

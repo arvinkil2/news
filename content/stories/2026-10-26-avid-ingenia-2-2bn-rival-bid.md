@@ -1,15 +1,19 @@
 ---
-title: "AVID tops Warburg Pincus with rival bid for Ingenia"
+title: "AVID matches Warburg Pincus bid in Ingenia auction"
 date: 2026-10-26T07:08:19-04:00
-last_updated: 2026-10-26T07:08:19-04:00
+last_updated: 2026-11-02T07:11:18-05:00
 beats: ["infra-deals"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "Ingenia Communities said on Monday it has received a takeover proposal from Proprium owned AVID Property Group valuing it at 2.2 billion Australian dollars, above Warburg Pincus's latest offer after three rounds of bidding."
-why_it_matters: "A contested auction for a land lease community operator, with a sovereign wealth backed challenger displacing a US private equity firm mid process, is a clean read on how hard institutional capital is competing for Australian residential platforms with contracted rental income."
+lede: "AVID Property Group has raised its offer for Ingenia Communities to 5.50 Australian dollars a share, matching Warburg Pincus's sweetened 2.24 billion Australian dollar proposal, as Warburg's access to Ingenia's books expired on Monday."
+why_it_matters: "With both bidders now at the same price and the US firm's diligence access closed, the contest for Australia's largest listed land lease platform turns on structure and certainty rather than price, and Ingenia's board still refuses to recommend either offer while it pursues its own acquisition of Peet."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "AVID matches Warburg Pincus' sweetened $1.6 billion bid for Australia's Ingenia"
+    publisher: "Reuters"
+    url: "https://kwsn.com/2026/11/02/avid-matches-warburg-pincus-sweetened-1-6-billion-bid-for-australias-ingenia/"
+    published: "2026-11-02"
   - title: "Australia's Ingenia hits 9-month high on AVID's $1.5 billion buyout bid"
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/3997190-australias-ingenia-hits-9-month-high-on-avids-15-billion-buyout-bid?amp"
@@ -19,11 +23,13 @@ sources:
     url: "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid"
     published: "2026-10-26"
 tags: []
-data_as_of: "Ingenia announcement and market reports of Monday, October 26, 2026. Reuters puts the AVID offer at 5.40 Australian dollars a share, a 13.4 percent premium to Friday's close and 2.9 percent above Warburg Pincus's 5.25 dollars; some market summaries carried 5.35 dollars. The 2.2 billion Australian dollar value converts to about 1.54 billion US dollars at the rate Reuters used; Bloomberg's headline rounds it to 1.6 billion dollars."
+data_as_of: "Updated November 2, 2026, with Reuters reporting of Ingenia's Monday announcement; original story October 26, 2026. The matched proposal values Ingenia at 2.24 billion Australian dollars, about 1.57 billion US dollars at the rate Reuters used. AVID's 5.50 dollar price includes a distribution of up to 0.05 dollars a share that Ingenia will pay shareholders for the half year ending December 31, 2026. Warburg Pincus's sweetened bid was made on October 28, 2026."
 ---
 
-Ingenia Communities Group said on Monday that it has received a takeover proposal from AVID Property Group Holdings valuing the company at 2.2 billion Australian dollars, about 1.54 billion US dollars. AVID, which is owned by Proprium Capital Partners, offered 5.40 Australian dollars for each Ingenia share, a 13.4 percent premium to Friday's closing price. Ingenia's shares rose as much as 9.1 percent on Monday to their highest close in nine months, ending up 5 percent at 5 dollars.
+AVID Property Group has matched Warburg Pincus's takeover proposal for Ingenia Communities, raising its offer to 5.50 Australian dollars a share and valuing the land lease community operator at 2.24 billion Australian dollars, about 1.57 billion US dollars, Ingenia said on Monday. The shares rose to a near 11-month high. The price represents a premium of 15.5 percent to Ingenia's last close before AVID's first indicative proposal on October 26, and it includes a distribution of up to 0.05 dollars a share payable for the half year ending December 31, 2026.
 
-The bid interrupts a live process. Ingenia had already received three rounds of bids from Warburg Pincus, the latest at 5.25 dollars a share, and had set an October 23 deadline to sign a process deed with the US firm. Instead, the board has entered a process deed with AVID, given it soft exclusivity for up to six weeks, and terminated Warburg Pincus's access to the data room.
+The match removes price as the point of difference. Warburg Pincus lifted its own offer on October 28, and its access to Ingenia's books ended on Monday when a deadline expired. AVID, owned by Proprium Capital Partners and backed, per Ingenia's October disclosure, by an unnamed global sovereign wealth fund and a global financial sponsor, now bids from inside the process while the US firm's diligence window has closed.
 
-AVID's offer is backed by an unnamed global sovereign wealth fund and a global financial sponsor, Ingenia said, and it hinges on Ingenia terminating its planned 992.5 million Australian dollar acquisition of Peet, announced in late August. Ingenia develops and operates land lease communities, rental and holiday accommodation, a segment where listed values have lagged the cash flows, which is part of the contest: analysts quoted by Reuters attributed the shares' discount to the Peet deal terms and to weak sentiment toward residential real estate after Reserve Bank rate rises, and noted the stock had already risen more than 35 percent since Warburg Pincus's first offer in September.
+Ingenia's board is still not recommending AVID's proposal. It said it does not yet intend to recommend that shareholders accept it, and it continues to pursue its own agreed acquisition of residential developer Peet, valued at 992.5 million Australian dollars when proposed in August. AVID's original October proposal was conditioned on Ingenia terminating the Peet deal, which remains the central structural obstacle to either bid.
+
+The auction began when Warburg Pincus made the first of three approaches in September, followed by AVID's rival 5.40 dollar proposal on October 26, which valued Ingenia at 2.2 billion Australian dollars and displaced Warburg from the data room. Two matching prices, one closed data room and an unreconciled target-side acquisition leave the outcome dependent on which bidder can offer the board a structure it can recommend, rather than a higher number.

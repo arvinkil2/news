@@ -1,7 +1,7 @@
 ---
 title: "Henry Hub gains on week against record short"
 date: 2026-11-01T07:15:53-05:00
-last_updated: 2026-11-01T07:15:53-05:00
+last_updated: 2026-11-02T07:13:34-05:00
 beats: ["commodities"]
 regions: ["north-america"]
 status: "story"
@@ -29,3 +29,5 @@ The price sits against the most extreme positioning in the complex. The newest C
 That combination, a record short and a near 10 percent weekly price gain heading into November, is the definition of squeeze exposure. It does not require a bullish fundamental surprise to move the price; it requires only that shorts decide, or are forced, to cover into a thin market.
 
 The contrast with Europe underlines that this is a positioning story, not a global gas shortage story at the United States hub: Dutch TTF closed Friday at a four year high above 100 euros per megawatt hour on record low seasonal storage, a physical tightness the United States market does not share.
+
+Update, Monday November 2: the site market tables print natural gas at 2.94 dollars per million BTU, up 1.52 percent on the day and up 13.07 percent on the week, extending the move against the record short. No new CFTC release has arrived; the October 23 positioning remains the newest available and is now ten days old.

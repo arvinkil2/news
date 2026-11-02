@@ -1,7 +1,7 @@
 ---
 title: "Democratic congresswoman Stevens endorses Republican Rogers in Michigan"
 date: 2026-11-01T14:47:02-05:00
-last_updated: 2026-11-01T14:47:02-05:00
+last_updated: 2026-11-02T07:10:16-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -24,9 +24,11 @@ sources:
     url: "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/"
     published: "2026-11-01"
 tags: []
-data_as_of: "Reports of November 1, 2026 by Al Jazeera, carrying AP, and by The Hill, both read in full in this run via the live browser. Stevens’s stated reasons and the staff resignations are as reported by The Hill, including a statement by her former chief of staff first shared by CNN; the number of staff who resigned was not given. Developing item."
+data_as_of: "Update, November 2, 2026: El-Sayed's dismissal of the endorsement and the DNC chair's defence of El-Sayed and Peltola are from The Hill and Al Jazeera reports of November 1 and 2, 2026 in the feed pool for this run. The final New York Times and Siena poll of the race, El-Sayed 53 percent to Rogers 42 percent among likely voters surveyed October 23 to November 1, is covered in today's midterms eve story. Original reports of November 1, 2026 by Al Jazeera, carrying AP, and by The Hill, read in full via the live browser. Stevens’s stated reasons and the staff resignations are as reported by The Hill, including a statement by her former chief of staff first shared by CNN; the number of staff who resigned was not given. Developing item."
 update_bump: true
 ---
+
+**Update, November 2:** El-Sayed dismissed Stevens's intervention on Monday, brushing off her backing of his Republican rival as the final polls showed him leading Rogers 53 to 42 percent. The Democratic National Committee chair defended both El-Sayed and Alaska's Mary Peltola as the party braced for post-election legal fights, a sign the national party is treating the endorsement as a closed episode rather than an open wound. The endorsement's measurable effect, if any, will only be visible in Tuesday's count.
 
 Representative Haley Stevens of Michigan, a Democrat who lost the August Senate primary to Abdul El-Sayed by a slim margin, endorsed the Republican candidate, former Representative Mike Rogers, on Sunday, appearing with Rogers at a Detroit church service and posting a video endorsement. Stevens said her decision was a personal one made in response to hate, and The Hill reported she cited El-Sayed’s ties to the political streamer Hasan Piker; El-Sayed’s campaign dropped her from a joint campaign event scheduled for the same day.
 
