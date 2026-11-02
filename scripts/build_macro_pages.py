@@ -3,11 +3,67 @@
 Writes content/macro/{spreads,central-banks,economies}.md with HTML tables.
 Charts live in static/macro/.
 """
-import json, os, datetime, re
+import json, os, datetime, re, sys
 
 SITE = os.path.expanduser("~/workspace/news-site")
 DATA = os.path.join(SITE, "data", "macro")
 OUT = os.path.join(SITE, "content", "macro")
+
+# --- Change-scoped writes (2026-10-30, Arvin's direction) -----------
+# Every page this builder writes goes through _write_page, which
+# byte-compares the rendered content against the file on disk and
+# writes only on a real difference. The paths actually written (and
+# any stale pages removed) are recorded and emitted at the end of
+# main() to data/macro/build_macro_changed.json, so publishers ship
+# exactly the delta instead of the whole section. Force a full
+# rebuild with BUILD_MACRO_FORCE_FULL=1 or --force-full: required
+# when a shared template or script block changes, since then every
+# page genuinely changes and must ship.
+_FORCE_FULL_BUILD = (os.environ.get("BUILD_MACRO_FORCE_FULL") == "1"
+                     or "--force-full" in sys.argv)
+_BUILD_WRITTEN = []
+_BUILD_DELETED = []
+_BUILD_MANIFEST = os.path.join(DATA, "build_macro_changed.json")
+
+
+def _repo_rel(path):
+    return os.path.relpath(path, SITE).replace(os.sep, "/")
+
+
+def _write_page(path, content):
+    data = (content.encode("utf-8") if isinstance(content, str)
+            else content)
+    if not _FORCE_FULL_BUILD and os.path.exists(path):
+        with open(path, "rb") as f:
+            if f.read() == data:
+                return False
+    with open(path, "wb") as f:
+        f.write(data)
+    _BUILD_WRITTEN.append(_repo_rel(path))
+    return True
+
+
+def _remove_page(path):
+    if os.path.exists(path):
+        os.remove(path)
+        _BUILD_DELETED.append(_repo_rel(path))
+
+
+def _emit_build_manifest():
+    payload = {
+        "builder": "build_macro_pages.py",
+        "built_at": datetime.datetime.now().isoformat(timespec="seconds"),
+        "force_full": _FORCE_FULL_BUILD,
+        "written": sorted(set(_BUILD_WRITTEN)),
+        "deleted": sorted(set(_BUILD_DELETED)),
+    }
+    tmp = _BUILD_MANIFEST + ".tmp"
+    with open(tmp, "w") as f:
+        json.dump(payload, f, indent=1)
+    os.replace(tmp, _BUILD_MANIFEST)
+    print(f"build scope: {len(payload['written'])} pages written, "
+          f"{len(payload['deleted'])} deleted"
+          f"{' (forced full)' if _FORCE_FULL_BUILD else ''}")
 
 REGION_LABEL = {
     "north-america": "North America", "latin-america": "Latin America",
@@ -642,14 +698,34 @@ document.querySelectorAll('table.bw-grid').forEach(function(t){
     });
     grip.addEventListener('click', function(ev){ ev.stopPropagation(); });
   });
+  function cellKey(v){
+    v = String(v == null ? '' : v).trim();
+    if (v === '' || v === '\u2014') return null;
+    if (/^\d{4}-\d{2}-\d{2}/.test(v)) return {k: 1, s: v.slice(0, 10)};
+    var num = v.replace(/,/g, '');
+    if (/^[+-]?(\d+\.?\d*|\.\d+)$/.test(num)) return {k: 0, n: parseFloat(num)};
+    var m = v.match(/^(\d{1,2}) ([A-Za-z]{3})[a-z]* (\d{4})$/);
+    if (m) {
+      var mi = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'].indexOf(m[2]);
+      if (mi >= 0) return {k: 1, s: m[3] + '-' + ('0' + (mi + 1)).slice(-2) + '-' + ('0' + m[1]).slice(-2)};
+    }
+    return {k: 2, s: v.toLowerCase()};
+  }
   function sortRows(i, asc){
     var rows = Array.prototype.slice.call(t.querySelectorAll(':scope > tbody > tr'));
     rows.sort(function(a, b){
       var x = a.children[i], y = b.children[i];
       var xv = x && x.hasAttribute('data-v') ? x.getAttribute('data-v') : (x ? x.textContent.trim() : '');
       var yv = y && y.hasAttribute('data-v') ? y.getAttribute('data-v') : (y ? y.textContent.trim() : '');
-      var xn = parseFloat(xv), yn = parseFloat(yv);
-      var c = (!isNaN(xn) && !isNaN(yn)) ? xn - yn : String(xv).localeCompare(String(yv));
+      var kx = cellKey(xv), ky = cellKey(yv);
+      if (kx === null || ky === null) {
+        if (kx === ky) return 0;
+        return kx === null ? 1 : -1;
+      }
+      var c;
+      if (kx.k !== ky.k) c = kx.k - ky.k;
+      else if (kx.k === 0) c = kx.n - ky.n;
+      else c = kx.s < ky.s ? -1 : (kx.s > ky.s ? 1 : 0);
       return asc ? c : -c;
     });
     var tb = t.querySelector(':scope > tbody');
@@ -1498,7 +1574,11 @@ def _chart_embed(marks, trades):
         return _cal.timegm(t.timetuple()) * 1000 + 12 * 3600 * 1000
 
     t_out = []
-    for t in sorted(trades, key=lambda r: (r[0], r[1] or "")):
+    for t in sorted(trades, key=lambda r: (
+            r[0], r[1] or "", r[2],
+            r[3] if r[3] is not None else -1.0,
+            str(r[4] if len(r) > 4 else ""),
+            r[5] if len(r) > 5 else "")):
         t_out.append([ts(t[0], t[1] or "00:00:00"), t[2], t[3],
                       _vol_floor(t[4] if len(t) > 4 else None)])
     m_out = [[ts(m[0]), m[1]] for m in sorted(marks)]
@@ -3364,6 +3444,10 @@ def leverage_monitor_page():
         '<p>Working paper: <a href="https://research.kilambi.com/'
         'paper-27.html">KR-WP-2026-27, Visible Money, Invisible '
         'Counterparties</a>. Weekly issues (PDF): '
+        '<a href="/files/ai-leverage-monitor-2026-11-01.pdf">'
+        '1 November 2026</a> / '
+        '<a href="/files/ai-leverage-monitor-2026-10-25.pdf">'
+        '25 October 2026</a> / '
         '<a href="/files/ai-leverage-monitor-2026-10-18.pdf">'
         '18 October 2026</a> / '
         '<a href="/files/ai-leverage-monitor-2026-10-11.pdf">'
@@ -3410,6 +3494,17 @@ def bond_pages():
                                      "fund_period": None, "trades": []}
         marks = det["marks"]          # [period, price, positions, principal]
         trades = det["trades"]        # [date, time, price, yield, vol, side]
+        # Canonical total order (2026-10-30): the detail export's
+        # ORDER BY (date, time) leaves same-second trades in
+        # run-varying order, and that instability propagated into
+        # the tape table, the charts and even trades[0] (the basis
+        # print), so pages differed between builds with identical
+        # data and change-scoped writes never scoped. Sort by the
+        # full row: the render is now a pure function of the data.
+        trades = sorted(trades, key=lambda t: (
+            t[0], t[1] or "", t[2],
+            t[3] if t[3] is not None else -1.0,
+            str(t[4]), t[5] or ""), reverse=True)
         p = prints.get(cusip)
         bw = bw_rows.get(cusip)
         coup = b.get("coupon_pct")
@@ -3773,7 +3868,7 @@ def bond_pages():
                          f"<td class=\"num\">{m[1]:.2f}</td>"
                          "<td class=\"num\">—</td>"
                          "<td>—</td><td>—</td></tr>"))
-        tape.sort(key=lambda r: (r[0], r[1]), reverse=True)
+        tape.sort(key=lambda r: (r[0], r[1], r[2]), reverse=True)
         total_entries = len(tape)
         tape = tape[:240]
         tape_html = (
@@ -3971,8 +4066,7 @@ def bond_pages():
         if trades or marks:
             body += ('<script src="/js/echarts.min.js" defer></script>\n'
                      '<script src="/js/bond_chart.js" defer></script>\n')
-        with open(os.path.join(outdir, f"{cusip}.md"), "w") as f:
-            f.write(body)
+        _write_page(os.path.join(outdir, f"{cusip}.md"), body)
         n += 1
     return n
 
@@ -4036,41 +4130,37 @@ def main():
     os.makedirs(lev_out, exist_ok=True)
     # Bond Price Watch lives in the Leverage section (moved 2026-10-14,
     # Arvin); the /macro/bond-watch/ URL is kept as a frontmatter alias.
-    with open(os.path.join(lev_out, "bond-watch.md"), "w") as f:
-        f.write(bond_watch_page())
+    _write_page(os.path.join(lev_out, "bond-watch.md"),
+                bond_watch_page())
     print("wrote leverage/bond-watch.md")
     ana_body, ana_extras = bond_analytics_page()
-    with open(os.path.join(lev_out, "bond-analytics.md"), "w") as f:
-        f.write(ana_body)
+    _write_page(os.path.join(lev_out, "bond-analytics.md"), ana_body)
     print("wrote leverage/bond-analytics.md")
     wanted = {f"bond-analytics-{k}.md" for k in ana_extras}
     for stale in os.listdir(lev_out):
         if re.fullmatch(
                 r"bond-analytics-(liquidity|marks)-p\d+\.md", stale) \
                 and stale not in wanted:
-            os.remove(os.path.join(lev_out, stale))
+            _remove_page(os.path.join(lev_out, stale))
     for key, ebody in ana_extras.items():
-        with open(os.path.join(lev_out, f"bond-analytics-{key}.md"),
-                  "w") as f:
-            f.write(ebody)
+        _write_page(os.path.join(lev_out, f"bond-analytics-{key}.md"),
+                    ebody)
     if ana_extras:
         print("wrote", len(ana_extras),
               "bond-analytics continuation pages")
-    with open(os.path.join(lev_out, "zero-holders.md"), "w") as f:
-        f.write(zero_holders_page())
+    _write_page(os.path.join(lev_out, "zero-holders.md"),
+                zero_holders_page())
     print("wrote leverage/zero-holders.md")
     act_body, act_extras = activity_page()
-    with open(os.path.join(lev_out, "activity.md"), "w") as f:
-        f.write(act_body)
+    _write_page(os.path.join(lev_out, "activity.md"), act_body)
     print("wrote leverage/activity.md")
     wanted = {f"activity-p{n}.md" for n in act_extras}
     for stale in os.listdir(lev_out):
         if re.fullmatch(r"activity-p\d+\.md", stale) \
                 and stale not in wanted:
-            os.remove(os.path.join(lev_out, stale))
+            _remove_page(os.path.join(lev_out, stale))
     for n, ebody in act_extras.items():
-        with open(os.path.join(lev_out, f"activity-p{n}.md"), "w") as f:
-            f.write(ebody)
+        _write_page(os.path.join(lev_out, f"activity-p{n}.md"), ebody)
     if act_extras:
         print("wrote", len(act_extras), "activity continuation pages")
     iss_dir = os.path.join(lev_out, "issuer")
@@ -4078,10 +4168,9 @@ def main():
     ipages = issuer_pages()
     for stale in os.listdir(iss_dir):
         if stale.endswith(".md") and stale[:-3] not in ipages:
-            os.remove(os.path.join(iss_dir, stale))
+            _remove_page(os.path.join(iss_dir, stale))
     for key, content in ipages.items():
-        with open(os.path.join(iss_dir, f"{key}.md"), "w") as f:
-            f.write(content)
+        _write_page(os.path.join(iss_dir, f"{key}.md"), content)
     print("wrote", len(ipages), "issuer pages")
     proj_dir = os.path.join(SITE, "content", "projects")
     os.makedirs(proj_dir, exist_ok=True)
@@ -4089,17 +4178,16 @@ def main():
     for stale in os.listdir(proj_dir):
         if stale.endswith(".md") and stale != "_index.md" \
                 and stale[:-3] not in ppages:
-            os.remove(os.path.join(proj_dir, stale))
+            _remove_page(os.path.join(proj_dir, stale))
     for slug, content in ppages.items():
-        with open(os.path.join(proj_dir, f"{slug}.md"), "w") as f:
-            f.write(content)
-    with open(os.path.join(proj_dir, "_index.md"), "w") as f:
-        f.write(projects_index())
+        _write_page(os.path.join(proj_dir, f"{slug}.md"), content)
+    _write_page(os.path.join(proj_dir, "_index.md"), projects_index())
     print("wrote", len(ppages), "project pages")
-    with open(os.path.join(lev_out, "monitor.md"), "w") as f:
-        f.write(leverage_monitor_page())
+    _write_page(os.path.join(lev_out, "monitor.md"),
+                leverage_monitor_page())
     print("wrote leverage/monitor.md")
     print("wrote", bond_pages(), "bond detail pages")
+    _emit_build_manifest()
 
 if __name__ == "__main__":
     main()
