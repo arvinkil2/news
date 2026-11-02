@@ -1,15 +1,15 @@
 ---
 title: "Taiwan"
-date: "2026-11-01"
+date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed hourly."
-data_as_of: "Nov 1, 6:19 PM ET"
+data_as_of: "Nov 1, 7:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 1, 6:19 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 1, 7:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">45,212 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-2.49%</span></td><td class="num"><span class="down">-3.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.8 5.1,9.6 10.1,9.0 15.2,2.6 20.2,2.0 25.3,2.1 30.3,4.7 35.4,4.7 40.4,9.7 45.5,8.2 50.5,16.8 55.6,16.1 60.6,17.6 65.7,20.4 70.7,17.3 75.8,21.7 80.8,21.4 85.9,16.5 90.9,20.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$101.11 <span class="gm-sub-inline">as of 2026-10-30</span></td><td class="num"><span class="down">-4.60%</span></td><td class="num"><span class="down">-3.61%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.2 4.4,9.4 8.7,4.4 13.1,2.0 17.5,2.6 21.8,4.5 26.2,8.6 30.5,7.2 34.9,7.3 39.3,8.5 43.6,12.0 48.0,14.6 52.4,18.7 56.7,17.3 61.1,17.2 65.5,14.8 69.8,21.9 74.2,20.6 78.5,19.6 82.9,17.3 87.3,14.9 91.6,19.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TWD</td><td class="num">32.6050 <span class="gm-sub-inline">as of 2026-11-01</span></td><td class="num"><span class="down">-0.12%</span></td><td class="num"><span class="down">-0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.7 4.4,22.2 8.7,23.7 13.1,26.0 17.5,25.3 21.8,23.3 26.2,21.1 30.5,21.4 34.9,21.0 39.3,16.1 43.6,13.7 48.0,9.8 52.4,8.1 56.7,5.5 61.1,2.8 65.5,8.7 69.8,2.2 74.2,3.0 78.5,4.0 82.9,7.0 87.3,8.2 91.6,3.1 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TWD</td><td class="num">32.6050 <span class="gm-sub-inline">as of 2026-11-01</span></td><td class="num"><span class="down">-0.12%</span></td><td class="num"><span class="down">-0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.2 4.6,23.7 9.1,26.0 13.7,25.3 18.3,23.3 22.9,21.1 27.4,21.4 32.0,21.0 36.6,16.1 41.1,13.7 45.7,9.8 50.3,8.1 54.9,5.5 59.4,2.8 64.0,8.7 68.6,2.2 73.1,3.0 77.7,4.0 82.3,7.0 86.9,8.2 91.4,3.1 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
