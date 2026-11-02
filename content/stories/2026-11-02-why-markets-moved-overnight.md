@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-02T07:24:30-05:00
-last_updated: 2026-11-02T07:24:30-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-02T12:34:24-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Semiconductors fell 8.24 percent in the last session and Brent crude dropped below 110 dollars on Monday as a third day of Iran and Qatar talks took the war premium off oil."
-why_it_matters: "The week opens with liquidation in the AI and mining trades running against diplomacy in the Gulf, and Tuesday's US midterms and RBA decision will decide which of the two sets the tone."
+lede: "Brent crude fell to 104.85 dollars a barrel by midday on Monday and WTI dropped below 97 dollars, extending the morning slide as a draft proposal to end the US-Israeli war on Iran circulated out of the Doha talks."
+why_it_matters: "The war premium is coming out of oil, freight and yields at the same time, while the mining and metal trades liquidated on Friday bounce. Tuesday's US midterms and the week's central bank decisions will test whether the de-escalation pricing holds."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,15 +15,15 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-02"
 tags: []
-data_as_of: "Market close Friday, October 30, 2026; crude at Monday morning, November 2, 2026"
+data_as_of: "Midday November 2, 2026"
 ---
 
-Semiconductors fell 8.24 percent to 471.51 dollars, the largest move in the tables, with Broadcom down 5.48 percent to 326.08 dollars, Nvidia down 4.22 percent and the tech sector down 4.89 percent. This morning's technology reporting reads the selloff as the market pricing the AI builders' funding rather than the buildout's demand: Samsung's record third quarter, with chip profit at an all-time high, shows memory demand rationed and sold forward even as the shares that finance the expansion were marked down (see today's Samsung record Q3 story).
+Brent crude fell 10.87 percent in the tables to 104.85 dollars a barrel, the largest move of the day. Part of that figure is still the contract roll: the December contract expired on Friday at 117.64 dollars, and against the January front month's Friday settle of 113.43 dollars the fall is 7.6 percent. WTI crude fell 7.25 percent to 96.57 dollars a barrel. Today's Iran and Qatar talks story reports that a draft proposal to end the war is now being circulated for a potential follow-up meeting, after Iranian negotiators left Qatar on Sunday (see today's Iran and Qatar talks story).
 
-Brent crude fell 7.77 percent to 108.50 dollars a barrel and WTI fell 4.49 percent to 99.45 dollars. Part of the Brent figure is an artefact: the December contract expired Friday at 117.64 dollars and the January front month settled at 113.43 dollars, so the table's change spans the contract roll. The underlying Monday fall, about 3 to 5 percent depending on the print, came as Iranian and Qatari officials held a third straight day of talks on ending the war and OPEC+ held December output targets steady on Sunday (see today's Iran and Qatar talks story and the updated OPEC+ story).
+Tanker freight fell 5.79 percent to 912.80 dollars, unwinding part of the war premium in shipping. No story published today isolates the freight move. The closest context is today's Hormuz story, which reported shipments through the strait running at about 80 percent of prewar levels with tanker and insurance costs still elevated, and the talks story above (see today's Hormuz strikes story).
 
-The miners were sold as a block. Silver miners fell 5.58 percent, uranium miners 5.57 percent, gold miners 5.21 percent, copper miners 5.19 percent and rare earth miners 5.12 percent, with BHP down 3.25 percent. The metals themselves did not follow: gold futures rose 0.38 percent to 3,913.60 dollars in the same tables and silver settled higher on Friday, which this morning's mining reporting identifies as equity-led liquidation rather than a commodity move (see today's miners selloff story).
+Amazon rose 4.26 percent to 250.60 dollars, the largest single stock move in the tables. No story published today explains the move. Amazon appears in today's reporting only in passing, in the Samsung record quarter story and the OpenAI compute campuses story, and neither reports news specific to Amazon.
 
-Bonds rallied while equities fell. The US 5-year yield dropped 8 basis points to 4.72 percent and the 10-year dropped 6 basis points to 4.93 percent, even as the tech sector fell 4.89 percent, a flight-to-quality pattern ahead of a week in which seven central banks decide (see today's Australia home prices story).
+Silver futures rose 3.88 percent to 51.00 dollars an ounce, and the mining complex bounced with the metals: gold miners rose 3.69 percent, silver miners rose 3.17 percent and copper miners rose 2.63 percent. The bounce reverses part of Friday's block liquidation, when mining shares fell about five percent across every complex even as metal futures settled higher (see today's miners selloff story). Today's gold story ties the metal bounce to dip buyers returning after Friday's fall to a one year low and to lower oil prices easing inflation concerns, with gold futures up 1.96 percent to 3,975.40 dollars, and the copper story points to tight physical supply, with United States copper up 1.81 percent to 6.58 dollars a pound and Chinese import premiums near 200 dollars a tonne (see today's gold rebound story and copper story).
 
-The cross-market read is risk-off in the crowded trades and relief in the war trade at the same time. Liquidation hit semiconductors and every mining complex together on Friday, dip buyers lifted gold and silver off a one-year low on Monday, tanker freight still rose 2.05 percent on the day and 8.06 percent on the week because Hormuz transit remains impaired, and natural gas rose 1.38 percent to 2.94 dollars against a record speculative short. Whether the equity liquidation is finished is the open question the tables cannot answer; Tuesday's midterms and the RBA decision are the first scheduled tests.
+The cross-market read is de-escalation relief, not a clean risk-on turn. Oil, tanker freight and bond yields fell together, with the US 10-year yield down 4.5 basis points to 4.88 percent and the 30-year down 5.8 basis points to 5.25 percent, and the dollar index eased 0.23 percent to 101.65. Broad equities recovered modestly, with the S&P 500 up 0.42 percent and the Dow Jones up 1.01 percent, helped at midday by an ISM manufacturing reading of 55.5 for October, above the consensus forecast (see today's ISM manufacturing story). But semiconductors fell another 1.01 percent and the Nikkei 225 fell 2.12 percent, so Friday's crowded trades have not repaired. What is pricing is a smaller war premium and dip buying in the trades liquidated on Friday; whether it holds depends on a named US response to the draft proposal and on Tuesday's midterm results.

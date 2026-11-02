@@ -1,7 +1,7 @@
 ---
 title: "Copper climbs as tight supply outweighs growth fears"
 date: 2026-11-02T07:13:34-05:00
-last_updated: 2026-11-02T07:13:34-05:00
+last_updated: 2026-11-02T12:33:46-05:00
 beats: ["commodities"]
 regions: ["global", "asia-pacific", "europe"]
 status: "story"
@@ -30,7 +30,7 @@ tags: []
 data_as_of: "Monday November 2, 2026 LME trade per Reuters; Friday October 30, 2026 closes per Shanghai Metals Market and site market tables."
 ---
 
-London copper rebounded from its lowest close in a week on Monday. Benchmark three month copper on the London Metal Exchange was up 0.7 percent at 14,251 dollars a tonne in Reuters reporting, and the site market tables put United States copper at 6.52 dollars a pound, up 1.02 percent. Bloomberg tied the recovery to a subsiding technology stock rout and to lower oil prices, which eased fears about global growth.
+London copper rebounded from its lowest close in a week on Monday. Benchmark three month copper on the London Metal Exchange was up 0.7 percent at 14,251 dollars a tonne in Reuters reporting, and the site market tables put United States copper at 6.58 dollars a pound, up 1.81 percent. Bloomberg tied the recovery to a subsiding technology stock rout and to lower oil prices, which eased fears about global growth.
 
 The physical market is tighter than the futures tape suggests. Reuters reported that the Yangshan premium, the extra amount Chinese importers pay over LME prices for delivered metal, is around 200 dollars a tonne, near its highest in over a decade, and that inventories tracked by the Shanghai Futures Exchange are down more than 75 percent in six months. Copper has also been flowing into United States warehouses ahead of a possible tariff on refined copper imports, leaving other regions short of deliverable stock.
 

@@ -1,13 +1,13 @@
 ---
 title: "Iran and Qatar hold third day of talks on Hormuz proposal"
 date: 2026-11-02T07:07:54-05:00
-last_updated: 2026-11-02T10:12:59-05:00
+last_updated: 2026-11-02T12:33:46-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "Iranian negotiators left Qatar on Sunday and a draft proposal to end the US-Israeli war on Iran is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters, while Brent crude fell 4.25 percent to 108.61 dollars a barrel."
-why_it_matters: "Circulation of a draft text is the first concrete step past talking positions in the Doha mediation, and oil traders marked it immediately, taking Brent down more than 4 percent and WTI below 100 dollars, but Tehran says no agreement can start until the US naval blockade ends, and Washington has not responded publicly."
+lede: "Iranian negotiators left Qatar on Sunday and a draft proposal to end the US-Israeli war on Iran is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters, while Brent crude fell 7.6 percent to 104.85 dollars a barrel."
+why_it_matters: "Circulation of a draft text is the first concrete step past talking positions in the Doha mediation, and oil traders marked it immediately, taking Brent down more than 7 percent and WTI below 100 dollars, but Tehran says no agreement can start until the US naval blockade ends, and Washington has not responded publicly."
 featured: true
 evidence_grade: "B"
 sources:
@@ -31,7 +31,7 @@ tags: []
 data_as_of: "Latest update November 2, 2026: Reuters reporting via OilPrice.com, read in full in this run, on the draft proposal's circulation, the negotiators' departure from Qatar, Foreign Ministry spokesman Esmaeil Baghaei's stated conditions and Monday's oil prices. Earlier: talks through Sunday, November 1, 2026, reported November 1 and 2, 2026 by Reuters-based reporting and The Guardian. Araghchi's, Baghaei's and Khamenei's statements are Iranian official claims and Trump's and Rubio's are US official claims; each side's characterisation of the other's intentions is that party's narrative until independently corroborated. No signed text or official US response had been published as of this run. Developing item."
 ---
 
-**Latest, November 2:** Iranian negotiators left Qatar on Sunday and a draft proposal on a potential end to the war is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters on Monday, without describing what the draft contains. Foreign Ministry spokesman Esmaeil Baghaei said Iran's demands had been articulated clearly and that no final agreement can be initiated, and the Strait of Hormuz cannot be reopened or secured, unless the US naval blockade is ended and Iran's demands are respected. Oil extended its Asian losses into early US trade: Brent fell 4.25 percent to 108.61 dollars a barrel and WTI fell 4.32 percent to 99.62 dollars. ING analysts Warren Patterson and Ewa Manthey said it remains to be seen whether the talks will lead to anything, and noted that many key developments in this conflict have unfolded over weekends.
+**Latest, November 2:** Iranian negotiators left Qatar on Sunday and a draft proposal on a potential end to the war is now being circulated for a potential follow-up meeting, an official briefed on the talks told Reuters on Monday, without describing what the draft contains. Foreign Ministry spokesman Esmaeil Baghaei said Iran's demands had been articulated clearly and that no final agreement can be initiated, and the Strait of Hormuz cannot be reopened or secured, unless the US naval blockade is ended and Iran's demands are respected. Oil extended its Asian losses into early US trade: Brent fell 7.6 percent to 104.85 dollars a barrel and WTI fell 7.25 percent to 96.57 dollars. ING analysts Warren Patterson and Ewa Manthey said it remains to be seen whether the talks will lead to anything, and noted that many key developments in this conflict have unfolded over weekends.
 
 Iranian negotiators were in Doha on Sunday for a third consecutive day of talks with Qatari mediators aimed at a deal to end the US-Israeli war on Iran, an official briefed on the discussions said. The Qatari mediators had spent more than 12 hours in Tehran on Friday before the talks moved to Doha on Saturday, in regular contact with Washington throughout.
 
