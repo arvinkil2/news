@@ -1,6 +1,6 @@
 ---
 title: "Henry Hub natural gas positioning"
-date: "2026-11-01"
+date: "2026-11-02"
 lede: "Managed Money net -5,576 contracts at CFTC (United States), positions as of 20 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
