@@ -2,12 +2,12 @@
 title: "Poland"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed hourly."
-data_as_of: "Nov 2, 2:04 PM ET"
+data_as_of: "Nov 2, 3:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 2:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 3:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$42.8700 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-1.23%</span></td><td class="num"><span class="down">-1.66%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.3 4.6,19.0 9.1,8.3 13.7,18.1 18.3,19.8 22.9,15.7 27.4,14.6 32.0,8.5 36.6,13.6 41.1,8.8 45.7,7.6 50.3,12.8 54.9,11.4 59.4,2.0 64.0,12.4 68.6,19.2 73.1,18.2 77.7,12.2 82.3,11.3 86.9,5.9 91.4,20.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$42.8200 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-1.35%</span></td><td class="num"><span class="down">-1.78%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.8 4.6,18.7 9.1,8.2 13.7,17.7 18.3,19.4 22.9,15.4 27.4,14.3 32.0,8.4 36.6,13.4 41.1,8.7 45.7,7.5 50.3,12.5 54.9,11.2 59.4,2.0 64.0,12.2 68.6,18.8 73.1,17.8 77.7,12.0 82.3,11.1 86.9,5.8 91.4,19.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/PLN</td><td class="num">3.9439 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.54%</span></td><td class="num"><span class="down">-0.58%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.1 4.6,21.0 9.1,16.7 13.7,23.6 18.3,15.9 22.9,17.6 27.4,15.3 32.0,9.6 36.6,17.8 41.1,16.9 45.7,20.0 50.3,20.5 54.9,20.0 59.4,21.7 64.0,26.0 68.6,18.9 73.1,11.7 77.7,6.2 82.3,2.0 86.9,4.6 91.4,11.1 96.0,4.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>

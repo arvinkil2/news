@@ -2,13 +2,13 @@
 title: "United States"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Nov 2, 2:04 PM ET"
+data_as_of: "Nov 2, 3:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 2:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 3:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,589 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.12%</span></td><td class="num"><span class="down">-1.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.7 4.6,6.5 9.1,2.0 13.7,3.7 18.3,7.4 22.9,2.7 27.4,3.2 32.0,3.4 36.6,12.0 41.1,9.5 45.7,18.0 50.3,14.9 54.9,12.7 59.4,8.2 64.0,17.6 68.6,21.6 73.1,16.3 77.7,11.7 82.3,9.5 86.9,11.9 91.4,26.0 96.0,25.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$756.62 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.12%</span></td><td class="num"><span class="down">-1.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.7 4.6,6.4 9.1,2.0 13.7,3.9 18.3,7.3 22.9,2.5 27.4,3.0 32.0,3.1 36.6,11.7 41.1,9.5 45.7,18.3 50.3,14.9 54.9,12.3 59.4,8.2 64.0,17.5 68.6,21.6 73.1,16.1 77.7,11.7 82.3,9.0 86.9,12.0 91.4,26.0 96.0,25.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P 500 (index)</td><td class="num">7,576 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.05%</span></td><td class="num"><span class="down">-1.31%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.5 4.6,6.5 9.1,2.0 13.7,3.7 18.3,7.3 22.9,2.7 27.4,3.2 32.0,3.3 36.6,11.9 41.1,9.4 45.7,17.8 50.3,14.7 54.9,12.5 59.4,8.1 64.0,17.4 68.6,21.3 73.1,16.1 77.7,11.5 82.3,9.4 86.9,11.8 91.4,25.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$755.26 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.06%</span></td><td class="num"><span class="down">-1.32%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.5 4.6,6.3 9.1,2.0 13.7,3.9 18.3,7.2 22.9,2.5 27.4,3.0 32.0,3.1 36.6,11.6 41.1,9.4 45.7,18.0 50.3,14.7 54.9,12.1 59.4,8.0 64.0,17.2 68.6,21.3 73.1,15.8 77.7,11.5 82.3,8.8 86.9,11.8 91.4,25.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>

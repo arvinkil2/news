@@ -2,14 +2,14 @@
 title: "Sweden"
 date: "2026-11-02"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed hourly."
-data_as_of: "Nov 2, 2:04 PM ET"
+data_as_of: "Nov 2, 3:04 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 2:04 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 3:04 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>OMX Stockholm 30 (index)</td><td class="num">3,287 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.48%</span></td><td class="num"><span class="up">+1.91%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.5 4.6,9.0 9.1,4.5 13.7,14.5 18.3,18.9 22.9,8.9 27.4,6.8 32.0,5.6 36.6,5.7 41.1,9.3 45.7,2.0 50.3,7.2 54.9,12.4 59.4,11.4 64.0,26.0 68.6,23.7 73.1,14.8 77.7,9.2 82.3,7.3 86.9,4.9 91.4,6.6 96.0,3.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$52.77 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+1.17%</span></td><td class="num"><span class="up">+4.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.5 4.6,25.4 9.1,22.9 13.7,26.0 18.3,24.9 22.9,19.8 27.4,21.8 32.0,15.9 36.6,20.5 41.1,16.2 45.7,15.5 50.3,18.4 54.9,16.6 59.4,16.9 64.0,23.1 68.6,22.5 73.1,21.0 77.7,15.3 82.3,13.8 86.9,8.4 91.4,7.3 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SEK</td><td class="num">9.7773 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.68%</span></td><td class="num"><span class="up">+1.47%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.7 9.1,2.6 13.7,6.1 18.3,6.1 22.9,9.3 27.4,6.1 32.0,2.5 36.6,9.3 41.1,7.3 45.7,10.3 50.3,13.8 54.9,13.1 59.4,14.1 64.0,15.9 68.6,14.4 73.1,12.8 77.7,10.1 82.3,10.2 86.9,14.7 91.4,20.0 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$52.64 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.92%</span></td><td class="num"><span class="up">+4.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.5 4.6,25.4 9.1,22.7 13.7,26.0 18.3,24.8 22.9,19.5 27.4,21.6 32.0,15.4 36.6,20.2 41.1,15.8 45.7,15.0 50.3,18.0 54.9,16.1 59.4,16.5 64.0,22.9 68.6,22.4 73.1,20.7 77.7,14.8 82.3,13.2 86.9,7.5 91.4,6.3 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SEK</td><td class="num">9.7756 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.70%</span></td><td class="num"><span class="up">+1.49%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.7 9.1,2.5 13.7,6.1 18.3,6.1 22.9,9.2 27.4,6.1 32.0,2.5 36.6,9.2 41.1,7.2 45.7,10.2 50.3,13.7 54.9,13.1 59.4,14.0 64.0,15.8 68.6,14.3 73.1,12.7 77.7,10.0 82.3,10.1 86.9,14.6 91.4,19.8 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
