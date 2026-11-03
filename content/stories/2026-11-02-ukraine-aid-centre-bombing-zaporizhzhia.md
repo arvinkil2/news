@@ -1,13 +1,13 @@
 ---
-title: "Russian bombs kill 26 at Ukraine aid centre, Kyiv says"
+title: "Russian bombs kill 29 at Ukraine aid centre, Kyiv says"
 date: 2026-11-02T13:45:16-05:00
-last_updated: 2026-11-02T20:46:06-05:00
+last_updated: 2026-11-03T08:12:41-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "Russian bombs hit an aid distribution centre in the village of Komyshuvakha in Ukraine's southern Zaporizhzhia region on Monday, killing at least 26 people, according to Ukrainian officials, hours after a six day local ceasefire in neighbouring Kherson expired."
-why_it_matters: "About 20 people are still missing under the rubble, the dead include two rescuers and four police officers, and the attack landed on the day the longest truce of the war, a six day humanitarian pause around Oleshky, came to an end."
+lede: "The death toll from Monday's Russian bombing of an aid distribution centre in Komyshuvakha, in Ukraine's southern Zaporizhzhia region, rose to 29 on Tuesday, with 48 people still missing, according to Ukrainian officials and a United Nations statement condemning the strikes."
+why_it_matters: "Nearly 50 people may still be under the rubble, the dead include two rescuers and four police officers killed in follow on strikes, and the United Nations humanitarian coordinator for Ukraine has condemned the attack on civilians gathered to receive aid."
 featured: false
 evidence_grade: "C"
 sources:
@@ -23,10 +23,20 @@ sources:
     publisher: "France 24"
     url: "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends"
     published: "2026-11-03"
+  - title: "A flagrant attack on 2 November killed civilians and first responders at a relief distribution site in Zaporizhzhia region"
+    publisher: "UN Office for the Coordination of Humanitarian Affairs, via ReliefWeb"
+    url: "https://reliefweb.int/report/ukraine/flagrant-attack-2-november-killed-civilians-and-first-responders-relief-distribution-site-zaporizhzhia-region-enruuk"
+    published: "2026-11-03"
+  - title: "Russia kills 29 in 'horrific attack' on aid distribution centre in Ukraine"
+    publisher: "Politico"
+    url: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlVkU3BtbW5UeFdCbzYtUmh4ZTF6RHRJbDRva3cyQmMtQy1JREJPQ2lvSFN6VlBpYzJ"
+    published: "2026-11-03"
 tags: []
-data_as_of: "Updated November 2, 2026 (evening): Associated Press report of November 2, 2026, read in full in this run, carrying Ukraine's emergency services agency toll of 26 dead and local officials' count of about 20 missing; France 24 headline of November 3, 2026 (site blocked to direct reading in this run; its account matches the AP copy). All casualty figures and the account of the strikes are Ukrainian officials' statements; the Russian military had not publicly commented on the strike and no independent verification of the toll was available in this run. Original BBC report of November 2, 2026. Developing item."
+data_as_of: "Updated November 3, 2026: statement by Matthias Schmale, the UN humanitarian coordinator for Ukraine, published by the UN Office for the Coordination of Humanitarian Affairs via ReliefWeb on November 3, 2026 and read in this run, reporting at least 29 civilians killed and nearly 50 missing; Associated Press copy of November 3, 2026 carrying regional head Mykhailo Semikin's revised toll of 29 dead and 48 missing. All casualty figures remain Ukrainian officials' statements as reported by OCHA and the AP; the Russian military had not publicly commented on the strike and no independent verification of the toll was available. Earlier updates: Associated Press report of November 2, 2026 (26 dead, about 20 missing); original BBC report of November 2, 2026. Developing item."
 update_bump: true
 ---
+
+**Latest, November 3:** The death toll rose to 29 on Tuesday as rescue teams kept clearing collapsed buildings in Komyshuvakha, regional head Mykhailo Semikin said, with 48 people still unaccounted for and at least five injured. Matthias Schmale, the United Nations humanitarian coordinator for Ukraine, condemned the strikes in a statement issued through the UN Office for the Coordination of Humanitarian Affairs, saying the first attack hit residents who had come to the local school to receive aid and that subsequent strikes at the same location killed two rescuers and four police staff who had responded. Zaporizhzhia region declared November 3 a day of mourning. The Russian military had still not publicly commented.
 
 **Latest, November 2:** Ukraine's emergency services agency put the death toll from Monday's bombing of Komyshuvakha at 26, up from the 24 reported earlier in the day, with about 20 people still considered missing in the rubble of collapsed buildings as responders searched by flashlight after dark, local officials said. President Volodymyr Zelensky said 10 guided bombs targeted an area that included the school building used to distribute humanitarian aid and a nearby shelter. Rescue work was again hindered by Russian drones attacking the bombed area, according to Mykhailo Semikin, a military official in Zaporizhzhia, and Ukrainian authorities reported separate drone attacks elsewhere that injured at least 17 people.
 
