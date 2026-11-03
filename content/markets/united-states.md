@@ -2,13 +2,13 @@
 title: "United States"
 date: "2026-11-03"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Nov 3, 9:05 AM ET"
+data_as_of: "Nov 3, 10:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 9:05 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 3, 10:03 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,541 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.51%</span></td><td class="num"><span class="down">-1.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.9 4.8,2.0 9.6,3.5 14.4,6.6 19.2,2.6 24.0,3.0 28.8,3.2 33.6,10.6 38.4,8.5 43.2,15.8 48.0,13.1 52.8,11.2 57.6,7.3 62.4,15.4 67.2,18.9 72.0,14.3 76.8,10.3 81.6,8.5 86.4,10.5 91.2,22.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$752.10 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.48%</span></td><td class="num"><span class="down">-1.73%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.8 4.8,2.0 9.6,3.7 14.4,6.6 19.2,2.5 24.0,2.9 28.8,3.0 33.6,10.4 38.4,8.5 43.2,16.1 48.0,13.2 52.8,10.9 57.6,7.3 62.4,15.5 67.2,19.0 72.0,14.2 76.8,10.4 81.6,8.0 86.4,10.7 91.2,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P 500 (index)</td><td class="num">7,563 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.29%</span></td><td class="num"><span class="down">-2.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.9 4.6,2.0 9.1,3.5 13.7,6.6 18.3,2.6 22.9,3.0 27.4,3.2 32.0,10.6 36.6,8.5 41.1,15.8 45.7,13.1 50.3,11.2 54.9,7.3 59.4,15.4 64.0,18.9 68.6,14.3 73.1,10.3 77.7,8.5 82.3,10.5 86.9,22.7 91.4,26.0 96.0,24.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$753.99 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.25%</span></td><td class="num"><span class="down">-2.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.8 4.6,2.0 9.1,3.7 13.7,6.6 18.3,2.5 22.9,2.9 27.4,3.0 32.0,10.4 36.6,8.5 41.1,16.1 45.7,13.2 50.3,10.9 54.9,7.3 59.4,15.5 64.0,19.0 68.6,14.2 73.1,10.4 77.7,8.0 82.3,10.7 86.9,22.8 91.4,26.0 96.0,24.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -22,8 +22,8 @@ data_as_of: "Nov 3, 9:05 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-us-midterms-polling-day-congress-control/">Americans vote in midterms deciding control of Congress</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-fresenius-wuxi-37-biosimilar-candidates/">Fresenius options 37 biosimilar candidates from WuXi Biologics</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-us-lng-exports-near-record-europe/">United States LNG exports near record as Europe buys for winter</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-trump-says-us-aid-israel-ends-year-end/">Trump says US military aid to Israel ends this year</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-cftc-equity-perpetual-futures-clearance/">CFTC clears equity perpetual futures for US regulated exchanges</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-lotus-kayelekera-first-uranium-shipment/">Lotus ships first uranium concentrate from Kayelekera</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-nebul-gb300-belgium-supercluster/">Nebul to deploy 1,000 Blackwell Ultra GPUs in Belgium</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-tesla-samsung-oppose-vietnam-tariffs/">Tesla and Samsung oppose new US tariffs on Vietnam</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-tripadvisor-completes-thefork-sale-american-express/">Tripadvisor completes 700 million dollar sale of TheFork to American Express</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

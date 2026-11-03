@@ -2,13 +2,13 @@
 title: "Indonesia"
 date: "2026-11-03"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Indonesia, refreshed hourly."
-data_as_of: "Nov 3, 9:05 AM ET"
+data_as_of: "Nov 3, 10:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 9:05 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 3, 10:03 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Jakarta Composite (index)</td><td class="num">4,904 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-3.78%</span></td><td class="num"><span class="down">-6.87%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.4 4.6,2.0 9.1,2.9 13.7,5.0 18.3,3.8 22.9,6.8 27.4,7.0 32.0,6.7 36.6,8.1 41.1,20.8 45.7,24.3 50.3,19.0 54.9,18.1 59.4,17.0 64.0,16.0 68.6,17.3 73.1,19.3 77.7,19.0 82.3,22.4 86.9,23.2 91.4,22.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.0300 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+0.70%</span></td><td class="num"><span class="down">-4.66%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.1 4.8,2.0 9.6,2.7 14.4,4.7 19.2,2.4 24.0,4.7 28.8,4.3 33.6,4.7 38.4,4.6 43.2,22.6 48.0,26.0 52.8,18.9 57.6,16.5 62.4,15.4 67.2,15.8 72.0,16.6 76.8,18.4 81.6,17.3 86.4,21.1 91.2,22.4 96.0,21.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$9.7200 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-3.09%</span></td><td class="num"><span class="down">-6.00%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.1 4.6,2.0 9.1,2.7 13.7,4.7 18.3,2.4 22.9,4.7 27.4,4.3 32.0,4.7 36.6,4.6 41.1,22.6 45.7,26.0 50.3,18.9 54.9,16.5 59.4,15.4 64.0,15.8 68.6,16.6 73.1,18.4 77.7,17.3 82.3,21.1 86.9,22.4 91.4,21.7 96.0,24.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/IDR</td><td class="num">18,148 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-0.19%</span></td><td class="num"><span class="down">-0.02%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.6,20.3 9.1,24.5 13.7,21.1 18.3,26.0 22.9,18.8 27.4,18.6 32.0,21.8 36.6,24.9 41.1,11.0 45.7,8.5 50.3,9.5 54.9,13.5 59.4,11.9 64.0,8.7 68.6,6.7 73.1,2.3 77.7,2.6 82.3,7.8 86.9,7.5 91.4,4.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
