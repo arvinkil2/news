@@ -1,12 +1,12 @@
 ---
 title: "Americans vote in midterms deciding control of Congress"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T07:04:29-05:00
+last_updated: 2026-11-03T18:44:34-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Americans are voting on Tuesday, November 3 in midterm elections for all 435 House seats, 35 Senate seats and 36 governorships, with Republicans defending a 53 to 47 Senate majority and a House majority at the 218 seat mark."
-why_it_matters: "Democrats need a net gain of three House seats and four Senate seats to control Congress for the final two years of President Trump's second term, and the result will be settled by a handful of Senate races in Texas, Ohio, Michigan, Alaska and Iowa."
+lede: "Polls have begun closing in the US midterms, and Decision Desk HQ projects Republican Ed Gallrein to win Kentucky's 4th District, held by Trump critic Thomas Massie, in the first projection of a night that decides control of Congress."
+why_it_matters: "Democrats need a net gain of three House seats and four Senate seats to control Congress for the final two years of President Trump's second term; Gallrein's projected win holds a Republican seat, and control will be settled by a handful of Senate races in Texas, Ohio, Michigan, Alaska and Iowa."
 featured: true
 evidence_grade: "B"
 sources:
@@ -26,9 +26,18 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
     published: "2026-11-03"
+  - title: "Trump-backed Kentucky Republican wins Massie House seat"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/"
+    published: "2026-11-03"
 tags: []
-data_as_of: "Election day, Tuesday November 3, 2026, as of the morning edition. Seat counts and early vote totals are the pre-election figures reported November 2 and 3; no results had been called. Final New York Times and Siena battleground polling was covered in the November 2 edition."
+update_bump: true
+data_as_of: "Updated November 3, 2026 at 18:44 Eastern. Poll closing times and seat counts are as reported in the morning edition; the Kentucky 4th District projection is Decision Desk HQ's, reported by The Hill at 6:20pm Eastern on November 3, 2026 and read in full in this run. Projections are not certified results."
 ---
+
+Latest
+
+Polls began closing at 6pm Eastern in Indiana and Kentucky, and the first projection of the night went to Republicans: Decision Desk HQ projects Ed Gallrein, a retired Navy SEAL and farmer endorsed by President Trump, to win Kentucky's 4th Congressional District, the seat held by Republican Thomas Massie. Gallrein led Democrat Melissa Strange by 59 percent to 30 percent on a small share of the vote reported, after defeating Massie for the Republican nomination in May by 54.9 percent to 45.1 percent. Massie had repeatedly clashed with the president, backing war powers resolutions on Iran and legislation to force release of the Epstein files. No Senate race had been projected in the reports scanned at the time of this update, and control of either chamber remains undecided.
 
 Voting is under way across the United States on Tuesday in midterm elections that will decide control of Congress for the final two years of President Donald Trump's second term. All 435 seats in the House of Representatives and 35 of the Senate's 100 seats are contested, and voters in 36 states are also choosing governors.
 
