@@ -1,7 +1,7 @@
 ---
 title: "Week ahead: November 2-8"
 date: 2026-11-01T18:00:00-05:00
-last_updated: 2026-11-01T18:00:00-05:00
+last_updated: 2026-11-03T14:58:43-05:00
 beats: ["rates"]
 regions: ["global", "north-america", "europe", "asia-pacific", "latin-america", "africa", "middle-east"]
 status: "story"
@@ -76,7 +76,7 @@ No scheduled catalysts on the calendar. Markets reopen carrying Friday's risk-of
 
 ## Friday, November 6
 
-No scheduled catalysts on the calendar. The week's largest US data release sits on the wider tape instead: the October jobs report, covered in the closing section below. What Friday trades on is the accumulated result of the week, the midterm outcome, seven rate decisions and the refunding, read through one labour print three weeks after a Federal Reserve hold that drew two dissents for a hike.
+No scheduled catalysts on the calendar. The week's largest US data release sits on the wider tape instead: the October jobs report, covered in the closing section below. What Friday trades on is the accumulated result of the week, the midterm outcome, seven rate decisions and the refunding, read through one labour print just over a week after the Federal Reserve's October 28 hold, which drew two dissents for a hike. The FOMC has no meeting this week; it last met on October 27 and 28 and next meets on December 8 and 9.
 
 ## Saturday, November 7
 
