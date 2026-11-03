@@ -1,12 +1,13 @@
 ---
 title: "US strikes Iran's Qeshm Island on midterm eve"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T07:04:29-05:00
+last_updated: 2026-11-03T08:53:34-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america"]
 status: "story"
-lede: "US officials confirmed limited strikes on Iran's Qeshm Island in the Strait of Hormuz late on Monday, described as defensive action after Iranian forces used surface to air missiles against US assets, hours after President Trump said new strikes were not under consideration."
-why_it_matters: "The strikes land while Iran and Qatar discuss a two day Hormuz reopening proposal in Doha and on the morning of the US midterms, and any widening would hit shipping through the strait and the oil price directly."
+update_bump: true
+lede: "Qatar said on Tuesday there was still hope for a US-Iran deal, with mediators exchanging proposals in real time, hours after US forces struck Iran's Qeshm Island in the Strait of Hormuz late on Monday."
+why_it_matters: "Diplomacy is still running in parallel with the strikes, so whether Qeshm stays a closed defensive episode now depends on the interim agreement Qatar is brokering and on Tehran's response, with Hormuz shipping and the oil price exposed either way."
 featured: false
 evidence_grade: "B"
 sources:
@@ -22,9 +23,15 @@ sources:
     publisher: "BusinessDay NG"
     url: "https://businessday.ng/world/article/us-hits-iran-island-amid-midterm-election-pressure-on-trump/"
     published: "2026-11-03"
+  - title: "Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time"
+    publisher: "Euronews"
+    url: "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-"
+    published: "2026-11-03"
 tags: []
-data_as_of: "Strikes late Monday November 2, 2026, reported November 3. US confirmation comes from officials speaking anonymously to the Wall Street Journal, AP, CNN and Reuters as carried across the cited reports; US Central Command had issued no statement and no damage or casualty figures have been released. Iranian drone claims are the IRGC's own account and are uncorroborated."
+data_as_of: "Strikes late Monday November 2, 2026, reported November 3; Qatar foreign ministry statement Tuesday November 3. US confirmation comes from officials speaking anonymously to the Wall Street Journal, AP, CNN and Reuters as carried across the cited reports; US Central Command had issued no statement and no damage or casualty figures have been released. Iranian drone claims are the IRGC's own account and are uncorroborated."
 ---
+
+**Latest:** Qatar said on Tuesday that there was still hope for a US-Iran deal despite the overnight strikes. Foreign ministry spokesperson Majed Al Ansari said mediators were exchanging proposals between Washington and Tehran in real time, and that a Qatari delegation had met Iranian officials for more than three hours on Monday before returning to Doha that night. "If there were no hope, there would be no negotiations," Al Ansari said. Qatar is working toward an interim agreement meant to build trust and open wider discussion, and Al Ansari called freedom of navigation in the strait "non-negotiable," condemning threats to shipping. Doha said it was coordinating with Pakistan and its Gulf neighbours to prevent further escalation.
 
 Explosions struck Iran's Qeshm Island late on Monday, and US officials confirmed that American forces carried out limited strikes on the island in the Strait of Hormuz. Iran's state news agency IRNA reported several blasts in quick succession, and the semi official Fars agency reported explosions from the direction of the sea near the port city of Bandar Lengeh.
 
