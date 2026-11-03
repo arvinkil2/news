@@ -1,12 +1,12 @@
 ---
 title: "US to host Ukraine Russia talks in Abu Dhabi"
 date: 2026-11-02T19:17:37-05:00
-last_updated: 2026-11-03T07:22:05-05:00
+last_updated: 2026-11-03T09:21:09-05:00
 beats: ["politics"]
 regions: ["north-america", "europe", "middle-east"]
 status: "developing"
 developing: true
-lede: "Ukrainian President Volodymyr Zelenskyy arrived in Berlin on Tuesday for talks with Chancellor Friedrich Merz on air defence and energy support, a week before US mediated talks with Russia in Abu Dhabi on November 10 and 11."
+lede: "Russia confirmed on Tuesday that US mediated talks with Ukraine will go ahead in Abu Dhabi on November 10 and 11, with Vladimir Medinsky as Moscow's chief negotiator, and First Lady Melania Trump will host Russian and Ukrainian representatives at the White House on Thursday over a local ceasefire in Kherson."
 why_it_matters: "The Berlin talks coordinate Ukraine and its European backers ahead of the Brussels discussions on security guarantees on November 5 and the Abu Dhabi round, the first US mediated trilateral meeting since February."
 featured: false
 evidence_grade: "B"
@@ -23,12 +23,18 @@ sources:
     publisher: "Deutsche Welle, with AFP and dpa"
     url: "https://www.dw.com/en/zelenskyy-arrives-in-berlin-for-talks-with-merz-on-air-defense-and-energy-support-ahead-of-us-led-negotiations-with-russia/a-79836026"
     published: "2026-11-03"
+  - title: "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html"
+    published: "2026-11-03"
 tags: []
-data_as_of: "Reuters report of November 2, 2026, via Arab News, read in full, reporting Witkoff's announcement and a senior US official; corroborated by AFP reporting via UOL, in Portuguese. Berlin update from Deutsche Welle reporting of November 3, 2026, with AFP and dpa, read in full in this run. Developing item."
+data_as_of: "Reuters report of November 2, 2026, via Arab News, read in full, reporting Witkoff's announcement and a senior US official; corroborated by AFP reporting via UOL, in Portuguese. Berlin update from Deutsche Welle reporting of November 3, 2026, with AFP and dpa, read in full in this run. Russian confirmation update from CNBC reporting of November 3, 2026, read in full in this run, quoting Kremlin spokesman Dmitry Peskov via Reuters and the White House. Developing item."
 update_bump: true
 ---
 
-**Latest, November 3:** Ukrainian President Volodymyr Zelenskyy arrived in Berlin on Tuesday for talks with German Chancellor Friedrich Merz, seeking more air defence missiles to intercept Russian ballistic strikes and support for Ukraine's energy sector ahead of winter, Deutsche Welle reported. Zelenskyy said the agenda covered diplomatic coordination ahead of the coming meetings, air defence, energy resilience and continued pressure on Russia through sanctions and the use of frozen Russian assets. Germany has already supplied several Patriot systems, and Zelenskyy told EU leaders in October that Ukraine would need an additional 70 billion euros (78 billion dollars) to get through 2027. The visit coincides with the opening of the two day Berlin Security Conference.
+**Latest, November 3:** Russia confirmed on Tuesday that the Abu Dhabi talks will go ahead on November 10 and 11, Kremlin spokesman Dmitry Peskov told reporters, with presidential aide Vladimir Medinsky as Moscow's chief negotiator. Peskov also said the Kremlin hopes to finalise plans in the coming days for a trilateral meeting between Presidents Vladimir Putin, Donald Trump and Xi Jinping; President Volodymyr Zelenskyy has insisted Kyiv must be at the table for any settlement talks. Separately, First Lady Melania Trump will bring Russian and Ukrainian representatives to the White House on Thursday to discuss a local ceasefire in Kherson, and will deliver remarks on the Oleshky ceasefire at 11 a.m. Eastern. The six day Oleshky ceasefire she brokered ended on Monday, and Ukraine has accused Russia of using the pause to reinforce its positions, a claim reported as Kyiv's and not independently verified.
+
+**Earlier, November 3:** Ukrainian President Volodymyr Zelenskyy arrived in Berlin on Tuesday for talks with German Chancellor Friedrich Merz, seeking more air defence missiles to intercept Russian ballistic strikes and support for Ukraine's energy sector ahead of winter, Deutsche Welle reported. Zelenskyy said the agenda covered diplomatic coordination ahead of the coming meetings, air defence, energy resilience and continued pressure on Russia through sanctions and the use of frozen Russian assets. Germany has already supplied several Patriot systems, and Zelenskyy told EU leaders in October that Ukraine would need an additional 70 billion euros (78 billion dollars) to get through 2027. The visit coincides with the opening of the two day Berlin Security Conference.
 
 US envoy Steve Witkoff said on Monday that the United States will bring together delegations from Ukraine and Russia in Abu Dhabi on November 10 and 11, and a senior US official told Reuters that Witkoff and Jared Kushner, the lead US negotiators, are expected to represent the United States. Witkoff said the discussions will cover post war security agreements, de escalation, humanitarian measures and ending the war, and that President Vladimir Putin agreed to the new round after meeting him in St. Petersburg two weeks ago.
 
