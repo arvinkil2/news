@@ -2,10 +2,10 @@
 title: "United Arab Emirates"
 date: "2026-11-03"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Arab Emirates, refreshed hourly."
-data_as_of: "Nov 2, 8:02 PM ET"
+data_as_of: "Nov 2, 9:02 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 2, 8:02 PM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 2, 9:02 PM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI UAE (UAE)</td><td class="num">$19.0000 <span class="gm-sub-inline">as of 2026-10-30, stale</span></td><td class="num"><span class="down">-1.20%</span></td><td class="num"><span class="down">-0.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 5.1,2.3 10.1,2.3 15.2,16.4 20.2,15.8 25.3,16.1 30.3,13.8 35.4,9.0 40.4,8.1 45.5,9.4 50.5,6.5 55.6,4.2 60.6,3.0 65.7,17.4 70.7,24.4 75.8,20.6 80.8,4.9 85.9,12.2 90.9,18.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/AED</td><td class="num">3.6726 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="down">-0.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,26.0 9.1,26.0 13.7,26.0 18.3,26.0 22.9,26.0 27.4,26.0 32.0,26.0 36.6,26.0 41.1,26.0 45.7,26.0 50.3,26.0 54.9,26.0 59.4,26.0 64.0,26.0 68.6,26.0 73.1,26.0 77.7,26.0 82.3,26.0 86.9,26.0 91.4,26.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
