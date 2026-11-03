@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-03"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed hourly."
-data_as_of: "Nov 3, 6:03 AM ET"
+data_as_of: "Nov 3, 7:16 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 6:03 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 3, 7:16 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,541 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.51%</span></td><td class="num"><span class="down">-1.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.9 4.8,2.0 9.6,3.5 14.4,6.6 19.2,2.6 24.0,3.0 28.8,3.2 33.6,10.6 38.4,8.5 43.2,15.8 48.0,13.1 52.8,11.2 57.6,7.3 62.4,15.4 67.2,18.9 72.0,14.3 76.8,10.3 81.6,8.5 86.4,10.5 91.2,22.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$752.10 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="down">-0.48%</span></td><td class="num"><span class="down">-1.73%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.8 4.8,2.0 9.6,3.7 14.4,6.6 19.2,2.5 24.0,2.9 28.8,3.0 33.6,10.4 38.4,8.5 43.2,16.1 48.0,13.2 52.8,10.9 57.6,7.3 62.4,15.5 67.2,19.0 72.0,14.2 76.8,10.4 81.6,8.0 86.4,10.7 91.2,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -18,12 +18,12 @@ data_as_of: "Nov 3, 6:03 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-us-strikes-qeshm-island-hormuz/">US strikes Iran&#x27;s Qeshm Island on midterm eve</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-us-midterms-polling-day-congress-control/">Americans vote in midterms deciding control of Congress</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-fresenius-wuxi-37-biosimilar-candidates/">Fresenius options 37 biosimilar candidates from WuXi Biologics</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-us-lng-exports-near-record-europe/">United States LNG exports near record as Europe buys for winter</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-lotus-kayelekera-first-uranium-shipment/">Lotus ships first uranium concentrate from Kayelekera</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-nebul-gb300-belgium-supercluster/">Nebul to deploy 1,000 Blackwell Ultra GPUs in Belgium</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-tesla-samsung-oppose-vietnam-tariffs/">Tesla and Samsung oppose new US tariffs on Vietnam</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-tripadvisor-completes-thefork-sale-american-express/">Tripadvisor completes 700 million dollar sale of TheFork to American Express</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-ism-manufacturing-pmi-rises-55-5-october/">US manufacturing PMI rises to 55.5 in October, beating forecasts</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-palantir-us-commercial-revenue-tops-government/">Palantir US commercial revenue tops government for first time</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-us-asks-mexico-review-labor-rights-madobox/">US asks Mexico to review labor rights at Madobox plant</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-us-myanmar-strategy-rare-earth-access/">US Myanmar strategy ties peace talks to rare earths</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

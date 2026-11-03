@@ -2,20 +2,20 @@
 title: "France"
 date: "2026-11-03"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed hourly."
-data_as_of: "Nov 3, 6:03 AM ET"
+data_as_of: "Nov 3, 7:16 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 6:03 AM ET - refreshed hourly</p>
+<p class="market-table-updated">Updated as of Nov 3, 7:16 AM ET - refreshed hourly</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>CAC 40 (index)</td><td class="num">8,032 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-0.20%</span></td><td class="num"><span class="up">+1.83%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.1 4.6,15.8 9.1,23.0 13.7,26.0 18.3,20.4 22.9,18.2 27.4,18.6 32.0,15.2 36.6,10.5 41.1,8.9 45.7,15.6 50.3,17.8 54.9,11.5 59.4,19.8 64.0,22.0 68.6,17.1 73.1,14.1 77.7,14.1 82.3,7.9 86.9,7.9 91.4,2.0 96.0,3.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>CAC 40 (index)</td><td class="num">8,017 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-0.38%</span></td><td class="num"><span class="up">+1.65%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.1 4.6,15.8 9.1,23.0 13.7,26.0 18.3,20.4 22.9,18.2 27.4,18.6 32.0,15.2 36.6,10.5 41.1,8.9 45.7,15.6 50.3,17.8 54.9,11.5 59.4,19.8 64.0,22.0 68.6,17.1 73.1,14.1 77.7,14.1 82.3,7.9 86.9,7.9 91.4,2.0 96.0,4.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI France (EWQ)</td><td class="num">$42.7400 <span class="gm-sub-inline">as of 2026-11-02</span></td><td class="num"><span class="up">+1.18%</span></td><td class="num"><span class="up">+2.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.2 4.8,16.9 9.6,24.4 14.4,24.7 19.2,21.5 24.0,26.0 28.8,19.8 33.6,22.2 38.4,9.7 43.2,11.9 48.0,20.6 52.8,15.4 57.6,12.1 62.4,17.2 67.2,23.9 72.0,21.7 76.8,18.0 81.6,16.2 86.4,7.6 91.2,10.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1184 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.25%</span></td><td class="num"><span class="up">+0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,9.3 9.1,2.2 13.7,12.4 18.3,10.1 22.9,11.6 27.4,20.2 32.0,11.8 36.6,13.5 41.1,10.1 45.7,7.8 50.3,9.5 54.9,7.4 59.4,5.8 64.0,8.5 68.6,9.1 73.1,17.6 77.7,26.0 82.3,21.0 86.9,15.8 91.4,20.8 96.0,15.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1182 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.22%</span></td><td class="num"><span class="up">+0.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,9.3 9.1,2.2 13.7,12.4 18.3,10.1 22.9,11.6 27.4,20.2 32.0,11.8 36.6,13.5 41.1,10.1 45.7,7.8 50.3,9.5 54.9,7.4 59.4,5.8 64.0,8.5 68.6,9.1 73.1,17.6 77.7,26.0 82.3,21.0 86.9,15.8 91.4,20.8 96.0,16.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>10Y benchmark yield</td><td class="num">4.91 <span class="unit">%</span></td><td class="num"><span class="down">-2.1</span> <span class="unit">bp</span></td><td class="num"><span class="down">-2.5</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.7 6.0,18.9 12.0,20.9 18.0,22.1 24.0,26.0 30.0,22.8 36.0,19.1 42.0,14.4 48.0,10.8 54.0,2.0 60.0,6.9 66.0,14.0 72.0,13.4 78.0,13.9 84.0,16.5 90.0,14.3 96.0,15.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>10Y benchmark yield</td><td class="num">4.93 <span class="unit">%</span></td><td class="num"><span class="up">+1.9</span> <span class="unit">bp</span></td><td class="num"><span class="down">-1.6</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.9 6.0,20.9 12.0,22.1 18.0,26.0 24.0,22.8 30.0,19.1 36.0,14.4 42.0,10.8 48.0,2.0 54.0,6.9 60.0,14.0 66.0,13.4 72.0,13.9 78.0,16.5 84.0,14.3 90.0,15.6 96.0,14.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
-<p class="gm-method">10Y benchmark yield as of 2026-11-02 (Banque de France), the publisher's latest daily observation.</p>
+<p class="gm-method">10Y benchmark yield as of 2026-11-03 (Banque de France), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-france-inflation-rises-3-4-percent-october/">France inflation rises to 3.4 percent in October</a></p>
