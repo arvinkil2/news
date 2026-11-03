@@ -1,8 +1,8 @@
 ---
 title: "DEFEASED Texas Children's Hospital (BMO 2022-C1 Mortgage Trust)"
-date: "2026-10-21"
+date: "2026-11-03"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BMO 2022-C1 Mortgage Trust."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2022-c1-mortgage-trust/">&larr; BMO 2022-C1 Mortgage Trust</a> / <a href="/cmbs/deal-loans/bmo-2022-c1-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
