@@ -1,8 +1,8 @@
 ---
 title: "UBS Commercial Mortgage Trust 2019-C16: rating history"
-date: "2026-10-21"
+date: "2026-11-03"
 lede: "Rating actions, action dates and public knowledge dates for UBS Commercial Mortgage Trust 2019-C16."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/ubs-commercial-mortgage-trust-2019-c16/">&larr; UBS Commercial Mortgage Trust 2019-C16</a> / <a href="/cmbs/">CMBS market</a></p>
