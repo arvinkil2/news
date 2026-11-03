@@ -1,8 +1,8 @@
 ---
 title: "BMO 2023-5C1 Mortgage Trust (segment D01, CIK 1984246): rating history"
-date: "2026-10-21"
+date: "2026-11-03"
 lede: "Rating actions, action dates and public knowledge dates for BMO 2023-5C1 Mortgage Trust."
-data_as_of: "loan data through August 2023; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2023-5c1-mortgage-trust-d01/">&larr; BMO 2023-5C1 Mortgage Trust (segment D01, CIK 1984246)</a> / <a href="/cmbs/">CMBS market</a></p>
