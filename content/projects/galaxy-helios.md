@@ -1,6 +1,6 @@
 ---
 title: "Galaxy Helios"
-date: "2026-11-02"
+date: "2026-11-03"
 lede: ""
 data_as_of: "2026-10-27"
 ---
