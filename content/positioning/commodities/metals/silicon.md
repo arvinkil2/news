@@ -1,6 +1,6 @@
 ---
 title: "Industrial silicon positioning"
-date: "2026-11-02"
+date: "2026-11-03"
 lede: "Industrial silicon trades only at Guangzhou."
 data_as_of: "Position dates per venue, printed on the page"
 ---

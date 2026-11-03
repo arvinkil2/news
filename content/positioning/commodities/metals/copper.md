@@ -1,6 +1,6 @@
 ---
 title: "Copper positioning"
-date: "2026-11-02"
+date: "2026-11-03"
 lede: "Managed Money net +47,690 contracts at CFTC (United States), positions as of 20 Oct 2026."
 data_as_of: "Position dates per venue, printed on the page"
 ---
@@ -613,8 +613,8 @@ data_as_of: "Position dates per venue, printed on the page"
 <p class="gm-method">Not yet held: the SHFE harvest is in progress and no tidy dataset has landed. This block fills automatically when the dataset is built.</p>
 <h2>Price, as held by the site</h2>
 <table class="market-table"><tbody>
-<tr><td>Latest price</td><td>6.49 $/lb</td></tr>
-<tr><td>Observations held</td><td>23</td></tr>
+<tr><td>Latest price</td><td>6.48 $/lb</td></tr>
+<tr><td>Observations held</td><td>22</td></tr>
 <tr><td>Price window</td><td>The site's market tables hold about one month of daily observations; no longer price history is held for this commodity.</td></tr>
 <tr><td>Position and publication dates</td><td>Position dates print per venue above; this price is the latest market-table value and is not aligned to any position date.</td></tr>
 </tbody></table>

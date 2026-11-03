@@ -1,6 +1,6 @@
 ---
 title: "Commodities, Other"
-date: "2026-11-02"
+date: "2026-11-03"
 lede: "The other complexes in the positioning section, grouped, with the holder data held for each."
 data_as_of: "Position dates per commodity page"
 ---
