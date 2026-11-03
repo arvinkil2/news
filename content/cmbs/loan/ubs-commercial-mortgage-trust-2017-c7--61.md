@@ -1,8 +1,8 @@
 ---
 title: "RED ROOF INN - ROUND ROCK (UBS Commercial Mortgage Trust 2017-C7)"
-date: "2026-10-21"
+date: "2026-11-03"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in UBS Commercial Mortgage Trust 2017-C7."
-data_as_of: "loan data through September 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/ubs-commercial-mortgage-trust-2017-c7/">&larr; UBS Commercial Mortgage Trust 2017-C7</a> / <a href="/cmbs/deal-loans/ubs-commercial-mortgage-trust-2017-c7/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
