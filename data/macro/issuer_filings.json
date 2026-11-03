@@ -1,1 +1,123 @@
-{"issuers":{"alphabet":[{"accession":"0001193125-26-442515","date":"2026-11-02","detail":"Alphabet launched a euro-denominated senior unsecured notes offering in seven series, one floating rate series priced off three-month EURIBOR and six fixed rate series, in minimum denominations of 100,000 euro. The preliminary supplement leaves aggregate principal, coupons and maturities blank; net proceeds are stated for general corporate purposes, which may include repayment of outstanding debt. Joint book-running managers are Barclays, BNP Paribas and Deutsche Bank.","form":"424B5","grade":"A","title":"Preliminary prospectus supplement for euro senior notes offering","url":"https://www.sec.gov/Archives/edgar/data/1652044/000119312526442515/0001193125-26-442515-index.htm"},{"accession":"0001652044-26-000084","date":"2026-10-29","detail":"Leases not yet commenced carry future payments of $130.5B, primarily data centers and energy infrastructure. Future funding and support commitments to unconsolidated variable interest entities rose to $31.9B, including $10.0B of data center and energy backstops behind Crux AI, the joint venture with Blackstone formed in May 2026. Long-term debt of $125,102M after $80.8B of note issuance in 2026.","form":"10-Q","grade":"A","title":"Quarterly report, quarter ended September 30, 2026","url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm"}],"amazon":[{"accession":"0001018724-26-000040","date":"2026-10-30","detail":"Long-term debt of $173,125M at September 30, 2026 against $65,648M at December 31, 2025, after the year's note issuance. Leases not yet commenced total $164,922M of future payments; unconditional purchase obligations total $94,759M and property and equipment commitments $159,640M. Long-term lease liabilities were $98,824M.","form":"10-Q","grade":"A","title":"Third quarter 2026 10-Q: long-term debt $173,125M","url":"https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm"}],"meta":[{"accession":"0001193125-26-438017","date":"2026-10-29","detail":"The offering of 250,000,000 Series A depositary shares (each a 1/20th interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share) closed on October 29, 2026 under the October 26, 2026 underwriting agreement with Morgan Stanley and Goldman Sachs; certificates of designations were filed in Delaware on October 28, 2026 and a deposit agreement was signed with Computershare as depositary. The same 8-K records the forward sale agreements for 40,000,000 Class A shares with Morgan Stanley Capital Services and Goldman Sachs as forward purchasers. Together these are the closing filings for the $37.5B package priced on October 27, 2026.","form":"8-K","grade":"A","title":"Depositary shares offering closes; forward sale agreements recorded","url":"https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/0001193125-26-438017-index.htm"},{"accession":"0001193125-26-436410","date":"2026-10-28","detail":"40,000,000 Class A shares under forward sale agreements with Morgan Stanley Capital Services LLC and Goldman Sachs & Co. LLC as forward purchasers. Meta receives no proceeds at sale and expects physical settlement at its discretion on or before November 19, 2027.","form":"424B5","grade":"A","title":"Final terms, forward share sale, part of the $37.5B priced equity package","url":"https://www.sec.gov/Archives/edgar/data/1326801/000119312526436410/0001193125-26-436410-index.htm"},{"accession":"0001193125-26-436405","date":"2026-10-28","detail":"250,000,000 Series A Depositary Shares at $50.00, each a one twentieth interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share.","form":"424B5","grade":"A","title":"Final terms, mandatory convertible preferred depositary shares, part of the $37.5B priced equity package","url":"https://www.sec.gov/Archives/edgar/data/1326801/000119312526436405/0001193125-26-436405-index.htm"}],"microsoft":[{"accession":"0001193125-26-439794","date":"2026-10-30","detail":"Ten series priced on October 29, 2026 for settlement on November 4, 2026: floating rate notes due 2028 and 2029 of $1.0B each at Compounded SOFR plus 35 and 53 basis points, and $23.0B of fixed rate notes with coupons from 4.850% due 2028 to 6.350% due 2066. It is Microsoft's first US investment grade bond offering since 2017, sold for general corporate purposes. The preliminary prospectus supplement is accession 0001193125-26-437008.","form":"FWP","grade":"A","title":"Pricing term sheet: $25.0B of senior notes in ten series","url":"https://www.sec.gov/Archives/edgar/data/789019/000119312526439794/0001193125-26-439794-index.htm"},{"accession":"0001193125-26-437008","date":"2026-10-29","detail":"Preliminary terms for a new multi-tranche senior notes offering. Final pricing terms had not been published when the filing was recorded.","form":"424B2","grade":"A","title":"Preliminary prospectus supplement, multi-tranche notes offering","url":"https://www.sec.gov/Archives/edgar/data/789019/000119312526437008/0001193125-26-437008-index.htm"},{"accession":"0001193125-26-436133","date":"2026-10-28","detail":"Additional leases that had not yet commenced total $364.6B, primarily for datacenters, commencing fiscal 2027 to fiscal 2034 with terms of 1 to 20 years. Total debt of $35,481M. Recorded lease liabilities of $27,477M operating and $70,973M finance.","form":"10-Q","grade":"A","title":"Quarterly report, quarter ended September 30, 2026","url":"https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/0001193125-26-436133-index.htm"}]},"note":"Material SEC filings per issuer, maintained by the daily filings pull (KR-WP-2026-27 source registry). Rendered as the Filings and developments section on each issuer page in the Leverage section. Entries newest first. Only filings with financing, lease, commitment or capital-structure content are entered; routine results releases and insider forms are not."}
+{
+ "issuers": {
+  "alphabet": [
+   {
+    "accession": "0001193125-26-443857",
+    "date": "2026-11-02",
+    "form": "FWP",
+    "grade": "A",
+    "title": "Pricing term sheet: 6,000M euro of senior notes in seven series priced",
+    "detail": "The euro offering launched the same day priced at 6,000M euro in seven series, settling November 5, 2026: a 750M euro floating rate series due 2028 at three-month EURIBOR plus 0.50 percent, and fixed rate series of 750M euro at 3.700 percent due 2028, 1,250M euro at 4.050 percent due 2030, 750M euro at 4.250 percent due 2032, 750M euro at 4.500 percent due 2035, 750M euro at 4.875 percent due 2039 and 1,000M euro at 5.250 percent due 2045. Ratings Aa2 from Moody's and AA+ from S&P. The preliminary supplement is accession 0001193125-26-442515.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526443857/0001193125-26-443857-index.htm"
+   },
+   {
+    "accession": "0001193125-26-442515",
+    "date": "2026-11-02",
+    "detail": "Alphabet launched a euro-denominated senior unsecured notes offering in seven series, one floating rate series priced off three-month EURIBOR and six fixed rate series, in minimum denominations of 100,000 euro. The preliminary supplement leaves aggregate principal, coupons and maturities blank; net proceeds are stated for general corporate purposes, which may include repayment of outstanding debt. Joint book-running managers are Barclays, BNP Paribas and Deutsche Bank.",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Preliminary prospectus supplement for euro senior notes offering",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526442515/0001193125-26-442515-index.htm"
+   },
+   {
+    "accession": "0001652044-26-000084",
+    "date": "2026-10-29",
+    "detail": "Leases not yet commenced carry future payments of $130.5B, primarily data centers and energy infrastructure. Future funding and support commitments to unconsolidated variable interest entities rose to $31.9B, including $10.0B of data center and energy backstops behind Crux AI, the joint venture with Blackstone formed in May 2026. Long-term debt of $125,102M after $80.8B of note issuance in 2026.",
+    "form": "10-Q",
+    "grade": "A",
+    "title": "Quarterly report, quarter ended September 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm"
+   }
+  ],
+  "amazon": [
+   {
+    "accession": "0001018724-26-000040",
+    "date": "2026-10-30",
+    "detail": "Long-term debt of $173,125M at September 30, 2026 against $65,648M at December 31, 2025, after the year's note issuance. Leases not yet commenced total $164,922M of future payments; unconditional purchase obligations total $94,759M and property and equipment commitments $159,640M. Long-term lease liabilities were $98,824M.",
+    "form": "10-Q",
+    "grade": "A",
+    "title": "Third quarter 2026 10-Q: long-term debt $173,125M",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm"
+   }
+  ],
+  "meta": [
+   {
+    "accession": "0001193125-26-438017",
+    "date": "2026-10-29",
+    "detail": "The offering of 250,000,000 Series A depositary shares (each a 1/20th interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share) closed on October 29, 2026 under the October 26, 2026 underwriting agreement with Morgan Stanley and Goldman Sachs; certificates of designations were filed in Delaware on October 28, 2026 and a deposit agreement was signed with Computershare as depositary. The same 8-K records the forward sale agreements for 40,000,000 Class A shares with Morgan Stanley Capital Services and Goldman Sachs as forward purchasers. Together these are the closing filings for the $37.5B package priced on October 27, 2026.",
+    "form": "8-K",
+    "grade": "A",
+    "title": "Depositary shares offering closes; forward sale agreements recorded",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/0001193125-26-438017-index.htm"
+   },
+   {
+    "accession": "0001193125-26-436410",
+    "date": "2026-10-28",
+    "detail": "40,000,000 Class A shares under forward sale agreements with Morgan Stanley Capital Services LLC and Goldman Sachs & Co. LLC as forward purchasers. Meta receives no proceeds at sale and expects physical settlement at its discretion on or before November 19, 2027.",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Final terms, forward share sale, part of the $37.5B priced equity package",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526436410/0001193125-26-436410-index.htm"
+   },
+   {
+    "accession": "0001193125-26-436405",
+    "date": "2026-10-28",
+    "detail": "250,000,000 Series A Depositary Shares at $50.00, each a one twentieth interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share.",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Final terms, mandatory convertible preferred depositary shares, part of the $37.5B priced equity package",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526436405/0001193125-26-436405-index.htm"
+   }
+  ],
+  "microsoft": [
+   {
+    "accession": "0001193125-26-439794",
+    "date": "2026-10-30",
+    "detail": "Ten series priced on October 29, 2026 for settlement on November 4, 2026: floating rate notes due 2028 and 2029 of $1.0B each at Compounded SOFR plus 35 and 53 basis points, and $23.0B of fixed rate notes with coupons from 4.850% due 2028 to 6.350% due 2066. It is Microsoft's first US investment grade bond offering since 2017, sold for general corporate purposes. The preliminary prospectus supplement is accession 0001193125-26-437008.",
+    "form": "FWP",
+    "grade": "A",
+    "title": "Pricing term sheet: $25.0B of senior notes in ten series",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526439794/0001193125-26-439794-index.htm"
+   },
+   {
+    "accession": "0001193125-26-437008",
+    "date": "2026-10-29",
+    "detail": "Preliminary terms for a new multi-tranche senior notes offering. Final pricing terms had not been published when the filing was recorded.",
+    "form": "424B2",
+    "grade": "A",
+    "title": "Preliminary prospectus supplement, multi-tranche notes offering",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526437008/0001193125-26-437008-index.htm"
+   },
+   {
+    "accession": "0001193125-26-436133",
+    "date": "2026-10-28",
+    "detail": "Additional leases that had not yet commenced total $364.6B, primarily for datacenters, commencing fiscal 2027 to fiscal 2034 with terms of 1 to 20 years. Total debt of $35,481M. Recorded lease liabilities of $27,477M operating and $70,973M finance.",
+    "form": "10-Q",
+    "grade": "A",
+    "title": "Quarterly report, quarter ended September 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/0001193125-26-436133-index.htm"
+   }
+  ],
+  "oracle": [
+   {
+    "accession": "0001193125-26-442729",
+    "date": "2026-11-02",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Preliminary prospectus supplement: $10,000M common stock offering",
+    "detail": "Oracle is offering $10,000M of common stock concurrently with a $10,000M senior notes offering under a separate supplement (accession 0001193125-26-442722). Neither closing is conditioned on the other. Proceeds are stated for general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions and dividends or buybacks. The last reported sale price before the offering was $130.67 on October 30, 2026. Share count and price per share are blank in the preliminary supplement.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526442729/0001193125-26-442729-index.htm"
+   },
+   {
+    "accession": "0001193125-26-443918",
+    "date": "2026-11-02",
+    "form": "FWP",
+    "grade": "A",
+    "title": "Pricing term sheet: $10,000M of senior notes in five series priced",
+    "detail": "Oracle priced $10,000M of senior notes for settlement on November 4, 2026: $2,000M of 7.000 percent notes due 2029 (CUSIP 68389XEJ0), $1,750M of 7.450 percent notes due 2031 (68389XED3), $2,250M of 7.850 percent notes due 2033 (68389XEE1), $2,500M of 8.000 percent notes due 2037 (68389XEF8) and $1,500M of 8.650 percent notes due 2046 (68389XEG6). Expected ratings are Baa2 (negative) from Moody's, BBB- from S&P and BBB from Fitch. The notes are one half of a concurrent $20,000M capital raise with a $10,000M common stock offering; proceeds of both offerings are stated for general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions and dividends or buybacks. The preliminary notes supplement is accession 0001193125-26-442722.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526443918/0001193125-26-443918-index.htm"
+   }
+  ]
+ },
+ "note": "Material SEC filings per issuer, maintained by the daily filings pull (KR-WP-2026-27 source registry). Rendered as the Filings and developments section on each issuer page in the Leverage section. Entries newest first. Only filings with financing, lease, commitment or capital-structure content are entered; routine results releases and insider forms are not."
+}
