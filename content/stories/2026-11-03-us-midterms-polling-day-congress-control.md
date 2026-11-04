@@ -1,12 +1,12 @@
 ---
-title: "Democrats projected to win House in midterms"
+title: "Kansas flip puts Democrats on brink of Senate majority"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T22:52:28-05:00
+last_updated: 2026-11-03T23:15:30-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrats have flipped the Senate seats in South Carolina and Texas on top of Decision Desk HQ's projection that they will win the House, while control of the Senate itself has still not been called."
-why_it_matters: "The South Carolina and Texas flips give Democrats three Senate pickups against one Republican hold in Florida, narrowing the Senate to the uncalled races in Ohio, Michigan, Alaska and Iowa; a Democratic House already creates divided government for the rest of President Trump's term, and a Senate flip would hand Democrats both chambers."
+lede: "Democrat Adam Hamilton is projected to flip the Kansas Senate seat, a fourth Democratic pickup of the night alongside North Carolina, South Carolina and Texas, on top of Decision Desk HQ's projection that Democrats will win the House."
+why_it_matters: "The Hill reports the Kansas projection all but ensures a Democratic Senate majority, which with the projected House win would hand Democrats both chambers and divided government for the rest of President Trump's term; Asian markets are already trading on it, with South Korea's Kospi down as much as 3.7 percent on chip shares."
 featured: true
 evidence_grade: "B"
 sources:
@@ -74,12 +74,24 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead"
     published: "2026-11-03"
+  - title: "Adam Hamilton flips Senate seat blue in Kansas"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6182761-democrat-adam-hamilton-flips-kansas-senate-seat-2026-midterms/"
+    published: "2026-11-03"
+  - title: "South Korea's AI Darlings Become Big Casualty of US Midterm Vote"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff"
+    published: "2026-11-03"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 22:52 Eastern. South Carolina and Texas projections are Decision Desk HQ's, reported by The Hill at 21:57 and 22:16 Eastern on November 3, 2026 and read in full via the live browser in this run; the Associated Press also called South Carolina, and the Guardian's live results tally at about 22:47 Eastern showed Senate Democrats at 46 seats and Republicans at 37, with 18 of 35 Senate races called and Senate control not called. Market figures are Bloomberg's, from its opening paragraphs (the full articles sit behind a paywall). Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 23:15 Eastern. The Kansas projection is Decision Desk HQ's, reported in full by The Hill at 22:51 Eastern on November 3, 2026 and read in full via the live browser in this run; the Kospi figures are Bloomberg's, from its opening paragraphs (the full article sits behind a registration wall). Earlier sourcing as previously published. Projections are not certified results."
 ---
 
 Latest
+
+Decision Desk HQ projects Democrat Adam Hamilton to win the Senate race in Kansas, unseating Republican Senator Roger Marshall by almost 9 points with 87 percent of votes cast, The Hill reported at 10:51pm Eastern. Hamilton, 62, a Methodist pastor, would be the first Democratic senator from Kansas since 1939, in a seat Decision Desk HQ had rated a toss up going into election day; The Hill reports the projection all but ensures a Senate majority for Democrats, as a fourth pickup after North Carolina, South Carolina and Texas.
+
+In South Korea, the Kospi index slumped as much as 3.7 percent in Wednesday trading, erasing an early gain, Bloomberg reported, with Samsung Electronics and SK Hynix each down at least 4 percent and the biggest drags on the index. Bloomberg attributed the chip selloff to concern that a strong Democratic showing in the midterms would bring greater scrutiny of the artificial intelligence industry.
 
 Democrat Annie Andrews is projected to win the Senate race in South Carolina, defeating Republican Senator Darline Graham in the night's biggest upset so far. Decision Desk HQ made the projection, The Hill reported, with Andrews leading by 4 points with 84 percent of the expected vote in; the Associated Press also called the race, and the Guardian records Andrews as the first Democrat to win a Senate seat in South Carolina since 1998. Graham, the sister of the late Senator Lindsey Graham, was appointed by Governor Henry McMaster to complete her brother's term after President Trump personally picked her to succeed him. Andrews, a pediatrician and first-time candidate from Charleston, campaigned on health care costs. The flip is Democrats' second Senate pickup of the night after North Carolina.
 
