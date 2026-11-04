@@ -1,6 +1,6 @@
 ---
 title: "Global Markets"
-date: "2026-11-03"
+date: "2026-11-04"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed hourly."
 data_as_of: "Market data as of Nov 3, 6:05 PM ET"
 ---

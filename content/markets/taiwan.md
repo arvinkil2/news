@@ -1,6 +1,6 @@
 ---
 title: "Taiwan"
-date: "2026-11-03"
+date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed hourly."
 data_as_of: "Nov 3, 6:05 PM ET"
 ---
