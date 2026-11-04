@@ -1,7 +1,7 @@
 ---
 title: "Democrats win Congress, setting up divided government finances"
 date: 2026-11-04T07:19:51-05:00
-last_updated: 2026-11-04T11:42:23-05:00
+last_updated: 2026-11-04T11:50:51-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
@@ -38,14 +38,24 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/campaign/6197976-vance-midterms-iran-war-trump/"
     published: "2026-11-04"
+  - title: "Jim Jordan announces he will run for minority leader, teeing up fight with Scalise"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/house/6198024-jim-jordan-house-gop-minority-leader-scalise-mike-johnson-2026-midterms/"
+    published: "2026-11-04"
+  - title: "House Majority Leader Steve Scalise will run for minority leader"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/house/6198097-steve-scalise-house-minority-leader-bid/"
+    published: "2026-11-04"
 tags: []
-data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing. Updated November 4, 2026 with Speaker Johnson's leadership decision, reported by Axios, CBS News and Bloomberg Government the same day and read in this run. Updated again November 4, 2026 with Vice President Vance's remarks on the midterm losses, reported by The Hill the same day and read in full in this run."
+data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing. Updated November 4, 2026 with Speaker Johnson's leadership decision, reported by Axios, CBS News and Bloomberg Government the same day and read in this run. Updated again November 4, 2026 with Vice President Vance's remarks on the midterm losses, reported by The Hill the same day and read in full in this run. Updated again November 4, 2026 with Jim Jordan's announced bid for minority leader and Steve Scalise's planned bid, both reported by The Hill the same day and read in full in this run."
 update_bump: true
 ---
 
+Latest: The race to lead House Republicans in the new Congress is now a confirmed contest. Judiciary Committee chairman Jim Jordan announced on Wednesday that he will run for minority leader, writing to colleagues that Republicans have operated "without a clear plan to survive the hour or the day in front of us" and that he knows the Democrats' playbook from the oversight front. Majority Leader Steve Scalise will also run, a source familiar with his plans told The Hill, setting up a contest between Johnson's right-hand man and a founding member of the House Freedom Caucus who is termed out of the Judiciary chairmanship.
+
 Latest: Vice President JD Vance has blamed the Iran war for the Republican defeat, writing in a social media post on Wednesday that "the reason we lost is the war" and arguing that anyone who contends the war was worth its cost should make that case openly, counting the loss of the Senate among its prices, rather than deny the cause of the defeat. President Trump had taken a narrower version of the same position on election night, telling the Wall Street Journal that the Middle East conflict, now in its eighth month, "was a piece of it," while saying he would have done it again. The war began in late February and has pushed fuel prices sharply higher, against Trump's 2024 promise to end foreign wars.
 
-Latest: House Speaker Mike Johnson told staff on a call on Wednesday morning that he will not run for minority leader in the new Congress, stepping aside as the House's top Republican after the midterm losses, according to sources familiar with the matter cited by Axios, CBS News and Bloomberg Government. The decision reverses what Johnson recently told CBS News, that he intended to remain the party's leader if Republicans lost the House. Majority Leader Steve Scalise and Judiciary Committee chairman Jim Jordan are considered likely candidates to succeed him, and House Republicans plan to hold their leadership elections on November 10.
+Latest: House Speaker Mike Johnson told staff on a call on Wednesday morning that he will not run for minority leader in the new Congress, stepping aside as the House's top Republican after the midterm losses, according to sources familiar with the matter cited by Axios, CBS News and Bloomberg Government. The decision reverses what Johnson recently told CBS News, that he intended to remain the party's leader if Republicans lost the House. House Republicans plan to hold their leadership elections on November 10.
 
 Democrats will control both chambers of Congress after Tuesday's midterm elections. The Associated Press reported that Republicans lost Senate seats in North Carolina, South Carolina, Texas, Ohio, Kansas and Iowa, giving Democrats a majority on a map drawn from usually Republican states; Democrats had needed a net gain of four seats to reclaim the chamber. Decision Desk HQ projected that Democrats would also win the House, where Republicans entered the election holding 219 seats to 214, with two vacancies.
 
