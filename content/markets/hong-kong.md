@@ -2,10 +2,10 @@
 title: "Hong Kong"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed every 15 minutes."
-data_as_of: "Nov 4, 5:38 PM ET"
+data_as_of: "Nov 4, 6:28 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 4, 5:38 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 4, 6:28 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Hang Seng (index)</td><td class="num">23,526 <span class="gm-sub-inline">as of 2026-11-03, stale</span></td><td class="num"><span class="up">+0.57%</span></td><td class="num"><span class="up">+2.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.2 4.8,3.1 9.6,5.7 14.4,11.5 19.2,4.3 24.0,3.3 28.8,2.0 33.6,2.5 38.4,6.8 43.2,4.7 48.0,10.1 52.8,13.8 57.6,26.0 62.4,23.3 67.2,21.3 72.0,24.2 76.8,23.3 81.6,25.6 86.4,19.9 91.2,18.2 96.0,15.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$23.4100 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+4.32%</span></td><td class="num"><span class="up">+7.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.5 4.4,25.5 8.7,26.0 13.1,24.2 17.5,19.7 21.8,21.0 26.2,15.9 30.5,21.5 34.9,19.4 39.3,19.3 43.6,21.0 48.0,19.0 52.4,20.4 56.7,23.2 61.1,24.0 65.5,21.1 69.8,18.9 74.2,22.7 78.5,20.2 82.9,13.7 87.3,13.3 91.6,14.7 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -13,7 +13,7 @@ data_as_of: "Nov 4, 5:38 PM ET"
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>2Y benchmark yield</td><td class="num">3.17 <span class="unit">%</span></td><td class="num"><span class="up">+11.2</span> <span class="unit">bp</span></td><td class="num"><span class="up">+10.5</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.3 3.3,19.0 6.6,15.2 9.9,12.1 13.2,18.0 16.6,16.1 19.9,16.0 23.2,17.1 26.5,18.3 29.8,16.2 33.1,18.0 36.4,22.9 39.7,26.0 43.0,21.5 46.3,19.4 49.7,18.1 53.0,18.0 56.3,19.2 59.6,22.3 62.9,21.4 66.2,19.5 69.5,20.7 72.8,20.6 76.1,20.6 79.4,13.2 82.8,11.7 86.1,16.2 89.4,13.9 92.7,13.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>2Y benchmark yield</td><td class="num">3.35 <span class="unit">%</span></td><td class="num"><span class="down">-12.2</span> <span class="unit">bp</span></td><td class="num"><span class="down">-14.1</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.1 3.3,14.6 6.6,11.0 9.9,12.3 13.2,11.9 16.6,4.0 19.9,2.0 23.2,3.4 26.5,2.1 29.8,5.2 33.1,9.6 36.4,9.5 39.7,8.1 43.0,9.3 46.3,10.9 49.7,11.8 53.0,11.4 56.3,11.0 59.6,10.6 62.9,12.8 66.2,12.5 69.5,12.6 72.8,10.9 76.1,11.2 79.4,18.0 82.8,18.6 86.1,17.6 89.4,17.2 92.7,19.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
