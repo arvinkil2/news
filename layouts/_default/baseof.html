@@ -35,7 +35,6 @@
     <button class="nav-trigger" data-menu="menu-sections" aria-haspopup="true" aria-expanded="false">Sections</button>
     <button class="nav-trigger" data-menu="menu-regions" aria-haspopup="true" aria-expanded="false">Regions</button>
     <a href="{{ "/markets/" | relURL }}" class="nav-link">Global Markets</a>
-    <button class="nav-trigger" data-menu="menu-positioning" aria-haspopup="true" aria-expanded="false">Positioning</button>
     <button class="nav-trigger" data-menu="menu-leverage" aria-haspopup="true" aria-expanded="false">Leverage</button>
     <button class="nav-trigger" data-menu="menu-cmbs" aria-haspopup="true" aria-expanded="false">CMBS</button>
     <button class="nav-trigger" data-menu="menu-reserves" aria-haspopup="true" aria-expanded="false">Reserves</button>
@@ -51,13 +50,6 @@
     {{ range site.Params.region_order }}
     <a href="{{ (printf "/regions/%s/" .) | relURL }}" class="dropdown-item" role="menuitem">{{ index site.Params.region_names . }}</a>
     {{ end }}
-  </div>
-  <div class="dropdown-panel" id="menu-positioning" role="menu">
-    <a href="{{ "/positioning/" | relURL }}" class="dropdown-item" role="menuitem">Overview and Extremes</a>
-    <a href="{{ "/positioning/commodities/energy/" | relURL }}" class="dropdown-item" role="menuitem">Energy</a>
-    <a href="{{ "/positioning/commodities/metals/" | relURL }}" class="dropdown-item" role="menuitem">Metals</a>
-    <a href="{{ "/positioning/commodities/agriculture/" | relURL }}" class="dropdown-item" role="menuitem">Agriculture</a>
-    <a href="{{ "/positioning/commodities/other/" | relURL }}" class="dropdown-item" role="menuitem">Other</a>
   </div>
   <div class="dropdown-panel" id="menu-leverage" role="menu">
     <a href="{{ "/leverage/bond-watch/" | relURL }}" class="dropdown-item" role="menuitem">Bond Price Watch</a>
