@@ -1,12 +1,12 @@
 ---
 title: "Americans vote in midterms deciding control of Congress"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T20:44:53-05:00
+last_updated: 2026-11-03T21:14:36-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia and Democrat Chris Pappas to win the open Senate seat in New Hampshire, closing two Republican pickup targets, while the Guardian assesses Democrats as poised to take the House, although neither chamber has been called."
-why_it_matters: "Georgia and New Hampshire were two of the few Republican pickup opportunities in the Senate, in states President Trump carried or contested closely in 2024, so Democratic holds in both keep the party's path to a Senate majority open; House control remains uncalled, and a Democratic House would give the party committee control and subpoena power for the final two years of the term."
+lede: "The Associated Press projects Democrat Roy Cooper to win the Senate race in North Carolina, flipping a Republican-held seat, while Republican Ashley Moody holds the Florida Senate seat and Democrats hold Georgia and New Hampshire, with neither chamber yet called."
+why_it_matters: "North Carolina is the first Democratic Senate pickup of the night, in what the Guardian describes as the most expensive Senate race of the midterms, and Democrats need a net gain of four seats for a Senate majority; with Georgia and New Hampshire held and Florida staying Republican, the majority now turns on the still uncalled races in Texas, Ohio, Michigan, Alaska and Iowa."
 featured: true
 evidence_grade: "B"
 sources:
@@ -42,12 +42,24 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results"
     published: "2026-11-04"
+  - title: "Roy Cooper wins Senate race in North Carolina, flipping seat for Democrats"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate"
+    published: "2026-11-03"
+  - title: "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race"
+    published: "2026-11-03"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 20:44 Eastern. The New Hampshire projection is Decision Desk HQ's, reported by The Hill on November 3, 2026 and read in full via the live browser in this run. The Georgia projection is Decision Desk HQ's, reported by The Hill at 7:22pm Eastern on November 3, 2026 and read in full via the live browser in an earlier run. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 21:14 Eastern. The North Carolina and Florida projections are the Associated Press's, as shown in the Guardian's live results and read in full via the live browser in this run; vote shares are the snapshot read at about 21:12 Eastern, with an estimated 78.3 percent of the North Carolina vote and 97.9 percent of the Florida vote counted. The New Hampshire and Georgia projections are Decision Desk HQ's, reported by The Hill on November 3, 2026. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
 ---
 
 Latest
+
+The Associated Press projects Democrat Roy Cooper, the former governor, to win the Senate race in North Carolina, defeating the Trump-backed Republican Michael Whatley and flipping a Republican-held seat. At the snapshot read at about 9:12pm Eastern, Cooper had 60.2 percent of the vote to 37.8 percent for Whatley, with an estimated 78.3 percent of the vote counted. The Guardian describes the contest as the most expensive Senate race of the midterms, and the flip gives Democrats their first Senate pickup of the night.
+
+In Florida, the Associated Press projects Republican Ashley Moody to hold the Senate seat she was appointed to in January 2025 after Marco Rubio became secretary of state, defeating Democrat Angie Nixon. Moody had 50.9 percent to 48.0 percent for Nixon at the same snapshot, with an estimated 97.9 percent of the vote counted, and she will serve the remaining two years of Rubio's term. The hold keeps a Republican seat off the Democratic pickup path, which now runs through the uncalled races in Texas, Ohio, Michigan, Alaska and Iowa.
 
 Decision Desk HQ projects Democrat Chris Pappas to win the open Senate seat in New Hampshire, defeating former Senator John Sununu and holding the seat of retiring Democratic Senator Jeanne Shaheen. The Hill reported that shortly after 8pm Eastern Pappas had nearly 61 percent of the vote with 22 percent of ballots counted. The race had moved from the Democratic column to a toss-up and back during the campaign, and the hold denies Republicans a second pickup target on the night.
 
