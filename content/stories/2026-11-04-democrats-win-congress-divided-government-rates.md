@@ -1,12 +1,12 @@
 ---
 title: "Democrats win Congress, setting up divided government finances"
 date: 2026-11-04T07:19:51-05:00
-last_updated: 2026-11-04T07:19:51-05:00
+last_updated: 2026-11-04T11:25:02-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrats have won control of the US Senate in Tuesday's midterm elections and are projected to take the House of Representatives as well, ending unified Republican control of Congress for the final two years of President Trump's term."
-why_it_matters: "For bond markets the result caps the scope for new unfunded fiscal measures, but it also sets up a harder fight over government funding and the debt ceiling, which expires in the second half of 2027."
+lede: "Democrats have won control of the US Senate in Tuesday's midterm elections and are projected to take the House of Representatives as well, and Speaker Mike Johnson has told staff he will not run to lead House Republicans in the new Congress."
+why_it_matters: "For bond markets the result caps the scope for new unfunded fiscal measures, but it also sets up a harder fight over government funding and the debt ceiling, which expires in the second half of 2027, and a contested Republican leadership race before the new Congress sits."
 featured: false
 evidence_grade: "B"
 sources:
@@ -22,9 +22,24 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-control-of-the-house-ddhq-projects"
     published: "2026-11-04"
+  - title: "Mike Johnson bows out of leadership after crushing House GOP defeat"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms"
+    published: "2026-11-04"
+  - title: "House Speaker Mike Johnson won't run for House minority leader"
+    publisher: "CBS News via News9"
+    url: "https://www.news9.com/national-politics-oklahoma/house-speaker-mike-johnson-house-gop-leader-midterm-losses"
+    published: "2026-11-04"
+  - title: "Johnson Forgoes Another GOP Leadership Bid After Midterm Loss"
+    publisher: "Bloomberg Government"
+    url: "https://news.bgov.com/bloomberg-government-news/johnson-forgoes-another-gop-leadership-bid-after-midterm-loss"
+    published: "2026-11-04"
 tags: []
-data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing."
+data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing. Updated November 4, 2026 with Speaker Johnson's leadership decision, reported by Axios, CBS News and Bloomberg Government the same day and read in this run."
+update_bump: true
 ---
+
+Latest: House Speaker Mike Johnson told staff on a call on Wednesday morning that he will not run for minority leader in the new Congress, stepping aside as the House's top Republican after the midterm losses, according to sources familiar with the matter cited by Axios, CBS News and Bloomberg Government. The decision reverses what Johnson recently told CBS News, that he intended to remain the party's leader if Republicans lost the House. Majority Leader Steve Scalise and Judiciary Committee chairman Jim Jordan are considered likely candidates to succeed him, and House Republicans plan to hold their leadership elections on November 10.
 
 Democrats will control both chambers of Congress after Tuesday's midterm elections. The Associated Press reported that Republicans lost Senate seats in North Carolina, South Carolina, Texas, Ohio, Kansas and Iowa, giving Democrats a majority on a map drawn from usually Republican states; Democrats had needed a net gain of four seats to reclaim the chamber. Decision Desk HQ projected that Democrats would also win the House, where Republicans entered the election holding 219 seats to 214, with two vacancies.
 
