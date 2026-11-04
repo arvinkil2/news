@@ -1,12 +1,12 @@
 ---
 title: "Democrats projected to win House in midterms"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T21:43:04-05:00
+last_updated: 2026-11-03T22:52:28-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Decision Desk HQ projects Democrats to win control of the House of Representatives in the midterm elections, flipping the chamber after four years in the minority, while control of the Senate has not been called."
-why_it_matters: "A Democratic House creates divided government for the rest of President Trump's term, giving Democrats control of the floor agenda, committee hearings and subpoena power, and a brake on the Republican legislative agenda; the Senate majority still turns on the uncalled races in Texas, Ohio, Michigan, Alaska and Iowa."
+lede: "Democrats have flipped the Senate seats in South Carolina and Texas on top of Decision Desk HQ's projection that they will win the House, while control of the Senate itself has still not been called."
+why_it_matters: "The South Carolina and Texas flips give Democrats three Senate pickups against one Republican hold in Florida, narrowing the Senate to the uncalled races in Ohio, Michigan, Alaska and Iowa; a Democratic House already creates divided government for the rest of President Trump's term, and a Senate flip would hand Democrats both chambers."
 featured: true
 evidence_grade: "B"
 sources:
@@ -58,12 +58,34 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-control-of-the-house-ddhq-projects"
     published: "2026-11-03"
+  - title: "Darline Graham falls to Democrat Annie Andrews in stunning Senate GOP defeat"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6176382-andrews-defeats-graham-sc-senate/"
+    published: "2026-11-03"
+  - title: "James Talarico turns Texas blue in historic win for Democrats"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6176132-talarico-defeats-paxton-texan-upset/"
+    published: "2026-11-03"
+  - title: "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar"
+    published: "2026-11-03"
+  - title: "Global Solar Stocks Jump as Democrats Hold Early US Midterm Lead"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead"
+    published: "2026-11-03"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 21:43 Eastern. The House projection is Decision Desk HQ's, reported by The Hill at 21:11 Eastern and by Bloomberg at 21:13 Eastern on November 3, 2026, both read in full via the live browser in this run; neither report gives a seat count, and Bloomberg notes other news organizations had not yet called the House. The North Carolina and Florida projections are the Associated Press's, as shown in the Guardian's live results; vote shares are the snapshot read at about 21:12 Eastern, with an estimated 78.3 percent of the North Carolina vote and 97.9 percent of the Florida vote counted. The New Hampshire and Georgia projections are Decision Desk HQ's, reported by The Hill on November 3, 2026. No Senate call had been reported at the time of this update. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 22:52 Eastern. South Carolina and Texas projections are Decision Desk HQ's, reported by The Hill at 21:57 and 22:16 Eastern on November 3, 2026 and read in full via the live browser in this run; the Associated Press also called South Carolina, and the Guardian's live results tally at about 22:47 Eastern showed Senate Democrats at 46 seats and Republicans at 37, with 18 of 35 Senate races called and Senate control not called. Market figures are Bloomberg's, from its opening paragraphs (the full articles sit behind a paywall). Projections are not certified results."
 ---
 
 Latest
+
+Democrat Annie Andrews is projected to win the Senate race in South Carolina, defeating Republican Senator Darline Graham in the night's biggest upset so far. Decision Desk HQ made the projection, The Hill reported, with Andrews leading by 4 points with 84 percent of the expected vote in; the Associated Press also called the race, and the Guardian records Andrews as the first Democrat to win a Senate seat in South Carolina since 1998. Graham, the sister of the late Senator Lindsey Graham, was appointed by Governor Henry McMaster to complete her brother's term after President Trump personally picked her to succeed him. Andrews, a pediatrician and first-time candidate from Charleston, campaigned on health care costs. The flip is Democrats' second Senate pickup of the night after North Carolina.
+
+Decision Desk HQ also projects Democrat James Talarico to win the Senate race in Texas, defeating Republican Ken Paxton for the seat John Cornyn held since 2002, The Hill reported at 10:16pm Eastern. Talarico, a 37-year-old state lawmaker, outraised Paxton heavily through the campaign, while a super PAC backed by Elon Musk spent $158 million supporting Paxton, according to The Hill. The Associated Press had not called Texas in the results pages checked at about 10:47pm Eastern, so this projection rests on Decision Desk HQ alone for now. With Texas, Democrats have three pickups against one Republican hold, in Florida, and the Guardian's live tally put the Senate at 46 Democrats to 37 Republicans with 18 of 35 races called; control of the chamber has not been called, and the races in Ohio, Michigan, Alaska and Iowa remain open.
+
+Markets moved on the results in Asian trading. Bloomberg reported the Swiss franc up almost 1 percent and the yen up 0.7 percent, the biggest gains among major currencies, with its dollar spot index down as much as 0.4 percent, the most since October 2. Solar shares jumped: Hanwha Solutions rose as much as 10 percent in South Korea, and Enphase Energy, SolarEdge and First Solar rose between 8.7 and 12 percent in US overnight trading, Bloomberg reported.
 
 Decision Desk HQ projects Democrats to win control of the House of Representatives, The Hill and Bloomberg reported on Tuesday night, flipping the chamber after four years in the minority and creating divided government for the rest of President Trump's second term. Neither report gives a seat count or names a clinching race, and Bloomberg notes that other news organizations had not yet made a call on the House majority. The Hill reports that House Minority Leader Hakeem Jeffries is expected to become Speaker when the new Congress votes on January 3, and that Democrats have vowed investigations beginning on their first day, alongside early bills on health care costs; none of that displaces the Senate, whose control has not been called.
 
