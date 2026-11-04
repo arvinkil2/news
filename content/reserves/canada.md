@@ -1,6 +1,6 @@
 ---
 title: "Canada petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Canada: mixed stockholding under the IEA system, administered by No federal reserve and no central stockholding entity. The Energy Supplies Allocation Board (ESAB) administers emergency allocation under the Energy Supplies Emergency Act; stocks are commercial industry stocks only."
 data_as_of: "No current level published by this government. See the note below."
 ---

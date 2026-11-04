@@ -1,6 +1,6 @@
 ---
 title: "Sweden petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Sweden: obligated industry stockholding under the IEA and EU system, administered by No stockholding agency; the Swedish Energy Agency is the supervisory authority and sets the size of the reserves annually."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

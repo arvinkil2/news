@@ -1,6 +1,6 @@
 ---
 title: "Malta petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Malta: obligated industry stockholding under the EU system, administered by Not documented in official sources checked during this build; no central stockholding entity was identified."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

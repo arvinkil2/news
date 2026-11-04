@@ -1,6 +1,6 @@
 ---
 title: "Finland petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Finland: mixed stockholding under the IEA and EU system, administered by National Emergency Supply Agency (NESA, Huoltovarmuuskeskus), which manages state reserve stocks; importers carry a compulsory stockholding duty."
 data_as_of: "Latest level: 2026-09, from Eurostat (dataset nrg_stk_oilm)."
 ---

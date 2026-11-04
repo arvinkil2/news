@@ -1,6 +1,6 @@
 ---
 title: "Türkiye petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Türkiye: obligated industry stockholding under the IEA system, administered by Energy Market Regulatory Authority (EMRA) regulates licensees under the Petroleum Market Law; refiners hold the supplementary portion of the national stock."
 data_as_of: "No current level published by this government. See the note below."
 ---

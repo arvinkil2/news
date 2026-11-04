@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "United Kingdom: obligated industry stockholding under the IEA system, administered by None; stocks are held by major suppliers, including refiners and importers, at their own facilities, directed by the Department for Energy Security and Net Zero."
 data_as_of: "No current level published by this government. See the note below."
 ---

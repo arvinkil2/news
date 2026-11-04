@@ -1,6 +1,6 @@
 ---
 title: "Netherlands petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Netherlands: mixed stockholding under the IEA and EU system, administered by COVA (Stichting Centraal Orgaan Voorraadvorming Aardolieproducten), an independent foundation with a statutory task under the Petroleum Products Stockpiling Act."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

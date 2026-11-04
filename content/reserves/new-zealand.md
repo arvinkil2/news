@@ -1,6 +1,6 @@
 ---
 title: "New Zealand petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "New Zealand: government stockholding under the IEA system, administered by Ministry of Business, Innovation and Employment (MBIE) administers IEA compliance and fuel monitoring; the Crown tenders for stock ticket contracts and has agreements with the United Kingdom, Japan and the United States. A Minimum Stockholding Obligation for importers applies from 2025."
 data_as_of: "No current level published by this government. See the note below."
 ---

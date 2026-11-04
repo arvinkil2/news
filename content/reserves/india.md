@@ -1,6 +1,6 @@
 ---
 title: "India petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "India: government stockholding under the National system, administered by Indian Strategic Petroleum Reserves Limited (ISPRL), a special purpose vehicle of the Government of India under the Ministry of Petroleum and Natural Gas."
 data_as_of: "Latest level: 2026-03-23, from Ministry of Petroleum and Natural Gas written answer to Rajya Sabha Unstarred Question 3501."
 ---

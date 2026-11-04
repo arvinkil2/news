@@ -1,6 +1,6 @@
 ---
 title: "Lithuania petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Lithuania: mixed stockholding under the IEA and EU system, administered by Lithuanian Energy Agency (LEA), which oversees emergency stockholding and holds the specific stocks element; industry carries the rest of the obligation."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

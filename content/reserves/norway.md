@@ -1,6 +1,6 @@
 ---
 title: "Norway petroleum reserves"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Norway: obligated industry stockholding under the IEA system, administered by None; obligated companies organise and hold the stocks themselves under ministry supervision, with the Council for Fuel Preparedness as an industry advisory body."
 data_as_of: "No current level published by this government. See the note below."
 ---

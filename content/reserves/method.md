@@ -1,8 +1,8 @@
 ---
 title: "Method and data notes"
-date: "2026-10-29"
+date: "2026-11-04"
 lede: "Definitions, unit policy, confidence grades and the update cadence of every source behind the reserves section."
-data_as_of: "Method as of 23 October 2026."
+data_as_of: "Method as of 29 October 2026."
 ---
 
 <h2>What counts as a reserve</h2>
@@ -49,9 +49,7 @@ substituted. The United States weekly history chart is pending: the
 EIA retired the legacy data feeds behind its old series pages in a
 site redesign, and the replacement route is being restored. The
 current United States level is taken from the Weekly Petroleum Status
-Report each week in the meantime. Czechia's Eurostat return for August
-2026 shows 360 thousand tonnes against 2,031 thousand tonnes in July;
-it is printed as published and may be a partial return.</p>
+Report each week in the meantime.</p>
 <script>
 document.querySelectorAll('table.bw-grid').forEach(function(t){
   var tid = t.getAttribute('data-tid'); if (!tid) return;
