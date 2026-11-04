@@ -1,12 +1,12 @@
 ---
-title: "Democrats win Senate majority as Brown flips Ohio"
+title: "Democrats sweep Congress as Collins falls in Maine"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T23:43:32-05:00
+last_updated: 2026-11-04T01:18:45-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrats have won the Senate majority, The Hill reports, after Decision Desk HQ projected former Senator Sherrod Brown to flip Ohio, a fifth Democratic pickup alongside North Carolina, South Carolina, Texas and Kansas, on top of the projected House win."
-why_it_matters: "With both chambers projected to flip, Democrats take control of the congressional schedule, oversight and confirmation process for the rest of President Trump's term, leaving his legislative agenda and judicial nominations facing a hostile Senate; Asian markets are already trading on the results, with South Korea's Kospi down as much as 3.7 percent on chip shares."
+lede: "Democrats have completed a sweep of Congress, with Troy Jackson toppling five-term Republican Susan Collins in Maine, a sixth Senate pickup on top of the House win, while Asian markets slide on the results, Japan's Nikkei down as much as 4.8 percent on chip shares."
+why_it_matters: "Both chambers flip for the rest of President Trump's term, and the Maine result removes the Senate Appropriations chair and the chamber's longest-serving Republican woman; markets are pricing the sweep as a threat to the AI trade, with Japanese and Korean chip shares down sharply in Wednesday trading."
 featured: true
 evidence_grade: "B"
 sources:
@@ -98,12 +98,29 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race"
     published: "2026-11-04"
+  - title: "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results"
+    published: "2026-11-04"
+  - title: "Maine Democrat Troy Jackson Defeats Republican Senator Susan Collins"
+    publisher: "TIME"
+    url: "https://time.com/article/2026/11/04/maine-democrat-troy-jackson-defeats-republican-senator-susan-collins/"
+    published: "2026-11-04"
+  - title: "Japanese Stocks Sink as US Midterm Results Hit Tech Shares"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares"
+    published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
+data_as_of: "Updated November 4, 2026 at 01:18 Eastern. The Maine result is the Guardian's report and TIME's report, both read in full via the live browser in this run; TIME states the Associated Press had not yet called the race and that Collins had conceded, and neither report gives a vote margin. The Japanese market figures are Bloomberg's, read in full via the live browser in this run from the article's opening section, which was the portion accessible. Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
 ---
 
 Latest
+
+Democrat Troy Jackson has won the Senate race in Maine, defeating Republican Senator Susan Collins and ending her tenure in Washington after nearly three decades, the Guardian reported. Collins, first elected in 1997 and a five-term incumbent, chaired the Senate Appropriations Committee and was the only Senate Republican running in a state President Trump lost in 2024. TIME reported that the Associated Press had not yet called the race but that Collins had conceded. Jackson, 58, a lumberjack and former Maine Senate president, took over the Democratic nomination after the original nominee dropped out and had 101 days to campaign. Maine is a sixth Democratic Senate pickup.
+
+The market reaction widened in Japan. The Nikkei 225 fell as much as 4.8 percent and the broader Topix as much as 3.5 percent, Bloomberg reported, with chip and AI-related shares the worst performers: memory maker Kioxia Holdings and MLCC maker Taiyo Yuden each slumped more than 13 percent. Bloomberg attributed the fall to indications of Democratic gains in the midterms, a scenario strategists had said would weigh on AI stocks. The Japanese slide follows the Kospi's fall of as much as 3.7 percent in Korea reported below.
+
 
 Democrats have won the Senate majority, The Hill reported at 11:19pm Eastern, recapturing the chamber they lost in 2024. The Hill names no single clinching race and gives no seat total; Democrats needed a net gain of four seats, and the flips it lists run from North Carolina, the first of the night, through South Carolina and Texas to Kansas. The win returns Senator Chuck Schumer to the majority leader's office in 2027 and gives Democrats control of the Senate schedule, expanded oversight and hearing power, and a decisive say over administration and judicial nominations, which The Hill says puts President Trump's legislative agenda in limbo even in the lame-duck session.
 
