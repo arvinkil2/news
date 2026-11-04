@@ -1,12 +1,12 @@
 ---
-title: "Kansas flip puts Democrats on brink of Senate majority"
+title: "Democrats win Senate majority as Brown flips Ohio"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T23:15:30-05:00
+last_updated: 2026-11-03T23:43:32-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrat Adam Hamilton is projected to flip the Kansas Senate seat, a fourth Democratic pickup of the night alongside North Carolina, South Carolina and Texas, on top of Decision Desk HQ's projection that Democrats will win the House."
-why_it_matters: "The Hill reports the Kansas projection all but ensures a Democratic Senate majority, which with the projected House win would hand Democrats both chambers and divided government for the rest of President Trump's term; Asian markets are already trading on it, with South Korea's Kospi down as much as 3.7 percent on chip shares."
+lede: "Democrats have won the Senate majority, The Hill reports, after Decision Desk HQ projected former Senator Sherrod Brown to flip Ohio, a fifth Democratic pickup alongside North Carolina, South Carolina, Texas and Kansas, on top of the projected House win."
+why_it_matters: "With both chambers projected to flip, Democrats take control of the congressional schedule, oversight and confirmation process for the rest of President Trump's term, leaving his legislative agenda and judicial nominations facing a hostile Senate; Asian markets are already trading on the results, with South Korea's Kospi down as much as 3.7 percent on chip shares."
 featured: true
 evidence_grade: "B"
 sources:
@@ -82,12 +82,34 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff"
     published: "2026-11-03"
+  - title: "Democrats win Senate majority"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/senate/6185385-democrats-win-senate-midterms/"
+    published: "2026-11-03"
+  - title: "Brown pulls off Senate comeback bid, beating Husted in Ohio"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6181972-sherrod-brown-wins-ohio-senate-race/"
+    published: "2026-11-03"
+  - title: "Abbott concedes to Hinojosa in Texas"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6196089-abbott-concedes-to-hinojosa-in-texas/"
+    published: "2026-11-03"
+  - title: "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor's race"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race"
+    published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 23:15 Eastern. The Kansas projection is Decision Desk HQ's, reported in full by The Hill at 22:51 Eastern on November 3, 2026 and read in full via the live browser in this run; the Kospi figures are Bloomberg's, from its opening paragraphs (the full article sits behind a registration wall). Earlier sourcing as previously published. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
 ---
 
 Latest
+
+Democrats have won the Senate majority, The Hill reported at 11:19pm Eastern, recapturing the chamber they lost in 2024. The Hill names no single clinching race and gives no seat total; Democrats needed a net gain of four seats, and the flips it lists run from North Carolina, the first of the night, through South Carolina and Texas to Kansas. The win returns Senator Chuck Schumer to the majority leader's office in 2027 and gives Democrats control of the Senate schedule, expanded oversight and hearing power, and a decisive say over administration and judicial nominations, which The Hill says puts President Trump's legislative agenda in limbo even in the lame-duck session.
+
+Decision Desk HQ projects former Senator Sherrod Brown to win the Ohio Senate race, defeating appointed Republican Senator Jon Husted and completing a comeback two years after losing his seat, The Hill reported at 11:20pm Eastern. Brown led by just over 2 points with 83 percent of ballots counted in one of the night's tighter races, in a special election for the remainder of Vice President Vance's term; Brown would serve until 2028, when he must run again for a full term. Ohio is a fifth Democratic Senate pickup, beyond the four needed for the majority.
+
+In the governors' races, Democrat Gina Hinojosa defeated Republican Governor Greg Abbott in Texas, with Abbott conceding, The Hill, Fox News and Bloomberg reported; Hinojosa would be the first Latina governor of Texas. In Ohio, Democrat Amy Acton defeated Republican Vivek Ramaswamy in the governor's race, Al Jazeera reported.
 
 Decision Desk HQ projects Democrat Adam Hamilton to win the Senate race in Kansas, unseating Republican Senator Roger Marshall by almost 9 points with 87 percent of votes cast, The Hill reported at 10:51pm Eastern. Hamilton, 62, a Methodist pastor, would be the first Democratic senator from Kansas since 1939, in a seat Decision Desk HQ had rated a toss up going into election day; The Hill reports the projection all but ensures a Senate majority for Democrats, as a fourth pickup after North Carolina, South Carolina and Texas.
 
