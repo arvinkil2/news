@@ -2,14 +2,14 @@
 title: "Taiwan"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 3, 10:05 PM ET"
+data_as_of: "Nov 3, 10:08 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 10:05 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 3, 10:08 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>TAIEX (index)</td><td class="num">42,686 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="down">-1.44%</span></td><td class="num"><span class="down">-9.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.4 5.1,2.0 10.1,2.1 15.2,3.7 20.2,3.8 25.3,7.0 30.3,6.0 35.4,11.6 40.4,11.1 45.5,12.1 50.5,13.9 55.6,11.9 60.6,14.7 65.7,14.5 70.7,11.4 75.8,13.6 80.8,17.5 85.9,18.5 90.9,23.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>TAIEX (index)</td><td class="num">42,639 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="down">-1.54%</span></td><td class="num"><span class="down">-9.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.4 5.1,2.0 10.1,2.1 15.2,3.7 20.2,3.7 25.3,6.9 30.3,6.0 35.4,11.5 40.4,11.1 45.5,12.0 50.5,13.8 55.6,11.8 60.6,14.6 65.7,14.5 70.7,11.3 75.8,13.5 80.8,17.4 85.9,18.4 90.9,23.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$98.27 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-2.37%</span></td><td class="num"><span class="down">-8.37%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.5 9.1,4.1 13.7,7.7 18.3,6.5 22.9,6.5 27.4,7.5 32.0,10.6 36.6,12.8 41.1,16.3 45.7,15.1 50.3,15.0 54.9,13.0 59.4,19.0 64.0,17.9 68.6,17.1 73.1,15.1 77.7,13.0 82.3,16.6 86.9,22.5 91.4,23.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TWD</td><td class="num">32.8790 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="down">-0.90%</span></td><td class="num"><span class="down">-1.40%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.2 4.4,26.0 8.7,25.5 13.1,23.9 17.5,22.3 21.8,22.5 26.2,22.2 30.5,18.5 34.9,16.7 39.3,13.8 43.6,12.5 48.0,10.5 52.4,8.4 56.7,12.9 61.1,8.0 65.5,8.6 69.8,9.3 74.2,11.7 78.5,12.6 82.9,8.6 87.3,7.8 91.6,8.3 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TWD</td><td class="num">32.8820 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="down">-0.91%</span></td><td class="num"><span class="down">-1.41%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.2 4.4,26.0 8.7,25.5 13.1,23.9 17.5,22.3 21.8,22.5 26.2,22.3 30.5,18.5 34.9,16.7 39.3,13.8 43.6,12.5 48.0,10.5 52.4,8.5 56.7,13.0 61.1,8.0 65.5,8.6 69.8,9.4 74.2,11.7 78.5,12.6 82.9,8.7 87.3,7.9 91.6,8.3 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
