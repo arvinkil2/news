@@ -2,14 +2,14 @@
 title: "Canada"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Canada, refreshed every 15 minutes."
-data_as_of: "Nov 3, 9:26 PM ET"
+data_as_of: "Nov 3, 9:37 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 3, 9:26 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 3, 9:37 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/TSX Composite (index)</td><td class="num">35,532 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-0.75%</span></td><td class="num"><span class="down">-1.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.1 4.8,14.6 9.6,26.0 14.4,24.1 19.2,14.4 24.0,8.4 28.8,15.9 33.6,5.5 38.4,4.8 43.2,9.4 48.0,6.1 52.8,2.0 57.6,8.6 62.4,12.0 67.2,9.1 72.0,4.9 76.8,3.1 81.6,3.4 86.4,15.2 91.2,11.8 96.0,16.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Canada (EWC)</td><td class="num">$60.21 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="down">-1.02%</span></td><td class="num"><span class="down">-1.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.4 4.6,17.7 9.1,26.0 13.7,23.5 18.3,18.7 22.9,15.9 27.4,12.8 32.0,17.2 36.6,10.0 41.1,8.4 45.7,10.4 50.3,6.4 54.9,3.4 59.4,5.9 64.0,7.6 68.6,6.5 73.1,5.2 77.7,2.1 82.3,2.0 86.9,8.1 91.4,6.7 96.0,10.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/CAD</td><td class="num">1.3970 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+0.10%</span></td><td class="num"><span class="up">+0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.4,3.2 8.7,7.3 13.1,3.7 17.5,6.3 21.8,3.6 26.2,2.0 30.5,6.9 34.9,7.2 39.3,8.7 43.6,14.5 48.0,15.5 52.4,18.6 56.7,20.4 61.1,23.4 65.5,22.7 69.8,22.7 74.2,19.8 78.5,24.7 82.9,24.8 87.3,26.0 91.6,25.0 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/CAD</td><td class="num">1.3965 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+0.13%</span></td><td class="num"><span class="up">+0.61%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.4,3.2 8.7,7.2 13.1,3.7 17.5,6.3 21.8,3.6 26.2,2.0 30.5,6.8 34.9,7.1 39.3,8.6 43.6,14.3 48.0,15.3 52.4,18.3 56.7,20.1 61.1,23.1 65.5,22.3 69.8,22.3 74.2,19.5 78.5,24.3 82.9,24.4 87.3,25.6 91.6,24.6 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
