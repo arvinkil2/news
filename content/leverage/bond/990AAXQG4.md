@@ -1,6 +1,6 @@
 ---
 title: "BEIGNET INVESTOR LLC 990AAXQG4"
-date: "2026-11-03"
+date: "2026-11-04"
 lede: "Trades, fund marks, terms and call schedule for 990AAXQG4."
 data_as_of: "Trades to 03 Nov 2026; fund marks to 30 Sep 2025"
 ---
