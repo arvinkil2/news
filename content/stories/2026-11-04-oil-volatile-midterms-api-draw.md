@@ -1,11 +1,11 @@
 ---
 title: "Oil whipsaws after midterms as US stocks draw"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-04T12:46:28-05:00
+last_updated: 2026-11-04T16:22:48-05:00
 beats: ["commodities"]
 regions: ["north-america", "middle-east", "global"]
 status: "story"
-lede: "Official US data confirmed a fifth straight weekly crude stock draw, but at 865,000 barrels it was far smaller than the industry estimate, while distillate stocks fell 3.6 million barrels to their lowest in more than two decades."
+lede: "President Trump said he has no immediate plans for new strikes on Iran and that the United States is getting what it wants from the conflict, as oil extended its post-midterm slide and official US data confirmed a fifth straight weekly crude stock draw."
 why_it_matters: "The midterm result changes the politics of the Iran war without changing the physical market, where Hormuz throughput remains far below pre conflict levels and US distillate stocks are still tightening."
 featured: false
 evidence_grade: "B"
@@ -22,6 +22,10 @@ sources:
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-11-04"
+  - title: "Trump Plays Down Prospect of Iran Strikes After Midterm Rout"
+    publisher: "Bloomberg via gCaptain"
+    url: "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/"
+    published: "2026-11-04"
   - title: "US crude stocks, gasoline and distillate inventories fall, EIA"
     publisher: "Reuters via BOE Report"
     url: "https://boereport.com/2026/11/04/us-crude-stocks-gasoline-and-distillate-inventories-fall-eia-2/"
@@ -31,9 +35,11 @@ sources:
     url: "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Further-As-Demand-Holds.html"
     published: "2026-11-04"
 tags: []
-data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated at midday on November 4, 2026 show Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week. Updated November 4, 2026 with the Energy Information Administration Weekly Petroleum Status Report for the week ended October 30, 2026, released at 10:30 a.m. EST on November 4; the EIA figures are the agency's own, as reported by Reuters and OilPrice the same day."
+data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated at midday on November 4, 2026 show Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week. Updated November 4, 2026 with the Energy Information Administration Weekly Petroleum Status Report for the week ended October 30, 2026, released at 10:30 a.m. EST on November 4; the EIA figures are the agency's own, as reported by Reuters and OilPrice the same day. Updated again November 4, 2026 with President Trump's remarks to the Financial Times and Fox News on Iran strikes, reported by Bloomberg and read in full in this run."
 update_bump: true
 ---
+
+Latest: President Trump said he has no immediate plans to launch strikes on Iran after the midterm rout. "We seem to be getting everything we want," he told the Financial Times, adding that the United States is still prepared to escalate if necessary: "I'm ready, we're ready. We're locked and loaded if we need to go, but there may be no reason for it." Iran's parliament speaker Mohammad Bagher Ghalibaf read the election the other way, saying Americans had voted "NO TO WAR" and warning Washington of a "nightmare" if mass attacks restart. Bloomberg reported that Qatar and Pakistan mediated talks have made little progress in recent weeks, with Qatari officials expecting feedback from both sides on new proposals within a day or so.
 
 Latest: The Energy Information Administration confirmed a fifth straight weekly fall in US crude stocks, but a much smaller one than the industry data had pointed to. Commercial crude inventories fell 865,000 barrels to 409.8 million barrels in the week ended October 30, 4 percent below the five year average, against a Reuters poll expectation of an 877,000 barrel build and the American Petroleum Institute's 5.27 million barrel draw. The tightening was in products: distillate stocks fell 3.6 million barrels to 99.3 million, against an expected 100,000 barrel drop, and gasoline fell 222,000 barrels to 209 million against an expected build. Refinery runs rose 199,000 barrels a day with utilisation up 1.7 points to 94.5 percent, and total products supplied averaged 21.2 million barrels a day over four weeks, up 4.2 percent on a year earlier.
 
