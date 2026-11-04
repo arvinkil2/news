@@ -1,12 +1,12 @@
 ---
 title: "Americans vote in midterms deciding control of Congress"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T18:44:34-05:00
+last_updated: 2026-11-03T20:17:48-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Polls have begun closing in the US midterms, and Decision Desk HQ projects Republican Ed Gallrein to win Kentucky's 4th District, held by Trump critic Thomas Massie, in the first projection of a night that decides control of Congress."
-why_it_matters: "Democrats need a net gain of three House seats and four Senate seats to control Congress for the final two years of President Trump's second term; Gallrein's projected win holds a Republican seat, and control will be settled by a handful of Senate races in Texas, Ohio, Michigan, Alaska and Iowa."
+lede: "Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia, closing a Republican Senate pickup target, and the Guardian assesses Democrats as poised to take the House, although neither chamber has been called."
+why_it_matters: "Georgia was one of the few Republican pickup opportunities in the Senate, in a state President Trump carried in 2024, so an Ossoff hold keeps the Democratic path to a Senate majority open; House control remains uncalled, and a Democratic House would give the party committee control and subpoena power for the final two years of the term."
 featured: true
 evidence_grade: "B"
 sources:
@@ -30,14 +30,26 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/"
     published: "2026-11-03"
+  - title: "Ossoff wins reelection in battleground Georgia"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6181803-ossoff-wins-georgia-senate-reelection/"
+    published: "2026-11-03"
+  - title: "Democrats look poised to win House control in midterm elections after two turbulent years of Trump"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results"
+    published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 18:44 Eastern. Poll closing times and seat counts are as reported in the morning edition; the Kentucky 4th District projection is Decision Desk HQ's, reported by The Hill at 6:20pm Eastern on November 3, 2026 and read in full in this run. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 20:17 Eastern. The Georgia projection is Decision Desk HQ's, reported by The Hill at 7:22pm Eastern on November 3, 2026 and read in full via the live browser in this run. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT and read in full via the live browser in this run; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
 ---
 
 Latest
 
-Polls began closing at 6pm Eastern in Indiana and Kentucky, and the first projection of the night went to Republicans: Decision Desk HQ projects Ed Gallrein, a retired Navy SEAL and farmer endorsed by President Trump, to win Kentucky's 4th Congressional District, the seat held by Republican Thomas Massie. Gallrein led Democrat Melissa Strange by 59 percent to 30 percent on a small share of the vote reported, after defeating Massie for the Republican nomination in May by 54.9 percent to 45.1 percent. Massie had repeatedly clashed with the president, backing war powers resolutions on Iran and legislation to force release of the Epstein files. No Senate race had been projected in the reports scanned at the time of this update, and control of either chamber remains undecided.
+Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia, defeating Republican Representative Mike Collins. The Hill reported the projection at 7:22pm Eastern, with Ossoff leading with about 80 percent of the vote to nearly 20 percent for Collins, with 11 percent of precincts reporting. Georgia was one of the few legitimate Republican pickup opportunities in the Senate, in a state President Trump carried in 2024, and Ossoff had led in polling and outraised Collins through the campaign.
+
+The Guardian assesses that Democrats are poised to take control of the House, where Republicans hold 218 seats to 214 for Democrats and a majority requires 218. That is an assessment, not a call: the Guardian cites the Cook Political Report forecast of a Democratic pickup of 15 to 25 seats, which would give Democrats 230 to 240 seats, and notes that uncertainty remains over the size of the gain. Control of neither chamber had been called at the time of this update, and the Senate contests in Texas, Ohio, Michigan, Alaska and Iowa remain the deciding races.
+
+Earlier tonight, polls began closing at 6pm Eastern in Indiana and Kentucky, and the first projection of the night went to Republicans: Decision Desk HQ projects Ed Gallrein, a retired Navy SEAL and farmer endorsed by President Trump, to win Kentucky's 4th Congressional District, the seat held by Republican Thomas Massie. Gallrein led Democrat Melissa Strange by 59 percent to 30 percent on a small share of the vote reported, after defeating Massie for the Republican nomination in May by 54.9 percent to 45.1 percent. Massie had repeatedly clashed with the president, backing war powers resolutions on Iran and legislation to force release of the Epstein files.
 
 Voting is under way across the United States on Tuesday in midterm elections that will decide control of Congress for the final two years of President Donald Trump's second term. All 435 seats in the House of Representatives and 35 of the Senate's 100 seats are contested, and voters in 36 states are also choosing governors.
 
