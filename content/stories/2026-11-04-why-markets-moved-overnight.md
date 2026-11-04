@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-04T07:24:02-05:00
-last_updated: 2026-11-04T07:24:02-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-04T12:36:39-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Tanker freight fell 8.5 percent while precious metals rebounded hard, with silver up 5.0 percent and gold back above 4,000 dollars, in a session that split miners from the metals they produce."
-why_it_matters: "The day ahead turns on whether the metals rebound holds against a miner tape that is still falling, and on the Treasury refunding statement at 8:30 AM Eastern, with yields already up about 5 basis points before it."
+lede: "Oil and tanker freight sold off hard by midday, with Brent down 8.9 percent to 94.34 dollars a barrel and tanker freight down 18.7 percent, as the market unwound the Iran war premium after the Democratic sweep of Congress, even as miners, bullion and mega-cap technology rallied."
+why_it_matters: "The split is the signal: the assets carrying the war premium are deflating while the assets that premium was taxing, from miners to mega-cap technology, are rebounding, and with Treasury yields falling after a refunding statement that held sizes unchanged, the afternoon turns on whether the oil slide steadies or starts to read as a demand signal instead."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,17 +15,17 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-04"
 tags: []
-data_as_of: "Market close November 3, 2026"
+data_as_of: "Midday November 4, 2026"
 ---
 
-Tanker freight was the largest single move in the tables, down 8.5 percent on the day and 6.8 percent on the week. No clear single driver appears in this morning's reporting: the fall came on a day when the politics and commodities beats were carrying an uncorroborated Iranian claim of tanker mine strikes in Hormuz, which would normally bid freight up, not down, so the move reads as positioning and charter-market mechanics rather than a response to the news flow.
+Tanker freight was the largest move in the tables, down 18.7 percent to 678.82 dollars and down 24.48 percent on the week, extending the morning's fall. Today's commodities roundup had already flagged that the drop runs against the week's Hormuz headlines, including the uncorroborated Revolutionary Guard claim that four tankers struck mines south of the strait, and no story in today's file explains the midday acceleration, so the move still reads as charter-market positioning rather than a response to confirmed news.
 
-Silver futures rose 5.03 percent to 52.08 dollars an ounce and gold futures rose 2.85 percent to 4,052.70 dollars, back above the 4,000 dollar level. See today's gold and silver rebound story in the commodities beat: the rebound follows the recent selloff, with the dollar index softer at 101.43, down 0.43 percent, and it came even as India, the largest consumer market, reported gold demand at a six year low.
+Brent crude fell 8.94 percent to 94.34 dollars a barrel and WTI fell 8.40 percent to 88.02 dollars, extending a third straight losing session, as covered in today's oil story in the commodities beat: traders read the Democratic takeover of both chambers of Congress as a constraint on funding or expanding the war with Iran and trimmed the supply risk premium, and the unexpected American Petroleum Institute draw of 5.27 million barrels in US crude stocks failed to support prices, with the official EIA report the next test.
 
-Broadcom rose 3.07 percent to 332.13 dollars, Microsoft rose 2.74 percent to 520.99 dollars, Nvidia rose 2.29 percent to 206.69 dollars and the semiconductor basket rose 2.5 percent. The technology beat reads this as a rebound from the AI selloff that hit base metals and chips in the previous session rather than a response to a single company announcement; no Broadcom or Microsoft specific story appears in this morning's reporting.
+The metals complex reversed the morning's split. Silver miners rose 9.18 percent and gold miners rose 8.89 percent, after falling in the morning session, alongside silver futures up 5.46 percent to 52.29 dollars and gold futures up 3.40 percent to 4,074.30 dollars. Today's gold and silver rebound story in the commodities beat ties the move to a softer dollar and falling Treasury yields after the midterm elections, with a Democrat controlled Congress read as a limit on further deficit expansion and short covering on top.
 
-BHP fell 2.42 percent to 78.13 dollars, gold miners fell 1.96 percent and copper miners fell 1.55 percent, extending weekly losses of 5 to 7 percent across the mining table. The divergence is the point: the metals rebounded while the miners kept falling, and the mining beat's Canada gold story, record output at a record all in sustaining cost of 1,930 dollars an ounce, explains part of the squeeze, since costs at that level eat the benefit of a higher gold price for marginal producers.
+Mega-cap technology jumped: Amazon rose 7.15 percent to 268.61 dollars, Microsoft rose 6.58 percent to 555.28 dollars and Apple rose 6.36 percent to 353.02 dollars, and the Dow Jones rose 2.88 percent with the S&P 500 up 1.81 percent. No story in today's file explains the individual company jumps; the technology roundup's context is after-hours strength in AMD and Arista on their results and a broad post-election rebound, and the chip complex itself lagged, with semiconductors down 2.42 percent and Nvidia down 1.67 percent, in line with the weak smartphone demand signal in today's Skyworks guidance story.
 
-Brent crude fell 1.52 percent to 102.03 dollars a barrel, down 11.52 percent on the week, in the volatile session covered by today's oil story: an API crude draw of 5.27 million barrels against an expected build failed to hold the early gain. Treasury yields rose before today's refunding statement, the 10 year up 5.8 basis points to 4.95 percent and the 30 year up 5.5 basis points to 5.32 percent, as covered in the rates beat.
+Treasury yields fell across the curve by midday after the Treasury held the quarterly refunding at 125 billion dollars with sizes unchanged, the outcome covered in today's refunding story in the rates beat: the 10 year yield fell 5.0 basis points to 4.90 percent, the 5 year fell 5.4 basis points to 4.69 percent and the 30 year fell 3.0 basis points to 5.29 percent, reversing the morning rise into the statement. The dollar index eased 0.37 percent to 101.50, and the day's data, ADP private payrolls up 86,000 in October against a 69,000 forecast, gave the rally a steady labour market backdrop.
 
-The cross market read is a partial risk rebound with hard edges. Chips and precious metals bounced together, which is a flow pattern more than a growth signal, while the assets closest to physical tightness, miners and tanker freight, fell, and the long end of the Treasury curve kept cheapening into supply. Nothing in this morning's reporting ties the moves to a single macro release; the refunding statement and Thursday's Bank of England and Banxico decisions are the next scheduled tests.
+The cross-market read is a war premium unwind, not a growth scare. Energy and freight, the assets priced for a Hormuz supply shock, are deflating together, while bullion, miners, equities and Treasuries are all bid at once, a pattern that fits relief on both the war path and Treasury supply after the midterm result and the refunding. The exception is semiconductors, still carrying the week's AI selloff and today's handset warning, and the open question for the close is whether oil near 94 dollars steadies as a political repricing or pulls the broader tape with it.

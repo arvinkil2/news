@@ -1,7 +1,7 @@
 ---
 title: "Oil whipsaws after midterms as US stocks draw"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-04T07:17:02-05:00
+last_updated: 2026-11-04T12:36:12-05:00
 beats: ["commodities"]
 regions: ["north-america", "middle-east", "global"]
 status: "story"
@@ -23,10 +23,10 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-04"
 tags: []
-data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated November 4, 2026 show Brent at 102.03 dollars, down 1.52 percent on the day and down 11.52 percent on the week. Official EIA data due 10:30 a.m. EST on November 4."
+data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated at midday on November 4, 2026 show Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week. Official EIA data due 10:30 a.m. EST on November 4."
 ---
 
-Oil traded both ways on Wednesday as investors tried to price a changed Washington against an unchanged physical market. Brent futures rose 76 cents, or 0.7 percent, to 104.36 dollars a barrel by 0730 GMT and West Texas Intermediate gained 63 cents to 96.72 dollars, reversing earlier declines, Reuters reported. Invezz, tracking the later European session, had Brent slipping back about 1.26 percent to near 102.20 dollars, and the site market tables put Brent at 102.03 dollars, down 1.52 percent on the day and down 11.52 percent on the week.
+Oil traded both ways on Wednesday as investors tried to price a changed Washington against an unchanged physical market. Brent futures rose 76 cents, or 0.7 percent, to 104.36 dollars a barrel by 0730 GMT and West Texas Intermediate gained 63 cents to 96.72 dollars, reversing earlier declines, Reuters reported. Invezz, tracking the later European session, had Brent slipping back about 1.26 percent to near 102.20 dollars, and the site market tables at midday put Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week, as the selloff extended into the US session.
 
 The political trigger was the midterm result. Democrats captured both chambers of Congress, which traders read as a constraint on funding or expanding the war with Iran and a reason to trim the supply risk premium. Priyanka Sachdeva of Phillip Nova told Reuters that conflicting signals from President Trump, with strikes continuing alongside statements downplaying escalation, had made it difficult to build directional conviction, and that some profit taking after the October rally was justified.
 

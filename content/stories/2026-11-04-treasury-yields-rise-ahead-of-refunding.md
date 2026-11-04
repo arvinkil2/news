@@ -1,11 +1,11 @@
 ---
-title: "Treasury yields rise as refunding decision lands today"
+title: "Treasury yields fall back as refunding holds sizes unchanged"
 date: 2026-11-04T07:19:51-05:00
-last_updated: 2026-11-04T07:19:51-05:00
+last_updated: 2026-11-04T12:36:12-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
-lede: "US Treasury yields rose across the curve on Wednesday morning, with the 10 year note up 5.8 basis points to 4.95 percent and the 30 year bond up 5.5 basis points to 5.32 percent, hours before the Treasury publishes its quarterly refunding statement at 8:30 AM Eastern."
+lede: "US Treasury yields fell back by midday on Wednesday, with the 10 year note down 5.0 basis points to 4.90 percent and the 30 year bond down 3.0 basis points to 5.29 percent in the site market tables, reversing the morning rise after the Treasury held quarterly refunding sizes unchanged at $125 billion."
 why_it_matters: "The refunding statement is the week's main supply event: dealers expect coupon sizes to stay unchanged for now, so any change to the guidance language, or to long end buyback sizes, would move a long end already back above 5.3 percent."
 featured: true
 evidence_grade: "B"
@@ -23,10 +23,10 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-04"
 tags: []
-data_as_of: "Yield levels and daily changes are the site market tables at the November 4, 2026 morning update (quotes 06:52 ET), corroborated by Swissquote's morning note of November 4, 2026, which reports the same moves: 2 year +3.1bp to 4.612 percent, 10 year +5.8bp to 4.951 percent, 30 year +5.5bp to 5.323 percent. The quarterly refunding statement is due at 8:30 AM ET on November 4, 2026 and had not been published when this story was written."
+data_as_of: "Yield levels and daily changes are the site market tables at the November 4, 2026 midday update: 5 year -5.4bp to 4.69 percent, 10 year -5.0bp to 4.90 percent, 30 year -3.0bp to 5.29 percent. The morning update had shown yields up about 5 basis points before the quarterly refunding statement, which was published at 8:30 AM ET on November 4, 2026 and held coupon sizes unchanged at $125 billion; see the refunding story in this beat."
 ---
 
-Treasury yields backed up on Wednesday morning as investors absorbed the midterm election results and waited for the Treasury's quarterly refunding statement. The 10 year note yield rose 5.8 basis points to 4.95 percent, its largest one day increase since late September, the 30 year bond rose 5.5 basis points to 5.32 percent, the 5 year rose 5.0 basis points to 4.74 percent and the policy sensitive 2 year rose 3.1 basis points to 4.61 percent. The dollar index eased 0.4 percent to 101.43, so the move was a curve selloff rather than a broad dollar bid.
+Treasury yields backed up early on Wednesday as investors absorbed the midterm election results and waited for the Treasury's quarterly refunding statement, then fell back after the statement held auction sizes unchanged. By midday the site market tables put the 10 year note yield down 5.0 basis points to 4.90 percent, the 30 year bond down 3.0 basis points to 5.29 percent and the 5 year down 5.4 basis points to 4.69 percent. The dollar index eased 0.37 percent to 101.50, so the midday move was a curve rally rather than a broad dollar bid.
 
 The refunding statement, due at 8:30 AM Eastern today, frames the supply side of that selloff. The Treasury said in its August statement that the next quarterly refunding announcement would take place on November 4, and on Monday it estimated privately held net marketable borrowing of $618 billion for the October to December quarter and $800 billion for January to March 2027. If auction sizes are left unchanged, next week's refunding auctions total $125 billion: $58 billion of 3 year notes on November 9, $42 billion of 10 year notes on November 10 and $25 billion of 30 year bonds on November 12.
 
