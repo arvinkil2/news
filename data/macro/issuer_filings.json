@@ -42,6 +42,33 @@
   ],
   "meta": [
    {
+    "accession": "0001193125-26-446110",
+    "date": "2026-11-04",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Preliminary prospectus supplement: euro senior notes offering launched",
+    "detail": "Preliminary prospectus supplement dated November 4, 2026 for euro senior notes in six series, denominations of 100,000 euro, amounts and coupons blank in the preliminary. The supplement is the concurrent securities offering referred to in the November 3, 2026 dollar notes offering. No priced terms had been filed at the time of this run.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526446110/0001193125-26-446110-index.htm"
+   },
+   {
+    "accession": "0001193125-26-444440",
+    "date": "2026-11-03",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Preliminary prospectus supplement: senior notes offering launched",
+    "detail": "Preliminary prospectus supplement dated November 3, 2026 for senior notes in five series, amounts and coupons blank in the preliminary. The offering priced the same day at $15,000M (see the pricing term sheet, accession 0001193125-26-445646). Proceeds are stated for general corporate purposes.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526444440/0001193125-26-444440-index.htm"
+   },
+   {
+    "accession": "0001193125-26-445646",
+    "date": "2026-11-03",
+    "form": "FWP",
+    "grade": "A",
+    "title": "Pricing term sheet: $15,000M senior notes in five series",
+    "detail": "Priced November 3, 2026, settling November 5, 2026: $3,250M of 5.850% notes due 2031 (CUSIP 30303MAM4), $3,250M of 6.250% notes due 2033 (30303MAN2), $4,000M of 6.550% notes due 2036 (30303MAP7), $1,750M of 7.350% notes due 2046 (30303MAQ5) and $2,750M of 7.500% notes due 2056 (30303MAR3). Ratings Aa3 (stable) from Moody's and AA- (negative) from S&P. Proceeds are stated for general corporate purposes.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526445646/0001193125-26-445646-index.htm"
+   },
+   {
     "accession": "0001193125-26-438017",
     "date": "2026-10-29",
     "detail": "The offering of 250,000,000 Series A depositary shares (each a 1/20th interest in a share of 6.50% Series A Mandatory Convertible Preferred Stock, $1,000 liquidation preference per preferred share) closed on October 29, 2026 under the October 26, 2026 underwriting agreement with Morgan Stanley and Goldman Sachs; certificates of designations were filed in Delaware on October 28, 2026 and a deposit agreement was signed with Computershare as depositary. The same 8-K records the forward sale agreements for 40,000,000 Class A shares with Morgan Stanley Capital Services and Goldman Sachs as forward purchasers. Together these are the closing filings for the $37.5B package priced on October 27, 2026.",
@@ -99,6 +126,24 @@
    }
   ],
   "oracle": [
+   {
+    "accession": "0001193125-26-445847",
+    "date": "2026-11-04",
+    "form": "424B5",
+    "grade": "A",
+    "title": "Final prospectus: 86,206,897 common shares at $116.00, gross $10,000M",
+    "detail": "Final prospectus supplement for the common stock offering launched concurrently with the $10,000M notes offering on November 2, 2026: 86,206,897 shares at a price to public of $116.0000 per share, gross $10,000,000,052, expected net proceeds of about $9.9B. Neither closing is conditioned on the other. Proceeds are stated for general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions and dividends or buybacks.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526445847/0001193125-26-445847-index.htm"
+   },
+   {
+    "accession": "0001193125-26-445846",
+    "date": "2026-11-04",
+    "form": "424B2",
+    "grade": "A",
+    "title": "Final prospectus: $10,000M senior notes, settlement November 4, 2026",
+    "detail": "Final prospectus supplement for the notes priced on November 2, 2026: $2,000M of 7.000% notes due 2029 (CUSIP 68389XEJ0), $1,750M of 7.450% notes due 2031 (68389XED3), $2,250M of 7.850% notes due 2033 (68389XEE1), $2,500M of 8.000% notes due 2037 (68389XEF8) and $1,500M of 8.650% notes due 2046 (68389XEG6). Proceeds are stated for general corporate purposes, which may include capital expenditures and repayment of indebtedness.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526445846/0001193125-26-445846-index.htm"
+   },
    {
     "accession": "0001193125-26-442729",
     "date": "2026-11-02",
