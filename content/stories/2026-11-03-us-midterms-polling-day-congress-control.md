@@ -1,12 +1,12 @@
 ---
-title: "Americans vote in midterms deciding control of Congress"
+title: "Democrats projected to win House in midterms"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T21:14:36-05:00
+last_updated: 2026-11-03T21:43:04-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "The Associated Press projects Democrat Roy Cooper to win the Senate race in North Carolina, flipping a Republican-held seat, while Republican Ashley Moody holds the Florida Senate seat and Democrats hold Georgia and New Hampshire, with neither chamber yet called."
-why_it_matters: "North Carolina is the first Democratic Senate pickup of the night, in what the Guardian describes as the most expensive Senate race of the midterms, and Democrats need a net gain of four seats for a Senate majority; with Georgia and New Hampshire held and Florida staying Republican, the majority now turns on the still uncalled races in Texas, Ohio, Michigan, Alaska and Iowa."
+lede: "Decision Desk HQ projects Democrats to win control of the House of Representatives in the midterm elections, flipping the chamber after four years in the minority, while control of the Senate has not been called."
+why_it_matters: "A Democratic House creates divided government for the rest of President Trump's term, giving Democrats control of the floor agenda, committee hearings and subpoena power, and a brake on the Republican legislative agenda; the Senate majority still turns on the uncalled races in Texas, Ohio, Michigan, Alaska and Iowa."
 featured: true
 evidence_grade: "B"
 sources:
@@ -50,12 +50,22 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race"
     published: "2026-11-03"
+  - title: "Democrats seize House control from Republicans"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/house/6184874-democrats-clinch-house-majority/"
+    published: "2026-11-03"
+  - title: "Democrats Win Control of the US House, Decision Desk HQ Projects"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-control-of-the-house-ddhq-projects"
+    published: "2026-11-03"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 21:14 Eastern. The North Carolina and Florida projections are the Associated Press's, as shown in the Guardian's live results and read in full via the live browser in this run; vote shares are the snapshot read at about 21:12 Eastern, with an estimated 78.3 percent of the North Carolina vote and 97.9 percent of the Florida vote counted. The New Hampshire and Georgia projections are Decision Desk HQ's, reported by The Hill on November 3, 2026. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 21:43 Eastern. The House projection is Decision Desk HQ's, reported by The Hill at 21:11 Eastern and by Bloomberg at 21:13 Eastern on November 3, 2026, both read in full via the live browser in this run; neither report gives a seat count, and Bloomberg notes other news organizations had not yet called the House. The North Carolina and Florida projections are the Associated Press's, as shown in the Guardian's live results; vote shares are the snapshot read at about 21:12 Eastern, with an estimated 78.3 percent of the North Carolina vote and 97.9 percent of the Florida vote counted. The New Hampshire and Georgia projections are Decision Desk HQ's, reported by The Hill on November 3, 2026. No Senate call had been reported at the time of this update. Projections are not certified results."
 ---
 
 Latest
+
+Decision Desk HQ projects Democrats to win control of the House of Representatives, The Hill and Bloomberg reported on Tuesday night, flipping the chamber after four years in the minority and creating divided government for the rest of President Trump's second term. Neither report gives a seat count or names a clinching race, and Bloomberg notes that other news organizations had not yet made a call on the House majority. The Hill reports that House Minority Leader Hakeem Jeffries is expected to become Speaker when the new Congress votes on January 3, and that Democrats have vowed investigations beginning on their first day, alongside early bills on health care costs; none of that displaces the Senate, whose control has not been called.
 
 The Associated Press projects Democrat Roy Cooper, the former governor, to win the Senate race in North Carolina, defeating the Trump-backed Republican Michael Whatley and flipping a Republican-held seat. At the snapshot read at about 9:12pm Eastern, Cooper had 60.2 percent of the vote to 37.8 percent for Whatley, with an estimated 78.3 percent of the vote counted. The Guardian describes the contest as the most expensive Senate race of the midterms, and the flip gives Democrats their first Senate pickup of the night.
 
@@ -65,7 +75,7 @@ Decision Desk HQ projects Democrat Chris Pappas to win the open Senate seat in N
 
 Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia, defeating Republican Representative Mike Collins. The Hill reported the projection at 7:22pm Eastern, with Ossoff leading with about 80 percent of the vote to nearly 20 percent for Collins, with 11 percent of precincts reporting. Georgia was one of the few legitimate Republican pickup opportunities in the Senate, in a state President Trump carried in 2024, and Ossoff had led in polling and outraised Collins through the campaign.
 
-The Guardian assesses that Democrats are poised to take control of the House, where Republicans hold 218 seats to 214 for Democrats and a majority requires 218. That is an assessment, not a call: the Guardian cites the Cook Political Report forecast of a Democratic pickup of 15 to 25 seats, which would give Democrats 230 to 240 seats, and notes that uncertainty remains over the size of the gain. Control of neither chamber had been called at the time of this update, and the Senate contests in Texas, Ohio, Michigan, Alaska and Iowa remain the deciding races.
+The Guardian assesses that Democrats are poised to take control of the House, where Republicans hold 218 seats to 214 for Democrats and a majority requires 218. That is an assessment, not a call: the Guardian cites the Cook Political Report forecast of a Democratic pickup of 15 to 25 seats, which would give Democrats 230 to 240 seats, and notes that uncertainty remains over the size of the gain. That assessment preceded the Decision Desk HQ call reported above; the Senate contests in Texas, Ohio, Michigan, Alaska and Iowa remain the deciding races for that chamber.
 
 Earlier tonight, polls began closing at 6pm Eastern in Indiana and Kentucky, and the first projection of the night went to Republicans: Decision Desk HQ projects Ed Gallrein, a retired Navy SEAL and farmer endorsed by President Trump, to win Kentucky's 4th Congressional District, the seat held by Republican Thomas Massie. Gallrein led Democrat Melissa Strange by 59 percent to 30 percent on a small share of the vote reported, after defeating Massie for the Republican nomination in May by 54.9 percent to 45.1 percent. Massie had repeatedly clashed with the president, backing war powers resolutions on Iran and legislation to force release of the Epstein files.
 
