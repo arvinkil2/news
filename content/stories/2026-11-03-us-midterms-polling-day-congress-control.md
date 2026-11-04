@@ -1,12 +1,12 @@
 ---
 title: "Americans vote in midterms deciding control of Congress"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-03T20:17:48-05:00
+last_updated: 2026-11-03T20:44:53-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia, closing a Republican Senate pickup target, and the Guardian assesses Democrats as poised to take the House, although neither chamber has been called."
-why_it_matters: "Georgia was one of the few Republican pickup opportunities in the Senate, in a state President Trump carried in 2024, so an Ossoff hold keeps the Democratic path to a Senate majority open; House control remains uncalled, and a Democratic House would give the party committee control and subpoena power for the final two years of the term."
+lede: "Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia and Democrat Chris Pappas to win the open Senate seat in New Hampshire, closing two Republican pickup targets, while the Guardian assesses Democrats as poised to take the House, although neither chamber has been called."
+why_it_matters: "Georgia and New Hampshire were two of the few Republican pickup opportunities in the Senate, in states President Trump carried or contested closely in 2024, so Democratic holds in both keep the party's path to a Senate majority open; House control remains uncalled, and a Democratic House would give the party committee control and subpoena power for the final two years of the term."
 featured: true
 evidence_grade: "B"
 sources:
@@ -34,16 +34,22 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/campaign/6181803-ossoff-wins-georgia-senate-reelection/"
     published: "2026-11-03"
+  - title: "Democratic Rep. Chris Pappas wins Senate seat in New Hampshire"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6185147-democratic-rep-chris-pappas-wins-senate-seat-in-new-hampshire/"
+    published: "2026-11-03"
   - title: "Democrats look poised to win House control in midterm elections after two turbulent years of Trump"
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results"
     published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 3, 2026 at 20:17 Eastern. The Georgia projection is Decision Desk HQ's, reported by The Hill at 7:22pm Eastern on November 3, 2026 and read in full via the live browser in this run. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT and read in full via the live browser in this run; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
+data_as_of: "Updated November 3, 2026 at 20:44 Eastern. The New Hampshire projection is Decision Desk HQ's, reported by The Hill on November 3, 2026 and read in full via the live browser in this run. The Georgia projection is Decision Desk HQ's, reported by The Hill at 7:22pm Eastern on November 3, 2026 and read in full via the live browser in an earlier run. The House assessment is the Guardian's, published November 4, 2026 at 00:25 GMT; it is an assessment, not a decision desk call, and no chamber had been called at the time of this update. Projections are not certified results."
 ---
 
 Latest
+
+Decision Desk HQ projects Democrat Chris Pappas to win the open Senate seat in New Hampshire, defeating former Senator John Sununu and holding the seat of retiring Democratic Senator Jeanne Shaheen. The Hill reported that shortly after 8pm Eastern Pappas had nearly 61 percent of the vote with 22 percent of ballots counted. The race had moved from the Democratic column to a toss-up and back during the campaign, and the hold denies Republicans a second pickup target on the night.
 
 Decision Desk HQ projects Democratic Senator Jon Ossoff to win re-election in Georgia, defeating Republican Representative Mike Collins. The Hill reported the projection at 7:22pm Eastern, with Ossoff leading with about 80 percent of the vote to nearly 20 percent for Collins, with 11 percent of precincts reporting. Georgia was one of the few legitimate Republican pickup opportunities in the Senate, in a state President Trump carried in 2024, and Ossoff had led in polling and outraised Collins through the campaign.
 
