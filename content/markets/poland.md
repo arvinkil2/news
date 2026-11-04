@@ -2,13 +2,13 @@
 title: "Poland"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed every 15 minutes."
-data_as_of: "Nov 4, 4:08 PM ET"
+data_as_of: "Nov 4, 4:22 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 4, 4:08 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 4, 4:22 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$44.0300 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+3.18%</span></td><td class="num"><span class="down">-0.44%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.6 4.4,7.8 8.7,16.7 13.1,18.3 17.5,14.5 21.8,13.6 26.2,8.0 30.5,12.7 34.9,8.3 39.3,7.2 43.6,11.9 48.0,10.7 52.4,2.0 56.7,11.6 61.1,17.7 65.5,16.8 69.8,11.4 74.2,10.6 78.5,5.6 82.9,18.7 87.3,25.8 91.6,26.0 96.0,12.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/PLN</td><td class="num">3.9041 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+0.97%</span></td><td class="num"><span class="up">+1.23%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.0 4.4,16.7 8.7,23.6 13.1,15.9 17.5,17.6 21.8,15.3 26.2,9.6 30.5,17.8 34.9,16.9 39.3,20.0 43.6,20.5 48.0,20.0 52.4,21.7 56.7,26.0 61.1,18.9 65.5,11.7 69.8,6.2 74.2,2.0 78.5,4.6 82.9,11.1 87.3,2.2 91.6,5.1 96.0,16.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$44.0400 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+3.21%</span></td><td class="num"><span class="down">-0.41%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,17.6 4.4,7.8 8.7,16.7 13.1,18.3 17.5,14.5 21.8,13.6 26.2,8.0 30.5,12.7 34.9,8.3 39.3,7.2 43.6,11.9 48.0,10.7 52.4,2.0 56.7,11.6 61.1,17.7 65.5,16.8 69.8,11.4 74.2,10.6 78.5,5.6 82.9,18.7 87.3,25.8 91.6,26.0 96.0,12.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/PLN</td><td class="num">3.9036 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+0.99%</span></td><td class="num"><span class="up">+1.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.0 4.4,16.7 8.7,23.6 13.1,15.9 17.5,17.6 21.8,15.3 26.2,9.6 30.5,17.8 34.9,16.9 39.3,20.0 43.6,20.5 48.0,20.0 52.4,21.7 56.7,26.0 61.1,18.9 65.5,11.7 69.8,6.2 74.2,2.0 78.5,4.6 82.9,11.1 87.3,2.2 91.6,5.1 96.0,17.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -18,6 +18,7 @@ data_as_of: "Nov 4, 4:08 PM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-03 (Treasury BondSpot Poland), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-poland-holds-reference-rate-at-3-75-percent/">Poland holds reference rate at 3.75 percent in November</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-politics-also-notable/">Politics also notable: Poland&#x27;s court fight becomes campaign ground</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-poland-constitutional-tribunal-president-suspended/">Poland tribunal president suspended as president cuts short trip</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-poland-scrambles-jets-baltic-air-warnings/">Poland scrambles jets and closes two airports</a></p>
