@@ -1,12 +1,12 @@
 ---
 title: "Democrats sweep Congress as Collins falls in Maine"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-04T01:18:45-05:00
+last_updated: 2026-11-04T01:42:28-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrats have completed a sweep of Congress, with Troy Jackson toppling five-term Republican Susan Collins in Maine, a sixth Senate pickup on top of the House win, while Asian markets slide on the results, Japan's Nikkei down as much as 4.8 percent on chip shares."
-why_it_matters: "Both chambers flip for the rest of President Trump's term, and the Maine result removes the Senate Appropriations chair and the chamber's longest-serving Republican woman; markets are pricing the sweep as a threat to the AI trade, with Japanese and Korean chip shares down sharply in Wednesday trading."
+lede: "Democrats have completed a sweep of Congress, with Troy Jackson toppling five-term Republican Susan Collins in Maine for a sixth Senate pickup and Abdul El-Sayed holding Michigan's open seat, while Asian markets slide on the results, Japan's Nikkei down as much as 4.8 percent on chip shares."
+why_it_matters: "Both chambers flip for the rest of President Trump's term, the Maine result removes the Senate Appropriations chair, and Michigan's hold makes Abdul El-Sayed the first Muslim American elected to the Senate; markets are pricing the sweep as a threat to the AI trade, with Japanese and Korean chip shares down sharply in Wednesday trading."
 featured: true
 evidence_grade: "B"
 sources:
@@ -110,12 +110,18 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares"
     published: "2026-11-04"
+  - title: "El-Sayed defeats Rogers to win Michigan Senate race"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6192294-el-sayed-wins-michigan-senate/"
+    published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 4, 2026 at 01:18 Eastern. The Maine result is the Guardian's report and TIME's report, both read in full via the live browser in this run; TIME states the Associated Press had not yet called the race and that Collins had conceded, and neither report gives a vote margin. The Japanese market figures are Bloomberg's, read in full via the live browser in this run from the article's opening section, which was the portion accessible. Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
+data_as_of: "Updated November 4, 2026 at 01:42 Eastern. The Michigan result is Decision Desk HQ's projection, reported by The Hill at 1:17am Eastern on November 4, 2026 and read in full via the live browser in this run; with 52 percent tallied, El-Sayed had just over 50 percent to Rogers at more than 47 percent, and no raw vote totals were given. The Maine result is the Guardian's report and TIME's report, both read in full via the live browser in an earlier run; TIME states the Associated Press had not yet called the race and that Collins had conceded, and neither report gives a vote margin. The Japanese market figures are Bloomberg's, read in full via the live browser in this run from the article's opening section, which was the portion accessible. Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
 ---
 
 Latest
+
+Decision Desk HQ projects Democrat Abdul El-Sayed to win the Senate race in Michigan, defeating Republican Mike Rogers for the open seat of retiring Democratic Senator Gary Peters, The Hill reported at 1:17am Eastern. With 52 percent of the vote tallied, El-Sayed had just over 50 percent to more than 47 percent for Rogers, and no raw vote totals were given. The hold, in a state President Trump narrowly carried in 2024, keeps a Democratic seat the party had to defend and makes El-Sayed, a doctor and former Detroit and Wayne County health chief born in Michigan to Egyptian immigrant parents, the first Muslim American elected to the Senate. Rogers, a former congressman backed by President Trump, had narrowly lost Michigan's other Senate race in 2024.
 
 Democrat Troy Jackson has won the Senate race in Maine, defeating Republican Senator Susan Collins and ending her tenure in Washington after nearly three decades, the Guardian reported. Collins, first elected in 1997 and a five-term incumbent, chaired the Senate Appropriations Committee and was the only Senate Republican running in a state President Trump lost in 2024. TIME reported that the Associated Press had not yet called the race but that Collins had conceded. Jackson, 58, a lumberjack and former Maine Senate president, took over the Democratic nomination after the original nominee dropped out and had 101 days to campaign. Maine is a sixth Democratic Senate pickup.
 
