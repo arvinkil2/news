@@ -1,7 +1,7 @@
 ---
 title: "Vertex lifts revenue guidance after third quarter beat"
 date: 2026-11-03T07:05:43-05:00
-last_updated: 2026-11-03T07:05:43-05:00
+last_updated: 2026-11-04T07:05:59-05:00
 beats: ["life-sciences"]
 regions: ["north-america"]
 status: "story"
@@ -14,6 +14,10 @@ sources:
     publisher: "Dow Jones Newswires, via Morningstar"
     url: "https://www.morningstar.com/news/dow-jones/2026110211005/vertex-pharmaceuticals-raises-outlook-following-crinetics-acquisition"
     published: "2026-11-02"
+  - title: "Vertex, ahead of FDA decision, calms fears surrounding kidney drug"
+    publisher: "BioPharma Dive"
+    url: "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/"
+    published: "2026-11-03"
   - title: "Vertex Q3 Earnings: Taking a Look at Key Metrics Versus Estimates"
     publisher: "Zacks Equity Research"
     url: "https://www.zacks.com/stock/news/3021140/vertex-vrtx-q3-earnings-taking-a-look-at-key-metrics-versus-estimates?art_rec=blog-fundamental_analysis-up_next-ID01-txt-3021140"
@@ -29,3 +33,5 @@ The higher outlook includes an expected 40 million to 50 million dollars of reve
 Profit did not follow revenue. Third quarter net income fell to 653.6 million dollars, or 2.56 dollars a share, from 1.08 billion dollars, or 4.20 dollars a share, a year earlier, as total costs and expenses climbed to 2.73 billion dollars from 1.89 billion dollars. Adjusted earnings were 4.76 dollars a share, below the 4.83 dollars analysts expected, and the company raised its full year non-GAAP expense guidance to approximately 6 billion dollars, including 250 million dollars of costs tied to the Crinetics acquisition.
 
 Inside the portfolio, the transition within cystic fibrosis continues: Alyftrek, the once daily successor, is replacing Trikafta rather than simply adding to it, and Trikafta sales declined as patients switched. The newer non-CF products, Casgevy and Journavx, are growing from a small base, and management is already spending to launch povetacicept ahead of its decision date. Shares rose in after hours trading on the revenue beat and the guidance raise.
+
+Update, November 4: On the earnings call, Vertex addressed the late October citizen petition that asked the FDA to require regular monitoring of antibody levels for patients on povetacicept and guidance for managing low levels. Chief commercial officer Duncan McKechnie said the launch team for the drug is fully hired, trained and ready, and management said it is 100 percent ready to sell the product if approved. BioPharma Dive reported that analysts treated the launch confidence as the quarter's main good news, while noting shares fell about 3 percent by mid morning on November 3 and that adjusted earnings per share came in about 4 percent below consensus. The FDA decision date for povetacicept in IgA nephropathy remains November 30, 2026, under priority review for accelerated approval.

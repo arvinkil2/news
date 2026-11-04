@@ -1,14 +1,14 @@
 ---
 title: "Euro area inflation hits 4 percent in October"
 date: 2026-11-04T06:14:07-05:00
-last_updated: 2026-11-04T06:14:07-05:00
+last_updated: 2026-11-04T07:20:43-05:00
 beats: ["rates"]
 regions: ["europe"]
 status: "developing"
 developing: true
 lede: "Euro area annual inflation rose to 4.0 percent in October from 3.8 percent in September, according to Eurostat's flash estimate, matching expectations and reaching the 4 percent mark for the first time since September 2023."
 why_it_matters: "The rise is energy led, with the rate excluding energy, food, alcohol and tobacco steady at 2.5 percent, but a headline rate at a three year high keeps a December European Central Bank rate rise the market's base case."
-featured: false
+featured: true
 evidence_grade: "A"
 sources:
   - title: "Euro area annual inflation up to 4.0%"

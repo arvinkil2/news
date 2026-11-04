@@ -1,7 +1,7 @@
 ---
 title: "Democrats sweep Congress as Collins falls in Maine"
 date: 2026-11-03T07:04:29-05:00
-last_updated: 2026-11-04T02:14:58-05:00
+last_updated: 2026-11-04T07:20:03-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
@@ -122,12 +122,22 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/administration/6196392-trump-congratulates-democrats-midterm-wins/"
     published: "2026-11-04"
+  - title: "Associated Press election results: U.S. House"
+    publisher: "Associated Press"
+    url: "https://apnews.com/projects/elections-2026/?ap_doc=ap%2Frg1%2FWyJhcC92Mi8yMDI2MTEwMy9sLzk5OTk5OS9VUy9uIixbIjE3ODUwNiIsIjE3ODUwNyIsIjE3ODUwOCJdXQ"
+    published: "2026-11-04"
+  - title: "Associated Press election results: U.S. Senate"
+    publisher: "Associated Press"
+    url: "https://apnews.com/projects/elections-2026/?ap_doc=ap%2Fcs1%2F20261103%2Fl"
+    published: "2026-11-04"
 tags: []
 update_bump: true
-data_as_of: "Updated November 4, 2026 at 02:14 Eastern. President Trump's reaction is Fox News's report, published 1:32am Eastern on November 4, 2026 and read in full via the live browser in this run, corroborated by The Hill's report of the same remarks in this run's feed queue; the CBS News remarks are quoted as Fox News reported them. Updated November 4, 2026 at 01:42 Eastern. The Michigan result is Decision Desk HQ's projection, reported by The Hill at 1:17am Eastern on November 4, 2026 and read in full via the live browser in this run; with 52 percent tallied, El-Sayed had just over 50 percent to Rogers at more than 47 percent, and no raw vote totals were given. The Maine result is the Guardian's report and TIME's report, both read in full via the live browser in an earlier run; TIME states the Associated Press had not yet called the race and that Collins had conceded, and neither report gives a vote margin. The Japanese market figures are Bloomberg's, read in full via the live browser in this run from the article's opening section, which was the portion accessible. Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
+data_as_of: "Updated November 4, 2026 at 07:20 Eastern with the Associated Press morning tally and the Iowa call, read from the AP results pages in this run. Updated November 4, 2026 at 02:14 Eastern. President Trump's reaction is Fox News's report, published 1:32am Eastern on November 4, 2026 and read in full via the live browser in this run, corroborated by The Hill's report of the same remarks in this run's feed queue; the CBS News remarks are quoted as Fox News reported them. Updated November 4, 2026 at 01:42 Eastern. The Michigan result is Decision Desk HQ's projection, reported by The Hill at 1:17am Eastern on November 4, 2026 and read in full via the live browser in this run; with 52 percent tallied, El-Sayed had just over 50 percent to Rogers at more than 47 percent, and no raw vote totals were given. The Maine result is the Guardian's report and TIME's report, both read in full via the live browser in an earlier run; TIME states the Associated Press had not yet called the race and that Collins had conceded, and neither report gives a vote margin. The Japanese market figures are Bloomberg's, read in full via the live browser in this run from the article's opening section, which was the portion accessible. Updated November 3, 2026 at 23:43 Eastern. The Senate majority report is The Hill's, published 23:19 Eastern on November 3, 2026 and read in full via the live browser in this run; The Hill states the majority as won and names no single clinching race or seat total. The Ohio projection is Decision Desk HQ's, reported in full by The Hill at 23:20 Eastern. The Texas and Ohio governor results rest on headlines from The Hill, Fox News, Bloomberg and Al Jazeera in this run's feed queue and were not read in full. Earlier sourcing as previously published. Projections are not certified results."
 ---
 
 Latest
+
+Morning update, November 4: the Associated Press has now called Iowa for Democrat Josh Turek, a seventh Republican held Senate seat flipped, with all precincts reporting in the AP count. In the House, the AP tally at the morning snapshot had Democrats at 222 seats called with 41 more leading, against 138 called and 34 leading for Republicans, on 75.68 percent of precincts reporting nationally, so the Democratic House majority rests on called and leading seats combined and the final margin is not yet set. Alaska and Mississippi remained too early to call in the AP Senate table. All results remain projections and calls subject to state certification.
 
 President Trump congratulated Democrats late on Tuesday and said he looked forward to working with them, telling CBS News his message was congratulations and that he looked forward to working with them for the good of the country, Fox News reported. He paired the congratulations with his veto, saying Democrats would want to work with him because otherwise he would veto everything, and on Fox News Channel's election coverage he said he would use the veto against Democratic legislation and predicted Democrats would seek deals after a couple of months of vetoes. He also attributed the Republican results in part to his own absence from the ballot.
 
