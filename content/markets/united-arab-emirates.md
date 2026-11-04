@@ -2,12 +2,12 @@
 title: "United Arab Emirates"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Arab Emirates, refreshed every 15 minutes."
-data_as_of: "Nov 4, 12:10 PM ET"
+data_as_of: "Nov 4, 12:39 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 4, 12:10 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 4, 12:39 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI UAE (UAE)</td><td class="num">$20.1200 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+4.68%</span></td><td class="num"><span class="up">+3.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.9 4.4,10.1 8.7,10.1 13.1,19.6 17.5,19.1 21.8,19.4 26.2,17.9 30.5,14.6 34.9,14.0 39.3,14.9 43.6,12.9 48.0,11.4 52.4,10.6 56.7,20.2 61.1,24.9 65.5,22.4 69.8,11.9 74.2,16.8 78.5,21.1 82.9,26.0 87.3,21.3 91.6,21.3 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI UAE (UAE)</td><td class="num">$20.0800 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+4.47%</span></td><td class="num"><span class="up">+3.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.3 4.4,9.6 8.7,9.6 13.1,19.3 17.5,18.9 21.8,19.1 26.2,17.6 30.5,14.2 34.9,13.6 39.3,14.4 43.6,12.4 48.0,10.9 52.4,10.0 56.7,20.0 61.1,24.9 65.5,22.2 69.8,11.3 74.2,16.4 78.5,20.9 82.9,26.0 87.3,21.1 91.6,21.1 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/AED</td><td class="num">3.6729 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="down">-0.04%</span></td><td class="num"><span class="down">-0.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,26.0 8.7,26.0 13.1,26.0 17.5,26.0 21.8,26.0 26.2,26.0 30.5,26.0 34.9,26.0 39.3,26.0 43.6,26.0 48.0,26.0 52.4,26.0 56.7,26.0 61.1,26.0 65.5,26.0 69.8,26.0 74.2,26.0 78.5,26.0 82.9,26.0 87.3,26.0 91.6,26.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
