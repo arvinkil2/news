@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-04"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 4, 8:42 AM ET"
+data_as_of: "Nov 4, 9:05 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 4, 8:42 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 4, 9:05 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,569 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.36%</span></td><td class="num"><span class="down">-1.99%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.9 4.6,2.0 9.1,3.5 13.7,6.6 18.3,2.6 22.9,3.0 27.4,3.2 32.0,10.6 36.6,8.5 41.1,15.8 45.7,13.1 50.3,11.2 54.9,7.3 59.4,15.4 64.0,18.9 68.6,14.3 73.1,10.3 77.7,8.5 82.3,10.5 86.9,22.7 91.4,26.0 96.0,23.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$754.35 <span class="gm-sub-inline">as of 2026-11-03</span></td><td class="num"><span class="up">+0.30%</span></td><td class="num"><span class="down">-1.99%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.8 4.6,2.0 9.1,3.7 13.7,6.6 18.3,2.5 22.9,2.9 27.4,3.0 32.0,10.4 36.6,8.5 41.1,16.1 45.7,13.2 50.3,10.9 54.9,7.3 59.4,15.5 64.0,19.0 68.6,14.2 73.1,10.4 77.7,8.0 82.3,10.7 86.9,22.8 91.4,26.0 96.0,24.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
