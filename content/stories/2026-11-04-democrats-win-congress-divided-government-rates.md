@@ -1,7 +1,7 @@
 ---
 title: "Democrats win Congress, setting up divided government finances"
 date: 2026-11-04T07:19:51-05:00
-last_updated: 2026-11-04T11:25:02-05:00
+last_updated: 2026-11-04T11:42:23-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
@@ -34,10 +34,16 @@ sources:
     publisher: "Bloomberg Government"
     url: "https://news.bgov.com/bloomberg-government-news/johnson-forgoes-another-gop-leadership-bid-after-midterm-loss"
     published: "2026-11-04"
+  - title: "Vance breaks silence on midterms: 'The reason we lost is the war'"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6197976-vance-midterms-iran-war-trump/"
+    published: "2026-11-04"
 tags: []
-data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing. Updated November 4, 2026 with Speaker Johnson's leadership decision, reported by Axios, CBS News and Bloomberg Government the same day and read in this run."
+data_as_of: "Midterm elections held November 3, 2026; Senate control called by the Associated Press and reported by The Hill on November 4, 2026, House control projected by Decision Desk HQ and reported by Bloomberg and The Hill on November 4, 2026. Some individual races remained uncalled at the time of writing. Updated November 4, 2026 with Speaker Johnson's leadership decision, reported by Axios, CBS News and Bloomberg Government the same day and read in this run. Updated again November 4, 2026 with Vice President Vance's remarks on the midterm losses, reported by The Hill the same day and read in full in this run."
 update_bump: true
 ---
+
+Latest: Vice President JD Vance has blamed the Iran war for the Republican defeat, writing in a social media post on Wednesday that "the reason we lost is the war" and arguing that anyone who contends the war was worth its cost should make that case openly, counting the loss of the Senate among its prices, rather than deny the cause of the defeat. President Trump had taken a narrower version of the same position on election night, telling the Wall Street Journal that the Middle East conflict, now in its eighth month, "was a piece of it," while saying he would have done it again. The war began in late February and has pushed fuel prices sharply higher, against Trump's 2024 promise to end foreign wars.
 
 Latest: House Speaker Mike Johnson told staff on a call on Wednesday morning that he will not run for minority leader in the new Congress, stepping aside as the House's top Republican after the midterm losses, according to sources familiar with the matter cited by Axios, CBS News and Bloomberg Government. The decision reverses what Johnson recently told CBS News, that he intended to remain the party's leader if Republicans lost the House. Majority Leader Steve Scalise and Judiciary Committee chairman Jim Jordan are considered likely candidates to succeed him, and House Republicans plan to hold their leadership elections on November 10.
 
