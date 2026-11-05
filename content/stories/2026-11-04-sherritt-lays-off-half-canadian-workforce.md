@@ -1,3 +1,4 @@
+---
 title: "Sherritt lays off nearly half its Canadian workforce"
 date: 2026-11-04T19:42:07-05:00
 last_updated: 2026-11-04T19:42:07-05:00

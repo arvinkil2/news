@@ -1,3 +1,4 @@
+---
 title: "David Jones collapses into administration after 188 years"
 date: 2026-11-04T19:42:07-05:00
 last_updated: 2026-11-04T19:42:07-05:00
