@@ -2,13 +2,13 @@
 title: "United States"
 date: "2026-11-05"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 5, 11:05 AM ET"
+data_as_of: "Nov 5, 11:37 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 5, 11:05 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 5, 11:37 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,420 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-3.49%</span></td><td class="num"><span class="down">-3.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.7 4.2,2.0 8.3,3.0 12.5,5.2 16.7,2.4 20.9,2.7 25.0,2.8 29.2,8.0 33.4,6.5 37.6,11.6 41.7,9.7 45.9,8.4 50.1,5.7 54.3,11.4 58.4,13.8 62.6,10.6 66.8,7.8 71.0,6.5 75.1,7.9 79.3,16.4 83.5,18.7 87.7,17.1 91.8,9.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$739.66 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-3.54%</span></td><td class="num"><span class="down">-3.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.6 4.2,2.0 8.3,3.1 12.5,5.1 16.7,2.3 20.9,2.6 25.0,2.7 29.2,7.8 33.4,6.4 37.6,11.6 41.7,9.7 45.9,8.1 50.1,5.7 54.3,11.2 58.4,13.6 62.6,10.4 66.8,7.7 71.0,6.1 75.1,7.9 79.3,16.2 83.5,18.4 87.7,17.1 91.8,9.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P 500 (index)</td><td class="num">7,479 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-2.72%</span></td><td class="num"><span class="down">-3.12%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.2 4.2,2.0 8.3,3.2 12.5,5.8 16.7,2.5 20.9,2.8 25.0,3.0 29.2,9.1 33.4,7.3 37.6,13.3 41.7,11.1 45.9,9.5 50.1,6.4 54.3,13.0 58.4,15.8 62.6,12.0 66.8,8.8 71.0,7.3 75.1,9.0 79.3,18.9 83.5,21.6 87.7,19.7 91.8,11.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$745.74 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-2.75%</span></td><td class="num"><span class="down">-3.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.1 4.2,2.0 8.3,3.3 12.5,5.7 16.7,2.4 20.9,2.7 25.0,2.8 29.2,8.8 33.4,7.3 37.6,13.4 41.7,11.1 45.9,9.2 50.1,6.3 54.3,12.9 58.4,15.8 62.6,11.9 66.8,8.8 71.0,6.9 75.1,9.0 79.3,18.8 83.5,21.4 87.7,19.8 91.8,10.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -21,9 +21,9 @@ data_as_of: "Nov 5, 11:05 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-qatarenergy-largest-buyer-us-lng/">QatarEnergy becomes largest buyer of US LNG supply</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-canada-merchandise-trade-surplus-widens-september/">Canada merchandise trade surplus widens in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-us-productivity-rises-3-6-percent-unit-labour-costs-fall/">US productivity jumps 3.6 percent as unit labour costs fall</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-us-jobless-claims-fall-189000-matching-1969-low/">US jobless claims fall to 189,000, matching 1969 low</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-oracle-scraps-tencent-chip-lease/">Oracle scraps $7 billion Tencent chip lease under US pressure</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-jpmorgan-us-copper-output-doubling/">JPMorgan sees United States copper output more than doubling</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-mining-also-notable/">Mining also notable: Ramelius starts Eridanus cutback in Australia</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-us-preliminary-dumping-finding-uae-steel-pipe/">US finds UAE steel pipe sold below fair value</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-oil-volatile-midterms-api-draw/">Oil whipsaws after midterms as US stocks draw</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
