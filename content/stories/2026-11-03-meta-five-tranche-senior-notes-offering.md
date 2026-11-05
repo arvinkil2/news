@@ -1,16 +1,20 @@
 ---
 title: "Meta raises 15 billion dollars in five part bond sale"
 date: 2026-11-03T09:05:02-05:00
-last_updated: 2026-11-04T06:43:10-05:00
+last_updated: 2026-11-05T17:59:57-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Meta Platforms has launched the euro leg of its bond sale, offering six series of euro senior notes in a preliminary prospectus supplement filed on Wednesday, a day after pricing 15 billion dollars of US dollar notes in five parts."
-why_it_matters: "The euro launch completes the two currency structure reported at the US dollar launch, extending Meta's AI funding programme to European investors, while sizes, coupons and maturities remain blank until pricing."
+lede: "Meta Platforms has completed its 15 billion dollar five part US dollar bond sale, its 8-K filing shows, and underwriters have exercised in full the option for 6 million more shares in its forward equity sale."
+why_it_matters: "Completion locks in the full priced terms of the dollar leg of Meta's AI funding programme, and the full greenshoe exercise lifts the forward equity sale to 46 million shares, adding equity funding alongside the debt raise."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Meta Platforms, Inc. Form 8-K, completed notes offering and forward sale option exercise (accession 0001193125-26-450074)"
+    publisher: "Meta Platforms, Inc. via SEC EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm"
+    published: "2026-11-05"
   - title: "Meta Platforms, Inc. preliminary prospectus supplement, Form 424B5 (accession 0001193125-26-444440)"
     publisher: "Meta Platforms, Inc. via SEC EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526444440/d135326d424b5.htm"
@@ -28,11 +32,15 @@ sources:
     url: "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
     published: "2026-11-03"
 tags: []
-data_as_of: "Updated November 4, 2026 with the euro launch: the preliminary prospectus supplement dated November 4, 2026 (accession 0001193125-26-446110), read in full from the SEC filings lane copy; amounts, coupons and maturities are blank in that document, subject to completion. Updated November 3, 2026 with the priced terms: Reuters report of November 3, 2026, read in full in this run, citing the regulatory filing for the 15 billion dollar total and the 2031 and 2033 tranches; the priced prospectus supplement itself had not been read in this run when this update was written. Launch terms are from the preliminary prospectus supplement dated November 3, 2026 (accession 0001193125-26-444440), read in full from the SEC filings lane copy."
+data_as_of: "Updated November 5, 2026 with the completion filing: Meta Platforms, Inc. Form 8-K filed November 5, 2026 (accession 0001193125-26-450074), read in full from the SEC filings lane copy; all completion terms, tranche amounts and coupons, and the forward sale option exercise are the filing's own. Updated November 4, 2026 with the euro launch: the preliminary prospectus supplement dated November 4, 2026 (accession 0001193125-26-446110), read in full from the SEC filings lane copy; amounts, coupons and maturities are blank in that document, subject to completion. Updated November 3, 2026 with the priced terms: Reuters report of November 3, 2026, read in full in this run, citing the regulatory filing for the 15 billion dollar total and the 2031 and 2033 tranches; the priced prospectus supplement itself had not been read in this run when this update was written. Launch terms are from the preliminary prospectus supplement dated November 3, 2026 (accession 0001193125-26-444440), read in full from the SEC filings lane copy."
 update_bump: true
 ---
 
-**Latest:** Meta has launched the euro leg of the sale. A preliminary prospectus supplement filed on Wednesday, marked subject to completion and dated November 4, 2026, offers six series of euro denominated senior notes, with aggregate amounts, coupons and maturities blank until pricing. The notes are unsecured, rank equally with Meta's other unsecured senior debt, and will be issued in minimum denominations of 100,000 euros. Meta intends to apply to list them on the Nasdaq Bond Exchange, expects delivery through Clearstream and Euroclear, and again names Citigroup and Morgan Stanley as joint book-running managers, with proceeds for general corporate purposes.
+**Latest:** Meta has completed the US dollar offering, the company said in a Form 8-K filed on Thursday. The five tranches total 15 billion dollars: 3.25 billion dollars of 5.850 percent senior notes due 2031, 3.25 billion dollars of 6.250 percent notes due 2033, 4 billion dollars of 6.550 percent notes due 2036, 1.75 billion dollars of 7.350 percent notes due 2046, and 2.75 billion dollars of 7.500 percent notes due 2056. The notes were issued under an underwriting agreement dated November 3, 2026 with Citigroup Global Markets and Morgan Stanley as representatives of the underwriters, and a sixth supplemental indenture dated November 5, 2026 with U.S. Bank Trust Company, National Association, as trustee.
+
+The same filing reports that on November 4 the underwriters exercised in full their 30 day option to purchase an additional 6 million shares of Class A common stock in Meta's forward sale offering, and Meta entered additional forward sale agreements for those shares on terms essentially similar to the original agreements. The exercise takes the forward sale programme to 46 million shares, after the 40 million shares covered by the original forward sale agreements dated October 26, 2026.
+
+Meta has launched the euro leg of the sale. A preliminary prospectus supplement filed on Wednesday, marked subject to completion and dated November 4, 2026, offers six series of euro denominated senior notes, with aggregate amounts, coupons and maturities blank until pricing. The notes are unsecured, rank equally with Meta's other unsecured senior debt, and will be issued in minimum denominations of 100,000 euros. Meta intends to apply to list them on the Nasdaq Bond Exchange, expects delivery through Clearstream and Euroclear, and again names Citigroup and Morgan Stanley as joint book-running managers, with proceeds for general corporate purposes.
 
 Meta priced 15 billion dollars of US dollar notes in five parts on Tuesday, Reuters reported, citing a regulatory filing. The tranches reported in detail were 3.25 billion dollars due in 2031 carrying a 5.85 percent coupon and 3.25 billion dollars due in 2033 at 6.25 percent. Moody's assigned the new debt an Aa3 rating, and Reuters put Meta's total debt at 83.67 billion dollars as of September 30, citing LSEG data. At launch CNBC had reported an expected size of 20 billion to 25 billion dollars split roughly two-thirds in US dollars and one-third in euros, and that S&P Global Ratings on Friday revised Meta's outlook to negative from stable at AA-, citing uncertainty over its heavy capital spending and negative free cash flow. Meta's full-year capital spending guidance stands at 135 billion to 145 billion dollars.
 
