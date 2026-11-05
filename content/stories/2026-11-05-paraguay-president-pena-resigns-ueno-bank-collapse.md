@@ -1,12 +1,12 @@
 ---
-title: "Paraguay president Santiago Peña resigns over Ueno bank collapse"
+title: "Paraguay lower house impeaches Peña 78-0 after his resignation"
 date: 2026-11-05T11:50:11-05:00
-last_updated: 2026-11-05T13:45:08-05:00
+last_updated: 2026-11-05T15:06:43-05:00
 beats: ["politics"]
 regions: ["latin-america"]
 status: "story"
-lede: "Paraguay's President Santiago Peña resigned on Thursday over the collapse of ueno bank, and Vice President Pedro Alliana is set to take office, as protesters urged Congress to reject the resignation and put Peña on trial instead."
-why_it_matters: "A bank failure has removed a sitting president in the middle of a deposit payout, leaving the succession to Vice President Alliana, the guarantee payments to millions of savers, the recovery of public pension money held at ueno and a fight over whether Peña should face impeachment anyway to be settled at the same time."
+lede: "Paraguay's Chamber of Deputies voted 78-0 to impeach President Santiago Peña minutes after he resigned over the collapse of ueno bank, sending the charges to the Senate as Congress prepared to accept his resignation and swear in Vice President Pedro Alliana."
+why_it_matters: "A bank failure has now removed a sitting president twice over, by resignation and by impeachment, leaving the Senate to decide on conviction, Alliana to take office through August 2028, and the state to complete guarantee payments to millions of savers and recover public pension money held at ueno."
 featured: true
 update_bump: true
 evidence_grade: "B"
@@ -19,15 +19,19 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
     published: "2026-11-05"
+  - title: "Paraguay's president is impeached minutes after resigning following a bank collapse"
+    publisher: "Associated Press, carried by WESA"
+    url: "https://www.wesanews.org/national-international-news/2026-11-05/paraguays-president-is-impeached-minutes-after-resigning-following-a-bank-collapse"
+    published: "2026-11-05"
   - title: "Banco Central inicia el procedimiento de resolución de ueno bank"
     publisher: "Banco Central del Paraguay"
     url: "https://www.bcp.gov.py/en/web/institucional/w/banco-central-inicia-el-procedimiento-de-resolucion-de-ueno-bank"
     published: "2026-11-03"
 tags: []
-data_as_of: "Deutsche Welle report of November 5, 2026, written with AFP, dpa, EFE and Reuters and read in full in this run. The resignation was also reported in the same hour by Bloomberg, El Pais Uruguay, Folha and TASS in items in this site's feed queue, which were not read in full. Background on the resolution is from the Banco Central del Paraguay statements covered by this site on November 3, 2026. Al Jazeera, by Al Jazeera Staff and Reuters, November 5, 2026, read in full in the 13:38 run, reported that Vice President Pedro Alliana is set to take office and carried the text of Peña's video address; no swearing-in was reported."
+data_as_of: "Deutsche Welle report of November 5, 2026, written with AFP, dpa, EFE and Reuters and read in full in this run. The resignation was also reported in the same hour by Bloomberg, El Pais Uruguay, Folha and TASS in items in this site's feed queue, which were not read in full. Background on the resolution is from the Banco Central del Paraguay statements covered by this site on November 3, 2026. Al Jazeera, by Al Jazeera Staff and Reuters, November 5, 2026, read in full in the 13:38 run, reported that Vice President Pedro Alliana is set to take office and carried the text of Peña's video address; no swearing-in was reported. Associated Press report carried by WESA on November 5, 2026, read in full in the 15:05 run, reported the 78-0 Chamber of Deputies impeachment vote minutes after the resignation announcement, the Senate two-thirds conviction threshold, and Congress's expected 5 p.m. acceptance of the resignation with Alliana to be sworn in an hour later."
 ---
 
-Latest: Vice President Pedro Alliana is set to take office as Peña's replacement, Al Jazeera reported with Reuters, though no swearing-in was reported. In a video address on Thursday, Peña said he was resigning with the stability of the country and social peace in mind, and that his greatest wish was that the return of depositors' funds be guaranteed and public funds protected. Protesters outside Congress urged lawmakers not to accept the resignation, wanting Peña tried and impeached instead, and Al Jazeera reported the congressional impeachment effort was also directed at the vice president.
+Latest: The Chamber of Deputies voted 78-0 on Thursday to impeach Peña minutes after he announced his resignation, the Associated Press reported, with lawmakers from his own Colorado Party joining the opposition. The vote sends the charges to the Senate, where a two-thirds majority is required to convict him and formally remove him from office. Congress was expected to formally accept the resignation at 5 p.m., clearing the way for Vice President Pedro Alliana to be sworn in as president an hour later and serve out the term through August 2028. In a video address on Thursday, Peña said he was resigning with the stability of the country and social peace in mind, and apologized to the public, saying it was never his intention to betray their trust. Officials said repayments to depositors had begun, with new accounts opened elsewhere for about 280,000 customers who had banked only with ueno.
 
 Paraguay's President Santiago Peña resigned on Thursday, November 5, under mounting pressure over the collapse of ueno bank, Deutsche Welle reported with AFP, dpa, EFE and Reuters. Peña, a conservative economist who took office in August 2023 for a five-year term, stepped down after Congress president Basilio Núñez and the Honor Colorado faction of the ruling Colorado Party, led by former president Horacio Cartes, withdrew their support while lawmakers were debating whether to remove him from office. Peña's vice president is Pedro Alliana.
 
