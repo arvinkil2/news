@@ -1,11 +1,11 @@
 ---
 title: "Nasdaq falls into correction as AI trade unwinds"
 date: 2026-11-05T12:15:52-05:00
-last_updated: 2026-11-05T12:15:52-05:00
+last_updated: 2026-11-05T16:22:59-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "The Nasdaq Composite fell as much as 5 percent on Thursday, putting it more than 10 percent below its October 6 record close and into a correction, as chip stocks suffered their worst day since March 2020."
+lede: "US stocks closed sharply lower on Thursday, with the Nasdaq Composite down 5.52 percent at 24,315.00 and in correction territory, the S&P 500 down 4.30 percent and the Dow down 3.44 percent, as chip stocks suffered their worst day since March 2020."
 why_it_matters: "The selloff is the market repricing the AI buildout itself: post-election scrutiny of data center expansion, weak chip earnings and doubts about returns on AI spending hit the leveraged names that this site's leverage monitor tracks hardest."
 featured: true
 evidence_grade: "B"
@@ -26,6 +26,8 @@ tags: []
 data_as_of: "Reuters reporting published November 5, 2026 at 10:21 a.m. and 11:40 a.m. Eastern and updated to 11:49 a.m., read in full through the estate browser route after the direct fetch was blocked; index and ticker snapshots as shown at about 12:13 p.m. Eastern. The Yonhap breaking item, in Korean, corroborates the intraday fall of more than 4 percent."
 update_bump: true
 ---
+
+Latest: The market closed with the losses intact. The Nasdaq Composite ended at 24,315.00, down 5.52 percent on the day, the S&P 500 at 7,358.13, down 4.30 percent, and the Dow Jones Industrial Average at 51,521.28, down 3.44 percent. The CBOE Volatility Index rose 62.34 percent to 26.90, a new six-month high. On the New York Stock Exchange 2,482 stocks fell against 355 advancing, and on the Nasdaq 3,011 fell against 438 advancing. Nvidia closed down 8.94 percent, AMD down 16.03 percent and Western Digital down 16.04 percent. Gold futures rose 0.89 percent to $4,109.26 a troy ounce and Brent crude rose 3.74 percent to $98.16 a barrel. Closing levels are Investing.com's closed quote figures and its Reuters close report of November 5, 2026; its article text rounds the index moves slightly differently (Dow 3.45 percent, S&P 500 4.29 percent, Nasdaq 5.42 percent).
 
 The Nasdaq Composite dropped as much as 5 percent on Thursday, a fall that confirms a correction, defined as a pullback of 10 percent or more from its most recent record closing high. The index fell nearly 4 percent to 24,712.60 at one point in the morning, more than 10 percent below the record close of 27,599.89 reached on October 6, and was down 4.54 percent in the early afternoon snapshot carried by Reuters. It is the Nasdaq's second correction this year, and it erases the previous session's gains, which had followed the Democratic sweep of both houses of Congress in Tuesday's elections.
 
