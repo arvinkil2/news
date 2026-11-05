@@ -1,7 +1,7 @@
 ---
 title: "Novo Nordisk beats third quarter and raises outlook"
 date: 2026-11-04T02:14:58-05:00
-last_updated: 2026-11-04T07:05:59-05:00
+last_updated: 2026-11-05T07:12:13-05:00
 beats: ["life-sciences"]
 regions: ["europe"]
 status: "developing"
@@ -32,7 +32,7 @@ sources:
     url: "https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits"
     published: "2026-11-04"
 tags: []
-data_as_of: "CNBC report of November 4, 2026, read in full, carrying the sales, operating profit and outlook figures against FactSet estimates, corroborated on the beat and the guidance raise by Reuters reporting of the same morning. The finance chief change is from Reuters reporting of November 4, corroborated by Fierce Biotech, read in full. Novo Nordisk's own quarterly report was not obtained in this run. Developing item."
+data_as_of: "CNBC report of November 4, 2026, read in full, carrying the sales, operating profit and outlook figures against FactSet estimates, corroborated on the beat and the guidance raise by Reuters reporting of the same morning. The finance chief change is from Reuters reporting of November 4, corroborated by Fierce Biotech, read in full. Novo Nordisk's own quarterly report was not obtained in this run. Developing item. November 5 update: the refusal to guide for 2027 and the February timing are corroborated by the earnings call transcript reporting; the CagriSema Europe timing is single sourced to Endpoints News (November 4) and ships at grade C for that claim alone."
 update_bump: true
 ---
 
@@ -45,3 +45,5 @@ The company raised its full year outlook for both adjusted revenue and operating
 Morning update, November 4: Reuters reporting with company compiled consensus puts the detail behind the beat. Sales of the Wegovy pill, launched in the United States in January, were 5.39 billion kroner (about 810 million dollars) in the quarter, up 53 percent from the second quarter and ahead of the 4.62 billion kroner consensus. Adjusted sales were 79.20 billion kroner against 73.22 billion expected, and adjusted operating profit was 31.72 billion kroner against 28.39 billion expected, up 27 percent at constant exchange rates. This was the third guidance raise of the year, and the company expects free cash flow of 60 billion to 70 billion kroner for 2026.
 
 The same reporting carries the price decision that will shape 2027. Novo will cut the United States wholesale acquisition cost of Wegovy by about 50 percent and of Ozempic by about 35 percent, to 675 dollars a month, effective January 1, 2027, and management said the cuts will hit 2027 cash flow. Chief executive Mike Doustdar declined to give 2027 guidance before February, citing loss of semaglutide exclusivity in some international markets, continued pressure in China and a less favourable gross to net effect than in 2026, and noted that the pill's prescription curve has flattened in recent weeks, which he attributed to seasonality.
+
+Update, November 5: management declined to give any 2027 guidance on the results call and said the 2027 forecast will come with full year results in February, offering building blocks instead, including a full year of Medicare coverage for weight loss drugs and planned launches of CagriSema in the United States and a new haemophilia treatment, against the January 1 United States list price cuts and loss of semaglutide exclusivity in some international markets. Separately, outgoing finance chief Karsten Munk Knudsen told Endpoints News that Novo will not launch CagriSema in Europe for a couple of years because of added EMA trial requirements. That Europe timing is single sourced to Endpoints reporting of the finance chief's remarks and is flagged as such.

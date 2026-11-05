@@ -1,7 +1,7 @@
 ---
 title: "Oil whipsaws after midterms as US stocks draw"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-05T02:16:05-05:00
+last_updated: 2026-11-05T07:20:30-05:00
 beats: ["commodities"]
 regions: ["north-america", "middle-east", "global"]
 status: "story"
@@ -47,7 +47,7 @@ Latest: Oil fell for a fourth day on Thursday, Brent down 80 cents, or 0.85 perc
 
 Latest: President Trump said he has no immediate plans to launch strikes on Iran after the midterm rout. "We seem to be getting everything we want," he told the Financial Times, adding that the United States is still prepared to escalate if necessary: "I'm ready, we're ready. We're locked and loaded if we need to go, but there may be no reason for it." Iran's parliament speaker Mohammad Bagher Ghalibaf read the election the other way, saying Americans had voted "NO TO WAR" and warning Washington of a "nightmare" if mass attacks restart. Bloomberg reported that Qatar and Pakistan mediated talks have made little progress in recent weeks, with Qatari officials expecting feedback from both sides on new proposals within a day or so.
 
-Latest: The Energy Information Administration confirmed a fifth straight weekly fall in US crude stocks, but a much smaller one than the industry data had pointed to. Commercial crude inventories fell 865,000 barrels to 409.8 million barrels in the week ended October 30, 4 percent below the five year average, against a Reuters poll expectation of an 877,000 barrel build and the American Petroleum Institute's 5.27 million barrel draw. The tightening was in products: distillate stocks fell 3.6 million barrels to 99.3 million, against an expected 100,000 barrel drop, and gasoline fell 222,000 barrels to 209 million against an expected build. Refinery runs rose 199,000 barrels a day with utilisation up 1.7 points to 94.5 percent, and total products supplied averaged 21.2 million barrels a day over four weeks, up 4.2 percent on a year earlier.
+Latest: The Energy Information Administration confirmed a fifth straight weekly fall in US crude stocks, but a much smaller one than the industry data had pointed to. Commercial crude inventories fell 865,000 barrels to 409.8 million barrels in the week ended October 30, 4 percent below the five year average, against a Reuters poll expectation of an 877,000 barrel build and the American Petroleum Institute's 5.27 million barrel draw. The tightening was in products: distillate stocks fell 3.6 million barrels to 99.3 million, their lowest level since May 2003 on Dow Jones reporting of the EIA data, against an expected 100,000 barrel drop, and gasoline fell 222,000 barrels to 209 million against an expected build. Refinery runs rose 199,000 barrels a day with utilisation up 1.7 points to 94.5 percent, and total products supplied averaged 21.2 million barrels a day over four weeks, up 4.2 percent on a year earlier.
 
 
 Oil traded both ways on Wednesday as investors tried to price a changed Washington against an unchanged physical market. Brent futures rose 76 cents, or 0.7 percent, to 104.36 dollars a barrel by 0730 GMT and West Texas Intermediate gained 63 cents to 96.72 dollars, reversing earlier declines, Reuters reported. Invezz, tracking the later European session, had Brent slipping back about 1.26 percent to near 102.20 dollars, and the site market tables at midday put Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week, as the selloff extended into the US session.

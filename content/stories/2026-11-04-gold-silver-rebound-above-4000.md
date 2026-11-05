@@ -1,11 +1,11 @@
 ---
 title: "Gold and silver rebound back above 4,000 dollars"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-04T07:17:02-05:00
+last_updated: 2026-11-05T07:20:30-05:00
 beats: ["commodities"]
 regions: ["global", "north-america"]
 status: "story"
-lede: "Gold futures climbed 2.8 percent to 4,052.50 dollars an ounce on Wednesday and silver gained 4.7 percent to 52.11 dollars, as a softer dollar and falling Treasury yields after the US midterm elections pulled bullion back above 4,000 dollars."
+lede: "Gold extended its rebound on Thursday, rising as much as 2.1 percent to near 4,146 dollars an ounce, its highest since October 20, after Wednesday\u2019s climb back above 4,000 dollars on a softer dollar and falling Treasury yields."
 why_it_matters: "The rebound reverses Tuesday's liquidation in a single session and shows the bid is now political and monetary, with a Democrat controlled Congress read as a limit on deficit expansion, even while traders still price a high chance of a December rate hike."
 featured: true
 evidence_grade: "B"
@@ -18,6 +18,10 @@ sources:
     publisher: "Saxo Bank"
     url: "https://www.home.saxo/content/articles/commodities/us-midterm-shock-gold-rallies-copper-reassesses-tariffs-as-trump-faces-gridlock-04112026"
     published: "2026-11-04"
+  - title: "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline"
+    publisher: "Bloomberg, via Energy Connects"
+    url: "https://www.energyconnects.com/news/oil/2026/november/gold-extends-rebound-above-4-100-as-dollar-and-yields-decline/"
+    published: "2026-11-05"
   - title: "Yahoo Finance market data"
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
@@ -25,6 +29,8 @@ sources:
 tags: []
 data_as_of: "Dow Jones Newswires report of November 4, 2026, read in full in this run, for midmorning European trade; site market tables updated November 4, 2026 show gold futures at 4,052.7 dollars, up 2.85 percent, and silver futures at 52.08 dollars, up 5.03 percent."
 ---
+
+Latest: Gold extended the rebound on Thursday, rising as much as 2.1 percent to trade near 4,146 dollars an ounce, the highest since October 20, after rising the most since August in the previous session, Bloomberg reported. Spot gold was up 1.9 percent at 4,139.29 dollars at 12:18 p.m. in Singapore. The site market tables put gold futures at 4,137 dollars, up 1.57 percent on the day and up 2.62 percent on the week, and silver futures at 52.75 dollars, up 1.21 percent. Treasury yields and the dollar extended their declines as the election result fuelled expectations that the administration's tax and spending plans may be contained. Friday's US payrolls report is the next test.
 
 Gold jumped back above 4,000 dollars an ounce on Wednesday, extending gains in midmorning European trade as the dollar softened and Treasury yields fell after Democrats swept the US midterm elections. Gold futures climbed 2.8 percent to 4,052.50 dollars a troy ounce, silver futures gained 4.7 percent to 52.11 dollars and platinum rose 2.4 percent to 1,464.10 dollars, Dow Jones Newswires reported. The site market tables match the move, with gold at 4,052.7 dollars, up 2.85 percent, and silver at 52.08 dollars, up 5.03 percent.
 

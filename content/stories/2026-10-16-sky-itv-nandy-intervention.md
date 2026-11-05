@@ -1,15 +1,23 @@
 ---
-title: "UK minister signals intervention in Sky 1.6 billion pound ITV deal"
+title: "UK government formally intervenes in Sky 1.6 billion pound ITV deal"
 date: 2026-10-16T07:06:26-04:00
-last_updated: 2026-10-16T07:06:26-04:00
+last_updated: 2026-11-05T07:10:43-05:00
 beats: ["infra-deals"]
 regions: ["europe"]
 status: "story"
-lede: "Culture Secretary Lisa Nandy has told Sky and ITV she is minded to intervene in Sky's 1.6 billion pound acquisition of ITV's media and entertainment business on media plurality grounds, giving the companies until October 20 to respond."
-why_it_matters: "The deal's price was agreed in July; its politics were not. An intervention that needs new streaming legislation would reset how Britain reviews every media merger of the on-demand era."
+lede: "Culture Secretary Lisa Nandy has issued a formal public interest intervention notice in Sky's 1.6 billion pound acquisition of ITV's media and entertainment business, sending the deal to the CMA and Ofcom with a January 27, 2027 reporting deadline."
+why_it_matters: "The deal's price was agreed in July; its politics were not. A formal intervention that needs new streaming legislation resets how Britain reviews every media merger of the on-demand era, and the January deadline now governs the deal's timetable."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Sky / ITV merger inquiry"
+    publisher: "UK Competition and Markets Authority"
+    url: "https://www.gov.uk/cma-cases/sky-slash-itv-merger-inquiry"
+    published: "2026-11-04"
+  - title: "UK Government Tasks Regulators To Scrutinize Proposed Tie-Up Between Sky & ITV"
+    publisher: "Associated Press via TV News Check"
+    url: "https://tvnewscheck.com/business/article/uk-government-tasks-regulators-to-scrutinize-proposed-tie-up-between-sky-itv/"
+    published: "2026-11-04"
   - title: "Culture Secretary may intervene in 1.6bn Sky ITV deal over media plurality"
     publisher: "Press Association (via Business Live)"
     url: "https://www.business-live.co.uk/retail-consumer/culture-secretary-intervene-16bn-sky-34770589"
@@ -19,8 +27,11 @@ sources:
     url: "https://www.advanced-television.com/2026/10/15/culture-secretary-minded-to-intervene-in-sky-itv-deal/"
     published: "2026-10-15"
 tags: []
-data_as_of: "Statement to Parliament and departmental letters, October 15, 2026, as reported by Press Association. Deal terms agreed July 6, 2026: consideration up to 1.6 billion pounds."
+data_as_of: "Public interest intervention notice issued November 4, 2026 under section 42 of the Enterprise Act 2002, per the CMA case page read in full in this run; CMA and Ofcom must report by 5pm on January 27, 2027. Deal terms agreed July 2026: enterprise value up to 1.6 billion pounds."
+update_bump: true
 ---
+
+Latest: The intervention is now formal. On November 4 the Secretary of State for Digital, Culture, Media and Sport issued a public interest intervention notice for Sky UK Limited's proposed acquisition of ITV M&E Holdings Limited, the CMA's case page records. The notice rests on three grounds in section 58 of the Enterprise Act 2002: free expression of opinion in news media, sufficient plurality of views in news media, and sufficient plurality of persons controlling media enterprises serving each audience. It also carries a fourth consideration not currently in the Act, the availability of a wide range of high quality broadcasting and on demand programmes, for which the Secretary of State will bring forward legislation extending the existing broadcasting test to on demand services. The notice requires the CMA to report on jurisdiction and competition matters and Ofcom to report on the media public interest considerations, both by 5pm on January 27, 2027. Associated Press reported the deal at 1.6 billion pounds, about 2.3 billion dollars, and that the combined entity would sit inside NBCUniversal after its split from Comcast completes.
 
 The UK government has put Sky's takeover of ITV's media and entertainment business into formal political review. Culture Secretary Lisa Nandy said on Thursday that she is minded to intervene in the anticipated merger on public interest grounds specified in the Enterprise Act 2002: free expression of opinion in news media, plurality of views, and sufficient plurality of persons controlling media enterprises serving each audience. Sky and ITV have until October 20 to respond.
 
