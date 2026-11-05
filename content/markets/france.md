@@ -2,10 +2,10 @@
 title: "France"
 date: "2026-11-05"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed every 15 minutes."
-data_as_of: "Nov 5, 12:20 PM ET"
+data_as_of: "Nov 5, 12:29 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 5, 12:20 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 5, 12:29 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>CAC 40 (index)</td><td class="num">8,205 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.34%</span></td><td class="num"><span class="up">+2.95%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.7 4.2,19.2 8.3,24.0 12.5,26.0 16.7,22.3 20.9,20.8 25.0,21.1 29.2,18.8 33.4,15.7 37.6,14.5 41.7,19.0 45.9,20.5 50.1,16.3 54.3,21.9 58.4,23.3 62.6,20.1 66.8,18.1 71.0,18.1 75.1,13.9 79.3,13.9 83.5,10.0 87.7,11.3 91.8,3.4 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI France (EWQ)</td><td class="num">$43.7000 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-0.36%</span></td><td class="num"><span class="up">+3.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.0 4.2,20.8 8.3,25.1 12.5,25.3 16.7,23.4 20.9,26.0 25.0,22.4 29.2,23.8 33.4,16.7 37.6,17.9 41.7,22.9 45.9,20.0 50.1,18.0 54.3,21.0 58.4,24.8 62.6,23.5 66.8,21.4 71.0,20.4 75.1,15.5 79.3,16.8 83.5,12.3 87.7,14.1 91.8,2.0 96.0,3.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
