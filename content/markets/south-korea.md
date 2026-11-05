@@ -20,10 +20,10 @@ data_as_of: "Nov 4, 8:37 PM ET"
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-tesla-korea-fsd-consumer-complaint/">Consumer group says Tesla misled Korean FSD buyers</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-south-korea-current-account-record-september/">South Korea current account surplus hits record in September</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-south-korea-cornerstone-investor-ipo-lockups/">South Korea adopts cornerstone lockups to curb post-IPO selloffs</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-north-korea-unidentified-projectile-east-sea/">North Korea fires several missiles toward Sea of Japan</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-north-korea-cruise-missile-cluster-warhead-test/">North Korea says it tested cruise missile cluster warhead</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-north-korea-cluster-warhead-test-claim/">North Korea says it tested a cluster warhead</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-korea-october-exports-surge-93-7-percent/">South Korea October exports surge 93.7 percent to $115.3 billion</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-korea-factory-output-jumps-september/">Korea factory output jumps 9.9 percent in September</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-us-japan-korea-arctic-pacific-partnership/">US, Japan and South Korea sign Arctic Pacific partnership pact</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
