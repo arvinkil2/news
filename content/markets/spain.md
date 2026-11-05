@@ -2,14 +2,14 @@
 title: "Spain"
 date: "2026-11-05"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed every 15 minutes."
-data_as_of: "Nov 5, 4:38 AM ET"
+data_as_of: "Nov 5, 7:10 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 5, 4:38 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 5, 7:10 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>IBEX 35 (index)</td><td class="num">19,666 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+1.52%</span></td><td class="num"><span class="up">+4.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.7 4.2,7.3 8.3,15.0 12.5,19.5 16.7,17.0 20.9,11.0 25.0,12.8 29.2,12.3 33.4,13.6 37.6,10.0 41.7,16.8 45.9,15.6 50.1,10.1 54.3,19.8 58.4,18.0 62.6,17.0 66.8,14.0 71.0,20.5 75.1,21.2 79.3,26.0 83.5,18.8 87.7,22.3 91.8,9.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>IBEX 35 (index)</td><td class="num">19,650 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+1.44%</span></td><td class="num"><span class="up">+4.20%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.4 4.2,6.9 8.3,14.8 12.5,19.4 16.7,16.8 20.9,10.8 25.0,12.6 29.2,12.1 33.4,13.4 37.6,9.8 41.7,16.7 45.9,15.4 50.1,9.9 54.3,19.7 58.4,17.9 62.6,16.8 66.8,13.8 71.0,20.4 75.1,21.1 79.3,26.0 83.5,18.7 87.7,22.3 91.8,8.7 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Spain (EWP)</td><td class="num">$59.05 <span class="gm-sub-inline">as of 2026-11-04</span></td><td class="num"><span class="up">+3.76%</span></td><td class="num"><span class="up">+3.94%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.2 4.4,3.9 8.7,12.9 13.1,12.1 17.5,12.1 21.8,10.9 26.2,8.3 30.5,12.1 34.9,8.1 39.3,8.9 43.6,17.2 48.0,10.7 52.4,7.6 56.7,15.6 61.1,15.8 65.5,18.0 69.8,13.9 74.2,21.8 78.5,19.7 82.9,26.0 87.3,18.9 91.6,20.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1242 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.31%</span></td><td class="num"><span class="up">+0.78%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,9.3 8.3,2.2 12.5,12.4 16.7,10.1 20.9,11.6 25.0,20.2 29.2,11.8 33.4,13.5 37.6,10.1 41.7,7.8 45.9,9.5 50.1,7.4 54.3,5.8 58.4,8.5 62.6,9.1 66.8,17.6 71.0,26.0 75.1,21.0 79.3,15.8 83.5,20.8 87.7,14.1 91.8,11.2 96.0,4.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1226 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.17%</span></td><td class="num"><span class="up">+0.63%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,9.3 8.3,2.2 12.5,12.4 16.7,10.1 20.9,11.6 25.0,20.2 29.2,11.8 33.4,13.5 37.6,10.1 41.7,7.8 45.9,9.5 50.1,7.4 54.3,5.8 58.4,8.5 62.6,9.1 66.8,17.6 71.0,26.0 75.1,21.0 79.3,15.8 83.5,20.8 87.7,14.1 91.8,11.2 96.0,7.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -18,6 +18,7 @@ data_as_of: "Nov 5, 4:38 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-03 (Banco de España), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-spain-tourist-spending-rises-8-percent-september/">Spain tourist spending rises 8.1 percent in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-rates-also-notable/">Rates also notable: Spain tourism, credit unions, Ghana inflation</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-spain-transport-minister-puente-resigns/">Spain transport minister Óscar Puente resigns after train crash</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-spain-gdp-grows-0-6-percent-third-quarter/">Spain GDP grows 0.6 percent in third quarter</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 5, 4:38 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-spain-snap-election-train-disaster-battle-lines/">Spain&#x27;s snap election battle lines redrawn by train disaster</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-28</span> <a href="/stories/2026-10-28-spain-unemployment-rises-q3-ine/">Spain unemployment rate rises to 10.18 percent in third quarter</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-technology-also-notable/">Technology also notable: Spain mandate, OpenAI permit, Cadence models</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-spain-softens-datacenter-renewable-rules/">Spain softens data center renewable rules, keeps hourly target</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
