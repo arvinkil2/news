@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-05T07:24:59-05:00
-last_updated: 2026-11-05T07:24:59-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-05T12:34:41-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Tanker freight fell 17.17 percent while gold and silver miners jumped about 9 percent, as the war premium kept draining out of energy and freight and into bullion and mega-cap technology."
-why_it_matters: "The pattern is a political repricing, not a growth scare: assets priced for a Hormuz supply shock are deflating while miners, bullion and big technology rally, and Treasury yields fell after the refunding held sizes unchanged."
+lede: "The Nasdaq fell into a correction at midday as chip stocks had their worst day since March 2020, reversing the post-election rally in a single session."
+why_it_matters: "The selloff reprices the AI buildout itself: post-election scrutiny of data center expansion, weak chip earnings and doubts about returns on AI spending hit the leveraged names hardest, while Treasuries rallied and gold held its gains."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,15 +15,15 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-05"
 tags: []
-data_as_of: "Market close November 4, 2026"
+data_as_of: "Midday November 5, 2026"
 ---
 
-Tanker freight was the largest move in the tables, down 17.17 percent to 691.6 dollars and down 23.06 percent on the week. Today's commodities roundup flags that the fall runs against the week's Hormuz headlines, including the IRGC claim, still unconfirmed, that two tankers and a tugboat caught fire in the strait (see today's Hormuz story), and no story in this morning's reporting explains the freight drop as a response to confirmed news, so it reads as the shipping market unwinding its disruption premium.
+Tesla fell 10.61 percent to 344.33 dollars, the largest move in the tables, and semiconductors fell 10.06 percent to 135.04 dollars. Today's Nasdaq correction story puts Tesla down about 10.7 percent in the same session and the Philadelphia Semiconductor Index down as much as 11 percent, its worst day since March 2020, with the selling tied to post-election scrutiny of data center expansion and de-leveraging by hedge funds and active managers (see today's Nasdaq correction story).
 
-Silver miners rose 9.6 percent to 78.11 dollars and gold miners rose 9.01 percent to 84.59 dollars, with gold futures up 1.57 percent to 4,137 dollars an ounce and silver futures up 1.21 percent to 52.75 dollars. Today's updated gold and silver story ties the bullion rally to a softer dollar and falling Treasury yields after the midterm elections, with a Democrat controlled Congress read as a constraint on both deficit expansion and the war path.
+Nvidia fell 7.32 percent to 185.48 dollars and Broadcom fell 7.28 percent to 301.80 dollars. The Nasdaq story puts Nvidia down about 7.4 percent and names weak earnings from Qualcomm, whose handset revenue fell 26 percent, and Arm among the pressures on the chip complex (see today's Qualcomm story and today's Nasdaq correction story). No story in today's reporting names Broadcom specifically; its fall sits inside the broader semiconductor selloff the Nasdaq story describes.
 
-Mega-cap technology rallied hard: Microsoft rose 6.68 percent to 555.8 dollars, Amazon rose 6.12 percent to 266.03 dollars and Apple rose 5.31 percent to 349.51 dollars, and the Hang Seng rose 3.67 percent. No story in this morning's reporting explains the individual mega-cap jumps beyond the broad post-election rebound, and the chip complex itself lagged, with Nvidia down 3.17 percent, semiconductors down 3.14 percent and Qualcomm warning that handset revenue fell 26 percent on the memory squeeze (see today's Qualcomm story).
+The tech sector fell 6.44 percent to 165.14 dollars and the Nasdaq 100 fell 5.21 percent to 26,956 points. The Nasdaq Composite fell as much as 5 percent intraday and was down 4.54 percent in the early afternoon, more than 10 percent below its October 6 record close of 27,599.89, which confirms a correction, and the S&P 500 fell 3.36 percent to 7,430 points in the tables against 3.38 percent in the story's early afternoon reading, with the VIX up about 49 percent at 24.68 (see today's Nasdaq correction story).
 
-Copper miners rose 3.97 percent and rare earth miners rose 4.02 percent, extending the metals bid beyond bullion. The mining beat's news was expansionary rather than defensive, led by Freeport's Bagdad approval earlier in the week and today's Caledonia bridge facility for the Bilboes gold project and Rare Earths Norway's Fen pilot plant.
+Uranium miners fell 5.32 percent to 30.96 dollars and copper miners fell 4.35 percent to 71.32 dollars. No story in today's reporting explains either move: today's mining coverage is company news, Codelco's inflated copper output, Lundin's guidance cut and a uranium acquisition at a premium in the mining roundup, and none of it accounts for a sector-wide fall. Copper itself fell 1.34 percent to 6.32 dollars a pound in the same tables.
 
-The cross-market read is a war premium unwind with a rates tailwind. Brent crude rose 0.67 percent to 95.25 dollars but is down 17.09 percent on the week, freight is deflating, and the US 10 year yield fell 5.8 basis points to 4.89 percent after the Treasury refunding held coupon sizes unchanged (see today's Treasury yields story), while bullion, miners and equities are bid together. The exception is semiconductors, still carrying the handset and memory squeeze story, and the open question for today is whether the Bank of England's decision at noon London time extends the global easing in yields or interrupts it.
+The cross-market read is risk-off inside equities, not across every market. Treasuries were bid as stocks fell, with the US 10 year yield down 6.3 basis points to 4.83 percent and the 5 year down 7.7 basis points to 4.61 percent, extending Wednesday's refunding rally (see today's Treasury yields story), and gold futures rose 1.49 percent to 4,133.70 dollars an ounce. Brent crude rose 2.23 percent to 96.73 dollars a barrel, still down 15.8 percent on the week, so the session's stress stayed concentrated in the AI trade rather than spreading to energy or rates.
