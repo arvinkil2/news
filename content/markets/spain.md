@@ -2,12 +2,12 @@
 title: "Spain"
 date: "2026-11-05"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed every 15 minutes."
-data_as_of: "Nov 5, 9:48 AM ET"
+data_as_of: "Nov 5, 10:08 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 5, 9:48 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 5, 10:08 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>IBEX 35 (index)</td><td class="num">19,679 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+1.59%</span></td><td class="num"><span class="up">+4.36%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.9 4.2,7.5 8.3,15.1 12.5,19.5 16.7,17.1 20.9,11.2 25.0,13.0 29.2,12.5 33.4,13.7 37.6,10.2 41.7,17.0 45.9,15.7 50.1,10.3 54.3,19.9 58.4,18.1 62.6,17.1 66.8,14.1 71.0,20.6 75.1,21.2 79.3,26.0 83.5,18.9 87.7,22.4 91.8,9.2 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>IBEX 35 (index)</td><td class="num">19,559 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.97%</span></td><td class="num"><span class="up">+3.72%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.9 4.2,5.0 8.3,13.7 12.5,18.7 16.7,15.9 20.9,9.2 25.0,11.2 29.2,10.7 33.4,12.1 37.6,8.2 41.7,15.8 45.9,14.4 50.1,8.2 54.3,19.1 58.4,17.1 62.6,15.9 66.8,12.6 71.0,19.9 75.1,20.6 79.3,26.0 83.5,17.9 87.7,21.9 91.8,7.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Spain (EWP)</td><td class="num">$59.14 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.15%</span></td><td class="num"><span class="up">+3.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.9 4.2,4.6 8.3,13.3 12.5,12.6 16.7,12.6 20.9,11.4 25.0,8.8 29.2,12.6 33.4,8.7 37.6,9.4 41.7,17.5 45.9,11.2 50.1,8.2 54.3,15.9 58.4,16.1 62.6,18.2 66.8,14.3 71.0,21.9 75.1,19.9 79.3,26.0 83.5,19.1 87.7,21.0 91.8,2.8 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>EUR/USD</td><td class="num">1.1217 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="up">+0.09%</span></td><td class="num"><span class="up">+0.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,9.3 8.3,2.2 12.5,12.4 16.7,10.1 20.9,11.6 25.0,20.2 29.2,11.8 33.4,13.5 37.6,10.1 41.7,7.8 45.9,9.5 50.1,7.4 54.3,5.8 58.4,8.5 62.6,9.1 66.8,17.6 71.0,26.0 75.1,21.0 79.3,15.8 83.5,20.8 87.7,14.1 91.8,11.2 96.0,9.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
