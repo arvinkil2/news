@@ -1,7 +1,7 @@
 ---
 title: "Alphabet prices six billion euros of notes in seven tranches"
 date: 2026-11-02T07:12:50-05:00
-last_updated: 2026-11-04T17:00:41-05:00
+last_updated: 2026-11-05T18:42:41-05:00
 beats: ["rates"]
 regions: ["north-america", "europe"]
 status: "story"
@@ -14,6 +14,10 @@ sources:
     publisher: "Alphabet Inc. via SEC EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/1652044/000119312526447343/d125079d424b2.htm"
     published: "2026-11-04"
+  - title: "Alphabet Inc. Current Report, Form 8-K (accession 0001193125-26-449835)"
+    publisher: "Alphabet Inc. via SEC EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm"
+    published: "2026-11-05"
   - title: "Alphabet Inc. Preliminary Prospectus Supplement, Form 424B5 (accession 0001193125-26-442515)"
     publisher: "Alphabet Inc. via SEC EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/1652044/000119312526442515/d125079d424b5.htm"
@@ -23,7 +27,9 @@ data_as_of: "Final prospectus supplement filed November 4, 2026 (accession 00011
 update_bump: true
 ---
 
-Latest: Alphabet priced 6 billion euros of senior unsecured notes on Wednesday, completing the seven tranche euro offering it launched on November 2. The final prospectus supplement sets 750 million euros of floating rate notes due 2028, priced at three month EURIBOR plus 0.50 percent, alongside six fixed rate tranches: 750 million euros at 3.700 percent due 2028, 1.25 billion euros at 4.050 percent due 2030, 750 million euros at 4.250 percent due 2032, 750 million euros at 4.500 percent due 2035, 750 million euros at 4.875 percent due 2039, and 1 billion euros at 5.250 percent due 2045. Interest accrues from November 5, 2026, with fixed rate coupons paid annually each November 5 from 2027 and floating rate interest paid quarterly from February 5, 2027. Alphabet intends to use the proceeds for general corporate purposes, which may include repayment of outstanding debt.
+Latest: Alphabet closed the offering on Thursday, November 5, the company said in a Form 8-K filed the same day (accession 0001193125-26-449835). The 8-K confirms the closing of the 6 billion euros of euro denominated senior notes under Alphabet's February 12, 2016 indenture with The Bank of New York Mellon Trust Company as trustee, in the same seven tranches priced earlier in the week.
+
+Alphabet priced 6 billion euros of senior unsecured notes on Wednesday, completing the seven tranche euro offering it launched on November 2. The final prospectus supplement sets 750 million euros of floating rate notes due 2028, priced at three month EURIBOR plus 0.50 percent, alongside six fixed rate tranches: 750 million euros at 3.700 percent due 2028, 1.25 billion euros at 4.050 percent due 2030, 750 million euros at 4.250 percent due 2032, 750 million euros at 4.500 percent due 2035, 750 million euros at 4.875 percent due 2039, and 1 billion euros at 5.250 percent due 2045. Interest accrues from November 5, 2026, with fixed rate coupons paid annually each November 5 from 2027 and floating rate interest paid quarterly from February 5, 2027. Alphabet intends to use the proceeds for general corporate purposes, which may include repayment of outstanding debt.
 
 Alphabet is offering seven series of euro denominated senior unsecured notes, the company said in a preliminary prospectus supplement filed with the Securities and Exchange Commission on Monday. The deal comprises one floating rate series, priced off three month EURIBOR and reset quarterly, and six fixed rate series. The notes will rank equally with Alphabet's other unsecured and unsubordinated debt and will be structurally subordinated to the obligations of its subsidiaries.
 
