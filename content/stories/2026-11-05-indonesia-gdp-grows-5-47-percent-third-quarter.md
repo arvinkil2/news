@@ -1,7 +1,7 @@
 ---
 title: "Indonesia economy grows 5.47 percent, beating forecasts"
 date: 2026-11-05T01:42:24-05:00
-last_updated: 2026-11-05T01:42:24-05:00
+last_updated: 2026-11-05T07:39:18-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -9,8 +9,12 @@ developing: true
 lede: "Indonesia's economy grew 5.47 percent year on year in the third quarter of 2026, Statistics Indonesia (BPS) reported on Thursday, beating the 5.18 percent median forecast in a Reuters poll and accelerating from 5.29 percent in the second quarter."
 why_it_matters: "The upside surprise keeps the government's 5.4 percent growth assumption for the 2026 budget in reach and sits inside Bank Indonesia's 4.9 to 5.7 percent forecast range, even as investor scrutiny of Jakarta's fiscal plans has weighed on sentiment this year."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Indonesia's Economic Growth in Q3-2026 was 5.47 Percent (Y-on-Y)"
+    publisher: "BPS (Statistics Indonesia)"
+    url: "https://www.bps.go.id/en/pressrelease/2026/11/05/169700/indonesia-s-economic-growth-in-q3-2026-was-5-47-percent--y-on-y-.html"
+    published: "2026-11-05"
   - title: "Indonesia Q3 GDP growth accelerates to 5.47%, beats forecast"
     publisher: "Reuters, via Business Today Malaysia"
     url: "https://www.businesstoday.com.my/2026/11/05/indonesia-q3-gdp-growth-accelerates-to-5-47-beats-forecast/"
@@ -21,8 +25,10 @@ sources:
     published: "2026-11-05"
 tags: []
 update_bump: true
-data_as_of: "Statistics Indonesia (BPS) third-quarter 2026 release of November 5, 2026, as reported by Reuters and by Antara in Indonesian; the BPS release itself was not opened in this run, and the figures are corroborated across both reports. Developing item."
+data_as_of: "Statistics Indonesia (BPS) third-quarter 2026 release of November 5, 2026, read in full from the bureau's own site in a later run on November 5 (updated 07:39 ET); the bureau's figures confirm the growth rates and GDP level first reported here from Reuters and Antara coverage. Developing item."
 ---
+
+Latest: Statistics Indonesia (BPS) has now published its own release, confirming growth of 5.47 percent year on year and 1.59 percent quarter on quarter, cumulative growth of 5.45 percent, and GDP at current prices of 6,741.0 trillion rupiah. On the production side, manufacturing grew fastest quarter on quarter at 5.44 percent, while exports of goods and services led expenditure with growth of 7.49 percent quarter on quarter.
 
 Indonesia's economy expanded 5.47 percent from a year earlier in the third quarter of 2026, Statistics Indonesia (BPS) announced on Thursday, above the 5.18 percent median forecast in a Reuters poll and faster than the 5.29 percent recorded in the second quarter. Growth from the previous quarter was 1.59 percent, and cumulative growth through the first three quarters of the year was 5.45 percent.
 
