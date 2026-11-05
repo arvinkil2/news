@@ -1,7 +1,7 @@
 ---
 title: "IRGC says two tankers and tugboat caught fire in Hormuz"
 date: 2026-11-05T00:14:56-05:00
-last_updated: 2026-11-05T07:20:30-05:00
+last_updated: 2026-11-05T11:59:37-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
@@ -19,6 +19,10 @@ sources:
     publisher: "investingLive"
     url: "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/"
     published: "2026-11-05"
+  - title: "Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues"
+    publisher: "OilPrice.com (ZeroHedge)"
+    url: "https://oilprice.com/Energy/Energy-General/Iran-Opens-Strait-of-Hormuz-to-China-and-India-as-US-Blockade-Continues.html"
+    published: "2026-11-05"
 tags: []
 data_as_of: "Reuters report carried by Arab News, updated November 4, 2026 at 23:47 (no timezone stated on the page), read in full via the estate browser route in this run after the direct fetch failed; the fires are the IRGC's claim alone, with no vessel named and no confirmation from UKMTO, the United States or shipping sources in the reporting read, so it is graded C and should be treated as Tehran's account until corroborated. Oil reaction from investingLive's Asia-Pacific wrap of November 5, 2026, read in full in this run, which also noted the claims could not be independently verified. Developing item."
 update_bump: true
@@ -29,3 +33,5 @@ Iran's Islamic Revolutionary Guard Corps said on Thursday that two oil tankers a
 The report named no vessels and cited no confirmation from UKMTO, the United States or shipping sources, and oil had not reacted early on Thursday, with Brent holding around $97 a barrel on hopes of a diplomatic path with Iran, according to investingLive's Asia-Pacific wrap, which said the claims could not be independently verified.
 
 Update: The claim had no market support through Thursday morning. Brent was at 95.25 dollars a barrel in the site market tables, down 17.09 percent on the week, as traders kept pricing a diplomatic path on Iran rather than a wider Hormuz closure, and tanker freight fell 17.17 percent to 691.6 dollars. No confirmation of the fires had emerged from UKMTO, the United States or shipping sources in the reporting read for this update, and the claim remains the IRGC's account alone.
+
+Update: Tehran is also saying some traffic moves freely. Ahmad Hayat-Moghaddam, vice chairman of the Iranian parliament's National Security and Foreign Policy Committee, told the Iranian Students News Agency that Iran has exempted India, China, Iraq and Qatar from its transit restrictions in the strait, that ships from those countries pass freely, and that the United States does not interfere with them, in reporting carried by OilPrice. He said India's exemption was meant to facilitate medicine imports and China's to secure Beijing's political support. The statement is an Iranian official's account, unconfirmed by the exempted governments or by shipping sources in the reporting read, and is graded accordingly.
