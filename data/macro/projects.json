@@ -8,7 +8,7 @@
      "date": "2025-09-22",
      "detail": "The ordinance behind the Project Jupiter IRB structure, recorded as instrument 2520581 in the county clerk records.",
      "grade": "B",
-     "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
+     "source_label": "Doña Ana County Clerk records, via the leverage monitor registry",
      "title": "Ordinance 367-2025 recorded"
     },
     {
@@ -21,7 +21,7 @@
     {
      "date": "2025-11-12",
      "detail": "Exhibit A, Section 8.4 states that Project Jupiter will power itself with an onsite microgrid system, with natural gas generation and battery storage. Thirteen deeds of trust dated the same day run from the Red Chiles entities and Yucca Growth Infrastructure LLCs to Fidelity National Title of New Mexico, with IRB deeds to the county, leasebacks, and subordinations naming Citibank and Goldman Sachs Bank USA.",
-     "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
+     "source_label": "Doña Ana County Clerk records, via the leverage monitor registry",
      "title": "Community Benefits Agreement signed"
     },
     {
@@ -64,7 +64,7 @@
      "date": "2026-10-14",
      "detail": "The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.",
      "grade": "C",
-     "source_label": "Do\u00f1a Ana County release",
+     "source_label": "Doña Ana County release",
      "title": "Community Monitoring Committee appointed"
     },
     {
@@ -81,6 +81,13 @@
      "grade": "C",
      "source_label": "Organ Mountain News, October 28, 2026",
      "title": "County authorizes a potential breach notice"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "Community Monitoring Committee holds its first meeting",
+     "detail": "The 11 member Project Jupiter Community Monitoring Committee, appointed on October 14, 2026 under Resolution No. 2026-101, held its first public meeting in Las Cruces. The committee elected officers, adopted bylaws and chose water, fuel cells and economic and governmental agreements as its first information topics, with a next business meeting aimed for November 21, 2026 in the southern part of the county.",
+     "grade": "C",
+     "source_label": "Organ Mountain News, October 30, 2026"
     }
    ],
    "facts": [
@@ -90,7 +97,7 @@
     ],
     [
      "Location",
-     "Santa Teresa, Do\u00f1a Ana County, New Mexico"
+     "Santa Teresa, Doña Ana County, New Mexico"
     ],
     [
      "IRB authorization",
@@ -111,15 +118,15 @@
    ],
    "instruments": [
     {
-     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.",
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.",
      "name": "Series 2025A industrial revenue bonds, $15B"
     },
     {
-     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.",
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.",
      "name": "Series 2025B industrial revenue bonds, $25B"
     },
     {
-     "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.",
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.",
      "name": "Series 2025C industrial revenue bonds, about $125B"
     },
     {
@@ -129,8 +136,8 @@
     }
    ],
    "instruments_note": "The Jupiter bonds are private placements. No CUSIP, fund holder position or trade print for any of them appears in the record, so none carries a bond page in the Leverage section. The sponsor's traded bonds sit on the Oracle issuer page.",
-   "lede": "Oracle's 2.5 GW campus in Do\u00f1a Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.",
-   "location": "Santa Teresa, Do\u00f1a Ana County, New Mexico",
+   "lede": "Oracle's 2.5 GW campus in Doña Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.",
+   "location": "Santa Teresa, Doña Ana County, New Mexico",
    "name": "Project Jupiter",
    "parties": [
     {
@@ -150,7 +157,7 @@
      "role": "Project party named in the executed Series 2025B and 2025C instruments."
     },
     {
-     "name": "Do\u00f1a Ana County",
+     "name": "Doña Ana County",
      "role": "IRB issuer and title holder. The county holds title and leases the project back to the project companies."
     },
     {
@@ -188,7 +195,7 @@
     }
    ],
    "summary": [
-    "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Do\u00f1a Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
+    "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Doña Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
     "Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."
    ]
   },
