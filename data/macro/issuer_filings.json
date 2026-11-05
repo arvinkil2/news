@@ -2,6 +2,15 @@
  "issuers": {
   "alphabet": [
    {
+    "date": "2026-11-04",
+    "form": "424B2",
+    "title": "Final prospectus, 6,000M euro senior notes (priced November 2, 2026)",
+    "detail": "Final terms as read from the prospectus supplement: floating rate notes due 2028, 750M euro at compounded EURIBOR plus 0.720 percent; 750M at 2.300 percent due 2028; 1,250M at 2.700 percent due 2030; 750M at 3.000 percent due 2032; 750M at 3.350 percent due 2035; 750M at 3.700 percent due 2039; 1,000M at 4.000 percent due 2045. Settlement November 5, 2026; net proceeds about 5,925.3M euro for general corporate purposes. These final coupons differ from the November 2 term sheet figures recorded in the October entries below; the final prospectus governs and the term sheet record is flagged for recheck.",
+    "accession": "0001193125-26-447343",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526447343/0001193125-26-447343-index.htm",
+    "grade": "A"
+   },
+   {
     "accession": "0001193125-26-443857",
     "date": "2026-11-02",
     "form": "FWP",
@@ -41,6 +50,24 @@
    }
   ],
   "meta": [
+   {
+    "date": "2026-11-05",
+    "form": "424B5",
+    "title": "Final prospectus, $15,000M senior notes (priced November 3, 2026)",
+    "detail": "Final terms as read from the prospectus supplement dated November 3, 2026: $3,250M at 4.850 percent due 2031; $3,250M at 5.100 percent due 2033; $4,000M at 5.250 percent due 2036; $1,750M at 5.750 percent due 2046; $2,750M at 6.050 percent due 2056. Settlement November 5, 2026; net proceeds about $14.9B for general corporate purposes. These final coupons differ from the pricing term sheet figures recorded in the November 4 entries below; the final prospectus governs and the term sheet record is flagged for recheck.",
+    "accession": "0001193125-26-448015",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526448015/0001193125-26-448015-index.htm",
+    "grade": "A"
+   },
+   {
+    "date": "2026-11-04",
+    "form": "FWP",
+    "title": "Pricing term sheet, 9,000M euro senior notes",
+    "detail": "Priced November 4, 2026, settling November 12, 2026 (T+5), as read from the term sheet: 1,750M euro at 4.300 percent due 2031 (ISIN XS3552752217); 1,250M at 4.650 percent due 2033 (XS3552752480); 1,000M at 4.900 percent due 2035 (XS3552752563); 1,750M at 5.400 percent due 2038 (XS3552800800); 1,750M at 6.050 percent due 2044 (XS3552801014); 1,500M at 6.400 percent due 2065 (XS3552801287). Ratings Aa3 stable (Moody's), AA- negative (S&P).",
+    "accession": "0001193125-26-447522",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526447522/0001193125-26-447522-index.htm",
+    "grade": "A"
+   },
    {
     "accession": "0001193125-26-446110",
     "date": "2026-11-04",
@@ -98,6 +125,15 @@
   ],
   "microsoft": [
    {
+    "date": "2026-11-04",
+    "form": "8-K",
+    "title": "Completion of the $25,000M notes sale (closed October 29, 2026)",
+    "detail": "Item 8.01 report of the completed sale under the October 27, 2026 underwriting agreement: floating rate notes due 2028 $1,000M; 4.850 percent due 2028 $2,000M; floating rate notes due 2029 $1,000M; 5.000 percent due 2029 $3,250M; 5.200 percent due 2031 $3,250M; 5.350 percent due 2033 $2,500M; 5.550 percent due 2036 $4,000M; 6.150 percent due 2046 $2,000M; 6.250 percent due 2056 $4,000M; 6.350 percent due 2066 $2,000M. Thirty-Fifth Supplemental Indenture dated October 29, 2026 (Exhibit 4.1).",
+    "accession": "0001193125-26-447173",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/0001193125-26-447173-index.htm",
+    "grade": "A"
+   },
+   {
     "accession": "0001193125-26-439794",
     "date": "2026-10-30",
     "detail": "Ten series priced on October 29, 2026 for settlement on November 4, 2026: floating rate notes due 2028 and 2029 of $1.0B each at Compounded SOFR plus 35 and 53 basis points, and $23.0B of fixed rate notes with coupons from 4.850% due 2028 to 6.350% due 2066. It is Microsoft's first US investment grade bond offering since 2017, sold for general corporate purposes. The preliminary prospectus supplement is accession 0001193125-26-437008.",
@@ -126,6 +162,15 @@
    }
   ],
   "oracle": [
+   {
+    "date": "2026-11-04",
+    "form": "8-K",
+    "title": "$10,000M common stock offering and $10,000M notes offering, both closed November 4, 2026",
+    "detail": "Item 8.01 report of two offerings underwritten November 2, 2026 and closed November 4, 2026: 86,206,897 shares of common stock for a $10,000M aggregate offering price, and $10,000M of senior notes (7.000 percent due 2029, $2,000M; 7.450 percent due 2031, $1,750M; 7.850 percent due 2033, $2,250M; 8.000 percent due 2037, $2,500M; 8.650 percent due 2046, $1,500M). Proceeds for general corporate purposes, which may include capital expenditures, repayment of indebtedness, investments and acquisitions, dividends and repurchases. The note coupons as read here differ from the final prospectus figures recorded in the November 4 entries below; the 8-K is adopted and the earlier record is flagged for recheck.",
+    "accession": "0001193125-26-447507",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/0001193125-26-447507-index.htm",
+    "grade": "A"
+   },
    {
     "accession": "0001193125-26-445847",
     "date": "2026-11-04",
