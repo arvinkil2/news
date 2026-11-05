@@ -1,12 +1,12 @@
 ---
 title: "Oil whipsaws after midterms as US stocks draw"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-04T16:22:48-05:00
+last_updated: 2026-11-05T02:16:05-05:00
 beats: ["commodities"]
 regions: ["north-america", "middle-east", "global"]
 status: "story"
-lede: "President Trump said he has no immediate plans for new strikes on Iran and that the United States is getting what it wants from the conflict, as oil extended its post-midterm slide and official US data confirmed a fifth straight weekly crude stock draw."
-why_it_matters: "The midterm result changes the politics of the Iran war without changing the physical market, where Hormuz throughput remains far below pre conflict levels and US distillate stocks are still tightening."
+lede: "Oil fell for a fourth day on Thursday, Brent down 0.85 percent to 93.82 dollars after settling 8.7 percent lower on Wednesday at its lowest since August 31, as traders priced a Democratic Congress constraining the Iran war and JPMorgan put the global market back into surplus."
+why_it_matters: "The Hormuz risk premium is unwinding faster than the physical market tightened: analysts say shipments through the strait have recovered to close to pre-war levels and the global balance swung to a 1.4 million barrel a day surplus in October, though commercial stocks near 15 year lows leave the price exposed in both directions."
 featured: false
 evidence_grade: "B"
 sources:
@@ -34,10 +34,16 @@ sources:
     publisher: "OilPrice.com"
     url: "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Further-As-Demand-Holds.html"
     published: "2026-11-04"
+  - title: "Oil falls for a 4th day on expectations for lower risk of Iran war escalation"
+    publisher: "Reuters, via Arab News"
+    url: "https://www.arabnews.com/energy/oil-falls-for-a-4th-day-on-expectations-for-lower-risk-of-iran-war-escalation-3009923"
+    published: "2026-11-05"
 tags: []
-data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated at midday on November 4, 2026 show Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week. Updated November 4, 2026 with the Energy Information Administration Weekly Petroleum Status Report for the week ended October 30, 2026, released at 10:30 a.m. EST on November 4; the EIA figures are the agency's own, as reported by Reuters and OilPrice the same day. Updated again November 4, 2026 with President Trump's remarks to the Financial Times and Fox News on Iran strikes, reported by Bloomberg and read in full in this run."
+data_as_of: "Reuters dispatch of November 4, 2026, read in full in this run, for prices at 0730 GMT and American Petroleum Institute figures for the week ended October 30, 2026; site market tables updated at midday on November 4, 2026 show Brent at 94.34 dollars, down 8.94 percent on the day and down 18.19 percent on the week. Updated November 4, 2026 with the Energy Information Administration Weekly Petroleum Status Report for the week ended October 30, 2026, released at 10:30 a.m. EST on November 4; the EIA figures are the agency's own, as reported by Reuters and OilPrice the same day. Updated again November 4, 2026 with President Trump's remarks to the Financial Times and Fox News on Iran strikes, reported by Bloomberg and read in full in this run. Updated November 5, 2026 with Reuters reporting of the same day, read in full in this run: prices as of 07:26 Saudi time on November 5, Wednesday settlement figures, JPMorgan's supply balance estimates and Eurasia Group's revised probabilities are that report's."
 update_bump: true
 ---
+
+Latest: Oil fell for a fourth day on Thursday, Brent down 80 cents, or 0.85 percent, to 93.82 dollars a barrel and West Texas Intermediate down 1.20 dollars, or 1.36 percent, to 86.92 dollars, after both benchmarks tumbled more than 8 percent on Wednesday to settle at their lowest since August 31, Reuters reported. Traders read the Republican midterm losses as reducing the risk of further escalation of the US-Israeli war on Iran: two sources close to Gulf government circles said a weakened President Trump has greater incentive to seek a deal and a full scale assault now looks less likely. JPMorgan said the resumption of Gulf supply has pushed the global market back into surplus, estimated at 1.1 million barrels a day in September and widening to 1.4 million in October, and analysts said crude shipments through the Strait of Hormuz have recovered to close to pre-war levels, though at a higher cost. Eurasia Group cut its probability of a deal to 10 percent from 20 percent and raised a continued standoff to 30 percent, and warned escalation would likely push Brent into a band of 110 to 125 dollars.
 
 Latest: President Trump said he has no immediate plans to launch strikes on Iran after the midterm rout. "We seem to be getting everything we want," he told the Financial Times, adding that the United States is still prepared to escalate if necessary: "I'm ready, we're ready. We're locked and loaded if we need to go, but there may be no reason for it." Iran's parliament speaker Mohammad Bagher Ghalibaf read the election the other way, saying Americans had voted "NO TO WAR" and warning Washington of a "nightmare" if mass attacks restart. Bloomberg reported that Qatar and Pakistan mediated talks have made little progress in recent weeks, with Qatari officials expecting feedback from both sides on new proposals within a day or so.
 
