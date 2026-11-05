@@ -1,6 +1,6 @@
 ---
 title: "France petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "France: mixed stockholding under the IEA and EU system, administered by CPSSP holds the delegated stockholding obligation and mandates SAGESS as the central stockholding entity."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

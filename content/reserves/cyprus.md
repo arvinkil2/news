@@ -1,6 +1,6 @@
 ---
 title: "Cyprus petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Cyprus: agency stockholding under the EU system, administered by KODAP (Cyprus Organisation for Storage and Management of Oil Stocks), a non profit semi governmental organisation supervised by the Minister of Energy, Commerce and Industry."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

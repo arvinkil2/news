@@ -1,6 +1,6 @@
 ---
 title: "Croatia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Croatia: agency stockholding under the EU system, administered by Croatian Hydrocarbons Agency (AZU, formerly HANDA), the central body for mandatory stocks."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

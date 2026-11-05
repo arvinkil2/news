@@ -1,6 +1,6 @@
 ---
 title: "Korea petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Korea: mixed stockholding under the IEA system, administered by Ministry of Trade, Industry and Resources sets policy; Korea National Oil Corporation (KNOC) operates nine stockpiling bases with total capacity reported at 146 million barrels."
 data_as_of: "Latest level: 2025-12-22, from Ministry of Trade, Industry and Resources statement, via Yonhap and Korea JoongAng Daily."
 ---

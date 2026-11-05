@@ -1,6 +1,6 @@
 ---
 title: "Greece petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Greece: obligated industry stockholding under the IEA and EU system, administered by No central stockholding entity; the obligation sits on refiners and importers under ministry supervision."
 data_as_of: "Latest level: 2026-06, from Eurostat (dataset nrg_stk_oilm)."
 ---

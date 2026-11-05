@@ -1,6 +1,6 @@
 ---
 title: "Romania petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Romania: obligated industry stockholding under the EU system, administered by No operating central stockholding entity verified; the Ministry of Energy is the competent authority under Law No. 85/2018, and specific stocks fall to the National Administration of State Reserves and Special Issues (ANRSPS)."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

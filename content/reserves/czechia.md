@@ -1,6 +1,6 @@
 ---
 title: "Czechia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Czechia: government stockholding under the IEA and EU system, administered by Administration of State Material Reserves (SSHR), the state agency holding government stocks."
 data_as_of: "Latest level: 2026-09, from Eurostat (dataset nrg_stk_oilm)."
 ---

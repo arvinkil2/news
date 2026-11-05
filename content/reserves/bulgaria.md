@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Bulgaria: mixed stockholding under the EU system, administered by State Agency State Reserve and Wartime Stocks, which acts as the central stockholding entity and supervises obligated persons."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

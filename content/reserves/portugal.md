@@ -1,6 +1,6 @@
 ---
 title: "Portugal petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Portugal: mixed stockholding under the IEA and EU system, administered by ENSE (Entidade Nacional para o Setor Energetico), the central stockholding entity for the strategic portion of emergency stocks."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

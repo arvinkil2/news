@@ -1,6 +1,6 @@
 ---
 title: "Belgium petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Belgium: agency stockholding under the IEA and EU system, administered by ASEVA (formerly APETRA), the federal public stockholding agency."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

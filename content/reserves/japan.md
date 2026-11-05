@@ -1,6 +1,6 @@
 ---
 title: "Japan petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Japan: mixed stockholding under the IEA system, administered by Ministry of Economy, Trade and Industry (METI) and the Agency for Natural Resources and Energy set policy; JOGMEC (Japan Organization for Metals and Energy Security) manages the national stockpile bases; specified importers and distributors hold private stocks."
 data_as_of: "Latest level: 2026-07-31, from Agency for Natural Resources and Energy monthly stockpile data, via secondary summary."
 ---

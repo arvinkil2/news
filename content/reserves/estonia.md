@@ -1,6 +1,6 @@
 ---
 title: "Estonia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Estonia: agency stockholding under the IEA and EU system, administered by AS Eesti Varude Keskus (Estonian Stockpiling Agency, ESPA), state owned."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

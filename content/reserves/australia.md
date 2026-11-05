@@ -1,6 +1,6 @@
 ---
 title: "Australia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Australia: obligated industry stockholding under the IEA system, administered by Department of Climate Change, Energy, the Environment and Water (DCCEEW) under the Fuel Security Act 2021 and the Minimum Stockholding Obligation Rules 2022; importers and refiners are the obligated entities. No government owned strategic reserve in the established system."
 data_as_of: "No current level published by this government. See the note below."
 ---

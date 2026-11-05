@@ -1,6 +1,6 @@
 ---
 title: "Slovenia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Slovenia: agency stockholding under the EU system, administered by Agency of the Republic of Slovenia for Commodity Reserves (ZRSBR), wholly owned by the Republic of Slovenia, the central stockholding entity since 2010."
 data_as_of: "Latest level: 2026-07, from Eurostat (dataset nrg_stk_oilm)."
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ireland petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Ireland: agency stockholding under the IEA and EU system, administered by National Oil Reserves Agency (NORA), a statutory state body since 2007."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

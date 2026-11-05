@@ -1,6 +1,6 @@
 ---
 title: "Latvia petroleum reserves"
-date: "2026-11-04"
+date: "2026-11-05"
 lede: "Latvia: agency stockholding under the IEA and EU system, administered by The central stockholding function has been performed since 1 January 2020 by the State Construction Control Bureau, which procures storage services for state emergency stocks."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---
