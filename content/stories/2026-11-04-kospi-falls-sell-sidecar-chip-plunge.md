@@ -1,13 +1,13 @@
 ---
-title: "Kospi falls 5.2 percent as sell sidecars hit both markets"
+title: "Kospi tumbles below 5,000 as chip stocks plunge"
 date: 2026-11-04T21:12:59-05:00
-last_updated: 2026-11-05T01:45:31-05:00
+last_updated: 2026-11-05T19:15:38-05:00
 beats: ["technology"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "South Korea's Kospi was down 5.2 percent late in Thursday's session in Seoul after sell sidecars halted program selling on both the Kospi and Kosdaq markets, as the selloff in chip stocks deepened through the afternoon."
-why_it_matters: "The split, chip heavy Seoul, Taipei and Tokyo down while Hong Kong and Shanghai rally, shows a rotation out of AI exposed names rather than a regional risk off move, and Seoul's memory makers remain the region's most exposed stocks to any tightening of US data centre rules after the Democratic midterm sweep."
+lede: "South Korea's Kospi fell 8.8 percent in early Friday trading in Seoul, dropping below 5,000, as Samsung Electronics and SK hynix each plunged more than 10 percent and the exchange halted trading for 20 minutes shortly after the open."
+why_it_matters: "Friday's fall in Seoul, following Thursday's 5.2 percent drop and the Nasdaq correction in the United States, shows the AI selloff is now feeding on itself across time zones, with Korea's memory makers the most exposed stocks to any slowdown in data centre building after the Democratic midterm sweep."
 featured: false
 evidence_grade: "C"
 sources:
@@ -31,10 +31,19 @@ sources:
     publisher: "Yonhap News Agency, via K-VIBE"
     url: "https://korean-vibe.com/article/179544746081718"
     published: "2026-11-05"
+  - title: "Korea's Kospi Tumbles Below 5,000 Milestone as AI Fears Spread"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen"
+    published: "2026-11-05"
+  - title: "Japanese Equities Set to Plunge as AI Selloff Continues"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues"
+    published: "2026-11-05"
 tags: []
-data_as_of: "Intraday figures as of 10:24 a.m. Korea time on November 5, 2026, from Yonhap News Agency, in Korean, read in full via the live browser in the original run (the direct fetch was blocked, and the browser route is the second route under the blocked-item rule); index and sidecar figures are Korea Exchange data as reported by Yonhap. Update: later session figures are investingLive's Asia-Pacific wrap of November 5, 2026, read in full in this run, which reports index moves in round terms (about 4.8 percent for the Kospi). Afternoon update: figures as of 2:37 p.m. Korea time on November 5, 2026, from MoneyToday and Seoul Economic Daily, both read in full in this completion run, corroborated by Yonhap via K-VIBE for the morning sidecar; intraday, so the closing figures may differ. Developing item."
+data_as_of: "Friday update: figures for early Friday trading in Seoul and Tokyo futures are Bloomberg reports of November 5, 2026 (Korea report published 6:35 p.m. Eastern, updated 7:06 p.m.; Japan futures report published 6:26 p.m. Eastern), read via the estate browser route in this run; the portions read carry the index, stock, halt and futures figures used here. Earlier: Intraday figures as of 10:24 a.m. Korea time on November 5, 2026, from Yonhap News Agency, in Korean, read in full via the live browser in the original run (the direct fetch was blocked, and the browser route is the second route under the blocked-item rule); index and sidecar figures are Korea Exchange data as reported by Yonhap. Update: later session figures are investingLive's Asia-Pacific wrap of November 5, 2026, read in full in this run, which reports index moves in round terms (about 4.8 percent for the Kospi). Afternoon update: figures as of 2:37 p.m. Korea time on November 5, 2026, from MoneyToday and Seoul Economic Daily, both read in full in this completion run, corroborated by Yonhap via K-VIBE for the morning sidecar; intraday, so the closing figures may differ. Developing item."
 update_bump: true
 ---
+Latest: The selloff intensified on Friday in Seoul. Samsung Electronics and SK hynix each plunged more than 10 percent in early Friday trading, dragging the Kospi down 8.8 percent and below the 5,000 milestone, and the Korea Exchange halted trading for 20 minutes shortly after the open, Bloomberg reported. That followed Thursday's global rout, in which the Nasdaq 100 fell 6.4 percent. In Japan, Nikkei 225 futures traded at 57,255.00 at 8:02 a.m. Tokyo time, against Thursday's close of 61,077.90 for the underlying index, pointing to further falls when Tokyo opened.
 
 Latest: The selloff deepened further in the afternoon, with the Kospi down 5.20 percent at 5,388.51 at 2:37 p.m. and the Kosdaq triggering its own sell sidecar at 2:27 p.m., the first time both markets have triggered sell sidecars on the same day since October 15, according to MoneyToday and Seoul Economic Daily. Samsung Electronics was down 7.57 percent and SK hynix down 9.38 percent at 2:37 p.m. Earlier in the session the rest of the region split along the same AI line, with Tokyo's Nikkei down about 1.5 percent while Hong Kong's Hang Seng rose about 3 percent, according to investingLive's Asia-Pacific wrap.
 
