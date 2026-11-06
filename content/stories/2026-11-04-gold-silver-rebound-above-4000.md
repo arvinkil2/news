@@ -1,7 +1,7 @@
 ---
 title: "Gold and silver rebound back above 4,000 dollars"
 date: 2026-11-04T07:17:02-05:00
-last_updated: 2026-11-05T07:20:30-05:00
+last_updated: 2026-11-06T07:20:00-05:00
 beats: ["commodities"]
 regions: ["global", "north-america"]
 status: "story"
@@ -26,9 +26,15 @@ sources:
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-11-04"
+  - title: "Gold set for biggest weekly gain since August after US midterms"
+    publisher: "Bloomberg via Moneyweb"
+    url: "https://www.moneyweb.co.za/news/markets/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms/"
+    published: "2026-11-06"
 tags: []
-data_as_of: "Dow Jones Newswires report of November 4, 2026, read in full in this run, for midmorning European trade; site market tables updated November 4, 2026 show gold futures at 4,052.7 dollars, up 2.85 percent, and silver futures at 52.08 dollars, up 5.03 percent."
+data_as_of: "Updated November 6, 2026 with Bloomberg reporting via Moneyweb, read in full in this run: spot gold down 0.6 percent to 4,064.53 dollars at 10:42 a.m. Singapore time, still set for a weekly advance of around 5 percent, the biggest since August, and silver up 0.4 percent to 51.96 dollars; site market tables updated November 6 at 06:07 EST show gold futures at 4,073.4 dollars, down 0.97 percent on the day and up 4.48 percent on the week. Earlier vintage: 'Dow Jones Newswires report of November 4, 2026, read in full in this run, for midmorning European trade; site market tables updated November 4, 2026 show gold futures at 4,052.7 dollars, up 2.85 percent, and silver futures at 52.08 dollars, up 5.03 percent."
 ---
+
+Latest: Gold eased on Friday but held its biggest weekly gain since August. Spot gold fell 0.6 percent to 4,064.53 dollars an ounce at 10:42 a.m. in Singapore and silver rose 0.4 percent to 51.96 dollars, Bloomberg reported, with bullion still set for a weekly advance of around 5 percent after the midterm result sent the dollar and Treasury yields lower. Some investors sold metal to cover equity losses as the technology rout continued, and OCBC strategist Christopher Wong said gold's relative resilience despite the sharp equity selloff suggests it may be gradually regaining safe haven appeal. The site market tables put gold futures at 4,073.4 dollars, down 0.97 percent on the day and up 4.48 percent on the week, and silver futures at 51.91 dollars. US payrolls later on Friday are the next test.
 
 Latest: Gold extended the rebound on Thursday, rising as much as 2.1 percent to trade near 4,146 dollars an ounce, the highest since October 20, after rising the most since August in the previous session, Bloomberg reported. Spot gold was up 1.9 percent at 4,139.29 dollars at 12:18 p.m. in Singapore. The site market tables put gold futures at 4,137 dollars, up 1.57 percent on the day and up 2.62 percent on the week, and silver futures at 52.75 dollars, up 1.21 percent. Treasury yields and the dollar extended their declines as the election result fuelled expectations that the administration's tax and spending plans may be contained. Friday's US payrolls report is the next test.
 

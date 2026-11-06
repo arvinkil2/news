@@ -1,7 +1,7 @@
 ---
 title: "Treasury takes full $4 billion in 1 month to 2 year buyback"
 date: 2026-11-04T11:42:38-05:00
-last_updated: 2026-11-05T14:42:11-05:00
+last_updated: 2026-11-06T07:20:00-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "developing"
