@@ -197,13 +197,17 @@
         { type: "value", scale: true, gridIndex: 0,
           name: isPrice ? "Price, % of par" : "Yield, %",
           nameLocation: "end",
-          nameTextStyle: small ? { fontSize: 11 } : undefined,
-          axisLabel: small ? { fontSize: 11 } : undefined,
+          nameTextStyle: { fontSize: small ? 11 : 12 },
+          axisLabel: { show: true, fontSize: small ? 11 : 12,
+            color: "#6b675c",
+            formatter: function (v) {
+              var s = String(parseFloat(v.toFixed(2)));
+              return isPrice ? s : s + "%"; } },
           splitLine: { lineStyle: { color: GRID } } },
         { type: "value", gridIndex: 1, name: "Volume $",
           nameLocation: "end", splitNumber: 2,
-          nameTextStyle: small ? { fontSize: 11 } : undefined,
-          axisLabel: { fontSize: small ? 11 : undefined,
+          nameTextStyle: { fontSize: small ? 11 : 12 },
+          axisLabel: { fontSize: small ? 11 : 12,
             formatter: function (v) {
             return v >= 1e6 ? (v / 1e6) + "M" :
                    v >= 1e3 ? (v / 1e3) + "K" : v; } },
