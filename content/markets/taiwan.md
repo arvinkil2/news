@@ -2,14 +2,14 @@
 title: "Taiwan"
 date: "2026-11-06"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 6, 5:34 AM ET"
+data_as_of: "Nov 6, 6:14 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 5:34 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 6:14 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">39,702 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="down">-4.51%</span></td><td class="num"><span class="down">-12.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,2.0 9.6,3.2 14.4,3.2 19.2,5.5 24.0,4.8 28.8,8.8 33.6,8.4 38.4,9.1 43.2,10.4 48.0,9.0 52.8,11.0 57.6,10.8 62.4,8.6 67.2,10.2 72.0,12.9 76.8,13.6 81.6,17.4 86.4,18.3 91.2,21.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$85.88 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-11.54%</span></td><td class="num"><span class="down">-18.97%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,3.0 8.7,5.2 13.1,4.5 17.5,4.5 21.8,5.1 26.2,7.0 30.5,8.4 34.9,10.6 39.3,9.8 43.6,9.8 48.0,8.5 52.4,12.3 56.7,11.6 61.1,11.1 65.5,9.8 69.8,8.6 74.2,10.8 78.5,14.5 82.9,14.8 87.3,16.6 91.6,17.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TWD</td><td class="num">32.7430 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="up">+0.24%</span></td><td class="num"><span class="down">-0.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.2,25.4 8.3,23.8 12.5,22.1 16.7,22.3 20.9,22.0 25.0,18.1 29.2,16.2 33.4,13.1 37.6,11.7 41.7,9.7 45.9,7.5 50.1,12.2 54.3,7.0 58.4,7.6 62.6,8.4 66.8,10.9 71.0,11.8 75.1,7.7 79.3,6.8 83.5,7.3 87.7,4.0 91.8,2.0 96.0,3.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TWD</td><td class="num">32.7090 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="up">+0.34%</span></td><td class="num"><span class="down">-0.44%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.2,25.4 8.3,23.8 12.5,22.1 16.7,22.3 20.9,22.0 25.0,18.1 29.2,16.2 33.4,13.1 37.6,11.7 41.7,9.7 45.9,7.5 50.1,12.2 54.3,7.0 58.4,7.6 62.6,8.4 66.8,10.9 71.0,11.8 75.1,7.7 79.3,6.8 83.5,7.3 87.7,4.0 91.8,2.0 96.0,4.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -20,6 +20,7 @@ data_as_of: "Nov 6, 5:34 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-04 (Taipei Exchange (TPEx)), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-taiwan-short-selling-cap-stabilization-fund-rout/">Taiwan caps short selling, authorizes stabilization fund after rout</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-taiwan-dollar-weakens-past-33-ai-rout/">Taiwan dollar weakens past 33 on AI rout</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-taiwan-china-coast-guard-shipping-patrol/">Taiwan says China coast guard harasses east coast shipping</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-taiwan-foreign-outflows-record-october/">Foreigners sell record 31.78 billion dollars of Taiwan shares</a></p>
@@ -27,5 +28,4 @@ data_as_of: "Nov 6, 5:34 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-japan-definitive-antidumping-stainless-china-taiwan/">Japan makes stainless steel duties on China and Taiwan definitive</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-22</span> <a href="/stories/2026-10-22-taiwan-markets-close-friday-typhoon-champi/">Taiwan suspends stock trading Friday as Typhoon Champi nears</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-20</span> <a href="/stories/2026-10-20-china-tracks-us-warship-sabina-shoal/">China tracks US warship near Sabina Shoal, Taiwan reports standoff</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-taiwan-chinese-vessels-kinmen/">Taiwan drives away 16 Chinese vessels in coordinated operation</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
