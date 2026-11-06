@@ -1,8 +1,8 @@
 ---
 title: "Project Jupiter"
-date: "2026-11-04"
+date: "2026-11-06"
 lede: "Oracle's 2.5 GW campus in Doña Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power."
-data_as_of: "2026-10-27"
+data_as_of: "2026-11-05"
 ---
 
 
@@ -47,6 +47,8 @@ data_as_of: "2026-10-27"
 <colgroup><col style="width:104px"><col style="width:660px"><col style="width:190px"></colgroup>
 <thead><tr><th>Date</th><th>Development</th><th>Source</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-11-05">05 Nov 2026</td><td data-v=""><span class="bond-name">Project Jupiter power permit deadline waived in New Mexico</span><span class="bond-sub">Yucca Growth Infrastructure waived its right to a November 23 decision on the air quality permit for Project Jupiter's on-site fuel cell power plant, giving the New Mexico Environment Department more time to review updated emissions projections instead of risking a denial. A public hearing is scheduled for early December. Without the permit the power infrastructure cannot be built, while work on the data centre buildings continues.</span></td><td data-v=""><a href="/stories/2026-11-05-project-jupiter-air-permit-deadline-waived/">Kilambi Research coverage</a><span class="cell-sub">Grade C</span></td></tr>
+<tr><td data-v="2026-10-31">31 Oct 2026</td><td data-v=""><span class="bond-name">Community Monitoring Committee holds its first meeting</span><span class="bond-sub">The 11 member Project Jupiter Community Monitoring Committee, appointed on October 14, 2026 under Resolution No. 2026-101, held its first public meeting in Las Cruces. The committee elected officers, adopted bylaws and chose water, fuel cells and economic and governmental agreements as its first information topics, with a next business meeting aimed for November 21, 2026 in the southern part of the county.</span></td><td data-v="">Organ Mountain News, October 30, 2026<span class="cell-sub">Grade C</span></td></tr>
 <tr><td data-v="2026-10-27">27 Oct 2026</td><td data-v=""><span class="bond-name">County authorizes a potential breach notice</span><span class="bond-sub">After a closed session of more than two hours, commissioners voted 5-0 to authorize county management and legal counsel to notify the Project Jupiter entities of a potential breach of the IRB agreements over the proposed El Paso Electric connection and power generation plan, and to engage in discussions on a path forward. The chairman reads Section 8.4 as requiring on site generation with no utility connection. The quoted text does not expressly bar a utility connection, no breach has been established, the vote revokes nothing, and Oracle had not responded at publication.</span></td><td data-v="">Organ Mountain News, October 28, 2026<span class="cell-sub">Grade C</span></td></tr>
 <tr><td data-v="2026-10-16">16 Oct 2026</td><td data-v=""><span class="bond-name">Oracle presses FERC to expedite the Green Chile pipeline</span><span class="bond-sub">Oracle asked FERC to expedite approval of the 17.8 mile Green Chile pipeline, about 400 million cubic feet of gas a day to on site fuel cells supplied by Bloom Energy. The pipeline timeline had slipped to February 2027. New Mexico Attorney General Raul Torrez pressed FERC to broaden its environmental review to the combined footprint of the data centre and the pipeline.</span></td><td data-v=""><a href="/stories/2026-10-16-oracle-project-jupiter-pipeline-ferc/">Kilambi Research coverage</a><span class="cell-sub">Grade C</span></td></tr>
 <tr><td data-v="2026-10-14">14 Oct 2026</td><td data-v=""><span class="bond-name">Community Monitoring Committee appointed</span><span class="bond-sub">The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.</span></td><td data-v="">Doña Ana County release<span class="cell-sub">Grade C</span></td></tr>
