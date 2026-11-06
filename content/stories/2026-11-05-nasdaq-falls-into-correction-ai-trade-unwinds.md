@@ -1,12 +1,12 @@
 ---
 title: "Nasdaq falls into correction as AI trade unwinds"
 date: 2026-11-05T12:15:52-05:00
-last_updated: 2026-11-05T19:47:36-05:00
+last_updated: 2026-11-06T04:43:36-05:00
 beats: ["technology"]
-regions: ["north-america"]
+regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "US stocks closed sharply lower on Thursday, with the Nasdaq Composite down 5.52 percent at 24,315.00 and in correction territory, the S&P 500 down 4.36 percent and the Dow down 3.44 percent, as chip stocks suffered their worst day since March 2020."
-why_it_matters: "The selloff is the market repricing the AI buildout itself: post-election scrutiny of data center expansion, weak chip earnings and doubts about returns on AI spending hit the leveraged names that this site's leverage monitor tracks hardest."
+lede: "The AI selloff spread to Asia on Friday, with Japan's Nikkei down 6 percent, Taiwan down 4.5 percent on the close and South Korean trading halted, a day after the Nasdaq Composite fell 5.52 percent into correction territory."
+why_it_matters: "The selloff is now global and is the market repricing the AI buildout itself: post-election scrutiny of data center expansion, weak chip earnings and doubts about returns on AI spending hit the leveraged names that this site's leverage monitor tracks hardest, and Asian authorities from Seoul to Beijing intervened on Friday to stem the selling."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,10 +22,16 @@ sources:
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261106002100072"
     published: "2026-11-06"
+  - title: "Tech stock rout, driven by US AI fears, continues in Asian trading"
+    publisher: "Al Jazeera, with Reuters"
+    url: "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading"
+    published: "2026-11-06"
 tags: []
-data_as_of: "Reuters reporting published November 5, 2026 at 10:21 a.m. and 11:40 a.m. Eastern and updated to 11:49 a.m., read in full through the estate browser route after the direct fetch was blocked; index and ticker snapshots as shown at about 12:13 p.m. Eastern. The Yonhap breaking item, in Korean, corroborates the intraday fall of more than 4 percent. Closing figures corrected November 5, 2026 at 7:47 p.m. Eastern against official venue data: Cboe delayed quotes for the S&P 500 (7,353.73) and the VIX (28.18), the Nasdaq quote API for the Composite (24,315.00), Nvidia, AMD and Western Digital closes, official close reports for the Dow (51,523.06), and this site's market tables for gold and Brent."
+data_as_of: "Updated November 6, 2026 with the Asian session: Al Jazeera report of November 6, 2026, with Reuters, read in full through the estate browser route after the direct fetch was blocked; index, stock and intervention figures are that report's own. Reuters reporting published November 5, 2026 at 10:21 a.m. and 11:40 a.m. Eastern and updated to 11:49 a.m., read in full through the estate browser route after the direct fetch was blocked; index and ticker snapshots as shown at about 12:13 p.m. Eastern. The Yonhap breaking item, in Korean, corroborates the intraday fall of more than 4 percent. Closing figures corrected November 5, 2026 at 7:47 p.m. Eastern against official venue data: Cboe delayed quotes for the S&P 500 (7,353.73) and the VIX (28.18), the Nasdaq quote API for the Composite (24,315.00), Nvidia, AMD and Western Digital closes, official close reports for the Dow (51,523.06), and this site's market tables for gold and Brent."
 update_bump: true
 ---
+
+Latest, Friday, November 6: The rout ran through Asia. Japan's Nikkei fell 6 percent, its deepest one-day drop since April 2025, with Kioxia and SoftBank Group each down 11 percent. South Korea and Taiwan each fell more than 8 percent after the open before cutting losses; trading on the Kospi was temporarily halted, and Taiwan closed down 4.5 percent, for a weekly fall of 12.2 percent, its biggest since 1991 on LSEG data. Samsung Electronics fell nearly 6 percent and SK Hynix 9.4 percent, and TSMC closed down 4.7 percent after falling as much as 8.5 percent. Chinese state entities bought equities to stabilise the market, Al Jazeera reported, and Taiwan's economy ministry said demand for AI, high-performance computing and cloud services should keep expanding.
 
 Latest: The market closed with the losses intact. The Nasdaq Composite ended at 24,315.00, down 5.52 percent on the day, the S&P 500 at 7,353.73, down 4.36 percent, and the Dow Jones Industrial Average at 51,523.06, down 3.44 percent. The CBOE Volatility Index rose 69.66 percent to 28.18, a new six-month high. On the New York Stock Exchange 2,482 stocks fell against 355 advancing, and on the Nasdaq 3,011 fell against 438 advancing, as reported by Reuters. Nvidia closed down 8.91 percent, AMD down 17.39 percent and Western Digital down 17.56 percent. Gold futures rose 0.64 percent to $4,099.10 a troy ounce and Brent crude rose 4.88 percent to $99.24 a barrel. Index and volatility closes are the official venue figures (Cboe for the S&P 500 and the VIX, Nasdaq for the Composite and the named stocks); commodity figures are this site's market tables.
 
