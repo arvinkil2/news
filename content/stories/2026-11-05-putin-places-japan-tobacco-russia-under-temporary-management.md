@@ -1,7 +1,7 @@
 ---
 title: "Putin places Japan Tobacco's Russian business under state management"
 date: 2026-11-05T12:46:13-05:00
-last_updated: 2026-11-05T12:46:13-05:00
+last_updated: 2026-11-05T20:45:31-05:00
 beats: ["politics"]
 regions: ["europe", "asia-pacific"]
 status: "story"
@@ -18,9 +18,20 @@ sources:
     publisher: "Interfax, in Russian"
     url: "https://www.interfax.ru/business/1127180"
     published: "2026-11-05"
+  - title: "Japan Protests Russia's Seizure of Japan Tobacco Assets"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets"
+    published: "2026-11-06"
+  - title: "Japan Tobacco Says Russian Entities Placed Under Administration"
+    publisher: "Dow Jones, via Morningstar"
+    url: "https://www.morningstar.com/news/dow-jones/2026110526076/japan-tobacco-says-russian-entities-placed-under-administration"
+    published: "2026-11-05"
 tags: []
-data_as_of: "The Moscow Times report of November 5, 2026, with AFP contributing, read in full in this run, corroborated by Interfax's report of the same decree, in Russian. The decree text itself was not read on the Kremlin's site in this run, and no response from Japan Tobacco International had been reported by either source at the time of writing."
+update_bump: true
+data_as_of: "Update: Bloomberg report of November 6, 2026 (opening paragraphs and the Akazawa quote read via the estate browser route; the remainder is paywalled) and the Dow Jones report of November 5, 2026, via Morningstar, carrying Japan Tobacco's own statement. Earlier: The Moscow Times report of November 5, 2026, with AFP contributing, read in full in this run, corroborated by Interfax's report of the same decree, in Russian. The decree text itself was not read on the Kremlin's site in this run."
 ---
+
+Latest: Japan has formally protested the seizure. Trade Minister Ryosei Akazawa told a regular press conference on Friday that Tokyo had lodged a protest with the Russian government and urged it to take immediate action, including revoking the measures. Japan Tobacco also spoke for the first time: the company said on Friday that four of its manufacturing entities in Russia had been placed under temporary administration under the decree, that it was gathering further information and assessing the potential impact, and that it had continued operating in Russia in compliance with all regulations and sanctions.
 
 President Vladimir Putin signed an executive order on Thursday, November 5, placing the Russian assets of Japan Tobacco International (JTI) under temporary management by the state. The order names a Russian company, Industrial Assets, as the temporary manager of four JTI corporate entities in Russia. Independent media reported that the Industrial Assets taking control of JTI was registered on September 16 and is owned by Sergei Dremov, a former FSB security service officer in the Kursk region.
 
