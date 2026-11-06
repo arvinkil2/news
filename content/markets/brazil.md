@@ -2,10 +2,10 @@
 title: "Brazil"
 date: "2026-11-06"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 6, 6:14 AM ET"
+data_as_of: "Nov 6, 6:18 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 6:14 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 6:18 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Ibovespa (index)</td><td class="num">166,192 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-0.82%</span></td><td class="num"><span class="down">-2.82%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.2 4.6,3.8 9.1,4.6 13.7,3.6 18.3,2.0 22.9,3.2 27.4,3.4 32.0,4.6 36.6,4.0 41.1,4.2 45.7,2.4 50.3,3.4 54.9,4.7 59.4,4.2 64.0,19.9 68.6,20.4 73.1,23.0 77.7,24.0 82.3,24.7 86.9,26.0 91.4,24.9 96.0,25.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$31.7600 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-1.52%</span></td><td class="num"><span class="down">-4.16%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.1 4.4,4.4 8.7,3.9 13.1,2.0 17.5,2.0 21.8,3.4 26.2,3.9 30.5,6.0 34.9,5.5 39.3,5.3 43.6,3.2 48.0,4.1 52.4,5.4 56.7,3.9 61.1,21.1 65.5,20.8 69.8,22.2 74.2,23.1 78.5,24.5 82.9,25.1 87.3,26.0 91.6,24.9 96.0,25.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -13,10 +13,10 @@ data_as_of: "Nov 6, 6:14 AM ET"
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>2Y benchmark yield</td><td class="num">14.89 <span class="unit">%</span></td><td class="num"><span class="up">+10.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+217.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.4 3.3,14.8 6.6,14.8 9.9,14.9 13.2,14.5 16.6,13.9 19.9,13.7 23.2,14.2 26.5,15.1 29.8,14.2 33.1,14.5 36.4,22.7 39.7,24.1 43.0,24.1 46.3,24.3 49.7,26.0 53.0,25.1 56.3,24.1 59.6,23.2 62.9,22.1 66.2,22.7 69.5,22.9 72.8,23.5 76.1,22.4 79.4,22.4 82.8,2.0 86.1,6.1 89.4,6.2 92.7,6.3 96.0,5.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>10Y benchmark yield</td><td class="num">15.35 <span class="unit">%</span></td><td class="num"><span class="up">+23.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+233.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.6 3.3,12.4 6.6,12.4 9.9,12.8 13.2,12.4 16.6,12.8 19.9,12.7 23.2,13.5 26.5,13.8 29.8,12.9 33.1,12.3 36.4,21.9 39.7,23.6 43.0,22.7 46.3,22.6 49.7,25.4 53.0,26.0 56.3,24.3 59.6,23.0 62.9,22.3 66.2,22.5 69.5,22.4 72.8,23.3 76.1,22.1 79.4,22.7 82.8,2.0 86.1,6.0 89.4,6.5 92.7,5.5 96.0,3.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>2Y benchmark yield</td><td class="num">14.97 <span class="unit">%</span></td><td class="num"><span class="down">-18.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+16.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 3.3,14.5 6.6,13.9 9.9,13.7 13.2,14.2 16.6,15.1 19.9,14.2 23.2,14.5 26.5,22.7 29.8,24.1 33.1,24.1 36.4,24.3 39.7,26.0 43.0,25.1 46.3,24.1 49.7,23.2 53.0,22.1 56.3,22.7 59.6,22.9 62.9,23.5 66.2,22.4 69.5,22.4 72.8,2.0 76.1,6.1 79.4,6.2 82.8,6.3 86.1,5.6 89.4,3.1 92.7,3.5 96.0,4.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>10Y benchmark yield</td><td class="num">15.33 <span class="unit">%</span></td><td class="num"><span class="down">-21.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+34.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.2 3.3,12.7 6.6,13.1 9.9,13.0 13.2,13.8 16.6,14.1 19.9,13.3 23.2,12.6 26.5,22.0 29.8,23.7 33.1,22.8 36.4,22.7 39.7,25.4 43.0,26.0 46.3,24.3 49.7,23.0 53.0,22.4 56.3,22.6 59.6,22.5 62.9,23.4 66.2,22.2 69.5,22.8 72.8,2.6 76.1,6.6 79.4,7.0 82.8,6.0 86.1,4.2 89.4,2.0 92.7,2.6 96.0,4.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
-<p class="gm-method">10Y benchmark yield as of 2026-10-30 (Tesouro Nacional), the publisher's latest daily observation.</p>
+<p class="gm-method">10Y benchmark yield as of 2026-11-05 (Tesouro Nacional), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-saipem-subsea7-brazil-cade-approval/">Brazil clears Saipem Subsea 7 merger conditional on vessel sale</a></p>
