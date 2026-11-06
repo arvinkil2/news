@@ -1,8 +1,8 @@
 ---
 title: "COREWEAVE COMPUTE ACQUISITION CO II LLC 948GKAII8"
-date: "2026-11-05"
+date: "2026-11-06"
 lede: "Trades, fund marks, terms and call schedule for 948GKAII8."
-data_as_of: "Trades to 05 Nov 2026; fund marks to 31 Mar 2026"
+data_as_of: "Trades to 06 Nov 2026; fund marks to 31 Mar 2026"
 ---
 
 <p class="bond-navrow"><a href="/leverage/bond-watch/">Bond Price Watch</a> / <a href="/leverage/issuer/coreweave/">CoreWeave</a> / COREWEAVE COMPUTE ACQUISITION CO II LLC</p>
