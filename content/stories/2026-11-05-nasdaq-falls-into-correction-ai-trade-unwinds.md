@@ -1,11 +1,11 @@
 ---
 title: "Nasdaq falls into correction as AI trade unwinds"
 date: 2026-11-05T12:15:52-05:00
-last_updated: 2026-11-06T04:43:36-05:00
+last_updated: 2026-11-06T05:15:08-05:00
 beats: ["technology"]
-regions: ["north-america", "asia-pacific"]
+regions: ["north-america", "asia-pacific", "europe"]
 status: "story"
-lede: "The AI selloff spread to Asia on Friday, with Japan's Nikkei down 6 percent, Taiwan down 4.5 percent on the close and South Korean trading halted, a day after the Nasdaq Composite fell 5.52 percent into correction territory."
+lede: "The AI selloff completed its circuit of the world's markets on Friday, reaching Europe after Asia, where Japan's Nikkei fell 6 percent and Taiwan closed down 4.5 percent, a day after the Nasdaq Composite fell 5.52 percent into correction territory."
 why_it_matters: "The selloff is now global and is the market repricing the AI buildout itself: post-election scrutiny of data center expansion, weak chip earnings and doubts about returns on AI spending hit the leveraged names that this site's leverage monitor tracks hardest, and Asian authorities from Seoul to Beijing intervened on Friday to stem the selling."
 featured: true
 evidence_grade: "B"
@@ -26,10 +26,16 @@ sources:
     publisher: "Al Jazeera, with Reuters"
     url: "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading"
     published: "2026-11-06"
+  - title: "European shares join global sell-off as AI fears mount"
+    publisher: "Deutsche Welle, with AFP and Reuters"
+    url: "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504"
+    published: "2026-11-06"
 tags: []
-data_as_of: "Updated November 6, 2026 with the Asian session: Al Jazeera report of November 6, 2026, with Reuters, read in full through the estate browser route after the direct fetch was blocked; index, stock and intervention figures are that report's own. Reuters reporting published November 5, 2026 at 10:21 a.m. and 11:40 a.m. Eastern and updated to 11:49 a.m., read in full through the estate browser route after the direct fetch was blocked; index and ticker snapshots as shown at about 12:13 p.m. Eastern. The Yonhap breaking item, in Korean, corroborates the intraday fall of more than 4 percent. Closing figures corrected November 5, 2026 at 7:47 p.m. Eastern against official venue data: Cboe delayed quotes for the S&P 500 (7,353.73) and the VIX (28.18), the Nasdaq quote API for the Composite (24,315.00), Nvidia, AMD and Western Digital closes, official close reports for the Dow (51,523.06), and this site's market tables for gold and Brent."
+data_as_of: "Updated November 6, 2026 with the European open: Deutsche Welle report of November 6, 2026, with AFP and Reuters, read in full through the estate browser route after the direct fetch was blocked; only its European figures are used here, as its US single-stock figures differ from the venue-verified closes below. Updated November 6, 2026 with the Asian session: Al Jazeera report of November 6, 2026, with Reuters, read in full through the estate browser route after the direct fetch was blocked; index, stock and intervention figures are that report's own. Reuters reporting published November 5, 2026 at 10:21 a.m. and 11:40 a.m. Eastern and updated to 11:49 a.m., read in full through the estate browser route after the direct fetch was blocked; index and ticker snapshots as shown at about 12:13 p.m. Eastern. The Yonhap breaking item, in Korean, corroborates the intraday fall of more than 4 percent. Closing figures corrected November 5, 2026 at 7:47 p.m. Eastern against official venue data: Cboe delayed quotes for the S&P 500 (7,353.73) and the VIX (28.18), the Nasdaq quote API for the Composite (24,315.00), Nvidia, AMD and Western Digital closes, official close reports for the Dow (51,523.06), and this site's market tables for gold and Brent."
 update_bump: true
 ---
+
+Latest, Friday, November 6: Europe took its turn. The pan-European STOXX 600 dropped 1.6 percent in early trading, wiping out its gains for the week, and most major European markets fell more than 1 percent, with media, healthcare and retail stocks leading the declines, Deutsche Welle reported. European markets had weathered the week's turbulence better than their Asian and US counterparts until Friday's open.
 
 Latest, Friday, November 6: The rout ran through Asia. Japan's Nikkei fell 6 percent, its deepest one-day drop since April 2025, with Kioxia and SoftBank Group each down 11 percent. South Korea and Taiwan each fell more than 8 percent after the open before cutting losses; trading on the Kospi was temporarily halted, and Taiwan closed down 4.5 percent, for a weekly fall of 12.2 percent, its biggest since 1991 on LSEG data. Samsung Electronics fell nearly 6 percent and SK Hynix 9.4 percent, and TSMC closed down 4.7 percent after falling as much as 8.5 percent. Chinese state entities bought equities to stabilise the market, Al Jazeera reported, and Taiwan's economy ministry said demand for AI, high-performance computing and cloud services should keep expanding.
 
