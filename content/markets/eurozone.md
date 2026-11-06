@@ -2,14 +2,14 @@
 title: "Eurozone"
 date: "2026-11-06"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Eurozone, refreshed every 15 minutes."
-data_as_of: "Nov 6, 6:18 AM ET"
+data_as_of: "Nov 6, 7:56 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 6:18 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 7:56 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>EURO STOXX 50 (index)</td><td class="num">6,136 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="down">-1.54%</span></td><td class="num"><span class="up">+0.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,12.8 8.3,19.1 12.5,13.6 16.7,10.4 20.9,14.4 25.0,11.6 29.2,14.2 33.4,10.0 37.6,17.0 41.7,19.7 45.9,9.6 50.1,23.8 54.3,26.0 58.4,20.4 62.6,14.7 66.8,14.3 71.0,9.7 75.1,18.6 79.3,13.3 83.5,17.0 87.7,2.8 91.8,6.8 96.0,18.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EURO STOXX 50 (index)</td><td class="num">6,137 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="down">-1.52%</span></td><td class="num"><span class="up">+0.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,12.8 8.3,19.1 12.5,13.6 16.7,10.4 20.9,14.4 25.0,11.6 29.2,14.2 33.4,10.0 37.6,17.0 41.7,19.7 45.9,9.6 50.1,23.8 54.3,26.0 58.4,20.4 62.6,14.7 66.8,14.3 71.0,9.7 75.1,18.6 79.3,13.3 83.5,17.0 87.7,2.8 91.8,6.8 96.0,18.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR EURO STOXX 50 (FEZ)</td><td class="num">$65.91 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-2.18%</span></td><td class="num"><span class="down">-0.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.0 4.4,15.4 8.7,17.4 13.1,14.4 17.5,17.2 21.8,15.7 26.2,19.1 30.5,13.3 34.9,15.0 39.3,21.3 43.6,17.1 48.0,12.7 52.4,21.7 56.7,26.0 61.1,24.3 65.5,19.1 69.8,18.0 74.2,13.3 78.5,22.0 82.9,18.9 87.3,20.4 91.6,2.0 96.0,14.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1179 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="down">-0.49%</span></td><td class="num"><span class="down">-0.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.2 4.2,2.0 8.3,12.3 12.5,9.9 16.7,11.5 20.9,20.2 25.0,11.7 29.2,13.4 33.4,9.9 37.6,7.6 41.7,9.4 45.9,7.2 50.1,5.7 54.3,8.4 58.4,9.0 62.6,17.5 66.8,26.0 71.0,21.0 75.1,15.7 79.3,20.8 83.5,14.0 87.7,11.1 91.8,5.7 96.0,16.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1171 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="down">-0.57%</span></td><td class="num"><span class="down">-0.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.2 4.2,2.0 8.3,12.3 12.5,9.9 16.7,11.5 20.9,20.2 25.0,11.7 29.2,13.4 33.4,9.9 37.6,7.6 41.7,9.4 45.9,7.2 50.1,5.7 54.3,8.4 58.4,9.0 62.6,17.5 66.8,26.0 71.0,21.0 75.1,15.7 79.3,20.8 83.5,14.0 87.7,11.1 91.8,5.7 96.0,18.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -20,6 +20,7 @@ data_as_of: "Nov 6, 6:18 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-03 (European Central Bank), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-euro-area-retail-trade-falls-september/">Euro area retail trade falls 0.7 percent in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-euro-area-inflation-hits-4-percent-october/">Euro area inflation hits 4 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-euro-area-gdp-grows-0-4-percent-q3/">Euro area growth slows to 0.4 percent in third quarter</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-27</span> <a href="/stories/2026-10-27-ecb-bank-lending-survey-tightening/">Euro area banks tighten firm credit as loan demand falls</a></p>
@@ -27,5 +28,4 @@ data_as_of: "Nov 6, 6:18 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-23</span> <a href="/stories/2026-10-23-eurozone-flash-pmi-falls-october/">Euro zone flash PMI falls to four-month low</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-21</span> <a href="/stories/2026-10-21-eurostat-euro-area-debt-88-8-deficit/">Euro area debt rises to 88.8 percent of GDP</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-16</span> <a href="/stories/2026-10-16-euro-area-inflation-final-38/">Euro area inflation confirmed at 3.8 percent in September final</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-12</span> <a href="/stories/2026-10-12-eurozone-bonds-france-budget/">Eurozone yields dip as France budget debate looms</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

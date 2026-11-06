@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-06"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 6, 6:18 AM ET"
+data_as_of: "Nov 6, 7:56 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 6:18 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 7:56 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,354 <span class="gm-sub-inline">as of 2026-11-05</span></td><td class="num"><span class="down">-4.36%</span></td><td class="num"><span class="down">-4.75%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.9 8.7,4.8 13.1,2.4 17.5,2.6 21.8,2.7 26.2,7.2 30.5,5.9 34.9,10.2 39.3,8.6 43.6,7.5 48.0,5.2 52.4,10.0 56.7,12.1 61.1,9.3 65.5,7.0 69.8,5.9 74.2,7.1 78.5,14.3 82.9,16.3 87.3,14.9 91.6,8.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">24,315 <span class="gm-sub-inline">as of 2026-11-05 (Nasdaq, near-real-time)</span></td><td class="num"><span class="down">-5.52%</span></td><td class="num"><span class="down">-7.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.4 8.7,5.0 13.1,3.7 17.5,4.6 21.8,4.9 26.2,8.6 30.5,8.5 34.9,12.7 39.3,10.5 43.6,10.6 48.0,8.6 52.4,13.6 56.7,14.0 61.1,12.5 65.5,10.2 69.8,9.7 74.2,12.3 78.5,17.8 82.9,19.8 87.3,18.3 91.6,15.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -19,12 +19,12 @@ data_as_of: "Nov 6, 6:18 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-rates-also-notable/">Rates also notable: US jobs report due this morning</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-eia-refineries-shift-middle-distillates/">US refiners shift output from gasoline to middle distillates</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-sibanye-us-pgm-forecast-cut-strike/">Sibanye cuts United States PGM forecast after Montana strike</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-amgen-repatha-real-world-heart-attack/">Amgen Repatha cuts heart attack risk 20 percent versus ezetimibe</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-qatarenergy-largest-buyer-us-lng/">QatarEnergy becomes largest buyer of US LNG supply</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-canada-merchandise-trade-surplus-widens-september/">Canada merchandise trade surplus widens in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-us-productivity-rises-3-6-percent-unit-labour-costs-fall/">US productivity jumps 3.6 percent as unit labour costs fall</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-us-jobless-claims-fall-189000-matching-1969-low/">US jobless claims fall to 189,000, matching 1969 low</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-oracle-scraps-tencent-chip-lease/">Oracle scraps $7 billion Tencent chip lease under US pressure</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-jpmorgan-us-copper-output-doubling/">JPMorgan sees United States copper output more than doubling</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-mining-also-notable/">Mining also notable: Ramelius starts Eridanus cutback in Australia</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-us-preliminary-dumping-finding-uae-steel-pipe/">US finds UAE steel pipe sold below fair value</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
