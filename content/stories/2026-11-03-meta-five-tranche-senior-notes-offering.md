@@ -1,16 +1,20 @@
 ---
-title: "Meta raises 15 billion dollars in five part bond sale"
+title: "Meta prices nine billion euros of notes in six tranches"
 date: 2026-11-03T09:05:02-05:00
-last_updated: 2026-11-05T17:59:57-05:00
+last_updated: 2026-11-06T08:32:01-05:00
 beats: ["rates"]
-regions: ["north-america"]
+regions: ["north-america", "europe"]
 status: "developing"
 developing: true
-lede: "Meta Platforms has completed its 15 billion dollar five part US dollar bond sale, its 8-K filing shows, and underwriters have exercised in full the option for 6 million more shares in its forward equity sale."
-why_it_matters: "Completion locks in the full priced terms of the dollar leg of Meta's AI funding programme, and the full greenshoe exercise lifts the forward equity sale to 46 million shares, adding equity funding alongside the debt raise."
+lede: "Meta Platforms has priced 9 billion euros of senior notes in six tranches, the final prospectus supplement shows, completing the euro leg of the funding programme that raised 15 billion dollars in US notes earlier this week."
+why_it_matters: "The euro pricing fixes the second leg of Meta's AI funding programme at 9 billion euros with maturities out to 2065, on top of the 15 billion dollar US sale and a 46 million share forward equity sale."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Meta Platforms, Inc. final prospectus supplement, Form 424B5, euro senior notes (accession 0001193125-26-450754)"
+    publisher: "Meta Platforms, Inc. via SEC EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450754/d44678d424b5.htm"
+    published: "2026-11-06"
   - title: "Meta Platforms, Inc. Form 8-K, completed notes offering and forward sale option exercise (accession 0001193125-26-450074)"
     publisher: "Meta Platforms, Inc. via SEC EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm"
@@ -32,9 +36,11 @@ sources:
     url: "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
     published: "2026-11-03"
 tags: []
-data_as_of: "Updated November 5, 2026 with the completion filing: Meta Platforms, Inc. Form 8-K filed November 5, 2026 (accession 0001193125-26-450074), read in full from the SEC filings lane copy; all completion terms, tranche amounts and coupons, and the forward sale option exercise are the filing's own. Updated November 4, 2026 with the euro launch: the preliminary prospectus supplement dated November 4, 2026 (accession 0001193125-26-446110), read in full from the SEC filings lane copy; amounts, coupons and maturities are blank in that document, subject to completion. Updated November 3, 2026 with the priced terms: Reuters report of November 3, 2026, read in full in this run, citing the regulatory filing for the 15 billion dollar total and the 2031 and 2033 tranches; the priced prospectus supplement itself had not been read in this run when this update was written. Launch terms are from the preliminary prospectus supplement dated November 3, 2026 (accession 0001193125-26-444440), read in full from the SEC filings lane copy."
+data_as_of: "Updated November 6, 2026 with the priced euro terms: Meta Platforms, Inc. final prospectus supplement, Form 424B5 filed November 6, 2026 (accession 0001193125-26-450754), read in full from the SEC filings lane copy; all euro tranche amounts, coupons and maturities are the filing's own. Updated November 5, 2026 with the completion filing: Meta Platforms, Inc. Form 8-K filed November 5, 2026 (accession 0001193125-26-450074), read in full from the SEC filings lane copy; all completion terms, tranche amounts and coupons, and the forward sale option exercise are the filing's own. Updated November 4, 2026 with the euro launch: the preliminary prospectus supplement dated November 4, 2026 (accession 0001193125-26-446110), read in full from the SEC filings lane copy; amounts, coupons and maturities are blank in that document, subject to completion. Updated November 3, 2026 with the priced terms: Reuters report of November 3, 2026, read in full in this run, citing the regulatory filing for the 15 billion dollar total and the 2031 and 2033 tranches; the priced prospectus supplement itself had not been read in this run when this update was written. Launch terms are from the preliminary prospectus supplement dated November 3, 2026 (accession 0001193125-26-444440), read in full from the SEC filings lane copy."
 update_bump: true
 ---
+
+**Latest:** Meta has priced the euro leg of its bond programme at 9 billion euros in six tranches, the final prospectus supplement filed on Friday shows. The tranches are 1.75 billion euros of 4.300 percent senior notes due 2031, 1.25 billion euros of 4.650 percent notes due 2033, 1 billion euros of 4.900 percent notes due 2035, 1.75 billion euros of 5.400 percent notes due 2038, 1.75 billion euros of 6.050 percent notes due 2044, and 1.5 billion euros of 6.400 percent notes due 2065. The notes are unsecured, will be issued in minimum denominations of 100,000 euros, clear through Clearstream and Euroclear, and Meta intends to apply to list them on Nasdaq, with proceeds for general corporate purposes.
 
 **Latest:** Meta has completed the US dollar offering, the company said in a Form 8-K filed on Thursday. The five tranches total 15 billion dollars: 3.25 billion dollars of 5.850 percent senior notes due 2031, 3.25 billion dollars of 6.250 percent notes due 2033, 4 billion dollars of 6.550 percent notes due 2036, 1.75 billion dollars of 7.350 percent notes due 2046, and 2.75 billion dollars of 7.500 percent notes due 2056. The notes were issued under an underwriting agreement dated November 3, 2026 with Citigroup Global Markets and Morgan Stanley as representatives of the underwriters, and a sixth supplemental indenture dated November 5, 2026 with U.S. Bank Trust Company, National Association, as trustee.
 
