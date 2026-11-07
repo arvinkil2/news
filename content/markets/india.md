@@ -2,13 +2,13 @@
 title: "India"
 date: "2026-11-07"
 lede: "Benchmark index, country ETF, currency and sovereign yields for India, refreshed every 15 minutes."
-data_as_of: "Nov 6, 7:53 PM ET"
+data_as_of: "Nov 6, 8:07 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 7:53 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 8:07 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nifty 50 (index)</td><td class="num">24,537 <span class="gm-sub-inline">as of 2026-11-05, stale</span></td><td class="num"><span class="up">+2.40%</span></td><td class="num"><span class="up">+6.98%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.3 4.6,22.1 9.1,26.0 13.7,23.0 18.3,24.6 22.9,20.9 27.4,21.9 32.0,18.0 36.6,16.5 41.1,19.2 45.7,20.0 50.3,21.3 54.9,22.2 59.4,20.6 64.0,20.6 68.6,21.1 73.1,18.7 77.7,17.4 82.3,13.4 86.9,9.6 91.4,8.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI India (INDA)</td><td class="num">$50.89 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="up">+1.74%</span></td><td class="num"><span class="up">+6.64%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.5 4.4,26.0 8.7,23.9 13.1,22.4 17.5,18.4 21.8,19.3 26.2,15.2 30.5,16.5 34.9,17.7 39.3,16.0 43.6,18.3 48.0,17.9 52.4,21.9 56.7,21.4 61.1,20.7 65.5,20.5 69.8,17.7 74.2,16.3 78.5,13.0 82.9,11.9 87.3,5.9 91.6,5.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI India (INDA)</td><td class="num">$50.02 <span class="gm-sub-inline">as of 2026-11-05, stale</span></td><td class="num"><span class="down">-0.02%</span></td><td class="num"><span class="up">+5.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.0 4.6,26.0 9.1,23.5 13.7,21.7 18.3,17.0 22.9,18.1 27.4,13.2 32.0,14.7 36.6,16.1 41.1,14.1 45.7,16.8 50.3,16.3 54.9,21.2 59.4,20.5 64.0,19.7 68.6,19.4 73.1,16.1 77.7,14.4 82.3,10.5 86.9,9.1 91.4,2.0 96.0,2.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/INR</td><td class="num">94.46 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="up">+0.06%</span></td><td class="num"><span class="up">+0.73%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.3 4.4,2.6 8.7,2.0 13.1,2.5 17.5,12.0 21.8,16.7 26.2,18.0 30.5,24.0 34.9,19.6 39.3,19.5 43.6,22.1 48.0,26.0 52.4,22.2 56.7,20.0 61.1,17.6 65.5,17.7 69.8,17.4 74.2,18.0 78.5,20.3 82.9,22.1 87.3,21.8 91.6,24.1 96.0,24.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
