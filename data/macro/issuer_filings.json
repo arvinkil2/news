@@ -2,6 +2,15 @@
  "issuers": {
   "alphabet": [
    {
+    "date": "2026-11-05",
+    "form": "8-K",
+    "title": "Closing of the 6,000M euro senior notes offering",
+    "detail": "The offering closed on November 5, 2026 under the February 12, 2016 indenture: 750M euro floating rate notes due 2028 (spread not stated in the 8-K body); 750M at 3.700 percent due 2028; 1,250M at 4.050 percent due 2030; 750M at 4.250 percent due 2032; 750M at 4.500 percent due 2035; 750M at 4.875 percent due 2039; 1,000M at 5.250 percent due 2045. These coupons match the November 2 pricing term sheet recorded in this program. They supersede the coupons carried in the November 4 final prospectus entry above, which the weekly run is to correct as a misread.",
+    "accession": "0001193125-26-449835",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/0001193125-26-449835-index.htm",
+    "grade": "A"
+   },
+   {
     "date": "2026-11-04",
     "form": "424B2",
     "title": "Final prospectus, 6,000M euro senior notes (priced November 2, 2026)",
@@ -50,6 +59,24 @@
    }
   ],
   "meta": [
+   {
+    "date": "2026-11-06",
+    "form": "424B5",
+    "title": "Final prospectus, euro 9,000M senior notes (concurrent offering)",
+    "detail": "Final prospectus supplement for a euro-denominated offering separate from the $15,000M dollar offering that closed on November 5, 2026: euro 1,750M at 4.300 percent due 2031; euro 1,250M at 4.650 percent due 2033; euro 1,000M at 4.900 percent due 2035; euro 1,750M at 5.400 percent due 2038; euro 1,750M at 6.050 percent due 2044; euro 1,500M at 6.400 percent due 2065. Delivery expected on or about November 12, 2026 through Euroclear and Clearstream. Joint book-running managers Citigroup and Morgan Stanley; passive joint bookrunners Goldman Sachs and Co. LLC, BofA Securities and J.P. Morgan.",
+    "accession": "0001193125-26-450754",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450754/0001193125-26-450754-index.htm",
+    "grade": "A"
+   },
+   {
+    "date": "2026-11-05",
+    "form": "8-K",
+    "title": "Completion of the $15,000M senior notes offering",
+    "detail": "The offering completed on November 5, 2026: $3,250M at 5.850 percent due 2031; $3,250M at 6.250 percent due 2033; $4,000M at 6.550 percent due 2036; $1,750M at 7.350 percent due 2046; $2,750M at 7.500 percent due 2056. Exhibits 10.1 and 10.2 are the November 4, 2026 forward sale confirmations with Morgan Stanley Capital Services LLC and Goldman Sachs and Co. LLC for the package's equity forward leg. These coupons match the November 3 pricing term sheet recorded in this program and the FINRA security master. They supersede the coupons carried in the November 5 final prospectus entry above, which the weekly run is to correct as a misread.",
+    "accession": "0001193125-26-450074",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/0001193125-26-450074-index.htm",
+    "grade": "A"
+   },
    {
     "date": "2026-11-05",
     "form": "424B5",
