@@ -2,10 +2,10 @@
 title: "Saudi Arabia"
 date: "2026-11-07"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed every 15 minutes."
-data_as_of: "Nov 6, 9:05 PM ET"
+data_as_of: "Nov 6, 9:08 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 9:05 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 9:08 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$34.9500 <span class="gm-sub-inline">as of 2026-11-05, stale</span></td><td class="num"><span class="down">-0.46%</span></td><td class="num"><span class="up">+1.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,7.1 9.1,7.3 13.7,10.4 18.3,9.4 22.9,14.5 27.4,14.4 32.0,14.9 36.6,14.6 41.1,17.4 45.7,19.2 50.3,25.9 54.9,26.0 59.4,23.6 64.0,18.7 68.6,17.9 73.1,20.0 77.7,21.8 82.3,21.3 86.9,21.1 91.4,14.8 96.0,16.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/SAR</td><td class="num">3.6367 <span class="gm-sub-inline">as of 2026-11-06</span></td><td class="num"><span class="up">+0.21%</span></td><td class="num"><span class="up">+0.02%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.4 4.4,16.8 8.7,15.5 13.1,14.5 17.5,14.5 21.8,12.5 26.2,20.8 30.5,18.3 34.9,17.9 39.3,7.4 43.6,2.0 48.0,26.0 52.4,19.0 56.7,17.4 61.1,26.0 65.5,21.4 69.8,15.4 74.2,16.8 78.5,17.3 82.9,7.2 87.3,6.6 91.6,9.6 96.0,17.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
