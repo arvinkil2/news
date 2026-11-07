@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-07"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 7, 5:52 AM ET"
+data_as_of: "Market data as of Nov 7, 6:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 7, 5:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 7, 6:03 AM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">25.64</span><span class="gm-sub">1d <span class="down">-9.01%</span> / 1w <span class="up">+32.03%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.60%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -13,7 +13,7 @@ data_as_of: "Market data as of Nov 7, 5:52 AM ET"
 <p class="gm-note">Implied daily move: VIX divided by 16, the market's priced one-day swing in the S&amp;P 500.</p>
 <div class="gm-movers">
 <div class="gm-mover"><h3>Biggest equity moves today</h3><table class="market-table"><tbody><tr><td><a href="/markets/south-korea/">South Korea</a><span class="gm-sub-inline"> KOSPI</span></td><td class="num" data-v="-6.02"><span class="down">-6.02%</span></td></tr><tr><td><a href="/markets/japan/">Japan</a><span class="gm-sub-inline"> Nikkei 225</span></td><td class="num" data-v="-5.96"><span class="down">-5.96%</span></td></tr><tr><td><a href="/markets/taiwan/">Taiwan</a><span class="gm-sub-inline"> TAIEX</span></td><td class="num" data-v="-4.51"><span class="down">-4.51%</span></td></tr></tbody></table></div>
-<div class="gm-mover"><h3>Biggest 10Y yield moves today</h3><table class="market-table"><tbody><tr><td><a href="/markets/brazil/">Brazil</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-21.0"><span class="down">-21.0</span> bp</td></tr><tr><td><a href="/markets/mexico/">Mexico</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-10.0"><span class="down">-10.0</span> bp</td></tr><tr><td><a href="/markets/sweden/">Sweden</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-9.1"><span class="down">-9.1</span> bp</td></tr></tbody></table></div>
+<div class="gm-mover"><h3>Biggest 10Y yield moves today</h3><table class="market-table"><tbody><tr><td><a href="/markets/brazil/">Brazil</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-12.0"><span class="down">-12.0</span> bp</td></tr><tr><td><a href="/markets/mexico/">Mexico</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-10.0"><span class="down">-10.0</span> bp</td></tr><tr><td><a href="/markets/sweden/">Sweden</a><span class="gm-sub-inline"> 10Y</span></td><td class="num" data-v="-9.1"><span class="down">-9.1</span> bp</td></tr></tbody></table></div>
 </div>
 <h2>Equities and currencies</h2>
 <p class="gm-method">FX 1d is the currency's own move against the US dollar: a positive figure means the currency strengthened.</p>
@@ -82,7 +82,7 @@ data_as_of: "Market data as of Nov 7, 5:52 AM ET"
 <tbody>
 <tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td class="num" data-v="4.46">4.46</td><td class="num" data-v="4.84">4.84</td><td class="num" data-v="5.25">5.25</td><td class="num" data-v="-6.0"><span class="down">-6.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Canada"><a href="/markets/canada/">Canada</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="3.67">3.67</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-3.0"><span class="down">-3.0</span></td><td class="num" data-v="-117">-117</td></tr>
-<tr><td data-v="Brazil"><a href="/markets/brazil/">Brazil</a></td><td class="num" data-v="14.97">14.97</td><td class="num" data-v="15.33">15.33</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-21.0"><span class="down">-21.0</span></td><td class="num" data-v="1049">+1049</td></tr>
+<tr><td data-v="Brazil"><a href="/markets/brazil/">Brazil</a></td><td class="num" data-v="14.8">14.80</td><td class="num" data-v="15.21">15.21</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-12.0"><span class="down">-12.0</span></td><td class="num" data-v="1037">+1037</td></tr>
 <tr><td data-v="Mexico"><a href="/markets/mexico/">Mexico</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="9.25">9.25</td><td class="num" data-v="10.15">10.15</td><td class="num" data-v="-10.0"><span class="down">-10.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table></div>
 <h3>Europe</h3>
