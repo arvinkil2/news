@@ -1,13 +1,13 @@
 ---
-title: "Labour edges ahead in New Zealand count, NZ First pivotal"
+title: "National retakes lead in New Zealand count, NZ First pivotal both ways"
 date: 2026-11-06T20:13:49-05:00
-last_updated: 2026-11-07T02:40:47-05:00
+last_updated: 2026-11-07T04:11:41-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "With 29.2 percent of results counted, Labour has moved ahead of the governing National Party in New Zealand's preliminary count, on 29.97 percent of the party vote and a projected 36 seats to National's 29.38 percent and 41, leaving New Zealand First holding the balance between the two blocs."
-why_it_matters: "On the Electoral Commission's projection of 130 seats, the Labour-Green-Te Pāti Māori bloc holds 58 seats and National plus ACT hold 54, against the 66 needed to govern; New Zealand First's projected 11 seats can carry the Labour-side bloc past the line but leave the National side one short, so Winston Peters' party remains pivotal, with the arithmetic currently favouring a Labour-led combination."
+lede: "With 69.0 percent of results counted, the governing National Party has retaken the party-vote lead in New Zealand's preliminary count, on 29.44 percent and a projected 41 seats to Labour's 29.08 percent and 35, and New Zealand First's projected 12 seats can now carry either bloc past the 65 needed to govern in a projected 129-seat parliament."
+why_it_matters: "The flip at 69 percent counted removes the asymmetry of the early count, when New Zealand First could take only the Labour-side bloc past the line; Winston Peters' party can now make a government with either side, so the coalition negotiation is likely to decide the next government, though the projection will still move as the remaining polling places report."
 featured: false
 evidence_grade: "A"
 sources:
@@ -21,12 +21,16 @@ sources:
     published: "2026-11-06"
 tags: []
 update_bump: true
-data_as_of: "New Zealand Electoral Commission preliminary count at 29.2 percent of results counted (1,416,993 party votes), read from electionresults.govt.nz in this run; all vote shares and projected seats are the Commission's own preliminary figures and will move as the count proceeds. Official results are due Friday November 27. Developing item."
+data_as_of: "New Zealand Electoral Commission preliminary count at 69.0 percent of results counted (1,976,953 party votes), read from electionresults.govt.nz in this run; all vote shares and projected seats are the Commission's own preliminary figures and will move as the count proceeds. Official results are due Friday November 27. Developing item."
 ---
 
-Latest: With 29.2 percent of results counted, the lead has flipped: Labour is on 29.97 percent of the party vote (424,703 votes) and a projected 36 seats, ahead of the governing National Party on 29.38 percent (416,356 votes) and 41 seats, National's higher seat tally reflecting its 41 electorate wins to Labour's 21. Behind them, the Greens are on 14.00 percent (17 seats), ACT on 10.49 percent (13), New Zealand First on 9.40 percent (11) and the Opportunity Party on 5.39 percent (7), while Te Pāti Māori's five electorate wins against 0.58 percent of the party vote lift the projected parliament to 130 seats.
+Latest: With 69.0 percent of results counted, the lead has flipped back: the governing National Party is on 29.44 percent of the party vote (582,133 votes) and a projected 41 seats, ahead of Labour on 29.08 percent (575,064 votes) and 35 seats, National's seat tally reflecting its 41 electorate wins to Labour's 21. Behind them, the Greens are on 13.55 percent (16 seats), ACT on 11.00 percent (13), New Zealand First on 9.73 percent (12) and the Opportunity Party on 5.79 percent (7), while Te Pāti Māori's five electorate wins against 0.56 percent of the party vote put the projected parliament at 129 seats.
 
-On those numbers neither bloc can govern alone: Labour, the Greens and Te Pāti Māori hold 58 seats and National plus ACT hold 54, against the 66 needed in a 130-seat parliament. New Zealand First's projected 11 seats would take the Labour-side bloc to 69 but the National side only to 65, one short, so the arithmetic currently favours a Labour-led combination, though the count is partial and the projection will move through election night. The Commission aims to have preliminary results from 95 percent of polling stations by the end of the night, with the official result, including ballots cast abroad, expected by November 27.
+On those numbers neither bloc can govern alone: Labour, the Greens and Te Pāti Māori hold 56 seats and National plus ACT hold 54, against the 65 needed in a 129-seat parliament. New Zealand First's projected 12 seats would take either bloc past the line, to 68 or 66, so Winston Peters' party is now pivotal in both directions, a change from the early count when it could carry only the Labour-side bloc past the line. The Commission aims to have preliminary results from 95 percent of polling stations by the end of the night, with the official result, including ballots cast abroad, expected by November 27.
+
+Earlier, with 29.2 percent of results counted, Labour was on 29.97 percent of the party vote (424,703 votes) and a projected 36 seats, ahead of the governing National Party on 29.38 percent (416,356 votes) and 41 seats. Behind them, the Greens were on 14.00 percent (17 seats), ACT on 10.49 percent (13), New Zealand First on 9.40 percent (11) and the Opportunity Party on 5.39 percent (7), while Te Pāti Māori's five electorate wins against 0.58 percent of the party vote lifted the projected parliament to 130 seats.
+
+At that stage neither bloc could govern alone: Labour, the Greens and Te Pāti Māori held 58 seats and National plus ACT held 54, against the 66 needed in a 130-seat parliament. New Zealand First's projected 11 seats would have taken the Labour-side bloc to 69 but the National side only to 65, one short, so the arithmetic then favoured a Labour-led combination.
 
 Earlier: Polls closed at 7pm New Zealand time and the Electoral Commission's preliminary count, with 16.3 percent of results in, put the governing National Party on 30.55 percent of the party vote (301,164 votes) and a projected 43 seats, ahead of Labour on 28.93 percent (285,115 votes) and 35 seats. Behind them, the Greens were on 12.99 percent (16 seats), ACT on 11.11 percent (13), New Zealand First on 9.82 percent (12) and the Opportunity Party on 5.39 percent (6), while Te Pāti Māori's five electorate wins against 0.44 percent of the party vote lifted the projected parliament to 130 seats.
 
