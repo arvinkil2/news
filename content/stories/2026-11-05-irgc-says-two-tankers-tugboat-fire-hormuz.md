@@ -1,16 +1,20 @@
 ---
-title: "Iranian forces say five tankers and tugboat caught fire in Hormuz"
+title: "IRGC says two more tankers struck mines near Hormuz"
 date: 2026-11-05T00:14:56-05:00
-last_updated: 2026-11-05T15:06:43-05:00
+last_updated: 2026-11-07T18:14:03-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "Iranian forces said on Thursday that five oil tankers and a tugboat caught fire in the Strait of Hormuz, after the army added a claim of three more tankers striking naval mines to an earlier IRGC claim, with no vessel named and no confirmation from the United States or shipping authorities."
-why_it_matters: "Hormuz is the chokepoint for a large share of global oil trade. The Iranian claims are uncorroborated and name no vessels, but UKMTO separately reported a tanker struck by two projectiles off Qatar, so any further confirmation from shipping authorities would change the price picture quickly."
+lede: "Iran's Islamic Revolutionary Guard Corps said two more oil tankers struck mines near the Strait of Hormuz while following a route not agreed with Iran, and that both were seriously damaged and stopped, Iranian television reported, with no vessel named and no confirmation from any other source."
+why_it_matters: "Hormuz is the chokepoint for a large share of global oil trade, and Tehran is now repeating its mine claims two days after claiming five tankers and a tugboat caught fire in the strait. The new claim is uncorroborated and names no vessels, but a confirmed mine strike on a commercial tanker would change the shipping and price picture quickly."
 featured: false
 evidence_grade: "C"
 sources:
+  - title: "IRGC says two more tankers struck mines near the Strait of Hormuz (in Russian)"
+    publisher: "Interfax"
+    url: "https://www.interfax.ru/world/1127621"
+    published: "2026-11-08"
   - title: "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz"
     publisher: "Arab News (Reuters)"
     url: "https://www.arabnews.com/middle-east/irans-irgc-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz-3009888"
@@ -28,9 +32,11 @@ sources:
     url: "https://oilprice.com/Energy/Energy-General/Iran-Opens-Strait-of-Hormuz-to-China-and-India-as-US-Blockade-Continues.html"
     published: "2026-11-05"
 tags: []
-data_as_of: "Reuters report carried by Arab News, updated November 4, 2026 at 23:47 (no timezone stated on the page), read in full via the estate browser route in this run after the direct fetch failed; the fires are the IRGC's claim alone, with no vessel named and no confirmation from UKMTO, the United States or shipping sources in the reporting read, so it is graded C and should be treated as Tehran's account until corroborated. Oil reaction from investingLive's Asia-Pacific wrap of November 5, 2026, read in full in this run, which also noted the claims could not be independently verified. Al Jazeera report of November 5, 2026, by Al Jazeera Staff with AFP, AP and Reuters, read in full via the estate browser route in the 15:05 run, carried the Iranian army statements via IRNA claiming three further tankers and the UKMTO report of a tanker struck by two projectiles north of Madinat ash Shamal, Qatar, at 23:20 GMT on Wednesday; the mine and fire claims remain Iranian accounts alone, uncorroborated, grade C. Developing item."
+data_as_of: "Update of November 7, 2026, 18:14 Toronto: Interfax report of November 8, 2026 (in Russian), read in full via the estate browser route, for the IRGC claim carried by Iranian television that two more tankers struck mines near the strait on a route not agreed with Iran, were seriously damaged and stopped; Interfax states no confirmation from other sources had been received, and no vessel, casualty or position is named. TASS and ERT headlines in this run's feed queue carry the same claim from the same Iranian origin and are not independent corroboration; the TASS article itself was blocked to this reader. The claim is Tehran's account alone, from a party to the conflict, uncorroborated by UKMTO, the United States or shipping sources in the reporting read, so it is graded C. Earlier: Reuters report carried by Arab News, updated November 4, 2026 at 23:47 (no timezone stated on the page), read in full via the estate browser route in this run after the direct fetch failed; the fires are the IRGC's claim alone, with no vessel named and no confirmation from UKMTO, the United States or shipping sources in the reporting read, so it is graded C and should be treated as Tehran's account until corroborated. Oil reaction from investingLive's Asia-Pacific wrap of November 5, 2026, read in full in this run, which also noted the claims could not be independently verified. Al Jazeera report of November 5, 2026, by Al Jazeera Staff with AFP, AP and Reuters, read in full via the estate browser route in the 15:05 run, carried the Iranian army statements via IRNA claiming three further tankers and the UKMTO report of a tanker struck by two projectiles north of Madinat ash Shamal, Qatar, at 23:20 GMT on Wednesday; the mine and fire claims remain Iranian accounts alone, uncorroborated, grade C. Developing item."
 update_bump: true
 ---
+
+Latest: Two more oil tankers struck mines in the area of the Strait of Hormuz while following a route not agreed with Iran, Iranian television reported, citing the Islamic Revolutionary Guard Corps, Interfax reported. According to the IRGC, both vessels sustained serious damage and stopped moving. The report named no vessels, gave no position beyond the strait area and mentioned no casualties, and it stated that no confirmation of the claim had been received from other sources. The claim follows the Iranian forces' claims of November 5, carried below, that five tankers and a tugboat had caught fire in the strait, which likewise named no vessels and were never confirmed by shipping authorities.
 
 Iran's Islamic Revolutionary Guard Corps said on Thursday that two oil tankers and a tugboat caught fire in separate incidents in the Strait of Hormuz after attempting to use routes it called unauthorized, Reuters reported. One tanker struck a mine while crossing a passage south of the strait, a supertanker caught fire while exiting the route in the eastern part of the waterway, and a tugboat that approached it to help put out the fire also caught fire.
 
