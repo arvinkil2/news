@@ -2,10 +2,10 @@
 title: "Japan"
 date: "2026-11-07"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Japan, refreshed every 15 minutes."
-data_as_of: "Nov 6, 8:10 PM ET"
+data_as_of: "Nov 6, 8:22 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 6, 8:10 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 6, 8:22 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nikkei 225 (index)</td><td class="num">61,078 <span class="gm-sub-inline">as of 2026-11-05, stale</span></td><td class="num"><span class="down">-1.79%</span></td><td class="num"><span class="down">-4.50%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,3.6 9.6,6.1 14.4,6.1 19.2,9.3 24.0,9.3 28.8,17.6 33.6,15.4 38.4,16.4 43.2,18.5 48.0,17.1 52.8,21.4 57.6,22.0 62.4,23.2 67.2,20.5 72.0,18.8 76.8,17.1 81.6,20.5 86.4,21.0 91.2,23.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$88.26 <span class="gm-sub-inline">as of 2026-11-05, stale</span></td><td class="num"><span class="down">-5.97%</span></td><td class="num"><span class="down">-7.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.4 9.1,3.1 13.7,4.4 18.3,4.4 22.9,7.9 27.4,8.9 32.0,10.2 36.6,9.9 41.1,8.9 45.7,8.2 50.3,10.9 54.9,12.1 59.4,11.6 64.0,9.3 68.6,9.9 73.1,10.1 77.7,14.9 82.3,15.1 86.9,15.7 91.4,12.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
