@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:05:41.139875-05:00",
+ "updated": "2026-11-07T12:09:13.407957-05:00",
  "volatility": {
   "vix": {
    "value": 25.64,
@@ -82,7 +82,7 @@
     "symbol": "^GSPC"
    },
    "index2": {
-    "value": 24579.42,
+    "value": 24579.43,
     "change_1d": 1.09,
     "change_1w": -3.37,
     "change_unit": "%",
@@ -109,12 +109,10 @@
      25372.01,
      25736.51,
      24315.0,
-     24579.42
+     24579.43
     ],
     "spark": "0.0,2.0 4.4,4.6 8.7,3.3 13.1,4.2 17.5,4.5 21.8,8.3 26.2,8.1 30.5,12.4 34.9,10.2 39.3,10.3 43.6,8.2 48.0,13.4 52.4,13.8 56.7,12.2 61.1,9.9 65.5,9.4 69.8,12.1 74.2,17.6 78.5,19.7 82.9,18.1 87.3,15.4 91.6,26.0 96.0,24.0",
     "up_1d": true,
-    "source": "nasdaq",
-    "publisher": "Nasdaq, near-real-time",
     "as_of": "2026-11-06",
     "label": "Nasdaq Composite",
     "symbol": "^IXIC"
@@ -4882,7 +4880,7 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]
