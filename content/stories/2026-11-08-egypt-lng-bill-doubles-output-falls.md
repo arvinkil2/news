@@ -1,22 +1,29 @@
 ---
 title: "Egypt LNG import bill doubles as gas output keeps falling"
 date: 2026-11-08T07:15:30-05:00
-last_updated: 2026-11-08T07:15:30-05:00
+last_updated: 2026-11-08T10:12:35-05:00
 beats: ["commodities"]
 regions: ["africa", "middle-east"]
 status: "story"
-lede: "Egypt is paying more than 100 million dollars for a single LNG cargo, up as much as 100 percent since September, has deferred about 20 cargoes since July, and had spent 5.8 billion dollars of its 10.1 billion dollar LNG import budget by October 6."
-why_it_matters: "Egypt is the clearest case of a buyer caught between falling domestic production and a war priced LNG market, and its response, deferring cargoes, burning fuel oil and pushing exploration deadlines out, shows the cost landing on the state budget rather than on power cuts."
+lede: "Egyptian fertilizer producers have been told to take a further 33 percent cut in natural gas supplies, on top of an earlier 20 percent cut, as Cairo curbs LNG imports that have doubled in price while domestic output keeps falling."
+why_it_matters: "Each new cut moves the cost of Egypt's gas shortage from the state budget onto industry, and fertilizer output, a source of export earnings and farm supply, is where the rationing now lands first."
 featured: false
-evidence_grade: "C"
+update_bump: true
+evidence_grade: "B"
 sources:
+  - title: "Egypt Deepens Gas Cuts To Fertilizer Makers As Energy Squeeze Tightens"
+    publisher: "Reuters, carried by gCaptain"
+    url: "https://gcaptain.com/egypt-deepens-gas-cuts-to-fertilizer-makers-as-energy-squeeze-tightens/"
+    published: "2026-11-08"
   - title: "Iran war doubles Egypt's LNG bill as gas output keeps falling"
     publisher: "OilPrice.com, synthesising MEES, Asharq Bloomberg and Egyptian petroleum ministry reporting"
     url: "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html"
     published: "2026-11-03"
 tags: []
-data_as_of: "OilPrice analysis of November 3, 2026, read in full in this run; cargo price and deferral figures are a government official's account to Asharq Bloomberg as carried there, and output figures are MEES data as carried there. Single synthesis source, grade capped at C. Not previously covered on this site. The Arab News Egypt item in the overnight pool could not be read and a second route did not recover that item, so nothing in this story comes from it."
+data_as_of: "Update of November 8, 2026, 10:12 Toronto: Reuters report of November 8, 2026, carried by gCaptain and read in full in this run, for the new 33 percent gas cut to fertilizer producers, notified to Misr Fertilizers Production Company (MOPCO), and the earlier 20 percent cut; Reuters also corroborates the 10.1 billion dollar LNG budget, the 5.8 billion dollars spent by October 6 and the six high sulphur fuel oil cargoes bought for November and December. Earlier: OilPrice analysis of November 3, 2026, read in full, synthesising MEES, Asharq Bloomberg and Egyptian petroleum ministry reporting, for cargo prices, deferrals and output figures."
 ---
+
+Latest: Egyptian fertilizer producers have been notified of a new 33 percent reduction in their natural gas supplies, Reuters reported on Sunday, citing a company statement from Misr Fertilizers Production Company (MOPCO) and industry officials, as the country seeks to curb the need for expensive LNG imports. The reduction follows an earlier 20 percent cut to gas supplies for fertilizer plants. When the earlier cut was announced, MOPCO and Abu Qir Fertilizers said they would manage production in line with available gas, and Abu Qir said it had contingency plans for managing inventory and rescheduling maintenance. The Petroleum Ministry did not immediately respond to a request for comment, Reuters said.
 
 Egypt's gas output fell to 3.63 billion cubic feet a day in August, as older fields declined faster than new wells came online, and the price of replacing that gas has doubled. A government official told Asharq Bloomberg that the price of a single LNG cargo has risen as much as 100 percent since September, to more than 100 million dollars. QatarEnergy has kept its LNG deliveries to Egypt under force majeure since April and on October 28 extended that to the end of December.
 
