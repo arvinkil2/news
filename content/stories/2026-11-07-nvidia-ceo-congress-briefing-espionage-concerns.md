@@ -1,11 +1,11 @@
 ---
 title: "House chairs seek Nvidia chief briefing on China espionage concerns"
 date: 2026-11-07T07:14:12-05:00
-last_updated: 2026-11-08T13:44:58-05:00
+last_updated: 2026-11-08T14:16:24-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "Scrutiny of Nvidia chief executive Jensen Huang widened to both parties over the weekend, as a Democratic senator promised a congressional investigation, a Democratic representative sought Commerce Secretary Howard Lutnick's testimony alongside Huang's, and a Republican senator attacked a separate Commerce approval for chip assembly in Beijing."
+lede: "Secretary of State Marco Rubio oversaw the drafting of the classified memorandum that warned top Trump administration officials this spring that Jensen Huang was in a close relationship with a Chinese spy, The New York Times reported on Sunday, a role for Rubio that had not been reported before."
 why_it_matters: "Congressional scrutiny of the Nvidia chief executive's own contacts, landing the day after Nvidia's earnings, adds a political and export control risk layer to the world's most valuable chipmaker that is separate from its results."
 featured: false
 evidence_grade: "B"
@@ -30,12 +30,18 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
     published: "2026-11-08"
+  - title: "Rubio warned officials about Nvidia chief's entanglement with Chinese spy"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+    published: "2026-11-08"
 tags: []
-data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026; updated again November 8, 2026, 13:44 Toronto, with CNBC's report of November 8, 2026, read in full via the estate browser route, on the weekend statements by Senators Coons and Cornyn and Representative Magaziner and the New York Times report on New Matrix. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang."
+data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026; updated again November 8, 2026, 13:44 Toronto, with CNBC's report of November 8, 2026, read in full via the estate browser route, on the weekend statements by Senators Coons and Cornyn and Representative Magaziner and the New York Times report on New Matrix; updated again November 8, 2026, 14:16 Toronto, with The New York Times report of November 8, 2026, whose opening portion was read via the estate browser route, on Secretary of State Marco Rubio overseeing the drafting of the classified memorandum, its circulation ahead of President Trump's May trip to China, and the State Department and White House declining to comment; no fact in this update rests on material beyond the portion read. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang."
 update_bump: true
 ---
 
-Latest: The scrutiny widened beyond the Republican chairs over the weekend. Senator Chris Coons, a Delaware Democrat in line to chair the Senate Foreign Relations Committee when his party takes control of the chamber in January, posted on Saturday that Congress would investigate and get answers. Representative Seth Magaziner, a Rhode Island Democrat on the House Homeland Security Committee, called for Commerce Secretary Howard Lutnick to testify before Congress alongside Huang. On a separate matter, Senator John Cornyn, a Texas Republican, shared a New York Times report published Saturday that the Trump administration approved a Chinese firm, New Matrix, to assemble chips for Nvidia in Beijing, with the Times finding little evidence of meaningful operations at its listed address despite the Commerce Department clearing it on national security grounds. Cornyn called the report "outrageous" in his post. CNBC reported the statements on Sunday; neither Nvidia nor the Commerce Department responded to its request for comment.
+Latest: The New York Times reported on Sunday that Secretary of State Marco Rubio oversaw the drafting of the highly classified memorandum this spring that warned top Trump administration officials that Jensen Huang was in a close relationship with a Chinese spy, a role for Rubio that had not been reported before. The memorandum, based on electronic surveillance of Alice Huang, was circulated to officials with high level security clearances ahead of President Trump's trip to China in May, and Huang was initially left off the list of business and technology executives invited to join that trip, though the Times said it is unclear whether the exclusion was connected to the memorandum. A State Department spokesman and a White House spokeswoman declined to comment to the Times.
+
+The scrutiny also widened beyond the Republican chairs over the weekend. Senator Chris Coons, a Delaware Democrat in line to chair the Senate Foreign Relations Committee when his party takes control of the chamber in January, posted on Saturday that Congress would investigate and get answers. Representative Seth Magaziner, a Rhode Island Democrat on the House Homeland Security Committee, called for Commerce Secretary Howard Lutnick to testify before Congress alongside Huang. On a separate matter, Senator John Cornyn, a Texas Republican, shared a New York Times report published Saturday that the Trump administration approved a Chinese firm, New Matrix, to assemble chips for Nvidia in Beijing, with the Times finding little evidence of meaningful operations at its listed address despite the Commerce Department clearing it on national security grounds. Cornyn called the report "outrageous" in his post. CNBC reported the statements on Sunday; neither Nvidia nor the Commerce Department responded to its request for comment.
 
 Three Republican committee chairs in the US House of Representatives have asked Nvidia chief executive Jensen Huang to appear for a joint closed door briefing on November 18. The letter, dated November 4, was signed by Brian Mast of Florida, who chairs the Foreign Affairs Committee, John Moolenaar of Michigan, who chairs the Select Committee on the Chinese Communist Party, and Rick Crawford of Arkansas, who chairs the Permanent Select Committee on Intelligence. Huang has been asked to accept the date or propose an alternative by November 11.
 
