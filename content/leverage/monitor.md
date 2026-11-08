@@ -1,6 +1,6 @@
 ---
 title: "AI Infrastructure Leverage Monitor"
-date: "2026-11-07"
+date: "2026-11-08"
 lede: "The debt behind the AI infrastructure buildout, priced against FINRA TRACE and SEC filings."
 data_as_of: "Data to 06 Nov 2026"
 ---
