@@ -1,11 +1,11 @@
 ---
 title: "Global Markets"
-date: "2026-11-07"
+date: "2026-11-08"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 7, 6:52 PM ET"
+data_as_of: "Market data as of Nov 7, 7:03 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 7, 6:52 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 7, 7:03 PM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">25.64</span><span class="gm-sub">1d <span class="down">-9.01%</span> / 1w <span class="up">+32.03%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.60%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -26,7 +26,7 @@ data_as_of: "Market data as of Nov 7, 6:52 PM ET"
 <tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td data-v="S&amp;P 500">S&amp;P 500</td><td class="num" data-v="7376.86">7,377</td><td class="num" data-v="0.31"><span class="up">+0.31%</span></td><td class="num" data-v="-2.68"><span class="down">-2.68%</span></td><td data-v="SPDR S&amp;P 500 (SPY)">SPDR S&amp;P 500 (SPY)</td><td class="num" data-v="735.29">735.29</td><td class="num" data-v="0.31"><span class="up">+0.31%</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td></tr>
 <tr><td data-v="Canada"><a href="/markets/canada/">Canada</a></td><td data-v="S&amp;P/TSX Composite">S&amp;P/TSX Composite</td><td class="num" data-v="35789.1">35,789</td><td class="num" data-v="0.52"><span class="up">+0.52%</span></td><td class="num" data-v="0.47"><span class="up">+0.47%</span></td><td data-v="iShares MSCI Canada (EWC)">iShares MSCI Canada (EWC)</td><td class="num" data-v="59.94">59.94</td><td class="num" data-v="-0.38"><span class="down">-0.38%</span></td><td data-v="USD/CAD">USD/CAD</td><td class="num" data-v="1.4128">1.4128</td><td class="num" data-v="-0.79"><span class="down">-0.79%</span></td></tr>
 <tr><td data-v="Brazil"><a href="/markets/brazil/">Brazil</a></td><td data-v="Ibovespa">Ibovespa</td><td class="num" data-v="168499.0">168,499</td><td class="num" data-v="1.39"><span class="up">+1.39%</span></td><td class="num" data-v="-0.41"><span class="down">-0.41%</span></td><td data-v="iShares MSCI Brazil (EWZ)">iShares MSCI Brazil (EWZ)</td><td class="num" data-v="31.98">31.98</td><td class="num" data-v="0.69"><span class="up">+0.69%</span></td><td data-v="USD/BRL">USD/BRL</td><td class="num" data-v="5.5013">5.5013</td><td class="num" data-v="-0.72"><span class="down">-0.72%</span></td></tr>
-<tr><td data-v="Mexico"><a href="/markets/mexico/">Mexico</a></td><td data-v="IPC">IPC</td><td class="num" data-v="71393.57">71,394</td><td class="num" data-v="0.43"><span class="up">+0.43%</span></td><td class="num" data-v="2.3"><span class="up">+2.30%</span></td><td data-v="iShares MSCI Mexico (EWW)">iShares MSCI Mexico (EWW)</td><td class="num" data-v="76.74">76.74</td><td class="num" data-v="0.89"><span class="up">+0.89%</span></td><td data-v="USD/MXN">USD/MXN</td><td class="num" data-v="18.7809">18.7809</td><td class="num" data-v="-0.93"><span class="down">-0.93%</span></td></tr>
+<tr><td data-v="Mexico"><a href="/markets/mexico/">Mexico</a></td><td data-v="IPC">IPC</td><td class="num" data-v="71393.57">71,394</td><td class="num" data-v="0.43"><span class="up">+0.43%</span></td><td class="num" data-v="2.3"><span class="up">+2.30%</span></td><td data-v="iShares MSCI Mexico (EWW)">iShares MSCI Mexico (EWW)</td><td class="num" data-v="76.74">76.74</td><td class="num" data-v="0.89"><span class="up">+0.89%</span></td><td data-v="USD/MXN">USD/MXN</td><td class="num" data-v="18.5975">18.5975</td><td class="num" data-v="0.98"><span class="up">+0.98%</span></td></tr>
 </tbody></table></div>
 <h3>Europe</h3>
  <button type="button" class="bw-reset" data-reset-for="gm-eq-europe">Reset layout</button>
