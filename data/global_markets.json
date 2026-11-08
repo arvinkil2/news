@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:53:42.773762-05:00",
+ "updated": "2026-11-07T22:11:36.714092-05:00",
  "volatility": {
   "vix": {
    "value": 25.64,
@@ -3385,7 +3385,43 @@
     "label": "iShares MSCI India (INDA)",
     "symbol": "INDA"
    },
-   "fx": null,
+   "fx": {
+    "value": 93.91,
+    "change_1d": 0.58,
+    "change_1w": 1.05,
+    "change_unit": "%",
+    "history": [
+     96.3704,
+     96.7568,
+     96.8233,
+     96.7753,
+     95.7759,
+     95.2872,
+     95.1513,
+     94.5248,
+     94.9777,
+     94.9936,
+     94.7164,
+     94.3123,
+     94.7113,
+     94.938,
+     95.187,
+     95.1778,
+     95.2095,
+     95.1524,
+     94.905,
+     94.7254,
+     94.7484,
+     94.5154,
+     94.4589,
+     93.91
+    ],
+    "spark": "0.0,5.7 4.2,2.5 8.3,2.0 12.5,2.4 16.7,10.6 20.9,14.7 25.0,15.8 29.2,20.9 33.4,17.2 37.6,17.1 41.7,19.4 45.9,22.7 50.1,19.4 54.3,17.5 58.4,15.5 62.6,15.6 66.8,15.3 71.0,15.8 75.1,17.8 79.3,19.3 83.5,19.1 87.7,21.0 91.8,21.5 96.0,26.0",
+    "up_1d": true,
+    "as_of": "2026-11-07",
+    "label": "USD/INR",
+    "symbol": "INR=X"
+   },
    "yields": {}
   },
   {
@@ -4850,8 +4886,7 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
-  "India fx (INR=X): yahoo INR=X: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]
