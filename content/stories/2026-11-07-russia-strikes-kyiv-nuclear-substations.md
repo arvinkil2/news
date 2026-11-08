@@ -1,7 +1,7 @@
 ---
 title: "Russia strikes substations linking nuclear plants to Kyiv"
 date: 2026-11-07T08:13:04-05:00
-last_updated: 2026-11-07T08:13:04-05:00
+last_updated: 2026-11-08T07:14:14-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
@@ -27,6 +27,8 @@ data_as_of: "Overnight attack of November 6 to 7, 2026, as reported November 7 b
 ---
 
 Russia launched one of its largest overnight attacks of the autumn against Kyiv, firing 36 ballistic missiles, all of them aimed at the capital and the surrounding region, alongside 172 attack drones over Kyiv and 12 other regions, according to President Volodymyr Zelenskyy and Ukraine's Air Force. Ukrainian air defences intercepted 149 of the drones and four missiles, with impacts recorded at 24 locations. Ukrainian authorities reported two people killed and 37 injured across Ukraine over the past day, with at least six injured in Kyiv itself, including a child among the wounded in the capital region.
+
+Update, Sunday morning: Kyiv's water supply was back to normal operation by Saturday, Mayor Vitali Klitschko said, and about 60 percent of the capital's apartment buildings had been reconnected to heating, with metro lines running again amid voltage fluctuations. Energy Minister Denys Shmyhal said there were power cuts in five regions, without giving a household total. The restoration figures are Ukrainian official figures, reported by The Guardian and carried in this run's search results; they describe services returning, not the transmission damage being repaired, and the substation damage behind the cuts is still expected to take time to fix. This is the same overnight attack of November 6 to 7 reported below, not a new strike.
 
 The strategic target was the power grid. Ukraine's energy ministry said the attacks damaged the transmission networks carrying electricity from the Rivne and Khmelnytskyi nuclear power plants to Kyiv, the capital region and central Ukraine, and that extensive damage to energy facilities in and around the capital had severely disrupted transmission, with repairs expected to take time. Substations were also damaged in the Vinnytsia, Zhytomyr, Rivne, Kharkiv and Dnipro oblasts, Zelenskyy said. Kyiv's mayor, Vitali Klitschko, described the city's energy supply situation as extremely difficult, with heating and water affected; emergency power cuts were introduced in the capital at 7:05 a.m., replacing the scheduled outage timetables, and hourly outage schedules and industrial capacity limits remained in force in most regions.
 

@@ -1,16 +1,24 @@
 ---
 title: "Novartis shelves pelacarsen after landmark heart trial fails"
 date: 2026-11-07T10:46:30-05:00
-last_updated: 2026-11-07T10:46:30-05:00
+last_updated: 2026-11-08T07:09:49-05:00
 beats: ["life-sciences"]
 regions: ["europe", "north-america"]
 status: "developing"
 developing: true
-lede: "Novartis is largely abandoning pelacarsen, once projected as a multi-billion-dollar blockbuster, after its 8,300-patient Lp(a) HORIZON trial lowered lipoprotein(a) by more than 85 percent but failed to cut cardiovascular events."
-why_it_matters: "The result casts doubt on whether lowering Lp(a), a genetically inherited risk factor affecting about a fifth of the global population, prevents heart attacks and strokes at all, a premise an entire class of drugs in development is built on."
+lede: "Full Lp(a) HORIZON results show pelacarsen cut lipoprotein(a) by 77.7 percent against placebo at 12 months but produced identical event rates, 12.3 percent against 12.1 percent (hazard ratio 1.02), and Novartis is halting development for atherosclerotic cardiovascular disease."
+why_it_matters: "The first completed outcomes trial of an Lp(a) lowering drug found no benefit in secondary prevention despite deep biomarker reduction, which reprices the whole class of Lp(a) drugs still in outcomes trials and leaves the genetic risk factor without a proven treatment."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Pelacarsen does not reduce CV events in patients with high Lp(a)"
+    publisher: "Healio"
+    url: "https://www.healio.com/news/cardiology/20261107/pelacarsen-no-better-than-placebo-in-patients-with-high-lipoproteina-heart-disease"
+    published: "2026-11-07"
+  - title: "Full Lp(a)HORIZON results affirm lack of pelacarsen benefit in secondary prevention"
+    publisher: "TCTMD"
+    url: "https://www.tctmd.com/news/full-lpahorizon-results-affirm-lack-pelacarsen-benefit-secondary-prevention"
+    published: "2026-11-07"
   - title: "Novartis shelves potential blockbuster pelacarsen as landmark study fails"
     publisher: "Investing.com"
     url: "https://www.investing.com/news/stock-market-news/novartis-shelves-potential-blockbuster-pelacarsen-as-landmark-study-fails-5009935"
@@ -21,7 +29,13 @@ sources:
     published: "2026-11-07"
 tags: []
 update_bump: true
-data_as_of: "Investing.com report of November 7, 2026, read in full via the estate browser route; all trial figures are from that report of the announcement at the American Heart Association Scientific Sessions. The trial failure was also reported the same day by STAT and Endpoints News. Developing item."
+data_as_of: "Update of November 8, 2026: full Lp(a) HORIZON results presented November 7, 2026 at the American Heart Association Scientific Sessions in Chicago and published the same day in the New England Journal of Medicine, as reported by Healio and TCTMD and read via search in this run. The full data supersede the earlier characterisation of the Lp(a) reduction in this story, which is corrected below. Novartis announced the topline failure on September 4, 2026 and withheld the numbers until this meeting. The shelving decision is from Investing.com's November 7 report. Developing item."
 ---
 
-Novartis said on Saturday it will stop developing pelacarsen for broad cardiovascular prevention after the Lp(a) HORIZON trial, presented at the American Heart Association Scientific Sessions in New Orleans, missed its primary endpoint. The antisense drug, developed with Ionis Pharmaceuticals, lowered lipoprotein(a) by more than 85 percent in more than 8,300 patients with high Lp(a) and established cardiovascular disease, yet produced no statistically significant reduction in heart attacks, strokes or other serious cardiovascular events. Novartis will also cease work on the oral form and stop funding development for people who have not yet had a heart attack or stroke, restricting future work to patients with severe hyperlipidemia while it reviews the full data.
+Novartis will halt development of pelacarsen for atherosclerotic cardiovascular disease after the full results of the Lp(a) HORIZON trial, presented on Saturday at the American Heart Association Scientific Sessions in Chicago and published in the New England Journal of Medicine, showed no hint of benefit. The trial randomised 8,350 patients with established cardiovascular disease and lipoprotein(a) of at least 70 mg/dL at 797 sites in 42 countries, of whom 8,322 were included in the efficacy analysis, to monthly subcutaneous pelacarsen 80 mg or placebo. About 82 percent had already had a heart attack, and the median baseline Lp(a) was 236 nmol/L, in roughly the top 15 to 20 percent of the population.
+
+The antisense drug, developed with Ionis Pharmaceuticals, did its biochemical job: at 12 months Lp(a) had fallen by 77.7 percent against placebo, to 64.4 nmol/L against 233.4 nmol/L, and LDL cholesterol fell by a further 13.3 percent. Over a median follow up of 4.7 years, however, the primary composite of cardiovascular death, nonfatal heart attack, nonfatal stroke or urgent coronary revascularisation occurred in 12.3 percent of the pelacarsen group (511 of 4,157) and 12.1 percent of the placebo group (503 of 4,165), a hazard ratio of 1.02 (95 percent confidence interval 0.90 to 1.15, p equals 0.76). There was no benefit in the subgroup with the highest baseline Lp(a), at least 90 mg/dL (hazard ratio 1.00), in any individual component of the composite, or in the extended analyses published simultaneously in NEJM Evidence, including among patients who stayed on treatment without interruption.
+
+Tolerability counted against the drug over nearly five years of monthly injections. Serious adverse events were actually less frequent on pelacarsen (37.3 against 41.1 percent), but drug related adverse events were far more common (56.8 against 18.0 percent), adverse events leading to discontinuation were 20.6 percent against 7.5 percent, and overall discontinuation reached 35.1 percent against 18.3 percent.
+
+Novartis had announced on September 4, 2026 that the trial had missed its primary endpoint but withheld the data until this meeting. With the full results public, the company is stopping work on pelacarsen for broad cardiovascular prevention, including the oral form and any move into people who have not yet had an event, while a mid stage study in aortic valve stenosis continues. Senior author Steven Nissen of the Cleveland Clinic called the conclusion disappointing and unavoidable: the drug lowered the marker and events did not change. Four other Lp(a) lowering programmes, Amgen's olpasiran, Eli Lilly's lepodisiran and the oral drug muvalaplin among them, are still running their own outcomes trials, and HORIZON tested secondary prevention only, so the class is repriced by this result rather than closed by it.
