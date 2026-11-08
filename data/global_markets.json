@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:52:49.133785-05:00",
+ "updated": "2026-11-08T00:05:50.589039-05:00",
  "volatility": {
   "vix": {
    "value": 25.64,
@@ -571,7 +571,7 @@
     "as_of": "2026-11-06",
     "label": "Ibovespa",
     "symbol": "^BVSP",
-    "move_corroborated": false
+    "move_corroborated": true
    },
    "index2": null,
    "etf": {
@@ -610,42 +610,9 @@
     "as_of": "2026-11-06",
     "label": "iShares MSCI Brazil (EWZ)",
     "symbol": "EWZ",
-    "move_corroborated": false
+    "move_corroborated": true
    },
-   "fx": {
-    "value": 5.5013,
-    "change_1d": -0.72,
-    "change_1w": -2.36,
-    "change_unit": "%",
-    "history": [
-     5.0441,
-     5.0521,
-     5.0826,
-     5.0564,
-     5.014,
-     5.0277,
-     5.0383,
-     5.0377,
-     5.5007,
-     5.3346,
-     5.342,
-     5.3744,
-     5.4212,
-     5.4935,
-     5.4778,
-     5.4621,
-     5.5013
-    ],
-    "spark": "0.0,24.5 6.0,24.1 12.0,22.6 18.0,23.9 24.0,26.0 30.0,25.3 36.0,24.8 42.0,24.8 48.0,2.0 54.0,10.2 60.0,9.8 66.0,8.2 72.0,5.9 78.0,2.4 84.0,3.2 90.0,3.9 96.0,2.0",
-    "up_1d": false,
-    "move_flag": "suspect_break",
-    "as_of": "2026-11-06",
-    "source": "official",
-    "publisher": "Banco Central do Brasil",
-    "label": "USD/BRL",
-    "symbol": "PTAX",
-    "move_corroborated": false
-   },
+   "fx": null,
    "yields": {
     "y2": {
      "value": 14.8,
@@ -4886,6 +4853,7 @@
   }
  ],
  "errors": [
+  "Brazil fx (PTAX): PTAX: HTTP Error 500: Internal Server Error",
   "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
