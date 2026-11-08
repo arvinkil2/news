@@ -1,12 +1,12 @@
 ---
 title: "Russia strikes substations linking nuclear plants to Kyiv"
 date: 2026-11-07T08:13:04-05:00
-last_updated: 2026-11-08T07:14:14-05:00
+last_updated: 2026-11-08T08:15:25-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
-lede: "Russia fired 36 ballistic missiles and 172 drones at Ukraine overnight, damaging substations that carry power from the Rivne and Khmelnytskyi nuclear plants to Kyiv and leaving the capital facing emergency electricity, water and heating outages."
-why_it_matters: "Strikes on the substations that connect nuclear plants to the grid carry a nuclear safety dimension the IAEA chief called vital, and they landed days before Russian, Ukrainian and US negotiators meet in Abu Dhabi on Tuesday."
+lede: "Russia struck Ukraine's energy grid for a second consecutive night, leaving about 850,000 people without electricity in the Dnipropetrovsk and Kharkiv regions, a day after substation strikes cut power transmission from two nuclear plants to Kyiv."
+why_it_matters: "Two consecutive nights of grid strikes, the second cutting power to about 850,000 people in the east, build pressure on Kyiv days before Russian, Ukrainian and US negotiators meet in Abu Dhabi on Tuesday, and the nuclear-linked substation damage from the first night still carries the safety dimension the IAEA chief called vital."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,9 +22,16 @@ sources:
     publisher: "UNITED24 Media"
     url: "https://www.europesays.com/russia/86031/"
     published: "2026-11-07"
+  - title: "Russian strikes on Ukraine leave hundreds of thousands without electricity"
+    publisher: "Al Jazeera, with AFP and Reuters"
+    url: "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+    published: "2026-11-08"
 tags: []
-data_as_of: "Overnight attack of November 6 to 7, 2026, as reported November 7 by Ukraine's energy ministry via Reuters, the Associated Press, Kyiv Independent and UNITED24 Media. Missile, drone and casualty figures are Ukrainian official figures, attributed as such; Russia's defence ministry confirmed targeting a bridge, a power plant, a substation and an ammunition facility in the Kyiv region. The France24 video item that surfaced this run could not be opened (site blocked to this reader); the story was written from the second-route sources above."
+data_as_of: "Update of November 8, 2026, 08:15 Toronto: Al Jazeera report of November 8, 2026, with AFP and Reuters, read in full via the estate browser route, for the second night of strikes, the outage figures of more than 600,000 people in Dnipropetrovsk region and 250,000 in Kharkiv region, which are DTEK and Ukrainian official figures as reported there, and the Russian defence ministry statement that strikes on fuel and energy infrastructure will continue. Earlier: overnight attack of November 6 to 7, 2026, as reported November 7 by Ukraine's energy ministry via Reuters, the Associated Press, Kyiv Independent and UNITED24 Media. Missile, drone and casualty figures are Ukrainian official figures, attributed as such; Russia's defence ministry confirmed targeting a bridge, a power plant, a substation and an ammunition facility in the Kyiv region. The France24 video item that surfaced this run could not be opened (site blocked to this reader); the story was written from the second-route sources above."
+update_bump: true
 ---
+
+Latest: Russia struck the energy grid again overnight into Sunday, leaving about 850,000 people without electricity: more than 600,000 in the Dnipropetrovsk region, including the city of Dnipro and the Pavlohrad, Samarivskyi and Kamianske districts, and another 250,000 in the Kharkiv region, Al Jazeera reported, with AFP and Reuters. DTEK said its engineers were trying to restore a damaged energy facility in Dnipropetrovsk, with repairs complicated by repeated attacks, and the mayor of Zlatopil in the Kharkiv region said no casualties were reported there. Russia's defence ministry said its forces would continue to strike Ukrainian fuel and energy infrastructure that it says is used to aid the military. President Zelenskyy accused Russia of intensifying the attacks to put pressure on Kyiv at the US-brokered trilateral talks in Abu Dhabi scheduled for Tuesday and Wednesday. The outage figures are Ukrainian company and official figures, reported as stated.
 
 Russia launched one of its largest overnight attacks of the autumn against Kyiv, firing 36 ballistic missiles, all of them aimed at the capital and the surrounding region, alongside 172 attack drones over Kyiv and 12 other regions, according to President Volodymyr Zelenskyy and Ukraine's Air Force. Ukrainian air defences intercepted 149 of the drones and four missiles, with impacts recorded at 24 locations. Ukrainian authorities reported two people killed and 37 injured across Ukraine over the past day, with at least six injured in Kyiv itself, including a child among the wounded in the capital region.
 
