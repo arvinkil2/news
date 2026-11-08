@@ -1,12 +1,12 @@
 ---
-title: "House chairs seek Nvidia chief briefing on China espionage concerns"
+title: "Nvidia board opens investigation after Huang admits relationship"
 date: 2026-11-07T07:14:12-05:00
-last_updated: 2026-11-08T14:16:24-05:00
+last_updated: 2026-11-08T15:47:09-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "Secretary of State Marco Rubio oversaw the drafting of the classified memorandum that warned top Trump administration officials this spring that Jensen Huang was in a close relationship with a Chinese spy, The New York Times reported on Sunday, a role for Rubio that had not been reported before."
-why_it_matters: "Congressional scrutiny of the Nvidia chief executive's own contacts, landing the day after Nvidia's earnings, adds a political and export control risk layer to the world's most valuable chipmaker that is separate from its results."
+lede: "Nvidia's board opened an independent investigation on Sunday after chief executive Jensen Huang acknowledged to the board that he had been intimate with Megaspeed executive Alice Huang, whom US officials have determined was working for Chinese intelligence, The New York Times reported."
+why_it_matters: "The inquiry, run by independent directors with outside counsel, turns reported espionage allegations into a governance question the company itself now has to answer, ahead of Nvidia's November 17 earnings and the November 18 congressional briefing Huang has been asked to give."
 featured: false
 evidence_grade: "B"
 sources:
@@ -34,12 +34,34 @@ sources:
     publisher: "The New York Times"
     url: "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
     published: "2026-11-08"
+  - title: "Nvidia opens investigation into Jensen Huang's relationship with Chinese spy"
+    publisher: "The New York Times"
+    url: "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+    published: "2026-11-08"
+  - title: "Nvidia CEO Jensen Huang admits affair, board to launch investigation"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation"
+    published: "2026-11-08"
+  - title: "Nvidia is investigating Jensen Huang's relationship with a Chinese spy"
+    publisher: "The Verge"
+    url: "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    published: "2026-11-08"
+  - title: "China denies allegations of spy operation targeting Nvidia CEO"
+    publisher: "BBC"
+    url: "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"
+    published: "2026-10-30"
 tags: []
-data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026; updated again November 8, 2026, 13:44 Toronto, with CNBC's report of November 8, 2026, read in full via the estate browser route, on the weekend statements by Senators Coons and Cornyn and Representative Magaziner and the New York Times report on New Matrix; updated again November 8, 2026, 14:16 Toronto, with The New York Times report of November 8, 2026, whose opening portion was read via the estate browser route, on Secretary of State Marco Rubio overseeing the drafting of the classified memorandum, its circulation ahead of President Trump's May trip to China, and the State Department and White House declining to comment; no fact in this update rests on material beyond the portion read. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang."
+data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026; updated again November 8, 2026, 13:44 Toronto, with CNBC's report of November 8, 2026, read in full via the estate browser route, on the weekend statements by Senators Coons and Cornyn and Representative Magaziner and the New York Times report on New Matrix; updated again November 8, 2026, 14:16 Toronto, with The New York Times report of November 8, 2026, whose opening portion was read via the estate browser route, on Secretary of State Marco Rubio overseeing the drafting of the classified memorandum, its circulation ahead of President Trump's May trip to China, and the State Department and White House declining to comment; no fact in this update rests on material beyond the portion read. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang. Updated again November 8, 2026, 15:47 Toronto, with The New York Times report of November 8, 2026 on the board investigation and Huang's acknowledgement (opening portion read via the estate browser route; the full text is paywalled), Axios's report of November 8, 2026 (opening portion read via the estate browser route), and The Verge's report of November 8, 2026, read via the estate browser route, which carries the Nvidia board statement in full; no fact in this update rests on material beyond the portions read. The Chinese foreign ministry denial is from the BBC report of October 30, 2026, read in full via the estate browser route, and answers the original Times report, not Sunday's announcement; no Chinese response to Sunday's announcement was in the sources read."
 update_bump: true
 ---
 
-Latest: The New York Times reported on Sunday that Secretary of State Marco Rubio oversaw the drafting of the highly classified memorandum this spring that warned top Trump administration officials that Jensen Huang was in a close relationship with a Chinese spy, a role for Rubio that had not been reported before. The memorandum, based on electronic surveillance of Alice Huang, was circulated to officials with high level security clearances ahead of President Trump's trip to China in May, and Huang was initially left off the list of business and technology executives invited to join that trip, though the Times said it is unclear whether the exclusion was connected to the memorandum. A State Department spokesman and a White House spokeswoman declined to comment to the Times.
+Latest: Nvidia said on Sunday that it is opening an investigation into its chief executive, Jensen Huang, after he acknowledged to the company's board that he had been intimate with Alice Huang, the Megaspeed executive whom US intelligence determined to be a Chinese spy, The New York Times reported. In a message to the company, Huang apologised for his conduct, writing that he had been unfaithful to his wife and that there was no excuse for what he did. Axios reported the same two facts on Sunday: that Huang admitted a romantic relationship with a suspected Chinese spy in a message to his company, and that the board announced an independent investigation.
+
+The board's statement, carried in full by The Verge, said the board is initiating an independent investigation in light of recent reporting that Huang has been the target of a foreign intelligence effort, and that a committee of independent directors, assisted by outside independent counsel, will oversee it. The board said it has no reason to believe that either national security or Nvidia secrets were compromised, that its inquiry will examine all available information, and that Huang fully supports the review and has committed to cooperating with it. The board said it has confidence in Jensen and his leadership team.
+
+Beijing's only response in the record so far predates Sunday's announcement. On October 30 the BBC reported that China had rejected the original Times allegations as groundless speculation, with foreign ministry spokesman Guo Jiakun calling the report an attempt to smear China. No Chinese response to the board investigation was in the sources read for this update.
+
+Earlier on Sunday, The New York Times reported that Secretary of State Marco Rubio oversaw the drafting of the highly classified memorandum this spring that warned top Trump administration officials that Jensen Huang was in a close relationship with a Chinese spy, a role for Rubio that had not been reported before. The memorandum, based on electronic surveillance of Alice Huang, was circulated to officials with high level security clearances ahead of President Trump's trip to China in May, and Huang was initially left off the list of business and technology executives invited to join that trip, though the Times said it is unclear whether the exclusion was connected to the memorandum. A State Department spokesman and a White House spokeswoman declined to comment to the Times.
 
 The scrutiny also widened beyond the Republican chairs over the weekend. Senator Chris Coons, a Delaware Democrat in line to chair the Senate Foreign Relations Committee when his party takes control of the chamber in January, posted on Saturday that Congress would investigate and get answers. Representative Seth Magaziner, a Rhode Island Democrat on the House Homeland Security Committee, called for Commerce Secretary Howard Lutnick to testify before Congress alongside Huang. On a separate matter, Senator John Cornyn, a Texas Republican, shared a New York Times report published Saturday that the Trump administration approved a Chinese firm, New Matrix, to assemble chips for Nvidia in Beijing, with the Times finding little evidence of meaningful operations at its listed address despite the Commerce Department clearing it on national security grounds. Cornyn called the report "outrageous" in his post. CNBC reported the statements on Sunday; neither Nvidia nor the Commerce Department responded to its request for comment.
 
