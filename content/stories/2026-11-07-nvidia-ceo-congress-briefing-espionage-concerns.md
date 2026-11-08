@@ -1,11 +1,11 @@
 ---
 title: "House chairs seek Nvidia chief briefing on China espionage concerns"
 date: 2026-11-07T07:14:12-05:00
-last_updated: 2026-11-08T07:12:58-05:00
+last_updated: 2026-11-08T13:44:58-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "Three Republican House committee chairs have asked Nvidia chief executive Jensen Huang to give a closed door briefing on November 18 about his contacts with a Megaspeed executive US intelligence agencies suspect of passing information to Beijing."
+lede: "Scrutiny of Nvidia chief executive Jensen Huang widened to both parties over the weekend, as a Democratic senator promised a congressional investigation, a Democratic representative sought Commerce Secretary Howard Lutnick's testimony alongside Huang's, and a Republican senator attacked a separate Commerce approval for chip assembly in Beijing."
 why_it_matters: "Congressional scrutiny of the Nvidia chief executive's own contacts, landing the day after Nvidia's earnings, adds a political and export control risk layer to the world's most valuable chipmaker that is separate from its results."
 featured: false
 evidence_grade: "B"
@@ -26,9 +26,16 @@ sources:
     publisher: "TechCrunch"
     url: "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
     published: "2026-11-07"
+  - title: "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
+    published: "2026-11-08"
 tags: []
-data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang."
+data_as_of: "House committee letter dated November 4, 2026, reported November 6 and 7, 2026; updated November 8, 2026 with reporting of November 6 and 7, 2026 on a US intelligence memorandum circulated earlier in 2026; updated again November 8, 2026, 13:44 Toronto, with CNBC's report of November 8, 2026, read in full via the estate browser route, on the weekend statements by Senators Coons and Cornyn and Representative Magaziner and the New York Times report on New Matrix. The memorandum is not public, its claims are unproven reported allegations, and no charges have been brought against Alice Huang, Megaspeed or Jensen Huang."
+update_bump: true
 ---
+
+Latest: The scrutiny widened beyond the Republican chairs over the weekend. Senator Chris Coons, a Delaware Democrat in line to chair the Senate Foreign Relations Committee when his party takes control of the chamber in January, posted on Saturday that Congress would investigate and get answers. Representative Seth Magaziner, a Rhode Island Democrat on the House Homeland Security Committee, called for Commerce Secretary Howard Lutnick to testify before Congress alongside Huang. On a separate matter, Senator John Cornyn, a Texas Republican, shared a New York Times report published Saturday that the Trump administration approved a Chinese firm, New Matrix, to assemble chips for Nvidia in Beijing, with the Times finding little evidence of meaningful operations at its listed address despite the Commerce Department clearing it on national security grounds. Cornyn called the report "outrageous" in his post. CNBC reported the statements on Sunday; neither Nvidia nor the Commerce Department responded to its request for comment.
 
 Three Republican committee chairs in the US House of Representatives have asked Nvidia chief executive Jensen Huang to appear for a joint closed door briefing on November 18. The letter, dated November 4, was signed by Brian Mast of Florida, who chairs the Foreign Affairs Committee, John Moolenaar of Michigan, who chairs the Select Committee on the Chinese Communist Party, and Rick Crawford of Arkansas, who chairs the Permanent Select Committee on Intelligence. Huang has been asked to accept the date or propose an alternative by November 11.
 
