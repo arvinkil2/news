@@ -1,6 +1,6 @@
 ---
 title: "Sopaipilla"
-date: "2026-11-04"
+date: "2026-11-08"
 lede: ""
 data_as_of: "2026-07-28"
 ---
