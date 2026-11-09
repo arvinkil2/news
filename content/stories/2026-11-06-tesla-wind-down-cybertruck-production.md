@@ -1,12 +1,12 @@
 ---
 title: "Tesla to wind down Cybertruck production next year"
 date: 2026-11-06T07:20:00-05:00
-last_updated: 2026-11-06T07:20:00-05:00
+last_updated: 2026-11-09T09:25:58-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Elon Musk said Tesla will wind down Cybertruck production at Gigafactory Texas around the middle of 2027 to make room for increased Cybercab production."
-why_it_matters: "The decision ends the run of Tesla's most polarising vehicle after roughly three and a half years and clears factory space for the robotaxi programme at the centre of the company's valuation."
+lede: "Elon Musk said on November 9 that Tesla will shut down Cybertruck production in about eight months and will have to return deposits to many reservation holders, defending the wind-down as freeing factory capacity for Cybercab robotaxis."
+why_it_matters: "The decision ends the run of Tesla's most polarising vehicle after roughly three and a half years and clears factory space for the robotaxi programme at the centre of the company's valuation, while leaving many deposit holders without the truck they reserved."
 featured: false
 evidence_grade: "B"
 sources:
@@ -22,9 +22,16 @@ sources:
     publisher: "TeslaNorth"
     url: "https://teslanorth.com/2026/11/06/tesla-cybertruck-wind-down-cybercab-2027/"
     published: "2026-11-06"
+  - title: "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
+    published: "2026-11-09"
 tags: []
-data_as_of: "Announcement made by Elon Musk on X early on November 6, 2026; Tesla had not issued a separate company statement at the time of writing."
+update_bump: true
+data_as_of: "Announcement made by Elon Musk on X early on November 6, 2026; Tesla had not issued a separate company statement at the time of writing. Updated November 9, 2026 with Musk's X post of that day, reported by TechCrunch and read in full in this run; the roughly 71,000 lifetime sales figure is an industry estimate reported by TechCrunch, not a Tesla disclosure."
 ---
+
+Latest: Musk put a firmer timeline and a cost on the wind-down on Monday, November 9. Tesla will shut down Cybertruck production in about eight months, he said in a post on X, and while the company will try to build as many trucks as possible before then, it will "have to return deposits for a lot of people." He argued the truck was not unprofitable and that production is ending because the opportunity cost of the Cybertruck's complexity is vastly outweighed by the value of incremental Cybercab production. TechCrunch put lifetime Cybertruck sales at about 71,000 since first deliveries in November 2023, an industry estimate, against reservations that once reached 1 million, and noted that SpaceX bought 131 million dollars worth of Cybertrucks from Tesla in 2025, according to its IPO registration statement.
 
 Tesla will wind down production of the Cybertruck at Gigafactory Texas around the middle of next year, chief executive Elon Musk said in a post on X early on Friday, November 6. The space will be used for increased production of the Cybercab, the company's purpose built two seat robotaxi. Musk called the truck the best vehicle Tesla has ever made and the wind down the end of an era, and said the existing Cybertruck fleet will be around for a long time.
 
