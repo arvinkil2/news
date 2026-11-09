@@ -1,7 +1,7 @@
 ---
 title: "Asia stocks rebound, Taiwan closes up 5 percent after rout"
 date: 2026-11-08T23:43:51-05:00
-last_updated: 2026-11-09T02:23:05-05:00
+last_updated: 2026-11-09T02:44:21-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -19,12 +19,16 @@ sources:
     publisher: "Investing.com"
     url: "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-498-5010535"
     published: "2026-11-09"
+  - title: "Japan stocks higher at close of trade; Nikkei 225 up 2.51%"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-251-5010591"
+    published: "2026-11-09"
 tags: []
-data_as_of: "Reuters reporting via Investing.com, published November 8, 2026 and read in full in the original run; closing figures updated November 9, 2026 from Investing.com's close report for the Taiwan Weighted (up 4.98 percent) and Bloomberg figures carried by multiple outlets for the MSCI Asia Pacific close (up 1.9 percent). Developing item."
+data_as_of: "Reuters reporting via Investing.com, published November 8, 2026 and read in full in the original run; closing figures updated November 9, 2026 from Investing.com's close reports for the Taiwan Weighted (up 4.98 percent) and the Nikkei 225 (closed up 2.51 percent at 58,874, Nikkei volatility up 32.9 percent to 44.60), read in full via the estate browser route, and Bloomberg figures carried by multiple outlets for the MSCI Asia Pacific close (up 1.9 percent). Developing item."
 update_bump: true
 ---
 
-Latest: Taiwan's Taiex closed up 4.98 percent on Monday, below its intraday gain of as much as 6.4 percent but still its strongest session since July, and the MSCI Asia Pacific index ended the day up 1.9 percent after its steepest selloff in more than 18 months on Friday.
+Latest: Taiwan's Taiex closed up 4.98 percent on Monday, below its intraday gain of as much as 6.4 percent but still its strongest session since July, and the MSCI Asia Pacific index ended the day up 1.9 percent after its steepest selloff in more than 18 months on Friday. Japan's Nikkei 225 closed up 2.51 percent at 58,874, trimming an intraday rise of 3.5 percent, while the Nikkei volatility index jumped 32.9 percent to 44.60, a six-month high.
 
 Asian stocks rallied on Monday after a week in which Japanese and Taiwanese equities entered bear-market territory. The MSCI Asia Pacific index climbed 2.3 percent, Taiwan's Taiex jumped as much as 6.4 percent for its biggest advance since July, ending a seven-session losing streak, and Japan's Nikkei 225 rose 3.5 percent with the TOPIX up 3.4 percent. South Korea's KOSPI rose 1.6 percent, while mainland China's CSI 300 added 0.3 percent and Hong Kong's Hang Seng 0.2 percent.
 
