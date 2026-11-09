@@ -1,7 +1,7 @@
 ---
 title: "Politics also notable: OFAC notice, Qatar mediation, Abu Dhabi talks"
 date: 2026-11-09T07:11:56-05:00
-last_updated: 2026-11-09T07:11:56-05:00
+last_updated: 2026-11-09T15:42:47-05:00
 beats: ["politics"]
 regions: ["north-america", "middle-east"]
 status: "story"
@@ -14,15 +14,20 @@ sources:
     publisher: "US Federal Register"
     url: "https://www.federalregister.gov/documents/2026/11/09/2026-22802/notice-of-ofac-sanctions-actions"
     published: "2026-11-09"
+  - title: "Iran Designation Update"
+    publisher: "OFAC, US Department of the Treasury"
+    url: "https://ofac.treasury.gov/recent-actions/20261109"
+    published: "2026-11-09"
   - title: "Trump says new Iran strikes are highly improbable as Rubio sees no deal in sight"
     publisher: "Pollar"
     url: "https://pollar.news/en/event/trump-iran-strikes-unlikely"
     published: "2026-11-08"
 tags: []
-data_as_of: "OFAC notice published in the Federal Register of November 9, 2026, read in full in this run; the underlying OFAC action is dated November 4, 2026. Qatar prime minister visit and Abu Dhabi talks are scheduled events as reported November 8, 2026; neither had taken place at the time of writing."
+data_as_of: "OFAC notice published in the Federal Register of November 9, 2026, read in full in this run; the underlying OFAC action is dated November 4, 2026. OFAC Iran designation update of November 9, 2026, read in full the same day. Qatar prime minister visit and Abu Dhabi talks are scheduled events as reported November 8, 2026; neither had taken place at the time of writing."
+update_bump: true
 ---
 
-OFAC published a notice in Monday's Federal Register updating the identifying information of entries on its sanctions lists. The action, dated November 4, applies secondary sanctions information to names associated with the IRAN-EO13902 programme, the executive order covering Iran's construction, mining, manufacturing and textiles sectors. It is an identifier update rather than a new designation round, but it widens the documented exposure of the named parties to secondary sanctions, and the full updated list sits on OFAC's recent actions page.
+OFAC published a notice in Monday's Federal Register updating the identifying information of entries on its sanctions lists. The action, dated November 4, applies secondary sanctions information to names associated with the IRAN-EO13902 programme, the executive order covering Iran's construction, mining, manufacturing and textiles sectors. It is an identifier update rather than a new designation round, but it widens the documented exposure of the named parties to secondary sanctions, and the full updated list sits on OFAC's recent actions page. A further OFAC update on Monday made one change to the Iran list: Volta Shipping Services LLC, a Dubai company linked to Mohammad Hossein Shamkhani and designated under the same executive order, now also trades under the name Volta Container Line FZCO, and no new names were designated.
 
 Qatar's prime minister, Mohammed bin Abdulrahman Al Thani, is due at the White House on Monday, the next step in the mediation channel through which Iran has sent Washington a nuclear proposal and through which President Trump spoke with Qatar's emir on Friday about de-escalation. The visit follows a weekend in which Qatar denied reports that the US and Iran had failed to reach a deal, and its outcome is the first concrete test of the diplomatic track behind Trump's Sunday remarks on strikes, covered in full in today's Iran story.
 
