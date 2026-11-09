@@ -1,7 +1,7 @@
 ---
 title: "New Zealand election too close to call after cliffhanger night"
 date: 2026-11-08T04:41:38-05:00
-last_updated: 2026-11-08T20:20:52-05:00
+last_updated: 2026-11-09T07:11:22-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -31,12 +31,18 @@ sources:
     publisher: "Reuters"
     url: "https://985theriver.com/2026/11/08/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo/"
     published: "2026-11-09"
+  - title: "Analysis: New Zealand's Luxon on course for second term, but weaker hand in coalition"
+    publisher: "Reuters"
+    url: "https://985theriver.com/2026/11/08/analysis-new-zealands-luxon-on-course-for-second-term-but-weaker-hand-in-coalition/"
+    published: "2026-11-09"
 tags: []
-data_as_of: "Updated November 8, 2026, 20:20 Toronto: investinglive report of November 8, 2026 and Reuters report of November 9, 2026 from Wellington, both read in full in this run, for the dollar's early Asian move, the roughly 400,000 special votes outstanding and the Westpac comment; the Bloomberg item that first surfaced the currency move in the ranked pool is blocked to this reader, so no figure rests on it. Earlier: November 8, 2026, 04:41 Toronto: preliminary election-night figures as reported by Radio New Zealand and carried by Media Pavilion and SBS News, read in full in this run, corroborated by Claire Robinson's election-night analysis via Europe Says. Counts are preliminary, with 98.5 percent of votes counted on election night and special votes outstanding; the Electoral Commission's official result is due November 27, 2026. Developing item."
+data_as_of: "Updated November 9, 2026: Reuters analysis of November 9, 2026, read in this run, for Luxon's weaker coalition hand, the loss of Finance Minister Nicola Willis and Transport Minister Chris Bishop, New Zealand First's demand for the immigration ministry and the Opportunity Party's possible kingmaker role. Updated November 8, 2026, 20:20 Toronto: investinglive report of November 8, 2026 and Reuters report of November 9, 2026 from Wellington, both read in full in this run, for the dollar's early Asian move, the roughly 400,000 special votes outstanding and the Westpac comment; the Bloomberg item that first surfaced the currency move in the ranked pool is blocked to this reader, so no figure rests on it. Earlier: November 8, 2026, 04:41 Toronto: preliminary election-night figures as reported by Radio New Zealand and carried by Media Pavilion and SBS News, read in full in this run, corroborated by Claire Robinson's election-night analysis via Europe Says. Counts are preliminary, with 98.5 percent of votes counted on election night and special votes outstanding; the Electoral Commission's official result is due November 27, 2026. Developing item."
 update_bump: true
 ---
 
-Latest: The New Zealand dollar rose about 0.5 percent against the US dollar in very early Asian trade on Monday, the first session since the election, in thin liquidity that investinglive described as a wait-and-see market rather than a verdict. Reuters reported that dozens of newly elected lawmakers start arriving at Parliament this week while the country waits to learn who will govern, with almost 400,000 special votes, nearly 15 percent of the total, still uncounted. Kelly Eckhold, chief economist at Westpac in New Zealand, said markets would be on edge over the next couple of weeks, with the exchange rate a particular focus, and that the likely outcome is some form of centre-right government, possibly requiring the Opportunity Party's support.
+Latest: Reuters analysis on Monday put Prime Minister Christopher Luxon on course to hang on to power at the head of a coalition with a razor thin majority, but with a weaker hand inside it: National lost key moderates on election night, including Finance Minister Nicola Willis and Transport Minister Chris Bishop, one of his main policy architects, while ACT and New Zealand First, both larger than before, are positioned to demand key ministries, with New Zealand First saying it is imperative it takes control of the immigration ministry. The preliminary Electoral Commission data gives the three party coalition a majority of just two seats, which the special votes, about a seventh of the total and typically skewing left, could erase in the final count on November 27. If they do, Luxon would need a fourth party, the centrist Opportunity, which is set to enter Parliament for the first time and whose leader Qiulae Wong has said she will negotiate first with whoever secures the most seats.
+
+Earlier: The New Zealand dollar rose about 0.5 percent against the US dollar in very early Asian trade on Monday, the first session since the election, in thin liquidity that investinglive described as a wait-and-see market rather than a verdict. Reuters reported that dozens of newly elected lawmakers start arriving at Parliament this week while the country waits to learn who will govern, with almost 400,000 special votes, nearly 15 percent of the total, still uncounted. Kelly Eckhold, chief economist at Westpac in New Zealand, said markets would be on edge over the next couple of weeks, with the exchange rate a particular focus, and that the likely outcome is some form of centre-right government, possibly requiring the Opportunity Party's support.
 
 New Zealand's general election ended without a clear winner on Saturday night. With 98.5 percent of votes counted, Prime Minister Christopher Luxon's National Party and Chris Hipkins' Labour Party were each on about 29.3 percent of the party vote, Radio New Zealand reported, a fall for National from 38.1 percent in 2023. National remained the largest party in Parliament, with 42 seats, because it won most electorates.
 

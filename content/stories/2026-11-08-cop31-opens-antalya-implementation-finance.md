@@ -1,7 +1,8 @@
 ---
 title: "COP31 opens in Antalya with finance and implementation at centre"
 date: 2026-11-08T07:14:14-05:00
-last_updated: 2026-11-08T07:14:14-05:00
+last_updated: 2026-11-09T07:11:22-05:00
+update_bump: true
 beats: ["politics"]
 regions: ["global", "europe", "asia-pacific"]
 status: "story"
@@ -22,9 +23,15 @@ sources:
     publisher: "BBVA"
     url: "https://www.bbva.com/en/sustainability/countdown-to-cop31-in-antalya-the-stakes-are-not-abstract/"
     published: "2026-11-03"
+  - title: "COP31 summit leaders urge world to 'move faster' on climate"
+    publisher: "Reuters, carried by BusinessWorld"
+    url: "https://bworldonline.com/world/2026/11/09/792444/cop31-summit-leaders-urge-world-to-move-faster-on-climate/"
+    published: "2026-11-09"
 tags: []
-data_as_of: "Conference runs November 9 to 20, 2026 in Antalya. UN News explainer published November 4, 2026 and updated November 6, read in full in this run, for the agenda, the host arrangement and the clean technology figures. Wirony report of November 5, 2026, read in full in this run, for the UN synthesis of national plans published October 27, 2026 and the adaptation finance need; the synthesis figures are UNFCCC figures as reported there, not read in the original synthesis in this run."
+data_as_of: "Updated November 9, 2026 with the conference's opening day: Reuters report of November 9, 2026, read in full in this run, for the Stiell, Kurum and Bowen opening remarks, the electrification pledge and the criticism of it, the US absence and the World Meteorological Organization finding that 2026 is on track to be one of the four hottest years on record. Conference runs November 9 to 20, 2026 in Antalya. Earlier: UN News explainer published November 4, 2026 and updated November 6, read in full, for the agenda, the host arrangement and the clean technology figures; Wirony report of November 5, 2026, read in full, for the UN synthesis of national plans published October 27, 2026 and the adaptation finance need; the synthesis figures are UNFCCC figures as reported there, not read in the original synthesis."
 ---
+
+Latest: COP31 opened on Monday with the presidency and the UN climate chief pressing the same point. "The urgency of this moment must drive us forward," UN Climate Change Executive Secretary Simon Stiell said in prepared opening remarks, adding that progress so far was "nowhere near fast enough," and that this year's fossil fuel cost chaos had hit households hard and spread inflation. Türkiye's COP31 President Murat Kurum framed the presidency's goal in daily life terms, in buildings that use less energy, clean public transport and affordable energy, while Australia's president of negotiations, Chris Bowen, said he hoped the conference would show multilateralism works: "Paris is working. But we must move faster." The presidency's flagship ask is a pledge to electrify more than a third of the global economy by 2035, up from around a fifth today; climate advocates have already criticised the pledge because it does not require the additional electricity to come from low carbon sources, setting up an early fight over whether electrification alone counts as progress. The Trump administration is shunning the talks for the second year running. A UN report on Monday showed 2026 is on track to be one of the four hottest years on record.
 
 The 31st UN climate conference, COP31, opens in Antalya, Türkiye, on Monday, November 9, and runs to November 20, with representatives of more than 190 countries due to take part. Türkiye hosts and holds the presidency, while Australia leads the negotiations, working with Pacific island countries, an unusual split of the two roles. A World Leaders Summit is scheduled for November 11 and 12, inside the conference window.
 
