@@ -1,13 +1,13 @@
 ---
-title: "Jeffries calls himself a hard yes on impeaching Hegseth"
+title: "Massie introduces impeachment articles against Hegseth"
 date: 2026-11-08T14:45:53-05:00
-last_updated: 2026-11-08T14:45:53-05:00
+last_updated: 2026-11-09T15:09:22-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "House Minority Leader Hakeem Jeffries said on Sunday that he is a hard yes on impeaching Defense Secretary Pete Hegseth, putting the leader of the incoming Democratic House majority behind the resolution Republican Thomas Massie plans to introduce."
-why_it_matters: "With Democrats set to control the House in January after winning both chambers in the midterms, Jeffries's backing turns one Republican's privileged resolution into a leadership supported vote, making Hegseth's tenure an early test of the post election Congress."
+lede: "Republican Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Monday afternoon, setting up a House vote this week that Democratic leader Hakeem Jeffries has already said he will support."
+why_it_matters: "The privileged resolution forces the Republican-led House to take a position on Hegseth before Democrats assume control of both chambers in January. Massie says his aim is to push President Trump to replace the secretary now, while a successor could still be confirmed by the current Senate."
 featured: false
 evidence_grade: "B"
 sources:
@@ -19,10 +19,19 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries"
     published: "2026-11-08"
+  - title: "Republican congressman to force impeachment vote on Defence Secretary Hegseth"
+    publisher: "BBC"
+    url: "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+    published: "2026-11-09"
+  - title: "Republican Thomas Massie moves to force vote to impeach Pete Hegseth"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
+    published: "2026-11-09"
 tags: []
-data_as_of: "The Hill report of November 8, 2026, read in full via the estate browser route, for Jeffries's and Massie's statements on ABC News and for Hegseth's video response; the same Jeffries position was carried the same day by The Guardian, Bloomberg and The New York Times. The Pentagon had not commented in the reporting read. Developing item."
+data_as_of: "BBC report of November 9, 2026, read in full via the estate browser route, for the introduction of the articles, the charges and the vote procedure; The Guardian of November 9 for the count of eight articles. Earlier reporting: The Hill and The Guardian of November 8. Developing item."
 update_bump: true
 ---
+**Latest.** Massie introduced the articles on the House floor on Monday afternoon, accusing Hegseth of waging war in Iran for more than 90 days without congressional authorization and of other abuses of power, including intimidating critics and ignoring congressional war powers resolutions. Because the resolution is privileged, Speaker Mike Johnson must schedule House consideration within two days; the House can vote on it directly, refer it to committee or set it aside. Massie, who first filed articles in September and lost re-election this year, said Trump should replace Hegseth now while a replacement can still be confirmed, calling his effort a gentler version of what Democrats will do when they take control next year. Hegseth told reporters he was not worried about the move and would hold a news conference on Tuesday. The effort is expected to fail while Republicans still hold the House, and no whip count has been published.
 
 House Minority Leader Hakeem Jeffries told ABC News on Sunday that he is a hard yes on the Hegseth resolution, accusing the defense secretary of abusing his power and engineering the war with Iran. Jeffries, who is expected to become Speaker when the new Congress sits in January, had asked on social media on Thursday why Hegseth was still in his post.
 
