@@ -1,7 +1,7 @@
 ---
 title: "Massie introduces impeachment articles against Hegseth"
 date: 2026-11-08T14:45:53-05:00
-last_updated: 2026-11-09T15:09:22-05:00
+last_updated: 2026-11-09T16:46:17-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -27,11 +27,17 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
     published: "2026-11-09"
+  - title: "US: Hegseth faces impeachment push from Massie over Iran war"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss"
+    published: "2026-11-09"
 tags: []
-data_as_of: "BBC report of November 9, 2026, read in full via the estate browser route, for the introduction of the articles, the charges and the vote procedure; The Guardian of November 9 for the count of eight articles. Earlier reporting: The Hill and The Guardian of November 8. Developing item."
+data_as_of: "BBC report of November 9, 2026, read in full via the estate browser route, for the introduction of the articles, the charges and the vote procedure; The Guardian of November 9 for the count of eight articles. Updated November 9, 2026, 16:46 Toronto, with Deutsche Welle's report of November 9, 2026, read in full via the estate browser route, for President Trump's defence of Hegseth in a Reuters telephone interview after the filing and Representative French Hill's undecided position. Earlier reporting: The Hill and The Guardian of November 8. Developing item."
 update_bump: true
 ---
-**Latest.** Massie introduced the articles on the House floor on Monday afternoon, accusing Hegseth of waging war in Iran for more than 90 days without congressional authorization and of other abuses of power, including intimidating critics and ignoring congressional war powers resolutions. Because the resolution is privileged, Speaker Mike Johnson must schedule House consideration within two days; the House can vote on it directly, refer it to committee or set it aside. Massie, who first filed articles in September and lost re-election this year, said Trump should replace Hegseth now while a replacement can still be confirmed, calling his effort a gentler version of what Democrats will do when they take control next year. Hegseth told reporters he was not worried about the move and would hold a news conference on Tuesday. The effort is expected to fail while Republicans still hold the House, and no whip count has been published.
+**Latest.** President Donald Trump defended Hegseth after the articles were filed, telling Reuters in a telephone interview that Hegseth had won two wars and questioning how he could be impeached, Deutsche Welle reported on Monday. Among Republicans, Arkansas Representative French Hill said he wanted to hear the debate before deciding, and no whip count has been published ahead of the House's consideration of the privileged resolution within two days.
+
+**Earlier.** Massie introduced the articles on the House floor on Monday afternoon, accusing Hegseth of waging war in Iran for more than 90 days without congressional authorization and of other abuses of power, including intimidating critics and ignoring congressional war powers resolutions. Because the resolution is privileged, Speaker Mike Johnson must schedule House consideration within two days; the House can vote on it directly, refer it to committee or set it aside. Massie, who first filed articles in September and lost re-election this year, said Trump should replace Hegseth now while a replacement can still be confirmed, calling his effort a gentler version of what Democrats will do when they take control next year. Hegseth told reporters he was not worried about the move and would hold a news conference on Tuesday. The effort is expected to fail while Republicans still hold the House, and no whip count has been published.
 
 House Minority Leader Hakeem Jeffries told ABC News on Sunday that he is a hard yes on the Hegseth resolution, accusing the defense secretary of abusing his power and engineering the war with Iran. Jeffries, who is expected to become Speaker when the new Congress sits in January, had asked on social media on Thursday why Hegseth was still in his post.
 
