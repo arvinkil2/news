@@ -1,7 +1,7 @@
 ---
 title: "Massie introduces impeachment articles against Hegseth"
 date: 2026-11-08T14:45:53-05:00
-last_updated: 2026-11-09T16:46:17-05:00
+last_updated: 2026-11-10T07:08:20-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -31,11 +31,17 @@ sources:
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss"
     published: "2026-11-09"
+  - title: "Trump says Hegseth should be praised, not impeached"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/administration/6209668-trump-defends-hegseth-impeachment/"
+    published: "2026-11-09"
 tags: []
-data_as_of: "BBC report of November 9, 2026, read in full via the estate browser route, for the introduction of the articles, the charges and the vote procedure; The Guardian of November 9 for the count of eight articles. Updated November 9, 2026, 16:46 Toronto, with Deutsche Welle's report of November 9, 2026, read in full via the estate browser route, for President Trump's defence of Hegseth in a Reuters telephone interview after the filing and Representative French Hill's undecided position. Earlier reporting: The Hill and The Guardian of November 8. Developing item."
+data_as_of: "BBC report of November 9, 2026, read in full via the estate browser route, for the introduction of the articles, the charges and the vote procedure; The Guardian of November 9 for the count of eight articles. Updated November 9, 2026, 16:46 Toronto, with Deutsche Welle's report of November 9, 2026, read in full via the estate browser route, for President Trump's defence of Hegseth in a Reuters telephone interview after the filing and Representative French Hill's undecided position. Updated November 10, 2026, 07:08 Toronto, with The Hill's report of November 9, read in full via the estate browser route, for President Trump's Truth Social post defending Hegseth on Monday night. Earlier reporting: The Hill and The Guardian of November 8. Developing item."
 update_bump: true
 ---
-**Latest.** President Donald Trump defended Hegseth after the articles were filed, telling Reuters in a telephone interview that Hegseth had won two wars and questioning how he could be impeached, Deutsche Welle reported on Monday. Among Republicans, Arkansas Representative French Hill said he wanted to hear the debate before deciding, and no whip count has been published ahead of the House's consideration of the privileged resolution within two days.
+**Latest.** President Trump escalated his defence of Hegseth on Monday night, posting on Truth Social that the secretary "should be praised, not Impeached" and calling on Congress to stand up for him, The Hill reported. Hegseth is due to hold a news conference on the impeachment effort on Tuesday morning.
+
+**Earlier.** President Donald Trump defended Hegseth after the articles were filed, telling Reuters in a telephone interview that Hegseth had won two wars and questioning how he could be impeached, Deutsche Welle reported on Monday. Among Republicans, Arkansas Representative French Hill said he wanted to hear the debate before deciding, and no whip count has been published ahead of the House's consideration of the privileged resolution within two days.
 
 **Earlier.** Massie introduced the articles on the House floor on Monday afternoon, accusing Hegseth of waging war in Iran for more than 90 days without congressional authorization and of other abuses of power, including intimidating critics and ignoring congressional war powers resolutions. Because the resolution is privileged, Speaker Mike Johnson must schedule House consideration within two days; the House can vote on it directly, refer it to committee or set it aside. Massie, who first filed articles in September and lost re-election this year, said Trump should replace Hegseth now while a replacement can still be confirmed, calling his effort a gentler version of what Democrats will do when they take control next year. Hegseth told reporters he was not worried about the move and would hold a news conference on Tuesday. The effort is expected to fail while Republicans still hold the House, and no whip count has been published.
 
