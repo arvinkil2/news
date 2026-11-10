@@ -1,7 +1,7 @@
 ---
 title: "Herzog picks Eisenkot to form Israel's next government"
 date: 2026-11-07T15:14:15-05:00
-last_updated: 2026-11-08T14:13:58-05:00
+last_updated: 2026-11-10T07:02:41-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
@@ -30,10 +30,16 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
     published: "2026-11-08"
+  - title: "New Israel parliament to be sworn in as Eisenkot seeks government"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/middle-east/new-israel-parliament-to-be-sworn-in-as-eisenkot-seeks-government-3010896"
+    published: "2026-11-10"
 tags: []
 data_as_of: "Update of November 8, 2026: The Guardian report of November 8, 2026, read in full via the estate browser route, for Eisenkot formally receiving the mandate at Sunday's ceremony, the start of the 28 day period, his appeal to Likud and to Bezalel Smotrich's party to join a national emergency government under him as prime minister, his conditions for Arab party participation, and Netanyahu's Saturday night call for a national unity government; Al Jazeera's report of November 8, 2026, read in full via the estate browser route, corroborates the ceremony and the openness to Netanyahu joining, and carries Herzog's stable government wording. Al Jazeera describes the formation window as six weeks in total; this story follows the 28 day period plus a possible 14 day extension reported by The Guardian and in this site's November 5 process brief. Earlier: reports of November 7, 2026 by The Guardian, Deutsche Welle with AP and AFP, and Reuters via Arab News, each read in full via the estate browser route and agreeing on the announcement, the Sunday ceremony and the seat figures. The Herzog office statement is quoted in those reports; the statement itself was not read on the president's own site in this run."
 update_bump: true
 ---
+
+Latest: The 26th Knesset is sworn in on Tuesday, November 10, with neither bloc holding a majority, Netanyahu's at 53 seats and the opposition at 48, plus 19 for the Arab led parties. Ahead of the opening, Eisenkot's bloc agreed its candidates for the parliament's key posts: Matan Kahana of Yashar as speaker and Avigdor Liberman as chair of the Foreign Affairs and Defense Committee. The opposition intends to move quickly on priorities including a state commission of inquiry into the security failures behind the October 7, 2023 attack. Eisenkot's 28 day mandate clock, started Sunday, runs to early December. The swearing in and the posts agreement are reported by Arab News on November 10 and corroborated by multiple Israeli and international reports the same day.
 
 Latest: Eisenkot formally received the mandate at a ceremony at the president's office on Sunday, starting his 28 days to assemble the 61 votes needed for a government, with a possible 14 day extension before the mandate passes to someone else. He said Israel is in a state of emergency, approaching a point of no return, and must form a national emergency government, and he appealed to Netanyahu's Likud party and to the far right party of Finance Minister Bezalel Smotrich to join him, but only with himself as prime minister. Netanyahu had called on Saturday night for a national unity government with Eisenkot, and it remains unclear whether the two rivals can agree on power sharing. Al Jazeera reported that Eisenkot is open to including Netanyahu himself in the coalition. Herzog said Israel needs a stable government, pointing to a new political reality in the United States after the November 3 midterm elections. Eisenkot has set conditions for any Arab party joining his coalition, including recognition of Israel as a Jewish state and declaring Hamas a terrorist organisation, while his Yisrael Beiteinu partner has said it will not join a coalition with Arab led parties.
 
