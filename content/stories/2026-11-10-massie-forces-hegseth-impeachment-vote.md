@@ -1,7 +1,7 @@
 ---
 title: "Massie forces House vote on Hegseth impeachment articles"
 date: 2026-11-10T07:02:41-05:00
-last_updated: 2026-11-10T07:02:41-05:00
+last_updated: 2026-11-10T09:49:18-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -22,9 +22,16 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
     published: "2026-11-09"
+  - title: "Hegseth calls Republican's bid to impeach him a 'stunt' by critics of Trump"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie"
+    published: "2026-11-10"
 tags: []
-data_as_of: "Event date November 9, 2026 (filing on the House floor); House action due within two legislative days, by Wednesday November 11. The articles are allegations in a charging document, not findings by a court or inspector general. Vote counts and passage prospects are reported expectations from congressional sources, not published whip counts. Hegseth has defended the operations at issue as lawful."
+data_as_of: "Event date November 9, 2026 (filing on the House floor); House action due within two legislative days, by Wednesday November 11. The articles are allegations in a charging document, not findings by a court or inspector general. Vote counts and passage prospects are reported expectations from congressional sources, not published whip counts. Hegseth has defended the operations at issue as lawful. Updated November 10, 2026 with The Guardian's report of Hegseth's press conference that day, read in full via the estate browser route: his characterisations of the effort, his defence of the operations, and the expectation that the House takes the resolution up on Tuesday evening, likely starting with a vote to table it."
+update_bump: true
 ---
+
+**Latest.** Hegseth answered the articles himself at a press conference on Tuesday, calling the effort "a farce, and it's a stunt, and everybody knows it", a "political spectacle" and a "circus" that "puts a target on the back of American warriors" and amounts to sabotage rather than patriotism. He insisted every operation the articles cite, the strikes on Iran and Yemen, the attacks on alleged drug boats and the capture of Venezuela's Nicolas Maduro, was lawful, ordered by President Trump and notified to Congress, denied that the US military targets civilians, and described Massie as "one disgruntled guy", saying his team had worked with Speaker Johnson and that he had a "ton of support" on Capitol Hill. The House is expected to take the resolution up on Tuesday evening, likely beginning with a procedural vote to table it; the Republican majority is 218 to 214 and only members present can vote, which is why several House Republicans have told Fox News privately that they believe impeachment could pass.
 
 Representative Thomas Massie read eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Monday and filed them as a privileged resolution, the procedure that starts a two legislative day clock. The House must now vote on the articles themselves, vote to refer them to committee, or vote to table them, which would kill them. Each option is a recorded vote, and a vote could come as early as Wednesday.
 

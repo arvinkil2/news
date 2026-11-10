@@ -1,7 +1,7 @@
 ---
 title: "France blames Iran's Revolutionary Guards for supermarket freezer cyberattacks"
 date: 2026-11-09T14:04:24-05:00
-last_updated: 2026-11-10T08:47:57-05:00
+last_updated: 2026-11-10T09:49:18-05:00
 beats: ["politics"]
 regions: ["europe", "middle-east"]
 status: "developing"
@@ -35,10 +35,16 @@ sources:
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261110177900079"
     published: "2026-11-10"
+  - title: "France summons Iran envoy over supermarket fridge hack, warns of response"
+    publisher: "Arab News (AFP)"
+    url: "https://www.arabnews.com/world/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-of-response-3010881"
+    published: "2026-11-10"
 tags: []
-data_as_of: "The Guardian's report of November 9, 2026, read in full via the estate browser route as the second route after the France24 original could not be fetched; Arab News carried the same attribution and sanctions pledge the same day. The attribution is the French government's, stated by its foreign minister and public prosecutor; no Iranian response was reported in the sources read. Developing item. Updated November 9, 2026, 16:20 Toronto, with CBS News and Al Jazeera reports of November 9, 2026, read in full via the estate browser route, on the Paris prosecutor's judicial investigation, the charges under investigation and the request for international arrest warrants against the Shahid Kaveh leader and his two deputies; the France24 report of the prosecutor's statement could not be read directly, and no fact in this update rests on it. Updated November 10, 2026, 08:47 Toronto, with Iran's foreign ministry rebuttal as reported by Yonhap News Agency on November 10, 2026, in Korean, read in full via the estate browser route and translated; the rebuttal is Tehran's stated position and is flagged as such in the story."
+data_as_of: "The Guardian's report of November 9, 2026, read in full via the estate browser route as the second route after the France24 original could not be fetched; Arab News carried the same attribution and sanctions pledge the same day. The attribution is the French government's, stated by its foreign minister and public prosecutor; no Iranian response was reported in the sources read. Developing item. Updated November 9, 2026, 16:20 Toronto, with CBS News and Al Jazeera reports of November 9, 2026, read in full via the estate browser route, on the Paris prosecutor's judicial investigation, the charges under investigation and the request for international arrest warrants against the Shahid Kaveh leader and his two deputies; the France24 report of the prosecutor's statement could not be read directly, and no fact in this update rests on it. Updated November 10, 2026, 08:47 Toronto, with Iran's foreign ministry rebuttal as reported by Yonhap News Agency on November 10, 2026, in Korean, read in full via the estate browser route and translated; the rebuttal is Tehran's stated position and is flagged as such in the story. Updated November 10, 2026, 09:49 Toronto, with AFP's report of the same day, read in full via the estate browser route and carried by Arab News, that the summoning of Iran's ambassador announced on Monday took place on Tuesday morning, and that Barrot said France would push for EU sanctions and would take further measures, some not to be discussed publicly, if judged proportionate and necessary; AFP also reported Iran's foreign ministry rejecting the accusations as baseless and hostile."
 update_bump: true
 ---
+
+Latest: The summoning of Iran's ambassador announced on Monday took place on Tuesday morning, the French foreign ministry said, and Foreign Minister Jean-Noël Barrot said France would push for EU sanctions over what he called an attack of unprecedented scale and aggression, warning that Paris would take whatever measures it judged proportionate and necessary, including some it would not discuss publicly, to deter new attacks and punish those responsible. AFP reported that Iran's foreign ministry rejected the accusations as baseless and hostile; Tehran's fuller rebuttal, reported by Yonhap, follows below.
 
 Latest: Iran's foreign ministry rejected the French attribution on Tuesday, calling it groundless and biased in a statement reported by Yonhap News Agency, and protesting strongly. Tehran said the accusation was slander meant to divert attention from France's Middle East policy and to please the United States and Israel, and that it hid weakness in running state affairs, remarking that a government that cannot even control refrigerator temperature was shifting responsibility outward with absurd accusations. The ministry warned that Iran would not hesitate to take necessary and appropriate measures to protect its national interests and security. The rebuttal is Iran's position, stated by its foreign ministry; the French attribution, set out below, rests on the Paris prosecutor's investigation, and neither side's account of who carried out the attacks has been independently verified in the sources read.
 
