@@ -1,12 +1,12 @@
 ---
 title: "US consumer prices rise 0.4 percent in October, core 0.3"
 date: 2026-11-10T08:47:57-05:00
-last_updated: 2026-11-10T09:07:21-05:00
+last_updated: 2026-11-10T13:07:08-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
-lede: "US consumer prices rose 0.4 percent in October and core prices rose 0.3 percent for a third straight month, both a tenth above consensus, landing exactly on the threshold Governor Waller said hours earlier should put a 50 basis point December hike on the table."
-why_it_matters: "This is the last CPI report before the December 8 to 9 FOMC meeting, the November report is not due until December 10, and a third consecutive 0.3 percent core month converts the December debate from whether the Fed hikes to how much."
+lede: "The 10 year Treasury yield rose back above 5 percent on Tuesday afternoon, to 5.004 percent, as October consumer prices rose 0.4 percent with core up 0.3 percent for a third straight month, both a tenth above consensus and exactly on the threshold Governor Waller said should put a 50 basis point December hike on the table."
+why_it_matters: "This is the last CPI report before the December 8 to 9 FOMC meeting, the November report is not due until December 10, and a 10 year yield above 5 percent says the bond market is now pricing the stronger tightening path Waller described, not just a single December move."
 featured: true
 evidence_grade: "A"
 sources:
@@ -26,12 +26,18 @@ sources:
     publisher: "CNBC, via AmeriLedger"
     url: "https://ameriledger.com/article/treasury-yields-edge-higher-as-traders-await-cpi-inflation-data"
     published: "2026-11-10"
+  - title: "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+    published: "2026-11-10"
 tags: []
-data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. Post-release yields are CNBC reporting read via AmeriLedger on November 10, 2026, in the update below."
+data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. Post-release yields are CNBC reporting read via AmeriLedger on November 10, 2026, in the update below. Afternoon yields are CNBC reporting read in full on November 10, 2026, in the Latest update."
 update_bump: true
 ---
 
-Latest: Treasury yields jumped after the release. The two year yield climbed more than 15 basis points to 4.698 percent and the 10 year yield rose more than 7 basis points to 4.938 percent, CNBC reported, with the 30 year yield up more than 3 basis points at 5.29 percent. Markets had already largely priced in a 25 basis point December hike before the print, according to CME FedWatch data cited by CNBC, so the post-release move was concentrated at the front end, where a 50 basis point debate would be priced.
+Latest: The selloff extended into the afternoon and the 10 year Treasury yield crossed 5 percent, trading at 5.004 percent, up more than 14 basis points on the day, CNBC reported. The two year yield rose more than 19 basis points to 4.748 percent and the 30 year yield rose more than 11 basis points to 5.367 percent. The 10 year last traded above 5 percent earlier in November, and a December hike remains the market's base case in CME FedWatch pricing cited by CNBC, with strategists now discussing whether stubborn inflation pushes further hikes into 2027.
+
+Earlier: Treasury yields jumped after the release. The two year yield climbed more than 15 basis points to 4.698 percent and the 10 year yield rose more than 7 basis points to 4.938 percent, CNBC reported, with the 30 year yield up more than 3 basis points at 5.29 percent. Markets had already largely priced in a 25 basis point December hike before the print, according to CME FedWatch data cited by CNBC, so the post-release move was concentrated at the front end, where a 50 basis point debate would be priced.
 
 US consumer prices rose 0.4 percent in October on a seasonally adjusted basis, after a 0.6 percent increase in September, and prices excluding food and energy rose 0.3 percent, as they did in September and August, the Bureau of Labor Statistics reported on Tuesday. Both readings came in a tenth of a point above the consensus forecast, which looked for 0.3 percent on headline and 0.2 percent on core. A third consecutive core month at 0.3 percent is a run rate near 3.7 percent annualised, well above the Federal Reserve's 2 percent goal, and it arrived with no softening in the components the Fed watches most closely.
 
