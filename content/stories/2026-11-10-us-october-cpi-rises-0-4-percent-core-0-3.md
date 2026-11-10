@@ -1,7 +1,7 @@
 ---
 title: "US consumer prices rise 0.4 percent in October, core 0.3"
 date: 2026-11-10T08:47:57-05:00
-last_updated: 2026-11-10T08:47:57-05:00
+last_updated: 2026-11-10T09:07:21-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
@@ -22,10 +22,16 @@ sources:
     publisher: "Dow Jones Newswires via Morningstar"
     url: "https://www.morningstar.com/news/dow-jones/202611102962/treasury-yields-turn-higher-on-feds-waller-comments-eurozone-bond-yields-fall-2nd-update"
     published: "2026-11-10"
+  - title: "Treasury yields jump after hotter than expected October CPI"
+    publisher: "CNBC, via AmeriLedger"
+    url: "https://ameriledger.com/article/treasury-yields-edge-higher-as-traders-await-cpi-inflation-data"
+    published: "2026-11-10"
 tags: []
-data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. No post-release market pricing figure was verified in this run."
+data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. Post-release yields are CNBC reporting read via AmeriLedger on November 10, 2026, in the update below."
 update_bump: true
 ---
+
+Latest: Treasury yields jumped after the release. The two year yield climbed more than 15 basis points to 4.698 percent and the 10 year yield rose more than 7 basis points to 4.938 percent, CNBC reported, with the 30 year yield up more than 3 basis points at 5.29 percent. Markets had already largely priced in a 25 basis point December hike before the print, according to CME FedWatch data cited by CNBC, so the post-release move was concentrated at the front end, where a 50 basis point debate would be priced.
 
 US consumer prices rose 0.4 percent in October on a seasonally adjusted basis, after a 0.6 percent increase in September, and prices excluding food and energy rose 0.3 percent, as they did in September and August, the Bureau of Labor Statistics reported on Tuesday. Both readings came in a tenth of a point above the consensus forecast, which looked for 0.3 percent on headline and 0.2 percent on core. A third consecutive core month at 0.3 percent is a run rate near 3.7 percent annualised, well above the Federal Reserve's 2 percent goal, and it arrived with no softening in the components the Fed watches most closely.
 
