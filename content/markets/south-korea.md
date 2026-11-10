@@ -2,14 +2,14 @@
 title: "South Korea"
 date: "2026-11-10"
 lede: "Benchmark index, country ETF, currency and sovereign yields for South Korea, refreshed every 15 minutes."
-data_as_of: "Nov 10, 9:42 AM ET"
+data_as_of: "Nov 10, 9:53 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 10, 9:42 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 10, 9:53 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>KOSPI (index)</td><td class="num">5,239 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="up">+4.39%</span></td><td class="num"><span class="down">-7.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,8.1 9.1,8.6 13.7,16.6 18.3,14.6 22.9,12.8 27.4,16.6 32.0,13.4 36.6,16.9 41.1,16.7 45.7,18.1 50.3,15.1 54.9,8.5 59.4,9.8 64.0,13.5 68.6,11.2 73.1,14.9 77.7,14.3 82.3,19.6 86.9,25.3 91.4,26.0 96.0,22.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI South Korea (EWY)</td><td class="num">$140.34 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="down">-1.24%</span></td><td class="num"><span class="down">-9.49%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.2 9.1,8.4 13.7,10.7 18.3,14.3 22.9,10.4 27.4,12.1 32.0,10.3 36.6,15.1 41.1,13.8 45.7,12.9 50.3,9.9 54.9,4.6 59.4,7.2 64.0,12.7 68.6,13.5 73.1,11.4 77.7,13.2 82.3,26.0 86.9,22.7 91.4,19.5 96.0,20.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/KRW</td><td class="num">1,342 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="up">+1.50%</span></td><td class="num"><span class="up">+0.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.8 4.6,18.7 9.1,15.1 13.7,15.7 18.3,14.8 22.9,19.2 27.4,21.2 32.0,24.7 36.6,23.8 41.1,23.5 45.7,26.0 50.3,24.2 54.9,23.0 59.4,15.1 64.0,16.5 68.6,23.8 73.1,12.5 77.7,13.6 82.3,15.3 86.9,5.7 91.4,2.0 96.0,14.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI South Korea (EWY)</td><td class="num">$140.71 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="down">-0.97%</span></td><td class="num"><span class="down">-9.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,4.2 9.1,8.4 13.7,10.7 18.3,14.3 22.9,10.4 27.4,12.1 32.0,10.3 36.6,15.1 41.1,13.8 45.7,12.9 50.3,9.9 54.9,4.6 59.4,7.2 64.0,12.7 68.6,13.5 73.1,11.4 77.7,13.2 82.3,26.0 86.9,22.7 91.4,19.5 96.0,20.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/KRW</td><td class="num">1,344 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="up">+1.37%</span></td><td class="num"><span class="up">+0.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.8 4.6,18.7 9.1,15.1 13.7,15.7 18.3,14.8 22.9,19.2 27.4,21.2 32.0,24.7 36.6,23.8 41.1,23.5 45.7,26.0 50.3,24.2 54.9,23.0 59.4,15.1 64.0,16.5 68.6,23.8 73.1,12.5 77.7,13.6 82.3,15.3 86.9,5.7 91.4,2.0 96.0,13.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
