@@ -1,0 +1,38 @@
+---
+title: "US consumer prices rise 0.4 percent in October, core 0.3"
+date: 2026-11-10T08:47:57-05:00
+last_updated: 2026-11-10T08:47:57-05:00
+beats: ["rates"]
+regions: ["north-america"]
+status: "story"
+lede: "US consumer prices rose 0.4 percent in October and core prices rose 0.3 percent for a third straight month, both a tenth above consensus, landing exactly on the threshold Governor Waller said hours earlier should put a 50 basis point December hike on the table."
+why_it_matters: "This is the last CPI report before the December 8 to 9 FOMC meeting, the November report is not due until December 10, and a third consecutive 0.3 percent core month converts the December debate from whether the Fed hikes to how much."
+featured: true
+evidence_grade: "A"
+sources:
+  - title: "Consumer Price Index, October 2026 (USDL-26-1685)"
+    publisher: "US Bureau of Labor Statistics"
+    url: "https://www.bls.gov/news.release/cpi.nr0.htm"
+    published: "2026-11-10"
+  - title: "The Economic Outlook and Some Thoughts on Labor Market Dynamism"
+    publisher: "Federal Reserve Board"
+    url: "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm"
+    published: "2026-11-10"
+  - title: "Treasury Yields Turn Higher on Fed's Waller Comments"
+    publisher: "Dow Jones Newswires via Morningstar"
+    url: "https://www.morningstar.com/news/dow-jones/202611102962/treasury-yields-turn-higher-on-feds-waller-comments-eurozone-bond-yields-fall-2nd-update"
+    published: "2026-11-10"
+tags: []
+data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. No post-release market pricing figure was verified in this run."
+update_bump: true
+---
+
+US consumer prices rose 0.4 percent in October on a seasonally adjusted basis, after a 0.6 percent increase in September, and prices excluding food and energy rose 0.3 percent, as they did in September and August, the Bureau of Labor Statistics reported on Tuesday. Both readings came in a tenth of a point above the consensus forecast, which looked for 0.3 percent on headline and 0.2 percent on core. A third consecutive core month at 0.3 percent is a run rate near 3.7 percent annualised, well above the Federal Reserve's 2 percent goal, and it arrived with no softening in the components the Fed watches most closely.
+
+Shelter rose 0.3 percent and accounted for over thirty percent of the monthly all items increase, with owners' equivalent rent up 0.3 percent and rent up 0.2 percent. Food rose 0.5 percent, with food at home up 0.4 percent and food away from home up 0.5 percent. Energy rose 0.7 percent after September's 5.2 percent jump, as gasoline rose 1.0 percent on a seasonally adjusted basis and electricity rose 0.9 percent, while piped gas fell 0.8 percent. Used cars and trucks fell 1.2 percent, reversing September's 0.7 percent rise, and communication fell 0.1 percent. Recreation rose 0.8 percent, motor vehicle insurance 0.7 percent, transportation services 0.8 percent, and medical care 0.3 percent.
+
+The release carries no official twelve month rate for the headline or core indexes. The Bureau did not collect survey data for October 2025 because of a lapse in appropriations, so it cannot publish twelve month percent changes for October 2026 for the indexes where the year ago data are unavailable. In Table A the twelve month column is blank for almost every series; gasoline, at 37.4 percent, new vehicles, at 0.7 percent, and used cars and trucks, at minus 3.3 percent, are the exceptions where a year ago index exists.
+
+The print lands on a threshold named before it arrived. Governor Christopher Waller, in a speech published this morning and covered in full on this site, said he is leaning toward supporting a 25 basis point increase at the December meeting even if October inflation improved, and that if the October data repeated the recent pattern, with core inflation around 0.3 percent or higher, a stronger move should be considered, because hiking only 25 would put the Fed's credibility at risk. Core printed at exactly 0.3 percent. Before the release, Waller's remarks had already pushed money market pricing to a 98 percent probability of a 25 basis point December hike, up from 84 percent, according to LSEG data reported by Dow Jones, and the two year Treasury yield had risen 6.7 basis points to 4.613 percent on Tuesday morning, with the 10 year up 2.4 basis points to 4.885 percent, according to Tradeweb.
+
+There is no further CPI report before the FOMC meets on December 8 to 9: the Bureau has scheduled the November release for Thursday December 10, the day after the meeting ends. The committee will have the November employment report, due December 4, and little else of this weight. The next market test comes sooner, at 1:00 p.m. today, when the Treasury sells 42 billion dollars of 10 year notes into a front end that is now debating 50.

@@ -1,12 +1,13 @@
 ---
 title: "December Fed hike priced near four in five"
 date: 2026-11-08T07:12:56-05:00
-last_updated: 2026-11-10T07:02:40-05:00
+last_updated: 2026-11-10T08:47:57-05:00
+update_bump: true
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
-lede: "December hike odds rose to 84.2 percent on Monday as the two year yield climbed 5 basis points to 4.56 percent, hours before Governor Waller backed a December increase and put a 50 basis point move on the table if today's core CPI prints at 0.3 percent or higher."
-why_it_matters: "The December meeting is now priced as a hike unless the data break, which makes Tuesday's October CPI print and this week's 125 billion dollars of refunding auctions the two tests that can move the front end before the Fed decides."
+lede: "October core CPI rose 0.3 percent for a third straight month, exactly the reading Governor Waller said should put a 50 basis point December hike on the table, after money markets had already moved to a 98 percent probability of a quarter point move on Tuesday morning."
+why_it_matters: "The December question is no longer whether the Fed hikes but by how much, and with no further CPI report due before the December 8 to 9 meeting, the argument now turns on whether Waller's case for 50 wins support across the committee."
 featured: true
 evidence_grade: "B"
 sources:
@@ -30,9 +31,19 @@ sources:
     publisher: "FXStreet"
     url: "https://www.fxstreet.com/analysis/hawks-fly-in-as-feds-waller-puts-50bps-hike-on-table-and-ecbs-lane-backs-hike-202611101041"
     published: "2026-11-10"
+  - title: "Consumer Price Index, October 2026 (USDL-26-1685)"
+    publisher: "US Bureau of Labor Statistics"
+    url: "https://www.bls.gov/news.release/cpi.nr0.htm"
+    published: "2026-11-10"
+  - title: "Treasury Yields Turn Higher on Fed's Waller Comments"
+    publisher: "Dow Jones Newswires via Morningstar"
+    url: "https://www.morningstar.com/news/dow-jones/202611102962/treasury-yields-turn-higher-on-feds-waller-comments-eurozone-bond-yields-fall-2nd-update"
+    published: "2026-11-10"
 tags: []
-data_as_of: "Tuesday November 10, 2026 update: Monday pricing at 84.2 percent and the two year at 4.56 percent as reported by FXStreet on November 10; Monday November 9 closes from this site's market tables (5Y 4.66 percent, 10Y 4.86 percent, 30Y 5.26 percent); earlier vintages as previously stated: Monday November 9 morning Tradeweb levels via Dow Jones with LSEG pricing at 78 percent, Friday November 6 close pricing from CME FedWatch as reported by two independent reports, refunding schedule from the Treasury statement of November 4, 2026."
+data_as_of: "Tuesday November 10, 2026 update: Monday pricing at 84.2 percent and the two year at 4.56 percent as reported by FXStreet on November 10; Monday November 9 closes from this site's market tables (5Y 4.66 percent, 10Y 4.86 percent, 30Y 5.26 percent); earlier vintages as previously stated: Monday November 9 morning Tradeweb levels via Dow Jones with LSEG pricing at 78 percent, Friday November 6 close pricing from CME FedWatch as reported by two independent reports, refunding schedule from the Treasury statement of November 4, 2026. November 10, 8:30 a.m. update: October CPI figures from the Bureau of Labor Statistics release USDL-26-1685, read in full in this run; Tuesday morning pre-release pricing at a 98 percent probability of a 25 basis point hike and the two year at 4.613 percent are Dow Jones reporting of LSEG and Tradeweb data, before the release; no post-release pricing figure was verified in this run."
 ---
+
+Latest: The October CPI print landed on the hawkish side of every marker set for it. Headline prices rose 0.4 percent and core prices rose 0.3 percent for a third straight month, the Bureau of Labor Statistics reported at 8:30 a.m., against consensus of 0.3 and 0.2 percent, with shelter up 0.3 percent and accounting for over thirty percent of the monthly increase, in the full CPI story published today. Core at 0.3 percent is exactly the reading Governor Waller said this morning should put a 50 basis point December move on the table. Pricing had already moved before the data: after Waller's speech, money markets put a 98 percent probability on a 25 basis point December hike, up from 84 percent, according to LSEG data reported by Dow Jones, and the two year yield rose 6.7 basis points to 4.613 percent on Tuesday morning, with the 10 year up 2.4 basis points to 4.885 percent, according to Tradeweb. No CPI report follows before the meeting; the November release is scheduled for December 10, the day after the FOMC ends.
 
 The market goes into the new week treating a December Federal Reserve rate increase as the base case. Futures pricing put the chance of a quarter point hike at the December 8 to 9 meeting at about 77 percent after Friday's employment report, according to CME FedWatch data reported by HedgeWeekly, and Reuters reporting put the figure at about 78 percent on Friday afternoon, up from 66.9 percent the day before. A December move would lift the target range from 3.75 to 4.00 percent to 4.00 to 4.25 percent.
 
