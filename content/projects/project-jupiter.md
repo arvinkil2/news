@@ -1,6 +1,6 @@
 ---
 title: "Project Jupiter"
-date: "2026-11-08"
+date: "2026-11-10"
 lede: "Oracle's 2.5 GW campus in Doña Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power."
 data_as_of: "2026-11-05"
 ---
