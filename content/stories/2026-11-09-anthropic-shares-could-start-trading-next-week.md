@@ -1,16 +1,20 @@
 ---
-title: "Anthropic shares could start trading next week"
+title: "Anthropic files IPO price range of $70 to $78"
 date: 2026-11-09T17:08:52-05:00
-last_updated: 2026-11-10T06:43:18-05:00
+last_updated: 2026-11-10T08:24:26-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Anthropic's updated draft IPO prospectus points to a raise of as much as 64.4 billion dollars, Reuters reported, replacing the circulated figures the company disowned on Monday as inaccurate."
-why_it_matters: "The listing would be the largest initial public offering on record and the first market test of a pure-play AI model company at a trillion dollar scale, landing in the middle of a sharp selloff in AI stocks."
+lede: "Anthropic put its IPO terms on file with the SEC on Tuesday, offering 825 million shares at an estimated $70 to $78 each, for up to $64.35 billion, alongside a $26 billion private placement to seven strategic investors."
+why_it_matters: "The filed terms settle a week of conflicting drafts: at $78 the offering values the company near $1 trillion on shares outstanding, with a $26 billion side placement from Google, Nvidia, Microsoft and others, and pricing now decides whether the largest IPO on record clears in mid November."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Anthropic, PBC, Amendment No. 2 to Form S-1, filed November 10, 2026 (accession 0001628280-26-072484)"
+    publisher: "Anthropic, PBC (SEC EDGAR)"
+    url: "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+    published: "2026-11-10"
   - title: "Exclusive: Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows"
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows-5014665"
@@ -32,11 +36,17 @@ sources:
     url: "https://techxplore.com/news/2026-11-anthropic-ipo-ambitions-investors-balk.html?deviceType=mobile"
     published: "2026-11-06"
 tags: []
-data_as_of: "Seeking Alpha report of November 9, 2026, read in full, carrying The Wall Street Journal's report that trading could begin next week, possibly on the Thursday or Friday; Investing.com carried the same Journal report the same day. Background from AFP reporting of November 6, 2026 on the Journal's earlier account of the offering plan and investor pushback on valuation. Updated November 9, 2026 with Reuters' report the same day, read via Investing.com, that Anthropic aims to raise up to 69.3 billion dollars according to a copy of a filing Reuters saw. The timing rests on the Journal's sourcing; Anthropic had not commented in the reports read. Updated November 9, 2026, with Reuters' report the same day, read in full via Investing.com, that Anthropic emailed bankers saying the pricing details in the circulated filing copy were inaccurate and an updated filing would be provided later; no corrected figures were given. Updated November 10, 2026, with Reuters' report the same day, read in full via Investing.com, that the latest draft prospectus points to a raise of as much as 64.4 billion dollars with an indicative price band of 70 to 78 dollars a share. A longer Reuters version of the same report sits behind an Investing.com sign-in wall; preview text captured from it carried a 75 to 80 dollar band and an 805 million share count that could not be reconciled with the version read in full, so the band stated here follows the fully read version. Developing item."
+data_as_of: "Seeking Alpha report of November 9, 2026, read in full, carrying The Wall Street Journal's report that trading could begin next week, possibly on the Thursday or Friday; Investing.com carried the same Journal report the same day. Background from AFP reporting of November 6, 2026 on the Journal's earlier account of the offering plan and investor pushback on valuation. Updated November 9, 2026 with Reuters' report the same day, read via Investing.com, that Anthropic aims to raise up to 69.3 billion dollars according to a copy of a filing Reuters saw. The timing rests on the Journal's sourcing; Anthropic had not commented in the reports read. Updated November 9, 2026, with Reuters' report the same day, read in full via Investing.com, that Anthropic emailed bankers saying the pricing details in the circulated filing copy were inaccurate and an updated filing would be provided later; no corrected figures were given. Updated November 10, 2026, with Reuters' report the same day, read in full via Investing.com, that the latest draft prospectus points to a raise of as much as 64.4 billion dollars with an indicative price band of 70 to 78 dollars a share. A longer Reuters version of the same report sits behind an Investing.com sign-in wall; preview text captured from it carried a 75 to 80 dollar band and an 805 million share count that could not be reconciled with the version read in full, so the band stated here follows the fully read version. Updated November 10, 2026 with Anthropic's own Amendment No. 2 to Form S-1, filed that day with the SEC (accession 0001628280-26-072484) and read in full from the filings lane copy in this run; every figure in the latest update is from the filing itself, except the fully diluted valuation, which is CNBC's calculation from the filing. Developing item."
 update_bump: true
 ---
 
-**Latest.** Anthropic's latest draft prospectus points to an initial public offering raising as much as 64.4 billion dollars, Reuters reported on Tuesday, as the company gears up to launch marketing of the deal. The draft shows the company and some of its investors selling shares in an indicative band of 70 to 78 dollars a share, and deal details are expected to be announced soon. Anthropic did not respond immediately to a request for comment. The updated draft replaces the circulated copy whose pricing the company disowned on Monday; that copy had pointed to a raise of as much as 69.3 billion dollars.
+**Latest.** Anthropic filed the terms with the Securities and Exchange Commission on Tuesday. Amendment No. 2 to its Form S-1 offers 825,000,000 Class A shares at an estimated price of $70.00 to $78.00 a share. Anthropic itself sells 801,351,354 of the shares and selling stockholders sell 23,648,646, so at $78 the offering raises up to $64.35 billion in gross proceeds, about $62.5 billion of it to the company, before any exercise of the underwriters' option to buy a further 123,750,000 shares. The stock is to list on the Nasdaq Global Select Market under the symbol ANT, with Goldman Sachs, Morgan Stanley and J.P. Morgan at the head of a 22 bank syndicate.
+
+Alongside the public offering, seven strategic investors have agreed to buy $26.0 billion of non-voting Class N stock in a private placement at the IPO price: Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, Nvidia and TSMC Partners. The placement is contingent on the offering and is scheduled to close immediately after it. At $78, the shares outstanding after the offering and the placement value the company at about $1.02 trillion, and CNBC calculates up to $1.405 trillion on a fully diluted basis, above the $965 billion mark set in its May financing and well below the $1.5 trillion to $2 trillion discussed in October.
+
+The filing also fixes the financial base the price rests on. Revenue for the nine months ended September 30, 2026 was $33.242 billion, against $2.545 billion in the same period a year earlier, and the operating loss narrowed to $1.26 billion from $5.224 billion. The price range is an estimate in a preliminary prospectus, not a final price: it is set after the roadshow, and reports continue to point to pricing and a first trade in mid November.
+
+**Earlier.** Anthropic's latest draft prospectus points to an initial public offering raising as much as 64.4 billion dollars, Reuters reported on Tuesday, as the company gears up to launch marketing of the deal. The draft shows the company and some of its investors selling shares in an indicative band of 70 to 78 dollars a share, and deal details are expected to be announced soon. Anthropic did not respond immediately to a request for comment. The updated draft replaces the circulated copy whose pricing the company disowned on Monday; that copy had pointed to a raise of as much as 69.3 billion dollars.
 
 **Earlier.** Anthropic has retracted the pricing information in the copy of its IPO filing circulated to bankers, Reuters reported on Monday, citing emails it had seen. The company emailed bankers that the pricing details were inaccurate and that an updated filing would be provided later. The retracted copy had pointed to an offering of about 867 million shares at 70 to 80 dollars apiece, raising as much as 69.3 billion dollars, the figure carried in this story's previous update. No corrected share count, price range or raise size was given.
 
