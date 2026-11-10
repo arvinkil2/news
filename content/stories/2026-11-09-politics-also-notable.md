@@ -1,11 +1,11 @@
 ---
 title: "Politics also notable: OFAC notice, Qatar mediation, Abu Dhabi talks"
 date: 2026-11-09T07:11:56-05:00
-last_updated: 2026-11-09T20:07:04-05:00
+last_updated: 2026-11-10T04:47:05-05:00
 beats: ["politics"]
 regions: ["north-america", "middle-east"]
 status: "story"
-lede: "OFAC published a notice updating secondary sanctions information on Iran linked names, Qatar's prime minister is due at the White House on Monday as the Iran mediation channel, and the Russia Ukraine US trilateral talks open in Abu Dhabi on Tuesday."
+lede: "OFAC published a notice updating secondary sanctions information on Iran linked names, Qatar's prime minister is due at the White House on Monday as the Iran mediation channel, and the Russia Ukraine US trilateral talks opened in Abu Dhabi on Tuesday."
 why_it_matters: "Each item is a small administrative or diplomatic step inside a larger live file: the sanctions perimeter around Iran, the only working channel toward ending the Iran war, and the next scheduled test of the Ukraine track."
 featured: false
 evidence_grade: "B"
@@ -26,10 +26,16 @@ sources:
     publisher: "BBC"
     url: "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
     published: "2026-11-09"
+  - title: "US, Russia and Ukraine start talks in Abu Dhabi"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232"
+    published: "2026-11-10"
 tags: []
-data_as_of: "OFAC notice published in the Federal Register of November 9, 2026, read in full in this run; the underlying OFAC action is dated November 4, 2026. OFAC Iran designation update of November 9, 2026, read in full the same day. Qatar prime minister visit and Abu Dhabi talks are scheduled events as reported November 8, 2026; neither had taken place at the time of writing. Updated November 9, 2026, 20:07 Toronto, with the BBC report of November 9, 2026, read in full via the estate browser route, for the Abu Dhabi delegation lists, the US officials' account of private flexibility on territory, and the proposed security architecture framework; the flexibility account is the US officials' own characterisation, carried as such, and neither side has shifted its public position."
+data_as_of: "OFAC notice published in the Federal Register of November 9, 2026, read in full in this run; the underlying OFAC action is dated November 4, 2026. OFAC Iran designation update of November 9, 2026, read in full the same day. Qatar prime minister visit and Abu Dhabi talks are scheduled events as reported November 8, 2026; neither had taken place at the time of writing. Updated November 9, 2026, 20:07 Toronto, with the BBC report of November 9, 2026, read in full via the estate browser route, for the Abu Dhabi delegation lists, the US officials' account of private flexibility on territory, and the proposed security architecture framework; the flexibility account is the US officials' own characterisation, carried as such, and neither side has shifted its public position. Updated November 10, 2026, with Deutsche Welle's live coverage of November 10, 2026, read in full via the estate browser route, for the start of the talks and the expanded first meeting format; the report of the start rests on a Kremlin source via TASS and on Ukrainian delegation head Rustem Umerov's own Telegram post, carried as the parties' accounts, and no outcome had been announced in the coverage read. The European Commission statement on the meeting (statement_26_2390) could not be read: the Commission press page returned no text on two routes, so no point in this update rests on it."
 update_bump: true
 ---
+
+Latest: The Abu Dhabi talks have begun. Deutsche Welle's live coverage reported on Tuesday morning that the trilateral talks were under way, with the first meeting held in an expanded format: representatives of the United Kingdom, France, Germany, Italy, NATO and the European Commission joined US special envoys Steve Witkoff and Jared Kushner, in a session the Ukrainian delegation head, Rustem Umerov, announced on Telegram. No agreement, ceasefire framework or joint statement had been announced in the coverage read.
 
 OFAC published a notice in Monday's Federal Register updating the identifying information of entries on its sanctions lists. The action, dated November 4, applies secondary sanctions information to names associated with the IRAN-EO13902 programme, the executive order covering Iran's construction, mining, manufacturing and textiles sectors. It is an identifier update rather than a new designation round, but it widens the documented exposure of the named parties to secondary sanctions, and the full updated list sits on OFAC's recent actions page. A further OFAC update on Monday made one change to the Iran list: Volta Shipping Services LLC, a Dubai company linked to Mohammad Hossein Shamkhani and designated under the same executive order, now also trades under the name Volta Container Line FZCO, and no new names were designated.
 
