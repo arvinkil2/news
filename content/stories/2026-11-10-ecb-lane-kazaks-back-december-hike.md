@@ -1,12 +1,13 @@
 ---
-title: "Lane and Kazaks build case for December ECB hike"
+title: "Lane, Kazaks and Nagel build case for December ECB hike"
 date: 2026-11-10T07:02:40-05:00
-last_updated: 2026-11-10T07:02:40-05:00
+last_updated: 2026-11-10T12:48:23-05:00
+update_bump: true
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "ECB chief economist Philip Lane said on Tuesday that a December rate increase would be prudent if the data hold, and Governing Council member Martins Kazaks said another hike may be needed, as euro area inflation rose to 4.0 percent in October."
-why_it_matters: "With the deposit rate at 2.50 percent after hikes in June and September, the ECB's chief economist pre-committing to December puts a third hike this year on the same footing as the Fed's, in the same fortnight."
+lede: "Bundesbank President Joachim Nagel said on Tuesday that a December ECB rate increase is \"rather obvious\", joining chief economist Philip Lane and Governing Council member Martins Kazaks in backing a third hike this year, as euro area inflation rose to 4.0 percent in October."
+why_it_matters: "With the deposit rate at 2.50 percent after hikes in June and September, the ECB's chief economist and its most influential national governor now both pre-commit to December, putting a third hike this year on the same footing as the Fed's, in the same fortnight."
 featured: true
 evidence_grade: "B"
 sources:
@@ -26,9 +27,15 @@ sources:
     publisher: "FXStreet"
     url: "https://www.fxstreet.com/analysis/hawks-fly-in-as-feds-waller-puts-50bps-hike-on-table-and-ecbs-lane-backs-hike-202611101041"
     published: "2026-11-10"
+  - title: "ECB's Nagel calls December rate hike obvious despite energy relief"
+    publisher: "FXStreet (reporting Bloomberg TV)"
+    url: "https://www.fxstreet.com/news/ecbs-nagel-calls-december-rate-hike-obvious-despite-energy-relief-202611101525"
+    published: "2026-11-10"
 tags: []
-data_as_of: "Lane and Kazaks remarks of Tuesday November 10, 2026, reported by Reuters and Bloomberg the same day; euro area HICP for October 2026 from Statistics Netherlands (CBS) release of November 10, 2026."
+data_as_of: "Lane and Kazaks remarks of Tuesday November 10, 2026, reported by Reuters and Bloomberg the same day; euro area HICP for October 2026 from Statistics Netherlands (CBS) release of November 10, 2026. November 10, 12:48 p.m. update: Nagel's Bloomberg TV interview of November 10, 2026 as reported by FXStreet and Bloomberg, read in full in this run; Nagel first set out the December case on November 3."
 ---
+
+Latest: Bundesbank President Joachim Nagel hardened the December case on Tuesday, telling Bloomberg Television that "it is rather obvious that we have to increase in December" and that the ECB will do what is needed to return inflation to 2 percent. Nagel, who on November 3 called a December hike very likely necessary, said the drop in energy prices since the US midterm elections is good news but that market expectations do not drive the Governing Council's decisions, and he said he sees no risk of fiscal dominance, adding that France must look at its own fiscal challenges. His wording is the strongest public commitment yet from a national governor, and it lands the same day Lane and Kazaks made the case from the chief economist's office and Riga.
 
 The European Central Bank's December meeting acquired a public sponsor on Tuesday. Chief economist Philip Lane told Bloomberg Television that if the information set in December is exactly the same as today, it would be prudent to hike, warning that there will be more to come in terms of peak inflation. A December move would be the ECB's third increase this year, after quarter point rises in June and September took the deposit rate to 2.50 percent.
 
