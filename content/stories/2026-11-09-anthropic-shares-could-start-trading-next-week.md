@@ -1,16 +1,20 @@
 ---
 title: "Anthropic shares could start trading next week"
 date: 2026-11-09T17:08:52-05:00
-last_updated: 2026-11-09T22:05:42-05:00
+last_updated: 2026-11-10T06:43:18-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Anthropic has told bankers the pricing details in a circulated copy of its IPO filing were inaccurate and an updated filing will follow, Reuters reported, casting doubt on the 69.3 billion dollar raise the copy pointed to."
+lede: "Anthropic's updated draft IPO prospectus points to a raise of as much as 64.4 billion dollars, Reuters reported, replacing the circulated figures the company disowned on Monday as inaccurate."
 why_it_matters: "The listing would be the largest initial public offering on record and the first market test of a pure-play AI model company at a trillion dollar scale, landing in the middle of a sharp selloff in AI stocks."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Exclusive: Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows-5014665"
+    published: "2026-11-10"
   - title: "Anthropic to begin trading next week: report"
     publisher: "Seeking Alpha"
     url: "https://seekingalpha.com/news/4669291-anthropic-to-begin-trading-next-week-report"
@@ -28,11 +32,13 @@ sources:
     url: "https://techxplore.com/news/2026-11-anthropic-ipo-ambitions-investors-balk.html?deviceType=mobile"
     published: "2026-11-06"
 tags: []
-data_as_of: "Seeking Alpha report of November 9, 2026, read in full, carrying The Wall Street Journal's report that trading could begin next week, possibly on the Thursday or Friday; Investing.com carried the same Journal report the same day. Background from AFP reporting of November 6, 2026 on the Journal's earlier account of the offering plan and investor pushback on valuation. Updated November 9, 2026 with Reuters' report the same day, read via Investing.com, that Anthropic aims to raise up to 69.3 billion dollars according to a copy of a filing Reuters saw. The timing rests on the Journal's sourcing; Anthropic had not commented in the reports read. Updated November 9, 2026, with Reuters' report the same day, read in full via Investing.com, that Anthropic emailed bankers saying the pricing details in the circulated filing copy were inaccurate and an updated filing would be provided later; no corrected figures were given. Developing item."
+data_as_of: "Seeking Alpha report of November 9, 2026, read in full, carrying The Wall Street Journal's report that trading could begin next week, possibly on the Thursday or Friday; Investing.com carried the same Journal report the same day. Background from AFP reporting of November 6, 2026 on the Journal's earlier account of the offering plan and investor pushback on valuation. Updated November 9, 2026 with Reuters' report the same day, read via Investing.com, that Anthropic aims to raise up to 69.3 billion dollars according to a copy of a filing Reuters saw. The timing rests on the Journal's sourcing; Anthropic had not commented in the reports read. Updated November 9, 2026, with Reuters' report the same day, read in full via Investing.com, that Anthropic emailed bankers saying the pricing details in the circulated filing copy were inaccurate and an updated filing would be provided later; no corrected figures were given. Updated November 10, 2026, with Reuters' report the same day, read in full via Investing.com, that the latest draft prospectus points to a raise of as much as 64.4 billion dollars with an indicative price band of 70 to 78 dollars a share. A longer Reuters version of the same report sits behind an Investing.com sign-in wall; preview text captured from it carried a 75 to 80 dollar band and an 805 million share count that could not be reconciled with the version read in full, so the band stated here follows the fully read version. Developing item."
 update_bump: true
 ---
 
-**Latest.** Anthropic has retracted the pricing information in the copy of its IPO filing circulated to bankers, Reuters reported on Monday, citing emails it had seen. The company emailed bankers that the pricing details were inaccurate and that an updated filing would be provided later. The retracted copy had pointed to an offering of about 867 million shares at 70 to 80 dollars apiece, raising as much as 69.3 billion dollars, the figure carried in this story's previous update. No corrected share count, price range or raise size was given.
+**Latest.** Anthropic's latest draft prospectus points to an initial public offering raising as much as 64.4 billion dollars, Reuters reported on Tuesday, as the company gears up to launch marketing of the deal. The draft shows the company and some of its investors selling shares in an indicative band of 70 to 78 dollars a share, and deal details are expected to be announced soon. Anthropic did not respond immediately to a request for comment. The updated draft replaces the circulated copy whose pricing the company disowned on Monday; that copy had pointed to a raise of as much as 69.3 billion dollars.
+
+**Earlier.** Anthropic has retracted the pricing information in the copy of its IPO filing circulated to bankers, Reuters reported on Monday, citing emails it had seen. The company emailed bankers that the pricing details were inaccurate and that an updated filing would be provided later. The retracted copy had pointed to an offering of about 867 million shares at 70 to 80 dollars apiece, raising as much as 69.3 billion dollars, the figure carried in this story's previous update. No corrected share count, price range or raise size was given.
 
 **Earlier on Monday.** Anthropic was aiming to raise as much as 69.3 billion dollars in the offering, according to a copy of a filing seen by Reuters on Monday, a figure below the up to 100 billion dollars reported earlier in the process and one that would still rank among the largest initial public offerings on record.
 
