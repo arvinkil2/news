@@ -2,10 +2,10 @@
 title: "Spain"
 date: "2026-11-10"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed every 15 minutes."
-data_as_of: "Nov 9, 9:08 PM ET"
+data_as_of: "Nov 9, 9:10 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 9, 9:08 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 9, 9:10 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>IBEX 35 (index)</td><td class="num">19,370 <span class="gm-sub-inline">as of 2026-11-06, stale</span></td><td class="num"><span class="down">-0.60%</span></td><td class="num"><span class="up">+3.84%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.0 4.8,7.8 9.6,9.9 14.4,9.4 19.2,10.9 24.0,6.6 28.8,14.9 33.6,13.3 38.4,6.7 43.2,18.5 48.0,16.3 52.8,15.0 57.6,11.4 62.4,19.4 67.2,20.1 72.0,26.0 76.8,17.2 81.6,21.6 86.4,5.3 91.2,2.0 96.0,5.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Spain (EWP)</td><td class="num">$57.86 <span class="gm-sub-inline">as of 2026-11-06, stale</span></td><td class="num"><span class="down">-1.25%</span></td><td class="num"><span class="up">+2.72%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.9 5.1,8.3 10.1,12.1 15.2,8.1 20.2,8.9 25.3,17.2 30.3,10.7 35.4,7.6 40.4,15.6 45.5,15.8 50.5,18.0 55.6,13.9 60.6,21.8 65.7,19.7 70.7,26.0 75.8,18.9 80.8,20.9 85.9,2.0 90.9,6.1 96.0,12.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
