@@ -1,13 +1,13 @@
 ---
-title: "Mississippi Senate race uncalled with under 2,000 votes in it"
+title: "Colom defeats Hyde-Smith in Mississippi Senate upset"
 date: 2026-11-07T07:14:03-05:00
-last_updated: 2026-11-07T07:14:03-05:00
+last_updated: 2026-11-11T18:43:17-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "story"
-lede: "Democrat Scott Colom led Republican Senator Cindy Hyde Smith by 1,936 votes after Friday morning's Bolivar County count, with the Mississippi Senate race still uncalled and thousands of affidavit and mail ballots left to resolve before county certification on November 13."
-why_it_matters: "This is the last Senate seat that can still move, and its affidavit ballot fight, over voters listed inactive on the rolls, is now the template both parties will argue from when the new Senate's majority is finally fixed."
-featured: false
+lede: "Democrat Scott Colom has won Mississippi's Senate race after Republican Senator Cindy Hyde-Smith conceded on Wednesday evening, with Colom ahead 49.18 percent to 48.72 percent on Decision Desk HQ's tally at 95 percent counted."
+why_it_matters: "Colom is the first Democrat to win a Mississippi Senate seat since 1982 and the state's first Black senator in more than 140 years, and his win is the eighth Republican Senate seat Democrats have flipped in these midterms, widening their new majority with only Alaska still undecided."
+featured: true
 evidence_grade: "B"
 sources:
   - title: "Mississippi Senate race stays uncalled as Colom leads"
@@ -26,8 +26,27 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/"
     published: "2026-11-07"
+  - title: "Mississippi Senate stunner: Hyde-Smith concedes to Democrat Scott Colom"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/"
+    published: "2026-11-11"
+  - title: "Democrat Scott Colom wins closely watched US Senate race in Mississippi"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Election day November 3, 2026; count as reported Friday November 6, 2026, about 96 to 97 percent of votes counted. Published margins differ by tally and hour: 1,822 votes on Thursday afternoon, 1,936 after Bolivar County on Friday morning, and about 2,500 in one Friday report; this story leads with the sourced Friday morning figure and does not average the tallies. The number of outstanding affidavit ballots is itself disputed: estimates run from about 10,000 to about 20,000, and no official total exists. The Associated Press has not called the race."
+data_as_of: "Updated November 11, 2026: Hyde-Smith concession video Wednesday evening and Decision Desk HQ projection as reported by The Hill (Colom 49.18 percent, Hyde-Smith 48.72 percent, 95 percent tallied); result and historical framing corroborated by Al Jazeera. Counties must still certify results by November 13, and a legal challenge remains possible. Earlier count detail below is as reported November 6, 2026."
+update_bump: true
+---
+
+## Latest
+
+The race is over. Republican Senator Cindy Hyde-Smith conceded on Wednesday evening in a video posted to social media, saying she respected the decision of Mississippi voters and congratulating Scott Colom. Decision Desk HQ projected Colom the winner shortly after the concession, with 95 percent of the vote tallied: Colom at 49.18 percent and Hyde-Smith at 48.72 percent, a margin of 0.46 percentage points after eight days of counting more than 100,000 mail-in ballots and the state's affidavit ballots.
+
+Colom, a district attorney, becomes the first Democrat to win a Mississippi Senate seat since John Stennis in 1982 and the state's first Black senator in more than 140 years, in a state Donald Trump carried by just over 22 points in 2024. Hyde-Smith had been appointed to the seat in 2018 and won a full term in 2020 by about 10 points; forecasters had rated the seat as almost surely Republican before the election. Her defeat is the eighth Republican Senate seat Democrats have flipped in these midterms, and it leaves Alaska, where Democrat Mary Peltola has pulled ahead of Republican Senator Dan Sullivan, as the last undecided Senate race.
+
+One thread from the count survives the result. Mississippi has no automatic recount procedure, county certification is still due by November 13, and the Senate Republicans' campaign arm had already demanded during the count that officials preserve affidavit ballots and their paperwork, a step Colom's lawyers called unlawful. A court fight over the closest Senate race of the cycle remains possible even after the concession.
+
 ---
 
 Four days after election day, Mississippi's Senate race remains the closest in the country and still uncalled. Democrat Scott Colom, a district attorney, leads incumbent Republican Senator Cindy Hyde Smith by fewer than 2,000 votes, 1,936 after Bolivar County added 184 votes for Colom and 61 for Hyde Smith on Friday morning, leaving Colom on 49.1 percent statewide to 48.8 percent. About 96 to 97 percent of votes have been counted. Independent Ty Pinkins, who said he aimed to draw votes from Hyde Smith and lift Colom, took a small share, including five of the 503 affidavit ballots processed in Oktibbeha County.
