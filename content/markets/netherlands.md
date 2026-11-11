@@ -2,14 +2,14 @@
 title: "Netherlands"
 date: "2026-11-11"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Netherlands, refreshed every 15 minutes."
-data_as_of: "Nov 11, 11:05 AM ET"
+data_as_of: "Nov 11, 11:18 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 11, 11:05 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 11, 11:18 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>AEX (index)</td><td class="num">1,142 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="up">+0.88%</span></td><td class="num"><span class="up">+0.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.9 4.4,16.6 8.7,8.2 13.1,13.1 17.5,2.0 21.8,3.6 26.2,12.0 30.5,2.6 34.9,16.1 39.3,14.1 43.6,12.4 48.0,5.3 52.4,9.9 56.7,2.7 61.1,11.1 65.5,13.1 69.8,24.7 74.2,9.1 78.5,16.7 82.9,26.0 87.3,15.9 91.6,13.2 96.0,2.5" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AEX (index)</td><td class="num">1,144 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="up">+1.01%</span></td><td class="num"><span class="up">+0.67%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.6 4.4,17.0 8.7,9.0 13.1,13.6 17.5,3.0 21.8,4.6 26.2,12.6 30.5,3.6 34.9,16.5 39.3,14.6 43.6,13.0 48.0,6.2 52.4,10.6 56.7,3.7 61.1,11.7 65.5,13.7 69.8,24.8 74.2,9.8 78.5,17.1 82.9,26.0 87.3,16.3 91.6,13.8 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Netherlands (EWN)</td><td class="num">$66.04 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="up">+0.82%</span></td><td class="num"><span class="up">+0.87%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,2.3 8.7,11.4 13.1,9.8 17.5,11.4 21.8,13.3 26.2,10.6 30.5,5.8 34.9,18.0 39.3,21.1 43.6,20.0 48.0,10.2 52.4,5.9 56.7,5.3 61.1,16.5 65.5,17.6 69.8,16.8 74.2,6.9 78.5,26.0 82.9,24.4 87.3,4.8 91.6,6.7 96.0,2.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1101 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="down">-1.08%</span></td><td class="num"><span class="down">-0.95%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.4 4.4,15.4 8.7,7.6 13.1,9.2 17.5,5.9 21.8,3.8 26.2,5.4 30.5,3.4 34.9,2.0 39.3,4.5 43.6,5.0 48.0,12.9 52.4,20.8 56.7,16.1 61.1,11.3 65.5,16.0 69.8,9.7 74.2,7.0 78.5,2.0 82.9,3.3 87.3,17.8 91.6,4.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1100 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="down">-1.09%</span></td><td class="num"><span class="down">-0.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.3 4.4,15.3 8.7,7.5 13.1,9.1 17.5,5.9 21.8,3.8 26.2,5.4 30.5,3.4 34.9,2.0 39.3,4.5 43.6,5.0 48.0,12.8 52.4,20.7 56.7,16.0 61.1,11.2 65.5,15.9 69.8,9.6 74.2,7.0 78.5,2.0 82.9,3.2 87.3,17.6 91.6,4.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
