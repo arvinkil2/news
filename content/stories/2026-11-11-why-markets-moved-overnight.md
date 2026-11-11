@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-11T07:27:45-05:00
-last_updated: 2026-11-11T07:27:45-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-11T12:44:25-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Treasury yields climbed again on the hot October inflation print, the five year up 14.8 basis points, while tanker freight fell 8.08 percent as the Hormuz war premium kept unwinding."
-why_it_matters: "The day's moves run through rates and the post war energy unwind at once, and with US cash markets shut for Veterans Day the next full test is Thursday's 30 year auction and buyback results."
+lede: "Semiconductor shares jumped 7.87 percent by midday and Nvidia rebounded 4.66 percent, reversing much of Tuesday's technology selloff even as the ten year Treasury yield held at 5.00 percent with the cash bond market shut for Veterans Day."
+why_it_matters: "The rebound is happening without any relief in rates, which means investors are buying back the technology trade at Tuesday's lower prices rather than repricing the December hike risk that drove the selloff in the first place."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,15 +15,19 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-11"
 tags: []
-data_as_of: "Market close Tuesday, November 10, 2026"
+data_as_of: "Midday November 11, 2026"
 ---
 
-Treasury yields were the largest rates move in the tables. The five year yield rose 14.8 basis points to 4.81 percent, the 10 year rose 11.9 basis points to 4.98 percent and the 30 year rose 9.4 basis points to 5.35 percent. The driver is Tuesday's October inflation print and its aftermath in this morning's reporting: consumer prices rose 0.4 percent on the month with core up 0.3 percent, and the refunding is now clearing soft, with today's ten year auction story reporting a 1.0 basis point tail and indirect bidders down to 61.2 percent (see today's ten year auction story).
+Semiconductor shares rose 7.87 percent to 158.32 dollars, the largest move in the midday tables, and Broadcom rose 7.22 percent to 355.94 dollars. No story published on this site today explains either move, and no cause is claimed here; both moves follow Tuesday's technology selloff.
 
-Tanker freight fell 8.08 percent to 535.92 dollars, the biggest percentage move in the tables, and is down 35.82 percent on the week. The fall extends the shipping side of the Hormuz normalisation in today's commodities reporting, even as Brent crude rose 1.92 percent to 93.25 dollars a barrel on continued attacks around the strait (see today's Brent story and the commodities roundup).
+Nvidia rose 4.66 percent to 176.76 dollars, recovering part of Tuesday's 5.47 percent fall, though the stock is still down 11.68 percent on the week. Today's Northwestern Polytechnical story shows scrutiny of Nvidia in Washington sharpening, with a senator calling on chief executive Jensen Huang to resign and a briefing requested for November 18, but no story published today explains Wednesday's rebound (see today's Northwestern Polytechnical story).
 
-Nvidia fell 5.47 percent to 168.89 dollars and is down 18.29 percent on the week. Today's technology reporting gives the move a specific driver: the House China committee chair said he is prepared to subpoena chief executive Jensen Huang over the congressional espionage briefing, and the stock has now erased its 2026 gains (see today's Nvidia update). Broadcom rose 3.91 percent to 331.98 dollars against the same tape, a divergence today's technology brief flags without a single identified cause.
+The broader tech sector rose 4.30 percent to 176.18 dollars and Tesla rose 3.67 percent to 393.72 dollars. No story published today explains the Tesla move or the sector wide rebound.
 
-Miner equities fell while the metals underneath them rose, reversing Monday's opposite split. Gold miners and silver miners each fell 5.43 percent, rare earth miners fell 3.50 percent, uranium miners fell 3.47 percent and copper miners fell 3.16 percent, while silver futures rose 3.58 percent to 52.93 dollars an ounce and gold futures rose 0.71 percent to 4,058.8 dollars (see today's miner equities story).
+Rare earth miners rose 3.14 percent to 53.47 dollars and uranium miners rose 2.88 percent to 34.10 dollars, reversing part of Tuesday's falls. Today's miner equities story documented the opposite pattern on Tuesday, when miner shares fell while metal prices rose, and read that tape as positioning driven; by midday silver futures had risen a further 2.13 percent to 52.19 dollars while gold futures eased 0.48 percent to 4,010.70 dollars, still holding above 4,000 dollars (see today's miner equities story and today's gold story).
 
-The cross market read is risk off through rates rather than growth. Yields rose across the curve, US equity indexes closed lower on Tuesday, and the Nikkei 225 rose 1.31 percent before the full repricing travelled. Energy kept its separate logic: freight is still pricing the war premium out while crude itself bounced, because the attacks that sustain the risk have not stopped.
+The Nasdaq 100 rose 2.93 percent to 28,553 points, the index level expression of the technology rebound, and the Nikkei 225 rose 2.87 percent to 60,460 points. No story published today explains the Nikkei move; Japan's news in today's files is the finance ministry's planned 20 year bond auction (see today's Japan 20 year JGB story).
+
+Rates barely moved with the cash market shut for Veterans Day. The ten year yield rose 1.5 basis points to 5.00 percent, the five year rose 2.0 basis points to 4.83 percent, and Brent crude rose 1.58 percent to 92.94 dollars a barrel as attacks around the Strait of Hormuz kept a risk premium in the price (see today's rates roundup and today's Brent story).
+
+The cross market read is a selective risk on rebound, not a relief rally. Equities and miners bought back Tuesday's losses while yields stayed at their post inflation highs, the dollar index rose 0.67 percent to 102.91 and gold slipped, so the December hike pricing behind Tuesday's selloff has not unwound. What has changed is that buyers were willing to own the technology trade again at lower prices, with a 5 percent ten year yield in the background.
