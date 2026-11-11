@@ -1,12 +1,12 @@
 ---
 title: "US consumer prices rise 0.4 percent in October, core 0.3"
 date: 2026-11-10T08:47:57-05:00
-last_updated: 2026-11-10T13:07:08-05:00
+last_updated: 2026-11-11T01:21:21-05:00
 beats: ["rates"]
-regions: ["north-america"]
+regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "The 10 year Treasury yield rose back above 5 percent on Tuesday afternoon, to 5.004 percent, as October consumer prices rose 0.4 percent with core up 0.3 percent for a third straight month, both a tenth above consensus and exactly on the threshold Governor Waller said should put a 50 basis point December hike on the table."
-why_it_matters: "This is the last CPI report before the December 8 to 9 FOMC meeting, the November report is not due until December 10, and a 10 year yield above 5 percent says the bond market is now pricing the stronger tightening path Waller described, not just a single December move."
+lede: "The bond selloff went global in Wednesday's Asia session, with Japan's 10 year yield up 7 basis points to 2.755 percent and Australia's up 6 to 5.05 percent, after October US core inflation printed 0.3 percent against a 0.2 percent forecast and futures put a 10 percent chance on a 50 basis point December Fed hike."
+why_it_matters: "The repricing now reaches past December: fed funds futures fully price three quarter point hikes by the middle of next year, Goldman Sachs added a third hike in March 2027 to its forecast, and Dallas Fed President Lorie Logan said two more rises were needed, possibly rapidly, so the October print is moving the whole expected path, not one meeting."
 featured: true
 evidence_grade: "A"
 sources:
@@ -30,12 +30,18 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
     published: "2026-11-10"
+  - title: "Global Bonds Fall as Hot US Inflation Sparks Jumbo Fed Hike Fears"
+    publisher: "Reuters, carried by Global Banking & Finance Review"
+    url: "https://www.globalbankingandfinance.com/bonds-reel-hot-inflation-fuels-jumbo-fed-hike-fears/"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. Post-release yields are CNBC reporting read via AmeriLedger on November 10, 2026, in the update below. Afternoon yields are CNBC reporting read in full on November 10, 2026, in the Latest update."
+data_as_of: "Bureau of Labor Statistics release USDL-26-1685, embargoed 8:30 a.m. ET Tuesday November 10, 2026, read in full from bls.gov in this run; every price figure is from that release. Consensus of headline +0.3 percent and core +0.2 percent is the Wall Street Journal poll reported by Dow Jones and this site's morning rates brief. Pre-release pricing and yields are Dow Jones reporting of Tradeweb and LSEG data on Tuesday morning, before the release. Post-release yields are CNBC reporting read via AmeriLedger on November 10, 2026, in the update below. Afternoon yields are CNBC reporting read in full on November 10, 2026, in the Latest update. Updated November 11, 2026 with Reuters reporting from Sydney, read in full via Global Banking & Finance Review, on the Asia session of November 11: the Japanese and Australian yield moves, the fed funds futures pricing, the Goldman Sachs forecast change and the Logan, Goolsbee and Paulson comments are from that report; the Bloomberg version of the same Asia bond item was blocked to this reader and the Reuters syndication was the second route."
 update_bump: true
 ---
 
-Latest: The selloff extended into the afternoon and the 10 year Treasury yield crossed 5 percent, trading at 5.004 percent, up more than 14 basis points on the day, CNBC reported. The two year yield rose more than 19 basis points to 4.748 percent and the 30 year yield rose more than 11 basis points to 5.367 percent. The 10 year last traded above 5 percent earlier in November, and a December hike remains the market's base case in CME FedWatch pricing cited by CNBC, with strategists now discussing whether stubborn inflation pushes further hikes into 2027.
+Latest: The selloff extended through Wednesday's Asia session. Japan's 10 year government bond yield rose 7 basis points to 2.755 percent and Australia's rose 6 basis points to 5.05 percent, Reuters reported from Sydney, while Treasury yields climbed a little further in Asia, the two year up 2 basis points to 4.7482 percent after surging 18 basis points overnight and the 10 year up 1 basis point to 4.9958 percent after a 12 basis point overnight rise. Fed funds futures now treat a quarter point December move as essentially locked in, put a 10 percent probability on a 50 basis point rise, and fully price three quarter point moves by the middle of next year. Dallas Fed President Lorie Logan said two more rate rises were needed, possibly rapidly, Chicago Fed President Austan Goolsbee warned of a "real inflation issue", and Philadelphia Fed President Anna Paulson called for gradual rate hikes. Goldman Sachs chief US economist David Mericle said the bank still expects a 25 basis point hike in December but added a third 25 basis point hike in March 2027, taking the peak funds rate to 4.25 to 4.5 percent. The dollar index edged up 0.1 percent on Wednesday to 102.29 after gaining 0.5 percent overnight, and gold recovered 0.2 percent to 4,030.56 dollars an ounce after falling 2.6 percent overnight.
+
+Earlier on Tuesday: The selloff extended into the afternoon and the 10 year Treasury yield crossed 5 percent, trading at 5.004 percent, up more than 14 basis points on the day, CNBC reported. The two year yield rose more than 19 basis points to 4.748 percent and the 30 year yield rose more than 11 basis points to 5.367 percent. The 10 year last traded above 5 percent earlier in November, and a December hike remains the market's base case in CME FedWatch pricing cited by CNBC, with strategists now discussing whether stubborn inflation pushes further hikes into 2027.
 
 Earlier: Treasury yields jumped after the release. The two year yield climbed more than 15 basis points to 4.698 percent and the 10 year yield rose more than 7 basis points to 4.938 percent, CNBC reported, with the 30 year yield up more than 3 basis points at 5.29 percent. Markets had already largely priced in a 25 basis point December hike before the print, according to CME FedWatch data cited by CNBC, so the post-release move was concentrated at the front end, where a 50 basis point debate would be priced.
 
