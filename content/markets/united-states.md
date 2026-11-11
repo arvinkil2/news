@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-11"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 11, 12:11 AM ET"
+data_as_of: "Nov 11, 12:22 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 11, 12:11 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 11, 12:22 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,521 <span class="gm-sub-inline">as of 2026-11-10</span></td><td class="num"><span class="down">-0.38%</span></td><td class="num"><span class="down">-0.63%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.1 9.1,6.7 13.7,5.3 18.3,9.8 22.9,8.2 27.4,7.0 32.0,4.6 36.6,9.6 41.1,11.7 45.7,8.9 50.3,6.5 54.9,5.3 59.4,6.6 64.0,14.0 68.6,16.1 73.1,14.6 77.7,8.3 82.3,26.0 86.9,24.8 91.4,15.6 96.0,17.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">25,066 <span class="gm-sub-inline">as of 2026-11-10 (Nasdaq, near-real-time)</span></td><td class="num"><span class="down">-0.74%</span></td><td class="num"><span class="down">-1.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.3 9.1,6.5 13.7,6.4 18.3,11.1 22.9,8.7 27.4,8.7 32.0,6.4 36.6,12.1 41.1,12.6 45.7,10.8 50.3,8.3 54.9,7.7 59.4,10.7 64.0,16.8 68.6,19.0 73.1,17.3 77.7,14.4 82.3,26.0 86.9,23.8 91.4,18.3 96.0,19.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
