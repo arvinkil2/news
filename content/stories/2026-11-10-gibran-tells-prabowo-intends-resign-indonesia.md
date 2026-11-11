@@ -1,15 +1,19 @@
 ---
 title: "Prabowo said to accept Gibran resignation as lawmakers file impeachment motion"
 date: 2026-11-10T07:04:57-05:00
-last_updated: 2026-11-11T08:24:12-05:00
+last_updated: 2026-11-11T13:23:42-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "Bloomberg reported on Wednesday, citing unnamed people, that President Prabowo Subianto has accepted Vice President Gibran Rakabuming Raka's resignation and that Gibran handed over a resignation letter at a meeting that day, as 120 lawmakers from all eight House factions formally filed an impeachment opinion motion against him."
+lede: "Bloomberg reported on Wednesday, citing unnamed people, that President Prabowo Subianto has accepted Vice President Gibran Rakabuming Raka's resignation, and the BBC reported the same day, citing an aide, that Gibran has submitted his resignation while saying it is not clear whether Prabowo has formally accepted it, as 120 lawmakers from all eight House factions formally filed an impeachment opinion motion against him."
 why_it_matters: "If confirmed by the Palace, an accepted resignation would vacate the vice presidency and start the constitutional process for the People's Consultative Assembly to elect a successor from two presidential nominees, while the House filing keeps a parallel impeachment track alive over Gibran's education documents."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Indonesia's vice president resigns over high school certificate that was ruled invalid"
+    publisher: "BBC, via MyJoyOnline"
+    url: "https://www.myjoyonline.com/indonesias-vice-president-resigns-over-high-school-certificate-that-was-ruled-invalid/"
+    published: "2026-11-11"
   - title: "Indonesia's Prabowo Said to Accept Resignation of Vice President"
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-s-prabowo-said-to-accept-resignation-of-vice-president"
@@ -31,11 +35,13 @@ sources:
     url: "https://thekabarnews.com/palace-confirms-gibran-discussed-resignation/"
     published: "2026-11-10"
 tags: []
-data_as_of: "Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date had been announced at that point. Updated November 11, 2026 with Bloomberg's report of the same day, read via the estate browser route (article paywalled beyond its opening lines), that Prabowo accepted the resignation and that Gibran handed over a resignation letter at a Wednesday meeting, attributed only to unnamed people; the Palace has not confirmed an acceptance or an effective date, and no other outlet had corroborated the letter as of this update."
+data_as_of: "Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date had been announced at that point. Updated November 11, 2026 with Bloomberg's report of the same day, read via the estate browser route (article paywalled beyond its opening lines), that Prabowo accepted the resignation and that Gibran handed over a resignation letter at a Wednesday meeting, attributed only to unnamed people; the Palace has not confirmed an acceptance or an effective date, and no other outlet had corroborated the letter as of this update. Updated again November 11, 2026 with the BBC report of the same day, read in full via the estate browser route in its MyJoyOnline carrying, citing an unnamed aide that Gibran has submitted his resignation and stating that it is not clear whether Prabowo has formally accepted it; the submission is now corroborated by a second outlet, the acceptance is not, and the Palace has still announced neither an acceptance nor an effective date."
 update_bump: true
 ---
 
 ## Latest
+
+The BBC reported on Wednesday that Gibran has submitted his resignation, citing an aide, in a report carried by MyJoyOnline. The BBC said it is not clear whether Prabowo has formally accepted the resignation, and its report carried no Palace confirmation and no effective date. The aide's account corroborates the submission at the centre of Bloomberg's report below, a resignation letter handed over at a Wednesday meeting, but it does not corroborate Bloomberg's further claim that Prabowo has accepted it, and the Palace has still announced neither an acceptance nor a vacancy.
 
 Bloomberg reported on Wednesday that Prabowo has accepted Gibran's resignation, and that Gibran handed over his resignation letter in a meeting between the two men on Wednesday, citing unnamed people familiar with the matter. The report carries no Palace confirmation, no effective date and no named source, and it goes beyond the Palace's on-record position from Tuesday, when State Secretary Prasetyo Hadi said only that Prabowo had not rejected the intention and had offered advice. No other outlet had reported a resignation letter as of Wednesday morning Toronto time. If the Palace confirms an acceptance, the vice presidency falls vacant and the People's Consultative Assembly elects a successor from two candidates proposed by the president.
 
