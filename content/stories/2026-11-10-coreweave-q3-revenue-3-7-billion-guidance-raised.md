@@ -1,7 +1,7 @@
 ---
 title: "CoreWeave third-quarter revenue hits $3.7 billion, guidance raised"
 date: 2026-11-10T16:22:31-05:00
-last_updated: 2026-11-10T16:22:31-05:00
+last_updated: 2026-11-11T11:23:45-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
@@ -15,10 +15,16 @@ sources:
     publisher: "CoreWeave, Inc. (SEC EDGAR)"
     url: "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm"
     published: "2026-11-10"
+  - title: "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html"
+    published: "2026-11-11"
 tags: []
-data_as_of: "CoreWeave's third-quarter 2026 earnings release, furnished as Exhibit 99.1 to its Form 8-K filed with the SEC on November 10, 2026 (accession 0001769628-26-000461) and read in full from the filings lane copy; every figure is from the release itself. Developing item."
+data_as_of: "CoreWeave's third-quarter 2026 earnings release, furnished as Exhibit 99.1 to its Form 8-K filed with the SEC on November 10, 2026 (accession 0001769628-26-000461) and read in full from the filings lane copy; every figure is from the release itself. Updated November 11, 2026 with CNBC's interview of the same day, read in full via the estate browser route: chief executive Michael Intrator's statements on his share-sale plan and on the post-election regulatory environment are his own, reported by CNBC. Developing item."
 update_bump: true
 ---
+
+**Latest.** Chief executive Michael Intrator told CNBC on Wednesday that he has sidelined his 10b5-1 share-sale plan until there is a material change in the company's equity pricing, with any further selling limited to tax purposes. Under the plan, adopted in November 2025, he had sold 8.26 million shares at an average of $96.14, for $794.2 million, sales that had drawn criticism as the stock fell; the shares rallied sharply on Wednesday after the results. Intrator also said CoreWeave does not anticipate an impact from the regulatory shift that followed the November 3 midterm elections, in which voters backed greater restrictions on data centres in 40 of 41 ballot measures across 10 states, and that the company remains comfortable with its pipeline, still expects 1.85 GW of active power by the end of 2026, and is targeting $37 billion to $39 billion of full-year capital spending.
 
 CoreWeave reported revenue of $3,661 million for the third quarter ended September 30, 2026, against $1,365 million a year earlier, with operating income of $207 million and a net loss of $709 million after $846 million of net interest expense. Adjusted EBITDA was $2,256 million, a 62 percent margin, and the company put its revenue backlog at approximately $132.5 billion as of September 30.
 
