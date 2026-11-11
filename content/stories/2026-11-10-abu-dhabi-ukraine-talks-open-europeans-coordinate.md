@@ -1,13 +1,13 @@
 ---
 title: "Ukraine talks open in Abu Dhabi as Europeans coordinate"
 date: 2026-11-10T07:02:41-05:00
-last_updated: 2026-11-10T16:46:31-05:00
+last_updated: 2026-11-11T05:41:51-05:00
 beats: ["politics"]
 regions: ["europe", "middle-east", "north-america"]
 status: "developing"
 update_bump: true
-lede: "Ukraine and Russia discussed a prisoner exchange of 1,000 for 1,000, possibly 1,500 for 1,500, on the first day of the Abu Dhabi trilateral talks, President Volodymyr Zelensky said on Tuesday, with no exchange agreed."
-why_it_matters: "The exchange size is the first concrete number to come out of the round, and Wednesday's agenda, de-escalation, energy, the Black Sea and a possible leaders meeting, will show whether it becomes an agreement or stays a proposal the Americans carry to Moscow."
+lede: "The second and final day of the Abu Dhabi trilateral talks ended on Wednesday after under two hours, Russian reporting said, with no agreement announced and a new prisoner exchange raised only as a possible outcome."
+why_it_matters: "The round closes without a ceasefire framework or an agreed exchange: the 1,000 for 1,000 proposal from day one remains a proposal, territory was left to leaders, and the next test is whether the Americans carry anything concrete to Moscow or a follow-up date is named."
 featured: true
 evidence_grade: "B"
 sources:
@@ -39,11 +39,17 @@ sources:
     publisher: "Espreso TV"
     url: "https://espreso.tv/viyna-z-rosiyeyu-edina-pozitsiya-z-es-i-ssha-zimoviy-plan-dlya-ukraini-golovni-zayavi-zelenskogo-pislya-1-go-raundu-peregovoriv-v-abu-dabi"
     published: "2026-11-10"
+  - title: "Second day of Russia, US and Ukraine talks in Abu Dhabi concluded"
+    publisher: "Vedomosti"
+    url: "https://www.vedomosti.ru/politics/news/2026/11/11/1244411-vtoroi-den-zavershen"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Event date November 10, 2026, first day of the November 10 to 11 Abu Dhabi round. The joint statement was read in full on the European Council site; the same statement was distributed by the European Commission. The Kremlin's trilateral position is Russia's stated position, reported by Arab News on November 9; delegation compositions are as reported by multiple outlets on November 9 and 10 and have not been confirmed in a single official list. Developing item. Updated November 10 with Yonhap News Agency reporting, in Korean, of President Zelensky's post-session statement and Foreign Minister Lavrov's remarks; each side's characterisation is that side's stated position. Updated November 10 with UNIAN and Espreso TV reporting, in Ukrainian, read in full via the estate browser route, of President Zelensky's press conference in Denmark after the first round; the prisoner exchange figures are a possibility under discussion as stated by Ukraine's president, not an agreed exchange, and each side's account of the battlefield and of territory is that side's stated position."
+data_as_of: "Event date November 10, 2026, first day of the November 10 to 11 Abu Dhabi round. The joint statement was read in full on the European Council site; the same statement was distributed by the European Commission. The Kremlin's trilateral position is Russia's stated position, reported by Arab News on November 9; delegation compositions are as reported by multiple outlets on November 9 and 10 and have not been confirmed in a single official list. Developing item. Updated November 10 with Yonhap News Agency reporting, in Korean, of President Zelensky's post-session statement and Foreign Minister Lavrov's remarks; each side's characterisation is that side's stated position. Updated November 10 with UNIAN and Espreso TV reporting, in Ukrainian, read in full via the estate browser route, of President Zelensky's press conference in Denmark after the first round; the prisoner exchange figures are a possibility under discussion as stated by Ukraine's president, not an agreed exchange, and each side's account of the battlefield and of territory is that side's stated position. Updated November 11, 2026 with Vedomosti reporting, in Russian, read in full, citing a RIA Novosti source in the negotiating group for the second day's conclusion and TASS sources for the possible exchange outcome; that reporting is the Russian side's account, no joint statement or agreed outcome had been published at the time of the update, and no Ukrainian or US confirmation of the day's proceedings had appeared."
 ---
 
 ## Latest
+
+The second day of the talks has ended. Vedomosti, in Russian, reported on Wednesday, citing a RIA Novosti source in the negotiating group, that the trilateral session in Abu Dhabi concluded after less than two hours behind closed doors, with Vladimir Medinsky leading the Russian delegation, Rustem Umerov the Ukrainian delegation, and Steve Witkoff and Jared Kushner representing the United States. TASS sources told the paper a new prisoner exchange could be one outcome of the meeting; no exchange was announced as agreed, and the Russian side was expected to speak to the press afterwards. Politico had reported the territorial question was expected to be a key topic of the second day. This account of the closing session is Russian-side reporting via state wires; no joint statement had been published and neither Kyiv nor Washington had confirmed the day's proceedings at the time of this update.
 
 President Volodymyr Zelensky said on Tuesday, at a press conference during his visit to Denmark, that the Abu Dhabi talks discussed a large prisoner exchange of 1,000 for 1,000, possibly 1,500 for 1,500, and that the Americans would take that agenda to Russia, according to UNIAN reporting, in Ukrainian. No exchange was agreed. He said Wednesday, November 11, is the main day of the talks and will cover de-escalation steps, energy, the Black Sea, the exchange again and a possible trilateral meeting at leaders level. The Russian delegation raised territory on Tuesday, which Zelensky said is a question for leaders, and he said the Russian side told the room it had occupied half of the Donbas territory Ukraine controls, a claim the Ukrainian team disputed in the room and which the Americans present, including Supreme Allied Commander Europe General Alexus Grynkewich, confirmed was not the battlefield picture, according to Zelensky. That battlefield account is Ukraine's stated position. Espreso TV, in Ukrainian, also reported that Ukraine has shared a winter plan covering energy, diesel and bridge protection with its Northern European partners, and that Foreign Minister Andriy Sybiha said Ukraine proposed a truce in energy and in the Black Sea, with Russia's response awaited.
 
@@ -57,4 +63,4 @@ The statement's strategic core is institutional. The participants reaffirmed a s
 
 Moscow's position, stated by the Kremlin and reported on Monday, is that the Abu Dhabi format remains trilateral: Russia, Ukraine and the United States, with the Europeans running their own coordination alongside rather than sitting in the Russia session. That distinction matters beyond protocol. A settlement negotiated in a trilateral room and guaranteed in a European one leaves the guarantee's legal and military form to be settled later, and the joint statement's language on robust guarantees is a coordination position, announced, not a negotiated text with Russia.
 
-What to watch is the round's close on Wednesday, November 11: any agreed text on ceasefire monitoring, any statement on territory, and whether the broader multilateral format the Europeans propose is taken up or left as an aspiration. Until a document emerges, the Abu Dhabi round is a resumed process, not a breakthrough, and claims of concessions from any side should be treated as that side's narrative.
+The round has now closed with no document published. What to watch is whether any agreed text on ceasefire monitoring or a prisoner exchange follows in the coming days, any statement on territory, and whether the broader multilateral format the Europeans propose is taken up or left as an aspiration. Until a document emerges, the Abu Dhabi round is a resumed process, not a breakthrough, and claims of concessions from any side should be treated as that side's narrative.
