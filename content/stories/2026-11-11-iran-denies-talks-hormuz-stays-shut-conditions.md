@@ -1,13 +1,13 @@
 ---
 title: "Iran denies talks, says Hormuz stays shut until conditions met"
 date: 2026-11-11T10:15:37-05:00
-last_updated: 2026-11-11T10:15:37-05:00
+last_updated: 2026-11-11T12:23:20-05:00
 beats: ["politics"]
 regions: ["middle-east", "north-america", "global"]
 status: "developing"
 developing: true
-lede: "Iran's security chief Mohsen Rezaei has dismissed talk of negotiations with Washington as a lie and said the Strait of Hormuz will not reopen until the United States meets Tehran's seven conditions for peace talks."
-why_it_matters: "The denial lands directly against the peace trade that drove Brent below 90 dollars this week: Tehran says no talks are under way, its conditions are unmet, and the strait that carries the Gulf's oil stays closed until they are."
+lede: "Iran's security chief Mohsen Rezaei has dismissed talk of negotiations with Washington as a lie, said the Strait of Hormuz will not reopen until the United States meets Tehran's seven conditions, and warned that US bases in Europe would be targeted if aircraft launch attacks on Iran from them."
+why_it_matters: "The denial and the widened threat land against the peace trade that drove Brent below 90 dollars this week: Brent rose nearly 3 percent to 93.90 dollars a barrel on Wednesday, Tehran says no talks are under way, and its retaliation warning now reaches bases in Europe."
 featured: false
 evidence_grade: "B"
 sources:
@@ -15,10 +15,24 @@ sources:
     publisher: "Al Jazeera, with Reuters"
     url: "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
     published: "2026-11-11"
+  - title: "Iran security chief warns Tehran will target distant US bases, including in Europe"
+    publisher: "ANI, via Daily Prabhat"
+    url: "https://www.dailyprabhat.com/iran-security-chief-warns-tehran-will-target-distant-us-bases-including-in-europe/"
+    published: "2026-11-11"
+  - title: "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington"
+    publisher: "OilPrice.com"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Brent-Jumps-3-to-94-as-Iran-Denies-Any-Talks-With-Washington.html"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Al Jazeera report of November 11, 2026, by Al Jazeera staff and Reuters, read in full via the estate browser route after the direct fetch was blocked; it reports statements made on Tuesday by Mohsen Rezaei to Al Mayadeen TV and by Foreign Minister Abbas Araghchi to IRNA, and Secretary of State Marco Rubio's remarks to reporters in Paris. Iran has not published the full list of its seven conditions; the conditions named are as stated by Rezaei and Araghchi. Each side's characterisation of the diplomacy is that side's stated position. Developing item."
+data_as_of: "Al Jazeera report of November 11, 2026, by Al Jazeera staff and Reuters, read in full via the estate browser route after the direct fetch was blocked; it reports statements made on Tuesday by Mohsen Rezaei to Al Mayadeen TV and by Foreign Minister Abbas Araghchi to IRNA, and Secretary of State Marco Rubio's remarks to reporters in Paris. Iran has not published the full list of its seven conditions; the conditions named are as stated by Rezaei and Araghchi. Each side's characterisation of the diplomacy is that side's stated position. Updated November 11, 2026: the Europe bases warning comes from the same Al Mayadeen interview as reported by ANI (via Daily Prabhat) and corroborating outlets, after the France24 report of it was blocked to this reader on two routes; Brent and WTI prices are OilPrice.com figures as of 11:18 a.m. ET on November 11, 2026. Developing item."
 update_bump: true
 ---
+
+## Latest
+
+In the same Al Mayadeen interview, Rezaei widened Iran's retaliation warning beyond the region. If the United States attacks Iran again, he said, Tehran would target distant American bases it has not previously attacked, including bases in European countries if US aircraft take off from them to bomb Iran, and islands Washington believes are beyond the range of Iranian missiles. He advised countries hosting American forces not to cooperate in a new attack. The warning is a conditional statement of intent by Iran's security chief, reported by ANI and Iranian outlets from the interview; no specific base or country was named. The France24 report of the same remarks could not be read directly in this run, so the wording here rests on the ANI account and corroborating reports of the interview.
+
+Oil markets moved on the denial. Brent crude rose nearly 3 percent to 93.90 dollars a barrel by 11:18 a.m. ET on Wednesday, and West Texas Intermediate rose nearly 2 percent to 87.98 dollars, OilPrice.com reported, as traders marked down the de-escalation trade that had taken about 21 percent off Brent since the start of November.
 
 Iran's security chief Mohsen Rezaei has dismissed speculation about negotiations with the United States, telling Lebanon's Al Mayadeen TV on Tuesday that claims of continuing talks or a meeting in Qatar were a lie, and that Tehran is still waiting for a clear American response to its seven conditions for peace talks, Al Jazeera reported with Reuters. Rezaei said the Strait of Hormuz will not reopen until those conditions are met; the conditions he and Foreign Minister Abbas Araghchi have named include lifting sanctions and the US naval blockade and ending fighting on all fronts, in particular Israel's attacks on Lebanon, and Araghchi said the strait could reopen within two days if the demands were met.
 
