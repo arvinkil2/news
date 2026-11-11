@@ -2,7 +2,7 @@
 title: "Hyperion"
 date: "2026-11-11"
 lede: ""
-data_as_of: "2026-07-13"
+data_as_of: "2026-11-11"
 ---
 
 
@@ -38,6 +38,7 @@ data_as_of: "2026-07-13"
 <colgroup><col style="width:104px"><col style="width:660px"><col style="width:190px"></colgroup>
 <thead><tr><th>Date</th><th>Development</th><th>Source</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-11-11">11 Nov 2026</td><td data-v=""><span class="bond-name">Meta infrastructure chief to leave in 2027, AWS veteran succeeds</span><span class="bond-sub">Meta's head of infrastructure Santosh Janardhan will leave in 2027, and David Brown, a former AWS senior vice president, will lead the infrastructure organisation and serve as chief technical officer of the Meta Compute initiative that oversees Meta's data centre buildout, including the Hyperion campus. Meta expects capital spending of 135 billion to 145 billion dollars this year.</span></td><td data-v=""><a href="/stories/2026-11-11-meta-infrastructure-chief-janardhan-leaves-brown/">Kilambi Research coverage</a><span class="cell-sub">Grade B</span></td></tr>
 <tr><td data-v="2026-07-13">13 Jul 2026</td><td data-v=""><span class="bond-name">Meta expands Hyperion to 5 GW</span><span class="bond-sub">Meta announces the expansion of Hyperion to 5 GW, with total planned investment above $50 billion, about 2 GW expected online by 2030 and full buildout around 2032.</span></td><td data-v=""><a href="https://americanbuildout.com/meta-hyperion/">Meta announcement, per Reuters</a><span class="cell-sub">Grade B</span></td></tr>
 <tr><td data-v="2025-10-21">21 Oct 2025</td><td data-v=""><span class="bond-name">Meta announces the Blue Owl joint venture</span><span class="bond-sub">Blue Owl funds take 80 percent and Meta 20 percent of the venture, with about $27 billion of committed development costs, a Blue Owl cash contribution of about $7 billion, a one-time distribution to Meta of about $3 billion, and a residual value guarantee covering roughly the first 16 years.</span></td><td data-v=""><a href="https://www.webwire.com/ViewPressRel.asp?aId=345656">Meta press release</a><span class="cell-sub">Grade B</span></td></tr>
 <tr><td data-v="2025-10-16">16 Oct 2025</td><td data-v=""><span class="bond-name">Beignet Investor prices $27.294 billion of notes</span><span class="bond-sub">Beignet Investor LLC prices $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 at Treasuries plus 225 basis points, rated A+ by S&amp;P, the largest single-tranche private debt offering on record.</span></td><td data-v=""><a href="https://www.ifre.com/ifr-awards/2327933/financing-package-blue-owl-capitalbeignet-investors-us27.3bn-23.6-year-bond">IFR</a><span class="cell-sub">Grade B</span></td></tr>

@@ -1,579 +1,587 @@
 {
-  "gate": "A project earns a standing page only when it is a named deal in the AI infrastructure leverage monitor registry with material scale and a running record of dated developments from more than one source, or when Arvin names it. Candidates that meet the scale test but are not yet listed are proposed in the daily filings memo, never auto-created.",
-  "note": "Standing project pages for the leverage program. Maintained by the daily filings pull and the catalyst flow: when a filing, county record or story touches a listed project, a dated development is appended here and the page rebuilds on the next site build. Entries are dated by the event, graded as collected.",
-  "projects": [
+ "gate": "A project earns a standing page only when it is a named deal in the AI infrastructure leverage monitor registry with material scale and a running record of dated developments from more than one source, or when Arvin names it. Candidates that meet the scale test but are not yet listed are proposed in the daily filings memo, never auto-created.",
+ "note": "Standing project pages for the leverage program. Maintained by the daily filings pull and the catalyst flow: when a filing, county record or story touches a listed project, a dated development is appended here and the page rebuilds on the next site build. Entries are dated by the event, graded as collected.",
+ "projects": [
+  {
+   "developments": [
     {
-      "developments": [
-        {
-          "date": "2025-09-22",
-          "detail": "The ordinance behind the Project Jupiter IRB structure, recorded as instrument 2520581 in the county clerk records.",
-          "grade": "B",
-          "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
-          "title": "Ordinance 367-2025 recorded"
-        },
-        {
-          "date": "2025-10-17",
-          "detail": "The New Mexico Environmental Law Center's first suit over the September 2025 IRB approval procedure. A second suit followed on February 6, 2026.",
-          "grade": "C",
-          "source_label": "Data Center Dynamics, recorded in the daily filings memo",
-          "title": "Litigation over the IRB approval procedure begins"
-        },
-        {
-          "date": "2025-11-12",
-          "detail": "Exhibit A, Section 8.4 states that Project Jupiter will power itself with an onsite microgrid system, with natural gas generation and battery storage. Thirteen deeds of trust dated the same day run from the Red Chiles entities and Yucca Growth Infrastructure LLCs to Fidelity National Title of New Mexico, with IRB deeds to the county, leasebacks, and subordinations naming Citibank and Goldman Sachs Bank USA.",
-          "source_label": "Do\u00f1a Ana County Clerk records, via the leverage monitor registry",
-          "title": "Community Benefits Agreement signed"
-        },
-        {
-          "date": "2026-02-06",
-          "detail": "A second lawsuit over the project and its IRB approval procedure, following the October 2025 suit.",
-          "grade": "C",
-          "source_label": "Daily filings memo, October 22, 2026",
-          "title": "Second lawsuit filed"
-        },
-        {
-          "date": "2026-07",
-          "detail": "State regulators rejected Energy Transfer's application for a gas pipeline to the site, citing large scale water use, increased carbon emissions and a lack of state revenue generation.",
-          "grade": "C",
-          "source_label": "Bloomberg via Datacenter Dynamics",
-          "title": "New Mexico rejects the gas pipeline application"
-        },
-        {
-          "date": "2026-09",
-          "detail": "Oracle was reported to have sent a force majeure notice to Blue Owl Capital, its financier, to shield itself from increased costs if the facility fails to come online in 2028 as planned.",
-          "grade": "C",
-          "source_label": "Reporting carried in the October 16, 2026 site story",
-          "title": "Force majeure notice reported"
-        },
-        {
-          "date": "2026-09-18",
-          "detail": "The first lien loan to Yucca Growth Infrastructure, LLC matured. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Whether the loan was repaid, refinanced or extended is not in the record.",
-          "grade": "A",
-          "source_label": "Apollo Debt Solutions BDC schedule of investments, accession 0001193125-26-421669",
-          "source_url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm",
-          "title": "Yucca Growth loan matures"
-        },
-        {
-          "date": "2026-10-13",
-          "detail": "Commissioners reviewed a proposed energy services agreement of $10M per year for 10 years, plus proposed credits of up to $55M per year for up to three years. Commissioners said an amendment to the IRB agreements would be required. No agreement was approved, and Oracle indicated it would reconsider the arrangement.",
-          "grade": "C",
-          "source_label": "Local press report of the commission meeting",
-          "title": "County reviews the proposed El Paso Electric connection"
-        },
-        {
-          "date": "2026-10-14",
-          "detail": "The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.",
-          "grade": "C",
-          "source_label": "Do\u00f1a Ana County release",
-          "title": "Community Monitoring Committee appointed"
-        },
-        {
-          "date": "2026-10-16",
-          "detail": "Oracle asked FERC to expedite approval of the 17.8 mile Green Chile pipeline, about 400 million cubic feet of gas a day to on site fuel cells supplied by Bloom Energy. The pipeline timeline had slipped to February 2027. New Mexico Attorney General Raul Torrez pressed FERC to broaden its environmental review to the combined footprint of the data centre and the pipeline.",
-          "grade": "C",
-          "source_label": "Kilambi Research coverage",
-          "source_url": "/stories/2026-10-16-oracle-project-jupiter-pipeline-ferc/",
-          "title": "Oracle presses FERC to expedite the Green Chile pipeline"
-        },
-        {
-          "date": "2026-10-27",
-          "detail": "After a closed session of more than two hours, commissioners voted 5-0 to authorize county management and legal counsel to notify the Project Jupiter entities of a potential breach of the IRB agreements over the proposed El Paso Electric connection and power generation plan, and to engage in discussions on a path forward. The chairman reads Section 8.4 as requiring on site generation with no utility connection. The quoted text does not expressly bar a utility connection, no breach has been established, the vote revokes nothing, and Oracle had not responded at publication.",
-          "grade": "C",
-          "source_label": "Organ Mountain News, October 28, 2026",
-          "title": "County authorizes a potential breach notice"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "Community Monitoring Committee holds its first meeting",
-          "detail": "The 11 member Project Jupiter Community Monitoring Committee, appointed on October 14, 2026 under Resolution No. 2026-101, held its first public meeting in Las Cruces. The committee elected officers, adopted bylaws and chose water, fuel cells and economic and governmental agreements as its first information topics, with a next business meeting aimed for November 21, 2026 in the southern part of the county.",
-          "grade": "C",
-          "source_label": "Organ Mountain News, October 30, 2026"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "Project Jupiter power permit deadline waived in New Mexico",
-          "detail": "Yucca Growth Infrastructure waived its right to a November 23 decision on the air quality permit for Project Jupiter's on-site fuel cell power plant, giving the New Mexico Environment Department more time to review updated emissions projections instead of risking a denial. A public hearing is scheduled for early December. Without the permit the power infrastructure cannot be built, while work on the data centre buildings continues.",
-          "source_label": "Kilambi Research coverage",
-          "source_url": "/stories/2026-11-05-project-jupiter-air-permit-deadline-waived/",
-          "grade": "C"
-        }
-      ],
-      "facts": [
-        [
-          "Capacity",
-          "2.5 GW"
-        ],
-        [
-          "Location",
-          "Santa Teresa, Do\u00f1a Ana County, New Mexico"
-        ],
-        [
-          "IRB authorization",
-          "$165B ceiling"
-        ],
-        [
-          "Series",
-          "2025A $15B, 2025B $25B, 2025C about $125B"
-        ],
-        [
-          "Power",
-          "Onsite microgrid under the Community Benefits Agreement, contested"
-        ],
-        [
-          "Online target",
-          "2028, as reported"
-        ]
-      ],
-      "instruments": [
-        {
-          "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.",
-          "name": "Series 2025A industrial revenue bonds, $15B"
-        },
-        {
-          "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.",
-          "name": "Series 2025B industrial revenue bonds, $25B"
-        },
-        {
-          "detail": "Do\u00f1a Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.",
-          "name": "Series 2025C industrial revenue bonds, about $125B"
-        },
-        {
-          "detail": "Held by Apollo Debt Solutions BDC. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Matured September 18, 2026; repayment, refinancing or extension is not in the record.",
-          "name": "Yucca Growth Infrastructure first lien loan",
-          "url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm"
-        }
-      ],
-      "instruments_note": "The Jupiter bonds are private placements. No CUSIP, fund holder position or trade print for any of them appears in the record, so none carries a bond page in the Leverage section. The sponsor's traded bonds sit on the Oracle issuer page.",
-      "lede": "Oracle's 2.5 GW campus in Do\u00f1a Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.",
-      "location": "Santa Teresa, Do\u00f1a Ana County, New Mexico",
-      "name": "Project Jupiter",
-      "parties": [
-        {
-          "name": "Oracle",
-          "role": "Sponsor. Oracle America, Inc. is named as purchaser in the executed Series 2025C instruments."
-        },
-        {
-          "name": "Red Chiles A, B, C and D",
-          "role": "Project companies. Grantors on the November 2025 deeds of trust, parties to the IRB deeds and leasebacks."
-        },
-        {
-          "name": "Yucca Growth Infrastructure, LLC",
-          "role": "Project vehicle. Borrower on the Apollo Debt Solutions BDC first lien loan."
-        },
-        {
-          "name": "Green Chile Ventures LLC",
-          "role": "Project party named in the executed Series 2025B and 2025C instruments."
-        },
-        {
-          "name": "Do\u00f1a Ana County",
-          "role": "IRB issuer and title holder. The county holds title and leases the project back to the project companies."
-        },
-        {
-          "name": "El Paso Electric",
-          "role": "Territory utility. Counterparty to the proposed supplemental grid connection and energy services agreement."
-        },
-        {
-          "name": "Energy Transfer",
-          "role": "Applicant for the gas pipeline rejected at state level in July 2026."
-        },
-        {
-          "name": "Bloom Energy",
-          "role": "Supplier of the on site fuel cells in the Green Chile pipeline plan."
-        },
-        {
-          "name": "Blue Owl Capital",
-          "role": "Financier named in reporting. Recipient of the reported September 2026 force majeure notice."
-        },
-        {
-          "name": "Apollo Debt Solutions BDC",
-          "role": "Holder of the Yucca Growth first lien loan that matured September 18, 2026."
-        },
-        {
-          "name": "FERC",
-          "role": "Federal approval for the Green Chile pipeline. The expedite request is pending in the record."
-        }
-      ],
-      "slug": "project-jupiter",
-      "sponsor": "Oracle",
-      "sponsor_key": "oracle",
-      "stories": [
-        {
-          "slug": "2026-10-16-oracle-project-jupiter-pipeline-ferc",
-          "title": "Oracle presses FERC to expedite gas pipeline for Project Jupiter"
-        }
-      ],
-      "summary": [
-        "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Do\u00f1a Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
-        "Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."
-      ]
+     "date": "2025-09-22",
+     "detail": "The ordinance behind the Project Jupiter IRB structure, recorded as instrument 2520581 in the county clerk records.",
+     "grade": "B",
+     "source_label": "Doña Ana County Clerk records, via the leverage monitor registry",
+     "title": "Ordinance 367-2025 recorded"
     },
     {
-      "bonds": [
-        {
-          "cusip": "076912AA2",
-          "label": "Beignet Investor LLC 6.581% senior secured notes due 2049",
-          "terms": "144A tranche of the $27.294B single-tranche issue, priced October 16, 2025 at Treasuries plus 225bp. S&P A+. Last print 92.93 on October 29, 2026; latest fund mark 102.06, period ended June 30, 2026."
-        },
-        {
-          "cusip": "U06930AA6",
-          "label": "Beignet Investor LLC 6.581% senior secured notes due 2049 (Reg S)",
-          "terms": "Reg S tranche of the same issue. Last print 92.68 on October 28, 2026."
-        }
-      ],
-      "developments": [
-        {
-          "date": "2024-12-04",
-          "detail": "Meta and Louisiana Economic Development announce the Richland Parish campus; site work begins the same month. Initial reported cost above $10 billion.",
-          "grade": "C",
-          "source_label": "American Buildout tracker",
-          "source_url": "https://americanbuildout.com/meta-hyperion/",
-          "title": "Meta announces the Hyperion campus"
-        },
-        {
-          "date": "2025-08-20",
-          "detail": "The Louisiana Public Service Commission approves Entergy's first three gas plants and transmission for the site, docket U-37425.",
-          "grade": "C",
-          "source_label": "American Buildout tracker",
-          "source_url": "https://americanbuildout.com/meta-hyperion/",
-          "title": "Louisiana PSC approves Entergy gas plants for the site"
-        },
-        {
-          "date": "2025-10-16",
-          "detail": "Beignet Investor LLC prices $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 at Treasuries plus 225 basis points, rated A+ by S&P, the largest single-tranche private debt offering on record.",
-          "grade": "B",
-          "source_label": "IFR",
-          "source_url": "https://www.ifre.com/ifr-awards/2327933/financing-package-blue-owl-capitalbeignet-investors-us27.3bn-23.6-year-bond",
-          "title": "Beignet Investor prices $27.294 billion of notes"
-        },
-        {
-          "date": "2025-10-21",
-          "detail": "Blue Owl funds take 80 percent and Meta 20 percent of the venture, with about $27 billion of committed development costs, a Blue Owl cash contribution of about $7 billion, a one-time distribution to Meta of about $3 billion, and a residual value guarantee covering roughly the first 16 years.",
-          "grade": "B",
-          "source_label": "Meta press release",
-          "source_url": "https://www.webwire.com/ViewPressRel.asp?aId=345656",
-          "title": "Meta announces the Blue Owl joint venture"
-        },
-        {
-          "date": "2026-07-13",
-          "detail": "Meta announces the expansion of Hyperion to 5 GW, with total planned investment above $50 billion, about 2 GW expected online by 2030 and full buildout around 2032.",
-          "grade": "B",
-          "source_label": "Meta announcement, per Reuters",
-          "source_url": "https://americanbuildout.com/meta-hyperion/",
-          "title": "Meta expands Hyperion to 5 GW"
-        }
-      ],
-      "facts": [
-        [
-          "Location",
-          "Richland Parish, Louisiana"
-        ],
-        [
-          "Ownership",
-          "Blue Owl Capital funds 80 percent; Meta 20 percent"
-        ],
-        [
-          "Tenant",
-          "Meta Platforms, sole tenant, construction and property manager"
-        ],
-        [
-          "Financing",
-          "$27.294B of 6.581% notes due 2049, issued by Beignet Investor LLC"
-        ],
-        [
-          "Site",
-          "2,250 acres; expanding to 5 GW; total planned investment above $50B"
-        ]
-      ],
-      "index_lede": "Meta's Louisiana AI campus, owned 80/20 by Blue Owl funds and Meta and financed with $27.3 billion of Beignet Investor notes due 2049.",
-      "instruments_note": "The registry also carries an unverified line, PROJECT BEIGNET 6.85% due 06/01/49, which matches nothing in public reporting; it is not listed as a bond of this project.",
-      "issuer_groups": [
-        "beignet",
-        "meta"
-      ],
-      "location": "Richland Parish, Louisiana",
-      "name": "Hyperion",
-      "parties": [
-        {
-          "name": "Beignet Investor LLC",
-          "role": "Issuer of the $27.294B notes; bankruptcy-remote SPV"
-        },
-        {
-          "name": "Project Beignet Holdings LLC",
-          "role": "The joint venture company (structure per deal reporting)"
-        },
-        {
-          "name": "Blue Owl Capital funds",
-          "role": "80 percent owner; about $7B cash contribution at close"
-        },
-        {
-          "name": "Meta Platforms",
-          "role": "20 percent owner; sole tenant; residual value guarantor"
-        },
-        {
-          "name": "Entergy Louisiana",
-          "role": "Power supply; first three gas plants approved August 2025"
-        },
-        {
-          "name": "Morgan Stanley",
-          "role": "Sole bookrunner on the notes"
-        }
-      ],
-      "slug": "hyperion",
-      "sponsor": "Meta Platforms (20% owner, tenant); Blue Owl Capital funds (80%)",
-      "sponsor_url": "/leverage/issuer/meta/",
-      "summary": [
-        "Hyperion is Meta's flagship AI data center campus in Richland Parish, Louisiana, a 2,250-acre site announced in December 2024 at an initially reported cost above $10 billion. In October 2025 Meta moved the campus into a joint venture owned 80 percent by funds managed by Blue Owl Capital and 20 percent by Meta, with about $27 billion of committed development costs; Blue Owl funds contributed about $7 billion in cash and Meta received a one-time distribution of about $3 billion.",
-        "The venture's issuer, Beignet Investor LLC, sold $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 in October 2025, the largest single-tranche private debt offering on record. Meta leases the campus under operating leases with a four-year initial term and extension options, backed by a residual value guarantee covering roughly the first 16 years. In July 2026 Meta announced an expansion to 5 GW, taking total planned investment above $50 billion."
-      ]
+     "date": "2025-10-17",
+     "detail": "The New Mexico Environmental Law Center's first suit over the September 2025 IRB approval procedure. A second suit followed on February 6, 2026.",
+     "grade": "C",
+     "source_label": "Data Center Dynamics, recorded in the daily filings memo",
+     "title": "Litigation over the IRB approval procedure begins"
     },
     {
-      "bonds": [
-        {
-          "cusip": "83577VAA8",
-          "label": "Sopaipilla Investor LLC 7.534% senior secured notes due 2048",
-          "terms": "144A tranche of the $12.547B single-tranche issue, priced July 27, 2026 at Treasuries plus 287.5bp. S&P A+ and Fitch AA-, stable outlooks. Last print 100.29 on October 29, 2026; latest fund mark 103.65, period ended July 31, 2026."
-        },
-        {
-          "cusip": "U8358CAA9",
-          "label": "Sopaipilla Inv LLC 7.534% senior secured notes due 2048 (Reg S)",
-          "terms": "Reg S tranche of the same issue."
-        }
-      ],
-      "developments": [
-        {
-          "date": "2025-10-15",
-          "detail": "Meta announces a $1.5 billion first phase on about 1,000 acres in northeast El Paso, scalable to 1 GW, online 2028, with about 1,800 peak construction workers and about 100 permanent jobs.",
-          "grade": "B",
-          "source_label": "Meta announcement, per Reuters",
-          "source_url": "https://www.constructionequipmentguide.com/meta-platforms-commits-15b-for-texas-ai-data-center/69608",
-          "title": "Meta announces the El Paso campus and breaks ground"
-        },
-        {
-          "date": "2026-03-26",
-          "detail": "Meta lifts the planned El Paso investment to about $10 billion in total, with about 300 operational jobs and up to 4,000 peak construction workers.",
-          "grade": "B",
-          "source_label": "Meta expansion update, per Data Center Dynamics",
-          "source_url": "https://elpasoinfocus.com/briefing",
-          "title": "Meta raises planned campus investment to about $10 billion"
-        },
-        {
-          "date": "2026-07-27",
-          "detail": "Sopaipilla Investor LLC prices $12.547 billion of 7.534 percent amortizing notes due November 30, 2048 at Treasuries plus 287.5 basis points, rated A+ by S&P and AA- by Fitch, run by JPMorgan and Morgan Stanley.",
-          "grade": "B",
-          "source_label": "PitchBook",
-          "source_url": "https://pitchbook.com/news/articles/investors-flock-to-12-5b-data-center-bond-deal-for-blackrock-sponsored-sopaipilla",
-          "title": "Sopaipilla Investor prices $12.547 billion of notes"
-        },
-        {
-          "date": "2026-07-28",
-          "detail": "BlackRock funds take 80 percent and Meta 20 percent, with about $14 billion of total development costs, a BlackRock cash contribution of about $4.9 billion, Meta land and construction in progress of about $2.3 billion, a $1 billion one-time distribution to Meta, and a residual value guarantee threshold of about $13 billion declining over the first 16 years.",
-          "grade": "B",
-          "source_label": "Meta press release, per multiple reports",
-          "source_url": "https://elpasoinfocus.com/briefing",
-          "title": "Meta announces the BlackRock joint venture"
-        }
-      ],
-      "facts": [
-        [
-          "Location",
-          "El Paso, Texas"
-        ],
-        [
-          "Ownership",
-          "BlackRock funds (GIP, HPS) 80 percent; Meta 20 percent"
-        ],
-        [
-          "Tenant",
-          "Meta Platforms, sole tenant under triple-net leases from 2028"
-        ],
-        [
-          "Financing",
-          "$12.547B of 7.534% notes due 2048, issued by Sopaipilla Investor LLC"
-        ],
-        [
-          "Capacity",
-          "960 MW planned; campus designed to scale to 1 GW; online 2028"
-        ]
-      ],
-      "index_lede": "Meta's El Paso campus, owned 80/20 by BlackRock funds and Meta and financed with $12.5 billion of Sopaipilla Investor notes due 2048.",
-      "issuer_groups": [
-        "sopaipilla",
-        "meta"
-      ],
-      "location": "El Paso, Texas",
-      "name": "Sopaipilla",
-      "parties": [
-        {
-          "name": "Sopaipilla Investor LLC",
-          "role": "Issuer of the $12.547B notes"
-        },
-        {
-          "name": "Project Sopaipilla Holdings LLC",
-          "role": "The joint venture holding company"
-        },
-        {
-          "name": "BlackRock (GIP, HPS Investment Partners)",
-          "role": "80 percent owner; about $4.9B cash contribution"
-        },
-        {
-          "name": "Meta Platforms",
-          "role": "20 percent owner; sole tenant; residual value guarantor"
-        },
-        {
-          "name": "Wurldwide LLC",
-          "role": "Meta subsidiary named on Texas site development filings"
-        },
-        {
-          "name": "El Paso Electric",
-          "role": "Local utility; proposed 366 MW McCloud gas facility contested locally"
-        }
-      ],
-      "slug": "sopaipilla",
-      "sponsor": "Meta Platforms (20% owner, tenant); BlackRock funds via GIP and HPS (80%)",
-      "sponsor_url": "/leverage/issuer/meta/",
-      "summary": [
-        "Sopaipilla is the financing structure for Meta's AI data center campus in northeast El Paso, Texas, announced in October 2025 as a $1.5 billion first phase on about 1,000 acres, designed to scale to 1 GW and come online in 2028. Meta raised the planned investment to about $10 billion in March 2026.",
-        "In July 2026 Meta placed the campus into a joint venture owned 80 percent by funds managed by BlackRock, through Global Infrastructure Management and HPS Investment Partners, and 20 percent by Meta, with about $14 billion of total development costs. The venture's issuer, Sopaipilla Investor LLC, sold $12.547 billion of 7.534 percent senior secured notes due November 30, 2048, secured by Meta's lease payments. The campus is planned at 960 MW."
-      ]
+     "date": "2025-11-12",
+     "detail": "Exhibit A, Section 8.4 states that Project Jupiter will power itself with an onsite microgrid system, with natural gas generation and battery storage. Thirteen deeds of trust dated the same day run from the Red Chiles entities and Yucca Growth Infrastructure LLCs to Fidelity National Title of New Mexico, with IRB deeds to the county, leasebacks, and subordinations naming Citibank and Goldman Sachs Bank USA.",
+     "source_label": "Doña Ana County Clerk records, via the leverage monitor registry",
+     "title": "Community Benefits Agreement signed"
     },
     {
-      "bonds": [
-        {
-          "cusip": "36322DAA4",
-          "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031",
-          "terms": "From the $3.507B single offering priced July 23, 2026 and closed July 28, 2026, sold under Rule 144A and Regulation S. Last print 94.25 on October 29, 2026; latest fund mark 100.27, period ended July 31, 2026."
-        },
-        {
-          "cusip": "U3190CAA2",
-          "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031 (Reg S)",
-          "terms": "Second CUSIP on the same $3.507B offering; the registry's split of the two CUSIPs across two entity names is under review against the offering documents, which name a single issuer. Last print 90.50 on October 22, 2026."
-        }
-      ],
-      "developments": [
-        {
-          "date": "2022-12-28",
-          "detail": "Galaxy acquires the Helios facility and real property in Dickens County from Argo Blockchain for $65 million.",
-          "grade": "B",
-          "source_label": "Argo Blockchain announcement",
-          "source_url": "https://www.argoblockchain.com/news-room/2022-december-helios-sale-to-galaxy",
-          "title": "Galaxy acquires the Helios site from Argo Blockchain"
-        },
-        {
-          "date": "2025-03-28",
-          "detail": "Galaxy announces the Phase I lease with CoreWeave: 133 MW of critical IT load on a 15-year term, with about $4.5 billion of expected total revenue over the term.",
-          "grade": "B",
-          "source_label": "Galaxy Digital release, per Data Center Dynamics",
-          "source_url": "https://www.datacenterdynamics.com/en/news/galaxy-digital-pivots-from-crypto-to-ai-signs-200mw-deal-with-coreweave/",
-          "title": "Phase I lease signed with CoreWeave"
-        },
-        {
-          "date": "2025-08-15",
-          "detail": "Galaxy closes the $1.4 billion Phase I project facility, announces the executed Phase II lease, and announces CoreWeave's exercise of the final Phase III option, taking commitments to 526 MW of critical IT load.",
-          "grade": "A",
-          "source_label": "Galaxy Digital release and Form 8-K",
-          "source_url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
-          "title": "Phase I financing closes; CoreWeave commits to all three phases"
-        },
-        {
-          "date": "2026-01-15",
-          "detail": "Following the Large Load Interconnection Study, ERCOT approves an additional 830 MW and Galaxy signs a service agreement with AEP Texas, taking total approved and contracted capacity to 1.63 GW.",
-          "grade": "B",
-          "source_label": "Galaxy Digital release",
-          "source_url": "https://investor.galaxy.com/static-files/1cf65341-3f6a-4b2c-8341-a88f609de2b0",
-          "title": "ERCOT approves a further 830 MW"
-        },
-        {
-          "date": "2026-07-06",
-          "detail": "Galaxy completes Phase I and delivers all 133 MW of critical IT load to CoreWeave; rent commenced in the second quarter of 2026.",
-          "grade": "B",
-          "source_label": "Galaxy Digital release",
-          "source_url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
-          "title": "Phase I completed and delivered to CoreWeave"
-        },
-        {
-          "date": "2026-07-23",
-          "detail": "Galaxy Helios Data Centers II LLC prices $3.507 billion of 9.875 percent senior secured notes due 2031 to finance part of Phase II; the offering closes on July 28, 2026.",
-          "grade": "B",
-          "source_label": "Galaxy Digital pricing release",
-          "source_url": "https://www.prnewswire.com/news-releases/galaxy-digital-inc-announces-pricing-of-3-507-billion-of-senior-secured-notes-302833899.html",
-          "title": "Phase II notes priced at $3.507 billion"
-        },
-        {
-          "date": "2026-10-27",
-          "detail": "Galaxy reports net income of $323 million, Data Centers adjusted gross profit of $79 million and adjusted EBITDA of $69 million, with Phase II fully financed, under construction, on schedule and within budget, and tenant discussions under way for the unleased 830 MW.",
-          "grade": "A",
-          "source_label": "Galaxy Digital Form 8-K (0001859392-26-000108)",
-          "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm",
-          "title": "Q3 2026: first full quarter of Phase I revenue"
-        }
-      ],
-      "facts": [
-        [
-          "Location",
-          "Dickens County, Texas"
-        ],
-        [
-          "Owner and operator",
-          "Galaxy Digital Inc."
-        ],
-        [
-          "Tenant",
-          "CoreWeave, 526 MW of critical IT load across three phases, 15-year leases"
-        ],
-        [
-          "Approved power",
-          "1.63 GW gross (800 MW Helios I; 830 MW Helios II, unleased)"
-        ],
-        [
-          "Financing",
-          "$1.4B Phase I term loan due 2028; $3.507B of 9.875% notes due 2031"
-        ]
-      ],
-      "index_lede": "Galaxy Digital's West Texas campus, leased to CoreWeave for 526 MW across three phases and financed with a $1.4 billion project loan and $3.5 billion of notes due 2031.",
-      "instruments": [
-        {
-          "detail": "Borrower Galaxy Helios I LLC; closed August 15, 2025, maturing August 15, 2028. One-month Term SOFR with a 2.50 percent floor plus 4.75 percent; initial lender Deutsche Bank AG, New York Branch; agent GLAS USA LLC. Maximum loan-to-cost 80 percent; Galaxy provided the $350 million equity requirement. The registry baseline records $1.3 billion drawn at Q2 2026.",
-          "name": "Phase I senior secured term loan, $1.4B"
-        }
-      ],
-      "issuer_groups": [
-        "helios"
-      ],
-      "location": "Dickens County, Texas",
-      "name": "Galaxy Helios",
-      "parties": [
-        {
-          "name": "Galaxy Digital Inc.",
-          "role": "Sponsor, owner, developer and operator"
-        },
-        {
-          "name": "CoreWeave Inc.",
-          "role": "Sole tenant for Helios I, all three phases"
-        },
-        {
-          "name": "Galaxy Helios Data Centers II LLC",
-          "role": "Issuer of the $3.507B Phase II notes"
-        },
-        {
-          "name": "Galaxy Helios I LLC",
-          "role": "Borrower under the $1.4B Phase I facility"
-        },
-        {
-          "name": "Deutsche Bank AG, New York Branch",
-          "role": "Initial lender under the Phase I facility"
-        },
-        {
-          "name": "ERCOT and AEP Texas",
-          "role": "Grid approval and utility service for the 1.63 GW"
-        }
-      ],
-      "slug": "galaxy-helios",
-      "sponsor": "Galaxy Digital Inc. (owner and operator); CoreWeave, sole tenant",
-      "sponsor_url": "/leverage/issuer/helios/",
-      "summary": [
-        "Helios is Galaxy Digital's data center campus in Dickens County, West Texas, converted from a Bitcoin mining site Galaxy acquired from Argo Blockchain in December 2022 for about $65 million. CoreWeave is the sole tenant for Helios I: 526 MW of critical IT load across three phases, using 800 MW of gross power, each phase on a 15-year base lease term.",
-        "Phase I (133 MW) was completed and fully delivered to CoreWeave by July 2026. Phase II (260 MW) is under construction, financed in July 2026 with $3.507 billion of 9.875 percent senior secured notes due 2031 issued by Galaxy Helios Data Centers II LLC, with data hall deliveries scheduled to begin in the second quarter of 2027. The campus holds 1.63 GW of ERCOT-approved gross power, including a further 830 MW approved in January 2026 that was not under lease at the third quarter of 2026."
-      ]
+     "date": "2026-02-06",
+     "detail": "A second lawsuit over the project and its IRB approval procedure, following the October 2025 suit.",
+     "grade": "C",
+     "source_label": "Daily filings memo, October 22, 2026",
+     "title": "Second lawsuit filed"
+    },
+    {
+     "date": "2026-07",
+     "detail": "State regulators rejected Energy Transfer's application for a gas pipeline to the site, citing large scale water use, increased carbon emissions and a lack of state revenue generation.",
+     "grade": "C",
+     "source_label": "Bloomberg via Datacenter Dynamics",
+     "title": "New Mexico rejects the gas pipeline application"
+    },
+    {
+     "date": "2026-09",
+     "detail": "Oracle was reported to have sent a force majeure notice to Blue Owl Capital, its financier, to shield itself from increased costs if the facility fails to come online in 2028 as planned.",
+     "grade": "C",
+     "source_label": "Reporting carried in the October 16, 2026 site story",
+     "title": "Force majeure notice reported"
+    },
+    {
+     "date": "2026-09-18",
+     "detail": "The first lien loan to Yucca Growth Infrastructure, LLC matured. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Whether the loan was repaid, refinanced or extended is not in the record.",
+     "grade": "A",
+     "source_label": "Apollo Debt Solutions BDC schedule of investments, accession 0001193125-26-421669",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm",
+     "title": "Yucca Growth loan matures"
+    },
+    {
+     "date": "2026-10-13",
+     "detail": "Commissioners reviewed a proposed energy services agreement of $10M per year for 10 years, plus proposed credits of up to $55M per year for up to three years. Commissioners said an amendment to the IRB agreements would be required. No agreement was approved, and Oracle indicated it would reconsider the arrangement.",
+     "grade": "C",
+     "source_label": "Local press report of the commission meeting",
+     "title": "County reviews the proposed El Paso Electric connection"
+    },
+    {
+     "date": "2026-10-14",
+     "detail": "The Board of County Commissioners appointed 11 members to the Project Jupiter Community Monitoring Committee under Resolution No. 2026-101.",
+     "grade": "C",
+     "source_label": "Doña Ana County release",
+     "title": "Community Monitoring Committee appointed"
+    },
+    {
+     "date": "2026-10-16",
+     "detail": "Oracle asked FERC to expedite approval of the 17.8 mile Green Chile pipeline, about 400 million cubic feet of gas a day to on site fuel cells supplied by Bloom Energy. The pipeline timeline had slipped to February 2027. New Mexico Attorney General Raul Torrez pressed FERC to broaden its environmental review to the combined footprint of the data centre and the pipeline.",
+     "grade": "C",
+     "source_label": "Kilambi Research coverage",
+     "source_url": "/stories/2026-10-16-oracle-project-jupiter-pipeline-ferc/",
+     "title": "Oracle presses FERC to expedite the Green Chile pipeline"
+    },
+    {
+     "date": "2026-10-27",
+     "detail": "After a closed session of more than two hours, commissioners voted 5-0 to authorize county management and legal counsel to notify the Project Jupiter entities of a potential breach of the IRB agreements over the proposed El Paso Electric connection and power generation plan, and to engage in discussions on a path forward. The chairman reads Section 8.4 as requiring on site generation with no utility connection. The quoted text does not expressly bar a utility connection, no breach has been established, the vote revokes nothing, and Oracle had not responded at publication.",
+     "grade": "C",
+     "source_label": "Organ Mountain News, October 28, 2026",
+     "title": "County authorizes a potential breach notice"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "Community Monitoring Committee holds its first meeting",
+     "detail": "The 11 member Project Jupiter Community Monitoring Committee, appointed on October 14, 2026 under Resolution No. 2026-101, held its first public meeting in Las Cruces. The committee elected officers, adopted bylaws and chose water, fuel cells and economic and governmental agreements as its first information topics, with a next business meeting aimed for November 21, 2026 in the southern part of the county.",
+     "grade": "C",
+     "source_label": "Organ Mountain News, October 30, 2026"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "Project Jupiter power permit deadline waived in New Mexico",
+     "detail": "Yucca Growth Infrastructure waived its right to a November 23 decision on the air quality permit for Project Jupiter's on-site fuel cell power plant, giving the New Mexico Environment Department more time to review updated emissions projections instead of risking a denial. A public hearing is scheduled for early December. Without the permit the power infrastructure cannot be built, while work on the data centre buildings continues.",
+     "source_label": "Kilambi Research coverage",
+     "source_url": "/stories/2026-11-05-project-jupiter-air-permit-deadline-waived/",
+     "grade": "C"
     }
-  ]
+   ],
+   "facts": [
+    [
+     "Capacity",
+     "2.5 GW"
+    ],
+    [
+     "Location",
+     "Santa Teresa, Doña Ana County, New Mexico"
+    ],
+    [
+     "IRB authorization",
+     "$165B ceiling"
+    ],
+    [
+     "Series",
+     "2025A $15B, 2025B $25B, 2025C about $125B"
+    ],
+    [
+     "Power",
+     "Onsite microgrid under the Community Benefits Agreement, contested"
+    ],
+    [
+     "Online target",
+     "2028, as reported"
+    ]
+   ],
+   "instruments": [
+    {
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Part of the $165B authorization. County holds title and leases back to the project companies.",
+     "name": "Series 2025A industrial revenue bonds, $15B"
+    },
+    {
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Green Chile Ventures LLC is named in the executed instruments.",
+     "name": "Series 2025B industrial revenue bonds, $25B"
+    },
+    {
+     "detail": "Doña Ana County IRB under Ordinance 367-2025. Oracle America, Inc. is named as purchaser in the executed instruments. The executed text is graded B in the registry: the direct fetch failed and the position rests on the verified county URL, indexed text and bond counsel draft forms.",
+     "name": "Series 2025C industrial revenue bonds, about $125B"
+    },
+    {
+     "detail": "Held by Apollo Debt Solutions BDC. Terms on the June 30, 2026 schedule: 6.75 percent, S+300, principal $10,539 thousand, fair value $9,896 thousand. Matured September 18, 2026; repayment, refinancing or extension is not in the record.",
+     "name": "Yucca Growth Infrastructure first lien loan",
+     "url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm"
+    }
+   ],
+   "instruments_note": "The Jupiter bonds are private placements. No CUSIP, fund holder position or trade print for any of them appears in the record, so none carries a bond page in the Leverage section. The sponsor's traded bonds sit on the Oracle issuer page.",
+   "lede": "Oracle's 2.5 GW campus in Doña Ana County, New Mexico, financed through $165B of county industrial revenue bonds, and the running record of the fight over how it gets its power.",
+   "location": "Santa Teresa, Doña Ana County, New Mexico",
+   "name": "Project Jupiter",
+   "parties": [
+    {
+     "name": "Oracle",
+     "role": "Sponsor. Oracle America, Inc. is named as purchaser in the executed Series 2025C instruments."
+    },
+    {
+     "name": "Red Chiles A, B, C and D",
+     "role": "Project companies. Grantors on the November 2025 deeds of trust, parties to the IRB deeds and leasebacks."
+    },
+    {
+     "name": "Yucca Growth Infrastructure, LLC",
+     "role": "Project vehicle. Borrower on the Apollo Debt Solutions BDC first lien loan."
+    },
+    {
+     "name": "Green Chile Ventures LLC",
+     "role": "Project party named in the executed Series 2025B and 2025C instruments."
+    },
+    {
+     "name": "Doña Ana County",
+     "role": "IRB issuer and title holder. The county holds title and leases the project back to the project companies."
+    },
+    {
+     "name": "El Paso Electric",
+     "role": "Territory utility. Counterparty to the proposed supplemental grid connection and energy services agreement."
+    },
+    {
+     "name": "Energy Transfer",
+     "role": "Applicant for the gas pipeline rejected at state level in July 2026."
+    },
+    {
+     "name": "Bloom Energy",
+     "role": "Supplier of the on site fuel cells in the Green Chile pipeline plan."
+    },
+    {
+     "name": "Blue Owl Capital",
+     "role": "Financier named in reporting. Recipient of the reported September 2026 force majeure notice."
+    },
+    {
+     "name": "Apollo Debt Solutions BDC",
+     "role": "Holder of the Yucca Growth first lien loan that matured September 18, 2026."
+    },
+    {
+     "name": "FERC",
+     "role": "Federal approval for the Green Chile pipeline. The expedite request is pending in the record."
+    }
+   ],
+   "slug": "project-jupiter",
+   "sponsor": "Oracle",
+   "sponsor_key": "oracle",
+   "stories": [
+    {
+     "slug": "2026-10-16-oracle-project-jupiter-pipeline-ferc",
+     "title": "Oracle presses FERC to expedite gas pipeline for Project Jupiter"
+    }
+   ],
+   "summary": [
+    "Project Jupiter is Oracle's 2.5 GW data centre campus in the Santa Teresa area of Doña Ana County, New Mexico. The financing runs through county industrial revenue bonds under Ordinance 367-2025: a $165 billion authorization ceiling that reconciles as Series 2025A of $15 billion, Series 2025B of $25 billion and Series 2025C of about $125 billion. The county holds title and leases the project back to the project companies, which is why the county assessor shows no parcels in the campus parties' names. The bonds are private placements. No CUSIP, fund holder position or trade print for any Jupiter entity appears in the record, and EMMA carries no continuing disclosure for them.",
+    "Power is the contested point. The Community Benefits Agreement signed on November 12, 2025 commits the project, in Exhibit A, Section 8.4, to power itself with an onsite microgrid system. Oracle has since pursued two supply routes the county disputes or regulators have blocked: the Green Chile gas pipeline, rejected at state level in July 2026 and now before FERC, and a supplemental grid connection from El Paso Electric, which the county commission voted on October 27, 2026 to treat as a potential breach of the IRB agreements. The $165 billion figure is an authorization ceiling across the three series, not a project cost. The record holds no total project cost and no construction status beyond the reported 2028 online target."
+   ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "076912AA2",
+     "label": "Beignet Investor LLC 6.581% senior secured notes due 2049",
+     "terms": "144A tranche of the $27.294B single-tranche issue, priced October 16, 2025 at Treasuries plus 225bp. S&P A+. Last print 92.93 on October 29, 2026; latest fund mark 102.06, period ended June 30, 2026."
+    },
+    {
+     "cusip": "U06930AA6",
+     "label": "Beignet Investor LLC 6.581% senior secured notes due 2049 (Reg S)",
+     "terms": "Reg S tranche of the same issue. Last print 92.68 on October 28, 2026."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2024-12-04",
+     "detail": "Meta and Louisiana Economic Development announce the Richland Parish campus; site work begins the same month. Initial reported cost above $10 billion.",
+     "grade": "C",
+     "source_label": "American Buildout tracker",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Meta announces the Hyperion campus"
+    },
+    {
+     "date": "2025-08-20",
+     "detail": "The Louisiana Public Service Commission approves Entergy's first three gas plants and transmission for the site, docket U-37425.",
+     "grade": "C",
+     "source_label": "American Buildout tracker",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Louisiana PSC approves Entergy gas plants for the site"
+    },
+    {
+     "date": "2025-10-16",
+     "detail": "Beignet Investor LLC prices $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 at Treasuries plus 225 basis points, rated A+ by S&P, the largest single-tranche private debt offering on record.",
+     "grade": "B",
+     "source_label": "IFR",
+     "source_url": "https://www.ifre.com/ifr-awards/2327933/financing-package-blue-owl-capitalbeignet-investors-us27.3bn-23.6-year-bond",
+     "title": "Beignet Investor prices $27.294 billion of notes"
+    },
+    {
+     "date": "2025-10-21",
+     "detail": "Blue Owl funds take 80 percent and Meta 20 percent of the venture, with about $27 billion of committed development costs, a Blue Owl cash contribution of about $7 billion, a one-time distribution to Meta of about $3 billion, and a residual value guarantee covering roughly the first 16 years.",
+     "grade": "B",
+     "source_label": "Meta press release",
+     "source_url": "https://www.webwire.com/ViewPressRel.asp?aId=345656",
+     "title": "Meta announces the Blue Owl joint venture"
+    },
+    {
+     "date": "2026-07-13",
+     "detail": "Meta announces the expansion of Hyperion to 5 GW, with total planned investment above $50 billion, about 2 GW expected online by 2030 and full buildout around 2032.",
+     "grade": "B",
+     "source_label": "Meta announcement, per Reuters",
+     "source_url": "https://americanbuildout.com/meta-hyperion/",
+     "title": "Meta expands Hyperion to 5 GW"
+    },
+    {
+     "date": "2026-11-11",
+     "title": "Meta infrastructure chief to leave in 2027, AWS veteran succeeds",
+     "detail": "Meta's head of infrastructure Santosh Janardhan will leave in 2027, and David Brown, a former AWS senior vice president, will lead the infrastructure organisation and serve as chief technical officer of the Meta Compute initiative that oversees Meta's data centre buildout, including the Hyperion campus. Meta expects capital spending of 135 billion to 145 billion dollars this year.",
+     "source_label": "Kilambi Research coverage",
+     "source_url": "/stories/2026-11-11-meta-infrastructure-chief-janardhan-leaves-brown/",
+     "grade": "B"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "Richland Parish, Louisiana"
+    ],
+    [
+     "Ownership",
+     "Blue Owl Capital funds 80 percent; Meta 20 percent"
+    ],
+    [
+     "Tenant",
+     "Meta Platforms, sole tenant, construction and property manager"
+    ],
+    [
+     "Financing",
+     "$27.294B of 6.581% notes due 2049, issued by Beignet Investor LLC"
+    ],
+    [
+     "Site",
+     "2,250 acres; expanding to 5 GW; total planned investment above $50B"
+    ]
+   ],
+   "index_lede": "Meta's Louisiana AI campus, owned 80/20 by Blue Owl funds and Meta and financed with $27.3 billion of Beignet Investor notes due 2049.",
+   "instruments_note": "The registry also carries an unverified line, PROJECT BEIGNET 6.85% due 06/01/49, which matches nothing in public reporting; it is not listed as a bond of this project.",
+   "issuer_groups": [
+    "beignet",
+    "meta"
+   ],
+   "location": "Richland Parish, Louisiana",
+   "name": "Hyperion",
+   "parties": [
+    {
+     "name": "Beignet Investor LLC",
+     "role": "Issuer of the $27.294B notes; bankruptcy-remote SPV"
+    },
+    {
+     "name": "Project Beignet Holdings LLC",
+     "role": "The joint venture company (structure per deal reporting)"
+    },
+    {
+     "name": "Blue Owl Capital funds",
+     "role": "80 percent owner; about $7B cash contribution at close"
+    },
+    {
+     "name": "Meta Platforms",
+     "role": "20 percent owner; sole tenant; residual value guarantor"
+    },
+    {
+     "name": "Entergy Louisiana",
+     "role": "Power supply; first three gas plants approved August 2025"
+    },
+    {
+     "name": "Morgan Stanley",
+     "role": "Sole bookrunner on the notes"
+    }
+   ],
+   "slug": "hyperion",
+   "sponsor": "Meta Platforms (20% owner, tenant); Blue Owl Capital funds (80%)",
+   "sponsor_url": "/leverage/issuer/meta/",
+   "summary": [
+    "Hyperion is Meta's flagship AI data center campus in Richland Parish, Louisiana, a 2,250-acre site announced in December 2024 at an initially reported cost above $10 billion. In October 2025 Meta moved the campus into a joint venture owned 80 percent by funds managed by Blue Owl Capital and 20 percent by Meta, with about $27 billion of committed development costs; Blue Owl funds contributed about $7 billion in cash and Meta received a one-time distribution of about $3 billion.",
+    "The venture's issuer, Beignet Investor LLC, sold $27.294 billion of 6.581 percent senior secured notes due May 30, 2049 in October 2025, the largest single-tranche private debt offering on record. Meta leases the campus under operating leases with a four-year initial term and extension options, backed by a residual value guarantee covering roughly the first 16 years. In July 2026 Meta announced an expansion to 5 GW, taking total planned investment above $50 billion."
+   ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "83577VAA8",
+     "label": "Sopaipilla Investor LLC 7.534% senior secured notes due 2048",
+     "terms": "144A tranche of the $12.547B single-tranche issue, priced July 27, 2026 at Treasuries plus 287.5bp. S&P A+ and Fitch AA-, stable outlooks. Last print 100.29 on October 29, 2026; latest fund mark 103.65, period ended July 31, 2026."
+    },
+    {
+     "cusip": "U8358CAA9",
+     "label": "Sopaipilla Inv LLC 7.534% senior secured notes due 2048 (Reg S)",
+     "terms": "Reg S tranche of the same issue."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2025-10-15",
+     "detail": "Meta announces a $1.5 billion first phase on about 1,000 acres in northeast El Paso, scalable to 1 GW, online 2028, with about 1,800 peak construction workers and about 100 permanent jobs.",
+     "grade": "B",
+     "source_label": "Meta announcement, per Reuters",
+     "source_url": "https://www.constructionequipmentguide.com/meta-platforms-commits-15b-for-texas-ai-data-center/69608",
+     "title": "Meta announces the El Paso campus and breaks ground"
+    },
+    {
+     "date": "2026-03-26",
+     "detail": "Meta lifts the planned El Paso investment to about $10 billion in total, with about 300 operational jobs and up to 4,000 peak construction workers.",
+     "grade": "B",
+     "source_label": "Meta expansion update, per Data Center Dynamics",
+     "source_url": "https://elpasoinfocus.com/briefing",
+     "title": "Meta raises planned campus investment to about $10 billion"
+    },
+    {
+     "date": "2026-07-27",
+     "detail": "Sopaipilla Investor LLC prices $12.547 billion of 7.534 percent amortizing notes due November 30, 2048 at Treasuries plus 287.5 basis points, rated A+ by S&P and AA- by Fitch, run by JPMorgan and Morgan Stanley.",
+     "grade": "B",
+     "source_label": "PitchBook",
+     "source_url": "https://pitchbook.com/news/articles/investors-flock-to-12-5b-data-center-bond-deal-for-blackrock-sponsored-sopaipilla",
+     "title": "Sopaipilla Investor prices $12.547 billion of notes"
+    },
+    {
+     "date": "2026-07-28",
+     "detail": "BlackRock funds take 80 percent and Meta 20 percent, with about $14 billion of total development costs, a BlackRock cash contribution of about $4.9 billion, Meta land and construction in progress of about $2.3 billion, a $1 billion one-time distribution to Meta, and a residual value guarantee threshold of about $13 billion declining over the first 16 years.",
+     "grade": "B",
+     "source_label": "Meta press release, per multiple reports",
+     "source_url": "https://elpasoinfocus.com/briefing",
+     "title": "Meta announces the BlackRock joint venture"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "El Paso, Texas"
+    ],
+    [
+     "Ownership",
+     "BlackRock funds (GIP, HPS) 80 percent; Meta 20 percent"
+    ],
+    [
+     "Tenant",
+     "Meta Platforms, sole tenant under triple-net leases from 2028"
+    ],
+    [
+     "Financing",
+     "$12.547B of 7.534% notes due 2048, issued by Sopaipilla Investor LLC"
+    ],
+    [
+     "Capacity",
+     "960 MW planned; campus designed to scale to 1 GW; online 2028"
+    ]
+   ],
+   "index_lede": "Meta's El Paso campus, owned 80/20 by BlackRock funds and Meta and financed with $12.5 billion of Sopaipilla Investor notes due 2048.",
+   "issuer_groups": [
+    "sopaipilla",
+    "meta"
+   ],
+   "location": "El Paso, Texas",
+   "name": "Sopaipilla",
+   "parties": [
+    {
+     "name": "Sopaipilla Investor LLC",
+     "role": "Issuer of the $12.547B notes"
+    },
+    {
+     "name": "Project Sopaipilla Holdings LLC",
+     "role": "The joint venture holding company"
+    },
+    {
+     "name": "BlackRock (GIP, HPS Investment Partners)",
+     "role": "80 percent owner; about $4.9B cash contribution"
+    },
+    {
+     "name": "Meta Platforms",
+     "role": "20 percent owner; sole tenant; residual value guarantor"
+    },
+    {
+     "name": "Wurldwide LLC",
+     "role": "Meta subsidiary named on Texas site development filings"
+    },
+    {
+     "name": "El Paso Electric",
+     "role": "Local utility; proposed 366 MW McCloud gas facility contested locally"
+    }
+   ],
+   "slug": "sopaipilla",
+   "sponsor": "Meta Platforms (20% owner, tenant); BlackRock funds via GIP and HPS (80%)",
+   "sponsor_url": "/leverage/issuer/meta/",
+   "summary": [
+    "Sopaipilla is the financing structure for Meta's AI data center campus in northeast El Paso, Texas, announced in October 2025 as a $1.5 billion first phase on about 1,000 acres, designed to scale to 1 GW and come online in 2028. Meta raised the planned investment to about $10 billion in March 2026.",
+    "In July 2026 Meta placed the campus into a joint venture owned 80 percent by funds managed by BlackRock, through Global Infrastructure Management and HPS Investment Partners, and 20 percent by Meta, with about $14 billion of total development costs. The venture's issuer, Sopaipilla Investor LLC, sold $12.547 billion of 7.534 percent senior secured notes due November 30, 2048, secured by Meta's lease payments. The campus is planned at 960 MW."
+   ]
+  },
+  {
+   "bonds": [
+    {
+     "cusip": "36322DAA4",
+     "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031",
+     "terms": "From the $3.507B single offering priced July 23, 2026 and closed July 28, 2026, sold under Rule 144A and Regulation S. Last print 94.25 on October 29, 2026; latest fund mark 100.27, period ended July 31, 2026."
+    },
+    {
+     "cusip": "U3190CAA2",
+     "label": "Galaxy Helios Data Centers II LLC 9.875% senior secured notes due 2031 (Reg S)",
+     "terms": "Second CUSIP on the same $3.507B offering; the registry's split of the two CUSIPs across two entity names is under review against the offering documents, which name a single issuer. Last print 90.50 on October 22, 2026."
+    }
+   ],
+   "developments": [
+    {
+     "date": "2022-12-28",
+     "detail": "Galaxy acquires the Helios facility and real property in Dickens County from Argo Blockchain for $65 million.",
+     "grade": "B",
+     "source_label": "Argo Blockchain announcement",
+     "source_url": "https://www.argoblockchain.com/news-room/2022-december-helios-sale-to-galaxy",
+     "title": "Galaxy acquires the Helios site from Argo Blockchain"
+    },
+    {
+     "date": "2025-03-28",
+     "detail": "Galaxy announces the Phase I lease with CoreWeave: 133 MW of critical IT load on a 15-year term, with about $4.5 billion of expected total revenue over the term.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release, per Data Center Dynamics",
+     "source_url": "https://www.datacenterdynamics.com/en/news/galaxy-digital-pivots-from-crypto-to-ai-signs-200mw-deal-with-coreweave/",
+     "title": "Phase I lease signed with CoreWeave"
+    },
+    {
+     "date": "2025-08-15",
+     "detail": "Galaxy closes the $1.4 billion Phase I project facility, announces the executed Phase II lease, and announces CoreWeave's exercise of the final Phase III option, taking commitments to 526 MW of critical IT load.",
+     "grade": "A",
+     "source_label": "Galaxy Digital release and Form 8-K",
+     "source_url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+     "title": "Phase I financing closes; CoreWeave commits to all three phases"
+    },
+    {
+     "date": "2026-01-15",
+     "detail": "Following the Large Load Interconnection Study, ERCOT approves an additional 830 MW and Galaxy signs a service agreement with AEP Texas, taking total approved and contracted capacity to 1.63 GW.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release",
+     "source_url": "https://investor.galaxy.com/static-files/1cf65341-3f6a-4b2c-8341-a88f609de2b0",
+     "title": "ERCOT approves a further 830 MW"
+    },
+    {
+     "date": "2026-07-06",
+     "detail": "Galaxy completes Phase I and delivers all 133 MW of critical IT load to CoreWeave; rent commenced in the second quarter of 2026.",
+     "grade": "B",
+     "source_label": "Galaxy Digital release",
+     "source_url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+     "title": "Phase I completed and delivered to CoreWeave"
+    },
+    {
+     "date": "2026-07-23",
+     "detail": "Galaxy Helios Data Centers II LLC prices $3.507 billion of 9.875 percent senior secured notes due 2031 to finance part of Phase II; the offering closes on July 28, 2026.",
+     "grade": "B",
+     "source_label": "Galaxy Digital pricing release",
+     "source_url": "https://www.prnewswire.com/news-releases/galaxy-digital-inc-announces-pricing-of-3-507-billion-of-senior-secured-notes-302833899.html",
+     "title": "Phase II notes priced at $3.507 billion"
+    },
+    {
+     "date": "2026-10-27",
+     "detail": "Galaxy reports net income of $323 million, Data Centers adjusted gross profit of $79 million and adjusted EBITDA of $69 million, with Phase II fully financed, under construction, on schedule and within budget, and tenant discussions under way for the unleased 830 MW.",
+     "grade": "A",
+     "source_label": "Galaxy Digital Form 8-K (0001859392-26-000108)",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm",
+     "title": "Q3 2026: first full quarter of Phase I revenue"
+    }
+   ],
+   "facts": [
+    [
+     "Location",
+     "Dickens County, Texas"
+    ],
+    [
+     "Owner and operator",
+     "Galaxy Digital Inc."
+    ],
+    [
+     "Tenant",
+     "CoreWeave, 526 MW of critical IT load across three phases, 15-year leases"
+    ],
+    [
+     "Approved power",
+     "1.63 GW gross (800 MW Helios I; 830 MW Helios II, unleased)"
+    ],
+    [
+     "Financing",
+     "$1.4B Phase I term loan due 2028; $3.507B of 9.875% notes due 2031"
+    ]
+   ],
+   "index_lede": "Galaxy Digital's West Texas campus, leased to CoreWeave for 526 MW across three phases and financed with a $1.4 billion project loan and $3.5 billion of notes due 2031.",
+   "instruments": [
+    {
+     "detail": "Borrower Galaxy Helios I LLC; closed August 15, 2025, maturing August 15, 2028. One-month Term SOFR with a 2.50 percent floor plus 4.75 percent; initial lender Deutsche Bank AG, New York Branch; agent GLAS USA LLC. Maximum loan-to-cost 80 percent; Galaxy provided the $350 million equity requirement. The registry baseline records $1.3 billion drawn at Q2 2026.",
+     "name": "Phase I senior secured term loan, $1.4B"
+    }
+   ],
+   "issuer_groups": [
+    "helios"
+   ],
+   "location": "Dickens County, Texas",
+   "name": "Galaxy Helios",
+   "parties": [
+    {
+     "name": "Galaxy Digital Inc.",
+     "role": "Sponsor, owner, developer and operator"
+    },
+    {
+     "name": "CoreWeave Inc.",
+     "role": "Sole tenant for Helios I, all three phases"
+    },
+    {
+     "name": "Galaxy Helios Data Centers II LLC",
+     "role": "Issuer of the $3.507B Phase II notes"
+    },
+    {
+     "name": "Galaxy Helios I LLC",
+     "role": "Borrower under the $1.4B Phase I facility"
+    },
+    {
+     "name": "Deutsche Bank AG, New York Branch",
+     "role": "Initial lender under the Phase I facility"
+    },
+    {
+     "name": "ERCOT and AEP Texas",
+     "role": "Grid approval and utility service for the 1.63 GW"
+    }
+   ],
+   "slug": "galaxy-helios",
+   "sponsor": "Galaxy Digital Inc. (owner and operator); CoreWeave, sole tenant",
+   "sponsor_url": "/leverage/issuer/helios/",
+   "summary": [
+    "Helios is Galaxy Digital's data center campus in Dickens County, West Texas, converted from a Bitcoin mining site Galaxy acquired from Argo Blockchain in December 2022 for about $65 million. CoreWeave is the sole tenant for Helios I: 526 MW of critical IT load across three phases, using 800 MW of gross power, each phase on a 15-year base lease term.",
+    "Phase I (133 MW) was completed and fully delivered to CoreWeave by July 2026. Phase II (260 MW) is under construction, financed in July 2026 with $3.507 billion of 9.875 percent senior secured notes due 2031 issued by Galaxy Helios Data Centers II LLC, with data hall deliveries scheduled to begin in the second quarter of 2027. The campus holds 1.63 GW of ERCOT-approved gross power, including a further 830 MW approved in January 2026 that was not under lease at the third quarter of 2026."
+   ]
+  }
+ ]
 }
