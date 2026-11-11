@@ -1,22 +1,29 @@
 ---
 title: "Russian diesel tankers divert from United States as deal falters"
 date: 2026-11-07T07:14:44-05:00
-last_updated: 2026-11-07T07:14:44-05:00
+last_updated: 2026-11-10T20:30:38-05:00
 beats: ["commodities"]
 regions: ["north-america", "europe"]
 status: "story"
-lede: "Two sanctioned tankers carrying Russian diesel toward the United States have changed course, one toward Brazil and one into the Mediterranean, and no cargo under the October 9 Trump and Putin deal has yet been delivered in the US."
+lede: "The Malta-flagged Agioi Fanendes, loaded with 40,000 tonnes of Russian diesel at Primorsk on October 22, has halted off the US east coast awaiting orders, and Energy Secretary Chris Wright said on Tuesday he was confident the cargo would be sold in the global market instead."
 why_it_matters: "The diversions test whether a Treasury authorization can move Russian diesel into a market where a congressional import ban, a state governor and bipartisan senators are all warning handlers they face legal risk."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute"
+    publisher: "Reuters, via gCaptain"
+    url: "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/"
+    published: "2026-11-10"
   - title: "Tankers carrying Russian diesel change course, raising doubts about shipments to US"
     publisher: "Associated Press"
     url: "https://www.europesays.com/russia/85487/"
     published: "2026-11-05"
 tags: []
-data_as_of: "Associated Press report of November 5, 2026, read in full in this run, reporting Kpler and MarineTraffic tracking and first reported by the Financial Times; Deutsche Welle and France24 versions of November 6, 2026 were not readable in this run, and no figure here comes from them. US distillate stocks are the EIA print for the week ended October 30, 2026."
+update_bump: true
+data_as_of: "Associated Press report of November 5, 2026, read in full in this run, reporting Kpler and MarineTraffic tracking and first reported by the Financial Times; Deutsche Welle and France24 versions of November 6, 2026 were not readable in this run, and no figure here comes from them. US distillate stocks are the EIA print for the week ended October 30, 2026. Updated November 10, 2026 with Reuters' report of that day, read in full via gCaptain: the vessel's halt and speed, the Primorsk loading and the Wright and Eastmed comments are from that report."
 ---
+
+**Latest.** The tanker carrying what Energy Secretary Chris Wright called the first cargo of Russian diesel headed for the United States has come to a halt off the US east coast, Reuters reported on Tuesday. The Malta-flagged Agioi Fanendes loaded 40,000 metric tons of ultra-low sulfur diesel at Primorsk on October 22 with an expected delivery date of November 7; Vortexa analyst Ellie Valencia said its speed had fallen from about 10 knots to about 2 knots and that it was most likely still without a buyer. Asked in New Orleans whether he was concerned the vessel had been turned away, Wright said: "Not at all. No, it'll go to another port. We just want that diesel going into the world markets." Its manager Eastmed said nothing had changed and the vessel was still awaiting orders, with no discharge port nominated.
 
 President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially bound for the United States changed course, the Associated Press reported. Trump announced an agreement with Russian President Vladimir Putin on October 9 to make more than 300,000 metric tons of Russian diesel available immediately to US and global markets, with larger shipments to follow. The arrangement has yet to produce a confirmed US delivery.
 

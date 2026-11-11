@@ -1,7 +1,7 @@
 ---
 title: "Massie forces House vote on Hegseth impeachment articles"
 date: 2026-11-10T07:02:41-05:00
-last_updated: 2026-11-10T18:45:20-05:00
+last_updated: 2026-11-10T20:30:38-05:00
 beats: ["politics"]
 regions: ["north-america"]
 status: "developing"
@@ -10,6 +10,10 @@ why_it_matters: "The referral ends the impeachment drive for this Congress witho
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Cruz says Hegseth will resign, be fired or get impeached"
+    publisher: "The Hill"
+    url: "https://thehill.com/homenews/6212332-ted-cruz-hegseth-departure-impeachment-talks/"
+    published: "2026-11-10"
   - title: "House GOP shelves Pete Hegseth impeachment articles"
     publisher: "The Hill"
     url: "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/"
@@ -35,11 +39,13 @@ sources:
     url: "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie"
     published: "2026-11-10"
 tags: []
-data_as_of: "Event date November 9, 2026 (filing on the House floor); House action due within two legislative days, by Wednesday November 11. The articles are allegations in a charging document, not findings by a court or inspector general. Vote counts and passage prospects are reported expectations from congressional sources, not published whip counts. Hegseth has defended the operations at issue as lawful. Updated November 10, 2026 with The Guardian's report of Hegseth's press conference that day, read in full via the estate browser route: his characterisations of the effort, his defence of the operations, and the expectation that the House takes the resolution up on Tuesday evening, likely starting with a vote to table it. Updated November 10, 2026 with The Hill's report of the House vote that evening, read in full via the estate browser route: the 211 to 204 referral vote, the party split on it, and the Aguilar and Calvert comments are from that report; Breaking Defense's report of the same evening, headline read in the wire queue, names the Judiciary Committee as the referral destination."
+data_as_of: "Event date November 9, 2026 (filing on the House floor); House action due within two legislative days, by Wednesday November 11. The articles are allegations in a charging document, not findings by a court or inspector general. Vote counts and passage prospects are reported expectations from congressional sources, not published whip counts. Hegseth has defended the operations at issue as lawful. Updated November 10, 2026 with The Guardian's report of Hegseth's press conference that day, read in full via the estate browser route: his characterisations of the effort, his defence of the operations, and the expectation that the House takes the resolution up on Tuesday evening, likely starting with a vote to table it. Updated November 10, 2026 with The Hill's report of the House vote that evening, read in full via the estate browser route: the 211 to 204 referral vote, the party split on it, and the Aguilar and Calvert comments are from that report; Breaking Defense's report of the same evening, headline read in the wire queue, names the Judiciary Committee as the referral destination. Updated November 10, 2026 with The Hill's report of that evening, read in full via the estate browser route: the Cruz podcast prediction, the Tillis comment and the Pentagon's Tuesday evening statement are from that report."
 update_bump: true
 ---
 
-**Latest.** The House voted 211 to 204 on Tuesday evening to refer the articles to committee, the move that shelves them for the rest of this Congress. Massie was the only Republican to vote against referral; no Democrat did, and Kevin Kiley, the California independent who left the Republican Party this year, voted with the Republicans. Breaking Defense reported the resolution was sent to the Judiciary Committee. Democratic leaders backed the resolution without whipping it, calling it a vote of conscience, and Pete Aguilar, the outgoing Democratic caucus chair who is in line to be majority whip in January, played down any rush to impeach again in the next Congress: "When we are in the majority, we are serious about holding people accountable, and that will start early with oversight. But that is not anything that is being discussed at this point." Ken Calvert, the Republican chair of the House defence appropriations subcommittee, called the effort "petty, personal and partisan politics". President Trump gave Hegseth an A-plus grade after his press conference.
+**Latest.** Two Republican senators broke ranks around the vote. Ted Cruz said on his podcast on Monday that Hegseth would in the end resign, be fired, or be impeached once Democrats hold the House, arguing the votes to impeach are there; outgoing senator Thom Tillis said on Tuesday he was likely to vote to remove Hegseth if an impeachment reached the Senate, calling it a no-confidence vote. The Pentagon called Tuesday's outcome a total victory and a political exercise devoid of merit, and President Trump celebrated it on Truth Social as an exoneration.
+
+The House voted 211 to 204 on Tuesday evening to refer the articles to committee, the move that shelves them for the rest of this Congress. Massie was the only Republican to vote against referral; no Democrat did, and Kevin Kiley, the California independent who left the Republican Party this year, voted with the Republicans. Breaking Defense reported the resolution was sent to the Judiciary Committee. Democratic leaders backed the resolution without whipping it, calling it a vote of conscience, and Pete Aguilar, the outgoing Democratic caucus chair who is in line to be majority whip in January, played down any rush to impeach again in the next Congress: "When we are in the majority, we are serious about holding people accountable, and that will start early with oversight. But that is not anything that is being discussed at this point." Ken Calvert, the Republican chair of the House defence appropriations subcommittee, called the effort "petty, personal and partisan politics". President Trump gave Hegseth an A-plus grade after his press conference.
 
 Hegseth answered the articles himself at a press conference on Tuesday, calling the effort "a farce, and it's a stunt, and everybody knows it", a "political spectacle" and a "circus" that "puts a target on the back of American warriors" and amounts to sabotage rather than patriotism. He insisted every operation the articles cite, the strikes on Iran and Yemen, the attacks on alleged drug boats and the capture of Venezuela's Nicolas Maduro, was lawful, ordered by President Trump and notified to Congress, denied that the US military targets civilians, and described Massie as "one disgruntled guy", saying his team had worked with Speaker Johnson and that he had a "ton of support" on Capitol Hill. The House is expected to take the resolution up on Tuesday evening, likely beginning with a procedural vote to table it; the Republican majority is 218 to 214 and only members present can vote, which is why several House Republicans have told Fox News privately that they believe impeachment could pass.
 
