@@ -1,15 +1,19 @@
 ---
-title: "Lawmakers file impeachment opinion motion against Indonesia's vice president"
+title: "Prabowo said to accept Gibran resignation as lawmakers file impeachment motion"
 date: 2026-11-10T07:04:57-05:00
-last_updated: 2026-11-11T03:22:22-05:00
+last_updated: 2026-11-11T08:24:12-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "A total of 120 members of Indonesia's House of Representatives from all eight party factions formally filed a right-to-express-an-opinion motion on the impeachment of Vice President Gibran Rakabuming Raka on Wednesday, a day after Gibran told President Prabowo Subianto he intends to resign."
-why_it_matters: "The filing moves the Gibran affair from a Palace resignation question into a formal parliamentary process under the constitution, with members of Prabowo's own Gerindra party among the signatories pressing the case over the vice president's education documents."
+lede: "Bloomberg reported on Wednesday, citing unnamed people, that President Prabowo Subianto has accepted Vice President Gibran Rakabuming Raka's resignation and that Gibran handed over a resignation letter at a meeting that day, as 120 lawmakers from all eight House factions formally filed an impeachment opinion motion against him."
+why_it_matters: "If confirmed by the Palace, an accepted resignation would vacate the vice presidency and start the constitutional process for the People's Consultative Assembly to elect a successor from two presidential nominees, while the House filing keeps a parallel impeachment track alive over Gibran's education documents."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Indonesia's Prabowo Said to Accept Resignation of Vice President"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-s-prabowo-said-to-accept-resignation-of-vice-president"
+    published: "2026-11-11"
   - title: "Sebanyak 120 anggota DPR resmi ajukan HMP untuk pemakzulan Gibran"
     publisher: "Antara News Agency"
     url: "https://www.antaranews.com/berita/5846351/sebanyak-120-anggota-dpr-resmi-ajukan-hmp-untuk-pemakzulan-gibran"
@@ -27,13 +31,15 @@ sources:
     url: "https://thekabarnews.com/palace-confirms-gibran-discussed-resignation/"
     published: "2026-11-10"
 tags: []
-data_as_of: "Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date has been announced."
+data_as_of: "Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date had been announced at that point. Updated November 11, 2026 with Bloomberg's report of the same day, read via the estate browser route (article paywalled beyond its opening lines), that Prabowo accepted the resignation and that Gibran handed over a resignation letter at a Wednesday meeting, attributed only to unnamed people; the Palace has not confirmed an acceptance or an effective date, and no other outlet had corroborated the letter as of this update."
 update_bump: true
 ---
 
 ## Latest
 
-Parliament has now acted. Deputy Speaker Saan Mustopa announced on Wednesday that 120 members of the House of Representatives (DPR) have formally proposed a hak menyatakan pendapat (HMP), the House's right to express an opinion, concerning the impeachment of Vice President Gibran Rakabuming Raka over the diploma issue. The signatories span all eight party factions: PKS supplied 28, NasDem 19, PKB and the Democrats 18 each, PDIP 14, Golkar and Prabowo's own Gerindra 11 each, and PAN one. Faction representatives handed the proposal documents to the DPR leadership at a meeting on Wednesday, and Saan said the leadership has accepted the proposal under Article 211 of the MD3 Law and Article 192 of the DPR Rules of Procedure, to be followed up under the applicable mechanisms. No plenary vote or next date has been announced.
+Bloomberg reported on Wednesday that Prabowo has accepted Gibran's resignation, and that Gibran handed over his resignation letter in a meeting between the two men on Wednesday, citing unnamed people familiar with the matter. The report carries no Palace confirmation, no effective date and no named source, and it goes beyond the Palace's on-record position from Tuesday, when State Secretary Prasetyo Hadi said only that Prabowo had not rejected the intention and had offered advice. No other outlet had reported a resignation letter as of Wednesday morning Toronto time. If the Palace confirms an acceptance, the vice presidency falls vacant and the People's Consultative Assembly elects a successor from two candidates proposed by the president.
+
+Parliament has also acted. Deputy Speaker Saan Mustopa announced on Wednesday that 120 members of the House of Representatives (DPR) have formally proposed a hak menyatakan pendapat (HMP), the House's right to express an opinion, concerning the impeachment of Vice President Gibran Rakabuming Raka over the diploma issue. The signatories span all eight party factions: PKS supplied 28, NasDem 19, PKB and the Democrats 18 each, PDIP 14, Golkar and Prabowo's own Gerindra 11 each, and PAN one. Faction representatives handed the proposal documents to the DPR leadership at a meeting on Wednesday, and Saan said the leadership has accepted the proposal under Article 211 of the MD3 Law and Article 192 of the DPR Rules of Procedure, to be followed up under the applicable mechanisms. No plenary vote or next date has been announced.
 
 Indonesia's Vice President Gibran Rakabuming Raka told President Prabowo Subianto on Tuesday that he intends to resign, State Secretary Prasetyo Hadi told reporters at the Palace in Jakarta, confirming the most serious rupture yet inside the government the two men formed after the 2024 election. The two met for about two and a half hours on Tuesday morning. "During the discussion, the vice president expressed his intention to resign in light of the evolving situation," Prasetyo said, referring to recent Constitutional Court and Supreme Court decisions concerning the education documents Gibran submitted as a candidate.
 
