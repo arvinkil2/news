@@ -1,12 +1,13 @@
 ---
 title: "Paraguay puts ueno bank into resolution and central bank chief resigns"
 date: 2026-11-03T17:16:31-05:00
-last_updated: 2026-11-03T17:16:31-05:00
+last_updated: 2026-11-11T17:07:49-05:00
 beats: ["rates"]
 regions: ["latin-america"]
 status: "story"
-lede: "Paraguay's central bank voted unanimously on November 2 to put ueno bank into resolution after its solvency ratio fell below 50 percent of the required minimum, closing the lender's app, cards and services, and central bank president Carlos Carvallo resigned."
-why_it_matters: "Ueno says it has about 3 million customers, roughly 60 percent of Paraguay's adult population, and holds hundreds of millions of dollars of public pension money, so its failure is a direct test of the deposit guarantee and of the supervisory credibility behind Paraguay's investment grade story."
+update_bump: true
+lede: "Fitch placed Paraguay's 'BB+' sovereign rating on Rating Watch Negative on Wednesday, a week after the central bank put ueno bank into resolution, reversing the Positive Outlook the agency had affirmed on September 30."
+why_it_matters: "Ueno says it has about 3 million customers, roughly 60 percent of Paraguay's adult population, and holds hundreds of millions of dollars of public pension money, so its failure is a direct test of the deposit guarantee and of the supervisory credibility behind Paraguay's investment grade story; the Fitch watch is the first sign the failure is now reaching the sovereign rating itself, one notch below investment grade at Fitch while Moody's and S&P still rate Paraguay investment grade."
 featured: false
 evidence_grade: "B"
 sources:
@@ -30,9 +31,19 @@ sources:
     publisher: "Ratio Paraguay"
     url: "https://www.ratioparaguay.com.py/liana-caballero-asume-la-presidencia-del-bcp-en-pleno-terremoto-financiero-en-paraguay/"
     published: "2026-11-03"
+  - title: "Fitch Places Paraguay's 'BB+' FC IDR On Rating Watch Negative"
+    publisher: "Reuters"
+    url: "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46S1KP:0-fitch-places-paraguay-s-bb-fc-idr-on-rating-watch-negative/"
+    published: "2026-11-11"
+  - title: "Paraguay on Watch for Downgrade at Fitch After Bank Collapse"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-11/paraguay-on-watch-for-downgrade-at-fitch-after-bank-collapse"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Banco Central del Paraguay statements of November 3, 2026 on the resolution procedure and on deposit guarantee payments, each read in full in this run, in Spanish. Closure, resignation and pension fund details from the central bank's November 3 press conference and Paraguayan reporting of it (EFE, MarketData, Ratio, El Heraldo), read in this run. IPS investment figures differ by outlet: EFE reported about 355 million dollars from IPS financial manager Gladys Vera, Paraguayan outlets about 380 million dollars. The order to capture eight ueno directors rests on La Nación reporting relayed by CriptoNoticias and is flagged as such in the text."
+data_as_of: "Banco Central del Paraguay statements of November 3, 2026 on the resolution procedure and on deposit guarantee payments, each read in full in this run, in Spanish. Closure, resignation and pension fund details from the central bank's November 3 press conference and Paraguayan reporting of it (EFE, MarketData, Ratio, El Heraldo), read in this run. IPS investment figures differ by outlet: EFE reported about 355 million dollars from IPS financial manager Gladys Vera, Paraguayan outlets about 380 million dollars. The order to capture eight ueno directors rests on La Nación reporting relayed by CriptoNoticias and is flagged as such in the text. Updated November 11, 2026: Fitch's placement of Paraguay's 'BB+' long term foreign currency IDR on Rating Watch Negative is reported by Reuters and Bloomberg on November 11, 2026; Fitch's own rating action commentary had not been read in full at the time of this update, so only the action itself, and not the agency's stated reasoning, is reported here. The September 30 affirmation at 'BB+' with a Positive Outlook is from Fitch's own commentary of that date."
 ---
+
+**Latest.** Fitch Ratings placed Paraguay's long term foreign currency issuer default rating of 'BB+' on Rating Watch Negative on Wednesday, Reuters and Bloomberg reported, a week after the central bank put ueno bank into resolution and cut the bank itself to default. The watch replaces the Positive Outlook Fitch affirmed as recently as September 30, when it kept the sovereign at 'BB+', one notch below investment grade; a Rating Watch Negative signals the agency expects to resolve the watch with a downgrade more likely than not. Moody's (Baa3) and S&P (BBB-) still rate Paraguay investment grade and had not acted on the sovereign as of this update.
 
 Paraguay's central bank has put ueno bank into resolution, the country's largest bank failure in years, after finding that the lender's solvency ratio had fallen below 50 percent of the minimum required. The board of the Banco Central del Paraguay (BCP) voted unanimously on November 2 to open the resolution procedure, the bank said in a statement published on Tuesday, after adjustments made to ueno's financial statements during a regularization process cut its solvency below half the legal floor. The procedure runs under Law 2334/03, the deposit guarantee and bank resolution law, and the Superintendency of Banks will appoint interventors to verify the bank's net worth at the resolution date, preserve its assets and run an orderly process. The BCP said the case is specific to ueno and does not reflect a generalized condition in Paraguay's financial system.
 

@@ -1,12 +1,12 @@
 ---
 title: "Spain's first general strike in 14 years begins over housing"
 date: 2026-11-11T06:06:03-05:00
-last_updated: 2026-11-11T06:06:03-05:00
+last_updated: 2026-11-11T17:09:29-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
 developing: true
-lede: "A 24-hour general strike called by Spain's two main unions over the housing crisis began at midnight on Wednesday, the country's first in 14 years, disrupting transport and industry less than three weeks before the November 29 snap election."
+lede: "Spain's first general strike in 14 years closed with mass evening marches over the housing crisis, with authorities putting turnout in Madrid at about 120,000 and Barcelona officials counting 55,000, less than three weeks before the November 29 snap election."
 why_it_matters: "The walkout makes housing, where average rents have almost doubled in a decade, the defining issue of the snap election campaign, and it tests Prime Minister Pedro Sanchez, whose blocked housing package prompted the early vote and who has welcomed the strike rather than opposed it."
 featured: false
 evidence_grade: "B"
@@ -20,9 +20,11 @@ sources:
     url: "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208"
     published: "2026-11-11"
 tags: []
-data_as_of: "Al Jazeera report of November 11, 2026, by AFP and AP, and Deutsche Welle report of November 11, 2026, both read in full via the estate browser route. The 90 percent stoppage figure for the automotive and port sectors is the unions' own claim, as reported. Developing item."
+data_as_of: "Al Jazeera report of November 11, 2026, by AFP and AP, and Deutsche Welle report of November 11, 2026, both read in full via the estate browser route. The 90 percent stoppage figure for the automotive and port sectors is the unions' own claim, as reported. Developing item. Updated November 11, 2026 with Deutsche Welle's updated report of the same day, read in full via the estate browser route: the Madrid and Barcelona turnout figures are the authorities' and city officials' figures as reported by Deutsche Welle, and no arrest figure was reported."
 update_bump: true
 ---
+
+**Latest.** The strike day closed with mass evening marches in the rain. Spanish authorities put turnout in Madrid at about 120,000, and Barcelona city officials counted 55,000 behind a banner reading "Let's bring down the rent!", with tens of thousands more marching in Valencia, Seville, Malaga, Zaragoza, Bilbao, Pamplona, Santander, Valladolid and Burgos, Deutsche Welle reported. Most protests were peaceful; in Barcelona small groups of young men smashed storefront windows, set fire to dumpsters and shot fireworks at police after the march. Prime Minister Pedro Sanchez was quoted by Spanish media calling housing "a constitutional right that must be defended", while opposition leader Alberto Nunez Feijoo called the strike "an absurdity, a frivolity and an insult to the millions of workers who lose a day's wages".
 
 Spain's first general strike in 14 years began at midnight on Wednesday, a 24-hour walkout called by the UGT and CCOO unions to demand government action on housing. The unions reported widespread early participation, with stoppages they put at 90 percent in the automotive and port sectors, while public transport was disrupted, some flights in and out of Spain were affected, and businesses, factories and shops scaled back or closed across the eurozone's fourth largest economy.
 
