@@ -1,7 +1,7 @@
 ---
 title: "Why markets are moving today"
 date: 2026-11-12T07:25:29-05:00
-last_updated: 2026-11-12T12:45:16-05:00
+last_updated: 2026-11-12T12:53:24-05:00
 kicker: "Markets today"
 movers_note: true
 status: "story"
@@ -20,7 +20,7 @@ data_as_of: "Midday November 12, 2026"
 
 Gold futures fell 3.10 percent to 3876.3 dollars an ounce and silver futures fell 3.69 percent to 49.97 dollars, deepening the morning break below 4000 dollars. Today's gold story ties the slide to the repricing after October's inflation report, with traders fully pricing a December Federal Reserve rate hike, and the midday rates tape backed that up: the 5-year Treasury yield rose 12.5 basis points to 4.95 percent, the 10-year rose 10.9 basis points to 5.11 percent and the 30-year rose 8.0 basis points to 5.44 percent, all ahead of the 1:00 p.m. 30-year auction that today's Treasury story sets up as the refunding's final test.
 
-Broadcom rose 5.81 percent to 365.29 dollars, the largest normalized move in the tables, while Nvidia fell 4.71 percent to 165.55 dollars. No story published today explains the Broadcom rise, and none is claimed here. Nvidia's fall extends the overhang this morning's market note reported: the board met late Wednesday on Jensen Huang's future, had announced no decision by Thursday morning, and the shares were down about 6 percent in early premarket trading.
+Broadcom rose 5.81 percent to 365.29 dollars, the largest normalized move in the tables, while Nvidia fell 4.71 percent to 165.55 dollars. No story published today explains the Broadcom rise, and none is claimed here. Nvidia's fall follows today's updated Nvidia story: Jensen Huang resigned as chief executive, president and board member effective immediately, chief financial officer Colette Kress was named interim chief executive, and the Justice Department now has three separate inquiries involving Nvidia, Megaspeed and Super Micro, Semafor reported.
 
 Tanker freight rose 4.98 percent to 570.40 dollars. Today's Iran story reports Tehran's claim, unconfirmed independently and graded accordingly, that four tankers are on fire in and near the Strait of Hormuz, alongside a separately reported projectile strike on a vessel off Ras Al-Khaimah, and President Trump's post that the United States does not need a deal with Iran lifted crude in this morning's reporting: Brent rose 1.98 percent to 94.60 dollars a barrel and WTI rose 1.29 percent to 87.65 dollars by midday.
 
