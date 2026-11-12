@@ -1,15 +1,31 @@
 ---
-title: "Gibran hands in resignation to Indonesia's upper house"
+title: "Indonesia's vice presidency vacant after Gibran resignation"
 date: 2026-11-10T07:04:57-05:00
-last_updated: 2026-11-12T00:44:09-05:00
+last_updated: 2026-11-12T03:22:40-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "Indonesia's Vice President Gibran Rakabuming Raka handed in his resignation to the upper house of parliament on Thursday, its speaker Ahmad Muzani confirmed, saying Gibran had also submitted a resignation letter to President Prabowo Subianto, while the Palace has still announced neither an acceptance nor an effective date."
-why_it_matters: "With the letter now before the chamber, parliamentary leaders convene to set the next steps toward declaring the vice presidency vacant and electing a successor from two presidential nominees within 60 days; the departure ends the standoff over Gibran's court-voided education credentials and splits the Prabowo and Jokowi camps that won the 2024 election together."
+lede: "Indonesia's vice presidency is vacant from Thursday, upper house chair Ahmad Muzani said, after Gibran Rakabuming Raka handed his resignation letter to the chamber in person, and senior law minister Yusril Ihza Mahendra said the resignation is Gibran's own unilateral decision and needs no parliamentary approval."
+why_it_matters: "The chamber meets on Friday to set the timetable for electing a successor from two candidates proposed by President Prabowo Subianto within 60 days, which puts the choice of Indonesia's next vice president in Prabowo's hands and ends the standoff over Gibran's court-voided education credentials."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "MPR: Kursi wakil presiden kosong sejak Gibran mundur"
+    publisher: "Antara News Agency"
+    url: "https://www.antaranews.com/berita/5848983/mpr-kursi-wakil-presiden-kosong-sejak-gibran-mundur"
+    published: "2026-11-12"
+  - title: "Yusril: Pengunduran diri Wapres Gibran tidak perlu persetujuan MPR"
+    publisher: "Antara News Agency"
+    url: "https://www.antaranews.com/berita/5848979/yusril-pengunduran-diri-wapres-gibran-tidak-perlu-persetujuan-mpr"
+    published: "2026-11-12"
+  - title: "Yusril: Gibran mundur atas kemauan sendiri, suratnya lima paragraf"
+    publisher: "Antara News Agency"
+    url: "https://www.antaranews.com/berita/5849027/yusril-gibran-mundur-atas-kemauan-sendiri-suratnya-lima-paragraf"
+    published: "2026-11-12"
+  - title: "Prabowo bertemu MPR, DPR, dan jajaran menteri setelah mundurnya Gibran"
+    publisher: "Antara News Agency"
+    url: "https://www.antaranews.com/berita/5848971/prabowo-bertemu-mpr-dpr-dan-jajaran-menteri-setelah-mundurnya-gibran"
+    published: "2026-11-12"
   - title: "Indonesia VP Gibran hands in his resignation to upper house"
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/indonesia-vp-gibran-hands-in-his-resignation-to-upper-house-5020372"
@@ -47,11 +63,15 @@ sources:
     url: "https://thekabarnews.com/palace-confirms-gibran-discussed-resignation/"
     published: "2026-11-10"
 tags: []
-data_as_of: "Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date had been announced at that point. Updated November 11, 2026 with Bloomberg's report of the same day, read via the estate browser route (article paywalled beyond its opening lines), that Prabowo accepted the resignation and that Gibran handed over a resignation letter at a Wednesday meeting, attributed only to unnamed people; the Palace has not confirmed an acceptance or an effective date, and no other outlet had corroborated the letter as of this update. Updated again November 11, 2026 with the BBC report of the same day, read in full via the estate browser route in its MyJoyOnline carrying, citing an unnamed aide that Gibran has submitted his resignation and stating that it is not clear whether Prabowo has formally accepted it; the submission is now corroborated by a second outlet, the acceptance is not, and the Palace has still announced neither an acceptance nor an effective date. Updated late November 11, 2026 with Reuters' report of the same day, read in full, naming the aide who confirmed the tender and setting out the upper house timetable; Al Jazeera's newsfeed item of November 12, 2026 reports the resignation as effected, but the Palace has still announced neither an acceptance nor an effective date. Updated November 12, 2026 with Reuters' report of the same day from Jakarta, read in full, that upper house speaker Ahmad Muzani confirmed Gibran handed in his resignation to the chamber and submitted a letter to Prabowo, and that parliamentary leaders will convene on next steps; the Palace has still announced neither an acceptance nor an effective date."
+data_as_of: "Updated November 12, 2026 with Antara News Agency reports of the same day, in Indonesian and read in full via the estate browser route, on MPR chair Ahmad Muzani's statement that the vice presidency is vacant from Thursday, on Coordinating Minister Yusril Ihza Mahendra's account of the five-paragraph resignation letter and of the Palace consultation meeting, and on the MPR joint meeting set for Friday November 13, 2026. Earlier: Antara News Agency report of November 11, 2026, in Indonesian, on the HMP filing announced by Deputy Speaker Saan Mustopa, and State Secretary Prasetyo Hadi's Palace press conference of November 10, 2026, as reported by Reuters and by Antara; no written resignation or effective date had been announced at that point. Updated November 11, 2026 with Bloomberg's report of the same day, read via the estate browser route (article paywalled beyond its opening lines), that Prabowo accepted the resignation and that Gibran handed over a resignation letter at a Wednesday meeting, attributed only to unnamed people; the Palace has not confirmed an acceptance or an effective date, and no other outlet had corroborated the letter as of this update. Updated again November 11, 2026 with the BBC report of the same day, read in full via the estate browser route in its MyJoyOnline carrying, citing an unnamed aide that Gibran has submitted his resignation and stating that it is not clear whether Prabowo has formally accepted it; the submission is now corroborated by a second outlet, the acceptance is not, and the Palace has still announced neither an acceptance nor an effective date. Updated late November 11, 2026 with Reuters' report of the same day, read in full, naming the aide who confirmed the tender and setting out the upper house timetable; Al Jazeera's newsfeed item of November 12, 2026 reports the resignation as effected, but the Palace has still announced neither an acceptance nor an effective date. Updated November 12, 2026 with Reuters' report of the same day from Jakarta, read in full, that upper house speaker Ahmad Muzani confirmed Gibran handed in his resignation to the chamber and submitted a letter to Prabowo, and that parliamentary leaders will convene on next steps; the Palace has still announced neither an acceptance nor an effective date."
 update_bump: true
 ---
 
 ## Latest
+
+The vice presidency is now vacant, and the succession timetable is being set. Ahmad Muzani, chair of the People's Consultative Assembly (MPR), said on Thursday that the office of vice president has been vacant since Gibran handed his resignation letter to the chamber in person that afternoon, witnessed by the MPR deputy chairs, and that the assembly's task is to fill the vacancy within 60 days at the latest, Antara reported. The MPR leadership will hold a joint meeting on Friday at 14.00 Jakarta time, with all faction leaders and the Regional Representative Council group, to decide four things: the date of a plenary session to fill the office, a letter to President Prabowo Subianto asking him to submit two candidates, a team to verify the candidates' documents, and an ad hoc team to draft the MPR decree.
+
+No parliamentary approval stands in the way. Coordinating Minister for Law Yusril Ihza Mahendra, who said he had read a copy of the letter, said the resignation does not require MPR approval: the letter, five paragraphs long, states in its first paragraph that Gibran is resigning from the office at his own request, and in its fourth asks the MPR to follow up under Article 8, paragraph 2 of the 1945 Constitution, which is a request to act on the vacancy, not a request for approval. Yusril said Gibran cited personal reasons and the voices developing in society, and did not elaborate on either. Prabowo met the MPR and House leadership, including the House's Commission III, and several ministers at the Presidential Palace on Thursday afternoon; Yusril, who was summoned to that meeting, described it as a consultation on how to carry out the follow-up between the presidency and the assembly.
 
 The resignation is now formally before parliament. Ahmad Muzani, speaker of the upper house, said on Thursday that Gibran had handed in his resignation to the chamber and had also submitted a resignation letter to President Prabowo, Reuters reported from Jakarta. Muzani said parliamentary leaders will now convene to discuss the next steps. The report carried no Palace statement, no acceptance and no effective date. Speaking to reporters outside his home in Solo, Central Java, former president Joko Widodo said he would continue to support Prabowo's administration, especially programmes that serve the broader public.
 
