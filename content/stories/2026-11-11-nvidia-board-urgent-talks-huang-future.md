@@ -1,15 +1,19 @@
 ---
 title: "Nvidia board holds urgent talks on Jensen Huang's future"
 date: 2026-11-11T18:43:17-05:00
-last_updated: 2026-11-11T22:24:03-05:00
+last_updated: 2026-11-12T00:44:09-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia's board met in urgent talks on Wednesday over founder Jensen Huang's future after the Wall Street Journal reported it is preparing to oust him; named lawmakers from both parties called for his resignation, the shares fell 8.6 percent in after-hours trading and Nasdaq 100 futures dropped 1 percent in evening trading."
+lede: "Nvidia's board met in urgent talks on Wednesday over founder Jensen Huang's future after the Wall Street Journal reported it is preparing to oust him; no decision has been announced, analysts and investors name engineer Ian Buck and finance chief Colette Kress as the likeliest successors, and the shares fell 8.6 percent in after-hours trading."
 why_it_matters: "Huang founded Nvidia in 1993 and is the public face of the company at the centre of the US-China contest over AI chips; his removal would leave a roughly $4 trillion company with no announced succession plan while an FBI investigation builds around him and lawmakers weigh tighter AI chip export controls in this year's defense bill."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/whos-next-ceo-at-nvidia-top-engineer-and-cfo-favored-as-candidates-5020356"
+    published: "2026-11-11"
   - title: "CEO Jensen Huang's job is suddenly on the line at Nvidia"
     publisher: "Financial Times, via Ars Technica"
     url: "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
@@ -39,9 +43,11 @@ sources:
     url: "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
     published: "2026-11-11"
 tags: []
-data_as_of: "Reports published Wednesday November 11, 2026: the Wall Street Journal report as carried by Reuters, the New York Times report as summarised by TechCrunch, and Financial Times reporting via Ars Technica. The ouster report rests on unnamed people familiar with the matter; Reuters said it could not immediately verify it, and Nvidia did not immediately respond to requests for comment. After-hours price as shown on Investing.com at 6:42 PM ET. Evening update: index futures as shown by Investing.com at 7:25 PM ET and the after-hours fall as reported by Al Jazeera, both read in full via the estate browser route. Late update November 11, 2026: CNBC's Washington report of the same day, read in full via the estate browser route, on the named resignation calls, the November 18 testimony request and its response deadline, and the export-control bills discussed for the National Defense Authorization Act."
+data_as_of: "Reports published Wednesday November 11, 2026: the Wall Street Journal report as carried by Reuters, the New York Times report as summarised by TechCrunch, and Financial Times reporting via Ars Technica. The ouster report rests on unnamed people familiar with the matter; Reuters said it could not immediately verify it, and Nvidia did not immediately respond to requests for comment. After-hours price as shown on Investing.com at 6:42 PM ET. Evening update: index futures as shown by Investing.com at 7:25 PM ET and the after-hours fall as reported by Al Jazeera, both read in full via the estate browser route. Late update November 11, 2026: CNBC's Washington report of the same day, read in full via the estate browser route, on the named resignation calls, the November 18 testimony request and its response deadline, and the export-control bills discussed for the National Defense Authorization Act. Updated November 12, 2026 with Reuters' report of November 11, 2026, read in full, naming Ian Buck and Colette Kress as the candidates analysts and investors see as most likely, with Semafor reporting some board members favour Kress as interim chief executive; no board decision, vote or resignation had been announced as of this update."
 update_bump: true
 ---
+
+**Latest.** Attention has turned to succession, and no board decision has been announced. Reuters reported late on Wednesday that analysts and investors see two internal candidates as particularly likely, at least for the short term: Ian Buck, the engineer who helped create the CUDA software platform and leads Nvidia's hyperscale AI products, and Colette Kress, the chief financial officer since 2013, whom Semafor reported some board members favour as interim chief executive. Arm chief executive Rene Haas and 32-year Nvidia veteran Jeff Fisher were also raised in the speculation. One portfolio manager, Armina Rosenberg of Minotaur Capital, suggested a co-chief structure pairing Kress on the business and finances with Buck on product and technology. Nvidia did not respond to a request for comment on the board meeting, and none of the named candidates is confirmed as chosen.
 
 **Latest.** The congressional pressure named names on Wednesday. Senator Kevin Cramer, a Republican on the Senate Banking Committee, renewed his call for Huang to resign, arguing he is too vulnerable to blackmail to remain in the job, and Representatives Suhas Subramanyam, a Democrat, and Don Bacon, a Republican, also said Huang should step down. The chairs of the House Foreign Affairs, China select and Intelligence committees, Brian Mast, John Moolenaar and Rick Crawford, said on Wednesday afternoon that they had not yet heard from Huang on their November 4 request that he testify on November 18, that the deadline they set was that day, and that they would pursue a subpoena if he does not agree to appear. Lawmakers are also discussing tighter AI chip export controls in this year's National Defense Authorization Act: Senators Elizabeth Warren and Jim Banks urged colleagues to include the AI Overwatch Act, one of three bills named in the discussions alongside the MATCH Act and the Chip Security Act, CNBC reported.
 
