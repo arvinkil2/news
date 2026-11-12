@@ -1,7 +1,7 @@
 ---
 title: "Warsh cuts FOMC rate-setting meetings to seven in 2027"
 date: 2026-10-29T07:05:55-04:00
-last_updated: 2026-10-29T07:05:55-04:00
+last_updated: 2026-11-12T13:25:37-05:00
 beats: ["rates"]
 regions: ["north-america"]
 status: "story"
@@ -10,6 +10,10 @@ why_it_matters: "Fewer scheduled decisions concentrate each remaining meeting's 
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+    publisher: "Federal Reserve"
+    url: "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+    published: "2026-11-12"
   - title: "FOMC to reduce votes on setting rates in 2027"
     publisher: "American Bankers Association Banking Journal"
     url: "https://bankingjournal.aba.com/2026/10/fomc-to-reduce-votes-on-setting-rates-in-2027/"
@@ -23,8 +27,11 @@ sources:
     url: "https://www.koreajoongangdaily.com/world/fed-holds-rates-as-inflation-stays-high/12944238"
     published: "2026-10-29"
 tags: []
-data_as_of: "Announced at the FOMC press conference, Wednesday, October 28, 2026. Reporting is Reuters wire copy carried by multiple outlets; the Federal Reserve has not published a separate calendar notice at write time."
+data_as_of: "Announced at the FOMC press conference, Wednesday, October 28, 2026. Reporting is Reuters wire copy carried by multiple outlets; the Federal Reserve has not published a separate calendar notice at write time. Updated November 12, 2026 with the Federal Reserve's own revised tentative schedule release of the same day, read in full: the release fixes the eight 2027 meeting dates, names October 26 to 27 as the strategy-only meeting with no policy decision announcement, and lists no December 2027 meeting, with the next meeting tentatively on January 25 to 26, 2028."
+update_bump: true
 ---
+
+**Latest.** The Federal Reserve has now published the calendar. Its revised tentative schedule, released on Thursday, fixes the FOMC's 2027 meetings on January 26 to 27, March 16 to 17, April 27 to 28, June 8 to 9, July 27 to 28, September 14 to 15, October 26 to 27 and November 16 to 17, with the policy decision announced on the second day of each meeting except October 26 to 27, which the release says will be dedicated to broad monetary policy strategy. There is no December 2027 meeting on the schedule; the next meeting listed is January 25 to 26, 2028. The October date confirms which of the eight meetings carries no rate decision, the detail the October announcement left open.
 
 The Federal Reserve will set interest rates less often. Chair Kevin Warsh announced after Wednesday's decision that the FOMC will keep eight meetings a year, but one meeting in 2027 will be devoted exclusively to broad monetary policy strategy, with no vote on the federal funds rate and no policy statement expected. In 2028 he expects two strategy meetings, leaving six rate-setting decisions.
 
