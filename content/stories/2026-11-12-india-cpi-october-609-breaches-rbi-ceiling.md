@@ -1,7 +1,7 @@
 ---
 title: "India inflation breaches RBI ceiling at 6.09% in October"
 date: 2026-11-12T06:02:23-05:00
-last_updated: 2026-11-12T06:02:23-05:00
+last_updated: 2026-11-12T09:03:36-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
@@ -10,6 +10,10 @@ why_it_matters: "The breach turns the RBI's December 2 to 4 meeting into a live 
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Consumer Price Index press release for October 2026, base year 2024=100 (in Hindi)"
+    publisher: "Ministry of Statistics and Programme Implementation, via Press Information Bureau India"
+    url: "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335581"
+    published: "2026-11-12"
   - title: "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%"
     publisher: "investingLive"
     url: "https://investinglive.com/news/india-october-cpi-inflation-rises-to-6-09-food-inflation-accelerates-to-8-94/"
@@ -23,9 +27,11 @@ sources:
     url: "https://ipanewspack.com/cpi-inflation-likely-at-24-month-high-of-6-1-per-cent-in-october/"
     published: "2026-11-07"
 tags: []
-data_as_of: "October 2026 CPI released by the Ministry of Statistics and Programme Implementation on Thursday, November 12, 2026 at 4:00 PM IST. The MoSPI primary release, published through the Press Information Bureau, was not directly opened in this pass; the figures are as reported by investingLive and corroborated by Sweden Herald, both read in full. Expectations are the Reuters poll median of 5.93% carried in the calendar brief and the Financial Express poll of 11 economists at 6.1%. Market pricing for the December RBI meeting is investingLive's reporting of the release."
+data_as_of: "October 2026 CPI released by the Ministry of Statistics and Programme Implementation on Thursday, November 12, 2026 at 4:00 PM IST. The MoSPI primary release, published through the Press Information Bureau (PRID 2335581, in Hindi), was read in full in this update and every figure in this story, including the item-level detail, is verified against it; the October print is provisional and the next release, for November, is scheduled for December 14, 2026. Expectations are the Reuters poll median of 5.93% carried in the calendar brief and the Financial Express poll of 11 economists at 6.1%. Market pricing for the December RBI meeting is investingLive's reporting of the release."
 update_bump: true
 ---
+
+**Latest.** The ministry's own release, read in full in this update, confirms the print as provisional and puts the composition in item terms: onion prices rose 116.22% year on year and garlic 60.74%, the two largest increases in the basket, while potato prices fell 14.24%. The November CPI release is scheduled for December 14.
 
 India's consumer price inflation rose to 6.09% year on year in October, the Ministry of Statistics and Programme Implementation reported on Thursday, up from 5.54% in September and above the 5.93% median forecast in a Reuters poll. The print crosses the upper bound of the Reserve Bank of India's 2% to 6% tolerance band for the first time since October 2024, and it is a 24-month high.
 
