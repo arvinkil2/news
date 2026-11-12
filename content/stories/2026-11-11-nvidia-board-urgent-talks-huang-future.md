@@ -1,11 +1,11 @@
 ---
 title: "Nvidia board holds urgent talks on Jensen Huang's future"
 date: 2026-11-11T18:43:17-05:00
-last_updated: 2026-11-11T18:43:17-05:00
+last_updated: 2026-11-11T20:47:57-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia's board met in urgent talks on Wednesday over founder Jensen Huang's future after the Wall Street Journal reported it is preparing to oust him, and the shares fell about 8 percent in after-hours trading."
+lede: "Nvidia's board met in urgent talks on Wednesday over founder Jensen Huang's future after the Wall Street Journal reported it is preparing to oust him; the shares fell 8.6 percent in after-hours trading and Nasdaq 100 futures dropped 1 percent in evening trading."
 why_it_matters: "Huang founded Nvidia in 1993 and is the public face of the company at the centre of the US-China contest over AI chips; his removal would leave a roughly $4 trillion company with no announced succession plan while an FBI investigation and congressional pressure build around him."
 featured: true
 evidence_grade: "B"
@@ -26,10 +26,20 @@ sources:
     publisher: "TechCrunch"
     url: "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
     published: "2026-11-11"
+  - title: "Wall St futures fall as Nvidia slides on report of possible CEO ouster"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-nvidia-slides-on-report-of-possible-ceo-ouster-5020125"
+    published: "2026-11-11"
+  - title: "Nvidia shares plunge amid reports board to discuss CEO Huang's future"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+    published: "2026-11-12"
 tags: []
-data_as_of: "Reports published Wednesday November 11, 2026: the Wall Street Journal report as carried by Reuters, the New York Times report as summarised by TechCrunch, and Financial Times reporting via Ars Technica. The ouster report rests on unnamed people familiar with the matter; Reuters said it could not immediately verify it, and Nvidia did not immediately respond to requests for comment. After-hours price as shown on Investing.com at 6:42 PM ET."
+data_as_of: "Reports published Wednesday November 11, 2026: the Wall Street Journal report as carried by Reuters, the New York Times report as summarised by TechCrunch, and Financial Times reporting via Ars Technica. The ouster report rests on unnamed people familiar with the matter; Reuters said it could not immediately verify it, and Nvidia did not immediately respond to requests for comment. After-hours price as shown on Investing.com at 6:42 PM ET. Evening update: index futures as shown by Investing.com at 7:25 PM ET and the after-hours fall as reported by Al Jazeera, both read in full via the estate browser route."
 update_bump: true
 ---
+
+**Latest.** The selling reached index futures in evening trading. Nasdaq 100 futures were down 1 percent at 28,205.75 at 7:25 PM ET and S&P 500 futures were down 0.4 percent at 7,608.75, with Dow futures flat, Investing.com reported, and Al Jazeera put Nvidia's after-hours fall at 8.6 percent. Neither report added a board decision, a meeting outcome or a named successor.
 
 Nvidia's board held urgent talks on Wednesday about the future of its founder and chief executive, Jensen Huang, after the Wall Street Journal reported that the board is preparing to oust him. The report, citing people familiar with the matter, followed a New York Times report earlier Wednesday that Huang had a romantic relationship with Kimberly Powell, Nvidia's vice president of healthcare and a direct report of his. Nvidia shares, which had closed up 2.87 percent at $173.73, fell about 8 percent in after-hours trading, trading at $160.15 by 6:42 PM ET. Reuters said it could not immediately verify the Journal's report, and Nvidia did not immediately respond to a request for comment.
 
