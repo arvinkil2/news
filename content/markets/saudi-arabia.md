@@ -2,16 +2,17 @@
 title: "Saudi Arabia"
 date: "2026-11-12"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed every 15 minutes."
-data_as_of: "Nov 12, 1:52 PM ET"
+data_as_of: "Nov 12, 2:09 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 12, 1:52 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 12, 2:09 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$36.1500 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="up">+0.32%</span></td><td class="num"><span class="up">+3.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.8 4.2,5.5 8.3,11.8 12.5,11.7 16.7,12.2 20.9,11.9 25.0,15.4 29.2,17.6 33.4,25.9 37.6,26.0 41.7,23.0 45.9,16.9 50.1,16.0 54.3,18.6 58.4,20.8 62.6,20.1 66.8,20.0 71.0,12.1 75.1,13.7 79.3,12.9 83.5,8.7 87.7,7.6 91.8,3.1 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$36.1000 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="up">+0.15%</span></td><td class="num"><span class="up">+3.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.4 4.2,5.1 8.3,11.5 12.5,11.4 16.7,12.0 20.9,11.6 25.0,15.1 29.2,17.4 33.4,25.9 37.6,26.0 41.7,22.9 45.9,16.7 50.1,15.7 54.3,18.4 58.4,20.7 62.6,20.0 66.8,19.8 71.0,11.9 75.1,13.5 79.3,12.7 83.5,8.4 87.7,7.2 91.8,2.6 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/SAR</td><td class="num">3.7529 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-2.97%</span></td><td class="num"><span class="down">-2.97%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.8 4.2,23.8 8.3,23.4 12.5,25.0 16.7,24.5 20.9,24.5 25.0,22.5 29.2,21.4 33.4,26.0 37.6,24.7 41.7,24.4 45.9,26.0 50.1,25.1 54.3,24.0 58.4,24.2 62.6,24.3 66.8,22.4 71.0,22.3 75.1,22.9 79.3,24.4 83.5,23.4 87.7,23.0 91.8,22.9 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-houthis-claim-east-west-pipeline-yanbu-attack/">Houthis claim attack on Saudi pipeline pumping station, Yanbu</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-saudi-crude-output-jumps-26-percent-pre-war/">Saudi crude output jumps 26 percent to pre-war level</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-09</span> <a href="/stories/2026-11-09-humain-infra-667-million-financing/">Humain signs $667 million Infra financing for Saudi data centres</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-09</span> <a href="/stories/2026-11-09-saudi-east-west-pipeline-attack-no-disruption/">Attack on Saudi East-West pipeline starts limited fire, no disruption</a></p>
@@ -19,5 +20,4 @@ data_as_of: "Nov 12, 1:52 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-pif-sace-3bn-credit-facilities/">Saudi PIF raises 3 billion dollars in SACE backed credit facilities</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-houthi-cross-border-raids-saudi-arabia/">Houthi fighters reported raiding Saudi border posts</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-technology-also-notable/">Technology also notable: TikTok guides, Saudi internet, Alphabet notes</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-houthis-claim-drone-attacks-saudi-airports/">Houthis claim drone attacks on two Saudi airports</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
