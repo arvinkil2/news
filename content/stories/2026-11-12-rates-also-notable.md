@@ -1,12 +1,12 @@
 ---
 title: "Rates also notable: buyback today, Swiss jobs, Mexico output"
 date: 2026-11-12T07:18:50-05:00
-last_updated: 2026-11-12T07:18:50-05:00
+last_updated: 2026-11-12T18:26:25-05:00
 beats: ["rates"]
 regions: ["north-america", "europe", "latin-america", "asia-pacific"]
 status: "story"
-lede: "The Treasury's 750 million dollar TIPS buyback runs at 1:40 p.m. Eastern today, Swiss ILO unemployment rose to 5.6 percent in the third quarter, Mexico's industrial activity fell 1.4 percent in September, and the Reserve Bank of India drained liquidity with a 50,000 crore rupee overnight reverse repo."
-why_it_matters: "None of these moves a policy rate today, but together they mark the day's second tier: a scheduled US liquidity operation whose results land this afternoon, a softening Swiss labour market for the SNB to weigh, a Mexican activity miss under Banxico's extended hold, and routine Indian liquidity management a day after inflation breached the RBI ceiling."
+lede: "The Treasury accepted 556 million dollars of the 3.224 billion dollars offered in its TIPS buyback, 74 percent of the 750 million dollar maximum, Swiss ILO unemployment rose to 5.6 percent in the third quarter, Mexico's industrial activity fell 1.4 percent in September, and the Reserve Bank of India drained liquidity with a 50,000 crore rupee overnight reverse repo."
+why_it_matters: "None of these moves a policy rate today, but together they mark the day's second tier: a US liquidity operation that took about three quarters of its maximum against heavy offered cover, a softening Swiss labour market for the SNB to weigh, a Mexican activity miss under Banxico's extended hold, and routine Indian liquidity management a day after inflation breached the RBI ceiling."
 featured: false
 evidence_grade: "B"
 sources:
@@ -35,10 +35,11 @@ sources:
     url: "https://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf"
     published: "2026-11-11"
 tags: []
-data_as_of: "Treasury buyback schedule from US Treasury Fiscal Data, operation_key 2026-11-12|01:40 PM|Liquidity Support|1Y to 10Y, already covered as a story on November 10; results are published after the operation runs. Swiss release of November 12, 2026, read in full. INEGI release of November 11, 2026: the INEGI page itself rendered without content in this run, so its figures are taken from the feed record of the release and corroborated by Dow Jones Newswires reporting of November 11, 2026. RBI release of November 12, 2026, read in full. BoJ money stock release of November 11, 2026, read in full."
+update_bump: true
+data_as_of: "Treasury buyback schedule from US Treasury Fiscal Data, operation_key 2026-11-12|01:40 PM|Liquidity Support|1Y to 10Y, already covered as a story on November 10; results are published after the operation runs. Results added November 12, 2026: US Treasury Fiscal Data, Treasury Securities Buybacks; operation treasury-buybacks:2026-11-12|01:40 PM|Liquidity Support|1Y to 10Y: 556 million dollars accepted of 3,224 million dollars offered, fill 74 percent of the 750 million dollar maximum, offered cover 5.80 times, 8 of 28 eligible issues accepted, settlement November 13, 2026. Swiss release of November 12, 2026, read in full. INEGI release of November 11, 2026: the INEGI page itself rendered without content in this run, so its figures are taken from the feed record of the release and corroborated by Dow Jones Newswires reporting of November 11, 2026. RBI release of November 12, 2026, read in full. BoJ money stock release of November 11, 2026, read in full."
 ---
 
-The Treasury's scheduled liquidity support buyback runs today at 1:40 p.m. Eastern: up to 750 million dollars of Treasury inflation-protected securities in the 1 year to 10 year maturity bucket, with 28 issues eligible and settlement on November 13. The operation was covered in full on this site on November 10 when it was scheduled; offered and accepted amounts are published after it runs, alongside today's 30-year auction result.
+The Treasury's liquidity support buyback ran at 1:40 p.m. Eastern and took 556 million dollars of Treasury inflation-protected securities in the 1 year to 10 year bucket, against 3,224 million dollars offered: 74 percent of the 750 million dollar maximum, an offered cover of 5.80 times, with 8 of the 28 eligible issues accepted and settlement on November 13. The operation was covered in full on this site on November 10 when it was scheduled, and the results published by the Fiscal Data service after the operation are the figures reported here.
 
 Switzerland's labour market softened in the third quarter. The Federal Statistical Office reported that the employed population grew 0.5 percent year on year, while the ILO unemployment rate rose to 5.6 percent, from 5.1 percent a year earlier. The EU comparison rate rose from 6.0 to 6.2 percent. A rising jobless rate alongside still-growing employment is the pattern of a labour force expanding faster than hiring, and it gives the Swiss National Bank a domestic softness reading to set against imported price pressure at its next decision.
 
