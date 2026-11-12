@@ -1,6 +1,6 @@
 ---
 title: "Method and data notes"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Definitions, unit policy, confidence grades and the update cadence of every source behind the reserves section."
 data_as_of: "Method as of 4 November 2026."
 ---

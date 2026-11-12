@@ -1,6 +1,6 @@
 ---
 title: "Mexico petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Mexico: obligated industry stockholding under the IEA system, administered by Ministry of Energy (SENER) Public Policy on Minimum Storage of Petroleum Products, mandatory for marketing and distribution permit holders selling gasoline, diesel and jet fuel. No government strategic petroleum reserve."
 data_as_of: "No current level published by this government. See the note below."
 ---

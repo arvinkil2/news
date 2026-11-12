@@ -1,6 +1,6 @@
 ---
 title: "Release and refill ledger"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Every recorded collective and national reserve action in the dataset, with announced and delivered volumes kept separate."
 data_as_of: "Ledger through 4 November 2026. Delivered is shown as not stated where no official source publishes a final total."
 ---

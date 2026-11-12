@@ -1,6 +1,6 @@
 ---
 title: "Denmark petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Denmark: mixed stockholding under the IEA and EU system, administered by FDO (Foreningen Danske Olieberedskabslagre), the central stockholding entity, holds 70 percent of the obligation; obligated companies hold 30 percent."
 data_as_of: "Latest level: 2026-09, from Eurostat (dataset nrg_stk_oilm)."
 ---

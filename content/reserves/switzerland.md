@@ -1,6 +1,6 @@
 ---
 title: "Switzerland petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Switzerland: obligated industry stockholding under the IEA system, administered by Carbura, the compulsory stockholding organisation of the Swiss petroleum industry, coordinates compulsory stockpiling and its financing but does not itself own the stocks."
 data_as_of: "No current level published by this government. See the note below."
 ---

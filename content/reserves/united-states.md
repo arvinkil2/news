@@ -1,6 +1,6 @@
 ---
 title: "United States petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "United States: government stockholding under the IEA system, administered by US Department of Energy (DOE), Office of Petroleum Reserves, which owns and operates four salt cavern storage sites in Texas and Louisiana."
 data_as_of: "Latest level: 2026-10-30, from EIA Weekly Petroleum Status Report (series WCRSTUS2)."
 ---

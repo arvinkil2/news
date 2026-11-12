@@ -1,6 +1,6 @@
 ---
 title: "Austria petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Austria: mixed stockholding under the IEA and EU system, administered by ELG (Erdol-Lagergesellschaft m.b.H.), the central stockholding entity; importers may delegate their obligation to ELG."
 data_as_of: "Latest level: 2026-09, from Eurostat (dataset nrg_stk_oilm)."
 ---

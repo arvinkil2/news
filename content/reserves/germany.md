@@ -1,6 +1,6 @@
 ---
 title: "Germany petroleum reserves"
-date: "2026-11-05"
+date: "2026-11-12"
 lede: "Germany: agency stockholding under the IEA and EU system, administered by EBV (Erdolbevorratungsverband), a public corporation under the Petroleum Stockholding Act, based in Hamburg."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---
