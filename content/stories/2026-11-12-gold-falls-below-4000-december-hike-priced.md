@@ -1,7 +1,8 @@
 ---
 title: "Gold falls below 4000 dollars as December hike priced"
 date: 2026-11-12T07:16:46-05:00
-last_updated: 2026-11-12T12:44:34-05:00
+last_updated: 2026-11-12T15:25:06-05:00
+update_bump: true
 beats: ["commodities"]
 regions: ["north-america", "global"]
 status: "story"
@@ -22,9 +23,19 @@ sources:
     publisher: "GoldPrice.com (Metals.dev)"
     url: "https://goldprice.com/gold-price-today"
     published: "2026-11-12"
+  - title: "Fed's Daly warns AI is fueling inflation, sees more rate hikes ahead"
+    publisher: "FXStreet"
+    url: "https://www.fxstreet.com/news/feds-daly-warns-ai-is-fueling-inflation-sees-more-rate-hikes-ahead-202611121854"
+    published: "2026-11-12"
+  - title: "Fed's Goolsbee warns hot inflation is no fluke as economy overheats"
+    publisher: "FXStreet"
+    url: "https://www.fxstreet.com/news/feds-goolsbee-warns-hot-inflation-is-no-fluke-as-economy-overheats-202611121647"
+    published: "2026-11-12"
 tags: []
-data_as_of: "Spot prices as of 1:42 p.m. Singapore time on November 12, 2026, per Bloomberg; site market tables updated November 12, 2026 at 06:08 EST and refreshed at midday November 12, 2026; spot gold near 3868 dollars an ounce at 10:44 a.m. Eastern on November 12, 2026, per GoldPrice.com (Metals.dev); US October CPI released November 10, 2026."
+data_as_of: "Spot prices as of 1:42 p.m. Singapore time on November 12, 2026, per Bloomberg; site market tables updated November 12, 2026 at 06:08 EST and refreshed at midday November 12, 2026; spot gold near 3868 dollars an ounce at 10:44 a.m. Eastern on November 12, 2026, per GoldPrice.com (Metals.dev); US October CPI released November 10, 2026. Updated November 12, 2026, 15:25 Toronto, with FXStreet reports of the same day, read in full, of San Francisco Fed President Mary Daly's keynote at the Stanford Institute for Economic Policy Research and Chicago Fed President Austan Goolsbee's Yahoo Finance interview."
 ---
+
+**Latest.** The afternoon brought two more hawkish voices behind the December pricing. San Francisco Fed President Mary Daly, in a keynote at the Stanford Institute for Economic Policy Research, said there is no doubt AI has fuelled price pressure, that inflation is bleeding into services, where it turns sticky, and that the prevailing bias is that further tightening will be needed, adding that she was comfortable with the September hike and that inflation pressure is up, not down. Chicago Fed President Austan Goolsbee, in a Yahoo Finance interview the same day, said inflation has been well above target, that Tuesday's consumer price report was not a one-off, and that the Fed is inching into a historically tough spot and failing on the inflation side of its mandate. Neither named a December move, but both framed AI investment itself as a source of demand pressure, the argument now carrying the hike pricing that is weighing on gold.
 
 Spot gold was down 0.4 percent at 3971.04 dollars an ounce as of 1:42 p.m. in Singapore on Thursday, holding below 4000 dollars after a drop of more than 1 percent in the previous session, Bloomberg reported. Silver fell 0.8 percent to 51.28 dollars, while platinum and palladium edged higher. By midday the site market tables had futures lower still: gold at 3876.3 dollars, down 3.10 percent on the day and 5.77 percent on the week, and silver at 49.97 dollars, down 3.69 percent.
 
