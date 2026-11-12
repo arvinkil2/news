@@ -1,7 +1,7 @@
 ---
 title: "Japan producer prices rise 0.7 percent in October"
 date: 2026-11-11T19:25:50-05:00
-last_updated: 2026-11-11T19:25:50-05:00
+last_updated: 2026-11-11T22:05:01-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -15,10 +15,20 @@ sources:
     publisher: "Bank of Japan"
     url: "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf"
     published: "2026-11-12"
+  - title: "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)"
+    publisher: "Bank of Japan"
+    url: "https://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm"
+    published: "2026-11-12"
+  - title: "BoJ's Asada says must be mindful of expected effect of past rate increases on economy"
+    publisher: "FXStreet"
+    url: "https://www.fxstreet.com/news/bojs-asada-says-must-be-mindful-of-expected-effect-of-past-rate-increases-on-economy-202611120200"
+    published: "2026-11-12"
 tags: []
-data_as_of: "Bank of Japan Corporate Goods Price Index release for October 2026, preliminary figures, released November 12, 2026 (Japan time) and read in full. September figures are the release's revised values. Developing item."
+data_as_of: "Bank of Japan Corporate Goods Price Index release for October 2026, preliminary figures, released November 12, 2026 (Japan time) and read in full. September figures are the release's revised values. Updated November 12, 2026 (Japan time) with Board Member Asada's Nagasaki speech of the same day, published by the Bank of Japan, with his remarks as quoted by FXStreet. Developing item."
 update_bump: true
 ---
+
+**Latest.** Bank of Japan board member Toichiro Asada urged caution on the pace of any further rate increases in a speech to local leaders in Nagasaki on Thursday, hours after the producer price release. Asada, who voted against this year's June and September increases that took the policy rate to 1.25 percent, said the rate is already inside the Bank's estimated neutral range of slightly above 1 percent to 2.5 percent, that current price increases are not necessarily driven by demand given weak consumption, and that the effect of a rate increase can take a year or more to become clear.
 
 Japan's producer price index rose 0.7 percent in October from the previous month, the Bank of Japan said in its preliminary Corporate Goods Price Index release, after a revised 0.2 percent fall in September. The index stood at 136.8 (2020 = 100) and was 7.1 percent higher than a year earlier, up from a revised 6.8 percent annual pace in September.
 
