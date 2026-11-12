@@ -2,14 +2,14 @@
 title: "Sweden"
 date: "2026-11-12"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed every 15 minutes."
-data_as_of: "Nov 12, 4:40 PM ET"
+data_as_of: "Nov 12, 4:51 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 12, 4:40 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 12, 4:51 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>OMX Stockholm 30 (index)</td><td class="num">3,359 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.02%</span></td><td class="num"><span class="up">+1.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.0 4.2,12.1 8.3,12.2 12.5,14.6 16.7,9.7 20.9,13.2 25.0,16.8 29.2,16.1 33.4,26.0 37.6,24.4 41.7,18.4 45.9,14.6 50.1,13.3 54.3,11.6 58.4,12.8 62.6,10.9 66.8,11.2 71.0,7.9 75.1,9.2 79.3,13.2 83.5,8.1 87.7,5.9 91.8,2.0 96.0,2.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$52.62 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-1.16%</span></td><td class="num"><span class="up">+0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.6 4.4,24.0 8.7,20.9 13.1,20.3 17.5,22.5 21.8,21.1 26.2,21.4 30.5,26.0 34.9,25.6 39.3,24.4 43.6,20.1 48.0,19.0 52.4,14.9 56.7,14.1 61.1,11.1 65.5,11.4 69.8,2.0 74.2,12.1 78.5,16.5 82.9,5.1 87.3,6.6 91.6,7.1 96.0,11.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SEK</td><td class="num">10.0226 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-1.64%</span></td><td class="num"><span class="down">-3.00%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.1 4.2,2.0 8.3,7.9 12.5,6.1 16.7,8.7 20.9,11.8 25.0,11.2 29.2,12.1 33.4,13.6 37.6,12.3 41.7,10.9 45.9,8.6 50.1,8.6 54.3,12.6 58.4,17.1 62.6,19.1 66.8,22.1 71.0,22.8 75.1,26.0 79.3,19.8 83.5,13.4 87.7,20.7 91.8,15.8 96.0,3.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SEK</td><td class="num">10.0218 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-1.63%</span></td><td class="num"><span class="down">-2.99%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.1 4.2,2.0 8.3,7.9 12.5,6.1 16.7,8.7 20.9,11.8 25.0,11.2 29.2,12.1 33.4,13.6 37.6,12.3 41.7,10.9 45.9,8.6 50.1,8.6 54.3,12.6 58.4,17.1 62.6,19.1 66.8,22.1 71.0,22.8 75.1,26.0 79.3,19.8 83.5,13.4 87.7,20.7 91.8,15.8 96.0,3.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
