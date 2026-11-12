@@ -2,14 +2,14 @@
 title: "Italy"
 date: "2026-11-12"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Italy, refreshed every 15 minutes."
-data_as_of: "Nov 12, 7:39 AM ET"
+data_as_of: "Nov 12, 7:52 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 12, 7:39 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 12, 7:52 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>FTSE MIB (index)</td><td class="num">51,953 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="up">+0.01%</span></td><td class="num"><span class="up">+2.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 4.2,14.7 8.3,16.8 12.5,19.2 16.7,16.1 20.9,21.3 25.0,21.4 29.2,17.5 33.4,26.0 37.6,24.8 41.7,20.6 45.9,17.6 50.1,16.3 54.3,15.1 58.4,18.5 62.6,15.5 66.8,15.5 71.0,8.2 75.1,11.7 79.3,14.8 83.5,5.7 87.7,3.3 91.8,2.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>FTSE MIB (index)</td><td class="num">51,927 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.04%</span></td><td class="num"><span class="up">+2.81%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.9 4.2,14.7 8.3,16.8 12.5,19.2 16.7,16.1 20.9,21.3 25.0,21.4 29.2,17.5 33.4,26.0 37.6,24.8 41.7,20.6 45.9,17.6 50.1,16.3 54.3,15.1 58.4,18.5 62.6,15.5 66.8,15.5 71.0,8.2 75.1,11.7 79.3,14.8 83.5,5.7 87.7,3.3 91.8,2.0 96.0,2.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Italy (EWI)</td><td class="num">$58.60 <span class="gm-sub-inline">as of 2026-11-11</span></td><td class="num"><span class="down">-1.15%</span></td><td class="num"><span class="down">-0.20%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.4 4.4,16.6 8.7,19.7 13.1,17.7 17.5,17.8 21.8,23.7 26.2,20.3 30.5,18.6 34.9,25.8 39.3,26.0 43.6,23.6 48.0,21.1 52.4,19.5 56.7,18.1 61.1,21.0 65.5,18.2 69.8,18.2 74.2,5.1 78.5,13.1 82.9,17.3 87.3,2.2 91.6,2.0 96.0,5.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1085 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.75%</span></td><td class="num"><span class="down">-1.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,6.8 4.2,14.0 8.3,7.0 12.5,8.4 16.7,5.5 20.9,3.6 25.0,5.0 29.2,3.3 33.4,2.0 37.6,4.2 41.7,4.7 45.9,11.8 50.1,18.8 54.3,14.6 58.4,10.3 62.6,14.5 66.8,8.9 71.0,6.5 75.1,2.0 79.3,3.1 83.5,16.1 87.7,4.1 91.8,12.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1090 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.71%</span></td><td class="num"><span class="down">-1.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.0 4.2,14.4 8.3,7.1 12.5,8.6 16.7,5.6 20.9,3.7 25.0,5.1 29.2,3.3 33.4,2.0 37.6,4.3 41.7,4.8 45.9,12.1 50.1,19.4 54.3,15.1 58.4,10.6 62.6,14.9 66.8,9.1 71.0,6.6 75.1,2.0 79.3,3.2 83.5,16.6 87.7,4.2 91.8,12.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -19,6 +19,7 @@ data_as_of: "Nov 12, 7:39 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-09-30 (Banca d&#x27;Italia), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-hoax-bomb-threats-evacuate-schools-italy-uk/">Hoax bomb threats evacuate hundreds of schools in Italy and Britain</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-italy-evacuates-312-schools-emailed-bomb-threats/">Italy evacuates 312 schools after emailed bomb threats</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-09</span> <a href="/stories/2026-11-09-italy-approves-energy-bills-decree/">Italy approves decree to cut electricity costs from January</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-italy-inflation-jumps-5-4-percent-october/">Italy inflation jumps to 5.4 percent in October</a></p>
