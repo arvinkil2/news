@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-13"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 13, 6:52 AM ET"
+data_as_of: "Nov 13, 7:10 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 7:10 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,592 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.35%</span></td><td class="num"><span class="up">+3.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,6.6 8.7,5.3 13.1,9.8 17.5,8.1 21.8,6.9 26.2,4.6 30.5,9.5 34.9,11.7 39.3,8.8 43.6,6.4 48.0,5.3 52.4,6.5 56.7,14.0 61.1,16.0 65.5,14.6 69.8,8.2 74.2,26.0 78.5,24.8 82.9,15.6 87.3,17.1 91.6,11.9 96.0,13.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">25,366 <span class="gm-sub-inline">as of 2026-11-12 (Nasdaq, near-real-time)</span></td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="up">+4.32%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,6.2 8.7,6.1 13.1,10.8 17.5,8.4 21.8,8.5 26.2,6.2 30.5,11.9 34.9,12.4 39.3,10.6 43.6,8.0 48.0,7.4 52.4,10.5 56.7,16.7 61.1,18.9 65.5,17.2 69.8,14.2 74.2,26.0 78.5,23.8 82.9,18.2 87.3,19.8 91.6,16.4 96.0,17.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -20,11 +20,11 @@ data_as_of: "Nov 13, 6:52 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-iea-oil-market-returns-surplus-first-time-war/">IEA sees oil market back in surplus as Gulf exports recover</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-kraft-group-proposes-900mw-sutton-campus/">Kraft Group proposes 900 megawatt campus in Sutton</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-eia-builds-crude-gasoline-distillates/">US oil stocks build across crude, gasoline and distillates</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-supertanker-squeeze-crimping-us-crude-exports/">Supertanker squeeze crimps US crude exports, port chief says</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-altus-power-buys-92-solar-projects-arevon/">Altus Power buys 92 solar projects from Arevon</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-china-chip-stocks-rally-remote-ai-access/">China AI developers slide as US weighs remote-access curbs</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-beeline-afimetoran-phase2-lupus-data/">Beeline afimetoran posts detailed Phase 2 lupus results</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-us-measles-elimination-status-paho-review/">United States measles elimination status under PAHO review</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-troilus-finds-gold-in-z87-waste-ground/">Troilus finds gold in ground classed as waste</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-miner-equities-split-precious-fall-criticals-rise/">Miner equities split as precious names fall, criticals rise</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-torus-raises-500-million-modular-data-centers/">Torus raises $500 million to build modular AI data centres</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-arko-petroleum-closes-us-petroleum-partners-acquisition/">ARKO Petroleum closes US Petroleum Partners fuel distribution acquisition</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

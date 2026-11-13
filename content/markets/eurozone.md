@@ -2,14 +2,14 @@
 title: "Eurozone"
 date: "2026-11-13"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Eurozone, refreshed every 15 minutes."
-data_as_of: "Nov 13, 6:52 AM ET"
+data_as_of: "Nov 13, 7:10 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 7:10 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>EURO STOXX 50 (index)</td><td class="num">6,398 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.02%</span></td><td class="num"><span class="up">+3.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.2,17.1 8.3,18.7 12.5,16.1 16.7,20.4 20.9,22.1 25.0,15.9 29.2,24.6 33.4,26.0 37.6,22.5 41.7,19.0 45.9,18.8 50.1,15.9 54.3,21.4 58.4,18.2 62.6,20.5 66.8,11.7 71.0,14.1 75.1,18.6 79.3,9.9 83.5,7.2 87.7,2.4 91.8,2.0 96.0,2.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EURO STOXX 50 (index)</td><td class="num">6,396 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.05%</span></td><td class="num"><span class="up">+3.66%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 4.2,17.1 8.3,18.7 12.5,16.1 16.7,20.4 20.9,22.1 25.0,15.9 29.2,24.6 33.4,26.0 37.6,22.5 41.7,19.0 45.9,18.8 50.1,15.9 54.3,21.4 58.4,18.2 62.6,20.5 66.8,11.7 71.0,14.1 75.1,18.6 79.3,9.9 83.5,7.2 87.7,2.4 91.8,2.0 96.0,2.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR EURO STOXX 50 (FEZ)</td><td class="num">$67.08 <span class="gm-sub-inline">as of 2026-11-12</span></td><td class="num"><span class="down">-0.62%</span></td><td class="num"><span class="up">+1.78%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.1 4.4,19.4 8.7,13.8 13.1,15.5 17.5,21.5 21.8,17.4 26.2,13.3 30.5,21.9 34.9,26.0 39.3,24.4 43.6,19.4 48.0,18.3 52.4,13.8 56.7,22.2 61.1,19.2 65.5,20.6 69.8,3.0 74.2,15.0 78.5,22.2 82.9,2.9 87.3,2.3 91.6,2.0 96.0,5.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1056 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.35%</span></td><td class="num"><span class="down">-1.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.1 4.2,6.2 8.3,7.4 12.5,4.9 16.7,3.3 20.9,4.5 25.0,3.1 29.2,2.0 33.4,3.9 37.6,4.3 41.7,10.2 45.9,16.1 50.1,12.6 54.3,9.0 58.4,12.5 62.6,7.8 66.8,5.8 71.0,2.0 75.1,2.9 79.3,13.8 83.5,3.7 87.7,10.8 91.8,20.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1052 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="down">-1.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.8 4.2,6.1 8.3,7.2 12.5,4.9 16.7,3.3 20.9,4.5 25.0,3.0 29.2,2.0 33.4,3.8 37.6,4.2 41.7,10.0 45.9,15.8 50.1,12.4 54.3,8.8 58.4,12.2 62.6,7.6 66.8,5.7 71.0,2.0 75.1,2.9 79.3,13.5 83.5,3.7 87.7,10.7 91.8,20.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -20,6 +20,7 @@ data_as_of: "Nov 13, 6:52 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-05 (European Central Bank), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-euro-area-growth-slows-04-percent-third-quarter/">Euro area growth slows to 0.4 percent in third quarter</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-euro-area-retail-trade-falls-september/">Euro area retail trade falls 0.7 percent in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-euro-area-inflation-hits-4-percent-october/">Euro area inflation hits 4 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-euro-area-gdp-grows-0-4-percent-q3/">Euro area growth slows to 0.4 percent in third quarter</a></p>
@@ -27,5 +28,4 @@ data_as_of: "Nov 13, 6:52 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-26</span> <a href="/stories/2026-10-26-ecb-safe-firms-bank-loan-rates-tightening/">Euro area firms report tighter bank loan rates in ECB survey</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-23</span> <a href="/stories/2026-10-23-eurozone-flash-pmi-falls-october/">Euro zone flash PMI falls to four-month low</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-21</span> <a href="/stories/2026-10-21-eurostat-euro-area-debt-88-8-deficit/">Euro area debt rises to 88.8 percent of GDP</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-16</span> <a href="/stories/2026-10-16-euro-area-inflation-final-38/">Euro area inflation confirmed at 3.8 percent in September final</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
