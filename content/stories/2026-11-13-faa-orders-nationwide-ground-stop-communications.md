@@ -1,0 +1,40 @@
+---
+title: "FAA orders nationwide ground stop over air traffic communications failure"
+date: 2026-11-13T16:42:35-05:00
+last_updated: 2026-11-13T16:42:35-05:00
+beats: ["infra-deals"]
+regions: ["north-america"]
+status: "story"
+lede: "The Federal Aviation Administration ordered every airport in the United States ground stopped on Friday afternoon, halting all departures until further notice after a communications issue hit its en route control centers."
+why_it_matters: "A nationwide departure halt is one of the rarest orders in US aviation, last used in January 2023, and even a short stop on a Friday afternoon cascades into cancellations and delays across airline networks into the weekend."
+featured: true
+evidence_grade: "B"
+sources:
+  - title: "FAA Orders Nationwide Ground Stop"
+    publisher: "AirlineGeeks"
+    url: "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/"
+    published: "2026-11-13"
+  - title: "FAA orders nationwide ground stop amid communication outage"
+    publisher: "The Weather Company"
+    url: "https://weather.com/2026/11/13/travel/faa-nationwide-ground-stop-equipment-outage-flights"
+    published: "2026-11-13"
+  - title: "FAA orders nationwide ground stop, citing extraordinary safety concerns"
+    publisher: "Reuters, via Virginia Business"
+    url: "https://virginiabusiness.com/us-faa-grounds-all-departing-flights-safety/"
+    published: "2026-11-13"
+  - title: "FAA orders ground stop at all US airports due to extraordinary circumstance and reasons for safety"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
+    published: "2026-11-13"
+tags: []
+data_as_of: "FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
+update_bump: true
+---
+
+The Federal Aviation Administration halted departures at every airport in the United States on Friday afternoon, issuing a national ground stop after a communications failure disrupted the control centers that manage aircraft in flight. The Air Traffic Control System Command Center issued Advisory 111, titled "National Ground Stop," at 3:54 p.m. Eastern. "Due to extraordinary circumstances and for reasons of safety, attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped," the advisory said. "All departing traffic should remain ground stopped until further notice. Inbound international flights will be managed on a case by case basis." Reporting on the advisory put its effective window through 11 p.m. Eastern.
+
+In a separate statement, the FAA said a communications issue affecting multiple Air Route Traffic Control Centers was to blame and that agency technicians were investigating. Transportation Secretary Sean Duffy, posting at 4:16 p.m. Eastern, described it as "a communication issue impacting all Air Route Traffic Control Centers" and said the agency would provide updates as it had them. Neither the FAA nor the department named a root cause, and officials did not say whether a cyberattack was suspected.
+
+The failure built through the afternoon. Problems were reported from about 3:30 p.m. Eastern at the Kansas City center before spreading, and an earlier advisory, Advisory 107, had already stopped flights bound for Chicago O'Hare from 3:10 p.m. to 4:30 p.m. Eastern, citing an equipment outage and communications issues. Flightradar24 counted about 3,100 aircraft airborne and bound for US airports at 4:19 p.m. Eastern, with no additional aircraft taking off under the order. Flights already in the air could still land and remained in contact with controllers, according to ABC News reporting carried by AirlineGeeks.
+
+Nationwide stops of this kind have happened only twice since the September 11, 2001 attacks grounded US aviation: on the day itself and on January 11, 2023, when a failure of the NOTAM safety notice system halted departures for about an hour and a half. Friday's failure is different in kind, a communications breakdown at the en route centers rather than a notices database fault, and its duration was still unclear at the time of writing. The FAA's public status board no longer listed a nationwide halt at about 4:30 p.m. Eastern, but the agency had issued no statement confirming a full resumption, and reported end times for the advisory varied. Even if departures resume quickly, a Friday afternoon stop of this breadth leaves aircraft and crews out of position across every US airline network, with cancellations and delays expected to run into the weekend.
