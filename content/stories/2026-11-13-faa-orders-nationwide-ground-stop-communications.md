@@ -1,7 +1,7 @@
 ---
 title: "FAA orders nationwide ground stop over air traffic communications failure"
 date: 2026-11-13T16:42:35-05:00
-last_updated: 2026-11-13T17:45:21-05:00
+last_updated: 2026-11-13T18:04:34-05:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -26,10 +26,16 @@ sources:
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
     published: "2026-11-13"
+  - title: "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+    published: "2026-11-13"
 tags: []
-data_as_of: "Updated November 13, 2026 with Deutsche Welle's updated report of the same day, read in full in this run, carrying Homeland Security Secretary Markwayne Mullin's White House remarks that there was no indication of an attack and NAV Canada's statement of no impact on Canadian operations; the Deutsche Welle page, updated within the hour, carried no announcement that the stop had been lifted. Earlier: FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
+data_as_of: "Updated November 13, 2026 with The Guardian's report of the same evening, read in full via the estate browser route, citing FlightAware's count of more than 11,000 US flights delayed or canceled and reporting the stop still in force with no timeline given for a fix. Earlier update: Deutsche Welle's updated report of the same day, read in full in this run, carrying Homeland Security Secretary Markwayne Mullin's White House remarks that there was no indication of an attack and NAV Canada's statement of no impact on Canadian operations; the Deutsche Welle page, updated within the hour, carried no announcement that the stop had been lifted. Earlier: FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
 update_bump: true
 ---
+
+**Latest.** The disruption count climbed through the evening: FlightAware put the number of US flights delayed or canceled at more than 11,000, The Guardian reported, and the ground stop was still in force in its latest report, with no timeline given for how long the stoppage might last. Homeland Security Secretary Markwayne Mullin said there was no clear information on duration and that nothing was being ruled out on the cause.
 
 **Latest.** Homeland Security Secretary Markwayne Mullin told reporters at the White House that there was no indication the failure was an attack on the United States, calling it a telecommunications outage, and said every flight had been accounted for and everybody was safe. NAV Canada said it was monitoring the stop closely, that there was no impact on Canadian operations, and that it continued to support traffic in Canadian airspace, including any diverted aircraft. No announcement that the stop had been lifted had been published by the time of this update.
 
