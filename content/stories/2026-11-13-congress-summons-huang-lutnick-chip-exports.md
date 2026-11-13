@@ -1,7 +1,7 @@
 ---
 title: "Congress summons Huang and Lutnick over China chip exports"
 date: 2026-11-13T07:12:25-05:00
-last_updated: 2026-11-13T07:12:25-05:00
+last_updated: 2026-11-13T09:36:16-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific"]
 status: "story"
@@ -18,8 +18,13 @@ sources:
     publisher: "AJP News Agency"
     url: "https://www.ajupress.com/view/20261113132308710"
     published: "2026-11-13"
+  - title: "China warns tougher US chip curbs could disrupt global supply chain"
+    publisher: "DevDiscourse, syndicated wire report"
+    url: "https://www.devdiscourse.com/article/international/4006396-china-warns-tougher-us-chip-curbs-could-disrupt-global-supply-chain"
+    published: "2026-11-13"
 tags: []
-data_as_of: "Senate Banking Committee letters dated November 12, 2026, as reported November 12 and 13; Decrypt report of November 13 and AJP report of November 13, both read in full in this pass. The underlying allegations about Megaspeed and Alice Huang are US officials' suspicions as reported, not findings; the Justice Department investigation is unresolved."
+update_bump: true
+data_as_of: "Senate Banking Committee letters dated November 12, 2026, as reported November 12 and 13; Decrypt report of November 13 and AJP report of November 13, both read in full in this pass. Updated November 13, 2026, with foreign ministry spokesperson Mao Ning's remarks at the ministry's regular Friday briefing, as carried the same day by a syndicated wire report read in full; the ministry's own briefing transcript was not read directly in this run and China's foreign ministry is already logged in this operation's sources-to-implement list. The underlying allegations about Megaspeed and Alice Huang are US officials' suspicions as reported, not findings; the Justice Department investigation is unresolved."
 ---
 
 Congress moved within hours of Jensen Huang's resignation as Nvidia chief executive to demand testimony on how advanced American chips may have reached China. In letters dated November 12, Senate Banking Committee chairman Tim Scott asked Huang to appear voluntarily at a public hearing on December 3, citing public reports that raise significant national security concerns, and warned that the committee would consider a subpoena if he does not appear. Scott asked Commerce Secretary Howard Lutnick to testify on December 10, on the Commerce Department's authority to issue and enforce export controls. A Commerce spokesman told NBC News that Lutnick has agreed to testify.
@@ -29,3 +34,5 @@ The Senate request is one layer of a widening inquiry. The chairs of three House
 At the centre of the inquiries is Megaspeed, a Singapore based Nvidia customer whose former executive Alice Huang US officials suspect was recruited by Chinese intelligence and which officials suspect helped Chinese firms obtain restricted chips. The Justice Department is investigating whether she is a spy and has not reached a conclusion, and China denies the allegation. Nvidia has said its board opened an independent investigation and has no reason to believe company secrets or national security were compromised. Lawmakers have not accused Huang of a crime.
 
 The political stakes extend beyond one company. Three chip bills are in play for the defence package, including the Chip Security Act, which would require location verification technology on advanced processors, and measures that would give Congress a review role over licences for advanced AI chip sales. President Trump has separately pitched Apple chief executive Tim Cook as a successor at Nvidia, a suggestion with no corporate standing that the technology beat covers in its own reporting on the resignation.
+
+Beijing answered the pressure on Friday. Asked about tougher chip curbs the United States is preparing to advance, and whether they would violate the trade truce, foreign ministry spokesperson Mao Ning said China has always opposed the abuse of export control measures, that such measures would disrupt the stability of global industrial and supply chains and are not in line with any party's interests, and that China and the United States should work to implement the consensus reached by their two heads of state and maintain the steady development of trade and economic ties.
