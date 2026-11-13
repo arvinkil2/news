@@ -2,14 +2,14 @@
 title: "Japan"
 date: "2026-11-13"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Japan, refreshed every 15 minutes."
-data_as_of: "Nov 13, 10:54 AM ET"
+data_as_of: "Nov 13, 11:20 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 10:54 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 11:20 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nikkei 225 (index)</td><td class="num">60,819 <span class="gm-sub-inline">as of 2026-11-12, stale</span></td><td class="num"><span class="down">-0.70%</span></td><td class="num"><span class="down">-0.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.6,2.1 9.1,9.8 13.7,7.7 18.3,8.6 22.9,10.6 27.4,9.3 32.0,13.3 36.6,13.8 41.1,15.0 45.7,12.5 50.3,10.9 54.9,9.2 59.4,12.4 64.0,12.9 68.6,15.0 73.1,17.5 77.7,26.0 82.3,22.9 86.9,19.0 91.4,17.2 96.0,18.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$90.99 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.52%</span></td><td class="num"><span class="up">+3.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,5.9 8.3,7.0 12.5,8.5 16.7,8.2 20.9,7.0 25.0,6.2 29.2,9.2 33.4,10.5 37.6,10.1 41.7,7.5 45.9,8.2 50.1,8.3 54.3,13.7 58.4,13.9 62.6,14.5 66.8,11.2 71.0,26.0 75.1,26.0 79.3,17.5 83.5,20.4 87.7,15.8 91.8,17.5 96.0,18.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/JPY</td><td class="num">159.89 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.10%</span></td><td class="num"><span class="down">-1.52%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.7 4.2,13.1 8.3,15.7 12.5,14.3 16.7,16.7 20.9,11.6 25.0,13.5 29.2,14.4 33.4,26.0 37.6,23.6 41.7,18.7 45.9,15.4 50.1,16.5 54.3,16.7 58.4,17.6 62.6,15.9 66.8,12.0 71.0,12.8 75.1,18.9 79.3,13.3 83.5,15.5 87.7,10.4 91.8,3.1 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Japan (EWJ)</td><td class="num">$90.89 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.63%</span></td><td class="num"><span class="up">+2.98%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,5.9 8.3,7.0 12.5,8.5 16.7,8.2 20.9,7.0 25.0,6.2 29.2,9.2 33.4,10.5 37.6,10.1 41.7,7.5 45.9,8.2 50.1,8.3 54.3,13.7 58.4,13.9 62.6,14.5 66.8,11.2 71.0,26.0 75.1,26.0 79.3,17.5 83.5,20.4 87.7,15.8 91.8,17.5 96.0,19.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/JPY</td><td class="num">159.88 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.09%</span></td><td class="num"><span class="down">-1.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.6 4.2,13.1 8.3,15.6 12.5,14.3 16.7,16.7 20.9,11.6 25.0,13.4 29.2,14.4 33.4,26.0 37.6,23.6 41.7,18.7 45.9,15.4 50.1,16.5 54.3,16.7 58.4,17.6 62.6,15.9 66.8,12.0 71.0,12.8 75.1,18.9 79.3,13.3 83.5,15.5 87.7,10.3 91.8,3.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
