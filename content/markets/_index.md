@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-13"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 13, 6:12 PM ET"
+data_as_of: "Market data as of Nov 13, 6:18 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 6:12 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 6:18 PM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">19.30</span><span class="gm-sub">1d <span class="up">+3.21%</span> / 1w <span class="down">-24.73%</span> (Cboe, 15-min delayed)</span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.21%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -110,6 +110,7 @@ data_as_of: "Market data as of Nov 13, 6:12 PM ET"
 <tr><td data-v="Japan"><a href="/markets/japan/">Japan</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="2.84">2.84</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="0.1"><span class="up">+0.1</span></td><td class="num" data-v="-226">-226</td></tr>
 <tr><td data-v="China"><a href="/markets/china/">China</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="1.61">1.61</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="0.9"><span class="up">+0.9</span></td><td class="num" data-v="-349">-349</td></tr>
 <tr><td data-v="Hong Kong"><a href="/markets/hong-kong/">Hong Kong</a></td><td class="num" data-v="3.35">3.35</td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td></tr>
+<tr><td data-v="South Korea"><a href="/markets/south-korea/">South Korea</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="4.0">4.00</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="6.4"><span class="up">+6.4</span></td><td class="num" data-v="-110">-110</td></tr>
 <tr><td data-v="Taiwan"><a href="/markets/taiwan/">Taiwan</a></td><td class="num" data-v="1.54">1.54</td><td class="num" data-v="2.03">2.03</td><td class="num" data-v="1.89">1.89</td><td class="num" data-v="0.0"><span class="up">+0.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Australia"><a href="/markets/australia/">Australia</a></td><td class="num" data-v="4.83">4.83</td><td class="num" data-v="5.08">5.08</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-0.4"><span class="down">-0.4</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Singapore"><a href="/markets/singapore/">Singapore</a></td><td class="num" data-v="1.86">1.86</td><td class="num" data-v="2.21">2.21</td><td class="num" data-v="2.25">2.25</td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td></tr>
