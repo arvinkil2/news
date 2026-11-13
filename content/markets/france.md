@@ -2,14 +2,14 @@
 title: "France"
 date: "2026-11-13"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed every 15 minutes."
-data_as_of: "Nov 13, 1:54 PM ET"
+data_as_of: "Nov 13, 2:03 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 1:54 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 2:03 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>CAC 40 (index)</td><td class="num">8,369 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.09%</span></td><td class="num"><span class="up">+2.82%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.2 4.2,22.3 8.3,19.8 12.5,18.9 16.7,22.5 20.9,23.7 25.0,20.3 29.2,24.8 33.4,26.0 37.6,23.4 41.7,21.7 45.9,21.7 50.1,18.3 54.3,18.4 58.4,15.2 62.6,16.3 66.8,9.8 71.0,8.7 75.1,11.4 79.3,7.6 83.5,5.7 87.7,3.5 91.8,2.3 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI France (EWQ)</td><td class="num">$43.8600 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.09%</span></td><td class="num"><span class="up">+2.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.7 4.2,25.0 8.3,18.3 12.5,19.5 16.7,24.2 20.9,21.4 25.0,19.6 29.2,22.3 33.4,26.0 37.6,24.8 41.7,22.8 45.9,21.8 50.1,17.1 54.3,18.4 58.4,14.1 62.6,15.8 66.8,4.3 71.0,8.3 75.1,12.8 79.3,2.3 83.5,2.0 87.7,3.7 91.8,4.7 96.0,4.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.1031 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.57%</span></td><td class="num"><span class="down">-1.75%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.8 4.2,5.6 8.3,6.7 12.5,4.6 16.7,3.2 20.9,4.2 25.0,2.9 29.2,2.0 33.4,3.6 37.6,4.0 41.7,9.2 45.9,14.4 50.1,11.3 54.3,8.1 58.4,11.2 62.6,7.1 66.8,5.3 71.0,2.0 75.1,2.8 79.3,12.4 83.5,3.5 87.7,9.8 91.8,18.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI France (EWQ)</td><td class="num">$43.8300 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="up">+2.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.7 4.2,25.0 8.3,18.3 12.5,19.5 16.7,24.2 20.9,21.4 25.0,19.6 29.2,22.3 33.4,26.0 37.6,24.8 41.7,22.8 45.9,21.8 50.1,17.1 54.3,18.4 58.4,14.1 62.6,15.8 66.8,4.3 71.0,8.3 75.1,12.8 79.3,2.3 83.5,2.0 87.7,3.7 91.8,4.7 96.0,4.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.1030 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.59%</span></td><td class="num"><span class="down">-1.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.8 4.2,5.6 8.3,6.7 12.5,4.6 16.7,3.2 20.9,4.2 25.0,2.9 29.2,2.0 33.4,3.6 37.6,4.0 41.7,9.1 45.9,14.3 50.1,11.2 54.3,8.1 58.4,11.1 62.6,7.0 66.8,5.3 71.0,2.0 75.1,2.8 79.3,12.3 83.5,3.5 87.7,9.7 91.8,18.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
