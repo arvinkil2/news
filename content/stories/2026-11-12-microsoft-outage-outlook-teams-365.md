@@ -1,12 +1,12 @@
 ---
 title: "Microsoft outage disrupts Outlook, Teams and 365 services"
 date: 2026-11-12T17:25:43-05:00
-last_updated: 2026-11-13T06:05:54-05:00
+last_updated: 2026-11-13T07:03:21-05:00
 beats: ["technology"]
 regions: ["global"]
 status: "developing"
 developing: true
-lede: "The Microsoft outage entered a second day on Friday with Britain's NHS reporting widespread and serious disruption, ambulance services, police forces and Parliament affected, pharmacies warning of prescription delays, and Microsoft reporting early signs of stabilisation with no time set for full restoration."
+lede: "Microsoft's outage stretched past 12 hours into Friday with the company admitting its fixes had not produced sustained recovery, virtual machines stuck in a bad state, and its language on a possible cyberattack softening to not being aware of malicious activity."
 why_it_matters: "Microsoft 365 is core workplace infrastructure for hundreds of millions of users, so an hours long Exchange Online disruption stalls email and collaboration well beyond the company's own customer base."
 featured: false
 evidence_grade: "B"
@@ -31,14 +31,20 @@ sources:
     publisher: "Yonhap"
     url: "https://www.yna.co.kr/view/AKR20261113126100009"
     published: "2026-11-13"
+  - title: "Microsoft's massive M365 outage stretches past 12 hours as its fixes keep failing"
+    publisher: "The Register"
+    url: "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609"
+    published: "2026-11-13"
   - title: "Microsoft outage hits hospitals, GPs, schools and police across UK"
     publisher: "The Guardian"
     url: "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk"
     published: "2026-11-13"
 tags: []
 update_bump: true
-data_as_of: "CNBC report of November 12, 2026, published 3:54 p.m. Eastern and read in full via the estate browser route in this run; corroborated by Al Jazeera and Guardian reports of the same outage in the feed queue. Microsoft had not said the outage was fully resolved at the time of the CNBC report, and no exact Downdetector count was published. Developing item. Updated November 12, 2026, 23:03 Toronto, with the Bangkok Post report of the same outage, read in full in this run: the 74 countries and territories figure and the report counts are Downdetector's as carried by the Bangkok Post, and Microsoft's limited recovery statement was made shortly after 6 p.m. Eastern; full restoration had not been announced. Updated November 13, 2026, 02:26 Toronto, with Yonhap's comprehensive report of November 13, 2026, in Korean and read in full via the estate browser route, drawing on Reuters, Bloomberg and Agence France-Presse reporting; Microsoft had still not announced full restoration or a time for it. Updated November 13, 2026, 06:05 Toronto, with the Guardian report of November 13, 2026, read in full via the estate browser route: the United Kingdom impact on the NHS, ambulance services, pharmacies, police forces and Parliament, the government engineers working with Microsoft, and the company statement that it was seeing early signs of stabilisation."
+data_as_of: "CNBC report of November 12, 2026, published 3:54 p.m. Eastern and read in full via the estate browser route in this run; corroborated by Al Jazeera and Guardian reports of the same outage in the feed queue. Microsoft had not said the outage was fully resolved at the time of the CNBC report, and no exact Downdetector count was published. Developing item. Updated November 12, 2026, 23:03 Toronto, with the Bangkok Post report of the same outage, read in full in this run: the 74 countries and territories figure and the report counts are Downdetector's as carried by the Bangkok Post, and Microsoft's limited recovery statement was made shortly after 6 p.m. Eastern; full restoration had not been announced. Updated November 13, 2026, 02:26 Toronto, with Yonhap's comprehensive report of November 13, 2026, in Korean and read in full via the estate browser route, drawing on Reuters, Bloomberg and Agence France-Presse reporting; Microsoft had still not announced full restoration or a time for it. Updated November 13, 2026, 06:05 Toronto, with the Guardian report of November 13, 2026, read in full via the estate browser route: the United Kingdom impact on the NHS, ambulance services, pharmacies, police forces and Parliament, the government engineers working with Microsoft, and the company statement that it was seeing early signs of stabilisation. Updated November 13, 2026, with The Register report of November 13, 2026, read in full: recovery actions not producing sustained relief, virtual machines stuck in a bad state preventing changes from syncing, and Microsoft status wording softening on malicious activity."
 ---
+
+**Latest.** Microsoft's recovery work was still not holding on Friday. The Register, reviewing the company's status feed, reported that the outage that began around 18:00 UTC on Thursday had stretched past 12 hours, that changes applied to improve serviceability were "not taking as expected," and that partial recovery in some regions was "not resulting in sustained recovery," with virtual machines stuck in a bad state preventing changes from syncing. Microsoft also softened its wording on the cause: an update at 04:11 UTC said there was "no indication this is the result of malicious activity," while a later update at 05:46 UTC said only that the company was "not aware of any malicious activity that is causing this incident." Its latest update gave no time for full restoration.
 
 **Latest.** The outage's second day brought its sharpest public-service impact in Britain. NHS sources told the Guardian the health service was facing widespread and serious disruption, with staff arriving on Friday morning unable to access email and systems used to deliver care, meetings cancelled across the board, and some NHS organisations asking patients to telephone instead of emailing. Ambulance services were also affected, though the GMB union said emergency and life-threatening callouts appeared unaffected. Pharmacies warned of delays to prescriptions because they could not reach GP surgeries by email, and the National Pharmacy Association said waits for medicines would be longer than normal. Six police forces, the Metropolitan, Northampton, Hertfordshire, South Wales, Dyfed-Powys and Dorset, reported their systems affected, and access to Microsoft products used by MPs was down. Government engineers were working with Microsoft to assess the impact, and the company said on Friday morning it was seeing early signs of stabilisation, with no time set for full restoration.
 
