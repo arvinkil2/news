@@ -1,7 +1,7 @@
 ---
 title: "Nebius falls as capex climbs and 2026 outlook softens"
 date: 2026-11-12T08:24:45-05:00
-last_updated: 2026-11-12T12:11:58-05:00
+last_updated: 2026-11-13T07:12:06-05:00
 beats: ["technology"]
 regions: ["north-america", "europe"]
 status: "developing"
@@ -33,3 +33,5 @@ Nebius reported third quarter revenue of $980.8 million, ahead of the $907.5 mil
 The outlook is what moved the stock. Chief executive Arkady Volozh told shareholders the company expects 2026 revenue at the low end of its $3 billion to $3.4 billion range, against a $3.35 billion FactSet expectation, while expected 2026 capital spending rose to $27 billion from prior guidance of $20 billion to $25 billion. Nebius put initial 2027 revenue guidance at $12 billion to $13 billion and 2027 capex at $40 billion to $45 billion, far above the $28.77 billion FactSet expectation, and said it raised $5.75 billion of debt financing in the quarter.
 
 On the earnings call, reported by Datacenter Dynamics, Volozh said contracts signed in the third quarter totalled $12 billion and that customer prepayments for those contracts covered 100 percent of the associated capital spending, up from 50 to 60 percent coverage in the second quarter, with full year prepayments expected to total $10 billion. Payback on the quarter's contracts shortened to one year and seven months, from one year and ten months a quarter earlier, and the contracts were priced at $25 million per megawatt. Management also gave the reason for the softer 2026 revenue guide: some colocation sites, including the Vineland, New Jersey site being built for Microsoft, are behind schedule after DataOne wound down temporary generation faster than expected, shifting some planned 2026 revenue into early 2027, with no capacity cancelled. Datacenter Dynamics reported the shares down 18.48 percent at its time of writing, a deeper fall than the roughly 10 percent recorded earlier in the session.
+
+Morning update, November 13: two details from the shareholder letter sharpen the print. About 325 million dollars of the quarter's revenue was non-recurring, from the company's asset-light model in which partners fund capacity, so the underlying run rate was lower than the headline beat suggests. Remaining performance obligations were 38.7 billion dollars at September 30, up only 3 percent from 37.5 billion dollars at June 30, because most of the 12 billion dollars of contracts signed since the start of the quarter were signed after quarter end and land in the fourth quarter book. Nebius filed a second Form 6-K later on November 12 (accession 0001104659-26-126238) furnishing its operating and financial review and unaudited statements for the three and nine months ended September 30, 2026; the figures above are unchanged by it.

@@ -1,7 +1,7 @@
 ---
 title: "Scholar Rock sells review voucher for 205 million dollars"
 date: 2026-11-11T07:22:21-05:00
-last_updated: 2026-11-11T07:22:21-05:00
+last_updated: 2026-11-13T07:16:17-05:00
 beats: ["life-sciences"]
 regions: ["north-america", "europe", "asia-pacific"]
 status: "story"
@@ -14,8 +14,16 @@ sources:
     publisher: "Scholar Rock Holding Corp, via SEC EDGAR"
     url: "https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/srrk-ex99_1.htm"
     published: "2026-11-10"
+  - title: "BioNTech to Acquire US FDA Priority Review Voucher"
+    publisher: "BioNTech SE"
+    url: "https://www.biontech.com/content/dam/biontech-corporate/global/pdf/home/media/en/statements/attachments/2026/11/biontech-to-acquire-us-fda-priority-review-voucher.pdf"
+    published: "2026-11-10"
+  - title: "BioNTech pays $205M for FDA voucher to speed up cancer pipeline"
+    publisher: "Fierce Pharma"
+    url: "https://www.fiercepharma.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline"
+    published: "2026-11-11"
 tags: []
-data_as_of: "Scholar Rock third quarter release furnished with its 8-K on November 10, 2026, read in full from the filings lane copy in this run. The Priority Review Voucher sale is a definitive agreement announced in November; closing is subject to the Hart-Scott-Rodino waiting period, and the buyer was not named in the release."
+data_as_of: "Scholar Rock third quarter release furnished with its 8-K on November 10, 2026, read in full from the filings lane copy in this run. The Priority Review Voucher sale is a definitive agreement announced in November; closing is subject to the Hart-Scott-Rodino waiting period, and the buyer was not named in the release. Updated November 13, 2026: the buyer is BioNTech, per its own announcement of November 10, 2026."
 ---
 
 Scholar Rock reported third quarter results on November 10 and disclosed that in November it reached a definitive agreement to sell its Rare Pediatric Disease Priority Review Voucher for 205 million dollars, with the cash to be received on closing, subject to the Hart-Scott-Rodino waiting period. The voucher was awarded after the FDA approved Isembyld (apitegromab-mstn) on September 11, 2026, as the first and only muscle-targeted therapy for spinal muscular atrophy, for adults and children aged two and older who are receiving an SMN2-targeted treatment.
@@ -23,3 +31,5 @@ Scholar Rock reported third quarter results on November 10 and disclosed that in
 The United States launch is under way. The company shipped vials to its specialty network within a week of approval, recorded 0.6 million dollars of product revenue in the quarter (570,000 dollars in the financial statements), and infused its first patients in October. The quarter's net loss was 107.2 million dollars, or 0.81 dollars per share, compared with 102.2 million dollars, or 0.90 dollars per share, a year earlier, with research and development expense of 54.1 million dollars and selling, general and administrative expense of 52.5 million dollars. Cash, cash equivalents and marketable securities stood at 413.6 million dollars at September 30, before the voucher proceeds.
 
 The filing also moves the programme's centre of gravity abroad. Scholar Rock resubmitted its European Marketing Authorisation Application in October, after switching to the same alternate fill-finish facility that supported the United States approval, and the application was validated, putting it on track for a Committee for Medicinal Products for Human Use opinion in the first half of 2027. In Japan, its New Drug Application was submitted and accepted under priority review, which the company notes has typically targeted a review cycle of about nine months, and apitegromab received Orphan Drug designation there. A Phase 2 trial in infants and toddlers, a Phase 2 trial in facioscapulohumeral muscular dystrophy, and topline data from the Phase 1 study of its next myostatin inhibitor SRK-439, expected by year end, fill out the near-term calendar.
+
+Update, November 13: the buyer of the voucher is BioNTech. In its own announcement dated November 10, BioNTech said it will pay the 205 million dollars in cash and intends to use the voucher to support a future filing of an asset in its late-stage oncology pipeline, with closing subject to Hart-Scott-Rodino clearance. BioNTech did not name the candidate. Fierce Pharma reported on November 11 that the PD-L1xVEGF bispecific pumitamig, which BioNTech is co-developing with Bristol Myers Squibb and for which BioNTech holds the United States marketing authorization, appears the most logical choice; that identification is Fierce Pharma's inference, not a company statement.
