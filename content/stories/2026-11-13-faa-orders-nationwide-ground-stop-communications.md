@@ -1,7 +1,7 @@
 ---
 title: "FAA orders nationwide ground stop over air traffic communications failure"
 date: 2026-11-13T16:42:35-05:00
-last_updated: 2026-11-13T16:42:35-05:00
+last_updated: 2026-11-13T17:45:21-05:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -27,9 +27,11 @@ sources:
     url: "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
     published: "2026-11-13"
 tags: []
-data_as_of: "FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
+data_as_of: "Updated November 13, 2026 with Deutsche Welle's updated report of the same day, read in full in this run, carrying Homeland Security Secretary Markwayne Mullin's White House remarks that there was no indication of an attack and NAV Canada's statement of no impact on Canadian operations; the Deutsche Welle page, updated within the hour, carried no announcement that the stop had been lifted. Earlier: FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
 update_bump: true
 ---
+
+**Latest.** Homeland Security Secretary Markwayne Mullin told reporters at the White House that there was no indication the failure was an attack on the United States, calling it a telecommunications outage, and said every flight had been accounted for and everybody was safe. NAV Canada said it was monitoring the stop closely, that there was no impact on Canadian operations, and that it continued to support traffic in Canadian airspace, including any diverted aircraft. No announcement that the stop had been lifted had been published by the time of this update.
 
 The Federal Aviation Administration halted departures at every airport in the United States on Friday afternoon, issuing a national ground stop after a communications failure disrupted the control centers that manage aircraft in flight. The Air Traffic Control System Command Center issued Advisory 111, titled "National Ground Stop," at 3:54 p.m. Eastern. "Due to extraordinary circumstances and for reasons of safety, attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped," the advisory said. "All departing traffic should remain ground stopped until further notice. Inbound international flights will be managed on a case by case basis." Reporting on the advisory put its effective window through 11 p.m. Eastern.
 
