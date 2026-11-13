@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-13T07:20:34-05:00
-last_updated: 2026-11-13T07:20:34-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-13T12:38:33-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Tanker freight jumped 7.13 percent and Treasury yields extended their selloff, while Broadcom rose 5.54 percent as Nvidia fell 4.34 percent on its chief executive's resignation."
-why_it_matters: "The day opens with a rates market still repricing the Federal Reserve, a chip sector rotating away from Nvidia, and miners selling off even though their metals held."
+lede: "Tanker freight rose 5.45 percent by midday and Broadcom fell 5.14 percent, as Thursday's chip rotation reversed and the physical shipping squeeze tightened again."
+why_it_matters: "Midday trading kept the two pressures that opened the day in place: scarce shipping capacity and a chip sector still repricing Nvidia's leadership change, with Treasury yields holding above 5 percent."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,17 +15,23 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-13"
 tags: []
-data_as_of: "Market close November 12, 2026"
+data_as_of: "Midday November 13, 2026"
 ---
 
-Tanker freight was the largest single move in the tables, up 7.13 percent on the day. Today's commodities reporting covers the physical squeeze behind it: a shortage of available supertankers is crimping United States crude exports (see today's supertanker squeeze story), and the EIA reported builds in crude, gasoline and distillate stocks.
+Tanker freight rose 5.45 percent to 613.80 dollars, the largest move in the midday tables. Today's commodities reporting covers the physical squeeze behind it: no very large crude carrier entered the US Gulf to load crude last week for the first time in four years (see today's supertanker squeeze story), Iran said an LNG tanker struck a mine in the Strait of Hormuz (see today's Iran LNG tanker story), and the EIA reported builds in crude, gasoline and distillate stocks.
 
-Broadcom rose 5.54 percent and Nvidia fell 4.34 percent to 166.19 dollars, the two sides of one rotation. Nvidia's fall follows the resignation of chief executive Jensen Huang, verified in the company's own Form 8-K, with finance chief Colette Kress named interim chief executive (see today's Nvidia story and the Broadcom and AMD rotation story). Alphabet rose 1.79 percent and Tesla 1.69 percent on the same day.
+Broadcom fell 5.14 percent to 345.63 dollars, reversing most of Thursday's 5.54 percent gain. No story in today's published reporting explains today's fall; today's Broadcom and AMD rotation story covers Thursday's rise, when investors moved into Nvidia rivals after Jensen Huang resigned.
 
-Mining equities sold off across every group in the tables while their underlying metals barely moved: rare earth miners fell 4.23 percent, silver miners 3.96 percent, gold miners 3.95 percent, uranium miners 3.80 percent and copper miners 3.28 percent, against gold futures up 0.25 percent, silver down 0.21 percent and copper down 0.52 percent. This morning's reporting finds no clear single driver for the miner selloff (see today's miner equities story).
+Semiconductors fell 4.45 percent and Nvidia fell 2.88 percent to 161.40 dollars. Nvidia's fall extends the move that followed Huang's resignation, verified in the company's own Form 8-K, with finance chief Colette Kress named interim chief executive (see the Nvidia resignation story and today's Broadcom and AMD rotation story). No story in today's reporting gives a separate midday driver for the wider semiconductor index.
 
-Treasury yields extended the selloff: the 5-year rose 11.8 basis points to 4.95 percent, the 10-year rose 10.5 basis points to 5.10 percent and the 30-year rose 7.7 basis points to 5.43 percent. The 30-year auction tailed for a third straight refunding, and today's rates reporting attributes the move to the post-inflation repricing of Federal Reserve hike expectations, with no single confirmed driver beyond that combination (see today's Treasury selloff story).
+Natural gas fell 2.99 percent to 3.24 dollars per mmBtu. No story in today's published reporting explains today's fall; today's energy reporting is about European gas storage at its lowest level for the start of winter in the 2020s and Pakistan relaunching an LNG tender for winter cargoes, neither of which accounts for the US price move.
 
-Dry bulk freight fell 3.01 percent, natural gas fell 1.89 percent to 3.28 dollars per mmBtu, and wheat rose 2.01 percent, the largest agricultural move in the tables.
+Copper miners fell 2.56 percent, rare earth miners fell 1.85 percent and uranium miners fell 1.75 percent, while copper itself fell 1.47 percent to 6.09 dollars a pound. That extends the pattern in today's miner equities story, which found miner shares selling off while their underlying metals held steadier and no single driver for the selloff. China's copper market points the other way on physical metal: today's China copper story reports Yangshan import premiums approaching a record 300 dollars a tonne.
 
-The cross-market read is a market paying up for the price of money and for physical shipping capacity while rotating within technology rather than leaving it: yields and tanker rates rose together, chip leadership passed from Nvidia to its rivals, and the miner selloff looks like position trimming against flat metals rather than a commodity signal.
+Silver futures fell 1.90 percent to 49.03 dollars an ounce. Today's gold story reported silver up 1.1 percent in Singapore morning trading on dip buying after Thursday's low; no story in today's reporting explains the later fall in futures.
+
+Tesla fell 1.86 percent to 390.07 dollars. No story in today's published reporting explains the move.
+
+Treasury yields held their morning levels at midday: the 5-year at 4.96 percent, up 1.7 basis points on the day, the 10-year at 5.13 percent, up 3.0 basis points, and the 30-year at 5.47 percent, up 3.5 basis points. Today's Treasury selloff story and the Federal Reserve stories from Williams and Goolsbee, who both said inflation is still too high, remain the reporting behind those levels, and today's producer price story reported a 0.3 percent rise for October, below the 0.4 percent expected.
+
+The cross-market read at midday is defensive in growth shares and firm in physical and rate markets: semiconductor and large technology shares fell, the Nasdaq 100 fell 1.65 percent and the S and P 500 fell 0.73 percent, while tanker freight rose, yields stayed above 5 percent across the long end, and Brent crude was nearly flat at 95.77 dollars a barrel. Money is leaving chip exposure, not energy or duration risk.
