@@ -1,7 +1,8 @@
 ---
 title: "IEA sees oil market back in surplus as Gulf exports recover"
 date: 2026-11-13T05:21:28-05:00
-last_updated: 2026-11-13T05:21:28-05:00
+last_updated: 2026-11-13T14:03:07-05:00
+update_bump: true
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
@@ -14,9 +15,15 @@ sources:
     publisher: "International Energy Agency"
     url: "https://www.iea.org/reports/oil-market-report-november-2026"
     published: "2026-11-13"
+  - title: "Oil Coordination Group confirms continued supply stability across the EU"
+    publisher: "European Commission, Directorate-General for Energy"
+    url: "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en"
+    published: "2026-11-13"
 tags: []
-data_as_of: "International Energy Agency, Oil Market Report - November 2026, published November 13, 2026 and read in full. All figures are the report's own."
+data_as_of: "International Energy Agency, Oil Market Report - November 2026, published November 13, 2026 and read in full. All figures are the report's own. European Commission Oil Coordination Group statement published November 13, 2026 and read in full; its wording is the Commission's own."
 ---
+
+**Latest:** The European Commission's Oil Coordination Group, meeting on Friday with EU countries, the IEA, the Energy Community, NATO and industry representatives, concluded that the EU's oil supply remains stable for the time being. The group said crude and petroleum product prices have moderated recently but remain significantly higher than pre-conflict levels, that oil markets overall remain tight, and that it is important to stay vigilant. It also took stock of EU countries' significant contribution in October to the IEA collective action on oil stock releases, in particular on diesel, and discussed the recently launched high-level dialogue with the EU refining sector.
 
 The oil market is showing tentative signs of rebalancing, the International Energy Agency said in its November Oil Market Report, with global oil supplies surpassing demand for the first time since the outbreak of the war in Iran. Observed oil inventories rose by 52 million barrels in October, or 1.7 million barrels a day, as Gulf exports recovered much faster than global oil demand. North Sea Dated crude prices plunged by more than 30 percent from a high of 136 dollars a barrel on October 8 to around 93 dollars at the time of writing, though they remained 22 dollars above pre-war levels.
 
