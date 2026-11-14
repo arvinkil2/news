@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:07:01.801066-05:00",
+ "updated": "2026-11-14T18:09:26.771614-05:00",
  "volatility": {
   "vix": {
    "value": 19.3,
@@ -118,7 +118,42 @@
     "label": "Nasdaq Composite",
     "symbol": "^IXIC"
    },
-   "etf": null,
+   "etf": {
+    "value": 754.37,
+    "change_1d": -0.36,
+    "change_1w": 2.59,
+    "change_unit": "%",
+    "history": [
+     769.6,
+     771.79,
+     763.25,
+     766.48,
+     769.05,
+     773.09,
+     763.96,
+     759.97,
+     765.37,
+     769.66,
+     772.31,
+     769.36,
+     755.72,
+     752.1,
+     754.35,
+     766.81,
+     733.0,
+     735.29,
+     752.69,
+     749.92,
+     759.81,
+     757.12,
+     754.37
+    ],
+    "spark": "0.0,4.1 4.4,2.8 8.7,7.9 13.1,6.0 17.5,4.4 21.8,2.0 26.2,7.5 30.5,9.9 34.9,6.6 39.3,4.1 43.6,2.5 48.0,4.2 52.4,12.4 56.7,14.6 61.1,13.2 65.5,5.8 69.8,26.0 74.2,24.6 78.5,14.2 82.9,15.9 87.3,10.0 91.6,11.6 96.0,13.2",
+    "up_1d": false,
+    "as_of": "2026-11-13",
+    "label": "SPDR S&P 500 (SPY)",
+    "symbol": "SPY"
+   },
    "fx": null,
    "yields": {
     "y3mo": {
@@ -4856,9 +4891,8 @@
   }
  ],
  "errors": [
-  "United States etf (SPY): yahoo SPY: <urlopen error timed out>",
   "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
   "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]
 }
