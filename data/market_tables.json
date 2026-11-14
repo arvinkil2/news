@@ -77,7 +77,7 @@
    "up_1d": false,
    "now": 88.92,
    "now_time": "2026-11-13T17:00:00-05:00",
-   "now_change_1d": 0.2,
+   "now_change_1d": 0.41,
    "now_change_1w": 3.79,
    "now_up_1d": true
   },
@@ -117,9 +117,9 @@
    "up_1d": false,
    "now": 3.24,
    "now_time": "2026-11-13T16:45:00-05:00",
-   "now_change_1d": -2.93,
+   "now_change_1d": 0.37,
    "now_change_1w": 0.9,
-   "now_up_1d": false
+   "now_up_1d": true
   },
   {
    "name": "Gold futures",
@@ -1779,7 +1779,7 @@
    "now": 295.77,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": -1.0,
-   "now_change_1w": 2.65,
+   "now_change_1w": 2.64,
    "now_up_1d": false
   },
   {
@@ -1859,7 +1859,7 @@
    "now": 641.69,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": 2.9,
-   "now_change_1w": 0.04,
+   "now_change_1w": 0.03,
    "now_up_1d": true
   },
   {
@@ -2019,9 +2019,9 @@
    "now": 149.3,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": -3.67,
-   "now_change_1w": 1.72,
+   "now_change_1w": 1.73,
    "now_up_1d": false
   }
  ],
- "quotes_updated": "2026-11-14T01:27:20.738010-05:00"
+ "quotes_updated": "2026-11-14T01:41:13.556852-05:00"
 }
