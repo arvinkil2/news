@@ -2,10 +2,10 @@
 title: "Sweden"
 date: "2026-11-14"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed every 15 minutes."
-data_as_of: "Nov 13, 8:09 PM ET"
+data_as_of: "Nov 13, 8:27 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 8:09 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 13, 8:27 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>OMX Stockholm 30 (index)</td><td class="num">3,359 <span class="gm-sub-inline">as of 2026-11-12, stale</span></td><td class="num"><span class="down">-0.02%</span></td><td class="num"><span class="up">+1.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.1 4.4,12.2 8.7,14.6 13.1,9.7 17.5,13.2 21.8,16.8 26.2,16.1 30.5,26.0 34.9,24.4 39.3,18.4 43.6,14.6 48.0,13.3 52.4,11.6 56.7,12.8 61.1,10.9 65.5,11.2 69.8,7.9 74.2,9.2 78.5,13.2 82.9,8.1 87.3,5.9 91.6,2.0 96.0,2.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$52.62 <span class="gm-sub-inline">as of 2026-11-12, stale</span></td><td class="num"><span class="down">-1.16%</span></td><td class="num"><span class="up">+0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.0 4.6,20.9 9.1,20.3 13.7,22.5 18.3,21.1 22.9,21.4 27.4,26.0 32.0,25.6 36.6,24.4 41.1,20.1 45.7,19.0 50.3,14.9 54.9,14.1 59.4,11.1 64.0,11.4 68.6,2.0 73.1,12.1 77.7,16.5 82.3,5.1 86.9,6.6 91.4,7.1 96.0,11.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
