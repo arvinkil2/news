@@ -2,12 +2,11 @@
 title: "United States"
 date: "2026-11-14"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 14, 6:39 AM ET"
+data_as_of: "Nov 14, 7:25 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 14, 6:39 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 14, 7:25 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,562 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.40%</span></td><td class="num"><span class="up">+2.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.3 4.4,2.8 8.7,7.8 13.1,6.0 17.5,4.7 21.8,2.0 26.2,7.6 30.5,9.9 34.9,6.8 39.3,4.1 43.6,2.8 48.0,4.2 52.4,12.5 56.7,14.8 61.1,13.2 65.5,6.1 69.8,26.0 74.2,24.6 78.5,14.3 82.9,16.1 87.3,10.2 91.6,11.8 96.0,13.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">25,136 <span class="gm-sub-inline">as of 2026-11-13 (Nasdaq, near-real-time)</span></td><td class="num"><span class="down">-0.91%</span></td><td class="num"><span class="up">+2.27%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.2 4.4,2.0 8.7,7.7 13.1,4.8 17.5,4.9 21.8,2.1 26.2,9.0 30.5,9.6 34.9,7.4 39.3,4.4 43.6,3.6 48.0,7.3 52.4,14.8 56.7,17.5 61.1,15.4 65.5,11.8 69.8,26.0 74.2,23.4 78.5,16.6 82.9,18.5 87.3,14.5 91.6,15.5 96.0,17.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$754.37 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.36%</span></td><td class="num"><span class="up">+2.59%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.1 4.4,2.8 8.7,7.9 13.1,6.0 17.5,4.4 21.8,2.0 26.2,7.5 30.5,9.9 34.9,6.6 39.3,4.1 43.6,2.5 48.0,4.2 52.4,12.4 56.7,14.6 61.1,13.2 65.5,5.8 69.8,26.0 74.2,24.6 78.5,14.2 82.9,15.9 87.3,10.0 91.6,11.6 96.0,13.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
@@ -20,11 +19,11 @@ data_as_of: "Nov 14, 6:39 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-us-china-trade-committee-first-meeting-tariff-plan/">US and China hold first trade committee meeting</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-eia-gas-storage-builds-61-bcf-3862/">US gas storage builds 61 Bcf to 3,862 Bcf</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-us-oil-rigs-hold-463-output-record/">US oil rigs hold at 463 as output sets record</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-cftc-aluminum-pricing-reform-midwest-premium/">CFTC chief orders review of US aluminum pricing structure</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-ftc-sues-block-covetrus-mwi-acquisition/">FTC sues to block Covetrus $3.5 billion MWI acquisition</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-australia-yield-falls-below-us-peer/">Australia&#x27;s 10-year yield falls below US peer</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-zelenskyy-us-raised-donbas-withdrawal-nato/">Zelenskyy says US raised Donbas withdrawal for NATO membership</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-iea-oil-market-returns-surplus-first-time-war/">IEA sees oil market back in surplus as Gulf exports recover</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-kraft-group-proposes-900mw-sutton-campus/">Kraft Group proposes 900 megawatt campus in Sutton</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-eia-builds-crude-gasoline-distillates/">US oil stocks build across crude, gasoline and distillates</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-supertanker-squeeze-crimping-us-crude-exports/">Supertanker squeeze crimps US crude exports, port chief says</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-altus-power-buys-92-solar-projects-arevon/">Altus Power buys 92 solar projects from Arevon</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-us-producer-prices-rise-0-3-percent-october/">US producer prices rise 0.3 percent in October</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-us-cftc-sue-arkansas-kalshi-case/">US and CFTC sue Arkansas over its Kalshi case</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

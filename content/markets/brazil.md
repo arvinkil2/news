@@ -2,10 +2,10 @@
 title: "Brazil"
 date: "2026-11-14"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 14, 6:39 AM ET"
+data_as_of: "Nov 14, 7:25 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 14, 6:39 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 14, 7:25 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Ibovespa (index)</td><td class="num">172,458 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.66%</span></td><td class="num"><span class="up">+2.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.8 4.4,3.0 8.7,4.2 13.1,3.6 17.5,3.8 21.8,2.0 26.2,3.0 30.5,4.3 34.9,3.8 39.3,19.8 43.6,20.3 48.0,22.9 52.4,23.9 56.7,24.7 61.1,26.0 65.5,24.9 69.8,25.6 74.2,24.3 78.5,22.2 82.9,22.7 87.3,22.3 91.6,22.7 96.0,22.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$32.2200 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+1.38%</span></td><td class="num"><span class="up">+0.75%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.7 4.4,4.9 8.7,4.4 13.1,4.2 17.5,2.0 21.8,2.9 26.2,4.3 30.5,2.7 34.9,20.8 39.3,20.5 43.6,22.0 48.0,23.0 52.4,24.4 56.7,25.1 61.1,26.0 65.5,24.9 69.8,25.9 74.2,25.5 78.5,24.1 82.9,25.1 87.3,24.5 91.6,25.9 96.0,25.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -19,6 +19,7 @@ data_as_of: "Nov 14, 6:39 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-13 (Tesouro Nacional), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-rates-also-notable/">Rates also notable: French wages, Brazil retail, SARB sanctions</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-soybean-exports-record-ten-months/">Brazil soybean exports set record in first ten months</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-inflation-slows-0-14-percent-october/">Brazil inflation slows to 0.14 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-2027-grain-harvest-forecast-down-2-6-percent/">Brazil 2027 grain harvest forecast down 2.6 percent</a></p>
@@ -26,5 +27,4 @@ data_as_of: "Nov 14, 6:39 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-usa-rare-earth-brazil-shipments-pentagon-offtake/">USA Rare Earth starts Brazil shipments under Pentagon offtake</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-09</span> <a href="/stories/2026-11-09-lula-pledges-fiscal-discipline-no-new-measures/">Brazil unveils fiscal package to curb spending growth</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-08</span> <a href="/stories/2026-11-08-brazil-designates-27-critical-minerals/">Brazil designates 27 critical minerals for federal support</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-saipem-subsea7-brazil-cade-approval/">Brazil clears Saipem Subsea 7 merger conditional on vessel sale</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
