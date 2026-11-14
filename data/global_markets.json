@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:24:37.085478-05:00",
+ "updated": "2026-11-14T13:38:23.828557-05:00",
  "volatility": {
   "vix": {
    "value": 19.3,
@@ -112,6 +112,8 @@
     ],
     "spark": "0.0,2.2 4.4,2.0 8.7,7.7 13.1,4.8 17.5,4.9 21.8,2.1 26.2,9.0 30.5,9.6 34.9,7.4 39.3,4.4 43.6,3.6 48.0,7.3 52.4,14.8 56.7,17.5 61.1,15.4 65.5,11.8 69.8,26.0 74.2,23.4 78.5,16.6 82.9,18.5 87.3,14.5 91.6,15.5 96.0,17.8",
     "up_1d": false,
+    "source": "nasdaq",
+    "publisher": "Nasdaq, near-real-time",
     "as_of": "2026-11-13",
     "label": "Nasdaq Composite",
     "symbol": "^IXIC"
@@ -4889,7 +4891,7 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]
