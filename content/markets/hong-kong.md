@@ -2,10 +2,10 @@
 title: "Hong Kong"
 date: "2026-11-14"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed every 15 minutes."
-data_as_of: "Nov 14, 4:37 AM ET"
+data_as_of: "Nov 14, 4:51 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 14, 4:37 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 14, 4:51 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Hang Seng (index)</td><td class="num">23,638 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-1.55%</span></td><td class="num"><span class="down">-3.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.8 4.4,8.2 8.7,11.5 13.1,9.9 17.5,14.0 21.8,16.8 26.2,26.0 30.5,24.0 34.9,22.4 39.3,24.6 43.6,23.9 48.0,25.7 52.4,21.4 56.7,20.1 61.1,18.4 65.5,13.3 69.8,2.0 74.2,6.1 78.5,6.5 82.9,5.1 87.3,8.2 91.6,12.2 96.0,16.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$23.0600 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.47%</span></td><td class="num"><span class="down">-1.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.3 4.4,21.0 8.7,20.9 13.1,22.7 17.5,20.6 21.8,22.0 26.2,25.1 30.5,26.0 34.9,22.9 39.3,20.4 43.6,24.6 48.0,21.9 52.4,14.7 56.7,14.3 61.1,15.9 65.5,2.0 69.8,4.9 74.2,3.3 78.5,2.4 82.9,4.0 87.3,7.0 91.6,5.4 96.0,7.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -17,6 +17,7 @@ data_as_of: "Nov 14, 4:37 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-hong-kong-police-facial-recognition-smartview/">Hong Kong police switch on facial recognition across camera network</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-hong-kong-raises-2026-growth-forecast-4-8-percent/">Hong Kong raises 2026 growth forecast to 4.8 percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-uk-eases-bno-visa-barriers-hong-kong/">UK eases BN(O) visa barriers for Hong Kong protesters</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-alphabet-hong-kong-singapore-bond-sale-3-billion/">Alphabet sets price guidance for first Hong Kong and Singapore dollar bond sales</a></p>
@@ -24,5 +25,4 @@ data_as_of: "Nov 14, 4:37 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-hong-kong-northern-link-rail-agreement-86-billion/">Hong Kong signs full Northern Link rail project agreement</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-10</span> <a href="/stories/2026-11-10-alibaba-hong-kong-approval-list-t-head/">Alibaba wins Hong Kong approval to list chip unit T-Head</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-nvidia-h200-chips-held-hong-kong/">Nearly 600,000 Nvidia H200 chips held in Hong Kong</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-joshua-wong-ten-year-sentence-national-security/">Joshua Wong gets ten more years in Hong Kong court</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
