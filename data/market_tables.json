@@ -1779,7 +1779,7 @@
    "now": 295.77,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": -1.0,
-   "now_change_1w": 2.64,
+   "now_change_1w": 2.65,
    "now_up_1d": false
   },
   {
@@ -1859,7 +1859,7 @@
    "now": 641.69,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": 2.9,
-   "now_change_1w": 0.03,
+   "now_change_1w": 0.04,
    "now_up_1d": true
   },
   {
@@ -2019,9 +2019,9 @@
    "now": 149.3,
    "now_time": "2026-11-13T16:00:00-05:00",
    "now_change_1d": -3.67,
-   "now_change_1w": 1.73,
+   "now_change_1w": 1.72,
    "now_up_1d": false
   }
  ],
- "quotes_updated": "2026-11-14T06:21:57.164113-05:00"
+ "quotes_updated": "2026-11-14T06:37:22.428106-05:00"
 }
