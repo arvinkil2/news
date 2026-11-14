@@ -2,10 +2,10 @@
 title: "Canada"
 date: "2026-11-14"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Canada, refreshed every 15 minutes."
-data_as_of: "Nov 14, 2:09 AM ET"
+data_as_of: "Nov 14, 2:22 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 14, 2:09 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 14, 2:22 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/TSX Composite (index)</td><td class="num">36,106 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.09%</span></td><td class="num"><span class="up">+0.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.1 4.2,24.6 8.3,10.1 12.5,9.1 16.7,15.6 20.9,10.9 25.0,5.2 29.2,14.4 33.4,19.3 37.6,15.2 41.7,9.2 45.9,6.8 50.1,7.2 54.3,23.7 58.4,18.9 62.6,26.0 66.8,4.8 71.0,24.1 75.1,19.3 79.3,2.0 83.5,9.2 87.7,2.9 91.8,10.1 96.0,10.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Canada (EWC)</td><td class="num">$60.11 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="down">-0.03%</span></td><td class="num"><span class="up">+0.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,16.0 8.7,13.7 13.1,16.5 17.5,11.0 21.8,6.8 26.2,10.4 30.5,12.7 34.9,11.1 39.3,9.3 43.6,5.1 48.0,4.9 52.4,13.3 56.7,11.4 61.1,17.2 65.5,2.0 69.8,17.5 74.2,19.7 78.5,10.0 82.9,16.4 87.3,14.7 91.6,17.9 96.0,18.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
