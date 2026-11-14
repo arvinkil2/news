@@ -1,16 +1,20 @@
 ---
 title: "Houthis claim attack on Saudi pipeline pumping station, Yanbu"
 date: 2026-11-12T14:04:32-05:00
-last_updated: 2026-11-12T19:05:20-05:00
+last_updated: 2026-11-13T23:42:48-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "The UN Security Council unanimously extended its Yemen sanctions for another year on Thursday and demanded an end to Houthi attacks on Saudi Arabia, as the Houthis claimed fresh strikes on Saudi oil and military targets and the Saudi-led coalition said it intercepted drones over the Riyadh region and the Eastern Province."
+lede: "The Houthis said on Friday they fired two ballistic missiles at a Saudi troop assembly site in Jazan, a claim Saudi Arabia had not confirmed, extending a run of claimed strikes on Saudi oil and military targets as the UN Security Council extended its Yemen sanctions for another year and demanded an end to the attacks."
 why_it_matters: "The renewal keeps asset freezes and travel bans in place while Riyadh presses the European Union to designate the Houthis a terrorist organisation, and the claimed strikes keep targeting the East-West pipeline route, which Riyadh says now carries about 4 million barrels of crude a day around the Strait of Hormuz to Yanbu, roughly 4 percent of global supply."
 featured: false
 evidence_grade: "C"
 sources:
+  - title: "Threats to shipping in the Strait of Hormuz rise, October attacks the most yet (in Korean)"
+    publisher: "Yonhap News Agency, reporting Lloyd's List Intelligence and foreign media"
+    url: "https://www.yna.co.kr/view/AKR20261114032200009"
+    published: "2026-11-14"
   - title: "Yemen’s Houthis say they attacked pumping station on Saudi Arabia’s East-West oil pipeline"
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/4006118-yemens-houthis-say-they-attacked-pumping-station-on-saudi-arabias-east-west-oil-pipeline"
@@ -24,9 +28,11 @@ sources:
     url: "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
     published: "2026-11-12"
 tags: []
-data_as_of: "Reuters report of November 12, 2026, read in full in its Devdiscourse carrying: the Thursday claim is the Houthi movement’s own statement, reported by Reuters, with no immediate Saudi confirmation and no damage, casualty or flow figure given, so it is graded C and flagged accordingly. The Wednesday interception account is from a second Reuters report of November 12, 2026, read in full in its Local Report carrying. Developing item. Updated November 12, 2026, 19:05 Toronto, with Al Jazeera's report of the same day (News Agencies and Reuters), read in full via the estate browser route: the Security Council vote and the coalition's interception announcement are reported acts, while the Sharurah, Khamis Mushait and Aramco headquarters strike outcomes remain Houthi claims with no confirmed damage or casualty figure in the report."
+data_as_of: "Updated November 13, 2026 with Yonhap News Agency's dispatch of November 14, 2026 (Korea time), in Korean and read in full via the estate browser route, reporting the Houthis' November 13 claim of two ballistic missiles fired at a Saudi troop assembly site in Jazan Province; Yonhap said Saudi Arabia's position and any damage were unconfirmed, so that claim ships at grade C. Earlier: Reuters report of November 12, 2026, read in full in its Devdiscourse carrying: the Thursday claim is the Houthi movement’s own statement, reported by Reuters, with no immediate Saudi confirmation and no damage, casualty or flow figure given, so it is graded C and flagged accordingly. The Wednesday interception account is from a second Reuters report of November 12, 2026, read in full in its Local Report carrying. Developing item. Updated November 12, 2026, 19:05 Toronto, with Al Jazeera's report of the same day (News Agencies and Reuters), read in full via the estate browser route: the Security Council vote and the coalition's interception announcement are reported acts, while the Sharurah, Khamis Mushait and Aramco headquarters strike outcomes remain Houthi claims with no confirmed damage or casualty figure in the report."
 update_bump: true
 ---
+
+**Latest.** The Houthis said on Friday that they had fired two ballistic missiles at a Saudi military troop assembly site in Jazan Province in southwestern Saudi Arabia, Yonhap News Agency reported. Jazan hosts a Saudi Aramco refinery able to refine 400,000 barrels of crude a day. Yonhap said Saudi Arabia's position and any actual damage had not been confirmed, and the claim follows the group's attacks the previous day on the East-West pipeline and Aramco facilities, which remain unconfirmed in their effects.
 
 **Latest.** The UN Security Council voted unanimously on Thursday to extend its Yemen sanctions for one more year, keeping asset freezes and travel bans in place, extending the mandate of the UN Panel of Experts on Yemen, and demanding an end to Houthi attacks on Saudi Arabia, Al Jazeera reported. The resolution condemns the Houthis' military escalation, their maritime and cross-border attacks and their threats to commercial shipping, and states that the sanctions do not apply to humanitarian assistance or supplies for basic civilian needs. China's ambassador Fu Cong said the council's sanctions are a means, not an end, and that he hoped the situation in Yemen would de-escalate soon. The UN humanitarian office said the same day that more than 333,000 people have been displaced in Yemen since the beginning of August, including more than 24,000 in the past week.
 
