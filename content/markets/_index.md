@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-14"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 13, 11:52 PM ET"
+data_as_of: "Market data as of Nov 14, 12:03 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 13, 11:52 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 14, 12:03 AM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">19.30</span><span class="gm-sub">1d <span class="up">+3.21%</span> / 1w <span class="down">-24.73%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.21%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -114,7 +114,7 @@ data_as_of: "Market data as of Nov 13, 11:52 PM ET"
 <tr><td data-v="Taiwan"><a href="/markets/taiwan/">Taiwan</a></td><td class="num" data-v="1.54">1.54</td><td class="num" data-v="2.03">2.03</td><td class="num" data-v="1.89">1.89</td><td class="num" data-v="0.0"><span class="up">+0.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Australia"><a href="/markets/australia/">Australia</a></td><td class="num" data-v="4.83">4.83</td><td class="num" data-v="5.08">5.08</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-0.4"><span class="down">-0.4</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="Singapore"><a href="/markets/singapore/">Singapore</a></td><td class="num" data-v="1.86">1.86</td><td class="num" data-v="2.21">2.21</td><td class="num" data-v="2.25">2.25</td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td></tr>
-<tr><td data-v="Indonesia"><a href="/markets/indonesia/">Indonesia</a></td><td class="num" data-v="7.05">7.05</td><td class="num" data-v="7.7">7.70</td><td class="num" data-v="7.72">7.72</td><td class="num" data-v="0.0"><span class="up">+0.0</span></td><td class="num" data-v="260">+260</td></tr>
+<tr><td data-v="Indonesia"><a href="/markets/indonesia/">Indonesia</a></td><td class="num" data-v="7.05">7.05</td><td class="num" data-v="7.7">7.70</td><td class="num" data-v="7.72">7.72</td><td class="num" data-v="0.0"><span class="up">+0.0</span></td><td class="num"><span class="blank">-</span></td></tr>
 </tbody></table></div>
 <p class="data-vintage">Sources: Yahoo Finance (indices, ETFs, currencies), Cboe (S&amp;P 500 and VIX, 15-minute delayed) and Nasdaq (Nasdaq Composite, near-real-time) for the labelled US rows, FRED (US Treasury yields) and national treasuries, debt offices and central banks (benchmark sovereign yields, daily). Country ETFs are the main US-listed funds. Prices refresh every 15 minutes; benchmark yield series are end-of-day at source.</p>
 <script>
