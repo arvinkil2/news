@@ -1,12 +1,12 @@
 ---
 title: "FAA orders nationwide ground stop over air traffic communications failure"
 date: 2026-11-13T16:42:35-05:00
-last_updated: 2026-11-13T19:47:14-05:00
+last_updated: 2026-11-13T21:07:07-05:00
 beats: ["infra-deals"]
 regions: ["north-america", "europe"]
 status: "story"
-lede: "The Federal Aviation Administration ordered every airport in the United States ground stopped on Friday afternoon, halting all departures until further notice after a communications issue hit its en route control centers, and Europe's air navigation agency suspended departures from Europe to the United States at the FAA's request into the night."
-why_it_matters: "A nationwide departure halt is one of the rarest orders in US aviation, last used in January 2023, and even a short stop on a Friday afternoon cascades into cancellations and delays across airline networks into the weekend; the halt's extension to transatlantic departures widens that disruption to European carriers and hubs."
+lede: "The Federal Aviation Administration lifted its nationwide ground stop on Friday night, hours after a communications failure at its en route control centers halted departures at every US airport, with more than 4,500 flights cancelled on Friday and about 700 more already cancelled for Saturday."
+why_it_matters: "A nationwide departure halt is one of the rarest orders in US aviation, last used in January 2023, and Friday's stop left aircraft and crews out of position across every US airline network, with cancellations already running into Saturday. The failure, blamed on a legacy network, came a day after the transportation secretary asked Congress for $30 billion to modernize the air traffic control system."
 featured: true
 evidence_grade: "B"
 sources:
@@ -26,6 +26,14 @@ sources:
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
     published: "2026-11-13"
+  - title: "US lifts nationwide ground stop for airports hours after halting all departures"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062"
+    published: "2026-11-13"
+  - title: "FAA ends hours-long nationwide ground stop"
+    publisher: "Axios"
+    url: "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop"
+    published: "2026-11-13"
   - title: "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US"
     publisher: "The Guardian"
     url: "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
@@ -35,9 +43,11 @@ sources:
     url: "https://www.interfax.ru/world/1128960"
     published: "2026-11-14"
 tags: []
-data_as_of: "Updated November 13, 2026 with Interfax's report of November 14, 2026 (Moscow time), in Russian and read in full via the estate browser route, carrying Eurocontrol's notice that departures from Europe to the United States were suspended at the FAA's request, planned until 8:00 a.m. Moscow time. Earlier update: The Guardian's report of the same evening, read in full via the estate browser route, citing FlightAware's count of more than 11,000 US flights delayed or canceled and reporting the stop still in force with no timeline given for a fix. Earlier update: Deutsche Welle's updated report of the same day, read in full in this run, carrying Homeland Security Secretary Markwayne Mullin's White House remarks that there was no indication of an attack and NAV Canada's statement of no impact on Canadian operations; the Deutsche Welle page, updated within the hour, carried no announcement that the stop had been lifted. Earlier: FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
+data_as_of: "Updated November 13, 2026 with Deutsche Welle's updated report of the same evening, read in full via the estate browser route, reporting that the FAA had lifted the nationwide ground stop on Friday night, FlightAware counts of more than 4,500 Friday cancellations, about 700 Saturday cancellations and over 10,000 delayed flights, Transportation Secretary Sean Duffy's description of a legacy network problem, and NAV Canada traffic management measures at Toronto Pearson, Montreal-Trudeau, Calgary and Vancouver; Deutsche Welle gave no clock time for the lifting and no word on whether departures from Europe had resumed. Axios's report of the same evening was read only in its opening lines, because the article body sits behind an email signup gate; its opening confirms the lift. Earlier update: Interfax's report of November 14, 2026 (Moscow time), in Russian and read in full via the estate browser route, carrying Eurocontrol's notice that departures from Europe to the United States were suspended at the FAA's request, planned until 8:00 a.m. Moscow time. Earlier update: The Guardian's report of the same evening, read in full via the estate browser route, citing FlightAware's count of more than 11,000 US flights delayed or canceled and reporting the stop still in force with no timeline given for a fix. Earlier update: Deutsche Welle's updated report of the same day, read in full in this run, carrying Homeland Security Secretary Markwayne Mullin's White House remarks that there was no indication of an attack and NAV Canada's statement of no impact on Canadian operations; the Deutsche Welle page, updated within the hour, carried no announcement that the stop had been lifted. Earlier: FAA Air Traffic Control System Command Center Advisory 111, issued 3:54 p.m. ET on November 13, 2026, as quoted verbatim by AirlineGeeks, The Weather Company and Reuters; FAA statement and Transportation Secretary Sean Duffy's 4:16 p.m. ET statement as carried in that reporting. The FAA's own statement page could not be read directly on faa.gov in this run, so the advisory wording and figures are taken from multiple outlets quoting the same primary documents. Whether the stop was still in force at the time of writing was unconfirmed: the FAA status board no longer listed a nationwide halt at about 4:30 p.m. ET, with no official resumption statement."
 update_bump: true
 ---
+
+**Latest.** The FAA lifted the nationwide ground stop on Friday night, Deutsche Welle reported, hours after the order halted departures at every US airport. FlightAware put Friday's cancellations at more than 4,500, with about 700 more already cancelled for Saturday and over 10,000 flights within, into or out of the United States delayed, and Cirium expected further cancellations among the roughly 11,000 flights that had been scheduled to depart after 4 p.m. Transportation Secretary Sean Duffy called the failure a legacy network problem, pointing to old switches, old routers and 1980s copper lines. NAV Canada said it was applying traffic management measures at Toronto Pearson, Montreal-Trudeau, Calgary and Vancouver to manage traffic volumes, and warned travellers to expect delays. Deutsche Welle gave no clock time for the lifting and did not report whether the suspended departures from Europe had resumed.
 
 **Latest.** The halt spread across the Atlantic on Friday night. Eurocontrol, the European air navigation safety organisation, said departures of passenger aircraft from European countries to the United States were suspended because of the technical failures on the American side, in a notice Interfax reported early on Saturday Moscow time. The suspension was taken at the FAA's request and was planned to run until 8:00 a.m. Moscow time, which is midnight Eastern.
 
