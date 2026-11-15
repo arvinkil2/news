@@ -1,7 +1,7 @@
 ---
 title: "Bessent asks whether Nvidia knew its shell company customers"
 date: 2026-11-14T11:22:59-05:00
-last_updated: 2026-11-15T11:04:33-05:00
+last_updated: 2026-11-15T12:28:49-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -23,10 +23,16 @@ sources:
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830"
     published: "2026-11-15"
+  - title: "Bessent, Congress zero in on Lutnick's role in Nvidia-Megaspeed scandal"
+    publisher: "The Hill"
+    url: "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/"
+    published: "2026-11-15"
 tags: []
 update_bump: true
-data_as_of: "CNBC interview with Treasury Secretary Scott Bessent as reported by Tom's Hardware on November 14, 2026, read in full in this pass. Single source: the report carries no comment from Nvidia or the Department of Commerce, and Bessent said it is not known whether Huang knew of any illicit sales. Developing item. Updated November 15, 2026, with the Reuters report of the same day via Investing.com, read in full via the estate browser route, carrying Megaspeed's Sunday statement; Megaspeed has not been found to have violated US export rules, and the statement did not say whether Alice Huang still controls the company. Updated November 15, 2026, with Investing.com's report of the same day, read in full via the estate browser route, of Bessent's Sunday Morning Futures interview on Fox News; TASS carried the same outside search call in Russian the same day. The remarks are Bessent's own statements on a broadcast interview; Nvidia had not responded in either report, so the item stays at grade C."
+data_as_of: "CNBC interview with Treasury Secretary Scott Bessent as reported by Tom's Hardware on November 14, 2026, read in full in this pass. Single source: the report carries no comment from Nvidia or the Department of Commerce, and Bessent said it is not known whether Huang knew of any illicit sales. Developing item. Updated November 15, 2026, with the Reuters report of the same day via Investing.com, read in full via the estate browser route, carrying Megaspeed's Sunday statement; Megaspeed has not been found to have violated US export rules, and the statement did not say whether Alice Huang still controls the company. Updated November 15, 2026, with Investing.com's report of the same day, read in full via the estate browser route, of Bessent's Sunday Morning Futures interview on Fox News; TASS carried the same outside search call in Russian the same day. The remarks are Bessent's own statements on a broadcast interview; Nvidia had not responded in either report, so the item stays at grade C. Updated again November 15, 2026, with The Hill's report of the same day, read in full via the estate browser route, on the scrutiny of Commerce Secretary Howard Lutnick: the entity list remarks are Bessent's own words on CNBC, and the report carried no direct response from Lutnick or the Commerce Department beyond his reported reply to Bessent that he would look into it, so the grade C standing is unchanged."
 ---
+
+**Latest.** The scrutiny has widened to Commerce Secretary Howard Lutnick. Bessent said on CNBC on Friday that Treasury, the War and State departments and the US Trade Representative had favoured putting Megaspeed on the Commerce Department's entity list for months, and that Commerce's Bureau of Industry and Security "has the pen" on that decision, The Hill reported. Lutnick has agreed to testify before the Senate Banking Committee on December 10, Senator Chris Coons said Lutnick had let the American people down, and Senator Ron Wyden and Representative Richard Neal have told Lutnick to preserve Commerce records on the H200 export approvals, writing that there appears to be a profound lack of due diligence in the approval process.
 
 **Latest.** Bessent has taken the fight to Nvidia's board. On Fox News's Sunday Morning Futures he said the company needed a dramatic shakeup after Huang's removal, and that as the board conducts its search for a new leader it should go outside the company. He said he wants to determine whether Nvidia knowingly overlooked warning signs of shell companies, many based in Singapore, that funnelled chips to China, questioned the company's culture and whether it pressed seemingly illicit sales to lift revenue and earnings, and said he needs answers within the next 10 days from the board and outside counsel.
 
