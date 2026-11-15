@@ -310,7 +310,7 @@
    "now": 445.5,
    "now_time": "2026-11-13T14:19:59-05:00",
    "now_change_1d": -0.22,
-   "now_change_1w": -0.61,
+   "now_change_1w": -0.67,
    "now_up_1d": false
   },
   {
@@ -2016,5 +2016,5 @@
    "now_up_1d": false
   }
  ],
- "quotes_updated": "2026-11-15T16:16:18.243833-05:00"
+ "quotes_updated": "2026-11-15T16:22:35.341799-05:00"
 }
