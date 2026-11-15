@@ -1,7 +1,7 @@
 ---
 title: "Bahrain issues first threat alerts since September"
 date: 2026-11-14T23:45:48-05:00
-last_updated: 2026-11-15T06:02:52-05:00
+last_updated: 2026-11-15T07:43:26-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
@@ -31,10 +31,16 @@ sources:
     publisher: "Arab News"
     url: "https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-bahrain-3012030"
     published: "2026-11-15"
+  - title: "Bahrain condemns Iranian drone attack, warns its security is a red line (in Spanish)"
+    publisher: "EFE, via RPP"
+    url: "https://rpp.pe/mundo/medio-oriente/barein-condena-el-ataque-irani-con-drones-y-advierte-que-su-seguridad-es-una-linea-roja-noticia-1717874"
+    published: "2026-11-15"
 tags: []
-data_as_of: "Reuters report of November 15, 2026, via Arab News, and TASS and RIA Novosti reports of November 15, 2026, in Russian, all read in full via the estate browser route. The alerts are the Bahraini interior ministry's own posts and the radar claim is the Islamic Revolutionary Guard Corps' own statement, carried by Press TV and Fars; each side is a party to the conflict, no independent source had corroborated the radar claim as of this item, and no damage or casualties were stated in any of the reports, so it ships at grade C. Developing item. Updated November 15, 2026, with an AFP report via Arab News (the article as updated at 01:17 on November 15) read in full via the estate browser route: an AFP journalist heard explosions around 4:00 a.m. local time and residents reported a second series around 6:30 a.m.; the updated article stated no US or Bahraini response to the Sunday claim and no damage or casualties, so the grade C standing is unchanged. Updated again November 15, 2026, with the Arab News report of the Saudi foreign ministry statement and the Bahraini defence forces' interception statement, read in full via the estate browser route; both are statements by parties to the conflict, so the grade C standing is unchanged."
+data_as_of: "Reuters report of November 15, 2026, via Arab News, and TASS and RIA Novosti reports of November 15, 2026, in Russian, all read in full via the estate browser route. The alerts are the Bahraini interior ministry's own posts and the radar claim is the Islamic Revolutionary Guard Corps' own statement, carried by Press TV and Fars; each side is a party to the conflict, no independent source had corroborated the radar claim as of this item, and no damage or casualties were stated in any of the reports, so it ships at grade C. Developing item. Updated November 15, 2026, with an AFP report via Arab News (the article as updated at 01:17 on November 15) read in full via the estate browser route: an AFP journalist heard explosions around 4:00 a.m. local time and residents reported a second series around 6:30 a.m.; the updated article stated no US or Bahraini response to the Sunday claim and no damage or casualties, so the grade C standing is unchanged. Updated again November 15, 2026, with the Arab News report of the Saudi foreign ministry statement and the Bahraini defence forces' interception statement, read in full via the estate browser route; both are statements by parties to the conflict, so the grade C standing is unchanged. Updated again November 15, 2026, with an EFE report via RPP, in Spanish, read in full via the estate browser route, carrying the Bahraini foreign ministry statement of the same day; the ministry is a party to the conflict, so the grade C standing is unchanged."
 update_bump: true
 ---
+
+**Latest.** Bahrain's foreign ministry condemned Sunday's drone attack in a statement, saying the kingdom's security is a red line and its sovereignty non-negotiable, EFE reported via RPP. The ministry said Bahrain rejects its territory being turned into a battlefield for settling scores, holds Iran fully responsible for the attacks and their consequences, called them a sabotage of de-escalation efforts and a flagrant violation of international law, urged the United Nations to adopt decisive measures, and reserved the right to legitimate self-defence. The ministry's account said Bahraini air defences intercepted and destroyed the six drones in its airspace, and no casualties or confirmed damage were stated.
 
 **Latest.** Bahrain's defence forces said their air defence systems intercepted the Iranian drone attacks on Sunday before Iran could achieve its goals, describing the attack as a systematic hostile approach, Arab News reported. Saudi Arabia's foreign ministry strongly condemned the Iranian aerial attacks on Bahrain, expressing full solidarity with Manama and support for all measures taken to protect the country's security and stability. Neither statement reported damage or casualties.
 
