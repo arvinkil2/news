@@ -1,0 +1,33 @@
+---
+title: "Bahrain issues first threat alerts since September"
+date: 2026-11-14T23:45:48-05:00
+last_updated: 2026-11-14T23:45:48-05:00
+beats: ["politics"]
+regions: ["middle-east"]
+status: "developing"
+developing: true
+lede: "Bahrain's interior ministry issued two alerts about potential threats on Sunday, its first such warnings since September, urging people to remain calm and go to the nearest safe location, and giving no details of the threats."
+why_it_matters: "Bahrain hosts the headquarters of the US Navy's Fifth Fleet, and the alerts came as Iran's Revolutionary Guard claimed a six-drone attack on a US radar in the kingdom, a claim no independent source has corroborated."
+featured: false
+evidence_grade: "C"
+sources:
+  - title: "Bahrain's interior ministry issues alerts of potential threats"
+    publisher: "Reuters, via Arab News"
+    url: "https://www.arabnews.com/middle-east/bahrains-interior-ministry-issues-alerts-of-potential-threats-3011984"
+    published: "2026-11-15"
+  - title: "IRGC says it attacked air-defence facilities at a US military base in Bahrain (in Russian)"
+    publisher: "TASS"
+    url: "https://tass.ru/mezhdunarodnaya-panorama/28318717"
+    published: "2026-11-15"
+  - title: "IRGC attacked a US air-defence radar in Bahrain (in Russian)"
+    publisher: "RIA Novosti, citing Press TV"
+    url: "https://ria.ru/20261115/ksir-2131636408.html"
+    published: "2026-11-15"
+tags: []
+data_as_of: "Reuters report of November 15, 2026, via Arab News, and TASS and RIA Novosti reports of November 15, 2026, in Russian, all read in full via the estate browser route. The alerts are the Bahraini interior ministry's own posts and the radar claim is the Islamic Revolutionary Guard Corps' own statement, carried by Press TV and Fars; each side is a party to the conflict, no independent source had corroborated the radar claim as of this item, and no damage or casualties were stated in any of the reports, so it ships at grade C. Developing item."
+update_bump: true
+---
+
+Bahrain's interior ministry issued two separate alerts about potential threats in posts on X on Sunday, the first such warnings by the Gulf country since September, urging citizens and residents to remain calm and proceed to the nearest safe location, Reuters reported. The ministry gave no further details on the threats, and no damage or casualties were reported.
+
+Iran's Islamic Revolutionary Guard Corps said six of its Aerospace Force drones attacked a US air-defence radar station at the Er-Riffa helicopter base in Bahrain, describing the strike as a second-stage response to US aggression, TASS and RIA Novosti reported, the latter citing Press TV. Neither report stated damage to the radar or casualties, and neither carried a US response to that specific claim. Reuters noted the alerts came two days after the Guard's earlier claim against a US early-warning radar in Bahrain, which the US military denied, saying it had intercepted two Iranian drones with no harm caused.
