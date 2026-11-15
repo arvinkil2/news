@@ -1,7 +1,7 @@
 ---
 title: "Tanker strikes docked river cruise ship in New Orleans"
 date: 2026-11-13T16:04:25-05:00
-last_updated: 2026-11-14T18:47:11-05:00
+last_updated: 2026-11-14T20:41:25-05:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "developing"
@@ -27,14 +27,20 @@ sources:
     publisher: "BBC"
     url: "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o"
     published: "2026-11-14"
+  - title: "US court orders arrest of tanker after New Orleans cruise ship collision"
+    publisher: "Splash247"
+    url: "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/"
+    published: "2026-11-14"
   - title: "Mississippi River cruise ship struck by tanker in New Orleans"
     publisher: "Axios"
     url: "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike"
     published: "2026-11-13"
 tags: []
 update_bump: true
-data_as_of: "Updated November 13, 2026 with the Associated Press report carried by Al Jazeera the same evening, read in full via the estate browser route, reporting Mayor Helena Moreno's Friday evening news conference: all passengers accounted for, 32 in local hospitals, none critically injured, and no deaths reported. Earlier: reports from The Guardian, The Hill and Axios published November 13, 2026 and read in full via the estate browser route after direct fetches were refused; port and Coast Guard statements are as quoted in that reporting. Updated November 14, 2026, 18:47 Toronto, with the BBC report of November 14, 2026, read in full via the estate browser route, on the Port of New Orleans lawsuit filed in federal court on Friday and the ship manager's statement on Saturday. Developing item."
+data_as_of: "Updated November 13, 2026 with the Associated Press report carried by Al Jazeera the same evening, read in full via the estate browser route, reporting Mayor Helena Moreno's Friday evening news conference: all passengers accounted for, 32 in local hospitals, none critically injured, and no deaths reported. Earlier: reports from The Guardian, The Hill and Axios published November 13, 2026 and read in full via the estate browser route after direct fetches were refused; port and Coast Guard statements are as quoted in that reporting. Updated November 14, 2026, 18:47 Toronto, with the BBC report of November 14, 2026, read in full via the estate browser route, on the Port of New Orleans lawsuit filed in federal court on Friday and the ship manager's statement on Saturday. Updated November 14, 2026, 20:41 Toronto, with Splash247's report of the same evening, read in full, on the federal judge's authorisation of the tanker's arrest and the warrant for US marshals to take possession of it. Developing item."
 ---
+
+**Latest.** A federal judge has authorised the arrest of the Atlantic Asphalt, Splash247 reported on Saturday evening. The judge issued a warrant directing US marshals to take possession of the tanker and hold it subject to further court orders, after the Port of New Orleans sued in the Eastern District of Louisiana seeking more than $1 million, with physical damage to its Thalia Street Terminal currently estimated to exceed $1 million and further claims expected for cleanup, surveys, repairs and salvage. The manager, OSM Thome, confirmed it manages the tanker and said the vessel was stable at anchor.
 
 **Latest.** The Port of New Orleans has sued over the collision. In a suit filed in federal court on Friday, the port named the Atlantic Asphalt itself, its owner Nave Shipping SA and its management company Thome Ship Management Pte Ltd, seeking more than $1 million for cleanup, inspections, repairs and other expenses, and asked that the tanker be seized and sold to pay for the damage to its terminal. The suit alleges negligence by the ship and the operating companies. Coast Guard Captain Melanie Burnham said there seemed to have been some type of a loss of steering, with the exact cause still under investigation, and the manager said on Saturday that the tanker's crew were safe and accounted for and that it was fully complying with the local authorities.
 
