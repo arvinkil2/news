@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:46:52.663381-05:00",
+ "updated": "2026-11-14T23:53:45.837611-05:00",
  "volatility": {
   "vix": {
    "value": 19.3,
@@ -2340,42 +2340,7 @@
     "symbol": "^SSMI"
    },
    "index2": null,
-   "etf": {
-    "value": 64.78,
-    "change_1d": -0.18,
-    "change_1w": 0.25,
-    "change_unit": "%",
-    "history": [
-     60.49,
-     62.0,
-     62.25,
-     62.01,
-     63.04,
-     63.16,
-     63.68,
-     63.05,
-     62.92,
-     63.4,
-     63.22,
-     64.14,
-     64.37,
-     65.02,
-     64.31,
-     66.56,
-     65.43,
-     64.62,
-     65.73,
-     65.61,
-     64.89,
-     64.9,
-     64.78
-    ],
-    "spark": "0.0,26.0 4.4,20.0 8.7,19.0 13.1,20.0 17.5,15.9 21.8,15.4 26.2,13.4 30.5,15.9 34.9,16.4 39.3,14.5 43.6,15.2 48.0,11.6 52.4,10.7 56.7,8.1 61.1,10.9 65.5,2.0 69.8,6.5 74.2,9.7 78.5,5.3 82.9,5.8 87.3,8.6 91.6,8.6 96.0,9.0",
-    "up_1d": false,
-    "as_of": "2026-11-13",
-    "label": "iShares MSCI Switzerland (EWL)",
-    "symbol": "EWL"
-   },
+   "etf": null,
    "fx": {
     "value": 0.8382,
     "change_1d": -0.27,
@@ -4889,8 +4854,9 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Saudi Arabia index (^TASI.SR): not enough data",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
+  "Switzerland etf (EWL): yahoo EWL: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
  ]
 }
