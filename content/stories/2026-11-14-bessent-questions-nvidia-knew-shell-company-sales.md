@@ -1,13 +1,13 @@
 ---
-title: "Bessent asks whether Nvidia knew its shell company customers"
+title: "Backers push Huang return as Bessent demands outside Nvidia leader"
 date: 2026-11-14T11:22:59-05:00
-last_updated: 2026-11-15T12:28:49-05:00
+last_updated: 2026-11-15T16:22:34-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
 developing: true
-lede: "Treasury Secretary Scott Bessent escalated his attack on Nvidia on Sunday, saying the company needed a dramatic leadership shakeup after Jensen Huang's removal, that its board should search outside the company for a new leader, and that he wants answers on the China chip diversion allegations within 10 days."
-why_it_matters: "The Treasury Secretary is now publicly directing how Nvidia's board should replace its chief executive and setting a 10 day deadline for answers on whether the company knowingly overlooked shell companies funnelling restricted chips to China, a direct federal intervention in the governance of the largest US chipmaker."
+lede: "Jensen Huang is weighing a return as Nvidia chief executive and Silicon Valley backers are pressing the board to reinstate him, the Financial Times reported, directly colliding with Treasury Secretary Scott Bessent's Sunday demand for a dramatic shakeup and an outside successor."
+why_it_matters: "Nvidia's board now faces opposite public campaigns over the same vacancy: shareholders and Silicon Valley figures lobbying for the founder's return, and the Treasury Secretary demanding an outside leader and answers within 10 days on whether the company knowingly overlooked shell companies funnelling restricted chips to China."
 featured: false
 evidence_grade: "C"
 sources:
@@ -23,14 +23,20 @@ sources:
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830"
     published: "2026-11-15"
+  - title: "Jensen Huang may return as Nvidia chief executive - report"
+    publisher: "Investing.com, reporting the Financial Times"
+    url: "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+    published: "2026-11-15"
   - title: "Bessent, Congress zero in on Lutnick's role in Nvidia-Megaspeed scandal"
     publisher: "The Hill"
     url: "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/"
     published: "2026-11-15"
 tags: []
 update_bump: true
-data_as_of: "CNBC interview with Treasury Secretary Scott Bessent as reported by Tom's Hardware on November 14, 2026, read in full in this pass. Single source: the report carries no comment from Nvidia or the Department of Commerce, and Bessent said it is not known whether Huang knew of any illicit sales. Developing item. Updated November 15, 2026, with the Reuters report of the same day via Investing.com, read in full via the estate browser route, carrying Megaspeed's Sunday statement; Megaspeed has not been found to have violated US export rules, and the statement did not say whether Alice Huang still controls the company. Updated November 15, 2026, with Investing.com's report of the same day, read in full via the estate browser route, of Bessent's Sunday Morning Futures interview on Fox News; TASS carried the same outside search call in Russian the same day. The remarks are Bessent's own statements on a broadcast interview; Nvidia had not responded in either report, so the item stays at grade C. Updated again November 15, 2026, with The Hill's report of the same day, read in full via the estate browser route, on the scrutiny of Commerce Secretary Howard Lutnick: the entity list remarks are Bessent's own words on CNBC, and the report carried no direct response from Lutnick or the Commerce Department beyond his reported reply to Bessent that he would look into it, so the grade C standing is unchanged."
+data_as_of: "CNBC interview with Treasury Secretary Scott Bessent as reported by Tom's Hardware on November 14, 2026, read in full in this pass. Single source: the report carries no comment from Nvidia or the Department of Commerce, and Bessent said it is not known whether Huang knew of any illicit sales. Developing item. Updated November 15, 2026, with the Reuters report of the same day via Investing.com, read in full via the estate browser route, carrying Megaspeed's Sunday statement; Megaspeed has not been found to have violated US export rules, and the statement did not say whether Alice Huang still controls the company. Updated November 15, 2026, with Investing.com's report of the same day, read in full via the estate browser route, of Bessent's Sunday Morning Futures interview on Fox News; TASS carried the same outside search call in Russian the same day. The remarks are Bessent's own statements on a broadcast interview; Nvidia had not responded in either report, so the item stays at grade C. Updated again November 15, 2026, with The Hill's report of the same day, read in full via the estate browser route, on the scrutiny of Commerce Secretary Howard Lutnick: the entity list remarks are Bessent's own words on CNBC, and the report carried no direct response from Lutnick or the Commerce Department beyond his reported reply to Bessent that he would look into it, so the grade C standing is unchanged. Updated again November 15, 2026, with Investing.com's report of the same day, read in full via the estate browser route, carrying the Financial Times' reporting: Huang has talked with confidantes about potentially returning, an ally said a war room of Silicon Valley executives was being assembled with his support, and shareholders Brad Gerstner and Gavin Baker wrote to the board on Friday asking it to keep all options open including his return; the board has approached Arm chief executive Rene Haas as a possible successor and said no formal process has started, and neither Nvidia nor Huang gave a direct statement on the return report, so the grade C standing is unchanged."
 ---
+
+**Latest.** Jensen Huang is weighing a return as Nvidia chief executive after resigning last week and has talked with confidantes about potentially returning, the Financial Times reported, via Investing.com. An ally said supporters were assembling a war room of Silicon Valley executives to advocate for his return, would seek White House backing, and that the effort had Huang's support; Elon Musk and Epic Games chief executive Tim Sweeney backed a public letter demanding the board bring Huang back, and Altimeter Capital founder Brad Gerstner and Atreides Management's Gavin Baker, both Nvidia shareholders, wrote to the board on Friday asking it to leave all options on the table, including Huang's return. The board has approached Arm chief executive Rene Haas as a possible successor but said no formal process has started, and the company, now led by interim chief executive Colette Kress, faces quarterly results on Tuesday; neither Nvidia nor Huang gave a direct statement on the return report.
 
 **Latest.** The scrutiny has widened to Commerce Secretary Howard Lutnick. Bessent said on CNBC on Friday that Treasury, the War and State departments and the US Trade Representative had favoured putting Megaspeed on the Commerce Department's entity list for months, and that Commerce's Bureau of Industry and Security "has the pen" on that decision, The Hill reported. Lutnick has agreed to testify before the Senate Banking Committee on December 10, Senator Chris Coons said Lutnick had let the American people down, and Senator Ron Wyden and Representative Richard Neal have told Lutnick to preserve Commerce records on the H200 export approvals, writing that there appears to be a profound lack of due diligence in the approval process.
 
