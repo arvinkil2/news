@@ -22,7 +22,7 @@ data_as_of: "Nov 16, 1:33 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-novelis-sells-two-china-units-265-million/">Novelis to sell two China units for $265 million</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-china-industrial-output-slows-october/">China industrial output slows to 4.8 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-commodities-also-notable/">Commodities also notable: silver deficit, China coal, Mississippi collision</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-commerce-moves-close-china-compute-loophole/">Commerce moves to close China&#x27;s offshore Nvidia compute loophole</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-commerce-moves-close-china-compute-loophole/">Commerce issues rule closing China&#x27;s offshore compute loophole</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-china-rare-earth-giants-double-profits/">China&#x27;s rare earth giants more than double profits</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-asean-china-south-china-sea-code-stalls/">ASEAN and China fail to conclude South China Sea code</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-china-home-prices-fall-most-cities-october/">China new home prices fall in 49 of 70 cities</a></p>
