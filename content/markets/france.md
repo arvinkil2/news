@@ -2,12 +2,12 @@
 title: "France"
 date: "2026-11-16"
 lede: "Benchmark index, country ETF, currency and sovereign yields for France, refreshed every 15 minutes."
-data_as_of: "Nov 16, 8:03 AM ET"
+data_as_of: "Nov 16, 8:09 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 16, 8:03 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 16, 8:09 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>CAC 40 (index)</td><td class="num">8,389 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">+0.24%</span></td><td class="num"><span class="up">+1.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.1 4.6,22.6 9.1,23.8 13.7,20.5 18.3,24.9 22.9,26.0 27.4,23.4 32.0,21.9 36.6,21.9 41.1,18.6 45.7,18.6 50.3,15.5 54.9,16.6 59.4,10.4 64.0,9.3 68.6,11.9 73.1,8.2 77.7,6.4 82.3,4.2 86.9,3.1 91.4,2.8 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>CAC 40 (index)</td><td class="num">8,387 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">+0.21%</span></td><td class="num"><span class="up">+1.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.1 4.6,22.6 9.1,23.8 13.7,20.5 18.3,24.9 22.9,26.0 27.4,23.4 32.0,21.9 36.6,21.9 41.1,18.6 45.7,18.6 50.3,15.5 54.9,16.6 59.4,10.3 64.0,9.2 68.6,11.8 73.1,8.1 77.7,6.3 82.3,4.1 86.9,3.0 91.4,2.7 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI France (EWQ)</td><td class="num">$43.8800 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.14%</span></td><td class="num"><span class="up">+2.31%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.0 4.4,18.3 8.7,19.5 13.1,24.2 17.5,21.4 21.8,19.6 26.2,22.3 30.5,26.0 34.9,24.8 39.3,22.8 43.6,21.8 48.0,17.1 52.4,18.4 56.7,14.1 61.1,15.8 65.5,4.3 69.8,8.3 74.2,12.8 78.5,2.3 82.9,2.0 87.3,3.7 91.6,4.7 96.0,4.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>EUR/USD</td><td class="num">1.1017 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.30%</span></td><td class="num"><span class="down">-1.17%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.4 4.6,3.1 9.1,4.1 13.7,2.9 18.3,2.0 22.9,3.5 27.4,3.9 32.0,8.7 36.6,13.6 41.1,10.7 45.7,7.7 50.3,10.6 54.9,6.7 59.4,5.1 64.0,2.0 68.6,2.8 73.1,11.7 77.7,3.4 82.3,9.3 86.9,17.4 91.4,22.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
