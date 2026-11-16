@@ -15,4 +15,3 @@ data_as_of: "Nov 16, 10:49 AM ET"
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-10-15</span> <a href="/stories/2026-10-15-ubs-switzerland-contingency-plans/">UBS drafts contingency plans to leave Switzerland, WSJ reports</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
-<!-- mergeability recheck -->
