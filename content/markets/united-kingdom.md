@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-11-16"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed every 15 minutes."
-data_as_of: "Nov 16, 3:38 AM ET"
+data_as_of: "Nov 16, 3:52 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 16, 3:38 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 16, 3:52 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>FTSE 100 (index)</td><td class="num">10,913 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">+0.10%</span></td><td class="num"><span class="up">+1.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.7 4.6,15.0 9.1,17.7 13.7,16.0 18.3,18.4 22.9,21.5 27.4,14.7 32.0,21.8 36.6,21.1 41.1,18.7 45.7,18.0 50.3,15.3 54.9,26.0 59.4,9.3 64.0,13.4 68.6,22.9 73.1,13.4 77.7,16.1 82.3,8.8 86.9,6.4 91.4,2.9 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>FTSE 100 (index)</td><td class="num">10,914 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">+0.10%</span></td><td class="num"><span class="up">+1.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.8 4.6,15.0 9.1,17.8 13.7,16.0 18.3,18.5 22.9,21.5 27.4,14.8 32.0,21.8 36.6,21.1 41.1,18.7 45.7,18.0 50.3,15.3 54.9,26.0 59.4,9.4 64.0,13.4 68.6,22.9 73.1,13.4 77.7,16.1 82.3,8.8 86.9,6.4 91.4,3.0 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$47.9700 <span class="gm-sub-inline">as of 2026-11-13</span></td><td class="num"><span class="up">+0.44%</span></td><td class="num"><span class="up">+1.59%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,15.9 8.7,12.9 13.1,20.9 17.5,15.9 21.8,16.7 26.2,15.0 30.5,18.8 34.9,17.7 39.3,22.7 43.6,21.5 48.0,16.6 52.4,15.1 56.7,12.7 61.1,21.4 65.5,2.0 69.8,14.4 74.2,22.3 78.5,9.2 82.9,13.5 87.3,15.2 91.6,15.9 96.0,13.4" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3209 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.17%</span></td><td class="num"><span class="down">-1.13%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.3 4.6,14.6 9.1,17.1 13.7,11.3 18.3,9.3 22.9,8.5 27.4,10.9 32.0,13.8 36.6,17.3 41.1,15.3 45.7,10.8 50.3,10.1 54.9,8.0 59.4,5.9 64.0,2.0 68.6,3.9 73.1,12.5 77.7,5.1 82.3,13.5 86.9,19.9 91.4,24.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3218 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.10%</span></td><td class="num"><span class="down">-1.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.9 4.6,15.1 9.1,17.7 13.7,11.6 18.3,9.5 22.9,8.8 27.4,11.2 32.0,14.2 36.6,17.8 41.1,15.8 45.7,11.1 50.3,10.4 54.9,8.2 59.4,6.0 64.0,2.0 68.6,3.9 73.1,12.8 77.7,5.2 82.3,13.9 86.9,20.5 91.4,24.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -18,6 +18,7 @@ data_as_of: "Nov 16, 3:38 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-12 (Bank of England), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-ukraine-drone-strike-crimean-bridge-traffic-halted/">Ukraine drone barrage hits Crimean Bridge, traffic halted</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-ukraine-says-hit-nizhnekamsk-petrochemical-plants/">Ukraine says it struck two Nizhnekamsk petrochemical plants</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-uk-sanctions-slavneft-eleven-russian-energy-ships/">UK sanctions Slavneft and eleven Russian energy ships</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-ukraine-says-hit-samara-oil-pumping-station/">Ukraine says it struck Samara oil pumping station</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 16, 3:38 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-europe-agrees-team-ukraine-peace-talks/">Europe agrees E5 plus EU team for Ukraine talks</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-uk-eases-bno-visa-barriers-hong-kong/">UK eases BN(O) visa barriers for Hong Kong protesters</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-uk-gdp-grows-07-percent-third-quarter/">UK economy grows 0.7 percent in third quarter</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-hoax-bomb-threats-evacuate-schools-italy-uk/">Hoax bomb threats evacuate hundreds of schools in Italy and Britain</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
