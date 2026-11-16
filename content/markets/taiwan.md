@@ -2,14 +2,14 @@
 title: "Taiwan"
 date: "2026-11-16"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 16, 11:06 AM ET"
+data_as_of: "Nov 16, 11:53 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 16, 11:06 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 16, 11:53 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">43,675 <span class="gm-sub-inline">as of 2026-11-13, stale</span></td><td class="num"><span class="up">+1.35%</span></td><td class="num"><span class="up">+10.01%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 5.3,2.9 10.7,4.7 16.0,2.7 21.3,5.5 26.7,5.3 32.0,2.2 37.3,4.4 42.7,8.2 48.0,9.1 53.3,14.3 58.7,15.5 64.0,19.9 69.3,26.0 74.7,19.7 80.0,16.2 85.3,11.2 90.7,15.0 96.0,13.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$91.69 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-5.84%</span></td><td class="num"><span class="down">-4.14%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.8 4.6,3.8 9.1,3.7 13.7,2.0 18.3,7.2 22.9,6.2 27.4,5.5 32.0,3.8 36.6,2.1 41.1,5.1 45.7,10.2 50.3,10.7 54.9,13.1 59.4,14.4 64.0,26.0 68.6,22.5 73.1,15.9 77.7,16.9 82.3,11.1 86.9,14.2 91.4,14.1 96.0,20.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TWD</td><td class="num">32.9400 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">-0.00%</span></td><td class="num"><span class="down">-0.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,24.2 9.1,21.3 13.7,18.3 18.3,24.8 22.9,17.7 27.4,18.5 32.0,19.6 36.6,23.0 41.1,24.3 45.7,18.6 50.3,17.4 54.9,18.1 59.4,13.5 64.0,10.8 68.6,2.0 73.1,12.7 77.7,11.8 82.3,6.8 86.9,9.6 91.4,7.2 96.0,7.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$91.79 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-5.74%</span></td><td class="num"><span class="down">-4.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.8 4.6,3.8 9.1,3.7 13.7,2.0 18.3,7.2 22.9,6.2 27.4,5.5 32.0,3.8 36.6,2.1 41.1,5.1 45.7,10.2 50.3,10.7 54.9,13.1 59.4,14.4 64.0,26.0 68.6,22.5 73.1,15.9 77.7,16.9 82.3,11.1 86.9,14.2 91.4,14.1 96.0,19.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TWD</td><td class="num">32.9280 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="up">+0.03%</span></td><td class="num"><span class="down">-0.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,24.2 9.1,21.3 13.7,18.3 18.3,24.8 22.9,17.7 27.4,18.5 32.0,19.6 36.6,23.0 41.1,24.3 45.7,18.6 50.3,17.4 54.9,18.1 59.4,13.5 64.0,10.8 68.6,2.0 73.1,12.7 77.7,11.8 82.3,6.8 86.9,9.6 91.4,7.2 96.0,7.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -20,6 +20,7 @@ data_as_of: "Nov 16, 11:06 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-06 (Taipei Exchange (TPEx)), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-nanya-winbond-plan-euv-tools-asml/">Nanya and Winbond plan ASML EUV tools for Taiwan DRAM fabs</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-china-silent-naval-exercise-taiwan/">Taiwan says China staged largest unannounced naval exercise</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-taiwan-drafting-sovereign-wealth-fund-bill/">Taiwan drafting sovereign wealth fund bill for year end</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-08</span> <a href="/stories/2026-11-08-asia-stocks-rebound-taiwan-jumps/">Asia stocks rebound, Taiwan closes up 5 percent after rout</a></p>
@@ -27,5 +28,4 @@ data_as_of: "Nov 16, 11:06 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-06</span> <a href="/stories/2026-11-06-taiwan-closes-papua-new-guinea-office-china-pressure/">Taiwan closes Papua New Guinea office, blames China pressure</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-05</span> <a href="/stories/2026-11-05-taiwan-dollar-weakens-past-33-ai-rout/">Taiwan dollar weakens past 33 on AI rout</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-taiwan-china-coast-guard-shipping-patrol/">Taiwan says China coast guard harasses east coast shipping</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-01</span> <a href="/stories/2026-11-01-taiwan-foreign-outflows-record-october/">Foreigners sell record 31.78 billion dollars of Taiwan shares</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
