@@ -2,12 +2,12 @@
 title: "Saudi Arabia"
 date: "2026-11-16"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed every 15 minutes."
-data_as_of: "Nov 16, 10:20 AM ET"
+data_as_of: "Nov 16, 10:30 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 16, 10:20 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 16, 10:30 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$35.7600 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.68%</span></td><td class="num"><span class="up">+0.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.1 4.6,11.7 9.1,15.3 13.7,17.5 18.3,25.9 22.9,26.0 27.4,23.0 32.0,16.9 36.6,15.9 41.1,18.5 45.7,20.8 50.3,20.1 54.9,19.9 59.4,12.0 64.0,13.6 68.6,12.8 73.1,8.6 77.7,7.4 82.3,2.9 86.9,2.0 91.4,3.2 96.0,5.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$35.7800 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.64%</span></td><td class="num"><span class="up">+0.90%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.1 4.6,11.7 9.1,15.3 13.7,17.5 18.3,25.9 22.9,26.0 27.4,23.0 32.0,16.9 36.6,15.9 41.1,18.5 45.7,20.8 50.3,20.1 54.9,19.9 59.4,12.0 64.0,13.6 68.6,12.8 73.1,8.6 77.7,7.4 82.3,2.9 86.9,2.0 91.4,3.2 96.0,5.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/SAR</td><td class="num">3.7521 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-2.01%</span></td><td class="num"><span class="down">-3.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 4.6,24.4 9.1,22.4 13.7,21.4 18.3,26.0 22.9,24.7 27.4,24.4 32.0,26.0 36.6,25.1 41.1,24.0 45.7,24.2 50.3,24.3 54.9,22.4 59.4,22.3 64.0,22.9 68.6,24.4 73.1,23.4 77.7,23.0 82.3,22.8 86.9,22.3 91.4,16.3 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
