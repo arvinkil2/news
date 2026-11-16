@@ -1146,7 +1146,8 @@
    "positions": 17,
    "principal_usd": 34470237.0,
    "finra_symbol": "QTSI6173223",
-   "is_144a": "Y"
+   "is_144a": "Y",
+   "issue_date": "2023-01-27"
   },
   {
    "cusip": "74690FAB2",
