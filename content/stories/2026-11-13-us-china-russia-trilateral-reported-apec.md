@@ -1,13 +1,13 @@
 ---
 title: "White House confirms US, China and Russia leaders meet at APEC"
 date: 2026-11-13T17:23:58-05:00
-last_updated: 2026-11-14T13:43:38-05:00
+last_updated: 2026-11-15T20:46:38-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific", "europe"]
 status: "developing"
 developing: true
-lede: "The Kremlin confirmed on Saturday that Presidents Putin, Xi and Trump will meet on November 19 in Shenzhen on the sidelines of the APEC summit, a day after the White House confirmed the meeting, whose stated agenda is nuclear weapons reduction and the US war with Iran, with Ukraine not planned for discussion."
-why_it_matters: "A first meeting of the three largest nuclear powers' leaders, now confirmed by both Washington and Moscow, opens a three-way nuclear arms track after the last US-Russia pact expired in February, and Kyiv's fear that its future could be discussed without it is now partly answered: Ukraine is not on the stated agenda."
+lede: "China officially announced on Monday that Presidents Xi, Trump and Putin will meet on November 19 in Shenzhen on the sidelines of the APEC summit, completing the confirmations after the White House and the Kremlin, while Beijing set out no agenda for the first trilateral meeting."
+why_it_matters: "With the host's confirmation, the first meeting of the three largest nuclear powers' leaders is now confirmed by all three capitals; what they will discuss remains unsettled on the record, with Washington's account putting nuclear reduction and Iran on the agenda and Ukraine not planned, and Beijing silent on the agenda."
 featured: false
 evidence_grade: "B"
 sources:
@@ -31,10 +31,20 @@ sources:
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/4007001-kremlin-says-putin-xi-and-trump-to-hold-meeting-in-china-on-november-19---ria"
     published: "2026-11-14"
+  - title: "China also officially announces Xi, Trump and Putin trilateral summit in Shenzhen on the 19th (in Korean)"
+    publisher: "Yonhap News Agency"
+    url: "https://www.yna.co.kr/view/AKR20261116052300083"
+    published: "2026-11-16"
+  - title: "China confirms the meeting of Xi Jinping, Putin and Trump on November 19 (in Russian)"
+    publisher: "TASS"
+    url: "https://tass.ru/mezhdunarodnaya-panorama/28319963"
+    published: "2026-11-16"
 tags: []
 update_bump: true
-data_as_of: "Updated November 14, 2026 with Anadolu Agency's report of the same day, in Turkish, read in full via the estate browser route: Kremlin spokesman Dmitry Peskov's remarks to the TASS news agency confirming that an agreement had been reached to hold the trilateral meeting on November 19 in Shenzhen as part of the APEC summit, with no agenda set out in the reported remarks; Reuters' report of the same day, read in full as carried by Devdiscourse, citing RIA's account of the Kremlin spokesman, carries the same confirmation. Earlier update: November 13, 2026 with CNBC's report of the same evening, read in full via the estate browser route, reporting senior US officials briefing a press call on condition of anonymity that President Trump does not plan to raise the Nvidia matter with President Xi and that Elon Musk will accompany the president. Earlier update: the Associated Press report of the same day, read in full via the estate browser route: White House spokeswoman Olivia Wales on the record and a senior US official briefing reporters on condition of anonymity. The meeting is now White House confirmed; the agenda detail rests on that briefing. Earlier: Yonhap News Agency dispatch of November 14, 2026 (Korea time), in Korean, read in full via the estate browser route; Yonhap was reporting a New York Post report of November 13 that cited an unnamed White House official. Developing item."
+data_as_of: "Updated November 15, 2026 (Toronto) with Yonhap News Agency's dispatch of November 16, 2026 (Beijing), in Korean, read in full via the estate browser route, reporting Xinhua's account of a Chinese Foreign Ministry spokesperson announcing the meeting, the first official Chinese confirmation; TASS, in Russian, carried the same Chinese confirmation the same day. Beijing disclosed no agenda, so the agenda detail below still rests on the White House account. Earlier update: November 14, 2026 with Anadolu Agency's report of the same day, in Turkish, read in full via the estate browser route: Kremlin spokesman Dmitry Peskov's remarks to the TASS news agency confirming that an agreement had been reached to hold the trilateral meeting on November 19 in Shenzhen as part of the APEC summit, with no agenda set out in the reported remarks; Reuters' report of the same day, read in full as carried by Devdiscourse, citing RIA's account of the Kremlin spokesman, carries the same confirmation. Earlier update: November 13, 2026 with CNBC's report of the same evening, read in full via the estate browser route, reporting senior US officials briefing a press call on condition of anonymity that President Trump does not plan to raise the Nvidia matter with President Xi and that Elon Musk will accompany the president. Earlier update: the Associated Press report of the same day, read in full via the estate browser route: White House spokeswoman Olivia Wales on the record and a senior US official briefing reporters on condition of anonymity. The meeting is now White House confirmed; the agenda detail rests on that briefing. Earlier: Yonhap News Agency dispatch of November 14, 2026 (Korea time), in Korean, read in full via the estate browser route; Yonhap was reporting a New York Post report of November 13 that cited an unnamed White House official. Developing item."
 ---
+**Latest.** Beijing confirmed the meeting on Monday. A Chinese Foreign Ministry spokesperson said President Xi will hold a summit in Shenzhen on November 19 with Presidents Putin and Trump, Xinhua reported, in China's first official confirmation of the trilateral meeting after the White House and Kremlin announcements. The announcement set out no agenda; Yonhap noted the Ukraine war and nuclear disarmament are mentioned as possible topics, which leaves the stated agenda resting on the White House account, under which Ukraine is not planned for discussion.
+
 **Latest.** Moscow confirmed the meeting on Saturday. Kremlin spokesman Dmitry Peskov told the TASS news agency that it had been agreed a trilateral meeting between Presidents Putin, Xi and Trump would be held on November 19, in Shenzhen as part of the APEC summit, Anadolu Agency reported; Reuters, citing RIA, carried the same confirmation. Peskov's reported remarks set out no agenda, so the meeting's stated business still rests on Friday's White House account: nuclear weapons reduction and the US war with Iran, with Ukraine not planned for discussion.
 
 
