@@ -1,7 +1,7 @@
 ---
 title: "Estonia blames Russia's GRU for arson attempt on drone maker"
 date: 2026-11-15T09:47:54-05:00
-last_updated: 2026-11-15T12:03:35-05:00
+last_updated: 2026-11-16T08:04:21-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -19,14 +19,20 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-15/estonia-says-russia-behind-failed-arson-attempt-on-drone-maker"
     published: "2026-11-15"
+  - title: "Estonia to close all border crossings with Russia after attack on drone maker"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    published: "2026-11-15"
   - title: "Estonia prepares to close its border with Russia in December after an alleged sabotage attempt (in Spanish)"
     publisher: "El Pais"
     url: "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html"
     published: "2026-11-15"
 tags: []
-data_as_of: "Politico Europe report of November 15, 2026, read in full via the estate browser route, and the accessible opening of Bloomberg's report of the same day (the rest is paywalled). The GRU attribution is the Estonian Internal Security Service's claim, stated by Prosecutor General Astrid Asi and Prime Minister Kristen Michal, both parties to the confrontation with Russia; no Russian response was reported in either account, so it ships at grade C. Developing item. Updated November 15, 2026, with the El Pais report of the same day, in Spanish, read in full: Foreign Minister Margus Tsahkna announced on X that Estonia will close all border crossings with Russia from December 1, Interior Minister Igor Taro confirmed the government will debate the closure of all land crossings next week, and Prime Minister Michal tasked the interior minister with preparing the steps. The closure announcement is the Estonian government's own act as reported by El Pais; the government statement itself was not opened directly in this run, and the grade C standing is unchanged."
+data_as_of: "Politico Europe report of November 15, 2026, read in full via the estate browser route, and the accessible opening of Bloomberg's report of the same day (the rest is paywalled). The GRU attribution is the Estonian Internal Security Service's claim, stated by Prosecutor General Astrid Asi and Prime Minister Kristen Michal, both parties to the confrontation with Russia; no Russian response was reported in either account, so it ships at grade C. Developing item. Updated November 15, 2026, with the El Pais report of the same day, in Spanish, read in full: Foreign Minister Margus Tsahkna announced on X that Estonia will close all border crossings with Russia from December 1, Interior Minister Igor Taro confirmed the government will debate the closure of all land crossings next week, and Prime Minister Michal tasked the interior minister with preparing the steps. The closure announcement is the Estonian government's own act as reported by El Pais; the government statement itself was not opened directly in this run, and the grade C standing is unchanged. Updated November 16, 2026, with The Guardian's report of November 15, 2026, read in full via the estate browser route, carrying Russian foreign ministry spokesperson Maria Zakharova's response via TASS; her remarks are the Russian government's own statement, as a party to the confrontation, and the grade C standing is unchanged."
 update_bump: true
 ---
+**Latest.** Russia's foreign ministry has responded to the closure plan, with spokesperson Maria Zakharova telling the state news agency TASS that if the closures are Estonia's real plans, they amount to another bout of aggressive Russophobia, The Guardian reported. The comment is Moscow's first reported response to the closure announcement. Estonia's attribution of the Threod attack to the GRU remains an Estonian claim, not independently corroborated.
+
 **Latest.** Foreign Minister Margus Tsahkna said on X that Estonia will close all border crossings with Russia from December 1, writing that Russia must understand hostile actions against Estonia have consequences, El Pais reported. Interior Minister Igor Taro confirmed the government will debate closing all land border crossings from early December next week, and Prime Minister Kristen Michal, who had raised the closure as a security measure, tasked Taro with preparing the necessary steps. Estonia has three crossings open with Russia, at Narva, Luhamaa and Koidula, operating 12 hours a day for pedestrians and goods.
 
 
