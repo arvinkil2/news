@@ -1,7 +1,7 @@
 ---
 title: "Commodities also notable: silver deficit, China coal, Mississippi collision"
 date: 2026-11-16T07:09:26-05:00
-last_updated: 2026-11-16T07:09:26-05:00
+last_updated: 2026-11-16T12:51:51-05:00
 beats: ["commodities"]
 regions: ["global", "asia-pacific", "north-america"]
 status: "story"
@@ -26,7 +26,7 @@ tags: []
 data_as_of: "Silver Institute and Metals Focus estimates released November 12, 2026; China coal figures from the National Bureau of Statistics October energy release as transcribed by Sxcoal on November 16, 2026, single transcription, so that item is graded accordingly; Mississippi item from gCaptain reporting of November 16, 2026 in the feed pool."
 ---
 
-**Silver runs a sixth straight deficit.** The Silver Institute said on November 12 that the global silver market is forecast to record its sixth consecutive annual deficit in 2026, with demand exceeding supply by 35 million ounces. Total demand is forecast at 1.08 billion ounces, down 5 percent year on year, with industrial demand outside photovoltaics expected to rise 4.5 percent, and the cumulative 2021 to 2026 shortfall put at about 746 million ounces. The forecast lands while silver futures in the site tables are down 9.37 percent on the week, a divergence between the physical balance and the paper price that this beat has flagged before.
+**Silver runs a sixth straight deficit.** The Silver Institute said on November 12 that the global silver market is forecast to record its sixth consecutive annual deficit in 2026, with demand exceeding supply by 35 million ounces. Total demand is forecast at 1.08 billion ounces, down 5 percent year on year, with industrial demand outside photovoltaics expected to rise 4.5 percent, and the cumulative 2021 to 2026 shortfall put at about 746 million ounces. The forecast lands while silver futures in the site tables are down 10.27 percent on the week, a divergence between the physical balance and the paper price that this beat has flagged before.
 
 **China coal output falls again.** China's raw coal output reached 384.94 million tonnes in October, down 5.83 percent year on year, according to the National Bureau of Statistics figures transcribed by Sxcoal, extending a run of year on year declines that Mining Weekly put at seven months, with safety inspections in the main producing regions still curbing supply. Output over the first ten months totalled 3.83 billion tonnes. The fall comes as winter restocking begins, and follows a May mining disaster that prompted the current inspection regime.
 

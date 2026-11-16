@@ -1,13 +1,13 @@
 ---
-title: "Why markets moved overnight"
+title: "Why markets are moving today"
 date: 2026-11-16T07:09:26-05:00
-last_updated: 2026-11-16T07:09:26-05:00
-kicker: "Overnight markets"
+last_updated: 2026-11-16T12:52:08-05:00
+kicker: "Markets today"
 movers_note: true
 status: "story"
 featured: true
-lede: "Tanker freight jumped 6.29 percent as another tanker was hit in Hormuz, while chip shares led a broad AI selloff that took Broadcom down 4.76 percent and copper to a four month low."
-why_it_matters: "The overnight tape split in two: physical shipping risk priced up on the Hormuz strike, and the AI complex priced down, with Treasury yields still climbing on the week into Wednesday's FOMC minutes."
+lede: "The AI selloff broadened into mining by midday, with rare earth miners down 4.95 percent, semiconductors down 4.36 percent and Nvidia down 3.60 percent, while tanker freight rose 3.14 percent on continued Hormuz shipping risk."
+why_it_matters: "The selloff now runs through the whole AI buildout chain, from chips to copper and rare earths, a day before Nvidia reports earnings and two days before the FOMC minutes, while tanker freight, the one market pricing physical risk higher, points the other way."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
@@ -15,13 +15,15 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-16"
 tags: []
-data_as_of: "Market close Friday, November 13, 2026"
+data_as_of: "Midday November 16, 2026"
 ---
 
-Tanker freight was the largest mover in the site tables, up 6.29 percent on the day, as a tanker sailing out of the Gulf through the Strait of Hormuz was hit by an unknown projectile and caught fire in its engine room, with no injuries reported (see today's tanker story). Brent crude itself barely moved, down 0.35 percent to 95.50 dollars a barrel, so the freight market, not the crude price, took the risk premium.
+Rare earth miners were the largest fallers in the site tables at midday, down 4.95 percent to 47.54 dollars and down 11.49 percent on the week. No story in today's edition explains the rare earth move on its own; it came as the selloff that began in AI shares spread across the mining complex. The semiconductor index fell 4.36 percent and Broadcom fell 3.85 percent, extending the chip rout tied to the Nvidia governance scandal and to Washington's move to close the offshore compute loophole that has let Chinese companies lease Nvidia capacity in third countries (see today's Nvidia story and today's Commerce story). Nvidia itself fell 3.60 percent to 156.99 dollars and is down 12.14 percent on the week, a day before its earnings report, as Treasury Secretary Scott Bessent's demand for a shakeup and President Trump's comments on the succession kept the stock under pressure (see today's Nvidia story). China's ZAI and MiniMax also slid on chip restriction fears (see today's ZAI and MiniMax story).
 
-The AI complex sold off. Broadcom fell 4.76 percent, the semiconductor index fell 3.67 percent and Nvidia fell 2.01 percent, extending the rout that has taken Nvidia down 12.75 percent on the week even as Broadcom remains up 18.16 percent on the week. The same selloff carried into base metals and Asia: copper fell to a four month low in London trading (see today's copper story), the copper miners index fell 2.51 percent, the Nikkei 225 fell 2.42 percent, and China's ZAI and MiniMax slid on chip restriction fears (see today's technology story). China's October data, published this morning, gave the demand side of that move fresh support: industrial output rose 4.8 percent and retail sales just 0.4 percent (see today's China story).
+Copper miners fell 4.16 percent and BHP fell 3.76 percent as London copper held at a four month low, hit by the AI selloff and by China's October data, which showed industrial output up 4.8 percent and retail sales up just 0.4 percent (see today's copper story and today's China story). No BHP specific driver appears in today's reporting; the stock moved with the base metals complex. Uranium miners fell 3.66 percent, and no story in today's edition explains that move either.
 
-Silver futures fell 2.84 percent to 47.64 dollars an ounce and are down 9.37 percent on the week, moving with the broader metals selloff despite the Silver Institute's forecast, published November 12, of a sixth straight annual physical deficit of 35 million ounces (see today's commodities roundup). Natural gas fell 2.79 percent to 3.14 dollars per mmBtu; no clear single driver appears in this morning's reporting. Meta rose 2.90 percent, the largest gain among the big technology names in the tables; no clear single driver appears in this morning's reporting either.
+Silver futures fell 3.81 percent to 47.17 dollars an ounce and are down 10.27 percent on the week, and silver miners fell 3.43 percent. The fall extends the divergence flagged in today's commodities roundup: the Silver Institute forecasts a sixth straight annual physical deficit of 35 million ounces in 2026, but the paper price is moving with the broader metals selloff. Natural gas fell 3.34 percent to 3.12 dollars per mmBtu; no clear single driver appears in today's reporting.
 
-The cross market read is a split tape rather than a single risk move. Shipping and the long end priced risk up: the US 10 year yield rose 5.1 basis points on the day to 5.15 percent and is up 29.5 basis points on the week, with December Federal Reserve pricing treating a rate increase as certain ahead of Wednesday's FOMC minutes. Growth and AI exposure priced down at the same time. The dollar index rose 0.14 percent to 103.56. What would join the two halves is a rates surprise in the minutes; until then, freight and yields are carrying the risk signal while equities carry the AI correction.
+Tanker freight was the exception, up 3.14 percent on the day and 9.45 percent on the week, as shipping through the Strait of Hormuz faced another projectile strike on a tanker leaving the Gulf and Iranian claims of further mine strikes (see today's tanker stories). Crude did not follow freight: Brent fell 2.85 percent to 93.11 dollars a barrel and WTI fell 2.76 percent to 86.12 dollars. No story in today's edition explains the crude fall.
+
+The midday read is risk off in growth and industrial exposure, with one physical exception. Chips, miners and precious metals fell together, which points to position cutting across the AI buildout chain rather than a single company story, while tanker freight priced Hormuz risk up again. Rates gave no offset: the US 10 year yield eased 1.5 basis points to 5.14 percent but remains up 27.5 basis points on the week, and the dollar index was little changed at 103.53. Nvidia's earnings on Tuesday and Wednesday's FOMC minutes are the two scheduled tests of whether the selloff is a valuation reset or the start of a wider repricing.
