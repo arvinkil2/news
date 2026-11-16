@@ -1,31 +1,39 @@
 ---
-title: "Commerce moves to close China's offshore Nvidia compute loophole"
+title: "Commerce issues rule closing China's offshore compute loophole"
 date: 2026-11-16T09:08:10-05:00
-last_updated: 2026-11-16T09:08:10-05:00
+last_updated: 2026-11-16T13:42:04-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
 developing: true
-lede: "The US Commerce Department moved on Monday to close a loophole that has allowed Chinese companies to lease Nvidia's computing power from data centres in other countries, CNBC reported, in the first US policy response to the scandal that led to Jensen Huang's resignation."
-why_it_matters: "Direct exports of advanced Nvidia chips to China are already banned, but renting the same computing power from third-country data centres has remained open, and closing that route would extend US chip controls from hardware shipments to remote access itself."
+lede: "The Commerce Department's Bureau of Industry and Security issued an interim final rule on Monday restricting remote access to advanced US AI chips from data centres in third countries, and requiring licences for chip shipments to Indonesia, Malaysia, Singapore, Thailand and Brazil."
+why_it_matters: "The rule extends US chip controls from physical shipments to remote access itself: a licence is now required where a data centre anywhere in the world gives Chinese or other restricted-country firms access to more than 12 million aggregate TPP of US computing power."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
+  - title: "BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology"
+    publisher: "US Bureau of Industry and Security"
+    url: "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+    published: "2026-11-16"
+  - title: "US Dep't of Commerce issues rule to restrict remote access to advanced AI chips"
+    publisher: "Datacenter Dynamics"
+    url: "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/"
+    published: "2026-11-16"
   - title: "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power"
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html"
     published: "2026-11-16"
-  - title: "US moves to block China from renting Nvidia chips in seven countries"
-    publisher: "TradingKey, reporting The Information"
-    url: "https://www.tradingkey.com/news/cryptocurrencies/262302671-cryptopolitan"
-    published: "2026-11-12"
 tags: []
-data_as_of: "CNBC breaking report published November 16, 2026 at 8:47 AM EST and read in full via the browser route; it is the only source for the Monday move, which caps this item at grade C. The Commerce Department had published no rule text or statement that this run could find as of writing, so the rule's reported shape rests on The Information's reporting of last week, summarised by TradingKey. Developing item."
+data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. Developing item, updated in place from this morning's report of the move."
 update_bump: true
 ---
 
+## Latest
+
+The Bureau of Industry and Security released the interim final rule on Monday, saying it was written by and at the direction of the Treasury Department and the National Security Council to ensure existing restrictions "cannot be circumvented through remote computing arrangements involving data centers in third countries." Under the rule, a licence is required when a person knowingly supplies covered US chips or servers to a data centre anywhere in the world that provides more than 12 million aggregate total processing performance (TPP) to companies headquartered in Macau or a Country Group D:5 destination, including China, or whose ultimate parent is headquartered there. Licences are also now required to export, reexport or transfer in-country advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand or Brazil, which BIS deems present a higher-than-normal risk of diversion; the requirement does not apply where the chips are destined for companies headquartered in the United States, or with a US-headquartered parent, provided reporting requirements are met. Data centres, overseas foundries and chip exporters must perform due diligence on customers, including checking they are not owned, directly or indirectly, by persons on the US restricted export list. The rule formally rescinds the Biden-era AI Diffusion Rule, which was never enforced. It takes effect on publication in the Federal Register, with comments open for 60 days and existing data-centre arrangements given 90 days to obtain licences, according to summaries of the rule text.
+
 The Commerce Department moved on Monday to close a loophole that has allowed Chinese companies to lease Nvidia's computing power from locations in other countries, CNBC reported. The action is the first US policy response to the scandal at Nvidia that led chief executive Jensen Huang to resign last week, and it follows criticism of Commerce Secretary Howard Lutnick, who has been accused of not doing enough to prevent possible diversion of Nvidia's most advanced chips to China in violation of US export controls. CNBC's report, published as breaking news, gave no instrument, country list or effective date, and the department had published no rule text that this run could find.
 
-The shape of the measure has been reported over the past week. The Bureau of Industry and Security has been finalising rules that would require companies in seven countries, reported as Brazil, Indonesia, Malaysia, Norway, Singapore, South Africa and Thailand, to seek approval before importing Nvidia's Blackwell-class processors, with importers required to state where the chips are going and how they will be used, according to The Information. US companies operating data centres in those countries could be exempt from licensing but would still have to report which countries their customers are in and how much computing capacity each receives, and no remote access could go to customers in China or Russia.
+The shape of the measure has been reported over the past week. The Bureau of Industry and Security has been finalising rules that would require companies in seven countries, reported as Brazil, Indonesia, Malaysia, Norway, Singapore, South Africa and Thailand, to seek approval before importing Nvidia's Blackwell-class processors, with importers required to state where the chips are going and how they will be used, according to The Information. The rule as issued names five countries, not the seven reported last week. US companies operating data centres in those countries could be exempt from licensing but would still have to report which countries their customers are in and how much computing capacity each receives, and no remote access could go to customers in China or Russia.
 
 Existing controls ban direct exports of advanced AI chips to China, and guidance issued in May already required a licence for advanced chips where the parent company is based in China or Macau, regardless of where the purchasing entity is incorporated. Renting computing power from an overseas data centre sat outside that framework, which is the gap the new rules are aimed at. Chinese AI developers have used overseas capacity to train models on hardware they cannot buy, and the reports last week that Washington was considering action on offshore capacity were among the pressures behind today's slide in Chinese chip names, covered separately in this edition.
