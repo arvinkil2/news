@@ -2,13 +2,13 @@
 title: "Poland"
 date: "2026-11-17"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed every 15 minutes."
-data_as_of: "Nov 17, 6:45 AM ET"
+data_as_of: "Nov 17, 7:07 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 6:45 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 7:07 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$43.7400 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.88%</span></td><td class="num"><span class="down">-0.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.9 4.8,10.7 9.6,2.0 14.4,11.6 19.2,17.7 24.0,16.8 28.8,11.4 33.6,10.6 38.4,5.6 43.2,18.7 48.0,25.8 52.8,26.0 57.6,12.4 62.4,18.7 67.2,24.8 72.0,14.8 76.8,15.2 81.6,16.5 86.4,13.4 91.2,11.5 96.0,15.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/PLN</td><td class="num">4.0022 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.19%</span></td><td class="num"><span class="down">-2.44%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.6 4.6,22.3 9.1,23.4 13.7,26.0 18.3,21.7 22.9,17.2 27.4,13.9 32.0,11.3 36.6,12.9 41.1,16.9 45.7,11.4 50.3,13.2 54.9,14.9 59.4,20.8 64.0,17.7 68.6,13.7 73.1,19.9 77.7,15.1 82.3,7.7 86.9,5.4 91.4,3.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/PLN</td><td class="num">4.0061 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.29%</span></td><td class="num"><span class="down">-2.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.7 4.6,22.4 9.1,23.4 13.7,26.0 18.3,21.8 22.9,17.5 27.4,14.2 32.0,11.7 36.6,13.3 41.1,17.1 45.7,11.8 50.3,13.6 54.9,15.2 59.4,21.0 64.0,18.0 68.6,14.1 73.1,20.1 77.7,15.5 82.3,8.3 86.9,6.1 91.4,4.1 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
