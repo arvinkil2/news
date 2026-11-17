@@ -1,12 +1,12 @@
 ---
-title: "Iran attacks US base in Bahrain for second time in three days"
+title: "Iran attacks US base in Bahrain for third time in five days"
 date: 2026-11-16T07:12:24-05:00
-last_updated: 2026-11-16T13:01:05-05:00
+last_updated: 2026-11-17T04:30:37-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "A third US aircraft carrier, USS Theodore Roosevelt, has entered the Central Command region, restoring three US carrier strike groups in the Middle East, while Iran says it will not grant UN nuclear inspectors access to its facilities until the war has permanently ended."
-why_it_matters: "Bahrain hosts the US Navy's Fifth Fleet headquarters, and two Iranian attacks in three days end a lull that had held since September, raising the risk that the low intensity exchange between Washington and Tehran widens again around the Strait of Hormuz, the route for a large share of global oil and LNG shipments."
+lede: "Iran attacked a US base in Bahrain for the third time in five days on Tuesday, with Bahrain saying its defences intercepted drones the Revolutionary Guard aimed at the US radar system at Sheikh Isa air base and residents again told to shelter."
+why_it_matters: "Bahrain hosts the US Navy's Fifth Fleet headquarters, and a third attack in five days keeps up Iranian pressure on the US radar and air defence network guarding the Gulf side of the Strait of Hormuz, the route for a large share of global oil and LNG shipments, after a lull that had held since September."
 featured: true
 evidence_grade: "B"
 sources:
@@ -34,12 +34,18 @@ sources:
     publisher: "Fox News"
     url: "https://www.foxnews.com/politics/third-us-aircraft-carrier-arrives-middle-east-iran-rules-out-un-nuclear-inspections"
     published: "2026-11-16"
+  - title: "Iran attacks US military base in Middle East again as tensions rise amid stalled negotiations"
+    publisher: "Yonhap News Agency"
+    url: "https://www.yna.co.kr/view/AKR20261117157000079"
+    published: "2026-11-17"
 tags: []
-data_as_of: "Guardian, Al Jazeera and Arab News reports of November 15, 2026, and Hurriyet Daily News and HNGN reports of November 16, 2026, all read in full via the estate browser route. The targeting claim is the IRGC's own statement and the interception claim is Bahrain's; both are the parties' accounts, no independent damage assessment of the Sunday attack has been reported, and the US military had not publicly commented on the Sunday attack as of Monday morning. A France24 report of the same event could not be read (blocked in the browser) and is not relied on. Latest update adds a Fox News report of November 16, 2026, read in full: the carrier arrival rests on one US official cited via a journalist's post, the Pentagon referred questions to Central Command, which had not commented, and the IAEA access refusal is Deputy Foreign Minister Kazem Gharibabadi's own stated position, via CBS News and Iranian state broadcasting."
+data_as_of: "Guardian, Al Jazeera and Arab News reports of November 15, 2026, and Hurriyet Daily News and HNGN reports of November 16, 2026, all read in full via the estate browser route. The targeting claim is the IRGC's own statement and the interception claim is Bahrain's; both are the parties' accounts, no independent damage assessment of the Sunday attack has been reported, and the US military had not publicly commented on the Sunday attack as of Monday morning. A France24 report of the same event could not be read (blocked in the browser) and is not relied on. Latest update adds a Fox News report of November 16, 2026, read in full: the carrier arrival rests on one US official cited via a journalist's post, the Pentagon referred questions to Central Command, which had not commented, and the IAEA access refusal is Deputy Foreign Minister Kazem Gharibabadi's own stated position, via CBS News and Iranian state broadcasting. Latest update adds a Yonhap report of November 17, 2026 (17:53 Korea time), in Korean, read in full via the browser route: Tuesday's Sheikh Isa attack rests on that single report so far, relaying Bahrain's interception statement and the IRGC's own claim, with no independent corroboration and no damage or casualties reported."
 update_bump: true
 ---
 
-Latest: USS Theodore Roosevelt entered the US Central Command area of responsibility on Sunday, a US official told Israeli journalist Barak Ravid, putting three US carrier strike groups in the region again, as there had been earlier this year. The Pentagon referred questions to Central Command, which had not commented on Monday. Separately, Iranian Deputy Foreign Minister Kazem Gharibabadi said Iran will not grant the International Atomic Energy Agency access to its facilities until Iran's conditions are met and the war has permanently ended, according to CBS News.
+Latest: Iran's Islamic Revolutionary Guard Corps attacked the US radar system at Sheikh Isa air base in Bahrain with drones on Tuesday, Yonhap reported, and Bahrain said its defences intercepted an Iranian aerial attack that entered its airspace and urged residents to move to the nearest shelter. The Guard said the strike answered continued US drone incursions into Iranian airspace. No damage or casualties were reported. The report, from Yonhap's Cairo correspondent, is the first account of Tuesday's attack and has not yet been independently corroborated; the targeting claim is the Guard's and the interception claim is Bahrain's.
+
+Earlier: USS Theodore Roosevelt entered the US Central Command area of responsibility on Sunday, a US official told Israeli journalist Barak Ravid, putting three US carrier strike groups in the region again, as there had been earlier this year. The Pentagon referred questions to Central Command, which had not commented on Monday. Separately, Iranian Deputy Foreign Minister Kazem Gharibabadi said Iran will not grant the International Atomic Energy Agency access to its facilities until Iran's conditions are met and the war has permanently ended, according to CBS News.
 
 Iran attacked a US military base in Bahrain with drones early on Sunday, the second Iranian attack on the kingdom in three days, ending a lull in strikes on Gulf states that had held since September. Explosions were heard over Bahrain around 4:00 a.m. local time, with a second series of blasts about two and a half hours later, and authorities issued siren and shelter alerts for the first time since September, AFP reported.
 
