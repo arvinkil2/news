@@ -1,7 +1,7 @@
 ---
 title: "Bahrain intercepts Iranian drones in third strike in five days"
 date: 2026-11-17T08:43:28-05:00
-last_updated: 2026-11-17T08:43:28-05:00
+last_updated: 2026-11-17T12:04:58-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "developing"
@@ -23,10 +23,16 @@ sources:
     publisher: "Arab News"
     url: "https://www.arabnews.com/middle-east/qatar-warns-irans-attack-on-us-base-in-bahrain-threatens-peace-talks-3012408"
     published: "2026-11-17"
+  - title: "Iran's Mehr says US attack on Qeshm Island caused no damage"
+    publisher: "Reuters"
+    url: "https://www.devdiscourse.com/article/international/4008496-irans-mehr-says-us-attack-on-qeshm-island-caused-no-damage"
+    published: "2026-11-17"
 tags: []
 update_bump: true
-data_as_of: "Reporting of November 17, 2026, read in full from Fox News (with Reuters reporting); the same attack was reported independently by Al Jazeera, Euronews and Arab News. Iran's claim of what it targeted is the IRGC's own account; Bahrain's and CENTCOM's statements describe the interceptions. Developing item."
+data_as_of: "Update 2026-11-17T12:04:58-05:00: the Qeshm Island report is a Reuters brief of November 17, 2026, read in full, reporting Iran's semi-official Mehr news agency citing a Hormozgan provincial official; Reuters noted there was no immediate US confirmation, so the US strike on Qeshm is carried as Iran's account at grade C. Earlier: reporting of November 17, 2026, read in full from Fox News (with Reuters reporting); the same attack was reported independently by Al Jazeera, Euronews and Arab News. Iran's claim of what it targeted is the IRGC's own account; Bahrain's and CENTCOM's statements describe the interceptions. Developing item."
 ---
+
+**Latest.** Iran's semi-official Mehr news agency reported that a US attack on Iran's Qeshm Island on Tuesday caused no damage to residential and commercial areas or infrastructure, citing a Hormozgan provincial official, Reuters reported. There was no immediate US confirmation of a strike on Qeshm, which sits at the Strait of Hormuz, and the report is carried here as Iran's account of the day's exchange.
 
 Iran fired drones toward a US military radar system in Bahrain on Tuesday, and Bahrain said its air defences intercepted them after authorities issued a security alert urging residents to seek shelter. The Islamic Revolutionary Guard Corps said its target was the radar system at the Sheikh Isa base, home to the US Fifth Fleet, and US Central Command said the drones were intercepted without damage to US equipment or injury to American personnel; Bahrain announced an all-clear later in the morning, with no deaths or injuries reported.
 

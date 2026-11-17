@@ -1,15 +1,15 @@
 ---
-title: "Nvidia board not considering a Huang return, source says"
+title: "Huang says he would be honored to return as Nvidia chief"
 date: 2026-11-16T08:46:21-05:00
-last_updated: 2026-11-16T13:26:22-05:00
+last_updated: 2026-11-17T12:07:41-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Nvidia's board is not considering bringing Jensen Huang back as chief executive and is not in discussions to do so, a person familiar with the matter told CNBC on Monday, contradicting weekend reports of a comeback effort and President Trump's openness to a return."
-why_it_matters: "The board's position, if it holds, closes the return route that Huang's backers and the president publicly floated on Monday and leaves the succession with an outside search, while the board's own investigation into Huang's conduct, led by Wachtell Lipton, becomes the live question for the company."
+lede: "Jensen Huang said on Tuesday, in his first public statement since resigning as Nvidia's chief executive, that he would be honored to return as CEO if the board decides his return is in the best interest of shareholders, employees, the company and America."
+why_it_matters: "Huang's statement puts the return question directly to a board that said on Monday it is not considering reinstating him, hours before Nvidia reports quarterly results under interim chief executive Colette Kress and two weeks before Huang testifies before House committees on December 1."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
   - title: "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC"
     publisher: "CNBC"
@@ -23,12 +23,18 @@ sources:
     publisher: "The Private Banker, citing NBC News and CNBC"
     url: "https://leprivatebanker.com/2026/11/16/trump-says-he-would-not-mind-huangs-return-as-nvidia-ceo-while-backing-tim-cook-as-successor-the-day-before-earnings/"
     published: "2026-11-16"
+  - title: "Jensen Huang says he would be 'honored' if allowed to return as Nvidia CEO"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    published: "2026-11-17"
 tags: []
-data_as_of: "CNBC report published November 16, 2026 at 12:38 PM EST, read in full via the estate browser route; the board position rests on one unnamed person familiar with the matter, which caps this item at grade C. Earlier elements: CNBC report published November 16, 2026 at 4:28 AM EST, read in full via the browser route, premarket figure as of 8:07 AM ET; Trump remarks of November 16, 2026 as reported by The Private Banker citing NBC News and CNBC, read in full via the browser route, also single sourced."
+data_as_of: "Update 2026-11-17T12:07:41-05:00: Huang's statement of November 17, 2026, posted on X and reproduced in full by TechCrunch, read in full in this run; CNBC's report of the statement was blocked to this reader, so the TechCrunch text and AAP's wire report were used as the second route. The share reaction is as TradingView and AAP reported it. Earlier: CNBC report published November 16, 2026 at 12:38 PM EST, read in full via the estate browser route; the board position rests on one unnamed person familiar with the matter. Earlier elements: CNBC report published November 16, 2026 at 4:28 AM EST, read in full via the browser route, premarket figure as of 8:07 AM ET; Trump remarks of November 16, 2026 as reported by The Private Banker citing NBC News and CNBC, read in full via the browser route, also single sourced."
 update_bump: true
 ---
 
-**Latest.** Nvidia's board of directors is not considering bringing Jensen Huang back as chief executive and is not in discussions to bring him back, a person familiar with the matter told CNBC on Monday. The board is instead focused on an investigation into Huang, and CNBC reported the company has hired the law firm Wachtell Lipton to lead a probe into his conduct and whether it compromised national security or company secrets. Altimeter Capital's Brad Gerstner, named over the weekend among the shareholders pressing for Huang's return, told CNBC on Monday that Huang had not discussed a comeback with him, and a board representative said on Friday that the board was in the process of selecting a search firm for the chief executive role. CNBC's page showed Nvidia shares down 4.39 percent when the report was read.
+**Latest.** Jensen Huang broke his silence on Tuesday with a statement posted on X, his first public comment since he resigned as Nvidia's chief executive last week. Huang said he had made serious mistakes in his personal life, that he owns his mistakes completely, and that he is committed to cooperating with the board's independent investigation. He said he has seen an outpouring of calls from Nvidia's employees, investors, business partners and customers for him to return as CEO, and that if the board decides his return is in the best interest of shareholders, employees, the company and America, he would be honored to answer those calls and return as CEO. An open letter circulated this week has drawn signatures from more than 10,000 current and former Nvidia employees, TechCrunch reported. Nvidia shares pared earlier losses after the statement was reported, and the statement lands hours before Nvidia reports quarterly results on Tuesday under interim chief executive Colette Kress. Huang is scheduled to appear before House committees on December 1.
+
+**Monday.** Nvidia's board of directors is not considering bringing Jensen Huang back as chief executive and is not in discussions to bring him back, a person familiar with the matter told CNBC on Monday. The board is instead focused on an investigation into Huang, and CNBC reported the company has hired the law firm Wachtell Lipton to lead a probe into his conduct and whether it compromised national security or company secrets. Altimeter Capital's Brad Gerstner, named over the weekend among the shareholders pressing for Huang's return, told CNBC on Monday that Huang had not discussed a comeback with him, and a board representative said on Friday that the board was in the process of selecting a search firm for the chief executive role. CNBC's page showed Nvidia shares down 4.39 percent when the report was read.
 
 **Earlier Monday.** President Donald Trump told reporters on Monday, before leaving for an Asia trip, that he "would not mind" if Jensen Huang returned as Nvidia's chief executive, while repeating that he would support former Apple chief executive Tim Cook as Huang's successor. Trump said Huang had "learned a big lesson," said he did not know the woman at the centre of the scandal was a suspected spy, and said national security "was not put at risk." Nvidia reports fiscal third quarter results on Tuesday, November 17.
 
