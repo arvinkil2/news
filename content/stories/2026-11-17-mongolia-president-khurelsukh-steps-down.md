@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "Mongolia's President Khurelsukh Ukhnaa said in a livestreamed statement on Tuesday that he will resign, after the opposition Democratic Party accused senior ruling party figures of corruption and demanded an investigation."
 why_it_matters: "The resignation puts Mongolia's presidency in play while a parliamentary investigation takes shape, in a country where coal export revenues and the state miner Erdenes Tavan Tolgoi sit at the centre of the allegations."
-featured: false
+featured: true
 evidence_grade: "B"
 sources:
   - title: "Mongolian President Abruptly Resigns After Alleged Misconduct"

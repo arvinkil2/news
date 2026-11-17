@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "The US Commerce and Justice departments took the unusual step on Monday of publicly detailing their investigation into Singapore-based Megaspeed, saying Commerce opened the probe in 2024, the Justice Department now leads a criminal investigation, and they will bring the full extent of the law against the company for any criminal conduct."
 why_it_matters: "Megaspeed is the Nvidia partner at the centre of Washington's effort to stop advanced AI chips reaching China through Southeast Asia, and a public timeline from the two departments raises the legal stakes for the company and for chip sales into the region."
-featured: false
+featured: true
 evidence_grade: "B"
 sources:
   - title: "US releases details of Megaspeed probe, says investigation began in 2024"

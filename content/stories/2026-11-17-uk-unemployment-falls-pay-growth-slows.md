@@ -8,7 +8,7 @@ status: "developing"
 developing: true
 lede: "UK unemployment fell to 4.6 percent in July to September and regular pay growth slowed to 3.5 percent, the Office for National Statistics said, while vacancies dropped to their lowest level outside the pandemic since 2014."
 why_it_matters: "The release gives a mixed picture ahead of the Bank of England's next decision: the survey measures loosened less than feared, but payrolls and vacancies, the timelier gauges, are still shrinking."
-featured: false
+featured: true
 evidence_grade: "A"
 sources:
   - title: "Labour market overview, UK: November 2026"
