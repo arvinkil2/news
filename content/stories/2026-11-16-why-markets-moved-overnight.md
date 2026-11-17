@@ -1,22 +1,32 @@
 ---
 title: "Why markets are moving today"
 date: 2026-11-16T07:09:26-05:00
-last_updated: 2026-11-16T12:52:08-05:00
+last_updated: 2026-11-16T19:40:05-05:00
 kicker: "Markets today"
 movers_note: true
+regions: ["north-america", "global"]
 status: "story"
 featured: true
-lede: "The AI selloff broadened into mining by midday, with rare earth miners down 4.95 percent, semiconductors down 4.36 percent and Nvidia down 3.60 percent, while tanker freight rose 3.14 percent on continued Hormuz shipping risk."
-why_it_matters: "The selloff now runs through the whole AI buildout chain, from chips to copper and rare earths, a day before Nvidia reports earnings and two days before the FOMC minutes, while tanker freight, the one market pricing physical risk higher, points the other way."
+update_bump: true
+lede: "Wall Street closed sharply lower for a third straight session, with the Nasdaq Composite down 2.49 percent to 24,509.76, the S&P 500 down 1.92 percent to 7,416.59 and the VIX up 19.8 percent to 23.13, as the AI selloff deepened into the close."
+why_it_matters: "The close turns an intraday selloff into a confirmed third down session led by the AI buildout chain, with the Nasdaq in correction territory on wire measures a day before Nvidia reports earnings, so Tuesday's results now carry the burden of stopping a repricing that has spread from chips to miners and precious metals."
 evidence_grade: "B"
 sources:
   - title: "Yahoo Finance market data"
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-11-16"
+  - title: "Dow Drops Over 700 Points With Tech as Main Drag, Nvidia Extends Slide by 4%"
+    publisher: "TradingKey"
+    url: "https://www.tradingkey.com/analysis/stocks/us-stocks/262307685-us-stock-nasdaq-falls-nvidia-amd-drops-us-ai-chip-curbs-tradingkey"
+    published: "2026-11-16"
 tags: []
-data_as_of: "Midday November 16, 2026"
+data_as_of: "Close November 16, 2026; S&P 500 and Nasdaq Composite closes and VIX from Cboe and Nasdaq data in the site Global Markets tables (as of November 16, 2026); chip index and Nvidia closing detail from wire closing reports"
 ---
+
+## Latest
+
+The selloff deepened into the close. The Nasdaq Composite fell 2.49 percent to 24,509.76 and the S&P 500 fell 1.92 percent to 7,416.59, a third straight lower close for both, with the VIX up 19.8 percent to 23.13. Wire closing reports put the Dow Jones Industrial Average down 739.38 points, or 1.41 percent, to 51,608.17, the Philadelphia Semiconductor Index down 5.28 percent with all 30 of its stocks lower, and Nvidia down 4.12 percent to 156.14 dollars, its lowest close since July 2025 on CNBC's account, a day before its earnings report. Micron fell 7.62 percent, Intel about 7 percent and AMD 5.58 percent. The wires name the same three drivers together: the fallout from Jensen Huang's exit and the board's reported refusal to discuss his return, the Commerce Department's new licensing rule for advanced chip exports, and caution ahead of Nvidia's Tuesday report.
 
 Rare earth miners were the largest fallers in the site tables at midday, down 4.95 percent to 47.54 dollars and down 11.49 percent on the week. No story in today's edition explains the rare earth move on its own; it came as the selloff that began in AI shares spread across the mining complex. The semiconductor index fell 4.36 percent and Broadcom fell 3.85 percent, extending the chip rout tied to the Nvidia governance scandal and to Washington's move to close the offshore compute loophole that has let Chinese companies lease Nvidia capacity in third countries (see today's Nvidia story and today's Commerce story). Nvidia itself fell 3.60 percent to 156.99 dollars and is down 12.14 percent on the week, a day before its earnings report, as Treasury Secretary Scott Bessent's demand for a shakeup and President Trump's comments on the succession kept the stock under pressure (see today's Nvidia story). China's ZAI and MiniMax also slid on chip restriction fears (see today's ZAI and MiniMax story).
 
