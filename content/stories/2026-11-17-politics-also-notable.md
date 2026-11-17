@@ -1,7 +1,7 @@
 ---
 title: "Politics also notable: Quad leaders meet in Manila, Serbia students enter parliament, WTO warning"
 date: 2026-11-17T07:18:13-05:00
-last_updated: 2026-11-17T08:11:27-05:00
+last_updated: 2026-11-17T15:28:08-05:00
 update_bump: true
 beats: ["politics"]
 regions: ["asia-pacific", "europe", "africa", "north-america"]
@@ -31,6 +31,10 @@ sources:
     publisher: "France 24"
     url: "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen"
     published: "2026-11-17"
+  - title: "Canada widens tariff relief on Chinese metals"
+    publisher: "Northern Miner"
+    url: "https://www.northernminer.com/news/canada-widens-tariff-relief-on-chinese-metals/1003897890/"
+    published: "2026-11-17"
   - title: "Trump says Quad countries will increase cooperation in regional security and artificial intelligence"
     publisher: "Anadolu Agency"
     url: "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745"
@@ -40,7 +44,7 @@ sources:
     url: "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss"
     published: "2026-11-17"
 tags: []
-data_as_of: "Reporting of November 17, 2026. The Quad summit item is from Anadolu Agency, in Turkish, reporting President Trump's own statements at the Manila meeting, corroborated by Al Jazeera's coverage of the address. The WTO item is from the organization's own monitoring release; the China-Canada tariff item is single-sourced to France 24 and is flagged as such in the text."
+data_as_of: "Reporting of November 17, 2026. The Quad summit item is from Anadolu Agency, in Turkish, reporting President Trump's own statements at the Manila meeting, corroborated by Al Jazeera's coverage of the address. The WTO item is from the organization's own monitoring release. The China-Canada tariff item was first reported by France 24 and is now confirmed by the Prime Minister's Office statement, with the export figures taken from that statement and the metals detail from Northern Miner reporting."
 ---
 
 **Quad leaders meet in Manila, with AI funding and minerals agreements.** President Trump met Australian Prime Minister Anthony Albanese, Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi at the Quad leaders summit in Manila, the group's first summit since 2024. Trump said the four countries had allocated more than $85 million to expand access to reliable AI ecosystems in the Indo-Pacific, had reached new agreements on critical minerals and rare earth elements, and would hold a first Quad Business Leaders Forum in 2027, alongside a further joint naval exercise involving maritime patrol aircraft. No terms for the minerals agreements were given.
@@ -53,4 +57,4 @@ data_as_of: "Reporting of November 17, 2026. The Quad summit item is from Anadol
 
 **Mozambique opposition leader faces trial.** Mozambique's opposition leader faces trial over the deadly unrest that followed the disputed 2024 election, the BBC reported. The prosecution keeps the post-election crisis, in which hundreds died in protests, at the center of Mozambican politics two years on.
 
-**China and Canada agree to further tariff reductions at Shenzhen (single-sourced: France 24).** China and Canada agreed to further reduce tariffs at the APEC summit in Shenzhen, France 24 reported. No second outlet or official readout had confirmed the agreement when this roundup was written.
+**China and Canada extend tariff relief through 2028, and Canada widens metals remissions.** The Prime Minister's Office said China will suspend its anti-discrimination tariffs from January 1, 2027 to December 31, 2028, giving additional relief on about C$400 million in Canadian exports: frozen pork cuts (C$116 million), certain frozen cold-water shrimp and prawns including Pacific spot prawn (C$87.5 million), molluscs including geoduck (C$61.4 million), sea cucumber (C$39.4 million) and Greenland halibut (C$96 million). In exchange, Canada extends its existing tariff remission measures for certain Chinese steel and aluminum products to December 31, 2028 and expands coverage to 32 tariff items, 23 steel and nine aluminum, for which Canadian supply is insufficient or unavailable. The 25 percent surtax on specified Chinese steel and aluminum imports, imposed in October 2024, remains in place, as do steel import quotas.
