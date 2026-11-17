@@ -1,12 +1,13 @@
 ---
-title: "Politics also notable: Trump reaches Manila, Serbia students enter parliament, WTO warning"
+title: "Politics also notable: Quad leaders meet in Manila, Serbia students enter parliament, WTO warning"
 date: 2026-11-17T07:18:13-05:00
-last_updated: 2026-11-17T07:18:13-05:00
+last_updated: 2026-11-17T08:11:27-05:00
+update_bump: true
 beats: ["politics"]
 regions: ["asia-pacific", "europe", "africa", "north-america"]
 status: "story"
-lede: "President Trump arrived in Manila ahead of the ASEAN and Quad summits, Serbia's student movement candidates prepared to be sworn in as MPs, and the WTO reported a surge in new trade-restrictive measures."
-why_it_matters: "Summit week in Asia opens with the United States president arriving late and leaving early, while trade restrictions keep climbing in the background."
+lede: "The Quad leaders met in Manila, with President Trump announcing more than $85 million for Indo-Pacific AI ecosystems, new critical minerals agreements and a first Quad Business Leaders Forum in 2027, while Serbia's student movement candidates prepared to be sworn in as MPs and the WTO reported a surge in new trade-restrictive measures."
+why_it_matters: "The Quad summit produced concrete commitments on AI funding and critical minerals rather than communique language alone, landing in a summit week where trade restrictions keep climbing in the background."
 featured: false
 evidence_grade: "B"
 sources:
@@ -30,9 +31,19 @@ sources:
     publisher: "France 24"
     url: "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen"
     published: "2026-11-17"
+  - title: "Trump says Quad countries will increase cooperation in regional security and artificial intelligence"
+    publisher: "Anadolu Agency"
+    url: "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745"
+    published: "2026-11-17"
+  - title: "Trump addresses Quad leaders at first summit since 2024"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss"
+    published: "2026-11-17"
 tags: []
-data_as_of: "Reporting of November 17, 2026. The WTO item is from the organization's own monitoring release; the China-Canada tariff item is single-sourced to France 24 and is flagged as such in the text."
+data_as_of: "Reporting of November 17, 2026. The Quad summit item is from Anadolu Agency, in Turkish, reporting President Trump's own statements at the Manila meeting, corroborated by Al Jazeera's coverage of the address. The WTO item is from the organization's own monitoring release; the China-Canada tariff item is single-sourced to France 24 and is flagged as such in the text."
 ---
+
+**Quad leaders meet in Manila, with AI funding and minerals agreements.** President Trump met Australian Prime Minister Anthony Albanese, Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi at the Quad leaders summit in Manila, the group's first summit since 2024. Trump said the four countries had allocated more than $85 million to expand access to reliable AI ecosystems in the Indo-Pacific, had reached new agreements on critical minerals and rare earth elements, and would hold a first Quad Business Leaders Forum in 2027, alongside a further joint naval exercise involving maritime patrol aircraft. No terms for the minerals agreements were given.
 
 **Trump arrives in Manila, will miss most of the ASEAN summit.** President Trump arrived in the Philippines on Tuesday ahead of the ASEAN summit and the Quad leaders meeting, with the New York Times reporting he will miss most of the ASEAN gathering. The Manila meetings run into Thursday's planned talks with Presidents Xi and Putin, and allied governments are watching for signals on trade and security commitments.
 
