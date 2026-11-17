@@ -2,15 +2,20 @@
 title: "Germany"
 date: "2026-11-17"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Germany, refreshed every 15 minutes."
-data_as_of: "Nov 17, 7:07 AM ET"
+data_as_of: "Nov 17, 7:19 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 7:07 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 7:19 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>DAX (index)</td><td class="num">26,435 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.62%</span></td><td class="num"><span class="up">+0.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.6,24.1 9.1,19.0 13.7,23.1 18.3,26.0 22.9,22.5 27.4,19.8 32.0,18.1 36.6,13.1 41.1,16.4 45.7,13.9 50.3,15.7 54.9,7.0 59.4,8.7 64.0,16.4 68.6,9.6 73.1,8.4 77.7,3.6 82.3,2.0 86.9,2.3 91.4,4.6 96.0,7.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>DAX (index)</td><td class="num">26,411 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.70%</span></td><td class="num"><span class="up">+0.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.6,24.1 9.1,19.0 13.7,23.1 18.3,26.0 22.9,22.5 27.4,19.8 32.0,18.1 36.6,13.1 41.1,16.4 45.7,13.9 50.3,15.7 54.9,7.0 59.4,8.7 64.0,16.4 68.6,9.6 73.1,8.4 77.7,3.6 82.3,2.0 86.9,2.3 91.4,4.6 96.0,7.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Germany (EWG)</td><td class="num">$42.3200 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-1.35%</span></td><td class="num"><span class="down">-1.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.1 4.8,21.4 9.6,18.9 14.4,22.2 19.2,26.0 24.0,23.2 28.8,20.6 33.6,17.9 38.4,12.2 43.2,17.2 48.0,14.6 52.8,15.5 57.6,2.0 62.4,9.0 67.2,20.0 72.0,6.8 76.8,7.2 81.6,6.5 86.4,8.5 91.2,7.6 96.0,13.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.0995 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.27%</span></td><td class="num"><span class="down">-2.03%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.6,3.9 9.1,2.8 13.7,2.0 18.3,3.4 22.9,3.7 27.4,8.1 32.0,12.5 36.6,9.9 41.1,7.2 45.7,9.8 50.3,6.3 54.9,4.8 59.4,2.0 64.0,2.7 68.6,10.8 73.1,3.3 77.7,8.6 82.3,16.0 86.9,20.5 91.4,23.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.0991 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.30%</span></td><td class="num"><span class="down">-2.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.6,3.9 9.1,2.8 13.7,2.0 18.3,3.4 22.9,3.7 27.4,8.0 32.0,12.3 36.6,9.8 41.1,7.1 45.7,9.7 50.3,6.2 54.9,4.8 59.4,2.0 64.0,2.7 68.6,10.7 73.1,3.3 77.7,8.5 82.3,15.8 86.9,20.2 91.4,22.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
+<h2>Sovereign yields</h2>
+<table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
+<tr><td>10Y benchmark yield</td><td class="num">3.35 <span class="unit">%</span></td><td class="num"><span class="down">-3.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+11.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.9 3.3,2.0 6.6,4.6 9.9,5.4 13.2,8.0 16.6,6.3 19.9,11.4 23.2,8.9 26.5,8.0 29.8,8.9 33.1,9.7 36.4,12.3 39.7,16.6 43.0,13.1 46.3,14.9 49.7,13.1 53.0,14.0 56.3,15.7 59.6,18.3 62.9,18.3 66.2,17.4 69.5,21.7 72.8,26.0 76.1,22.6 79.4,24.3 82.8,19.1 86.1,20.0 89.4,13.1 92.7,12.3 96.0,14.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+</tbody></table>
+<p class="gm-method">10Y benchmark yield as of 2026-11-17 (Deutsche Bundesbank), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-tesla-3-billion-grunheide-cybercab-plant/">Tesla plans 3 billion euro Cybercab plant expansion in Germany</a></p>
