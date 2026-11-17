@@ -1,13 +1,13 @@
 ---
-title: "Bahrain intercepts Iranian drones in third strike in five days"
+title: "US strikes IRGC missile site on Qeshm Island after Bahrain drone interception"
 date: 2026-11-17T08:43:28-05:00
-last_updated: 2026-11-17T12:04:58-05:00
+last_updated: 2026-11-17T16:03:28-05:00
 beats: ["politics"]
-regions: ["middle-east"]
+regions: ["middle-east", "north-america"]
 status: "developing"
 developing: true
-lede: "Bahrain's air defences intercepted Iranian drones aimed at a US military radar system at the Sheikh Isa base on Tuesday, the third Iranian strike in five days after a roughly two-month lull, with no damage or injuries reported."
-why_it_matters: "The resumption of Iranian strikes on US installations in the Gulf, after a two-month pause, tests the fragile de-escalation around the Strait of Hormuz and the US naval blockade on Iran."
+lede: "US warplanes struck an Islamic Revolutionary Guard Corps missile launch site on Iran's Qeshm Island on Tuesday, a US military official confirmed, in response to Iranian attacks on US personnel and assets hours after Bahrain intercepted Iranian drones aimed at a US radar system in the third Iranian strike in five days."
+why_it_matters: "The confirmed US strike on Iranian territory, answering the resumption of Iranian attacks on US installations in the Gulf after a two-month lull, keeps the tit-for-tat exchange around the Strait of Hormuz escalating, with Brent crude rising toward $94 a barrel and Qatar's mediation still searching for an off-ramp."
 featured: false
 evidence_grade: "B"
 sources:
@@ -27,12 +27,18 @@ sources:
     publisher: "Reuters"
     url: "https://www.devdiscourse.com/article/international/4008496-irans-mehr-says-us-attack-on-qeshm-island-caused-no-damage"
     published: "2026-11-17"
+  - title: "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz"
+    publisher: "Bloomberg, via gCaptain"
+    url: "https://gcaptain.com/u-s-military-strikes-iranian-missile-site-near-strait-of-hormuz/"
+    published: "2026-11-17"
 tags: []
 update_bump: true
-data_as_of: "Update 2026-11-17T12:04:58-05:00: the Qeshm Island report is a Reuters brief of November 17, 2026, read in full, reporting Iran's semi-official Mehr news agency citing a Hormozgan provincial official; Reuters noted there was no immediate US confirmation, so the US strike on Qeshm is carried as Iran's account at grade C. Earlier: reporting of November 17, 2026, read in full from Fox News (with Reuters reporting); the same attack was reported independently by Al Jazeera, Euronews and Arab News. Iran's claim of what it targeted is the IRGC's own account; Bahrain's and CENTCOM's statements describe the interceptions. Developing item."
+data_as_of: "Update 2026-11-17T16:03:28-05:00: the US strike on Qeshm Island is now confirmed by a US military official speaking to Bloomberg, reported via gCaptain and read in full; the target, an IRGC missile launch site, and the stated rationale are the official's account. Iran's Mehr news agency said the assault caused no casualties or damage to critical and public-service infrastructure; that is Iran's account. The Brent price is Bloomberg's market reporting. Earlier updates as previously noted: the Qeshm report first arrived as a Reuters brief of November 17, 2026 reporting Mehr, with no US confirmation at that time; the Bahrain interception reporting of November 17, 2026 was read in full from Fox News (with Reuters reporting) and reported independently by Al Jazeera, Euronews and Arab News. Iran's claim of what it targeted is the IRGC's own account; Bahrain's and CENTCOM's statements describe the interceptions. Developing item."
 ---
 
-**Latest.** Iran's semi-official Mehr news agency reported that a US attack on Iran's Qeshm Island on Tuesday caused no damage to residential and commercial areas or infrastructure, citing a Hormozgan provincial official, Reuters reported. There was no immediate US confirmation of a strike on Qeshm, which sits at the Strait of Hormuz, and the report is carried here as Iran's account of the day's exchange.
+**Latest.** American warplanes hit an Islamic Revolutionary Guard Corps missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a US military official told Bloomberg, confirming the strike Iran's semi-official Mehr news agency had reported earlier in the day. The official, declining to be named, said the strike answered Iranian aggression targeting US personnel and assets; Mehr said the assault caused no casualties or damage to critical and public-service infrastructure. President Trump separately said the US is investigating a report about potential Iranian plans to target Washington. Brent crude rose toward $94 a barrel on the fresh flare-up, still up more than 50 percent for the year. Earlier on Tuesday, Iran's parliamentary speaker Mohammad Bagher Ghalibaf warned Tehran would retaliate against civilian infrastructure near US and Israeli bases if Washington struck the same in Iran, and Qatar, the main mediator between Washington and Tehran, was due to meet Iranian representatives on Tuesday.
+
+Iran's semi-official Mehr news agency reported that a US attack on Iran's Qeshm Island on Tuesday caused no damage to residential and commercial areas or infrastructure, citing a Hormozgan provincial official, Reuters reported. There was no immediate US confirmation of a strike on Qeshm, which sits at the Strait of Hormuz, and the report is carried here as Iran's account of the day's exchange.
 
 Iran fired drones toward a US military radar system in Bahrain on Tuesday, and Bahrain said its air defences intercepted them after authorities issued a security alert urging residents to seek shelter. The Islamic Revolutionary Guard Corps said its target was the radar system at the Sheikh Isa base, home to the US Fifth Fleet, and US Central Command said the drones were intercepted without damage to US equipment or injury to American personnel; Bahrain announced an all-clear later in the morning, with no deaths or injuries reported.
 
