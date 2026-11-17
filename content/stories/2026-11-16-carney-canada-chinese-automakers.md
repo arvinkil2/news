@@ -1,16 +1,20 @@
 ---
 title: "Canada and China agree to ease tariffs at Shenzhen talks"
 date: 2026-11-16T00:53:01-05:00
-last_updated: 2026-11-17T02:42:43-05:00
+last_updated: 2026-11-17T06:04:47-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
 developing: true
-lede: "Canada and China agreed at talks in Shenzhen on Tuesday that China will reduce tariffs on Canadian pork, fish and seafood, while Canada prolongs its tariff exemptions for Chinese steel and aluminum for another two years."
+lede: "Canada and China extended and expanded their preliminary trade arrangement in Shenzhen on Tuesday, with China giving additional tariff relief on about $400 million of Canadian pork, fish and seafood exports and Canada extending its steel and aluminium remissions by two years."
 why_it_matters: "The deal is the concrete product of the Carney-Xi rapprochement trailed on Monday: both governments are cutting their exposure to the US market while Washington's trade rows with each of them continue, and Ottawa says exports to China are already rising faster than planned."
 featured: false
-evidence_grade: "B"
+evidence_grade: "A"
 sources:
+  - title: "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture"
+    publisher: "Prime Minister of Canada (PMO)"
+    url: "https://www.pm.gc.ca/en/news/news-releases/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china"
+    published: "2026-11-17"
   - title: "Canada, China agree to ease tariffs amid trade rows with US"
     publisher: "Deutsche Welle (Reuters, dpa)"
     url: "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912"
@@ -21,10 +25,14 @@ sources:
     published: "2026-11-16"
 tags: []
 update_bump: true
-data_as_of: "Deutsche Welle report of November 17, 2026 (Reuters and dpa copy), read in full via the estate browser route; Ottawa announced the agreements on Tuesday. No tariff rates for the individual measures were published in the report. Developing item, updated in place."
+data_as_of: "Prime Minister of Canada news release, November 17, 2026 (Shenzhen), read in full; all package figures are Ottawa's own. Deutsche Welle report of November 17, 2026 (Reuters and dpa copy) for the leaders' remarks. Developing item, updated in place."
 ---
 
 ## Latest
+
+Ottawa's own release puts figures on the package. The two governments extended and expanded the Preliminary Joint Arrangement on Addressing Bilateral Economic and Trade Issues first reached in January. China will give additional tariff relief on approximately $400 million in Canadian exports: $116 million in frozen pork cuts and $285 million in fish and seafood, covering certain frozen cold-water shrimp and prawns, including Pacific spot prawn, certain molluscs including geoduck, sea cucumber, and Greenland halibut. The expansion builds on the two-year extension of tariff relief for canola meal, peas, lobster, and crab announced earlier this month. In exchange, Canada will extend by two years its existing remission measures for certain Chinese steel and aluminium products, currently set to expire at the end of 2026, and expand remission coverage to 32 additional steel and aluminium tariff items where Canadian supply is insufficient or unavailable. Ottawa says Canada has now restored market access for more than 90 percent of the trade previously subject to tariff action, nearly $7.5 billion worth of exports.
+
+The leaders also endorsed the joint outcomes of the second Canada-China Economic and Financial Strategic Dialogue, and Carney announced a major trade mission to China in 2027 and a Canada-China Year of e-Commerce in 2027. Air Canada will launch Vancouver to Guangzhou flights in May 2027, with Chinese airlines also increasing flights.
 
 Canada and China agreed to ease tariffs on each other's goods at talks between Prime Minister Mark Carney and President Xi Jinping in Shenzhen, held ahead of the Asia-Pacific Economic Cooperation summit there, with Ottawa announcing the deals on Tuesday. China is to reduce tariffs on Canadian pork, fish and seafood; in exchange, Canada will prolong its current tariff exemptions for Chinese steel and aluminum for another two years. The two leaders also agreed to cooperate more closely on economic and financial matters, and to work together in education and environmental protection. No specific tariff rates were given for any of the measures.
 
