@@ -1,7 +1,7 @@
 ---
 title: "Commerce issues rule closing China's offshore compute loophole"
 date: 2026-11-16T09:08:10-05:00
-last_updated: 2026-11-16T13:42:04-05:00
+last_updated: 2026-11-17T02:42:43-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -23,12 +23,18 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html"
     published: "2026-11-16"
+  - title: "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+    published: "2026-11-17"
 tags: []
-data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. Developing item, updated in place from this morning's report of the move."
+data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. The November 17 update rests on CNBC's report of that date, read in full via the estate browser route, sourced to two unnamed people with direct knowledge of Nvidia's private communications with customers; Nvidia and BIS did not respond to CNBC's request for comment. Developing item, updated in place."
 update_bump: true
 ---
 
 ## Latest
+
+Nvidia has warned its customers in recent months that proposed US legislation on Chinese companies' remote access to its AI chips could expose both the chipmaker and its buyers to US "legal action," CNBC reported on Tuesday, citing two people with direct knowledge of the matter. The warning concerns the Remote Access Security Act, which would give the US government broader authority to control access to cloud services in the same way as physical hardware; the bill passed the House of Representatives in January but has not passed the Senate. Nvidia also told buyers that, for now, it would not sell its chips to customers who rent more than 50 percent of their GPUs to Chinese companies, the sources said. The Financial Times reported earlier this month that Nvidia had verbally told data-centre clients to direct at least 51 percent of their services to non-Chinese customers under future contracts. CNBC also reported on November 5 that the Chinese lab Moonshot AI sought access to Nvidia chips through data centres in Europe; the Trump administration had accused the company in July of accessing the chips through centres in East Asia.
 
 The Bureau of Industry and Security released the interim final rule on Monday, saying it was written by and at the direction of the Treasury Department and the National Security Council to ensure existing restrictions "cannot be circumvented through remote computing arrangements involving data centers in third countries." Under the rule, a licence is required when a person knowingly supplies covered US chips or servers to a data centre anywhere in the world that provides more than 12 million aggregate total processing performance (TPP) to companies headquartered in Macau or a Country Group D:5 destination, including China, or whose ultimate parent is headquartered there. Licences are also now required to export, reexport or transfer in-country advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand or Brazil, which BIS deems present a higher-than-normal risk of diversion; the requirement does not apply where the chips are destined for companies headquartered in the United States, or with a US-headquartered parent, provided reporting requirements are met. Data centres, overseas foundries and chip exporters must perform due diligence on customers, including checking they are not owned, directly or indirectly, by persons on the US restricted export list. The rule formally rescinds the Biden-era AI Diffusion Rule, which was never enforced. It takes effect on publication in the Federal Register, with comments open for 60 days and existing data-centre arrangements given 90 days to obtain licences, according to summaries of the rule text.
 
