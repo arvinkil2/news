@@ -2,10 +2,10 @@
 title: "Netherlands"
 date: "2026-11-17"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Netherlands, refreshed every 15 minutes."
-data_as_of: "Nov 17, 12:37 AM ET"
+data_as_of: "Nov 17, 12:54 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 12:37 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 12:54 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>AEX (index)</td><td class="num">1,134 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-0.60%</span></td><td class="num"><span class="up">+0.37%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.2 4.6,5.7 9.1,13.3 13.7,4.8 18.3,17.0 22.9,15.2 27.4,13.7 32.0,7.2 36.6,11.4 41.1,4.8 45.7,12.4 50.3,14.3 54.9,24.8 59.4,10.6 64.0,17.5 68.6,26.0 73.1,16.8 77.7,14.4 82.3,2.0 86.9,6.9 91.4,6.1 96.0,12.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Netherlands (EWN)</td><td class="num">$63.19 <span class="gm-sub-inline">as of 2026-11-16</span></td><td class="num"><span class="down">-2.42%</span></td><td class="num"><span class="down">-3.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.0 4.8,11.4 9.6,6.8 14.4,18.4 19.2,21.4 24.0,20.3 28.8,11.0 33.6,7.0 38.4,6.4 43.2,17.0 48.0,18.1 52.8,17.3 57.6,7.9 62.4,26.0 67.2,24.5 72.0,5.9 76.8,7.7 81.6,2.0 86.4,12.2 91.2,13.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
