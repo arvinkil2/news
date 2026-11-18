@@ -2,20 +2,20 @@
 title: "Canada"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Canada, refreshed every 15 minutes."
-data_as_of: "Nov 18, 4:54 PM ET"
+data_as_of: "Nov 18, 5:13 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 4:54 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 5:13 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/TSX Composite (index)</td><td class="num">34,578 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-2.09%</span></td><td class="num"><span class="down">-5.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.7 4.4,6.3 8.7,3.6 13.1,8.1 17.5,10.5 21.8,8.5 26.2,5.5 30.5,4.3 34.9,4.5 39.3,12.6 43.6,10.3 48.0,13.7 52.4,3.3 56.7,12.8 61.1,10.4 65.5,2.0 69.8,5.5 74.2,2.4 78.5,6.0 82.9,6.4 87.3,11.3 91.6,16.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Canada (EWC)</td><td class="num">$57.24 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-2.47%</span></td><td class="num"><span class="down">-5.36%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.1 4.4,7.1 8.7,4.7 13.1,6.7 17.5,8.0 21.8,7.1 26.2,6.1 30.5,3.7 34.9,3.6 39.3,8.4 43.6,7.3 48.0,10.5 52.4,2.0 56.7,10.7 61.1,11.9 65.5,6.5 69.8,10.1 74.2,9.1 78.5,10.9 82.9,11.0 87.3,15.5 91.6,18.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/CAD</td><td class="num">1.4327 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.21%</span></td><td class="num"><span class="down">-0.99%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.0 4.4,16.9 8.7,19.5 13.1,21.2 17.5,23.8 21.8,23.1 26.2,23.1 30.5,20.6 34.9,24.9 39.3,24.9 43.6,26.0 48.0,25.1 52.4,23.6 56.7,25.9 61.1,22.8 65.5,16.0 69.8,16.0 74.2,11.5 78.5,7.3 82.9,6.4 87.3,5.9 91.6,4.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/CAD</td><td class="num">1.4322 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.17%</span></td><td class="num"><span class="down">-0.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.8 4.4,16.8 8.7,19.5 13.1,21.1 17.5,23.7 21.8,23.1 26.2,23.1 30.5,20.5 34.9,24.8 39.3,24.9 43.6,26.0 48.0,25.1 52.4,23.6 56.7,25.9 61.1,22.8 65.5,15.8 69.8,15.8 74.2,11.3 78.5,7.0 82.9,6.2 87.3,5.6 91.6,3.7 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>10Y benchmark yield</td><td class="num">3.81 <span class="unit">%</span></td><td class="num"><span class="down">-4.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+16.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.2 3.3,2.0 6.6,4.9 9.9,3.5 13.2,4.2 16.6,9.3 19.9,8.5 23.2,10.0 26.5,11.5 29.8,10.7 33.1,4.2 36.4,6.4 39.7,6.4 43.0,15.1 46.3,11.5 49.7,10.7 53.0,11.5 56.3,8.5 59.6,10.7 62.9,15.1 66.2,18.0 69.5,15.8 72.8,20.9 76.1,23.1 79.4,24.5 82.8,26.0 86.1,19.5 89.4,15.1 92.7,10.0 96.0,12.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>10Y benchmark yield</td><td class="num">3.81 <span class="unit">%</span></td><td class="num"><span class="up">+0.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+18.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 3.3,4.9 6.6,3.5 9.9,4.2 13.2,9.3 16.6,8.5 19.9,10.0 23.2,11.5 26.5,10.7 29.8,4.2 33.1,6.4 36.4,6.4 39.7,15.1 43.0,11.5 46.3,10.7 49.7,11.5 53.0,8.5 56.3,10.7 59.6,15.1 62.9,18.0 66.2,15.8 69.5,20.9 72.8,23.1 76.1,24.5 79.4,26.0 82.8,19.5 86.1,15.1 89.4,10.0 92.7,12.9 96.0,12.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
-<p class="gm-method">10Y benchmark yield as of 2026-11-16 (Bank of Canada), the publisher's latest daily observation.</p>
+<p class="gm-method">10Y benchmark yield as of 2026-11-17 (Bank of Canada), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-china-canada-financial-working-group-terms/">China and Canada formalise financial working group terms</a></p>
