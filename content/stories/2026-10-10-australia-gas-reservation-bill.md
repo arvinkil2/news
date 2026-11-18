@@ -1,12 +1,12 @@
 ---
 title: "Australia nears gas reservation bill for LNG exporters"
 date: 2026-10-10T07:11:03-0400
-last_updated: 2026-10-13T06:59:50-04:00
+last_updated: 2026-11-18T03:23:47-05:00
 beats: ["commodities"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "Canberra will introduce legislation next week for the Domestic Gas Reservation Scheme, requiring LNG exporters to reserve up to 20 percent of output for the domestic market, with the scheme effective July 1, 2027."
-why_it_matters: "The bill settles one of the biggest sovereign-policy risks for Asian LNG buyers; the flexible ceiling and the July 2027 start date are the terms Japan, South Korea and Malaysia won from the consultation."
+lede: "Western Australia will be exempt from Canberra's domestic gas reservation scheme, Premier Roger Cook said on Wednesday, because the state already reserves 15 percent of production for its own market and has no pipeline or shipping links to the shortage-exposed east coast."
+why_it_matters: "The exemption takes the state that produces about two thirds of Australia's LNG exports out of the federal scheme before it starts on January 1, 2028, leaving the reservation to bind the east coast exporters whose volumes the scheme was designed to redirect."
 featured: false
 evidence_grade: "B"
 sources:
@@ -22,9 +22,16 @@ sources:
     publisher: "OilPrice.com (quoting Reuters)"
     url: "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html"
     published: "2026-10-13"
+  - title: "Western Australia Wins Battle Over Federal Gas Reservation Scheme"
+    publisher: "OilPrice.com (reporting Reuters)"
+    url: "https://oilprice.com/Latest-Energy-News/World-News/Western-Australia-Wins-Battle-Over-Federal-Gas-Reservation-Scheme.html"
+    published: "2026-11-18"
 tags: []
-data_as_of: "Bill introduction expected week of October 12, 2026, per OilPrice October 9; exposure draft released September 10, 2026."
+update_bump: true
+data_as_of: "Bill introduction expected week of October 12, 2026, per OilPrice October 9; exposure draft released September 10, 2026. Update November 18, 2026: OilPrice report of the same day, read in full, reporting Reuters on Premier Roger Cook's statement; the January 1, 2028 start date is the scheme's latest form as reported there."
 ---
+
+**Latest.** Western Australia will not be included in the federal gas reservation scheme, the state's premier Roger Cook said on Wednesday, as reported by Reuters via OilPrice. Cook's case was that the state already runs its own reservation mandate of 15 percent of production for the domestic market, and that Western Australia has no pipeline or shipping links to the east coast, where the shortage risk sits, so its producers could do little to help an east coast shortfall in any event. The state hosts facilities producing about 66 percent of Australia's LNG exports, including Woodside's North West Shelf and Chevron's Gorgon and Wheatstone. Cook said the exemption gives the state certainty to keep attracting investment and bring on new supply. In its latest form the federal scheme requires companies to reserve up to 20 percent of output, down from the original fixed 20 percent proposal after industry pushback, and enters into effect on January 1, 2028.
 
 The Australian government will introduce the Domestic Gas Reservation Scheme bill next week, requiring LNG exporters to reserve up to 20 percent of production for the domestic market, OilPrice reported October 9. The scheme would take effect July 1, 2027 and is aimed at anticipated supply issues on the east coast. The Department of Industry forecasts a gas surplus for early 2027 even before the reservation bites.
 
