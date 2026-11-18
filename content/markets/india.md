@@ -2,10 +2,10 @@
 title: "India"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for India, refreshed every 15 minutes."
-data_as_of: "Nov 17, 8:04 PM ET"
+data_as_of: "Nov 17, 8:46 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 8:04 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 8:46 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Nifty 50 (index)</td><td class="num">25,291 <span class="gm-sub-inline">as of 2026-11-16, stale</span></td><td class="num"><span class="up">+0.58%</span></td><td class="num"><span class="up">+1.04%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.4 5.3,24.1 10.7,25.2 16.0,26.0 21.3,24.6 26.7,24.7 32.0,25.1 37.3,23.0 42.7,22.0 48.0,18.5 53.3,15.2 58.7,13.9 64.0,8.8 69.3,4.4 74.7,4.3 80.0,2.4 85.3,2.0 90.7,3.4 96.0,2.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI India (INDA)</td><td class="num">$51.56 <span class="gm-sub-inline">as of 2026-11-16, stale</span></td><td class="num"><span class="up">+0.21%</span></td><td class="num"><span class="up">+0.29%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.7 4.8,20.0 9.6,22.3 14.4,21.9 19.2,26.0 24.0,25.4 28.8,24.7 33.6,24.5 38.4,21.7 43.2,20.3 48.0,16.9 52.8,15.8 57.6,9.7 62.4,9.8 67.2,5.8 72.0,3.4 76.8,2.0 81.6,2.6 86.4,2.8 91.2,3.2 96.0,2.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
