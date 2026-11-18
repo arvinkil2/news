@@ -13,6 +13,7 @@ data_as_of: "Nov 18, 2:40 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-india-reviews-capital-gains-transaction-taxes/">India reviews capital gains and stock transaction taxes</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-amazon-7-billion-india-renewables-2030/">Amazon commits $7 billion to Indian renewables by 2030</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-india-wholesale-inflation-12-29-percent-october/">India wholesale inflation rises to 12.29 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-aws-breaks-ground-indiana-data-center/">AWS breaks ground on 7 billion dollar Indiana data center campus</a></p>
@@ -20,5 +21,4 @@ data_as_of: "Nov 18, 2:40 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-india-bars-bharat-summit-speakers-visas/">India bars 115 cleared speakers from opposition Bharat Summit</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-india-tenders-largest-strategic-oil-reserve/">India tenders largest strategic oil reserve to private investors</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-india-exports-jump-29-9-percent-october/">India exports jump 29.9 percent in October</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-india-current-account-deficit-7-4-billion-september/">India current account deficit widens to 7.4 billion dollars</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

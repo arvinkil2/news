@@ -18,6 +18,7 @@ data_as_of: "Nov 18, 2:40 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-16 (Bank of England), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-inflation-rises-3-6-percent-october/">UK inflation rises to 3.6 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-uk-unemployment-falls-pay-growth-slows/">UK unemployment falls to 4.6 percent as pay growth slows</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-jordan-first-municipal-sukuk-564-million/">Jordan raises $564 million in first municipal sukuk</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-uk-sanctions-west-bank-settlement-firms-tzav-9/">UK sanctions eight West Bank settlement firms and Tzav 9</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 18, 2:40 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-rates-also-notable/">Rates also notable: Turkish payrolls, Canadian vehicle sales, UK banking pledge</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-iraq-resumes-kirkuk-ceyhan-pipeline-exports/">Iraq resumes Kirkuk-Ceyhan pipeline exports after 12 years</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-ukraine-drone-strike-crimean-bridge-traffic-halted/">Ukraine hits Kerch Bridge again, Russia strikes Kyiv bridges</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-eu-approves-largest-ukraine-facility-payment/">EU approves largest Ukraine Facility payment of just under 8 billion euros</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
