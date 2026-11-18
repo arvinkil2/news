@@ -1,12 +1,12 @@
 ---
 title: "UniCredit wins unconditional EU approval for Commerzbank acquisition"
 date: 2026-11-16T06:09:38-05:00
-last_updated: 2026-11-16T06:09:38-05:00
+last_updated: 2026-11-18T18:43:32-05:00
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
-lede: "The European Commission on Monday gave unconditional antitrust approval to UniCredit's acquisition of Commerzbank, clearing the biggest regulatory hurdle to the Italian bank's takeover of Germany's second largest lender."
-why_it_matters: "The clearance, which follows the European Central Bank's authorisation last month, removes the main competition obstacle to one of Europe's largest cross-border bank takeovers and advances the push for bigger European banking champions."
+lede: "UniCredit and the German government have reached agreement on the main sticking points in the takeover of Commerzbank, with the German bank to stay listed in Frankfurt and Berlin dropping its demand to name two supervisory board members."
+why_it_matters: "The agreement removes the political obstacle that remained after Monday’s unconditional EU approval, and a combination would create a bank with more than 1.3 trillion euros in assets across Italy and Germany."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,10 +22,22 @@ sources:
     publisher: "Reuters, via SRN News"
     url: "https://srnnews.com/exclusive-unicredit-to-win-unconditional-eu-nod-for-commerzbank-deal-sources-say/"
     published: "2026-11-09"
+  - title: "Exclusive: UniCredit and Germany reach broad agreement on Commerzbank takeover"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
+    published: "2026-11-18"
+  - title: "Commerzbank-Übernahme: Berlin und Unicredit einig"
+    publisher: "ORF"
+    url: "https://orf.at/stories/3448616/"
+    published: "2026-11-19"
 tags: []
-data_as_of: "Reuters reporting of November 16, 2026 on the European Commission's decision, read in full via Euronext, with the Commissioner's quotes as carried by Reuters. The Commission's own press release page rendered blank on both the text fetch and the estate browser route in this run, so the decision and wording are taken from Reuters reporting of the release and stated as such; Reuters had reported on November 9, citing three people with direct knowledge, that unconditional clearance was expected by the November 16 deadline."
+data_as_of: "Updated November 18, 2026 with Reuters reporting via Investing.com, read in full, on UniCredit chief executive Andrea Orcel’s November 18 letter to German Finance Minister Lars Klingbeil and on Klingbeil’s statement to Reuters, corroborated by ORF reporting in German. Neither report publishes a takeover price, an offer timetable or a completion date. The November 16 decision material is as in the original story below."
 update_bump: true
 ---
+
+Latest: UniCredit and the German government have reached agreement on the big sticking points in the Italian bank’s takeover of Commerzbank, Reuters reported on Wednesday. In a letter dated November 18 and seen by Reuters, chief executive Andrea Orcel told Finance Minister Lars Klingbeil he was prepared to commit to a series of binding principles. Commerzbank’s German headquarters will remain in Frankfurt as a listed entity, a central German demand, and Berlin has given up its insistence on naming two supervisory board members. UniCredit also pledged to put German nationals on its own board of directors.
+
+Klingbeil said Germany supports a swift process and an orderly transition of control, and that UniCredit had made clear commitments to Germany as a business location, to the rights of Commerzbank employees and to continued dialogue with the works council. ORF, reporting the same agreement in German, added that Commerzbank is to expand its business with mid-sized companies and that the two sides agreed an orderly transition in the supervisory board. The German government holds 13.3 percent of Commerzbank from its financial crisis bailout, and UniCredit has built a stake nearing 50 percent. A combination would create a bank with more than 1.3 trillion euros, or 1.43 trillion dollars, in assets. Neither report published a takeover price, an offer timetable or a completion date.
 
 UniCredit has won unconditional European Union antitrust approval for its acquisition of Commerzbank, the European Commission said on Monday, clearing the biggest regulatory hurdle between the Italian bank and control of Germany's second largest lender.
 
