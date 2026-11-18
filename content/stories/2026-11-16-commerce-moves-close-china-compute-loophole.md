@@ -1,13 +1,13 @@
 ---
 title: "Commerce issues rule closing China's offshore compute loophole"
 date: 2026-11-16T09:08:10-05:00
-last_updated: 2026-11-17T23:04:20-05:00
+last_updated: 2026-11-18T02:07:04-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
 developing: true
-lede: "China's commerce ministry said on Tuesday that it firmly opposes the new US rule restricting remote access to advanced AI chips and will take countermeasures if Washington insists on imposing it, answering the Bureau of Industry and Security rule issued on Monday."
-why_it_matters: "The rule extends US chip controls from physical shipments to remote access itself: a licence is now required where a data centre anywhere in the world gives Chinese or other restricted-country firms access to more than 12 million aggregate TPP of US computing power. Beijing's countermeasures warning, days before Presidents Xi and Trump meet, puts the threat of retaliation over the rule on the record while the two sides' trade truce runs toward its January expiry."
+lede: "Singapore Prime Minister Lawrence Wong said the new US chip curbs will have some impact on high-end chip transshipment through the city-state but that Singapore can manage it, offering to help US authorities check how advanced chips brought into the country are deployed."
+why_it_matters: "Singapore is the transshipment hub at the centre of the chip diversion fight, and its prime minister's offer to facilitate US deployment checks, alongside a pledge to act against firms using Singapore to circumvent controls, is the first detailed response from a listed country's head of government to the rule that now requires licences for advanced chip exports to Singapore and four other countries."
 featured: false
 evidence_grade: "B"
 sources:
@@ -43,12 +43,22 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue"
     published: "2026-11-17"
+  - title: "Singapore Leader Wong Expects 'Some Impact' From US Chip Curbs"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-18/singapore-lawrence-wong-transshipment-impact-nvidia-us-chip-curbs-washing-megaspeed"
+    published: "2026-11-18"
+  - title: "Singapore prepared to facilitate US checks on how advanced chips are deployed: PM Wong"
+    publisher: "Channel NewsAsia"
+    url: "https://www.youtube.com/watch?v=dVku9nsJWy8"
+    published: "2026-11-17"
 tags: []
-data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. The November 17 update rests on CNBC's report of that date, read in full via the estate browser route, sourced to two unnamed people with direct knowledge of Nvidia's private communications with customers; Nvidia and BIS did not respond to CNBC's request for comment. The November 17 Thailand update rests on Bloomberg's report of Foreign Minister Sihasak Phuangketkeow's Bloomberg Television interview, read via the estate browser route (Bloomberg paywalled the article past its opening, so the minister's remarks were corroborated through second-route reporting of the same interview) and on Reuters reporting of the Thai Data Center Association's figures carried by ASTIG. The November 17 China update rests on Reuters' report of the commerce ministry's statement of that date, read in full via a syndicated copy; the ministry's own statement text was not obtained directly in this run. Developing item, updated in place."
+data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. The November 17 update rests on CNBC's report of that date, read in full via the estate browser route, sourced to two unnamed people with direct knowledge of Nvidia's private communications with customers; Nvidia and BIS did not respond to CNBC's request for comment. The November 17 Thailand update rests on Bloomberg's report of Foreign Minister Sihasak Phuangketkeow's Bloomberg Television interview, read via the estate browser route (Bloomberg paywalled the article past its opening, so the minister's remarks were corroborated through second-route reporting of the same interview) and on Reuters reporting of the Thai Data Center Association's figures carried by ASTIG. The November 17 China update rests on Reuters' report of the commerce ministry's statement of that date, read in full via a syndicated copy; the ministry's own statement text was not obtained directly in this run. Developing item, updated in place. Updated 2026-11-18T02:07:04-05:00 with Bloomberg's report of November 18, 2026 on Prime Minister Lawrence Wong's Manila remarks: Bloomberg's full text sits behind its subscription paywall, so Wong's quoted remarks were read in the takeaways Bloomberg published with the article and corroborated by Channel NewsAsia's account of the same remarks, published November 17, 2026 and read in full in this run."
 update_bump: true
 ---
 
 ## Latest
+
+Singapore's prime minister has given the fullest response yet from a country on the licence list. Lawrence Wong told reporters in Manila on Tuesday, after the ASEAN summit meetings there, that Singapore is studying the new US measures and expects some impact on the transshipment volume of high-end chips that flow through the city-state. "There will be some impact," he said, "but I think we can manage that impact." His bigger concern, he said, is the chips that come into Singapore and are used by Singapore companies and its data centres, and he noted that many chips recorded as sales to Singapore do not end up in the country. Wong added that Singapore can facilitate US checks on firms and on how advanced chips brought into the country are deployed, and that it will act against businesses that break local laws or use Singapore to get around export controls, Channel NewsAsia reported.
 
 China's commerce ministry answered the rule on Tuesday. In a statement reported by Reuters, the ministry said it firmly opposed the new US rule aimed at further restricting China's access to advanced AI chips from companies like Nvidia, that it would take countermeasures if the United States insisted on imposing the rule, and that China hoped the US would return to the "correct track" of resolving differences through consultation and cooperation. Bloomberg reported the ministry expressed strong dissatisfaction as well as firm opposition, and warned the measures threaten the stability of global semiconductor supply chains.
 
