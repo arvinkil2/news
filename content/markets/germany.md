@@ -2,10 +2,10 @@
 title: "Germany"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Germany, refreshed every 15 minutes."
-data_as_of: "Nov 18, 6:12 PM ET"
+data_as_of: "Nov 18, 6:28 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 6:12 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 6:28 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>DAX (index)</td><td class="num">26,045 <span class="gm-sub-inline">as of 2026-11-17, stale</span></td><td class="num"><span class="down">-2.08%</span></td><td class="num"><span class="down">-1.15%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.6,24.1 9.1,19.0 13.7,23.1 18.3,26.0 22.9,22.5 27.4,19.8 32.0,18.1 36.6,13.1 41.1,16.4 45.7,13.9 50.3,15.7 54.9,7.0 59.4,8.7 64.0,16.4 68.6,9.6 73.1,8.4 77.7,3.6 82.3,2.0 86.9,2.3 91.4,4.6 96.0,13.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Germany (EWG)</td><td class="num">$41.0300 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.54%</span></td><td class="num"><span class="down">-4.63%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.1 4.4,21.4 8.7,18.9 13.1,22.2 17.5,26.0 21.8,23.2 26.2,20.6 30.5,17.9 34.9,12.2 39.3,17.2 43.6,14.6 48.0,15.5 52.4,2.0 56.7,9.0 61.1,20.0 65.5,6.8 69.8,7.2 74.2,6.5 78.5,8.5 82.9,7.6 87.3,13.1 91.6,19.2 96.0,25.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>

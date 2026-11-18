@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed every 15 minutes."
-data_as_of: "Nov 18, 6:12 PM ET"
+data_as_of: "Nov 18, 6:28 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 6:12 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 6:28 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE 100 (index)</td><td class="num">10,551 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.30%</span></td><td class="num"><span class="down">-2.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.4 4.4,13.6 8.7,12.2 13.1,14.1 17.5,16.5 21.8,11.2 26.2,16.8 30.5,16.2 34.9,14.3 39.3,13.8 43.6,11.6 48.0,20.0 52.4,7.0 56.7,10.2 61.1,17.6 65.5,10.2 69.8,12.3 74.2,6.6 78.5,4.7 82.9,2.0 87.3,3.4 91.6,16.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$46.0900 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.81%</span></td><td class="num"><span class="down">-3.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.4 4.4,11.9 8.7,12.5 13.1,11.2 17.5,13.9 21.8,13.2 26.2,16.7 30.5,15.9 34.9,12.4 39.3,11.3 43.6,9.6 48.0,15.8 52.4,2.0 56.7,10.8 61.1,16.5 65.5,7.2 69.8,10.2 74.2,11.4 78.5,11.9 82.9,10.1 87.3,13.4 91.6,18.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3149 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.27%</span></td><td class="num"><span class="down">-1.50%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.3 4.4,14.4 8.7,9.6 13.1,7.9 17.5,7.3 21.8,9.2 26.2,11.7 30.5,14.5 34.9,12.9 39.3,9.2 43.6,8.7 48.0,6.9 52.4,5.1 56.7,2.0 61.1,3.5 65.5,10.6 69.8,4.6 74.2,11.4 78.5,16.6 82.9,20.0 87.3,21.1 91.6,23.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3148 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.28%</span></td><td class="num"><span class="down">-1.50%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.3 4.4,14.3 8.7,9.6 13.1,7.9 17.5,7.3 21.8,9.2 26.2,11.6 30.5,14.5 34.9,12.9 39.3,9.1 43.6,8.6 48.0,6.9 52.4,5.1 56.7,2.0 61.1,3.5 65.5,10.5 69.8,4.6 74.2,11.3 78.5,16.6 82.9,19.9 87.3,21.0 91.6,23.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -23,7 +23,7 @@ data_as_of: "Nov 18, 6:12 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-inflation-rises-3-6-percent-october/">UK inflation rises to 3.6 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-paris-confirms-french-personnel-ukraine/">Paris confirms French military personnel are operating inside Ukraine</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-ukraine-strikes-ilsky-afipsky-refineries-krasnodar/">Ukraine strikes Ilsky and Afipsky refineries in Krasnodar</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-gifts-1000-long-range-strike-drones-ukraine/">Britain to gift Ukraine 1,000 long range strike drones</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-uk-unemployment-falls-pay-growth-slows/">UK unemployment falls to 4.6 percent as pay growth slows</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-jordan-first-municipal-sukuk-564-million/">Jordan raises $564 million in first municipal sukuk</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-uk-sanctions-west-bank-settlement-firms-tzav-9/">UK sanctions eight West Bank settlement firms and Tzav 9</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
