@@ -1,7 +1,7 @@
 ---
 title: "Commerce issues rule closing China's offshore compute loophole"
 date: 2026-11-16T09:08:10-05:00
-last_updated: 2026-11-17T02:42:43-05:00
+last_updated: 2026-11-17T21:27:09-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -27,12 +27,22 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
     published: "2026-11-17"
+  - title: "Thailand Sees New US Chip Curbs as Risk to Data Center Drive"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-18/thailand-sees-new-us-chip-curbs-as-threat-to-ambitions-to-be-data-center-hub"
+    published: "2026-11-17"
+  - title: "$12 billion of Thai AI capacity is exposed by the new US chip rule, and Singapore wants 'trusted access'"
+    publisher: "Reuters reporting, via ASTIG"
+    url: "https://astig.ph/us-ai-chip-rule-southeast-asia-singapore-thailand-reaction-2026/"
+    published: "2026-11-17"
 tags: []
-data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. The November 17 update rests on CNBC's report of that date, read in full via the estate browser route, sourced to two unnamed people with direct knowledge of Nvidia's private communications with customers; Nvidia and BIS did not respond to CNBC's request for comment. Developing item, updated in place."
+data_as_of: "Bureau of Industry and Security press release of November 16, 2026, read in full on bis.gov; the interim final rule is on public display at BIS and its thresholds and country list are as summarised from the rule text by Datacenter Dynamics and other outlets carrying the rule on November 16. The rule takes effect on Federal Register publication, which had not yet occurred as of writing. The November 17 update rests on CNBC's report of that date, read in full via the estate browser route, sourced to two unnamed people with direct knowledge of Nvidia's private communications with customers; Nvidia and BIS did not respond to CNBC's request for comment. The November 17 Thailand update rests on Bloomberg's report of Foreign Minister Sihasak Phuangketkeow's Bloomberg Television interview, read via the estate browser route (Bloomberg paywalled the article past its opening, so the minister's remarks were corroborated through second-route reporting of the same interview) and on Reuters reporting of the Thai Data Center Association's figures carried by ASTIG. Developing item, updated in place."
 update_bump: true
 ---
 
 ## Latest
+
+Thailand has put a price on its exposure to the rule. Foreign Minister Sihasak Phuangketkeow told Bloomberg Television that the new US restrictions on the export and use of top-end semiconductors risk denting Thailand's ambitions to become a hub for data centers, and that "we have to be more careful now." Supparat Sivapetchranat Singhara Na Ayutthaya, vice chairman of the Thai Data Center Association, told Reuters that about 300 megawatts of GPU capacity is expected to arrive in Thailand over the next 12 to 18 months, backed by roughly $12 billion to $18 billion of capital spending, that the capacity was aimed at Chinese end users, and that the rule has halted Chinese customers renting GPU capacity in the country. Singapore, also on the licence list, has said it is seeking "trusted access" for its own companies.
 
 Nvidia has warned its customers in recent months that proposed US legislation on Chinese companies' remote access to its AI chips could expose both the chipmaker and its buyers to US "legal action," CNBC reported on Tuesday, citing two people with direct knowledge of the matter. The warning concerns the Remote Access Security Act, which would give the US government broader authority to control access to cloud services in the same way as physical hardware; the bill passed the House of Representatives in January but has not passed the Senate. Nvidia also told buyers that, for now, it would not sell its chips to customers who rent more than 50 percent of their GPUs to Chinese companies, the sources said. The Financial Times reported earlier this month that Nvidia had verbally told data-centre clients to direct at least 51 percent of their services to non-Chinese customers under future contracts. CNBC also reported on November 5 that the Chinese lab Moonshot AI sought access to Nvidia chips through data centres in Europe; the Trump administration had accused the company in July of accessing the chips through centres in East Asia.
 
