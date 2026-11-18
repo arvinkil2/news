@@ -2,14 +2,14 @@
 title: "South Africa"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for South Africa, refreshed every 15 minutes."
-data_as_of: "Nov 18, 10:24 AM ET"
+data_as_of: "Nov 18, 10:40 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 10:24 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 10:40 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE/JSE All Share (index)</td><td class="num">6,171 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-5.26%</span></td><td class="num"><span class="down">-9.72%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.1 4.6,9.9 9.1,11.6 13.7,15.3 18.3,17.5 22.9,16.0 27.4,14.3 32.0,15.2 36.6,14.0 41.1,19.6 45.7,14.4 50.3,15.0 54.9,6.2 59.4,7.8 64.0,2.0 68.6,4.1 73.1,7.0 77.7,10.0 82.3,13.0 86.9,14.9 91.4,16.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI South Africa (EZA)</td><td class="num">$59.63 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-5.35%</span></td><td class="num"><span class="down">-10.81%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.5 4.4,11.4 8.7,11.7 13.1,15.4 17.5,17.2 21.8,16.3 26.2,15.0 30.5,14.1 34.9,14.8 39.3,20.6 43.6,17.7 48.0,17.6 52.4,11.1 56.7,7.7 61.1,7.3 65.5,2.0 69.8,5.5 74.2,7.8 78.5,11.6 82.9,13.6 87.3,17.5 91.6,17.5 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/ZAR</td><td class="num">17.2281 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.57%</span></td><td class="num"><span class="down">-4.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.6 4.4,24.6 8.7,25.4 13.1,26.0 17.5,22.9 21.8,18.9 26.2,18.7 30.5,18.5 34.9,19.3 39.3,19.4 43.6,17.1 48.0,19.5 52.4,19.7 56.7,25.1 61.1,22.9 65.5,21.4 69.8,25.7 74.2,21.7 78.5,19.5 82.9,15.1 87.3,10.5 91.6,9.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI South Africa (EZA)</td><td class="num">$59.37 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-5.77%</span></td><td class="num"><span class="down">-11.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.2 4.4,11.2 8.7,11.5 13.1,15.0 17.5,16.8 21.8,15.9 26.2,14.6 30.5,13.8 34.9,14.5 39.3,20.1 43.6,17.3 48.0,17.2 52.4,10.9 56.7,7.6 61.1,7.2 65.5,2.0 69.8,5.4 74.2,7.7 78.5,11.4 82.9,13.3 87.3,17.1 91.6,17.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/ZAR</td><td class="num">17.2403 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.64%</span></td><td class="num"><span class="down">-4.34%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.6 4.4,24.7 8.7,25.4 13.1,26.0 17.5,23.0 21.8,19.0 26.2,18.8 30.5,18.6 34.9,19.4 39.3,19.5 43.6,17.2 48.0,19.6 52.4,19.8 56.7,25.1 61.1,23.0 65.5,21.4 69.8,25.7 74.2,21.8 78.5,19.6 82.9,15.3 87.3,10.7 91.6,9.7 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
