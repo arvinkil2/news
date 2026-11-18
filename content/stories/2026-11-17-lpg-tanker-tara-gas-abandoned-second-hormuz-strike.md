@@ -1,7 +1,7 @@
 ---
 title: "Crew abandons LPG tanker Tara Gas after second Hormuz strike"
 date: 2026-11-17T13:44:13-05:00
-last_updated: 2026-11-17T13:44:13-05:00
+last_updated: 2026-11-18T03:42:08-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
@@ -19,10 +19,16 @@ sources:
     publisher: "Arab News, with Reuters"
     url: "https://www.arabnews.com/middle-east/crew-abandons-gas-tanker-off-oman-after-being-hit-by-projectile-sources-say-3012536"
     published: "2026-11-17"
+  - title: "Hormuz inferno leaves seafarer missing"
+    publisher: "Splash247"
+    url: "https://splash247.com/hormuz-inferno-leaves-seafarer-missing/"
+    published: "2026-11-18"
 tags: []
 update_bump: true
-data_as_of: "Reporting of November 17, 2026, read in full: gCaptain, citing UK Maritime Trade Operations warnings 207-26 and 208-26, India's Ministry of External Affairs and shipping minister Sarbananda Sonowal; and Reuters reporting carried by Arab News, citing maritime security sources and Oman's Maritime Security Center. No party has claimed responsibility and none has been independently established. Developing item."
+data_as_of: "Reporting of November 17, 2026, read in full: gCaptain, citing UK Maritime Trade Operations warnings 207-26 and 208-26, India's Ministry of External Affairs and shipping minister Sarbananda Sonowal; and Reuters reporting carried by Arab News, citing maritime security sources and Oman's Maritime Security Center. No party has claimed responsibility and none has been independently established. Latest update adds Splash247, November 18, 2026, read in full, which names the second tanker as the Panama-flagged On Phoenix and reports India condemning the attacks; the Revolutionary Guards' mine claim is Iran's own, from a party to the conflict, and has not been independently verified. Developing item."
 ---
+
+Latest: the second tanker struck on Monday has been named as the Panama-flagged On Phoenix, hit by an unidentified projectile while leaving Hormuz, with an engine room fire and all crew accounted for, Splash247 reported. India condemned the attacks, warning that the continuing targeting of merchant shipping posed a serious threat to civilian seafarers. Iran's Revolutionary Guards claimed that several tankers had struck naval mines while attempting to navigate routes Tehran considers unauthorised; the claim has not been independently verified.
 
 The Panama-flagged LPG tanker Tara Gas was attacked at about 1900 UTC on Monday some seven nautical miles north of Khasab, Oman, an attack that disabled the vessel and started an engine-room fire, UK Maritime Trade Operations reported. A maritime security agency reported a second strike on the vessel on Tuesday, causing another fire, and its crew of 25 abandoned ship off the Musandam Peninsula. India's shipping minister Sarbananda Sonowal identified the vessel and said it had been targeted in a missile attack on November 16.
 
