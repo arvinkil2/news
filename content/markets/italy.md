@@ -2,10 +2,10 @@
 title: "Italy"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Italy, refreshed every 15 minutes."
-data_as_of: "Nov 17, 7:13 PM ET"
+data_as_of: "Nov 17, 7:16 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 7:13 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 7:16 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE MIB (index)</td><td class="num">51,521 <span class="gm-sub-inline">as of 2026-11-16, stale</span></td><td class="num"><span class="down">-0.65%</span></td><td class="num"><span class="up">+0.24%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.3 4.8,21.4 9.6,17.5 14.4,26.0 19.2,24.8 24.0,20.6 28.8,17.6 33.6,16.3 38.4,15.1 43.2,18.5 48.0,15.5 52.8,15.5 57.6,8.2 62.4,11.7 67.2,14.8 72.0,5.7 76.8,3.3 81.6,2.0 86.4,2.9 91.2,2.6 96.0,4.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Italy (EWI)</td><td class="num">$56.99 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="down">-0.87%</span></td><td class="num"><span class="down">-3.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.7 4.6,20.3 9.1,18.6 13.7,25.8 18.3,26.0 22.9,23.6 27.4,21.1 32.0,19.5 36.6,18.1 41.1,21.0 45.7,18.2 50.3,18.2 54.9,5.1 59.4,13.1 64.0,17.3 68.6,2.2 73.1,2.0 77.7,5.8 82.3,7.6 86.9,7.4 91.4,12.0 96.0,14.8" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
