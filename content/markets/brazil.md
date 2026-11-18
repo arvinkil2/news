@@ -2,10 +2,10 @@
 title: "Brazil"
 date: "2026-11-18"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 17, 8:46 PM ET"
+data_as_of: "Nov 17, 8:53 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 17, 8:46 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 17, 8:53 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Ibovespa (index)</td><td class="num">169,817 <span class="gm-sub-inline">as of 2026-11-17</span></td><td class="num"><span class="up">+0.31%</span></td><td class="num"><span class="down">-0.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.8,2.0 9.6,3.0 14.4,4.3 19.2,3.8 24.0,19.8 28.8,20.3 33.6,22.9 38.4,23.9 43.2,24.7 48.0,26.0 52.8,24.9 57.6,25.6 62.4,24.3 67.2,22.2 72.0,22.7 76.8,22.3 81.6,22.7 86.4,22.1 91.2,23.9 96.0,23.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$30.9200 <span class="gm-sub-inline">as of 2026-11-16, stale</span></td><td class="num"><span class="down">-4.03%</span></td><td class="num"><span class="down">-5.18%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.8,2.0 9.6,2.9 14.4,4.2 19.2,2.7 24.0,19.6 28.8,19.3 33.6,20.6 38.4,21.6 43.2,22.9 48.0,23.5 52.8,24.4 57.6,23.3 62.4,24.3 67.2,23.9 72.0,22.6 76.8,23.5 81.6,23.0 86.4,24.3 91.2,23.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
