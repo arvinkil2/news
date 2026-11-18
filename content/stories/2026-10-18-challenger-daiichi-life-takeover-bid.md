@@ -1,17 +1,21 @@
 ---
 title: "Daiichi Life unit bids for Challenger at 7.94 billion Australian dollars"
 date: 2026-10-18T18:50:31-04:00
-last_updated: 2026-10-19T07:16:06-04:00
+last_updated: 2026-11-18T18:04:44-05:00
 update_bump: true
 beats: ["infra-deals"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "TAL Daiichi Life Australia, which already holds 20.36 percent of Challenger, has made an indicative takeover proposal of 11.80 Australian dollars a share that values the Australian investment manager at 7.94 billion Australian dollars, and Challenger shares jumped more than 15 percent on Monday."
-why_it_matters: "A full takeover would take one of Australia's largest retirement income and funds businesses into Japanese insurer ownership, at a 19.8 percent premium to Friday's close, if the board and due diligence clear the way."
+lede: "Challenger's board has rejected a revised Daiichi Life offer of 12.20 Australian dollars a share, the second rejection in a month, saying the bid does not represent fair value for shareholders in a control transaction."
+why_it_matters: "Daiichi Life already owns about a fifth of Challenger and is bidding for the rest, so the second rejection sets up either a third, higher offer or a standoff over one of Australia's largest retirement income businesses."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Challenger rejects new $4.4 billion Daiichi Life takeover bid"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid"
+    published: "2026-11-18"
   - title: "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life"
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101"
@@ -21,8 +25,10 @@ sources:
     url: "https://q106fm.com/2026/10/18/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life/"
     published: "2026-10-19"
 tags: []
-data_as_of: "Updated Monday, October 19, 2026, 07:16 ET. The proposal terms are from Challenger's statement as reported by Reuters on October 18 and 19, 2026; Daiichi Life confirmed the non-binding proposal in a separate statement. Bloomberg's 4.4 billion dollars is the cost of the stake Daiichi does not own; 7.94 billion Australian dollars (5.53 billion US dollars) is the value of the whole company. The proposal remains indicative and conditional."
+data_as_of: "Updated Wednesday, November 18, 2026, 18:04 ET with Challenger's rejection of the revised offer, as reported by Bloomberg the same day from Challenger's Thursday statement in Australia; the Bloomberg article is paywalled beyond its opening, which was read via the estate browser route, and the new facts are confined to that opening. Earlier: the original proposal terms are from Challenger's statement as reported by Reuters on October 18 and 19, 2026; Daiichi Life confirmed the non-binding proposal in a separate statement. Bloomberg's 4.4 billion dollars is the cost of the stake Daiichi does not own; 7.94 billion Australian dollars (5.53 billion US dollars) is the value of the whole company at the original offer price."
 ---
+
+**Latest.** Challenger has rebuffed a revised Daiichi Life offer of 12.20 Australian dollars a share, up from the original 11.80 dollars, in a Thursday statement in Australia reported by Bloomberg. The board determined that the revised offer, which values the 79.5 percent of Challenger that Daiichi does not already own at 6.5 billion Australian dollars (4.4 billion US dollars), fails to represent fair value for shareholders in the context of a control transaction. It is the second rejection in a month for the Japanese insurer.
 
 TAL Daiichi Life Australia Pty, a unit of Japan's Daiichi Life that already holds 20.36 percent of Challenger, has submitted an indicative proposal to buy the more than 79 percent of the Australian investment manager it does not own, Challenger said on Monday. The offer of 11.80 Australian dollars a share is a 19.8 percent premium to Challenger's last close on Friday and values the company at 7.94 billion Australian dollars, about 5.53 billion US dollars. The proposal is subject to conditions including satisfactory due diligence, and Challenger's board said it is considering the indicative offer.
 
