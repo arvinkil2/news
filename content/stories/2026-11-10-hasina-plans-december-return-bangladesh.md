@@ -1,15 +1,15 @@
 ---
 title: "Hasina plans December return to Bangladesh from exile"
 date: 2026-11-10T05:07:09-05:00
-last_updated: 2026-11-11T04:22:01-05:00
+last_updated: 2026-11-19T04:05:08-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "Sheikh Hasina, Bangladesh's ousted prime minister, has applied for a new passport and plans to return from exile in India in December, exiled leaders of her Awami League told The Guardian, a year after a Dhaka tribunal sentenced her to death for crimes against humanity."
+lede: "Parts of Bangladesh shut down on Thursday under an Awami League nationwide lockdown, as police said two ruling party members had been killed and the ancestral home of former interim leader Muhammad Yunus was set ablaze ahead of Sheikh Hasina's planned December return."
 why_it_matters: "A return would put a former prime minister under a death sentence back in front of the government that replaced her, testing the new administration in Dhaka and the extradition dispute that has strained its ties with India."
 featured: false
-evidence_grade: "C"
+evidence_grade: "B"
 sources:
   - title: "Disgraced former leader Sheikh Hasina plans return to Bangladesh after two years in exile"
     publisher: "The Guardian"
@@ -19,11 +19,17 @@ sources:
     publisher: "The Business Standard"
     url: "https://www.tbsnews.net/bangladesh/court/no-passport-hasina-convicted-fugitive-death-sentence-be-enforced-upon-return"
     published: "2026-11-10"
+  - title: "Bangladesh on edge as violence escalates ahead of Sheikh Hasina's return, Yunus' home set ablaze"
+    publisher: "Reuters, via The Hindu BusinessLine"
+    url: "https://www.thehindubusinessline.com/news/world/bangladesh-on-edge-as-violence-escalates-ahead-of-sheikh-hasinas-return-yunus-home-set-ablaze/article71718917.ece"
+    published: "2026-11-19"
 tags: []
-data_as_of: "The Guardian report of November 10, 2026, read in full via the estate browser route; single outlet, with Hasina's own comment as quoted to the Associated Press by email and carried in the same report. The tribunal's verdict and the government's position are as reported there and have not been independently corroborated in this run. Developing item. Updated November 11, 2026 with The Business Standard's report of November 10, read in full in this run, of the tribunal chief prosecutor's press conference that day: his passport, appeal and enforcement statements are his stated legal position."
+data_as_of: "The Guardian report of November 10, 2026, read in full via the estate browser route; single outlet, with Hasina's own comment as quoted to the Associated Press by email and carried in the same report. The tribunal's verdict and the government's position are as reported there and have not been independently corroborated in this run. Developing item. Updated November 11, 2026 with The Business Standard's report of November 10, read in full in this run, of the tribunal chief prosecutor's press conference that day: his passport, appeal and enforcement statements are his stated legal position. Updated November 19, 2026 with Reuters reporting of November 19, 2026, carried by The Hindu BusinessLine and read in full: the lockdown, the two killings, the Chattogram arson, the Border Guard deployment and the Grameen Bank figures are as reported there, from police, the Border Guard and the bank; Awami League leaders could not be reached for comment in that report. The Guardian's own November 19 report of the same violence is blocked to this reader and was not used."
 update_bump: true
 ---
 
-**Latest.** The tribunal's chief prosecutor, Md Aminul Islam, said at a press conference on Tuesday that there is no legal scope to issue Hasina a passport: Article 6 of the Bangladesh Passport Order, 1973 bars a passport for anyone convicted within the preceding five years to a sentence of at least two years, Article 7 provides for cancelling the passports of people convicted of offences involving moral turpitude, and he said her passport has therefore been cancelled. He also said she had not appealed the verdict after its publication and no longer has any legal scope to do so, so the death sentence would be enforced upon her return, and he questioned how a London-based law firm could apply on her behalf without a made-public agreement with her.
+**Latest.** Parts of Bangladesh shut down on Thursday as the Awami League's nationwide lockdown capped a week of protests against the government's rejection of Hasina's request for a new passport and identity card, Reuters reported. Police said two ruling party members were killed, and the ancestral home of former interim leader Muhammad Yunus in Chattogram was set on fire late on Wednesday, with flammable substances apparently thrown into an unused ground-floor room while his relatives upstairs were unharmed. The Border Guard deployed 97 platoons across seven districts, including the Hasina strongholds of Gopalganj and Faridpur, police reported dozens of crude bomb blasts and vehicles set alight in at least 28 districts over the past ten days, and Grameen Bank said at least 37 of its branches and offices had been targeted by arson or attempted fires since November 10. Police also detained former education minister Nurul Islam Nahid at his Dhaka home on Thursday, and Tuesday marked a year since the tribunal sentenced Hasina to death.
+
+The tribunal's chief prosecutor, Md Aminul Islam, said at a press conference on Tuesday that there is no legal scope to issue Hasina a passport: Article 6 of the Bangladesh Passport Order, 1973 bars a passport for anyone convicted within the preceding five years to a sentence of at least two years, Article 7 provides for cancelling the passports of people convicted of offences involving moral turpitude, and he said her passport has therefore been cancelled. He also said she had not appealed the verdict after its publication and no longer has any legal scope to do so, so the death sentence would be enforced upon her return, and he questioned how a London-based law firm could apply on her behalf without a made-public agreement with her.
 
 Sheikh Hasina has applied for a fresh passport and plans to return to Bangladesh in December after two years of self-imposed exile in India, exiled leaders of her banned Awami League told The Guardian, and a UK lawyer acting for her wrote to the Bangladesh high commission on Monday asking for a new passport and national identity card. Hasina, who fled a mass uprising in August 2024 after 15 years in power, told the Associated Press by email that she had affirmed the decision: "If death is my destiny, I would rather die on the soil of my own country, among my own people." A Bangladeshi tribunal sentenced her to death last November for crimes against humanity over a crackdown on student protests that killed an estimated 1,400 people, a verdict she rejects, and Dhaka's government said this week she could return only under an acceptable prisoner exchange with India, while the tribunal's chief prosecutor called the plan a political stunt.
