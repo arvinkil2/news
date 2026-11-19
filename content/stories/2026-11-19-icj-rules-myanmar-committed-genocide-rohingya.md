@@ -1,9 +1,9 @@
 ---
 title: "World Court rules Myanmar committed genocide against Rohingya"
 date: 2026-11-19T07:11:46-05:00
-last_updated: 2026-11-19T07:11:46-05:00
+last_updated: 2026-11-19T09:04:24-05:00
 beats: ["politics"]
-regions: ["asia-pacific"]
+regions: ["asia-pacific", "europe"]
 status: "story"
 lede: "The International Court of Justice ruled on Thursday, by 9 votes to 6, that Myanmar committed genocide against the Rohingya in northern Rakhine state, the first time the court has found a state responsible for genocide."
 why_it_matters: "The judgment ends the seven-year case brought by The Gambia and is final and binding, but the court has no enforcement arm beyond reporting non-compliance to the UN Security Council, so its force now depends on what states do with it."
@@ -22,9 +22,16 @@ sources:
     publisher: "International Court of Justice"
     url: "http://www.icj-cij.org/press-releases"
     published: "2026-11-03"
+  - title: "Foreign Secretary statement on International Court of Justice Myanmar judgment: 19 November"
+    publisher: "UK Government (Foreign, Commonwealth and Development Office)"
+    url: "https://www.gov.uk/government/news/foreign-secretary-statement-on-international-court-of-justice-myanmar-judgement-19-november"
+    published: "2026-11-19"
 tags: []
-data_as_of: "Judgment delivered November 19, 2026 at The Hague, reading began 10 a.m. local time; findings as reported by the Associated Press and Reuters the same day. The court's own summary of the judgment had not been read directly at the time of writing, and the reading was still under way at midday in The Hague."
+update_bump: true
+data_as_of: "Judgment delivered November 19, 2026 at The Hague, reading began 10 a.m. local time; findings as reported by the Associated Press and Reuters the same day. The court's own summary of the judgment had not been read directly at the time of writing, and the reading was still under way at midday in The Hague. Latest update adds the UK Foreign Secretary's statement of November 19, 2026, read in full on gov.uk."
 ---
+
+**Latest.** Britain responded to the judgment on Thursday by ordering the expulsion of Myanmar's Defence Attaché from the UK and summoning Myanmar's Chargé d'Affaires, Foreign Secretary Ed Miliband said in a statement published by the Foreign Office. The UK also called urgently for a UN Security Council session to discuss the judgment, building on its existing sanctions against the Myanmar regime, and said further action would follow in the coming days. Miliband said the UK reaffirmed its full support for the Court and condemned the treatment of the Rohingya by Myanmar's military regime, and that Myanmar must comply fully with the judgment.
 
 The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya minority in northern Rakhine state, in a 9 to 6 decision that marks the first time the World Court has found a state responsible for genocide.
 
