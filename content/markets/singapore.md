@@ -2,14 +2,14 @@
 title: "Singapore"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Singapore, refreshed every 15 minutes."
-data_as_of: "Nov 18, 8:22 PM ET"
+data_as_of: "Nov 18, 8:38 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 8:22 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 8:38 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Straits Times (index)</td><td class="num">5,109 <span class="gm-sub-inline">as of 2026-11-17, stale</span></td><td class="num"><span class="down">-1.43%</span></td><td class="num"><span class="down">-2.84%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.9 4.8,4.5 9.6,2.0 14.4,3.7 19.2,3.2 24.0,3.6 28.8,5.0 33.6,4.9 38.4,5.1 43.2,6.5 48.0,11.8 52.8,14.3 57.6,14.4 62.4,12.3 67.2,20.9 72.0,15.1 76.8,12.8 81.6,13.3 86.4,17.0 91.2,20.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Straits Times (index)</td><td class="num">5,060 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.97%</span></td><td class="num"><span class="down">-4.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.6 4.6,4.2 9.1,2.0 13.7,3.4 18.3,3.0 22.9,3.4 27.4,4.6 32.0,4.5 36.6,4.7 41.1,5.9 45.7,10.5 50.3,12.7 54.9,12.7 59.4,11.0 64.0,18.4 68.6,13.4 73.1,11.4 77.7,11.8 82.3,15.1 86.9,18.2 91.4,22.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Singapore (EWS)</td><td class="num">$29.1500 <span class="gm-sub-inline">as of 2026-11-17, stale</span></td><td class="num"><span class="down">-1.52%</span></td><td class="num"><span class="down">-4.02%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.1 4.6,2.0 9.1,2.1 13.7,4.0 18.3,4.8 22.9,6.0 27.4,7.1 32.0,7.0 36.6,6.8 41.1,9.7 45.7,13.6 50.3,14.2 54.9,9.9 59.4,17.6 64.0,19.2 68.6,12.1 73.1,12.6 77.7,11.1 82.3,13.4 86.9,15.0 91.4,21.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SGD</td><td class="num">1.2892 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.05%</span></td><td class="num"><span class="down">-0.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.2 4.2,20.2 8.3,23.7 12.5,25.2 16.7,26.0 20.9,23.9 25.0,18.1 29.2,17.2 33.4,17.7 37.6,20.2 41.7,23.3 45.9,21.4 50.1,18.9 54.3,22.2 58.4,23.5 62.6,14.9 66.8,22.0 71.0,16.6 75.1,12.4 79.3,6.6 83.5,4.7 87.7,2.4 91.8,3.2 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SGD</td><td class="num">1.2891 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.04%</span></td><td class="num"><span class="down">-0.41%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.2 4.2,20.2 8.3,23.7 12.5,25.2 16.7,26.0 20.9,23.9 25.0,18.1 29.2,17.1 33.4,17.7 37.6,20.2 41.7,23.3 45.9,21.4 50.1,18.8 54.3,22.1 58.4,23.5 62.6,14.8 66.8,21.9 71.0,16.5 75.1,12.3 79.3,6.5 83.5,4.5 87.7,2.2 91.8,3.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
