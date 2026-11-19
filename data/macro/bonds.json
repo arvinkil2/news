@@ -5872,7 +5872,7 @@
    "sp_rating_date": "2017-01-30",
    "moodys_rating": "Aaa",
    "moodys_rating_date": "2026-08-21",
-   "next_call_date": "2026-12-06 00:00:00",
+   "next_call_date": "2026-12-17 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
@@ -8017,7 +8017,7 @@
    "sp_rating_date": "2017-02-02",
    "moodys_rating": "Aaa",
    "moodys_rating_date": "2024-11-20",
-   "next_call_date": "2026-12-06 00:00:00",
+   "next_call_date": "2026-12-17 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
@@ -17896,7 +17896,7 @@
    "sp_rating_date": "2026-02-12",
    "moodys_rating": "Baa2",
    "moodys_rating_date": "2026-02-19",
-   "next_call_date": "2026-12-06 00:00:00",
+   "next_call_date": "2026-12-17 00:00:00",
    "is_callable": "Y",
    "is_144a": "Y",
    "trace_grade": "I",
@@ -20105,7 +20105,7 @@
    "exclude_reason": null,
    "note": "Found by FINRA issuer sweep 2026-11-03.",
    "sp_rating": "BBB-",
-   "sp_rating_date": "2026-11-02",
+   "sp_rating_date": "2026-11-11",
    "next_call_date": "2046-05-04 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
@@ -20252,7 +20252,9 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "sp_rating": "AA-",
+   "sp_rating_date": "2026-11-03"
   },
   {
    "cusip": "30303MAR3",
@@ -20276,7 +20278,9 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "OTHS"
+   "industry_group": "OTHS",
+   "sp_rating": "AA-",
+   "sp_rating_date": "2026-11-03"
   },
   {
    "cusip": "037833FC9",
@@ -20296,8 +20300,12 @@
    "note": "Found by FINRA issuer sweep 2026-11-07 and confirmed 2026-11-08 (APPLE INC total 99, up from 92); appended by the weekly leverage monitor 2026-11-08 after the sweep write leg failed two days running. Security terms unverified at append: the sweep log records the CUSIP only.",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "H",
-   "industry_group": "TRON"
+   "trace_grade": "I",
+   "industry_group": "TRON",
+   "sp_rating": "AA+",
+   "sp_rating_date": "2026-11-05",
+   "moodys_rating": "Aaa",
+   "moodys_rating_date": "2026-11-05"
   },
   {
    "cusip": "037833FD7",
@@ -20316,10 +20324,14 @@
    "exclude_reason": null,
    "note": "Found by FINRA issuer sweep 2026-11-07 and confirmed 2026-11-08 (APPLE INC total 99, up from 92); appended by the weekly leverage monitor 2026-11-08 after the sweep write leg failed two days running. Security terms unverified at append: the sweep log records the CUSIP only.",
    "next_call_date": "2028-10-09 00:00:00",
-   "is_callable": "Y",
+   "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "H",
-   "industry_group": "TRON"
+   "trace_grade": "I",
+   "industry_group": "TRON",
+   "sp_rating": "AA+",
+   "sp_rating_date": "2026-11-05",
+   "moodys_rating": "Aaa",
+   "moodys_rating_date": "2026-11-05"
   },
   {
    "cusip": "037833FE5",
@@ -20339,8 +20351,12 @@
    "note": "Found by FINRA issuer sweep 2026-11-07 and confirmed 2026-11-08 (APPLE INC total 99, up from 92); appended by the weekly leverage monitor 2026-11-08 after the sweep write leg failed two days running. Security terms unverified at append: the sweep log records the CUSIP only.",
    "is_callable": "N",
    "is_144a": "N",
-   "trace_grade": "H",
-   "industry_group": "TRON"
+   "trace_grade": "I",
+   "industry_group": "TRON",
+   "sp_rating": "AA+",
+   "sp_rating_date": "2026-11-05",
+   "moodys_rating": "Aaa",
+   "moodys_rating_date": "2026-11-05"
   },
   {
    "cusip": "037833FF2",
@@ -20360,8 +20376,13 @@
    "note": "Found by FINRA issuer sweep 2026-11-07 and confirmed 2026-11-08 (APPLE INC total 99, up from 92); appended by the weekly leverage monitor 2026-11-08 after the sweep write leg failed two days running. Security terms unverified at append: the sweep log records the CUSIP only.",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "H",
-   "industry_group": "TRON"
+   "trace_grade": "I",
+   "industry_group": "TRON",
+   "sp_rating": "AA+",
+   "sp_rating_date": "2026-11-05",
+   "moodys_rating": "Aaa",
+   "moodys_rating_date": "2026-11-05",
+   "next_call_date": "2029-10-09 00:00:00"
   },
   {
    "cusip": "037833FG0",
@@ -20385,7 +20406,8 @@
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "moodys_rating_date": "2026-11-05"
   },
   {
    "cusip": "037833FH8",
@@ -20405,11 +20427,12 @@
    "note": "Found by FINRA issuer sweep 2026-11-07 and confirmed 2026-11-08 (APPLE INC total 99, up from 92); appended by the weekly leverage monitor 2026-11-08 after the sweep write leg failed two days running. Security terms unverified at append: the sweep log records the CUSIP only.",
    "sp_rating": "AA+",
    "moodys_rating": "Aaa",
-   "next_call_date": "2033-10-09 00:00:00",
+   "next_call_date": "2033-09-09 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
    "trace_grade": "I",
-   "industry_group": "TRON"
+   "industry_group": "TRON",
+   "moodys_rating_date": "2026-11-05"
   },
   {
    "cusip": "037833FJ4",
@@ -20430,8 +20453,12 @@
    "next_call_date": "2036-08-09 00:00:00",
    "is_callable": "Y",
    "is_144a": "N",
-   "trace_grade": "H",
-   "industry_group": "TRON"
+   "trace_grade": "I",
+   "industry_group": "TRON",
+   "sp_rating": "AA+",
+   "sp_rating_date": "2026-11-05",
+   "moodys_rating": "Aaa",
+   "moodys_rating_date": "2026-11-05"
   }
  ]
 }
