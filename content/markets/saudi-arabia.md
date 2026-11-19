@@ -2,13 +2,13 @@
 title: "Saudi Arabia"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Saudi Arabia, refreshed every 15 minutes."
-data_as_of: "Nov 18, 11:54 PM ET"
+data_as_of: "Nov 19, 12:06 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 11:54 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 12:06 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Saudi Arabia (KSA)</td><td class="num">$35.6000 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.89%</span></td><td class="num"><span class="down">-1.22%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.7 4.4,15.3 8.7,17.5 13.1,25.9 17.5,26.0 21.8,23.0 26.2,16.9 30.5,15.9 34.9,18.5 39.3,20.8 43.6,20.1 48.0,19.9 52.4,12.0 56.7,13.6 61.1,12.8 65.5,8.6 69.8,7.4 74.2,2.9 78.5,2.0 82.9,3.2 87.3,5.0 91.6,4.1 96.0,7.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SAR</td><td class="num">3.7514 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-2.99%</span></td><td class="num"><span class="down">-2.85%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 4.2,22.4 8.3,21.4 12.5,26.0 16.7,24.7 20.9,24.4 25.0,26.0 29.2,25.1 33.4,24.0 37.6,24.2 41.7,24.3 45.9,22.4 50.1,22.3 54.3,22.9 58.4,24.4 62.6,23.4 66.8,23.0 71.0,22.8 75.1,22.3 79.3,16.4 83.5,2.0 87.7,22.8 91.8,23.2 96.0,2.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SAR</td><td class="num">3.7502 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-2.95%</span></td><td class="num"><span class="down">-2.81%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 4.2,22.4 8.3,21.4 12.5,26.0 16.7,24.7 20.9,24.4 25.0,26.0 29.2,25.1 33.4,24.0 37.6,24.2 41.7,24.3 45.9,22.4 50.1,22.3 54.3,22.9 58.4,24.4 62.6,23.4 66.8,23.0 71.0,22.8 75.1,22.3 79.3,16.4 83.5,2.0 87.7,22.8 91.8,23.2 96.0,2.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
