@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 19, 4:38 AM ET"
+data_as_of: "Nov 19, 4:52 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 4:38 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 4:52 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,324 <span class="gm-sub-inline">as of 2026-11-18 (Cboe, 15-min delayed)</span></td><td class="num"><span class="down">-0.23%</span></td><td class="num"><span class="down">-3.88%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.7 4.4,4.5 8.7,2.0 13.1,7.2 17.5,9.4 21.8,6.5 26.2,3.9 30.5,2.7 34.9,4.0 39.3,11.8 43.6,13.9 48.0,12.4 52.4,5.8 56.7,24.3 61.1,23.1 65.5,13.5 69.8,15.1 74.2,9.6 78.5,11.1 82.9,12.8 87.3,20.9 91.6,25.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">24,430 <span class="gm-sub-inline">as of 2026-11-18 (Nasdaq, near-real-time)</span></td><td class="num"><span class="up">+0.42%</span></td><td class="num"><span class="down">-4.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.7 4.4,4.8 8.7,2.0 13.1,9.0 17.5,9.5 21.8,7.4 26.2,4.3 30.5,3.5 34.9,7.2 39.3,14.7 43.6,17.5 48.0,15.4 52.4,11.7 56.7,26.0 61.1,23.3 65.5,16.6 69.8,18.5 74.2,14.4 78.5,15.4 82.9,17.7 87.3,24.0 91.6,25.9 96.0,24.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -19,6 +19,7 @@ data_as_of: "Nov 19, 4:38 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-bangladesh-shutdown-hasina-protests-yunus-home-torched/">Bangladesh shuts down as Hasina supporters protest, Yunus home torched</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-tencent-revenue-misses-prosus-falls/">Tencent revenue misses estimates as Prosus shares fall sharply</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-us-import-prices-rise-1-1-percent-october/">US import prices rise 1.1 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-us-gas-storage-ends-injection-season-above-normal/">US gas storage ends injection season above normal levels</a></p>
@@ -26,5 +27,4 @@ data_as_of: "Nov 19, 4:38 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-ford-battery-cells-catl-marshall-production/">Ford starts US battery cell output on CATL technology</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-foreign-investors-pour-261-billion-us-assets-september/">Foreign investors pour 261 billion dollars into US assets in September</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-tencent-president-us-gpu-ban-sets-china-back/">Tencent president says US GPU ban sets everyone back in China</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-us-departments-detail-megaspeed-criminal-probe/">US departments detail criminal investigation into Megaspeed since 2024</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
