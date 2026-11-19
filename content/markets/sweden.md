@@ -2,14 +2,14 @@
 title: "Sweden"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Sweden, refreshed every 15 minutes."
-data_as_of: "Nov 19, 1:39 PM ET"
+data_as_of: "Nov 19, 1:53 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 1:39 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 1:53 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>OMX Stockholm 30 (index)</td><td class="num">3,257 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="down">-3.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.2 4.2,16.8 8.3,16.1 12.5,26.0 16.7,24.4 20.9,18.4 25.0,14.6 29.2,13.3 33.4,11.6 37.6,12.8 41.7,10.9 45.9,11.2 50.1,7.9 54.3,9.2 58.4,13.2 62.6,8.1 66.8,5.9 71.0,2.0 75.1,2.1 79.3,2.4 83.5,4.2 87.7,10.8 91.8,14.6 96.0,14.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$50.37 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.90%</span></td><td class="num"><span class="down">-4.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.5 4.2,21.1 8.3,21.4 12.5,26.0 16.7,25.6 20.9,24.4 25.0,20.1 29.2,19.0 33.4,14.9 37.6,14.1 41.7,11.1 45.9,11.4 50.1,2.0 54.3,12.1 58.4,16.5 62.6,5.1 66.8,6.6 71.0,7.1 75.1,11.1 79.3,10.7 83.5,15.3 87.7,20.0 91.8,22.7 96.0,25.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/SEK</td><td class="num">10.1754 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.48%</span></td><td class="num"><span class="down">-2.12%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.2 4.2,15.8 8.3,16.4 12.5,17.5 16.7,16.6 20.9,15.6 25.0,14.0 29.2,14.1 33.4,16.8 37.6,19.9 41.7,21.2 45.9,23.3 50.1,23.8 54.3,26.0 58.4,21.8 62.6,17.4 66.8,22.3 71.0,19.0 75.1,13.4 79.3,9.8 83.5,7.6 87.7,6.2 91.8,4.6 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Sweden (EWD)</td><td class="num">$50.30 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-1.04%</span></td><td class="num"><span class="down">-4.41%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.3 4.2,21.0 8.3,21.2 12.5,25.8 16.7,25.4 20.9,24.3 25.0,20.0 29.2,18.9 33.4,14.8 37.6,14.0 41.7,11.0 45.9,11.3 50.1,2.0 54.3,12.0 58.4,16.4 62.6,5.1 66.8,6.6 71.0,7.0 75.1,11.0 79.3,10.6 83.5,15.2 87.7,19.8 91.8,22.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/SEK</td><td class="num">10.1827 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.56%</span></td><td class="num"><span class="down">-2.19%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.4 4.2,16.0 8.3,16.6 12.5,17.6 16.7,16.7 20.9,15.8 25.0,14.2 29.2,14.3 33.4,16.9 37.6,20.0 41.7,21.3 45.9,23.3 50.1,23.8 54.3,26.0 58.4,21.8 62.6,17.5 66.8,22.4 71.0,19.1 75.1,13.6 79.3,10.0 83.5,7.9 87.7,6.5 91.8,5.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -19,6 +19,7 @@ data_as_of: "Nov 19, 1:39 PM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-06 (Sveriges Riksbank), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-france-sweden-first-joint-nuclear-deterrence-exercise/">France and Sweden hold first joint nuclear deterrence exercise</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-08</span> <a href="/stories/2026-11-08-sweden-democrats-drop-cabinet-demand-kristersson/">Sweden Democrats drop cabinet demand, will tolerate Kristersson</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-13</span> <a href="/stories/2026-10-13-sweden-andersson-fails-government/">Sweden&#x27;s Andersson loses prime minister vote, Kristersson next</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
