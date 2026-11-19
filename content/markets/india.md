@@ -2,13 +2,13 @@
 title: "India"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for India, refreshed every 15 minutes."
-data_as_of: "Nov 18, 9:15 PM ET"
+data_as_of: "Nov 18, 9:34 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 18, 9:15 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 18, 9:34 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Nifty 50 (index)</td><td class="num">25,387 <span class="gm-sub-inline">as of 2026-11-17, stale</span></td><td class="num"><span class="up">+0.38%</span></td><td class="num"><span class="up">+1.37%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.5 5.1,24.2 10.1,25.2 15.2,26.0 20.2,24.7 25.3,24.7 30.3,25.1 35.4,23.1 40.4,22.1 45.5,18.8 50.5,15.6 55.6,14.3 60.6,9.3 65.7,5.1 70.7,5.0 75.8,3.1 80.8,2.8 85.9,4.1 90.9,2.8 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI India (INDA)</td><td class="num">$51.90 <span class="gm-sub-inline">as of 2026-11-17, stale</span></td><td class="num"><span class="up">+0.66%</span></td><td class="num"><span class="up">+0.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.9 4.6,20.2 9.1,22.4 13.7,22.0 18.3,26.0 22.9,25.4 27.4,24.8 32.0,24.5 36.6,21.8 41.1,20.4 45.7,17.2 50.3,16.1 54.9,10.2 59.4,10.3 64.0,6.5 68.6,4.2 73.1,2.8 77.7,3.4 82.3,3.5 86.9,4.0 91.4,3.5 96.0,2.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Nifty 50 (index)</td><td class="num">25,228 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.63%</span></td><td class="num"><span class="down">-0.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.5 4.8,24.2 9.6,25.2 14.4,26.0 19.2,24.7 24.0,24.7 28.8,25.1 33.6,23.1 38.4,22.1 43.2,18.8 48.0,15.6 52.8,14.3 57.6,9.3 62.4,5.1 67.2,5.0 72.0,3.1 76.8,2.8 81.6,4.1 86.4,2.8 91.2,2.0 96.0,3.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI India (INDA)</td><td class="num">$51.46 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.85%</span></td><td class="num"><span class="down">-0.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.9 4.4,20.2 8.7,22.4 13.1,22.0 17.5,26.0 21.8,25.4 26.2,24.8 30.5,24.5 34.9,21.8 39.3,20.4 43.6,17.2 48.0,16.1 52.4,10.2 56.7,10.3 61.1,6.5 65.5,4.2 69.8,2.8 74.2,3.4 78.5,3.5 82.9,4.0 87.3,3.5 91.6,2.0 96.0,3.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/INR</td><td class="num">93.44 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="up">+0.04%</span></td><td class="num"><span class="up">+0.28%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.1 4.2,4.9 8.3,8.7 12.5,14.2 16.7,8.8 20.9,5.7 25.0,2.3 29.2,2.4 33.4,2.0 37.6,2.8 41.7,6.1 45.9,8.6 50.1,8.3 54.3,11.4 58.4,12.2 62.6,19.7 66.8,19.1 71.0,19.4 75.1,22.5 79.3,17.9 83.5,15.2 87.7,18.9 91.8,25.5 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
