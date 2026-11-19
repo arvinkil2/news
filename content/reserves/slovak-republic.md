@@ -1,6 +1,6 @@
 ---
 title: "Slovak Republic petroleum reserves"
-date: "2026-11-12"
+date: "2026-11-19"
 lede: "Slovak Republic: agency stockholding under the IEA and EU system, administered by Emergency Oil Stocks Agency (EOSA), under Act No. 218/2013 on emergency stocks of oil and petroleum products."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Luxembourg petroleum reserves"
-date: "2026-11-12"
+date: "2026-11-19"
 lede: "Luxembourg: obligated industry stockholding under the IEA and EU system, administered by Not documented in official sources checked during this build."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

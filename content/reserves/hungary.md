@@ -1,6 +1,6 @@
 ---
 title: "Hungary petroleum reserves"
-date: "2026-11-12"
+date: "2026-11-19"
 lede: "Hungary: agency stockholding under the IEA and EU system, administered by Hungarian Hydrocarbon Stockpiling Association (HUSA, MSZKSZ), founded by importers under the 1993 Oil Stockpiling Act."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---

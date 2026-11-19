@@ -1,6 +1,6 @@
 ---
 title: "Spain petroleum reserves"
-date: "2026-11-12"
+date: "2026-11-19"
 lede: "Spain: mixed stockholding under the IEA and EU system, administered by CORES (Corporacion de Reservas Estrategicas de Productos Petroliferos), the central stockholding entity supervised by the Ministry for the Ecological Transition."
 data_as_of: "Latest level: 2026-08, from Eurostat (dataset nrg_stk_oilm)."
 ---
