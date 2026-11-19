@@ -2,13 +2,13 @@
 title: "Brazil"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 19, 2:47 PM ET"
+data_as_of: "Nov 19, 3:07 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 2:47 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 3:07 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Ibovespa (index)</td><td class="num">166,273 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.76%</span></td><td class="num"><span class="down">-2.95%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.4,2.0 8.7,3.0 13.1,4.3 17.5,3.8 21.8,19.8 26.2,20.3 30.5,22.9 34.9,23.9 39.3,24.7 43.6,26.0 48.0,24.9 52.4,25.6 56.7,24.3 61.1,22.2 65.5,22.7 69.8,22.3 74.2,22.7 78.5,22.1 82.9,23.9 87.3,23.6 91.6,24.9 96.0,25.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$29.6200 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-1.48%</span></td><td class="num"><span class="down">-6.78%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.2,2.0 8.3,2.8 12.5,4.0 16.7,2.6 20.9,17.8 25.0,17.6 29.2,18.8 33.4,19.7 37.6,20.9 41.7,21.4 45.9,22.2 50.1,21.3 54.3,22.1 58.4,21.7 62.6,20.6 66.8,21.4 71.0,20.9 75.1,22.1 79.3,21.3 83.5,23.7 87.7,23.5 91.8,25.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Ibovespa (index)</td><td class="num">166,088 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.87%</span></td><td class="num"><span class="down">-3.06%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.4,2.0 8.7,3.0 13.1,4.3 17.5,3.8 21.8,19.8 26.2,20.3 30.5,22.9 34.9,23.9 39.3,24.7 43.6,26.0 48.0,24.9 52.4,25.6 56.7,24.3 61.1,22.2 65.5,22.7 69.8,22.3 74.2,22.7 78.5,22.1 82.9,23.9 87.3,23.6 91.6,24.9 96.0,25.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$29.5100 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-1.85%</span></td><td class="num"><span class="down">-7.13%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.8 4.2,2.0 8.3,2.8 12.5,3.9 16.7,2.6 20.9,17.7 25.0,17.4 29.2,18.7 33.4,19.5 37.6,20.7 41.7,21.3 45.9,22.0 50.1,21.1 54.3,22.0 58.4,21.6 62.6,20.5 66.8,21.3 71.0,20.8 75.1,21.9 79.3,21.2 83.5,23.5 87.7,23.3 91.8,25.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/BRL</td><td class="num">5.8889 <span class="gm-sub-inline">as of 2026-11-19 (Banco Central do Brasil)</span></td><td class="num"><span class="down">-1.35%</span></td><td class="num"><span class="down">-4.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.8 5.6,26.0 11.3,25.7 16.9,24.3 22.6,22.3 28.2,19.1 33.9,19.8 39.5,20.5 45.2,18.8 50.8,18.2 56.5,15.2 62.1,16.2 67.8,13.9 73.4,12.3 79.1,8.8 84.7,6.5 90.4,5.4 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
@@ -19,6 +19,7 @@ data_as_of: "Nov 19, 2:47 PM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-18 (Tesouro Nacional), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-brazil-central-bank-sells-1-billion-spot-dollars-real/">Brazil central bank sells $1 billion as real slides</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-brazil-lets-extra-diesel-import-subsidy-expire/">Brazil lets extra diesel import subsidy expire</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-rates-also-notable/">Rates also notable: French wages, Brazil retail, SARB sanctions</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-soybean-exports-record-ten-months/">Brazil soybean exports set record in first ten months</a></p>
@@ -26,5 +27,4 @@ data_as_of: "Nov 19, 2:47 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-2027-grain-harvest-forecast-down-2-6-percent/">Brazil 2027 grain harvest forecast down 2.6 percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-brazil-ipca-inflation-slows-october/">Brazil inflation slows to 0.14 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-usa-rare-earth-brazil-shipments-pentagon-offtake/">USA Rare Earth starts Brazil shipments under Pentagon offtake</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-09</span> <a href="/stories/2026-11-09-lula-pledges-fiscal-discipline-no-new-measures/">Brazil unveils fiscal package to curb spending growth</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
