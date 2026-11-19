@@ -1,7 +1,7 @@
 ---
 title: "Asia stocks slide as Taiwan falls 4.6 percent on AI doubts"
 date: 2026-11-19T00:23:50-05:00
-last_updated: 2026-11-19T04:05:08-05:00
+last_updated: 2026-11-19T04:22:03-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -27,9 +27,13 @@ sources:
     publisher: "Finimize"
     url: "https://finimize.com/content/taiwan-tightens-short-selling-after-a-44-stock-slide"
     published: "2026-11-19"
+  - title: "Anther Capital exits $3.9 billion in AI-linked equity holdings"
+    publisher: "TradersUnion, reporting Bloomberg"
+    url: "https://tradersunion.com/news/business-wealth/show/4315108-anther-capital-ai-equity-exit/"
+    published: "2026-11-19"
 tags: []
 update_bump: true
-data_as_of: "Investing.com report of November 19, 2026, read in full via the estate browser route; index and share moves are the article's own body figures (its headline rounds Taiwan's fall to 4 percent). Single source at time of writing. Developing item. Updated November 19, 2026, with a later Investing.com report the same day, read in full via the estate browser route: the 4.6 percent index fall, the breadth and foreign-selling figures and the Taiwan dollar level are that report's own; it does not label the index figure a closing value. Updated again November 19, 2026, with Reuters reporting of November 19, 2026, carried by TradingView (summary read in full; the complete text sits behind TradingView's access prompt) and Finimize's report of November 19, 2026, read in full: the commission's new curbs, the 3.5 percent trigger and the index's 4.4 percent closing fall are as reported there, and a summary of the commission's announcement aggregated by Mark Radar puts the tighter borrowed-share cap at 1 percent. Bloomberg's version of the curbs is blocked to this reader and was not used."
+data_as_of: "Investing.com report of November 19, 2026, read in full via the estate browser route; index and share moves are the article's own body figures (its headline rounds Taiwan's fall to 4 percent). Single source at time of writing. Developing item. Updated November 19, 2026, with a later Investing.com report the same day, read in full via the estate browser route: the 4.6 percent index fall, the breadth and foreign-selling figures and the Taiwan dollar level are that report's own; it does not label the index figure a closing value. Updated again November 19, 2026, with Reuters reporting of November 19, 2026, carried by TradingView (summary read in full; the complete text sits behind TradingView's access prompt) and Finimize's report of November 19, 2026, read in full: the commission's new curbs, the 3.5 percent trigger and the index's 4.4 percent closing fall are as reported there, and a summary of the commission's announcement aggregated by Mark Radar puts the tighter borrowed-share cap at 1 percent. Bloomberg's version of the curbs is blocked to this reader and was not used. Updated again November 19, 2026, with a TradersUnion report of November 19, 2026, read in full, summarising Bloomberg reporting of US 13F filings: the Anther Capital exit figures are that chain's own and the underlying filing was not read directly."
 ---
 
 **Latest.** Taiwan's Financial Supervisory Commission tightened its short-selling curbs again on Thursday, after the benchmark index ended the session down 4.4 percent, Reuters reported. From November 20, a stock that closes down 3.5 percent or more cannot be sold short the next trading day, whether through margin short selling or borrowed shares, and a summary of the commission's announcement put the daily cap on borrowed-share sell orders at 1 percent of a stock's average daily volume over the previous 30 trading days, down from 3 percent, with no end date set. The measures are the commission's second tightening in ten days, after the November 9 package cut the borrowed-share cap from 30 percent to 3 percent and raised the minimum short-sale margin to 130 percent, and the regulator said market fundamentals remain fairly solid despite the swings.
@@ -39,3 +43,5 @@ Taiwan's fall deepened as Thursday's session went on. A later Investing.com repo
 Asian stocks fell on Thursday, led by Taiwan, where the Weighted Index dropped 3.9 percent as chipmakers sold off. TSMC fell 2.76 percent, Foxconn lost 3.59 percent and Largan Precision plunged 10 percent, while Hong Kong's Hang Seng fell 1.9 percent on a 6.4 percent drop in Tencent, South Korea's Kospi lost 0.5 percent, Australia's ASX 200 fell 1.08 percent and China's CSI 300 eased 0.49 percent; Japan's Nikkei 225 held a 0.3 percent gain.
 
 Investing.com tied the slide to persistent doubts over the AI trade, noting that Anthropic's IPO, priced at 83 dollars a share above its target range in the largest debut on record, had done little to ease them, and that Nvidia had closed 2.9 percent lower in New York after its post-earnings rally faded.
+
+The filing record shows the retreat predates this week. Anther Capital, a Hong Kong family office founded by hedge fund veteran Larry Chen, no longer held stakes worth about $3.9 billion at the end of the third quarter, according to US 13F filings reported by Bloomberg and summarised by TradersUnion. The positions removed were mainly in AI hardware and semiconductor companies and had included stakes in Western Digital and Micron Technology.
