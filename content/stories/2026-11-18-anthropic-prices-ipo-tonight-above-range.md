@@ -1,13 +1,13 @@
 ---
 title: "Anthropic prices its IPO at 83 dollars a share"
 date: 2026-11-18T09:46:00-05:00
-last_updated: 2026-11-18T20:06:20-05:00
+last_updated: 2026-11-19T11:44:25-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "developing"
 developing: true
-lede: "Anthropic has confirmed it raised $81.3 billion in its initial public offering, selling 980 million shares at $83 a share, above its $70 to $78 filed range, in the largest IPO on record ahead of a first trade on Thursday."
-why_it_matters: "At $81.3 billion the offering passes the $75 billion SpaceX debut in June as the biggest IPO ever recorded, and Thursday's first trade under the ticker ANT will set the reference point for AI valuations, including for rival OpenAI."
+lede: "Anthropic shares were indicated to open sharply higher on their Nasdaq debut on Thursday, with gray market derivatives implying a gain of about 27 percent on the $83 IPO price and Nasdaq indications pointing above $100 a share."
+why_it_matters: "A first day pop on the largest IPO on record, $107.3 billion including the private placement, would set the opening reference price for AI valuations, including for rival OpenAI, though no confirmed first trade price had been reported in the sources read as of late morning."
 featured: false
 evidence_grade: "B"
 sources:
@@ -27,6 +27,18 @@ sources:
     publisher: "TechCrunch"
     url: "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
     published: "2026-11-18"
+  - title: "Anthropic Gray Markets Indicate First-Day Pop After Record IPO"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets"
+    published: "2026-11-19"
+  - title: "Anthropic launches IPO at $83 per share"
+    publisher: "Datacenter Dynamics"
+    url: "https://www.datacenterdynamics.com/en/news/anthropic-launches-ipo-at-83-per-share/"
+    published: "2026-11-19"
+  - title: "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+    published: "2026-11-19"
   - title: "Anthropic prices blockbuster IPO at $83 a share, source says"
     publisher: "Reuters, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
@@ -37,10 +49,12 @@ sources:
     published: "2026-11-18"
 tags: []
 update_bump: true
-data_as_of: "TechCrunch of November 18, 2026, read in full, and Reuters reporting of November 18, 2026 carried by Investing.com and The Guardian of November 18, 2026, both read in full via the estate browser route; the $83 price rests on a person familiar with the matter in the Reuters report, Anthropic declined to comment, and no pricing prospectus (Form 424B4) is cited in any of the three reports. The $1.5 trillion fully diluted valuation is TechCrunch reporting. Latest update adds Anthropic's Form S-1MEF filed with the SEC on November 18, 2026 (accession 0001628280-26-074904), read in full from EDGAR; the additional share count and the 20 percent limit are the filing's own. Final update adds Al Jazeera of November 19, 2026, read in full via the estate browser route, reporting Anthropic's own statement of Wednesday evening for the $81.3 billion raised and the 980 million shares sold; no Form 424B4 pricing prospectus has been cited yet. Earlier sourcing as previously stated. Developing item."
+data_as_of: "TechCrunch of November 18, 2026, read in full, and Reuters reporting of November 18, 2026 carried by Investing.com and The Guardian of November 18, 2026, both read in full via the estate browser route; the $83 price rests on a person familiar with the matter in the Reuters report, Anthropic declined to comment, and no pricing prospectus (Form 424B4) is cited in any of the three reports. The $1.5 trillion fully diluted valuation is TechCrunch reporting. Latest update adds Anthropic's Form S-1MEF filed with the SEC on November 18, 2026 (accession 0001628280-26-074904), read in full from EDGAR; the additional share count and the 20 percent limit are the filing's own. Final update adds Al Jazeera of November 19, 2026, read in full via the estate browser route, reporting Anthropic's own statement of Wednesday evening for the $81.3 billion raised and the 980 million shares sold; no Form 424B4 pricing prospectus has been cited yet. Debut day update adds Bloomberg of November 19, 2026, read via the estate browser route, whose article body was paywalled and whose visible takeaways carry the gray market indications (IG International derivatives implying about 27 percent, Hyperliquid perpetual futures at a similar premium, and the $107.3 billion combined IPO and private placement total), Datacenter Dynamics of November 19, 2026, read in full, for the Nasdaq indication above $100, and TechCrunch of November 19, 2026, read in full, for the opening bell ceremony. No source read in this run reported a confirmed first trade price. Earlier sourcing as previously stated. Developing item."
 ---
 
-**Latest:** Anthropic confirmed the final terms in a company statement on Wednesday evening, reported by Al Jazeera: the offering raised $81.3 billion, with 980 million shares sold by the company and its seven co-founders at $83 a share, valuing the company at roughly $1.5 trillion. The raised total is the largest for an initial public offering on record, ahead of the $75 billion SpaceX debut in June, and the 980 million shares sold match the upsized registration once the underwriters' option shares are set aside. Trading begins on Thursday on Nasdaq under the ticker ANT.
+**Latest:** Anthropic made its Nasdaq debut on Thursday, and gray market trading pointed to a large first day gain. Bloomberg reported that derivatives offered by IG International implied a rise of about 27 percent on the $83 IPO price, with crypto perpetual futures on Hyperliquid trading at a similar premium, and Datacenter Dynamics reported Nasdaq data suggesting the shares could open above $100. At the opening bell ceremony, chief executive Dario Amodei recommitted the company to pacing AI development and keeping its systems under human control, TechCrunch reported. No confirmed first trade price had been reported in the sources read as of late morning.
+
+**Earlier:** Anthropic confirmed the final terms in a company statement on Wednesday evening, reported by Al Jazeera: the offering raised $81.3 billion, with 980 million shares sold by the company and its seven co-founders at $83 a share, valuing the company at roughly $1.5 trillion. The raised total is the largest for an initial public offering on record, ahead of the $75 billion SpaceX debut in June, and the 980 million shares sold match the upsized registration once the underwriters' option shares are set aside. Trading begins on Thursday on Nasdaq under the ticker ANT.
 
 Anthropic registered 178,250,000 additional Class A shares with the SEC on Wednesday evening, in a Form S-1MEF filing under Rule 462(b) against its earlier registration statement (No. 333-299633). All of the additional shares are sold by the company, and 23,250,000 of them are shares subject to the underwriters' option to purchase additional shares. The filing says the additional shares are in an amount and at a price that together represent no more than 20 percent of the maximum aggregate offering price in the earlier registration. The filing is the first primary-source confirmation of the upsizing Reuters reported without a share count, and it takes the registered Class A total to about 1,003 million shares against the 825 million shares in the marketed offering.
 
