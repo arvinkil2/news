@@ -2,10 +2,10 @@
 title: "Indonesia"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Indonesia, refreshed every 15 minutes."
-data_as_of: "Nov 19, 6:52 AM ET"
+data_as_of: "Nov 19, 7:08 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 7:08 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Jakarta Composite (index)</td><td class="num">5,194 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-1.02%</span></td><td class="num"><span class="down">-1.08%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.9 4.2,9.2 8.3,7.0 12.5,4.3 16.7,2.0 20.9,5.0 25.0,9.8 29.2,9.0 33.4,17.3 37.6,19.1 41.7,17.4 45.9,26.0 50.1,25.3 54.3,20.3 58.4,19.4 62.6,18.4 66.8,16.1 71.0,16.5 75.1,10.5 79.3,6.3 83.5,7.3 87.7,8.0 91.8,10.6 96.0,13.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.4900 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-0.66%</span></td><td class="num"><span class="up">+2.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.4,9.8 8.7,4.4 13.1,2.0 17.5,2.7 21.8,4.6 26.2,8.8 30.5,6.2 34.9,14.9 39.3,17.8 43.6,16.1 48.0,24.8 52.4,20.4 56.7,20.8 61.1,15.2 65.5,9.5 69.8,12.1 74.2,11.9 78.5,5.8 82.9,2.7 87.3,4.8 91.6,3.6 96.0,5.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
