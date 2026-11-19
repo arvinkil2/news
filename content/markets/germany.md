@@ -2,14 +2,14 @@
 title: "Germany"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Germany, refreshed every 15 minutes."
-data_as_of: "Nov 19, 9:53 AM ET"
+data_as_of: "Nov 19, 10:06 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 9:53 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 10:06 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>DAX (index)</td><td class="num">25,680 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.22%</span></td><td class="num"><span class="down">-4.08%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.2,24.1 8.3,19.0 12.5,23.1 16.7,26.0 20.9,22.5 25.0,19.8 29.2,18.1 33.4,13.1 37.6,16.4 41.7,13.9 45.9,15.7 50.1,7.0 54.3,8.7 58.4,16.4 62.6,9.6 66.8,8.4 71.0,3.6 75.1,2.0 79.3,2.3 83.5,4.6 87.7,13.0 91.8,17.6 96.0,18.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>DAX (index)</td><td class="num">25,710 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.10%</span></td><td class="num"><span class="down">-3.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.9 4.2,24.1 8.3,19.0 12.5,23.1 16.7,26.0 20.9,22.5 25.0,19.8 29.2,18.1 33.4,13.1 37.6,16.4 41.7,13.9 45.9,15.7 50.1,7.0 54.3,8.7 58.4,16.4 62.6,9.6 66.8,8.4 71.0,3.6 75.1,2.0 79.3,2.3 83.5,4.6 87.7,13.0 91.8,17.6 96.0,18.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Germany (EWG)</td><td class="num">$40.9800 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.12%</span></td><td class="num"><span class="down">-4.27%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.1 4.2,21.4 8.3,18.9 12.5,22.2 16.7,26.0 20.9,23.2 25.0,20.6 29.2,17.9 33.4,12.2 37.6,17.2 41.7,14.6 45.9,15.5 50.1,2.0 54.3,9.0 58.4,20.0 62.6,6.8 66.8,7.2 71.0,6.5 75.1,8.5 79.3,7.6 83.5,13.1 87.7,19.2 91.8,25.2 96.0,25.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.0993 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="up">-0.00%</span></td><td class="num"><span class="down">-0.92%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.2,3.9 8.3,2.8 12.5,2.0 16.7,3.4 20.9,3.7 25.0,8.0 29.2,12.4 33.4,9.8 37.6,7.2 41.7,9.7 45.9,6.3 50.1,4.8 54.3,2.0 58.4,2.7 62.6,10.7 66.8,3.3 71.0,8.5 75.1,15.9 79.3,20.3 83.5,22.8 87.7,25.5 91.8,26.0 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.0995 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="down">-0.90%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.0 4.2,3.9 8.3,2.8 12.5,2.0 16.7,3.4 20.9,3.7 25.0,8.0 29.2,12.4 33.4,9.8 37.6,7.2 41.7,9.7 45.9,6.3 50.1,4.8 54.3,2.0 58.4,2.7 62.6,10.7 66.8,3.3 71.0,8.5 75.1,15.9 79.3,20.3 83.5,22.8 87.7,25.5 91.8,26.0 96.0,25.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
