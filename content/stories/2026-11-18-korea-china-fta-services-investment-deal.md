@@ -1,12 +1,12 @@
 ---
 title: "Korea and China conclude FTA services and investment talks"
 date: 2026-11-18T03:23:47-05:00
-last_updated: 2026-11-18T03:23:47-05:00
+last_updated: 2026-11-18T23:49:05-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "South Korea and China declared the substantial conclusion of their free trade agreement follow-up negotiations on services and investment at a summit in Shenzhen on Wednesday, ending talks launched in March 2018, with China promising most-favoured-nation treatment for Korean film and games."
-why_it_matters: "The deal extends the Korea-China economic relationship beyond goods, where trade runs at about 270 billion dollars a year, into services, where it is only 38.8 billion, and gives Korean content, tourism, finance and distribution firms a treaty basis for entering the Chinese market that did not exist before."
+lede: "South Korean content and travel stocks surged on Thursday after Seoul and Beijing concluded their free trade agreement follow-up talks, with drama producer Studio Dragon up 29.96 percent and Parasite backer CJ ENM up 26 percent on China's promise of market access for Korean film, games and tourism."
+why_it_matters: "The rally prices a reopening of the Chinese market to Korean content for the first time since Beijing's curbs after the 2016 THAAD deployment, though the agreement is not yet signed and does not explicitly cover K-pop concerts or drama distribution in mainland China."
 featured: true
 evidence_grade: "A"
 sources:
@@ -22,10 +22,16 @@ sources:
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261118156500003"
     published: "2026-11-18"
+  - title: "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html"
+    published: "2026-11-19"
 tags: []
 update_bump: true
-data_as_of: "South Korea's Ministry of Trade, Industry and Energy announcement of November 18, 2026, read in full in Korean in its reproduced text and in English reporting of the release; all terms, figures and the minister's statement are the ministry's own. The Korea Chamber of Commerce and Industry statement of the same day was read in full via Yonhap, in Korean."
+data_as_of: "South Korea's Ministry of Trade, Industry and Energy announcement of November 18, 2026, read in full in Korean in its reproduced text and in English reporting of the release; all terms, figures and the minister's statement are the ministry's own. The Korea Chamber of Commerce and Industry statement of the same day was read in full via Yonhap, in Korean. Latest update adds CNBC of November 19, 2026, read in full via the estate browser route; the share moves and analyst estimates are CNBC's reporting of Thursday trading in Seoul."
 ---
+
+**Latest.** South Korean content, gaming and travel shares rallied sharply on Thursday, the first trading session after the conclusion of the talks. Studio Dragon, the drama producer behind Crash Landing on You, rose 29.96 percent, CJ ENM, which backed the film Parasite, rose 26 percent, travel agency Hana Tour rose 18 percent and film distributor Showbox gained 9 percent, while gaming names Krafton advanced 2.69 percent and Shift Up 6.57 percent. Analysts cited by CNBC called the agreement a meaningful step towards reopening the Chinese market after nearly a decade of curbs, with Hana Securities estimating Studio Dragon's operating profit could rise by as much as 50 percent if Chinese streaming platforms resume airing Korean dramas it has already sold. The agreement has yet to be formally signed or take effect, and it does not explicitly address a resumption of K-pop concerts, according to NH Investment and Securities cited by CNBC.
 
 South Korea and China declared the substantial conclusion of the services and investment follow-up negotiations under their free trade agreement at a bilateral summit held in Shenzhen on Wednesday on the sidelines of the APEC summit, South Korea's Ministry of Trade, Industry and Energy said. Substantial conclusion means the negotiations are closed, with some technical text still to be finished through working-level discussions. The talks were launched in March 2018 as a follow-up to the original agreement, which took effect in December 2015, and reached this point after about eight years and eight months, including a stall of more than four years and five formal rounds this year alone, from the thirteenth round in Beijing in January to the seventeenth in Seoul in October.
 
