@@ -1,13 +1,13 @@
 ---
 title: "RRJ-led consortium buys $619 million of GM3 coal bonds"
 date: 2026-11-19T00:23:50-05:00
-last_updated: 2026-11-19T00:23:50-05:00
+last_updated: 2026-11-19T00:25:01-05:00
 beats: ["mining"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 lede: "A consortium led by RRJ Capital has agreed to buy 619 million dollars of bonds from Australian coking coal miner GM3, refinancing a 600 million dollar private credit loan."
-why_it_matters: "The deal moves one of Australia's largest coking coal producers from private credit into the bond market at a 9.75 percent coupon, a price that shows what coal financing still costs as banks stay away from the sector."
+why_it_matters: "The deal takes GM3 out of a 600 million dollar private credit loan and into the bond market at a 9.75 percent coupon, a price that shows what coal financing still costs as banks stay away from the sector."
 featured: false
 evidence_grade: "C"
 sources:
