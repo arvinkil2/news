@@ -1,14 +1,14 @@
 ---
 title: "Lenovo revenue jumps 48 percent as AI sales surge"
 date: 2026-11-19T05:06:32-05:00
-last_updated: 2026-11-19T05:06:32-05:00
+last_updated: 2026-11-19T07:11:46-05:00
 beats: ["technology"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 lede: "Lenovo's second-quarter revenue rose 48 percent to $30.2 billion, beating a $27.6 billion analyst consensus, as AI-related revenue surged 79 percent to $10.8 billion and its server business posted its strongest quarter ever."
 why_it_matters: "The world's largest PC maker is now drawing more than a third of its revenue from AI hardware, and a 178 percent jump in server sales shows the AI buildout reaching well beyond the US chip names, even as a warrant-related accounting charge pushed it to a reported net loss and its shares fell 5.5 percent."
-featured: false
+featured: true
 evidence_grade: "C"
 sources:
   - title: "Lenovo posts 48% revenue jump on AI-related sales, beating estimates"

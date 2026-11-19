@@ -1,14 +1,14 @@
 ---
 title: "ECB warns AI valuations and sovereign debt cloud stability outlook"
 date: 2026-11-19T05:21:55-05:00
-last_updated: 2026-11-19T05:21:55-05:00
+last_updated: 2026-11-19T07:11:46-05:00
 beats: ["rates"]
 regions: ["europe"]
 status: "developing"
 developing: true
 lede: "The European Central Bank's November Financial Stability Review, published Thursday, says the euro area has proved resilient to energy and trade shocks, but that financial market pricing rests on extraordinary earnings expectations for AI firms, sovereign vulnerabilities are building, and the three risks could materialise together."
 why_it_matters: "The review ties the AI trade directly to sovereign and bank balance sheets: AI infrastructure debt issuance is at record highs, US big tech capital spending is projected at 5.5 trillion dollars by 2030, and the ECB says a shift in the AI narrative could trigger abrupt repricing across both bond and equity markets."
-featured: false
+featured: true
 evidence_grade: "A"
 sources:
   - title: "Financial Stability Review, November 2026"

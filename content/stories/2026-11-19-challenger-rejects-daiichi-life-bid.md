@@ -1,14 +1,14 @@
 ---
 title: "Challenger rejects Daiichi Life's $4.4 billion takeover bid"
 date: 2026-11-19T02:43:02-05:00
-last_updated: 2026-11-19T02:43:02-05:00
+last_updated: 2026-11-19T07:11:46-05:00
 beats: ["infra-deals"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 lede: "Australian retirement income provider Challenger said on Thursday it had rejected a revised A$12.20 per share takeover offer from Japan's Daiichi Life, valuing the stake it does not already own at about A$6.5 billion ($4.4 billion), saying the proposal undervalued the company."
 why_it_matters: "Daiichi Life already holds about a fifth of Challenger, and a second rejection at a thin premium leaves the Japanese insurer's path to control of Australia's largest annuity provider unresolved."
-featured: false
+featured: true
 evidence_grade: "C"
 sources:
   - title: "Australia's Challenger rejects $4.4 bln bid from Daiichi Life, shares fall"
