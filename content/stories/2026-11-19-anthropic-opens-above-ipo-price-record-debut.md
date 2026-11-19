@@ -1,12 +1,12 @@
 ---
-title: "Anthropic opens 34 percent above its IPO price in record debut"
+title: "Anthropic closes 17 percent above IPO price after record debut"
 date: 2026-11-19T12:31:34-05:00
-last_updated: 2026-11-19T12:31:34-05:00
+last_updated: 2026-11-19T17:06:25-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Anthropic shares opened at 111.50 dollars on the Nasdaq on Thursday, 34 percent above the 83 dollar IPO price, valuing the Claude maker at about 2 trillion dollars after the largest share offering on record raised 81 billion dollars."
-why_it_matters: "The first trading day of the first large AI laboratory to go public is the market's clearest price yet on the AI buildout, and a 34 percent opening premium says investors are still paying for exposure even as doubts about AI valuations knocked Asian chip stocks the same day."
+lede: "Anthropic shares closed at 97.17 dollars on Thursday, 17 percent above the 83 dollar IPO price and below the 111.50 dollar opening price, leaving the Claude maker valued at about 1.77 trillion dollars on a fully diluted basis."
+why_it_matters: "The fade from a 34 percent opening premium to a 17 percent close, on a day when the major US indexes fell for a sixth session, is the market's first traded verdict on the AI buildout: demand for the listing was real, but buyers would not hold the opening price."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,10 +22,16 @@ sources:
     publisher: "TechCrunch"
     url: "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
     published: "2026-11-19"
+  - title: "Anthropic hits $2 trillion market value in debut; major indexes fall"
+    publisher: "Reuters, carried by 94.7 The Beast"
+    url: "https://947thebeast.com/2026/11/19/anthropic-set-to-soar-in-debut-will-ai-peers-follow/"
+    published: "2026-11-19"
 tags: []
 update_bump: true
-data_as_of: "Deutsche Welle report of November 19, 2026, with AP, AFP and Reuters, NOS report of November 19, 2026, in Dutch, crediting AFP, and TechCrunch report of November 19, 2026, each read in full via the estate browser route. DW gives the opening price as 111.50 dollars; NOS reported about 111 dollars at the open. A France24 account of the debut could not be read (the domain is blocked to this reader on both routes) and is not used. Stake figures are from Amendment No. 3 to Anthropic's Form S-1, as covered on this site this morning."
+data_as_of: "Updated November 19, 2026 with the Reuters report of the same day, read in full as carried by 94.7 The Beast: closing price 97.17 dollars, fully diluted valuation about 1.77 trillion dollars, and the day's index moves. Earlier: Deutsche Welle report of November 19, 2026, with AP, AFP and Reuters, NOS report of November 19, 2026, in Dutch, crediting AFP, and TechCrunch report of November 19, 2026, each read in full via the estate browser route. DW gives the opening price as 111.50 dollars; NOS reported about 111 dollars at the open. A France24 account of the debut could not be read (the domain is blocked to this reader on both routes) and is not used. Stake figures are from Amendment No. 3 to Anthropic's Form S-1, as covered on this site this morning."
 ---
+
+**Latest.** Anthropic shares closed at 97.17 dollars on Thursday, 17 percent above the IPO price, Reuters reported, leaving the company valued at about 1.77 trillion dollars on a fully diluted basis after the opening print had briefly put it at about 2 trillion dollars. The close came on a weak day for the wider market: stocks fell for a sixth session, with the Nasdaq down 2.3 percent and the S&P 500 down 2 percent after both had opened higher, and AMD fell 8 percent after the short seller report covered on this site earlier in the day.
 
 Anthropic shares opened at 111.50 dollars on the Nasdaq on Thursday, 34 percent above the 83 dollar price set in the company's initial public offering, according to Deutsche Welle reporting with AP, AFP and Reuters. The opening price values the San Francisco company, maker of the Claude chatbot, at about 2 trillion dollars. NOS, crediting AFP, reported an opening price of about 111 dollars, well over a third above the introduction price. The shares trade under the ticker ANT.
 
