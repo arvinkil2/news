@@ -2,14 +2,14 @@
 title: "United Kingdom"
 date: "2026-11-19"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United Kingdom, refreshed every 15 minutes."
-data_as_of: "Nov 19, 9:14 AM ET"
+data_as_of: "Nov 19, 9:20 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 19, 9:14 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 19, 9:20 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>FTSE 100 (index)</td><td class="num">10,525 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.25%</span></td><td class="num"><span class="down">-3.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.8 4.2,12.8 8.3,11.5 12.5,13.3 16.7,15.5 20.9,10.6 25.0,15.7 29.2,15.2 33.4,13.5 37.6,13.0 41.7,11.0 45.9,18.8 50.1,6.7 54.3,9.6 58.4,16.5 62.6,9.6 66.8,11.6 71.0,6.3 75.1,4.5 79.3,2.0 83.5,3.3 87.7,15.5 91.8,24.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>FTSE 100 (index)</td><td class="num">10,519 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.31%</span></td><td class="num"><span class="down">-3.17%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,10.6 4.2,12.6 8.3,11.4 12.5,13.1 16.7,15.3 20.9,10.5 25.0,15.5 29.2,15.0 33.4,13.3 37.6,12.8 41.7,10.8 45.9,18.5 50.1,6.6 54.3,9.5 58.4,16.3 62.6,9.5 66.8,11.4 71.0,6.2 75.1,4.5 79.3,2.0 83.5,3.3 87.7,15.3 91.8,24.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI United Kingdom (EWU)</td><td class="num">$46.0900 <span class="gm-sub-inline">as of 2026-11-18</span></td><td class="num"><span class="down">-1.81%</span></td><td class="num"><span class="down">-3.62%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.4 4.4,11.9 8.7,12.5 13.1,11.2 17.5,13.9 21.8,13.2 26.2,16.7 30.5,15.9 34.9,12.4 39.3,11.3 43.6,9.6 48.0,15.8 52.4,2.0 56.7,10.8 61.1,16.5 65.5,7.2 69.8,10.2 74.2,11.4 78.5,11.9 82.9,10.1 87.3,13.4 91.6,18.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>GBP/USD</td><td class="num">1.3162 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.32%</span></td><td class="num"><span class="down">-0.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.7 4.2,14.9 8.3,9.9 12.5,8.2 16.7,7.6 20.9,9.5 25.0,12.1 29.2,15.0 33.4,13.4 37.6,9.5 41.7,8.9 45.9,7.1 50.1,5.3 54.3,2.0 58.4,3.6 62.6,10.9 66.8,4.7 71.0,11.8 75.1,17.2 79.3,20.7 83.5,21.9 87.7,24.2 91.8,22.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>GBP/USD</td><td class="num">1.3163 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.32%</span></td><td class="num"><span class="down">-0.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.8 4.2,14.9 8.3,9.9 12.5,8.2 16.7,7.6 20.9,9.6 25.0,12.1 29.2,15.1 33.4,13.4 37.6,9.5 41.7,9.0 45.9,7.1 50.1,5.3 54.3,2.0 58.4,3.6 62.6,10.9 66.8,4.7 71.0,11.8 75.1,17.3 79.3,20.8 83.5,21.9 87.7,24.3 91.8,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -19,11 +19,11 @@ data_as_of: "Nov 19, 9:14 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-uk-regulators-cyber-resilience-guidance-consultation/">UK regulators propose cyber resilience guidance as incidents surge</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-duke-energy-data-center-rate-class-north-carolina/">North Carolina approves Duke data center rate class</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-producer-input-prices-rise-10-8-percent/">UK producer input prices jump 10.8 percent on oil</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-commission-proposes-45-billion-coordinated-support-ukraine/">Commission proposes 45 billion euro coordinated support loan for Ukraine</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-inflation-rises-3-6-percent-october/">UK inflation rises to 3.6 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-paris-confirms-french-personnel-ukraine/">Paris confirms French military personnel are operating inside Ukraine</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-ukraine-strikes-ilsky-afipsky-refineries-krasnodar/">Ukraine strikes Ilsky and Afipsky refineries in Krasnodar</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-uk-gifts-1000-long-range-strike-drones-ukraine/">Britain to gift Ukraine 1,000 long range strike drones</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-uk-unemployment-falls-pay-growth-slows/">UK unemployment falls to 4.6 percent as pay growth slows</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
