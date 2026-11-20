@@ -2,14 +2,14 @@
 title: "Taiwan"
 date: "2026-11-20"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 20, 9:53 AM ET"
+data_as_of: "Nov 20, 10:13 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 20, 9:53 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 20, 10:13 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">36,033 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-6.23%</span></td><td class="num"><span class="down">-17.50%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.6 4.6,2.3 9.1,4.2 13.7,4.0 18.3,2.0 22.9,3.5 27.4,6.0 32.0,6.6 36.6,10.1 41.1,10.9 45.7,13.9 50.3,18.0 54.9,13.7 59.4,11.4 64.0,8.1 68.6,10.6 73.1,9.3 77.7,15.1 82.3,17.1 86.9,16.9 91.4,20.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$79.53 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-5.28%</span></td><td class="num"><span class="down">-18.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.4 4.2,2.0 8.3,6.1 12.5,5.3 16.7,4.8 20.9,3.4 25.0,2.0 29.2,4.4 33.4,8.4 37.6,8.8 41.7,10.7 45.9,11.7 50.1,20.8 54.3,18.1 58.4,12.9 62.6,13.7 66.8,9.2 71.0,11.6 75.1,11.5 79.3,16.8 83.5,18.5 87.7,18.5 91.8,22.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/TWD</td><td class="num">32.9030 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="up">+0.08%</span></td><td class="num"><span class="up">+0.11%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.3 4.2,19.2 8.3,26.0 12.5,18.5 16.7,19.4 20.9,20.5 25.0,24.1 29.2,25.5 33.4,19.5 37.6,18.2 41.7,18.9 45.9,14.1 50.1,11.3 54.3,2.0 58.4,13.3 62.6,12.4 66.8,7.0 71.0,10.0 75.1,7.5 79.3,9.5 83.5,6.7 87.7,8.4 91.8,7.8 96.0,8.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$79.12 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-5.76%</span></td><td class="num"><span class="down">-18.75%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.3 4.2,2.0 8.3,6.0 12.5,5.3 16.7,4.7 20.9,3.4 25.0,2.0 29.2,4.4 33.4,8.3 37.6,8.7 41.7,10.6 45.9,11.6 50.1,20.6 54.3,17.9 58.4,12.7 62.6,13.5 66.8,9.1 71.0,11.4 75.1,11.3 79.3,16.6 83.5,18.3 87.7,18.3 91.8,22.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/TWD</td><td class="num">32.9050 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="up">+0.08%</span></td><td class="num"><span class="up">+0.10%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.3 4.2,19.2 8.3,26.0 12.5,18.5 16.7,19.4 20.9,20.5 25.0,24.1 29.2,25.5 33.4,19.5 37.6,18.2 41.7,18.9 45.9,14.1 50.1,11.3 54.3,2.0 58.4,13.3 62.6,12.4 66.8,7.0 71.0,10.0 75.1,7.5 79.3,9.5 83.5,6.7 87.7,8.4 91.8,7.8 96.0,8.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
