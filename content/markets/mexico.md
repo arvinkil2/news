@@ -2,14 +2,14 @@
 title: "Mexico"
 date: "2026-11-20"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Mexico, refreshed every 15 minutes."
-data_as_of: "Nov 20, 7:26 AM ET"
+data_as_of: "Nov 20, 7:49 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 20, 7:26 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 20, 7:49 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>IPC (index)</td><td class="num">68,714 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-0.64%</span></td><td class="num"><span class="down">-4.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.8 4.6,22.0 9.1,14.8 13.7,17.4 18.3,17.5 22.9,20.5 27.4,18.7 32.0,22.6 36.6,18.2 41.1,18.2 45.7,15.3 50.3,10.6 54.9,8.7 59.4,6.5 64.0,3.1 68.6,2.8 73.1,2.0 77.7,3.4 82.3,7.8 86.9,13.8 91.4,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Mexico (EWW)</td><td class="num">$72.52 <span class="gm-sub-inline">as of 2026-11-19</span></td><td class="num"><span class="down">-1.51%</span></td><td class="num"><span class="down">-6.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.2 4.4,12.0 8.7,14.8 13.1,13.3 17.5,13.1 21.8,14.5 26.2,16.2 30.5,17.0 34.9,17.0 39.3,10.5 43.6,15.8 48.0,8.3 52.4,9.6 56.7,6.5 61.1,2.7 65.5,3.2 69.8,2.0 74.2,2.4 78.5,4.7 82.9,7.9 87.3,6.0 91.6,20.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/MXN</td><td class="num">19.0615 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-1.12%</span></td><td class="num"><span class="down">-2.53%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.2,25.5 8.3,16.1 12.5,14.5 16.7,14.6 20.9,20.8 25.0,15.8 29.2,17.8 33.4,9.7 37.6,11.9 41.7,20.1 45.9,11.0 50.1,18.7 54.3,12.3 58.4,17.6 62.6,21.4 66.8,19.0 71.0,18.3 75.1,19.3 79.3,21.7 83.5,22.0 87.7,25.8 91.8,9.7 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/MXN</td><td class="num">19.0761 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-1.19%</span></td><td class="num"><span class="down">-2.61%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.2,25.5 8.3,16.3 12.5,14.8 16.7,14.9 20.9,20.9 25.0,16.0 29.2,18.0 33.4,10.1 37.6,12.2 41.7,20.2 45.9,11.3 50.1,18.9 54.3,12.6 58.4,17.8 62.6,21.5 66.8,19.2 71.0,18.5 75.1,19.5 79.3,21.8 83.5,22.1 87.7,25.8 91.8,10.1 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
