@@ -1,13 +1,13 @@
 ---
 title: "SoftBank plunges 16 percent as AI selloff sweeps Asia"
 date: 2026-11-19T21:33:19-05:00
-last_updated: 2026-11-19T23:21:53-05:00
+last_updated: 2026-11-20T01:43:18-05:00
 beats: ["rates"]
 regions: ["asia-pacific", "north-america"]
 status: "developing"
 developing: true
-lede: "Hong Kong's Hang Seng fell 2.1 percent on Friday and is set to enter a bear market, down more than 20 percent from its January high, as the MSCI Asia-Pacific ex-Japan index fell 3.5 percent to its weakest level since early April and heads for a weekly loss of about 8.6 percent, its worst since the Covid crisis of early 2020."
-why_it_matters: "The rout has now run for a full week across every major Asian market, with Taiwan and South Korea at multi-month lows and Hong Kong at the bear market threshold, so the question for Monday is whether regional regulators and domestic buyers treat the AI unwind as a stability problem, as Taiwan's commission already has."
+lede: "Taiwan's Weighted Index closed down 6.63 percent on Friday to a new six-month low, with falling stocks outnumbering advancers 1,092 to 17 on the Taiwan Stock Exchange, as the week-long Asia AI selloff deepened into the close."
+why_it_matters: "The rout has now run for a full week across every major Asian market, and Friday's closing figures are worse than the intraday snapshots in Taipei, Hong Kong and Seoul, so the question for Monday is whether regional regulators and domestic buyers treat the AI unwind as a stability problem, as Taiwan's commission already has."
 featured: false
 evidence_grade: "B"
 sources:
@@ -27,10 +27,16 @@ sources:
     publisher: "Investing.com"
     url: "https://www.investing.com/news/stock-market-news/asia-stocks-slide-to-7mth-low-with-skorea-taiwan-worst-hit-by-ai-rout-5040572"
     published: "2026-11-20"
+  - title: "Taiwan stocks lower at close of trade; Taiwan Weighted down 6.63%"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-663-5040720"
+    published: "2026-11-20"
 tags: []
 update_bump: true
-data_as_of: "CNBC report of November 20, 2026 (published 01:07 UTC), read via its Biztoc carry, and Dow Jones Newswires report of November 19, 2026 (20:33 ET), read in full via Morningstar. Figures are Friday intraday moves in Tokyo and Seoul; the sessions had not closed when the reports were filed, and Dow Jones' earlier snapshot put SoftBank down 15.6 percent against CNBC's later 16.16 percent. The Tech in Asia feed item that first surfaced this headline links to an October 20 article on SoftBank credit spreads that does not report this move and is not used. Updated November 19, 2026, with Al Jazeera's report of November 20, 2026, read in full via the estate browser route: the Taiex and Hang Seng Friday moves and the Societe Generale strategist's comments are that report's own, and its morning snapshots for the Nikkei and Kospi (about 4.5 percent) precede the later 4.7 percent figures above. Updated again November 19, 2026, with Investing.com's report of November 20, 2026, read in full via the estate browser route: the MSCI Asia-Pacific ex-Japan weekly figure, the Hang Seng bear market threshold, the Taiwan and Kospi low levels and the Alibaba move are that report's own, and its Friday index figures are later readings than the snapshots above, which is why its Kospi figure (down 4.4 percent) differs from the 4.7 percent reported earlier. Developing item."
+data_as_of: "CNBC report of November 20, 2026 (published 01:07 UTC), read via its Biztoc carry, and Dow Jones Newswires report of November 19, 2026 (20:33 ET), read in full via Morningstar. Figures are Friday intraday moves in Tokyo and Seoul; the sessions had not closed when the reports were filed, and Dow Jones' earlier snapshot put SoftBank down 15.6 percent against CNBC's later 16.16 percent. The Tech in Asia feed item that first surfaced this headline links to an October 20 article on SoftBank credit spreads that does not report this move and is not used. Updated November 19, 2026, with Al Jazeera's report of November 20, 2026, read in full via the estate browser route: the Taiex and Hang Seng Friday moves and the Societe Generale strategist's comments are that report's own, and its morning snapshots for the Nikkei and Kospi (about 4.5 percent) precede the later 4.7 percent figures above. Updated again November 19, 2026, with Investing.com's report of November 20, 2026, read in full via the estate browser route: the MSCI Asia-Pacific ex-Japan weekly figure, the Hang Seng bear market threshold, the Taiwan and Kospi low levels and the Alibaba move are that report's own, and its Friday index figures are later readings than the snapshots above, which is why its Kospi figure (down 4.4 percent) differs from the 4.7 percent reported earlier. Developing item. Updated November 20, 2026, with Investing.com's Taiwan close report of November 20, 2026, read in full via the estate browser route: the 6.63 percent closing fall, the six-month low, the 1,092 to 17 breadth and the Delta Electronics and Chroma ATE closing falls are that report's own, and its closing figure supersedes the 5.6 percent intraday reading above."
 ---
+
+**Latest.** Taiwan's Weighted Index closed down 6.63 percent on Friday to a new six-month low, Investing.com reported, worse than the 5.6 percent intraday fall reported earlier in the session. Falling stocks outnumbered advancing ones on the Taiwan Stock Exchange by 1,092 to 17, with 18 unchanged, and the heavyweight losses reached the market's limit moves: Delta Electronics fell 10.00 percent to 900.00 and Chroma ATE fell 10.00 percent to 927.00 at the close.
 
 **Latest.** The regional index has now fallen far enough to set weekly records. The MSCI Asia-Pacific ex-Japan index tumbled 3.5 percent on Friday to its weakest level since early April and is set to lose about 8.6 percent this week, its worst weekly performance since the Covid crisis of early 2020, Investing.com reported. Hong Kong's Hang Seng fell 2.1 percent on Friday and is set to enter a bear market, down more than 20 percent from its January high. Taiwan's Weighted Index fell 5.6 percent to a seven-month low and South Korea's Kospi fell 4.4 percent to a nine-month low, while China's CSI 300 lost 2.2 percent and Singapore's Straits Times Index fell 1.8 percent. Alibaba was the one large name to rise, up more than 2 percent in Hong Kong on stronger than expected September quarter revenue, against a 4.6 percent fall in Baidu. The report also tied part of the pressure in Tokyo to Japan's October consumer price data, which kept inflation above the Bank of Japan's 2 percent target and added to expectations of a December rate increase; that release is covered separately on this site.
 
