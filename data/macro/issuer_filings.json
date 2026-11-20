@@ -2,6 +2,24 @@
  "issuers": {
   "alphabet": [
    {
+    "date": "2026-11-20",
+    "form": "FWP",
+    "title": "Pricing term sheet, C$6,000M senior notes in four series",
+    "detail": "Priced November 19, 2026, settlement November 24, 2026, senior unsecured: C$2,000M at 4.100 percent due 2029; C$1,250M at 4.800 percent due 2034; C$1,500M at 5.325 percent due 2038; C$1,250M at 6.000 percent due 2066. Joint book-running managers RBC Dominion Securities, Scotia Capital and TD Securities; co-manager CIBC World Markets. The floating rate series contemplated in the November 19 preliminary prospectus supplement does not appear in the priced set.",
+    "accession": "0001193125-26-469213",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526469213/0001193125-26-469213-index.htm",
+    "grade": "A"
+   },
+   {
+    "date": "2026-11-19",
+    "form": "424B5",
+    "title": "Preliminary prospectus supplement, Canadian dollar senior notes",
+    "detail": "Preliminary prospectus supplement for a Canadian dollar senior unsecured offering in five series, one floating rate series at Daily Compounded CORRA plus a spread and four fixed rate series; amounts, coupons and maturities blank in the preliminary. Four fixed rate series priced the same day at C$6,000M in total under the pricing term sheet filed November 20, 2026.",
+    "accession": "0001193125-26-467927",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526467927/0001193125-26-467927-index.htm",
+    "grade": "A"
+   },
+   {
     "date": "2026-11-05",
     "form": "8-K",
     "title": "Closing of the 6,000M euro senior notes offering",
