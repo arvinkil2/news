@@ -1,15 +1,19 @@
 ---
 title: "Anthropic closes 17 percent above IPO price after record debut"
 date: 2026-11-19T12:31:34-05:00
-last_updated: 2026-11-19T17:06:25-05:00
+last_updated: 2026-11-20T09:00:38-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Anthropic shares closed at 97.17 dollars on Thursday, 17 percent above the 83 dollar IPO price and below the 111.50 dollar opening price, leaving the Claude maker valued at about 1.77 trillion dollars on a fully diluted basis."
-why_it_matters: "The fade from a 34 percent opening premium to a 17 percent close, on a day when the major US indexes fell for a sixth session, is the market's first traded verdict on the AI buildout: demand for the listing was real, but buyers would not hold the opening price."
+lede: "Anthropic's underwriters exercised the greenshoe overallotment in full on Friday, lifting the Class A raise to 93.5 billion dollars and total gross proceeds, with the concurrent private placement, to 119.5 billion dollars, even as the stock fell 12 percent in pre-market trading."
+why_it_matters: "Full exercise of the overallotment confirms institutional demand absorbed the largest offering on record at the 83 dollar price, but the second-day slide shows the aftermarket verdict is still being formed in a broad tech sell-off."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Anthropic raises $93.5 billion total as underwriters scoop up 'greenshoe' overallotment"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+    published: "2026-11-20"
   - title: "Anthropic trading tests investors' appetite for AI"
     publisher: "Deutsche Welle, with AP, AFP and Reuters"
     url: "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163"
@@ -28,10 +32,12 @@ sources:
     published: "2026-11-19"
 tags: []
 update_bump: true
-data_as_of: "Updated November 19, 2026 with the Reuters report of the same day, read in full as carried by 94.7 The Beast: closing price 97.17 dollars, fully diluted valuation about 1.77 trillion dollars, and the day's index moves. Earlier: Deutsche Welle report of November 19, 2026, with AP, AFP and Reuters, NOS report of November 19, 2026, in Dutch, crediting AFP, and TechCrunch report of November 19, 2026, each read in full via the estate browser route. DW gives the opening price as 111.50 dollars; NOS reported about 111 dollars at the open. A France24 account of the debut could not be read (the domain is blocked to this reader on both routes) and is not used. Stake figures are from Amendment No. 3 to Anthropic's Form S-1, as covered on this site this morning."
+data_as_of: "Updated November 20, 2026 with the CNBC report of the same morning, read in full via the estate browser route (cnbc.com is blocked to the direct reader): greenshoe exercised in full, 1,127,000,000 Class A shares sold at 83 dollars, aggregate gross proceeds of 119.5 billion dollars including the 26 billion dollar Class N private placement, and a 12 percent pre-market fall on Friday. Earlier: updated November 19, 2026 with the Reuters report of the same day, read in full as carried by 94.7 The Beast: closing price 97.17 dollars, fully diluted valuation about 1.77 trillion dollars, and the day's index moves. Earlier: Deutsche Welle report of November 19, 2026, with AP, AFP and Reuters, NOS report of November 19, 2026, in Dutch, crediting AFP, and TechCrunch report of November 19, 2026, each read in full via the estate browser route. DW gives the opening price as 111.50 dollars; NOS reported about 111 dollars at the open. A France24 account of the debut could not be read (the domain is blocked to this reader on both routes) and is not used. Stake figures are from Amendment No. 3 to Anthropic's Form S-1, as covered on this site this morning."
 ---
 
-**Latest.** Anthropic shares closed at 97.17 dollars on Thursday, 17 percent above the IPO price, Reuters reported, leaving the company valued at about 1.77 trillion dollars on a fully diluted basis after the opening print had briefly put it at about 2 trillion dollars. The close came on a weak day for the wider market: stocks fell for a sixth session, with the Nasdaq down 2.3 percent and the S&P 500 down 2 percent after both had opened higher, and AMD fell 8 percent after the short seller report covered on this site earlier in the day.
+**Latest.** Anthropic's underwriters exercised their overallotment option in full on Friday, buying the additional 147 million shares and lifting the amount raised in the Class A offering to 93.5 billion dollars, from 81.3 billion dollars on Wednesday, the company said in a release reported by CNBC. In total Anthropic sold 1,127,000,000 Class A shares at 83 dollars, and with the concurrent 26 billion dollar sale of Class N shares to a group of technology companies including AMD, Google, Microsoft and Nvidia, aggregate gross proceeds from the IPO reached 119.5 billion dollars before expenses. The completion of the raise came as the stock itself fell 12 percent in pre-market trading on Friday during a broad tech sell-off, after Thursday's 17 percent debut close.
+
+Anthropic shares closed at 97.17 dollars on Thursday, 17 percent above the IPO price, Reuters reported, leaving the company valued at about 1.77 trillion dollars on a fully diluted basis after the opening print had briefly put it at about 2 trillion dollars. The close came on a weak day for the wider market: stocks fell for a sixth session, with the Nasdaq down 2.3 percent and the S&P 500 down 2 percent after both had opened higher, and AMD fell 8 percent after the short seller report covered on this site earlier in the day.
 
 Anthropic shares opened at 111.50 dollars on the Nasdaq on Thursday, 34 percent above the 83 dollar price set in the company's initial public offering, according to Deutsche Welle reporting with AP, AFP and Reuters. The opening price values the San Francisco company, maker of the Claude chatbot, at about 2 trillion dollars. NOS, crediting AFP, reported an opening price of about 111 dollars, well over a third above the introduction price. The shares trade under the ticker ANT.
 
