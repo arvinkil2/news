@@ -1,7 +1,7 @@
 ---
 title: "US completes first offshore critical minerals lease sale"
 date: 2026-11-19T16:03:34-05:00
-last_updated: 2026-11-19T16:03:34-05:00
+last_updated: 2026-11-20T09:23:58-05:00
 beats: ["mining"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -19,10 +19,16 @@ sources:
     publisher: "gCaptain"
     url: "https://gcaptain.com/u-s-holds-historic-deep-sea-mining-lease-sale/"
     published: "2026-11-19"
+  - title: "US defies court ruling with historic seabed mine leases"
+    publisher: "Mining.com"
+    url: "https://www.mining.com/us-defies-court-ruling-with-historic-seabed-mine-leases/"
+    published: "2026-11-20"
 tags: []
 update_bump: true
-data_as_of: "US Department of the Interior and Bureau of Ocean Energy Management press release of November 19, 2026, read in full; sale figures, acreage, lease terms and royalty schedule are the department's own. Court ruling and opposition context from gCaptain reporting of November 19, 2026, read in full. Developing item."
+data_as_of: "US Department of the Interior and Bureau of Ocean Energy Management press release of November 19, 2026, read in full; sale figures, acreage, lease terms and royalty schedule are the department's own. Court ruling and opposition context from gCaptain reporting of November 19, 2026, read in full. November 20 update: winning bidder identity and the November 18 lawsuit from Mining.com reporting of November 20, 2026, read in full. Developing item."
 ---
+
+**Latest.** Mining.com reported on Friday that both lease areas went to a single bidder, deep-sea mining startup Wetstone US Ventures, which paid the 3 million dollar minimum bid for each area and was the only bidder to submit offers. A further lawsuit filed on November 18 by Finafinau and the Natural Resources Defense Council seeks to invalidate any leases issued through the auction, in addition to the October 19 suit by a council of Samoan chiefs and community groups.
 
 The US Department of the Interior announced on Thursday that Lease Sale PACM-1, the first-ever offshore critical minerals lease sale, generated 6 million dollars in high bids at a live oral auction for two lease areas covering approximately 31,503,235 acres in federal waters offshore American Samoa. The areas lie 150 to 240 miles east of Pago Pago in water depths from 4,630 to 20,100 feet, carry a 20-year primary term, and set royalties at 2 percent of production value for the first five years of production, rising to 5 percent thereafter. Interior did not name the winning bidders in its announcement, and gCaptain reported the combined high bids matched the 3 million dollar minimum asked for each area.
 
