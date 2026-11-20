@@ -1,12 +1,12 @@
 ---
-title: "Houthi attack damages PIF tower in Riyadh for second night"
+title: "Houthis and Saudi coalition trade threats to bomb Red Sea ports"
 date: 2026-11-20T01:25:03-05:00
-last_updated: 2026-11-20T01:25:03-05:00
+last_updated: 2026-11-20T11:00:17-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "A Houthi attack damaged the Public Investment Fund tower, Riyadh's tallest skyscraper and the headquarters of Saudi Arabia's sovereign wealth fund, and Saudi air defences intercepted missiles and a drone for a second straight night."
-why_it_matters: "Strikes on the Saudi capital's financial district, a second night of barrages and 15 emergency alerts in two days mark a sharp escalation of the Yemen front of the Iran war, and oil prices edged higher on Friday as supply concerns resurfaced."
+lede: "The Saudi-led coalition began strikes on Hodeidah port on Friday and the Houthis answered by naming Jeddah and every Saudi Red Sea port as targets, urging shipping companies to evacuate their vessels and airlines to avoid Saudi airspace, a day after a Houthi attack damaged the Public Investment Fund tower in Riyadh."
+why_it_matters: "The exchange takes the Yemen escalation from missile exchanges to explicit threats against Red Sea ports and shipping, putting the corridor's traffic and Saudi energy infrastructure, including the Shuqaiq power station the Houthis named, directly in the line of fire."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,10 +22,18 @@ sources:
     publisher: "Reuters via Arab News"
     url: "https://www.arabnews.com/business/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-3013070"
     published: "2026-11-19"
+  - title: "Saudi coalition and Houthis exchange threats to bomb key ports"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+    published: "2026-11-20"
 tags: []
 update_bump: true
-data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full in this run. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run."
+data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full. The November 20 port exchange is from Al Jazeera (with AFP and Reuters) of November 20, 2026, read in full via the estate browser route. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run."
 ---
+
+## Latest
+
+The fight widened to the Red Sea ports on Friday. The Saudi-led coalition urged civilians to evacuate areas around Hodeidah port and then said it had begun a targeted operation there, with spokesman Turki al-Malki saying the strikes hit operational capabilities at the port used, in the coalition's account, for smuggling and moving weapons and ballistic missiles, and that operations were continuing in Sanaa, Saada and Taiz. Houthi military spokesman Yahya Saree answered that Jeddah port and all Saudi ports on the Red Sea coast would become targets if the coalition struck Hodeidah, urged shipping companies to evacuate their ships from those ports immediately, warned airlines to stay out of Saudi airspace in the coming hours, and said the group would also target the power station at Shuqaiq in southern Saudi Arabia. Al Jazeera's correspondent in Sanaa described Friday's strikes as the heaviest witnessed since the conflict began, with both sides promising to hit energy infrastructure and airports. On the ground, the Houthis continue to advance on Aden, the government's de facto capital, and Taiz remains besieged and cut off from Aden.
 
 Saudi Arabia said a Houthi attack hit a tower in the financial district of Riyadh on Thursday, causing material damage but no injuries. Images distributed by state media identified the building as the Public Investment Fund tower, the headquarters of the kingdom's sovereign wealth fund and the tallest skyscraper in the capital. The Civil Defence agency said the attack damaged the tower and nearby buildings, with damage reported after debris fell following the strikes.
 
