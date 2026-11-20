@@ -1,6 +1,6 @@
 ---
 title: "CMBS market"
-date: "2026-11-11"
+date: "2026-11-20"
 lede: "Loan-level delinquency, maturity and coverage trends for registered commercial mortgage securitizations, computed from the trusts' own monthly reports."
 data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15"
 ---
@@ -593,7 +593,7 @@ data_as_of: "loan data through October 2026; ratings as held in the dataset at 2
 <text x="40" y="182" text-anchor="end" class="chart-lab">2.4%</text>
 <line x1="46" y1="123" x2="708" y2="123" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="126" text-anchor="end" class="chart-lab">4.7%</text>
-<line x1="46" y1="66" x2="708" y2="66" stroke="#e5ddc8" stroke-width="1"/>
+<line x1="46" y1="67" x2="708" y2="67" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="70" text-anchor="end" class="chart-lab">7.1%</text>
 <line x1="46" y1="10" x2="708" y2="10" stroke="#e5ddc8" stroke-width="1"/>
 <text x="40" y="13" text-anchor="end" class="chart-lab">9.4%</text>
