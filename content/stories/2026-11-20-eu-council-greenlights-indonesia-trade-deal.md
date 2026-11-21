@@ -1,13 +1,13 @@
 ---
-title: "EU governments greenlight signing of Indonesia trade deal"
+title: "EU and Indonesia sign trade and investment agreements"
 date: 2026-11-20T00:51:55-05:00
-last_updated: 2026-11-20T00:51:55-05:00
+last_updated: 2026-11-21T08:11:21-05:00
 beats: ["politics"]
 regions: ["europe", "asia-pacific"]
 status: "developing"
 developing: true
-lede: "EU governments on November 18 authorised the signing of the EU-Indonesia Comprehensive Economic Partnership Agreement and a separate investment protection agreement, trade deals expected to save traders about 600 million euros a year in customs duties once in force."
-why_it_matters: "The sign-off moves a deal negotiated since 2016 toward signature and European Parliament consent, and it matters on a deadline: Indonesia graduates from the EU preference scheme on January 1, 2027, after which its exports lose preferential tariffs."
+lede: "The European Union and Indonesia signed their Comprehensive Economic Partnership Agreement and Investment Protection Agreement on November 21, the European Commission said, moving deals that liberalise up to 98.5 percent of tariff lines to the consent and ratification stage."
+why_it_matters: "Signature locks in the text negotiated since 2016; what remains is European Parliament consent and Indonesian ratification, on a deadline, because Indonesia graduates from the EU preference scheme on January 1, 2027, after which its exports lose preferential tariffs."
 featured: false
 evidence_grade: "B"
 sources:
@@ -19,10 +19,16 @@ sources:
     publisher: "The Diplomat"
     url: "https://thediplomat.com/2026/11/eu-governments-sign-off-on-previously-agreed-trade-deal-with-indonesia/"
     published: "2026-11-20"
+  - title: "EU-Indonesia agreements"
+    publisher: "European Commission, Directorate-General for Trade"
+    url: "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia/eu-indonesia-agreements_en"
+    published: "2026-11-21"
 tags: []
 update_bump: true
-data_as_of: "Council of the European Union press release of November 18, 2026, opened and read via the estate browser route, and The Diplomat report of November 20, 2026, read in full via the same route. The tariff line figures are the Council release's own; the duty savings and bilateral trade figures are as reported by The Diplomat from the Council statement. Developing item."
+data_as_of: "Update of November 21, 2026: the signature date and the consent and ratification sequence are from the European Commission's own EU-Indonesia agreements pages at policy.trade.ec.europa.eu, read via the estate browser route. The Commission's Press Corner release announcing the signature (ip_26_2532) and President von der Leyen's statement could not be read in this environment (the Press Corner site returned blank pages on repeated attempts, including a fresh browser route), so no wording or figures are taken from them; the place of signing and the named signatories are not stated in the Commission pages that could be read. Original item: Council of the European Union press release of November 18, 2026, and The Diplomat report of November 20, 2026. Developing item."
 ---
+
+**Latest.** The European Union and Indonesia signed the Comprehensive Economic Partnership Agreement and the Investment Protection Agreement on November 21, 2026, the European Commission's trade directorate said on its EU-Indonesia agreements page. The agreements now require the European Parliament's consent before the Council can conclude them, with Indonesia running its own ratification procedures in parallel, and they enter into force once both sides have ratified. Under the agreements, 98.5 percent of Indonesian goods will enter the EU duty-free and duties on EU exports to Indonesia will be eliminated on 98.3 percent of tariff lines, with Indonesian tariffs of up to 50 percent on EU cars eliminated within five years.
 
 EU governments, meeting in the Council, on November 18 authorised the signing of the Comprehensive Economic Partnership Agreement with Indonesia, concluded in September 2025, together with a separate Investment Protection Agreement. Once fully implemented, up to 98.5 percent of tariff lines will be liberalised, with 96 percent of Indonesian tariffs set to disappear within five years, and expected savings are put at about 600 million euros a year in customs duties on bilateral trade that totalled 28.9 billion euros in 2025.
 
