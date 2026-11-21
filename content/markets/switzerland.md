@@ -2,10 +2,10 @@
 title: "Switzerland"
 date: "2026-11-21"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Switzerland, refreshed every 15 minutes."
-data_as_of: "Nov 20, 7:04 PM ET"
+data_as_of: "Nov 20, 7:07 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 20, 7:04 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 20, 7:07 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>SMI (index)</td><td class="num">14,722 <span class="gm-sub-inline">as of 2026-11-19, stale</span></td><td class="num"><span class="down">-1.10%</span></td><td class="num"><span class="down">-2.82%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,25.5 4.4,23.0 8.7,23.2 13.1,26.0 17.5,23.5 21.8,21.6 26.2,22.1 30.5,16.3 34.9,14.6 39.3,14.8 43.6,16.8 48.0,7.6 52.4,9.4 56.7,15.0 61.1,10.1 65.5,7.1 69.8,6.6 74.2,3.4 78.5,4.8 82.9,2.0 87.3,9.1 91.6,12.1 96.0,17.5" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Switzerland (EWL)</td><td class="num">$61.81 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-1.07%</span></td><td class="num"><span class="down">-4.58%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.2 4.4,16.6 8.7,19.7 13.1,20.4 17.5,18.0 21.8,18.9 26.2,14.2 30.5,13.1 34.9,9.8 39.3,13.4 43.6,2.0 48.0,7.7 52.4,11.8 56.7,6.2 61.1,6.8 65.5,10.4 69.8,10.4 74.2,11.0 78.5,11.3 82.9,15.1 87.3,18.2 91.6,22.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
