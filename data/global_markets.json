@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:14:01.073488-05:00",
+ "updated": "2026-11-21T02:24:13.575697-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -2301,42 +2301,7 @@
     "symbol": "^SSMI"
    },
    "index2": null,
-   "etf": {
-    "value": 61.81,
-    "change_1d": -1.07,
-    "change_1w": -4.58,
-    "change_unit": "%",
-    "history": [
-     63.16,
-     63.68,
-     63.05,
-     62.92,
-     63.4,
-     63.22,
-     64.14,
-     64.37,
-     65.02,
-     64.31,
-     66.56,
-     65.43,
-     64.62,
-     65.73,
-     65.61,
-     64.89,
-     64.9,
-     64.78,
-     64.71,
-     63.97,
-     63.35,
-     62.48,
-     61.81
-    ],
-    "spark": "0.0,19.2 4.4,16.6 8.7,19.7 13.1,20.4 17.5,18.0 21.8,18.9 26.2,14.2 30.5,13.1 34.9,9.8 39.3,13.4 43.6,2.0 48.0,7.7 52.4,11.8 56.7,6.2 61.1,6.8 65.5,10.4 69.8,10.4 74.2,11.0 78.5,11.3 82.9,15.1 87.3,18.2 91.6,22.6 96.0,26.0",
-    "up_1d": false,
-    "as_of": "2026-11-20",
-    "label": "iShares MSCI Switzerland (EWL)",
-    "symbol": "EWL"
-   },
+   "etf": null,
    "fx": {
     "value": 0.8441,
     "change_1d": -0.07,
@@ -2380,43 +2345,7 @@
    "name": "Sweden",
    "group": "europe",
    "region_tag": "europe",
-   "index": {
-    "value": 3175.06,
-    "change_1d": -2.51,
-    "change_1w": -5.42,
-    "change_unit": "%",
-    "history": [
-     3238.64,
-     3244.07,
-     3162.78,
-     3175.7,
-     3225.43,
-     3256.55,
-     3267.33,
-     3280.86,
-     3271.4,
-     3287.02,
-     3284.44,
-     3311.67,
-     3301.09,
-     3267.88,
-     3309.85,
-     3327.75,
-     3360.01,
-     3359.37,
-     3356.87,
-     3341.95,
-     3287.48,
-     3256.21,
-     3256.72,
-     3175.06
-    ],
-    "spark": "0.0,16.8 4.2,16.1 8.3,26.0 12.5,24.4 16.7,18.4 20.9,14.6 25.0,13.3 29.2,11.6 33.4,12.8 37.6,10.9 41.7,11.2 45.9,7.9 50.1,9.2 54.3,13.2 58.4,8.1 62.6,5.9 66.8,2.0 71.0,2.1 75.1,2.4 79.3,4.2 83.5,10.8 87.7,14.6 91.8,14.6 96.0,24.5",
-    "up_1d": false,
-    "as_of": "2026-11-20",
-    "label": "OMX Stockholm 30",
-    "symbol": "^OMX"
-   },
+   "index": null,
    "index2": null,
    "etf": {
     "value": 48.49,
@@ -3033,43 +2962,7 @@
     "label": "iShares MSCI China (MCHI)",
     "symbol": "MCHI"
    },
-   "fx": {
-    "value": 6.6772,
-    "change_1d": -0.16,
-    "change_1w": -0.09,
-    "change_unit": "%",
-    "history": [
-     6.6779,
-     6.6779,
-     6.6779,
-     6.6779,
-     6.67,
-     6.668,
-     6.666,
-     6.661,
-     6.661,
-     6.648,
-     6.6701,
-     6.6731,
-     6.688,
-     6.676,
-     6.6727,
-     6.6703,
-     6.6703,
-     6.6704,
-     6.671,
-     6.6642,
-     6.6659,
-     6.6676,
-     6.6665,
-     6.6772
-    ],
-    "spark": "0.0,8.1 4.2,8.1 8.3,8.1 12.5,8.1 16.7,12.8 20.9,14.0 25.0,15.2 29.2,18.2 33.4,18.2 37.6,26.0 41.7,12.7 45.9,10.9 50.1,2.0 54.3,9.2 58.4,11.2 62.6,12.6 66.8,12.6 71.0,12.6 75.1,12.2 79.3,16.3 83.5,15.3 87.7,14.2 91.8,14.9 96.0,8.5",
-    "up_1d": false,
-    "as_of": "2026-11-21",
-    "label": "USD/CNY",
-    "symbol": "CNY=X"
-   },
+   "fx": null,
    "yields": {
     "y10": {
      "value": 1.58,
@@ -4861,8 +4754,11 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Saudi Arabia index (^TASI.SR): not enough data",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
+  "Switzerland etf (EWL): yahoo EWL: <urlopen error timed out>",
+  "Sweden index (^OMX): yahoo ^OMX: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "China fx (CNY=X): yahoo CNY=X: <urlopen error timed out>",
+  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
  ]
 }
