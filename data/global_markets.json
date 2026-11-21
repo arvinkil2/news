@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-21T13:56:04.309000-05:00",
+ "updated": "2026-11-21T14:55:52.612429-05:00",
  "volatility": {
-  "implied_daily_pct": null
+  "vix": {
+   "value": 35.89,
+   "change_1d": 26.2,
+   "change_1w": 85.96,
+   "change_unit": "%",
+   "history": [
+    17.31,
+    16.68,
+    19.03,
+    19.45,
+    18.39,
+    17.52,
+    16.91,
+    17.2,
+    19.42,
+    21.15,
+    20.83,
+    16.61,
+    28.18,
+    25.64,
+    19.92,
+    19.46,
+    17.49,
+    18.7,
+    19.3,
+    22.91,
+    25.46,
+    24.56,
+    28.44,
+    35.89
+   ],
+   "spark": "0.0,25.1 4.2,25.9 8.3,23.0 12.5,22.5 16.7,23.8 20.9,24.9 25.0,25.6 29.2,25.3 33.4,22.5 37.6,20.3 41.7,20.7 45.9,26.0 50.1,11.6 54.3,14.8 58.4,21.9 62.6,22.5 66.8,24.9 71.0,23.4 75.1,22.7 79.3,18.2 83.5,15.0 87.7,16.1 91.8,11.3 96.0,2.0",
+   "up_1d": true,
+   "move_flag": "suspect_break",
+   "as_of": "2026-11-20"
+  },
+  "implied_daily_pct": 2.24
  },
  "countries": [
   {
@@ -9,7 +45,42 @@
    "name": "United States",
    "group": "americas",
    "region_tag": "north-america",
-   "index": null,
+   "index": {
+    "value": 6910.39,
+    "change_1d": -3.7,
+    "change_1w": -8.61,
+    "change_unit": "%",
+    "history": [
+     7757.17,
+     7663.43,
+     7623.68,
+     7676.77,
+     7722.6,
+     7743.98,
+     7720.39,
+     7580.07,
+     7541.4,
+     7568.92,
+     7688.62,
+     7353.73,
+     7376.86,
+     7549.94,
+     7520.93,
+     7619.38,
+     7592.4,
+     7561.67,
+     7416.59,
+     7340.53,
+     7323.63,
+     7175.83,
+     6910.39
+    ],
+    "spark": "0.0,2.0 4.4,4.7 8.7,5.8 13.1,4.3 17.5,3.0 21.8,2.4 26.2,3.0 30.5,7.0 34.9,8.1 39.3,7.3 43.6,3.9 48.0,13.4 52.4,12.8 56.7,7.9 61.1,8.7 65.5,5.9 69.8,6.7 74.2,7.5 78.5,11.7 82.9,13.8 87.3,14.3 91.6,18.5 96.0,26.0",
+    "up_1d": false,
+    "as_of": "2026-11-20",
+    "label": "S&P 500",
+    "symbol": "^GSPC"
+   },
    "index2": {
     "value": 22617.73,
     "change_1d": -5.28,
@@ -4791,8 +4862,6 @@
   }
  ],
  "errors": [
-  "vix: yahoo ^VIX: <urlopen error timed out>",
-  "United States index (^GSPC): yahoo ^GSPC: <urlopen error timed out>",
   "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
   "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"

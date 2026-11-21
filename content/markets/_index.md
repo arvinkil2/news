@@ -2,13 +2,13 @@
 title: "Global Markets"
 date: "2026-11-21"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 21, 1:56 PM ET"
+data_as_of: "Market data as of Nov 21, 2:55 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 21, 1:56 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 21, 2:55 PM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
-<div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value"><span class="blank">-</span></span></div>
-<div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value"><span class="blank">-</span></span></div>
+<div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">35.89</span><span class="gm-sub">1d <span class="up">+26.20%</span> / 1w <span class="up">+85.96%</span></span></div>
+<div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">2.24%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
 </div>
 <p class="gm-note">Implied daily move: VIX divided by 16, the market's priced one-day swing in the S&amp;P 500.</p>
 <div class="gm-movers">
@@ -23,7 +23,7 @@ data_as_of: "Market data as of Nov 21, 1:56 PM ET"
 <colgroup><col style="width:150px"><col style="width:170px"><col style="width:90px"><col style="width:66px"><col style="width:66px"><col style="width:190px"><col style="width:84px"><col style="width:72px"><col style="width:86px"><col style="width:92px"><col style="width:70px"></colgroup>
 <thead><tr><th>Country</th><th>Index</th><th data-num="1">Last</th><th data-num="1">1d %</th><th data-num="1">1w %</th><th>Country ETF</th><th data-num="1">ETF last $</th><th data-num="1">ETF 1d %</th><th>Currency</th><th data-num="1">Rate</th><th data-num="1">FX 1d %</th></tr></thead>
 <tbody>
-<tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td data-v="SPDR S&amp;P 500 (SPY)">SPDR S&amp;P 500 (SPY)</td><td class="num" data-v="689.81">689.81</td><td class="num" data-v="-3.64"><span class="down">-3.64%</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td></tr>
+<tr><td data-v="United States"><a href="/markets/united-states/">United States</a></td><td data-v="S&amp;P 500">S&amp;P 500</td><td class="num" data-v="6910.39">6,910</td><td class="num" data-v="-3.7"><span class="down">-3.70%</span></td><td class="num" data-v="-8.61"><span class="down">-8.61%</span></td><td data-v="SPDR S&amp;P 500 (SPY)">SPDR S&amp;P 500 (SPY)</td><td class="num" data-v="689.81">689.81</td><td class="num" data-v="-3.64"><span class="down">-3.64%</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td><td><span class="blank">-</span></td></tr>
 <tr><td data-v="Canada"><a href="/markets/canada/">Canada</a></td><td data-v="S&amp;P/TSX Composite">S&amp;P/TSX Composite</td><td class="num" data-v="33189.9">33,190</td><td class="num" data-v="-2.46"><span class="down">-2.46%</span></td><td class="num" data-v="-8.08"><span class="down">-8.08%</span></td><td data-v="iShares MSCI Canada (EWC)">iShares MSCI Canada (EWC)</td><td class="num" data-v="54.89">54.89</td><td class="num" data-v="-2.42"><span class="down">-2.42%</span></td><td data-v="USD/CAD">USD/CAD</td><td class="num" data-v="1.434">1.4340</td><td class="num" data-v="0.02"><span class="up">+0.02%</span></td></tr>
 <tr><td data-v="Brazil"><a href="/markets/brazil/">Brazil</a></td><td data-v="Ibovespa">Ibovespa</td><td class="num" data-v="166376.0">166,376</td><td class="num" data-v="-0.69"><span class="down">-0.69%</span></td><td class="num" data-v="-2.89"><span class="down">-2.89%</span></td><td data-v="iShares MSCI Brazil (EWZ)">iShares MSCI Brazil (EWZ)</td><td class="num" data-v="28.54">28.54</td><td class="num" data-v="-3.29"><span class="down">-3.29%</span></td><td data-v="USD/BRL">USD/BRL</td><td class="num" data-v="5.8889">5.8889</td><td class="num" data-v="-1.35"><span class="down">-1.35%</span></td></tr>
 <tr><td data-v="Mexico"><a href="/markets/mexico/">Mexico</a></td><td data-v="IPC">IPC</td><td class="num" data-v="68629.46">68,629</td><td class="num" data-v="-0.12"><span class="down">-0.12%</span></td><td class="num" data-v="-4.43"><span class="down">-4.43%</span></td><td data-v="iShares MSCI Mexico (EWW)">iShares MSCI Mexico (EWW)</td><td class="num" data-v="72.18">72.18</td><td class="num" data-v="-0.47"><span class="down">-0.47%</span></td><td data-v="USD/MXN">USD/MXN</td><td class="num" data-v="19.0901">19.0901</td><td class="num" data-v="-1.27"><span class="down">-1.27%</span></td></tr>
