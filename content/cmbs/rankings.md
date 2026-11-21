@@ -2,7 +2,7 @@
 title: "CMBS rankings"
 date: "2026-11-21"
 lede: "Deal rankings by realized stress, current balance, modifications, and the wait for a first downgrade."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-11-01"
 ---
 
 <p>Four rankings over the deal index, each linking to the deal page. Definitions are in the methods note on the <a href="/cmbs/">market page</a>.</p><h2>Highest realized stress score</h2><div class="market-table-scroll"><table class="market-table bw-grid" data-tid="cmbs-rank-stress" data-def="[56, 400, 140, 150, 110, 128]" data-min="[44, 180, 100, 110, 84, 92]" data-fixed="[]" data-sort="1">
