@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:28:15.458605-05:00",
+ "updated": "2026-11-21T18:35:08.261959-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -4586,7 +4586,42 @@
     "label": "iShares MSCI Turkey (TUR)",
     "symbol": "TUR"
    },
-   "fx": null,
+   "fx": {
+    "value": 50.5623,
+    "change_1d": -0.2,
+    "change_1w": -0.56,
+    "change_unit": "%",
+    "history": [
+     49.5843,
+     49.6225,
+     49.7307,
+     49.7388,
+     49.7809,
+     49.7992,
+     49.8295,
+     49.9428,
+     49.9658,
+     49.9873,
+     50.0102,
+     50.0376,
+     50.1529,
+     50.1233,
+     50.2157,
+     50.2096,
+     50.2539,
+     50.2819,
+     50.3403,
+     50.4185,
+     50.4383,
+     50.462,
+     50.5623
+    ],
+    "spark": "0.0,26.0 4.4,25.1 8.7,22.4 13.1,22.2 17.5,21.2 21.8,20.7 26.2,20.0 30.5,17.2 34.9,16.6 39.3,16.1 43.6,15.5 48.0,14.9 52.4,12.0 56.7,12.8 61.1,10.5 65.5,10.7 69.8,9.6 74.2,8.9 78.5,7.4 82.9,5.5 87.3,5.0 91.6,4.5 96.0,2.0",
+    "up_1d": false,
+    "as_of": "2026-11-20",
+    "label": "USD/TRY",
+    "symbol": "TRY=X"
+   },
    "yields": {}
   },
   {
@@ -4871,9 +4906,8 @@
  ],
  "errors": [
   "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Turkey fx (TRY=X): yahoo TRY=X: <urlopen error timed out>",
-  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
+  "Saudi Arabia index (^TASI.SR): not enough data",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ],
  "sofr": {
   "overnight": {
