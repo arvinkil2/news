@@ -2,10 +2,10 @@
 title: "Eurozone"
 date: "2026-11-21"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Eurozone, refreshed every 15 minutes."
-data_as_of: "Nov 20, 9:05 PM ET"
+data_as_of: "Nov 20, 9:09 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 20, 9:05 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 20, 9:09 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>EURO STOXX 50 (index)</td><td class="num">6,114 <span class="gm-sub-inline">as of 2026-11-19, stale</span></td><td class="num"><span class="down">-0.66%</span></td><td class="num"><span class="down">-4.46%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.1 4.4,15.9 8.7,24.6 13.1,26.0 17.5,22.5 21.8,19.0 26.2,18.8 30.5,15.9 34.9,21.4 39.3,18.2 43.6,20.5 48.0,11.7 52.4,14.1 56.7,18.6 61.1,9.9 65.5,7.2 69.8,2.4 74.2,2.0 78.5,2.9 82.9,5.7 87.3,15.6 91.6,19.7 96.0,22.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR EURO STOXX 50 (FEZ)</td><td class="num">$63.21 <span class="gm-sub-inline">as of 2026-11-19, stale</span></td><td class="num"><span class="down">-1.68%</span></td><td class="num"><span class="down">-5.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.7 4.6,15.7 9.1,18.4 13.7,17.3 18.3,13.9 22.9,13.2 27.4,10.1 32.0,15.8 36.6,13.8 41.1,14.8 45.7,2.7 50.3,10.9 54.9,15.8 59.4,2.6 64.0,2.2 68.6,2.0 73.1,4.3 77.7,3.8 82.3,10.1 86.9,15.4 91.4,20.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
