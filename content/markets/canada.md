@@ -18,6 +18,7 @@ data_as_of: "Nov 21, 8:08 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-19 (Bank of Canada), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-21</span> <a href="/stories/2026-11-21-canada-retail-sales-rise-september-advance-falls/">Canada retail sales rise in September, advance estimate falls</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-canada-industrial-prices-october-statcan/">Canada industrial prices up 12.6 percent year over year</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-hegseth-memo-restricts-us-canada-defense-cooperation/">Hegseth memo restricts US defense cooperation with Canada</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-china-canada-financial-working-group-terms/">China and Canada formalise financial working group terms</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 21, 8:08 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-macklem-step-down-june-2027/">Bank of Canada Governor Tiff Macklem to step down in June 2027</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-canada-inflation-holds-3-1-percent-october/">Canada inflation holds at 3.1 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-canada-invests-200-million-woodfibre-lng/">Canada invests C$200 million to expand Woodfibre LNG capacity</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-canada-factory-sales-flat-volumes-fall/">Canada factory sales flat as volumes fall in September</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
