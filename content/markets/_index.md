@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-21"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 21, 4:40 AM ET"
+data_as_of: "Market data as of Nov 21, 4:53 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 21, 4:40 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 21, 4:53 AM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">35.89</span><span class="gm-sub">1d <span class="up">+26.20%</span> / 1w <span class="up">+85.96%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">2.24%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
