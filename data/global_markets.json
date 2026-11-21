@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:09:09.915904-05:00",
+ "updated": "2026-11-21T02:14:01.073488-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -4861,8 +4861,7 @@
   }
  ],
  "errors": [
-  "Germany y10 (official:DE): official official:DE: Remote end closed connection without response",
-  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
   "Saudi Arabia index (^TASI.SR): not enough data",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ]
