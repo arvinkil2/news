@@ -2,10 +2,10 @@
 title: "Canada"
 date: "2026-11-21"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Canada, refreshed every 15 minutes."
-data_as_of: "Nov 20, 8:53 PM ET"
+data_as_of: "Nov 20, 9:05 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 20, 8:53 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 20, 9:05 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/TSX Composite (index)</td><td class="num">33,190 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-2.47%</span></td><td class="num"><span class="down">-8.08%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.5 4.2,2.9 8.3,5.5 12.5,6.9 16.7,5.7 20.9,4.0 25.0,3.3 29.2,3.5 33.4,8.1 37.6,6.8 41.7,8.7 45.9,2.8 50.1,8.2 54.3,6.8 58.4,2.0 62.6,4.0 66.8,2.3 71.0,4.3 75.1,4.5 79.3,7.3 83.5,10.3 87.7,15.8 91.8,19.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Canada (EWC)</td><td class="num">$56.25 <span class="gm-sub-inline">as of 2026-11-19, stale</span></td><td class="num"><span class="down">-1.73%</span></td><td class="num"><span class="down">-6.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.2 4.6,5.9 9.1,6.9 13.7,6.2 18.3,5.4 22.9,3.4 27.4,3.3 32.0,7.2 36.6,6.3 41.1,9.0 45.7,2.0 50.3,9.2 54.9,10.2 59.4,5.7 64.0,8.7 68.6,7.8 73.1,9.3 77.7,9.4 82.3,13.1 86.9,15.5 91.4,21.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -19,11 +19,11 @@ data_as_of: "Nov 20, 8:53 PM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-canada-industrial-prices-october-statcan/">Canada industrial prices up 12.6 percent year over year</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-hegseth-memo-restricts-us-canada-defense-cooperation/">Hegseth memo restricts US defense cooperation with Canada</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-china-canada-financial-working-group-terms/">China and Canada formalise financial working group terms</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-carney-canada-chinese-automakers/">Canada and China agree to ease tariffs at Shenzhen talks</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-macklem-step-down-june-2027/">Bank of Canada Governor Tiff Macklem to step down in June 2027</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-canada-inflation-holds-3-1-percent-october/">Canada inflation holds at 3.1 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-canada-invests-200-million-woodfibre-lng/">Canada invests C$200 million to expand Woodfibre LNG capacity</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-canada-factory-sales-flat-volumes-fall/">Canada factory sales flat as volumes fall in September</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-canada-concludes-philippines-asean-trade-talks/">Canada concludes trade talks with Philippines and ASEAN</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
