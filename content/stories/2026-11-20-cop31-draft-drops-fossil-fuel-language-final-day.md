@@ -1,15 +1,19 @@
 ---
-title: "COP31 draft drops fossil fuel language as talks reach final day"
+title: "COP31 talks run into overtime over fossil fuel language"
 date: 2026-11-20T07:13:11-05:00
-last_updated: 2026-11-20T07:13:11-05:00
+last_updated: 2026-11-21T07:13:20-05:00
 beats: ["politics"]
 regions: ["global", "middle-east", "europe"]
-status: "story"
-lede: "Climate negotiators at COP31 in Antalya stripped every reference to fossil fuels from the draft cover decision published Thursday, removing the two mentions in Monday's first draft, including language on limiting fossil fuel use, as the summit reaches its Friday deadline."
-why_it_matters: "The revised text also drops the proposed $120 billion adaptation finance target while keeping a goal of raising electricity's share of final energy consumption to 35 percent by 2035, a retreat vulnerable countries and campaigners say guts the summit's central commitment before the final text is agreed."
+status: "developing"
+lede: "The COP31 climate summit in Antalya ran into overtime on Saturday with nearly 200 countries deadlocked over a draft deal that no longer mentions fossil fuels, after a late Friday session approved technical matters but not the wider political agreement."
+why_it_matters: "A third draft is expected on Saturday, and the fight over whether the text names fossil fuels at all, after the $120 billion adaptation finance target was also dropped, decides whether the summit ends with a cover decision that weakens the COP28 transition commitment."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "Fossil fuel talks deadlock pushes COP31 climate summit into overtime"
+    publisher: "Al Jazeera, with Agence France-Presse and Reuters"
+    url: "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
+    published: "2026-11-20"
   - title: "COP31 draft drops fossil fuel language as talks near deadline"
     publisher: "Reuters"
     url: "https://www.devdiscourse.com/article/international/4009472-cop31-negotiators-publish-revised-deal-text-with-no-mention-of-fossil-fuels?amp"
@@ -19,11 +23,11 @@ sources:
     url: "https://www.globalissues.org/news/2026/11/19/44640"
     published: "2026-11-19"
 tags: []
-data_as_of: "Second draft of the COP31 cover decision, published by the Presidency on November 19, 2026 in Antalya, as reported by Reuters and UN News and read via Inter Press Service; the draft is not the final text and the summit's scheduled final day is November 20, 2026."
+data_as_of: "Updated November 21, 2026 with Al Jazeera reporting of November 20, 2026 (staff, Agence France-Presse and Reuters), read in full, on the summit running into overtime; the second draft of the cover decision was published by the Presidency on November 19, 2026 in Antalya. No final text has been agreed. Developing item."
 ---
 
-Climate negotiators stripped out any reference to ending the use of fossil fuels in a slimmed-down draft deal text published on Thursday, as the COP31 meeting in Antalya, Turkey, approaches its Friday deadline. The first draft, published on Monday, contained two references to fossil fuels, including language on limiting their use and reaffirming the COP28 commitment to transition away from fossil fuels in energy systems; neither formulation survived the revision.
+The COP31 climate summit has gone into overtime, with nearly 200 countries deadlocked over a draft deal that no longer mentions fossil fuels. The two week talks in Antalya, Turkiye, were due to end on Friday, when a late closing session approved some technical matters but not the wider political deal. COP31 President Murat Kurum, Turkiye's environment minister, told delegates the talks were close to the finish line but not there yet, and a third draft is expected on Saturday, Agence France-Presse reported.
 
-The new draft also removes the proposed $120 billion annual target for adaptation finance, a figure African countries and least developed nations had sought to attach to the commitment to triple adaptation finance. It keeps a call for global cooperation to raise electricity's share of world energy consumption to 35 percent by 2035, from around 23 percent now, launches an Antalya Compact for Energy Efficient Buildings, and retains bracketed, unresolved language on carbon capture, utilisation and storage and carbon dioxide removal.
+The fossil fuel fight is the core of the deadlock. An opening draft from cohost and lead negotiator Australia on Monday called for a faster phase-out of fossil fuels; a slimmer version on Thursday removed every mention of them after Saudi Arabia and other major oil and gas producers objected. The revised text also dropped the proposed $120 billion target for adaptation finance for poorer countries. The European Union said the draft risks turning the summit into a fossil summit, and Panama's environment minister Juan Carlos Navarro, whose country signed a letter with a dozen others demanding a clear transition away from fossil fuels, threatened to walk away.
 
-Reaction from climate-vulnerable countries and campaigners was sharply negative. Mohamed Adow, director of the think tank Power Shift Africa, said the new text had gone backwards from the one released earlier in the week. Oil Change International called the draft a fossil fuel executive's dream come true. The revised deal is not expected to be the final version, and any COP31 outcome requires unanimous agreement, with talks continuing into the scheduled final day on Friday.
+Other contested points carry over from Thursday's draft: a goal of raising electricity's share of final energy consumption to 35 percent by 2035, without specifying that the power be renewable or clean, and bracketed language on carbon capture that Vanuatu's climate minister Ralph Regenvanu called a false solution. Developing countries remain angry that rich nations are falling short on climate finance, and environmental groups tracking the conference called it on track to be the worst COP ever. Any outcome requires unanimous agreement.
