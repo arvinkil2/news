@@ -1,6 +1,6 @@
 ---
 title: "CMBS market"
-date: "2026-11-20"
+date: "2026-11-21"
 lede: "Loan-level delinquency, maturity and coverage trends for registered commercial mortgage securitizations, computed from the trusts' own monthly reports."
 data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15"
 ---
