@@ -1,8 +1,8 @@
 ---
 title: "8670 Wilshire Blvd (Benchmark 2021-B24 Mortgage Trust)"
-date: "2026-10-30"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Benchmark 2021-B24 Mortgage Trust."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-11-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/benchmark-2021-b24-mortgage-trust/">&larr; Benchmark 2021-B24 Mortgage Trust</a> / <a href="/cmbs/deal-loans/benchmark-2021-b24-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
