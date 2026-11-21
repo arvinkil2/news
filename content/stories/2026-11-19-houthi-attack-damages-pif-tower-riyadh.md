@@ -1,12 +1,12 @@
 ---
-title: "Houthis and Saudi coalition trade threats to bomb Red Sea ports"
+title: "Saudi air defences intercept three Houthi missiles over Riyadh"
 date: 2026-11-20T01:25:03-05:00
-last_updated: 2026-11-20T11:00:17-05:00
+last_updated: 2026-11-20T20:05:11-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "The Saudi-led coalition began strikes on Hodeidah port on Friday and the Houthis answered by naming Jeddah and every Saudi Red Sea port as targets, urging shipping companies to evacuate their vessels and airlines to avoid Saudi airspace, a day after a Houthi attack damaged the Public Investment Fund tower in Riyadh."
-why_it_matters: "The exchange takes the Yemen escalation from missile exchanges to explicit threats against Red Sea ports and shipping, putting the corridor's traffic and Saudi energy infrastructure, including the Shuqaiq power station the Houthis named, directly in the line of fire."
+lede: "Saudi air defences intercepted and destroyed three ballistic missiles launched by the Houthis toward Riyadh early on Saturday, the Saudi-led coalition said, in a third straight night of emergency alerts for the capital."
+why_it_matters: "The attacks on Riyadh are now a nightly pattern rather than a single strike, and they are running alongside coalition operations against Hodeidah port and Sanaa and Houthi threats against Saudi Red Sea ports, shipping and energy infrastructure."
 featured: true
 evidence_grade: "B"
 sources:
@@ -26,12 +26,22 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
     published: "2026-11-20"
+  - title: "Coalition air defenses intercept 3 Houthi ballistic missiles targeting Riyadh"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
+    published: "2026-11-20"
+  - title: "Iran war live: Saudi-led coalition downs Houthi missiles"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    published: "2026-11-21"
 tags: []
 update_bump: true
-data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full. The November 20 port exchange is from Al Jazeera (with AFP and Reuters) of November 20, 2026, read in full via the estate browser route. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run."
+data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full. The November 20 port exchange is from Al Jazeera (with AFP and Reuters) of November 20, 2026, read in full via the estate browser route. The early Saturday interceptions over Riyadh are from Arab News of November 20, 2026 and the Al Jazeera liveblog of November 21, 2026, both read in full via the estate browser route. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run."
 ---
 
 ## Latest
+
+The attacks on the capital entered a third night. Saudi air defences intercepted and destroyed three ballistic missiles launched by the Houthis toward Riyadh early on Saturday, coalition spokesman Maj. Gen. Turki al-Maliki announced shortly after 2 a.m. local time, following a Civil Defense alert at 1:53 a.m. warning residents of an aerial threat. Two explosions were heard in the capital before Civil Defense lifted the alert, and no damage or casualties were reported from the interceptions themselves. The evening had already brought two ballistic missiles toward the Jazan region, which the coalition said were intercepted, with debris falling near Al-Shuqaiq, and across Friday the coalition counted five drones and three ballistic missiles intercepted over the kingdom. The coalition said it was also targeting a main Houthi supply depot in Sanaa and continuing operations against Houthi missile capabilities in Sanaa, Saada and Taiz and at Hodeidah port.
 
 The fight widened to the Red Sea ports on Friday. The Saudi-led coalition urged civilians to evacuate areas around Hodeidah port and then said it had begun a targeted operation there, with spokesman Turki al-Malki saying the strikes hit operational capabilities at the port used, in the coalition's account, for smuggling and moving weapons and ballistic missiles, and that operations were continuing in Sanaa, Saada and Taiz. Houthi military spokesman Yahya Saree answered that Jeddah port and all Saudi ports on the Red Sea coast would become targets if the coalition struck Hodeidah, urged shipping companies to evacuate their ships from those ports immediately, warned airlines to stay out of Saudi airspace in the coming hours, and said the group would also target the power station at Shuqaiq in southern Saudi Arabia. Al Jazeera's correspondent in Sanaa described Friday's strikes as the heaviest witnessed since the conflict began, with both sides promising to hit energy infrastructure and airports. On the ground, the Houthis continue to advance on Aden, the government's de facto capital, and Taiz remains besieged and cut off from Aden.
 
