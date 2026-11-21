@@ -1,8 +1,8 @@
 ---
 title: "9 &amp; 11 Stanton Street (and 12 more properties) (Wells Fargo Commercial Mortgage Trust 2025-5C6)"
-date: "2026-10-30"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in Wells Fargo Commercial Mortgage Trust 2025-5C6."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-15; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-11-01; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/wells-fargo-commercial-mortgage-trust-2025-5c6-d01/">&larr; Wells Fargo Commercial Mortgage Trust 2025-5C6</a> / <a href="/cmbs/deal-loans/wells-fargo-commercial-mortgage-trust-2025-5c6-d01/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>

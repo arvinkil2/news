@@ -1,8 +1,8 @@
 ---
 title: "BLACKMORE MARKETPLACE (UBS Commercial Mortgage Trust 2019-C17)"
-date: "2026-11-03"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in UBS Commercial Mortgage Trust 2019-C17."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/ubs-commercial-mortgage-trust-2019-c17-d01/">&larr; UBS Commercial Mortgage Trust 2019-C17</a> / <a href="/cmbs/deal-loans/ubs-commercial-mortgage-trust-2019-c17-d01/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
