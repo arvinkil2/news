@@ -1,8 +1,8 @@
 ---
 title: "UOVO Evergreen (BMO 2025-C13 Mortgage Trust)"
-date: "2026-10-31"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BMO 2025-C13 Mortgage Trust."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-11-01"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2025-c13-mortgage-trust/">&larr; BMO 2025-C13 Mortgage Trust</a> / <a href="/cmbs/deal-loans/bmo-2025-c13-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>

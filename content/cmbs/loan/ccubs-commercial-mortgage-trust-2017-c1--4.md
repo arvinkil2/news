@@ -1,8 +1,8 @@
 ---
 title: "Riverview Landing (CCUBS Commercial Mortgage Trust 2017-C1)"
-date: "2026-11-03"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in CCUBS Commercial Mortgage Trust 2017-C1."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/ccubs-commercial-mortgage-trust-2017-c1/">&larr; CCUBS Commercial Mortgage Trust 2017-C1</a> / <a href="/cmbs/deal-loans/ccubs-commercial-mortgage-trust-2017-c1/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
