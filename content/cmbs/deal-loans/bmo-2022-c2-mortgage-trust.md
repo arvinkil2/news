@@ -1,8 +1,8 @@
 ---
 title: "BMO 2022-C2 Mortgage Trust: loan annex"
-date: "2026-11-03"
+date: "2026-11-21"
 lede: "Loan detail for BMO 2022-C2 Mortgage Trust."
-data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-10-13; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2022-c2-mortgage-trust/">&larr; BMO 2022-C2 Mortgage Trust</a> / <a href="/cmbs/">CMBS market</a></p>
