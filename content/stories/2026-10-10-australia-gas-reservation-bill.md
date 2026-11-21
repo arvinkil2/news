@@ -1,15 +1,19 @@
 ---
 title: "Australia nears gas reservation bill for LNG exporters"
 date: 2026-10-10T07:11:03-0400
-last_updated: 2026-11-18T03:23:47-05:00
+last_updated: 2026-11-21T02:24:35-05:00
 beats: ["commodities"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "Western Australia will be exempt from Canberra's domestic gas reservation scheme, Premier Roger Cook said on Wednesday, because the state already reserves 15 percent of production for its own market and has no pipeline or shipping links to the shortage-exposed east coast."
-why_it_matters: "The exemption takes the state that produces about two thirds of Australia's LNG exports out of the federal scheme before it starts on January 1, 2028, leaving the reservation to bind the east coast exporters whose volumes the scheme was designed to redirect."
+lede: "Australia's government says negotiations over its gas reservation proposals are continuing and it hopes the legislation will pass parliament in the coming week, setting up a vote on the scheme that would require LNG exporters to reserve up to a fifth of their supply for the domestic market from 2028."
+why_it_matters: "Passage in the coming week would lock in the reservation timetable for the east coast exporters the scheme binds, after the Western Australia exemption took the state producing about two thirds of Australia's LNG exports out of its reach."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Australia Says Negotiations Continue on Gas Reservation Proposal"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal"
+    published: "2026-11-21"
   - title: "Australia Close to Finalizing Gas Reservation Plan for LNG Exporters"
     publisher: "OilPrice.com"
     url: "https://tankterminals.com/news/australia-close-to-finalizing-gas-reservation-plan-for-lng-exporters/"
@@ -28,8 +32,10 @@ sources:
     published: "2026-11-18"
 tags: []
 update_bump: true
-data_as_of: "Bill introduction expected week of October 12, 2026, per OilPrice October 9; exposure draft released September 10, 2026. Update November 18, 2026: OilPrice report of the same day, read in full, reporting Reuters on Premier Roger Cook's statement; the January 1, 2028 start date is the scheme's latest form as reported there."
+data_as_of: "Bill introduction expected week of October 12, 2026, per OilPrice October 9; exposure draft released September 10, 2026. Update November 18, 2026: OilPrice report of the same day, read in full, reporting Reuters on Premier Roger Cook's statement; the January 1, 2028 start date is the scheme's latest form as reported there. Update November 21, 2026: Bloomberg brief of November 21, 2026, read in full via the estate browser route; the statement that negotiations are continuing and that the government hopes for passage in the coming week is single-sourced to that brief."
 ---
+
+**Latest.** Negotiations over the gas reservation proposals are continuing and the government hopes the legislation will pass parliament in the coming week, Bloomberg reported on November 21. The plan would require liquefied natural gas exporters to reserve as much as a fifth of their supply for the domestic market from 2028, so that more gas is available for Australian consumers. No final agreement was reported.
 
 **Latest.** Western Australia will not be included in the federal gas reservation scheme, the state's premier Roger Cook said on Wednesday, as reported by Reuters via OilPrice. Cook's case was that the state already runs its own reservation mandate of 15 percent of production for the domestic market, and that Western Australia has no pipeline or shipping links to the east coast, where the shortage risk sits, so its producers could do little to help an east coast shortfall in any event. The state hosts facilities producing about 66 percent of Australia's LNG exports, including Woodside's North West Shelf and Chevron's Gorgon and Wheatstone. Cook said the exemption gives the state certainty to keep attracting investment and bring on new supply. In its latest form the federal scheme requires companies to reserve up to 20 percent of output, down from the original fixed 20 percent proposal after industry pushback, and enters into effect on January 1, 2028.
 
