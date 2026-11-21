@@ -1,8 +1,8 @@
 ---
 title: "350 S Beverly (BMO 2025-5C13 Mortgage Trust)"
-date: "2026-11-03"
+date: "2026-11-21"
 lede: "Property, terms, monthly financial history and surveillance record for a loan in BMO 2025-5C13 Mortgage Trust."
-data_as_of: "loan data through October 2026; current tranche balances from the Form 10-D distribution statement for 2026-09-17"
+data_as_of: "loan data through October 2026; current tranche balances from the Form 10-D distribution statement for 2026-10-19"
 ---
 
 <p class="bond-navrow"><a href="/cmbs/deal/bmo-2025-5c13-mortgage-trust/">&larr; BMO 2025-5C13 Mortgage Trust</a> / <a href="/cmbs/deal-loans/bmo-2025-5c13-mortgage-trust/">Loan annex</a> / <a href="/cmbs/">CMBS market</a></p>
