@@ -1,7 +1,7 @@
 ---
 title: "COP31 ends without a deal as EU rejects fossil fuel omission"
 date: 2026-11-20T07:13:11-05:00
-last_updated: 2026-11-22T08:21:47-05:00
+last_updated: 2026-11-22T11:42:21-05:00
 beats: ["politics"]
 regions: ["global", "middle-east", "europe"]
 status: "developing"
@@ -34,10 +34,16 @@ sources:
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/4010532-cop31-climate-talks-break-down-as-eu-others-reject-deal"
     published: "2026-11-22"
+  - title: "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’"
+    publisher: "UN News, United Nations"
+    url: "https://news.un.org/feed/view/en/story/2026/11/1168855"
+    published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 with the UK government’s own statement on the COP31 outcome, published on GOV.UK on November 22, 2026, and with Reuters reporting of November 22, 2026 on the closing plenary in Antalya, at which COP31 President Murat Kurum said there was no consensus and the decisions were not adopted; earlier updates used Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
+data_as_of: "Updated November 22, 2026 with UN News reporting of November 22, 2026 on Secretary-General António Guterres’s statement after the closing plenary and on Executive Secretary Simon Stiell’s closing remarks; earlier updates used the UK government’s own statement on the COP31 outcome (GOV.UK, November 22, 2026), Reuters reporting of November 22, 2026 on the closing plenary in Antalya, and Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
 ---
+
+**Update, November 22 (UN reaction).** UN Secretary-General António Guterres said he was “deeply disappointed” that governments in Antalya had failed to reach consensus, and that the outcome did not change the science: “There may be no consensus in the negotiating room. There is no ambiguity in the science.” He said fossil fuels remain the primary driver of warming and that governments had already agreed at COP28 in Dubai to move away from them: “We can’t put out the fire while pouring fuel on it.” UN News reported that Antalya is now the longest-running UN climate summit on record. UN Climate Change Executive Secretary Simon Stiell told the closing plenary, “The world cannot afford a repeat of this moment,” and pointed to one agreement reached at the summit, on a just transition, ahead of COP32 in Addis Ababa.
 
 **Update, November 22 (UK position).** The United Kingdom set out its position in a government statement on Sunday: it does not believe the cover decision proposed by the presidencies meets the moment, and said the text moves backwards on the science when implementation must accelerate, compromising where it should have presented bold collective ambition. London committed to work with partners over the next year on speeding the transition away from fossil fuels and protecting forests, supporting clean electrification, establishing a process on adaptation finance, reforming the COP process, protecting oceans, and supporting mountain regions and glacier dependent communities, and said it would return to COP32 in Addis Ababa ready to deliver on the Paris Agreement.
 
