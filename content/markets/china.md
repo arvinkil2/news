@@ -2,10 +2,10 @@
 title: "China"
 date: "2026-11-22"
 lede: "Benchmark index, country ETF, currency and sovereign yields for China, refreshed every 15 minutes."
-data_as_of: "Nov 22, 2:37 PM ET"
+data_as_of: "Nov 22, 2:52 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 22, 2:37 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 22, 2:52 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Shanghai Composite (index)</td><td class="num">3,534 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-1.22%</span></td><td class="num"><span class="down">-2.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,4.7 8.3,11.2 12.5,7.3 16.7,6.5 20.9,12.4 25.0,8.4 29.2,12.0 33.4,18.2 37.6,13.6 41.7,17.2 45.9,7.9 50.1,7.4 54.3,12.3 58.4,10.9 62.6,10.5 66.8,8.5 71.0,11.5 75.1,14.0 79.3,17.8 83.5,20.0 87.7,19.6 91.8,20.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI China (MCHI)</td><td class="num">$46.0200 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-2.13%</span></td><td class="num"><span class="down">-7.16%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.9 4.4,14.0 8.7,14.1 13.1,13.6 17.5,13.8 21.8,14.0 26.2,14.3 30.5,13.8 34.9,11.8 39.3,12.5 43.6,3.9 48.0,2.0 52.4,2.6 56.7,4.1 61.1,5.7 65.5,7.4 69.8,11.1 74.2,11.8 78.5,13.9 82.9,16.5 87.3,18.9 91.6,22.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -22,8 +22,8 @@ data_as_of: "Nov 22, 2:37 PM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-origin-biotech-venture-model/">China sourced biotech startups reach exits at record speed</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-cuts-margin-deposit-ratio-80-percent/">China cuts margin deposit ratio to 80 percent to lift liquidity</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-lpr-held-18th-month-overnight-rate/">China holds loan prime rates for an 18th month</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-bessent-nvidia-answers-chip-sales-china/">Bessent says US still needs answers from Nvidia on China chip sales</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-21</span> <a href="/stories/2026-11-21-china-military-suspends-sf-express-procurement/">China&#x27;s military suspends SF Express from all procurement</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-21</span> <a href="/stories/2026-11-21-china-ai-stocks-lose-1-7-trillion-rout/">China AI stocks have lost .7 trillion since June</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-taiwan-flags-china-linked-accounts-meta-elections/">Taiwan flags nearly 2,700 China-linked accounts to Meta before elections</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-china-sovereign-investors-us-private-equity-return/">China sovereign investors seek return to US private equity</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
