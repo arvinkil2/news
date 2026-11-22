@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:40:11.113247-05:00",
+ "updated": "2026-11-21T20:53:56.153702-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -1441,78 +1441,8 @@
     "symbol": "^STOXX50E"
    },
    "index2": null,
-   "etf": {
-    "value": 61.4,
-    "change_1d": -2.86,
-    "change_1w": -8.59,
-    "change_unit": "%",
-    "history": [
-     66.12,
-     65.06,
-     64.56,
-     64.76,
-     65.37,
-     65.5,
-     66.05,
-     65.03,
-     65.39,
-     65.22,
-     67.38,
-     65.91,
-     65.03,
-     67.39,
-     67.46,
-     67.5,
-     67.08,
-     67.17,
-     66.05,
-     65.11,
-     64.29,
-     63.21,
-     61.4
-    ],
-    "spark": "0.0,7.4 4.4,11.6 8.7,13.6 13.1,12.8 17.5,10.4 21.8,9.9 26.2,7.7 30.5,11.7 34.9,10.3 39.3,11.0 43.6,2.5 48.0,8.3 52.4,11.7 56.7,2.4 61.1,2.2 65.5,2.0 69.8,3.7 74.2,3.3 78.5,7.7 82.9,11.4 87.3,14.6 91.6,18.9 96.0,26.0",
-    "up_1d": false,
-    "as_of": "2026-11-20",
-    "label": "SPDR EURO STOXX 50 (FEZ)",
-    "symbol": "FEZ"
-   },
-   "fx": {
-    "value": 1.097,
-    "change_1d": -0.02,
-    "change_1w": -0.73,
-    "change_unit": "%",
-    "history": [
-     1.1227,
-     1.1235,
-     1.1221,
-     1.1218,
-     1.1174,
-     1.113,
-     1.1156,
-     1.1183,
-     1.1157,
-     1.1192,
-     1.1207,
-     1.1235,
-     1.1228,
-     1.1147,
-     1.1222,
-     1.1169,
-     1.1095,
-     1.105,
-     1.1025,
-     1.0998,
-     1.0993,
-     1.0972,
-     1.097
-    ],
-    "spark": "0.0,2.7 4.4,2.0 8.7,3.3 13.1,3.5 17.5,7.5 21.8,11.5 26.2,9.2 30.5,6.7 34.9,9.1 39.3,5.9 43.6,4.5 48.0,2.0 52.4,2.6 56.7,10.0 61.1,3.2 65.5,8.0 69.8,14.7 74.2,18.8 78.5,21.0 82.9,23.5 87.3,23.9 91.6,25.8 96.0,26.0",
-    "up_1d": false,
-    "as_of": "2026-11-20",
-    "label": "EUR/USD",
-    "symbol": "EURUSD=X"
-   },
+   "etf": null,
+   "fx": null,
    "yields": {
     "y10": {
      "value": 3.27,
@@ -1650,43 +1580,7 @@
    "name": "Italy",
    "group": "europe",
    "region_tag": "europe",
-   "index": {
-    "value": 48704.0,
-    "change_1d": -2.48,
-    "change_1w": -6.08,
-    "change_unit": "%",
-    "history": [
-     49071.0,
-     49644.0,
-     48384.0,
-     48559.0,
-     49187.0,
-     49628.0,
-     49824.0,
-     50002.0,
-     49501.0,
-     49948.0,
-     49942.0,
-     51031.0,
-     50506.0,
-     50053.0,
-     51400.0,
-     51755.0,
-     51947.0,
-     51809.0,
-     51859.0,
-     51521.0,
-     50846.0,
-     50174.0,
-     49941.0,
-     48704.0
-    ],
-    "spark": "0.0,21.4 4.2,17.5 8.3,26.0 12.5,24.8 16.7,20.6 20.9,17.6 25.0,16.3 29.2,15.1 33.4,18.5 37.6,15.5 41.7,15.5 45.9,8.2 50.1,11.7 54.3,14.8 58.4,5.7 62.6,3.3 66.8,2.0 71.0,2.9 75.1,2.6 79.3,4.9 83.5,9.4 87.7,13.9 91.8,15.5 96.0,23.8",
-    "up_1d": false,
-    "as_of": "2026-11-20",
-    "label": "FTSE MIB",
-    "symbol": "FTSEMIB.MI"
-   },
+   "index": null,
    "index2": null,
    "etf": {
     "value": 53.9,
@@ -4815,9 +4709,12 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Saudi Arabia index (^TASI.SR): not enough data",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
+  "Eurozone etf (FEZ): yahoo FEZ: <urlopen error timed out>",
+  "Eurozone fx (EURUSD=X): yahoo EURUSD=X: <urlopen error timed out>",
+  "Italy index (FTSEMIB.MI): yahoo FTSEMIB.MI: <urlopen error timed out>",
+  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
  ],
  "sofr": {
   "overnight": {
