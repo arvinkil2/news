@@ -1,7 +1,7 @@
 ---
 title: "EU and Indonesia sign trade and investment agreements"
 date: 2026-11-20T00:51:55-05:00
-last_updated: 2026-11-21T08:11:21-05:00
+last_updated: 2026-11-22T07:05:08-05:00
 beats: ["politics"]
 regions: ["europe", "asia-pacific"]
 status: "developing"
@@ -33,3 +33,5 @@ data_as_of: "Update of November 21, 2026: the signature date and the consent and
 EU governments, meeting in the Council, on November 18 authorised the signing of the Comprehensive Economic Partnership Agreement with Indonesia, concluded in September 2025, together with a separate Investment Protection Agreement. Once fully implemented, up to 98.5 percent of tariff lines will be liberalised, with 96 percent of Indonesian tariffs set to disappear within five years, and expected savings are put at about 600 million euros a year in customs duties on bilateral trade that totalled 28.9 billion euros in 2025.
 
 The two agreements will now be signed by the EU and Indonesia and then go to the European Parliament, whose consent is required before the Council can formally conclude them; both will apply provisionally once each side notifies the other that its internal procedures are complete. The timetable is driven by Indonesia's graduation from the EU generalised scheme of preferences on January 1, 2027, when its exports stop benefiting from preferential tariffs, and the Council said both sides are committed to bringing the agreements into application as swiftly as possible.
+
+**Update, November 22.** Reporting on the Brussels signing ceremony on November 21 adds the signatories and the Commission's published estimates. Trade Commissioner Maros Sefcovic signed alongside Indonesian Coordinating Minister for Economic Affairs Airlangga Hartarto and Trade Minister Budi Santoso, closing nine years of negotiations. The Commission estimate is 647 million euros a year in tariff savings for European exporters once fully implemented, with EU exports to Indonesia projected to grow by more than 6 billion euros. For Indonesia, 90.4 percent of tariff lines receive zero tariff treatment from entry into force, with a further 8.37 percent reduced gradually over three to 15 years, including duty free quotas of 1.9 million tonnes for crude palm oil. Airlangga said Indonesia hopes for entry into effect on January 1, ahead of the expiry of its EU preference scheme benefits on December 31, 2026. European Parliament consent is still required.
