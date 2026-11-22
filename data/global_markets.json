@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:44:32.784531-05:00",
+ "updated": "2026-11-22T11:52:59.081915-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -4707,43 +4707,7 @@
     "label": "iShares MSCI South Africa (EZA)",
     "symbol": "EZA"
    },
-   "fx": {
-    "value": 17.5856,
-    "change_1d": -0.52,
-    "change_1w": -3.9,
-    "change_unit": "%",
-    "history": [
-     16.3907,
-     16.3701,
-     16.4801,
-     16.6252,
-     16.6318,
-     16.6388,
-     16.6087,
-     16.6066,
-     16.6876,
-     16.6008,
-     16.5936,
-     16.4018,
-     16.4804,
-     16.5354,
-     16.3815,
-     16.5235,
-     16.601,
-     16.7584,
-     16.9258,
-     16.9621,
-     16.9101,
-     17.2698,
-     17.4946,
-     17.5856
-    ],
-    "spark": "0.0,25.6 4.2,26.0 8.3,23.8 12.5,21.0 16.7,20.8 20.9,20.7 25.0,21.3 29.2,21.3 33.4,19.7 37.6,21.4 41.7,21.6 45.9,25.4 50.1,23.8 54.3,22.7 58.4,25.8 62.6,23.0 66.8,21.4 71.0,18.3 75.1,15.0 79.3,14.3 83.5,15.3 87.7,8.2 91.8,3.8 96.0,2.0",
-    "up_1d": false,
-    "as_of": "2026-11-22",
-    "label": "USD/ZAR",
-    "symbol": "ZAR=X"
-   },
+   "fx": null,
    "yields": {}
   },
   {
@@ -4913,8 +4877,9 @@
  ],
  "errors": [
   "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Saudi Arabia index (^TASI.SR): not enough data",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
+  "South Africa fx (ZAR=X): yahoo ZAR=X: <urlopen error timed out>",
+  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
  ],
  "sofr": {
   "overnight": {
