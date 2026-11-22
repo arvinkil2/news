@@ -1,7 +1,7 @@
 ---
 title: "COP31 ends without a deal as EU rejects fossil fuel omission"
 date: 2026-11-20T07:13:11-05:00
-last_updated: 2026-11-22T07:42:52-05:00
+last_updated: 2026-11-22T08:21:47-05:00
 beats: ["politics"]
 regions: ["global", "middle-east", "europe"]
 status: "developing"
@@ -26,14 +26,20 @@ sources:
     publisher: "Inter Press Service"
     url: "https://www.globalissues.org/news/2026/11/19/44640"
     published: "2026-11-19"
+  - title: "UK Government position on COP31 Outcome"
+    publisher: "UK Government (Department for Energy Security and Net Zero), GOV.UK"
+    url: "https://www.gov.uk/government/news/uk-government-position-on-cop31-outcome"
+    published: "2026-11-22"
   - title: "COP31 climate talks break down as EU, others reject deal"
     publisher: "Reuters, via Devdiscourse"
     url: "https://www.devdiscourse.com/article/international/4010532-cop31-climate-talks-break-down-as-eu-others-reject-deal"
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 with Reuters reporting of November 22, 2026 on the closing plenary in Antalya, at which COP31 President Murat Kurum said there was no consensus and the decisions were not adopted; earlier updates used Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
+data_as_of: "Updated November 22, 2026 with the UK government’s own statement on the COP31 outcome, published on GOV.UK on November 22, 2026, and with Reuters reporting of November 22, 2026 on the closing plenary in Antalya, at which COP31 President Murat Kurum said there was no consensus and the decisions were not adopted; earlier updates used Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
 ---
+
+**Update, November 22 (UK position).** The United Kingdom set out its position in a government statement on Sunday: it does not believe the cover decision proposed by the presidencies meets the moment, and said the text moves backwards on the science when implementation must accelerate, compromising where it should have presented bold collective ambition. London committed to work with partners over the next year on speeding the transition away from fossil fuels and protecting forests, supporting clean electrification, establishing a process on adaptation finance, reforming the COP process, protecting oceans, and supporting mountain regions and glacier dependent communities, and said it would return to COP32 in Addis Ababa ready to deliver on the Paris Agreement.
 
 **Latest.** COP31 ended without a deal on Sunday. After more than two weeks of negotiations that were due to close on Friday and stretched deep into the weekend, COP31 President Murat Kurum, Turkiye's environment minister, told the closing plenary: "It is clear that there are parties in this hall who oppose this text. We recognize that there is no consensus on this document. Therefore, these decisions have not been adopted." The European Union and other countries rejected the final draft, which never mentioned fossil fuels and only recalled the 2023 Dubai pledge to move away from them. The text would have been the first COP outcome to acknowledge that warming is on course to exceed the 1.5 degree Celsius Paris threshold, while calling for faster development of carbon removal technologies to reverse the overshoot. Reuters noted the last major breakdown in UN climate talks was Copenhagen in 2009; the failure does not erase obligations agreed at previous summits.
 

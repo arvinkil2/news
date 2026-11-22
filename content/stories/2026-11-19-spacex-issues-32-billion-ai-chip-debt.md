@@ -1,7 +1,7 @@
 ---
 title: "SpaceX takes at least $32 billion of AI chip debt to market"
 date: 2026-11-19T20:46:59-05:00
-last_updated: 2026-11-19T22:42:34-05:00
+last_updated: 2026-11-22T08:21:47-05:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -26,6 +26,10 @@ sources:
     publisher: "Financial Times, via Investing.com"
     url: "https://www.investing.com/news/stock-market-news/spacex-lenders-seek-safeguards-against-musk-sending-ai-chips-into-space--ft-5040555"
     published: "2026-11-19"
+  - title: "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit"
+    publisher: "Tom's Hardware, reporting the Financial Times"
+    url: "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee"
+    published: "2026-11-22"
   - title: "SpaceX Form 8-K, Item 8.01: binding commitment letter to enter into a master finance lease"
     publisher: "Space Exploration Technologies Corp., SEC filing"
     url: "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm"
@@ -34,6 +38,8 @@ tags: []
 update_bump: true
 data_as_of: "Bloomberg report of November 19, 2026 on the Thursday issuance of at least $32 billion, read via its Binance Square republication after the Bloomberg page itself was not read directly; structure and pricing ranges from Semafor reporting of November 18, 2026 and Bloomberg reporting of November 18, 2026, both citing people familiar with the matter. No SpaceX filing describing the sale, its tranches or its final pricing had been published as of Thursday evening, so the reported terms stand as attributed press accounts; the October 26, 2026 Form 8-K is the primary document for the underlying lease commitment. Updated November 19, 2026, with the Financial Times report of November 19, 2026, read in full via Investing.com: the lenders' safeguards request, the concern about repossessing chips in orbit, and the statement that it is unclear whether the restriction reached the final loan documents are the FT's own, citing people familiar with the matter; the FT account sizes the wider debt package at $43 billion, against the at least $32 billion issuance figure reported by Bloomberg above."
 ---
+
+**Update, November 22.** Lenders remain committed to the $43 billion package despite the orbit concern, Tom’s Hardware reported on Sunday, summarising the Financial Times’ reporting: the FT has seen a letter stating that SpaceX will keep the GPUs on Earth, but it remains unclear whether the five year lease, described as a hell-or-high-water agreement under which payments continue even if the chips cannot be used as intended, carries a written Earth-only guarantee. That leaves the position where Thursday’s FT report left it: the assurance exists in a letter, and its status in the final loan documents is unconfirmed.
 
 **Latest.** Lenders backing the SpaceX debt package sought safeguards that would prevent Elon Musk from sending the Nvidia chips securing the financing into space, the Financial Times reported on Thursday, citing people familiar with the matter. The lenders' concern, as reported, is that chips deployed in orbital data centres would be difficult to repossess and sell after a default. The FT said it remains unclear whether the proposed restriction was included in the final loan documents, and that SpaceX has said the chips would be used in data centres on Earth.
 
