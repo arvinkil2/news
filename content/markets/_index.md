@@ -2,10 +2,10 @@
 title: "Global Markets"
 date: "2026-11-22"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 21, 9:12 PM ET"
+data_as_of: "Market data as of Nov 21, 9:15 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 21, 9:12 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 21, 9:15 PM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">35.89</span><span class="gm-sub">1d <span class="up">+26.20%</span> / 1w <span class="up">+85.96%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">2.24%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
@@ -107,6 +107,7 @@ data_as_of: "Market data as of Nov 21, 9:12 PM ET"
 <colgroup><col style="width:170px"><col style="width:80px"><col style="width:80px"><col style="width:80px"><col style="width:92px"><col style="width:130px"></colgroup>
 <thead><tr><th>Country</th><th data-num="1">2Y %</th><th data-num="1">10Y %</th><th data-num="1">30Y %</th><th data-num="1">10Y 1d, bp</th><th data-num="1">Spread to UST, bp</th></tr></thead>
 <tbody>
+<tr><td data-v="Japan"><a href="/markets/japan/">Japan</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="2.87">2.87</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-4.6"><span class="down">-4.6</span></td><td class="num" data-v="-217">-217</td></tr>
 <tr><td data-v="China"><a href="/markets/china/">China</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="1.58">1.58</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="0.5"><span class="up">+0.5</span></td><td class="num" data-v="-346">-346</td></tr>
 <tr><td data-v="Hong Kong"><a href="/markets/hong-kong/">Hong Kong</a></td><td class="num" data-v="3.35">3.35</td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td><td class="num"><span class="blank">-</span></td></tr>
 <tr><td data-v="South Korea"><a href="/markets/south-korea/">South Korea</a></td><td class="num"><span class="blank">-</span></td><td class="num" data-v="3.86">3.86</td><td class="num"><span class="blank">-</span></td><td class="num" data-v="-8.7"><span class="down">-8.7</span></td><td class="num" data-v="-118">-118</td></tr>
