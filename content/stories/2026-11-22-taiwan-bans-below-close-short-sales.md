@@ -1,7 +1,7 @@
 ---
 title: "Taiwan bans below-close short sales after worst week since 1991"
 date: 2026-11-22T08:43:54-05:00
-last_updated: 2026-11-22T08:43:54-05:00
+last_updated: 2026-11-22T10:05:50-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -19,11 +19,17 @@ sources:
     publisher: "BigGo Finance"
     url: "https://finance.biggo.com/news/4587efeb-fa40-4e83-90d7-6f334a18f5ff"
     published: "2026-11-21"
+  - title: "Taiwan Mulls Lowering Margin Requirement to Support Stock Market"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market"
+    published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Financial Supervisory Commission announcement of November 21, 2026, read in Finadium's reproduction (sourced to fsc.gov.tw, machine translated) and corroborated by BigGo Finance reporting of November 21, 2026; the commission's own site was not read directly in this run. Developing item."
+data_as_of: "Financial Supervisory Commission announcement of November 21, 2026, read in Finadium's reproduction (sourced to fsc.gov.tw, machine translated) and corroborated by BigGo Finance reporting of November 21, 2026; the commission's own site was not read directly in this run. Latest update adds Bloomberg reporting of November 22, 2026 on a margin-relief proposal under consideration; Bloomberg itself is blocked to this reader, and the proposal's terms were verified through a second-route summary of the same item, so that element is single-sourced and remains a proposal, not a decision. Developing item."
 ---
 
 Taiwan's Financial Supervisory Commission announced a third round of market stabilization measures on Saturday, effective when markets reopen on November 23: short sales of listed and over-the-counter stocks and Taiwan depositary receipts may not be priced below the previous trading day's close, the minimum margin for short sales rises to 150 percent from 130 percent, and applications from securities firms to list new put warrants are suspended. Securities and futures firms hedging their own business are exempt from the ban, lenders are encouraged to suspend share lending and recall or not renew existing loans, and listed companies are encouraged to buy back shares.
+
+Regulators are also considering relief on the long side of the market: a proposal under consideration would lower the minimum margin maintenance ratio for margin financing from 130 percent to 120 percent, Bloomberg reported on Sunday, which would delay margin calls on leveraged buyers after a week of forced selling. No decision has been announced.
 
 The package follows the Taiex's 17.5 percent fall over five sessions, its worst week since 1991 on local reporting, and margin balances across the main board and the over-the-counter exchange shrank by NT$63.7 billion on Friday alone as leveraged holders were forced out. The commission said it will keep monitoring international markets and domestic conditions and adjust the measures as needed, and gave no end date.
