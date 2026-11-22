@@ -1,6 +1,6 @@
 ---
 title: "Bonds with no fund holders"
-date: "2026-10-30"
+date: "2026-11-22"
 lede: "Registry bonds no fund reported holding in the latest N-PORT filings."
 data_as_of: "Fund holdings from the 2026q3 N-PORT archive"
 ---
@@ -71,7 +71,7 @@ data_as_of: "Fund holdings from the 2026q3 N-PORT archive"
 <tr><td data-v="BROADCOM INC — 3.187% Notes due 2036"><a class="bond-link" href="/leverage/bond/u1109max4/"><span class="bond-name">BROADCOM INC</span><span class="bond-sub">3.187% Notes due 2036</span></a></td><td class="num" data-v="2750000000">2,750 (o/s)</td><td data-v="Broadcom">Broadcom</td><td data-v="U1109MAX4">U1109MAX4</td></tr>
 <tr><td data-v="BROADCOM INC — 4% Notes due 2029"><a class="bond-link" href="/leverage/bond/u1109may2/"><span class="bond-name">BROADCOM INC</span><span class="bond-sub">4% Notes due 2029</span></a></td><td class="num" data-v="750000000">750 (o/s)</td><td data-v="Broadcom">Broadcom</td><td data-v="U1109MAY2">U1109MAY2</td></tr>
 <tr><td data-v="BROADCOM INC — 4.15% Notes due 2032"><a class="bond-link" href="/leverage/bond/u1109maz9/"><span class="bond-name">BROADCOM INC</span><span class="bond-sub">4.15% Notes due 2032</span></a></td><td class="muted" data-v="-999"></td><td data-v="Broadcom">Broadcom</td><td data-v="U1109MAZ9">U1109MAZ9</td></tr>
-<tr><td data-v="BROADCOM INC — Notes"><a class="bond-link" href="/leverage/bond/u1109mba3/"><span class="bond-name">BROADCOM INC</span><span class="bond-sub">Notes</span></a></td><td class="muted" data-v="-999"></td><td data-v="Broadcom">Broadcom</td><td data-v="U1109MBA3">U1109MBA3</td></tr>
+<tr><td data-v="BROADCOM INC — 4.926% Notes due 2037"><a class="bond-link" href="/leverage/bond/u1109mba3/"><span class="bond-name">BROADCOM INC</span><span class="bond-sub">4.926% Notes due 2037</span></a></td><td class="muted" data-v="-999"></td><td data-v="Broadcom">Broadcom</td><td data-v="U1109MBA3">U1109MBA3</td></tr>
 <tr><td data-v="CMPDC — 6% Notes due 2050"><a class="bond-link" href="/leverage/bond/20469cad7/"><span class="bond-name">CMPDC</span><span class="bond-sub">6% Notes due 2050</span></a></td><td class="muted" data-v="-999"></td><td data-v="Compass">Compass</td><td data-v="20469CAD7">20469CAD7</td></tr>
 <tr><td data-v="CMPLLC — 5.579% Notes due 2050"><a class="bond-link" href="/leverage/bond/20469bae7/"><span class="bond-name">CMPLLC</span><span class="bond-sub">5.579% Notes due 2050</span></a></td><td class="muted" data-v="-999"></td><td data-v="Compass">Compass</td><td data-v="20469BAE7">20469BAE7</td></tr>
 <tr><td data-v="COREWEAVE COMPUTE ACQUISITION CO II LLC"><a class="bond-link" href="/leverage/bond/948gkaii8/"><span class="bond-name">COREWEAVE COMPUTE ACQUISITION CO II LLC</span><span class="bond-sub"></span></a></td><td class="muted" data-v="-999"></td><td data-v="CoreWeave">CoreWeave</td><td data-v="948GKAII8">948GKAII8</td></tr>
