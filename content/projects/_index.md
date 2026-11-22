@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: "2026-11-21"
+date: "2026-11-22"
 lede: "Standing pages for the largest tracked data center projects: the financing, the parties, and the dated record of developments, updated as events land."
 data_as_of: ""
 ---
