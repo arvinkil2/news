@@ -75,9 +75,9 @@
    "up_1d": true,
    "now": 83.41,
    "now_time": "2026-11-20T16:59:59-05:00",
-   "now_change_1d": 0.24,
+   "now_change_1d": -0.68,
    "now_change_1w": -1.57,
-   "now_up_1d": true
+   "now_up_1d": false
   },
   {
    "name": "Natural gas",
@@ -114,7 +114,7 @@
    "up_1d": true,
    "now": 3.75,
    "now_time": "2026-11-20T16:59:59-05:00",
-   "now_change_1d": 14.69,
+   "now_change_1d": 9.88,
    "now_change_1w": 18.53,
    "now_up_1d": true
   },
@@ -1689,8 +1689,8 @@
    "up_1d": false,
    "now": 342.56,
    "now_time": "2026-11-20T16:00:00-05:00",
-   "now_change_1d": -1.87,
-   "now_change_1w": -2.87,
+   "now_change_1d": -1.88,
+   "now_change_1w": -2.91,
    "now_up_1d": false
   },
   {
@@ -2014,5 +2014,5 @@
    "now_up_1d": false
   }
  ],
- "quotes_updated": "2026-11-22T01:23:24.274851-05:00"
+ "quotes_updated": "2026-11-22T01:39:26.800336-05:00"
 }
