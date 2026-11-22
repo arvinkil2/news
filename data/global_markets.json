@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:18:02.986535-05:00",
+ "updated": "2026-11-22T14:23:12.052618-05:00",
  "volatility": {
   "vix": {
    "value": 35.89,
@@ -4591,9 +4591,9 @@
     "symbol": "TUR"
    },
    "fx": {
-    "value": 50.5443,
-    "change_1d": 0.04,
-    "change_1w": -0.41,
+    "value": 50.5843,
+    "change_1d": -0.04,
+    "change_1w": -0.48,
     "change_unit": "%",
     "history": [
      49.5843,
@@ -4619,10 +4619,10 @@
      50.4383,
      50.462,
      50.5623,
-     50.5443
+     50.5843
     ],
-    "spark": "0.0,26.0 4.2,25.1 8.3,22.4 12.5,22.2 16.7,21.2 20.9,20.7 25.0,20.0 29.2,17.2 33.4,16.6 37.6,16.1 41.7,15.5 45.9,14.9 50.1,12.0 54.3,12.8 58.4,10.5 62.6,10.7 66.8,9.6 71.0,8.9 75.1,7.4 79.3,5.5 83.5,5.0 87.7,4.5 91.8,2.0 96.0,2.4",
-    "up_1d": true,
+    "spark": "0.0,26.0 4.2,25.1 8.3,22.5 12.5,22.3 16.7,21.3 20.9,20.8 25.0,20.1 29.2,17.4 33.4,16.8 37.6,16.3 41.7,15.8 45.9,15.1 50.1,12.4 54.3,13.1 58.4,10.8 62.6,11.0 66.8,9.9 71.0,9.3 75.1,7.9 79.3,6.0 83.5,5.5 87.7,4.9 91.8,2.5 96.0,2.0",
+    "up_1d": false,
     "as_of": "2026-11-22",
     "label": "USD/TRY",
     "symbol": "TRY=X"
@@ -4912,8 +4912,8 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
-  "Saudi Arabia index (^TASI.SR): not enough data",
+  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
+  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
   "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ],
  "sofr": {
