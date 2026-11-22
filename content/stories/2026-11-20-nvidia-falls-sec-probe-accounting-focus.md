@@ -1,11 +1,11 @@
 ---
 title: "Nvidia falls 11.5 percent as SEC probe turns to accounting"
 date: 2026-11-20T15:08:13-05:00
-last_updated: 2026-11-20T19:43:03-05:00
+last_updated: 2026-11-22T12:46:23-05:00
 beats: ["technology"]
-regions: ["north-america"]
+regions: ["north-america", "asia-pacific"]
 status: "story"
-lede: "President Donald Trump on Friday urged Nvidia to reinstate former chief executive Jensen Huang, saying Huang should offer a sincere apology and return, on a day when Nvidia shares fell 11.5 percent after Reuters reported that SEC enforcement staff are examining potential accounting issues at the chipmaker."
+lede: "Treasury Secretary Scott Bessent said on Sunday that the administration still needs answers from Nvidia on its chip sales to China and will establish who led compliance at the company, pressing Nvidia to move quickly as the scrutiny that followed Jensen Huang's resignation widens."
 why_it_matters: "A president publicly pressing a company to restore a chief executive who resigned amid an espionage scandal is an extraordinary intervention in a live corporate and regulatory crisis, and Trump's claim that he discussed Huang with China's president contradicts his own Treasury secretary's account of the same summit given hours earlier."
 featured: false
 evidence_grade: "B"
@@ -22,10 +22,16 @@ sources:
     publisher: "Agence France-Presse, via Clarín"
     url: "https://www.clarin.com/estados-unidos/trump-pide-a-nvidia-una-segunda-oportunidad-para-jensen-huang_0_J7cc9DNCNP.html"
     published: "2026-11-20"
+  - title: "US seeks answers on Nvidia's sale of chips to China, Bessent says"
+    publisher: "Reuters, via Arab News"
+    url: "https://www.arabnews.com/world/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-3013575"
+    published: "2026-11-22"
 tags: []
-data_as_of: "Reuters report of November 20, 2026, citing two people briefed on the matter, read in full via Investing.com through the estate browser route after the direct fetch was refused. The accounting focus is a single wire origin: Reuters did not identify the practices under scrutiny or when the inquiry began, the SEC declined to comment, and Nvidia did not immediately respond. Update: AFP report of President Trump's November 20 press conference remarks, in Spanish via Clarín, read in full through the estate browser route after the direct fetch was blocked; a Bloomberg video headline carried the same remarks. Neither Nvidia nor Huang is reported to have responded."
+data_as_of: "Reuters report of November 20, 2026, citing two people briefed on the matter, read in full via Investing.com through the estate browser route after the direct fetch was refused. The accounting focus is a single wire origin: Reuters did not identify the practices under scrutiny or when the inquiry began, the SEC declined to comment, and Nvidia did not immediately respond. Update: AFP report of President Trump's November 20 press conference remarks, in Spanish via Clarín, read in full through the estate browser route after the direct fetch was blocked; a Bloomberg video headline carried the same remarks. Neither Nvidia nor Huang is reported to have responded. Latest update adds Reuters reporting of November 22, 2026, via Arab News, read in full via the browser route after the direct fetch was blocked, carrying Treasury Secretary Scott Bessent's remarks on CBS's Face the Nation on Sunday; the report names no chip model, sale or quantity, and does not report an Nvidia response."
 update_bump: true
 ---
+
+**Latest.** Treasury Secretary Scott Bessent said on Sunday that the Trump administration still needs information on Nvidia's chip sales to China and will find out who led compliance at the company. Speaking on CBS's Face the Nation, Bessent said the administration has been in touch with Nvidia's temporary management, its lead directors and its lawyers, and that "we do need answers," adding that it behooves Nvidia to move quickly because the administration wants to know what the culture was. Reuters named no chip model, sale or quantity in its report, and did not report an Nvidia response. The remarks shift the administration's public focus from the H200 export threshold Bessent defended on Friday to what Nvidia itself sold and how its compliance function operated while Jensen Huang ran the company.
 
 **Latest.** President Donald Trump on Friday asked Nvidia to reinstate Jensen Huang as chief executive, telling a press conference he would love to see Huang back and that Nvidia should give him a second chance. Trump called Huang one of the brightest minds in the world and a good man who made some bad decisions, and said he would like Huang to offer a sincere apology and return. Huang resigned last week after revelations about his relationship with an alleged Chinese spy said to have facilitated the transfer of sensitive chips to Beijing. Trump also said he had discussed Huang with Chinese President Xi Jinping at their summit earlier this week and that Xi praised Huang as brilliant, which contradicts Treasury Secretary Scott Bessent, who said hours earlier that Trump had not raised Huang with Xi at the Shenzhen meeting. Neither Nvidia nor Huang is reported to have responded.
 
