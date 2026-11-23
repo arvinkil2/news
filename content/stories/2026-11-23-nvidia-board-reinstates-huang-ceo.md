@@ -1,12 +1,12 @@
 ---
 title: "Nvidia board reinstates Jensen Huang as chief executive"
 date: 2026-11-23T09:23:45-05:00
-last_updated: 2026-11-23T11:12:30-05:00
+last_updated: 2026-11-23T12:05:26-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia's board reinstated Jen-Hsun Huang as president, chief executive officer and a member of the board on November 22, effective immediately, according to an 8-K filed on Monday, and the shares opened about 33 percent higher as the Nasdaq Composite opened up 7.30 percent."
-why_it_matters: "The founder returns days after the board said it did not intend to reinstate him and after President Trump publicly asked Nvidia to give him a second chance, while congressional and regulatory scrutiny of the company continues."
+lede: "Nvidia's board reinstated Jen-Hsun Huang as president, chief executive officer and a member of the board on November 22, effective immediately, according to an 8-K filed on Monday, and President Trump said on Monday that he had spoken to the board directly and indirectly and convinced them to do it."
+why_it_matters: "The president now claims a direct hand in reversing a board decision at the largest US chipmaker, days after that board said it did not intend to reinstate its founder, while congressional and regulatory scrutiny of the company continues."
 featured: true
 evidence_grade: "A"
 sources:
@@ -30,10 +30,16 @@ sources:
     publisher: "El País, in Spanish"
     url: "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html"
     published: "2026-11-23"
+  - title: "Trump says he 'convinced' Nvidia board to reinstate Jensen Huang"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+    published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day."
+data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day. Updated again November 23, 2026 with the president's account of his own intervention, from the opening of The Guardian's report of November 23, 2026, which quotes his remarks to CNBC; the rest of that article sits behind a registration wall and was not read, and no fact in this update rests on it."
 ---
+
+**Latest:** President Donald Trump said on Monday that he had spoken to Nvidia's board directly and indirectly and had convinced them to reinstate Huang, The Guardian reported, quoting remarks he gave to CNBC. "I've been speaking to the board directly and indirectly, and I felt very strongly about it," Trump said, adding that he felt more strongly as he saw what was happening with the company, which he called a very important part of the country. The Guardian's report adds that he assured the board on national security risks. The claim goes beyond his public appeal of November 20: the president is now describing private contact with the board before its decision, not only support after it.
 
 **Latest:** President Donald Trump welcomed the reinstatement on Monday, writing on Truth Social that the board had taken the correct and appropriate decision and that the United States government has no reason to believe Huang's return represents a national security risk, El País reported. Trump said Attorney General Todd Blanche had confirmed the government has no evidence Huang engaged in any illegal conduct, called Huang a great patriot and a national treasure, and said Nvidia must continue its internal investigation into compliance with United States export controls. El País also reported that Nvidia's own announcement said the board decided unanimously to allow Huang's return after a process that included consultations with the Trump government, and that the board is confident the reinstatement poses no national security risk.
 
