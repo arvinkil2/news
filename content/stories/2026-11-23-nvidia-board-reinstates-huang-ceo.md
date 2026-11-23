@@ -1,12 +1,12 @@
 ---
 title: "Nvidia board reinstates Jensen Huang as chief executive"
 date: 2026-11-23T09:23:45-05:00
-last_updated: 2026-11-23T15:05:59-05:00
+last_updated: 2026-11-23T16:44:10-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Jensen Huang is scheduled to testify publicly before the Senate Banking Committee on December 3, according to a notice on the committee website, hours after Nvidia's board reinstated him as chief executive, and Senate Minority Leader Chuck Schumer said Democrats will use their full power to investigate the reinstatement."
-why_it_matters: "The reinstatement now faces a dated public test: Huang answers senators on December 3 in a hearing on oversight of US export controls, after a closed interview with three House committees on December 1, while the president claims a direct hand in reversing the board decision that removed him."
+lede: "The United States is set to add Singapore-based Megaspeed, the chip firm at the centre of the espionage investigation involving Nvidia, to its trade blacklist on Monday, a source told Reuters, on the day Nvidia's board reinstated Jensen Huang as chief executive."
+why_it_matters: "A blacklist listing would cut Megaspeed off from US goods, software and technology without a licence, and it lands while Huang's reinstatement faces a Senate Banking Committee hearing on December 3, a closed House interview on December 1 and a pledged Democratic investigation."
 featured: true
 evidence_grade: "A"
 sources:
@@ -34,6 +34,10 @@ sources:
     publisher: "The Guardian"
     url: "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
     published: "2026-11-23"
+  - title: "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says"
+    publisher: "Reuters, via Arab News"
+    url: "https://www.arabnews.com/world/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-3013777"
+    published: "2026-11-23"
   - title: "Schumer: Democrats will use 'full power' to probe Huang, Trump, Nvidia executives"
     publisher: "The Hill"
     url: "https://thehill.com/homenews/senate/6237752-schumer-democrats-nvidia-ceo-huang-probe/"
@@ -44,8 +48,10 @@ sources:
     published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day. Updated again November 23, 2026 with the president's account of his own intervention, from the opening of The Guardian's report of November 23, 2026, which quotes his remarks to CNBC; the rest of that article sits behind a registration wall and was not read, and no fact in this update rests on it. Updated again November 23, 2026 with Senate Minority Leader Chuck Schumer's pledge of a Democratic investigation, from The Hill's report of November 23, 2026, read in full via the estate browser. Updated again November 23, 2026 with the Senate Banking Committee public hearing scheduled for December 3, 2026 and the earlier agreed December 1, 2026 closed House interview, from TechCrunch reporting of November 23, 2026, read in full, which cites the committee website notice; the Bloomberg report of the same scheduling could not be opened (bloomberg.com blocked to this reader) and nothing in this update rests on it."
+data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day. Updated again November 23, 2026 with the president's account of his own intervention, from the opening of The Guardian's report of November 23, 2026, which quotes his remarks to CNBC; the rest of that article sits behind a registration wall and was not read, and no fact in this update rests on it. Updated again November 23, 2026 with Senate Minority Leader Chuck Schumer's pledge of a Democratic investigation, from The Hill's report of November 23, 2026, read in full via the estate browser. Updated again November 23, 2026 with the Senate Banking Committee public hearing scheduled for December 3, 2026 and the earlier agreed December 1, 2026 closed House interview, from TechCrunch reporting of November 23, 2026, read in full, which cites the committee website notice; the Bloomberg report of the same scheduling could not be opened (bloomberg.com blocked to this reader) and nothing in this update rests on it. Updated again November 23, 2026 with the expected US trade blacklist listing of Megaspeed, from Reuters reporting carried by Arab News and read in full via the browser route the same day; the listing report rests on a single unnamed source, Reuters could not independently verify the intelligence allegation against Alice Huang, and no response from Megaspeed, Nvidia or the Commerce Department is reported."
 ---
+
+**Latest:** The United States is set to add Singapore-based chip firm Megaspeed to its trade blacklist on Monday, a source told Reuters, in a move that would bar US companies from shipping goods, software and technology to Megaspeed without a licence that is likely to be denied. Megaspeed is closely tied to the espionage investigation involving Nvidia: its controlling shareholder is Alice Huang, the Chinese businesswoman US authorities have reportedly concluded was a Chinese intelligence asset, an allegation China has called groundless and which Reuters said it could not independently verify. Nvidia lists Megaspeed as an official cloud partner. The blacklist report rests on a single unnamed source, and no response from Megaspeed, Nvidia or the Commerce Department is reported.
 
 **Latest:** Jensen Huang is scheduled to testify publicly before the Senate Banking Committee on December 3, according to a notice on the committee's website cited by TechCrunch, hours after the board reinstated him as chief executive. The committee oversees export control policy, and the public hearing follows bipartisan calls for Huang to testify about his relationship with a woman suspected by the US government of working as a Chinese spy and about possible involvement in chip-smuggling operations. Before his reinstatement, Huang had already agreed to appear on December 1 before the House Foreign Affairs Committee, the Select Committee on the Chinese Communist Party and the House Intelligence Committee, TechCrunch reported.
 
