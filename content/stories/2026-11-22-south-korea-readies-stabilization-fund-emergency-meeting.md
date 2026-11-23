@@ -1,12 +1,12 @@
 ---
 title: "South Korea readies stabilization fund after emergency Sunday meeting"
 date: 2026-11-22T05:21:27-05:00
-last_updated: 2026-11-22T05:21:27-05:00
+last_updated: 2026-11-22T20:05:46-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "South Korea’s finance chiefs agreed at an emergency Sunday meeting to prepare the securities market stabilization fund for immediate activation if conditions warrant, and to relax listed companies’ daily share buyback limits for three months from November 24."
+lede: "The Kospi fell as much as 3.2 percent in early trading on Monday, extending the AI-led selloff a day after South Korea’s finance chiefs agreed at an emergency Sunday meeting to prepare the securities market stabilization fund for immediate activation if conditions warrant."
 why_it_matters: "Seoul is moving before the Monday open, after the Kospi fell 7.95 percent last week in the global AI selloff, and the package follows Taiwan’s short-sale curbs and stabilization fund authorization on November 6 as Asian officials shift from watching the rout to intervening against it."
 featured: false
 evidence_grade: "B"
@@ -23,10 +23,16 @@ sources:
     publisher: "Money Today"
     url: "https://www.mt.co.kr/economy/2026/11/22/2026112214494521140"
     published: "2026-11-22"
+  - title: "South Korea’s stock market tumbles as AI bubble fears mount"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+    published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly in this run. The fund has not been activated and no activation size was announced. Developing item."
+data_as_of: "Updated November 22, 2026 (Toronto) with Al Jazeera reporting of November 23, 2026 (Seoul) on the Monday open, read in full via the estate browser after the direct fetch was blocked; Yonhap’s early-session item on individual chip stocks could not be read and its figures are not used. Original sourcing: Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly. No fund activation had been reported as of this update. Developing item."
 ---
+
+**Update, November 23 (Seoul).** The Kospi fell as much as 3.2 percent in early trading on Monday, Al Jazeera reported, as the AI-led selloff that prompted Sunday’s emergency meeting extended into the week’s first session. The fall came ahead of the Monday openings in Taiwan, China and Hong Kong; Japanese markets were closed for the Labour Thanksgiving Day holiday. No activation of the stabilization fund had been reported.
 
 South Korea’s top economic and financial officials agreed at an emergency meeting on Sunday to begin preparations so the securities market stabilization fund can be activated immediately if market conditions warrant. Deputy Prime Minister and Finance Minister Lee Hyung-il chaired the meeting in Seoul with Bank of Korea Governor Shin Hyun-song, Financial Services Commission Chairman Lee Eok-won and Financial Supervisory Service Governor Lee Chan-jin, and the group said volatility had expanded sharply on uncertainty over AI industry profitability and financing, United States data centre regulation and tighter semiconductor export controls.
 
