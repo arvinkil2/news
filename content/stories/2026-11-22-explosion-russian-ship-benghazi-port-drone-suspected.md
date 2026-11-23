@@ -1,16 +1,20 @@
 ---
 title: "Explosion on Russian ship at Benghazi port, drone attack suspected"
 date: 2026-11-22T10:25:01-05:00
-last_updated: 2026-11-22T20:27:09-05:00
+last_updated: 2026-11-23T04:08:40-05:00
 beats: ["politics"]
 regions: ["africa", "europe"]
 status: "developing"
 developing: true
-lede: "Libyan military officials told the Associated Press the vessel hit at Benghazi naval base was the Russian Navy corvette Merkury, severely damaged by two sea drones, and Reuters reported a Maltese-flagged commercial vessel was targeted by a drone boat off the port on Sunday evening."
-why_it_matters: "If the Libyan officials' account holds, Ukrainian sea drones operating from western Libya struck a Russian warship in the Mediterranean and the attacks widened the same evening to a commercial vessel, pulling Libyan ports directly into the Russia-Ukraine war at sea."
+lede: "President Volodymyr Zelenskyy said on Monday that Ukrainian forces sank the Russian corvette Merkury off Libya with naval drones, claiming an attack that Libyan officials had described the day before without naming a perpetrator."
+why_it_matters: "Ukraine's claim moves the Benghazi strike from suspected to admitted, extending Kyiv's sea drone campaign into the Mediterranean and putting Libyan ports at the centre of the war at sea."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+    published: "2026-11-23"
   - title: "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say"
     publisher: "Associated Press, via Military.com"
     url: "https://www.military.com/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base"
@@ -37,10 +41,12 @@ sources:
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser."
+data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read."
 ---
 
 ## Latest
+
+President Volodymyr Zelenskyy said on Monday that Ukrainian forces sank the Russian corvette Merkury off Libya, hailing what he called an exemplary Ukrainian sea drone operation in response to Russia's war. Al Jazeera reported that seven Ukrainian-made naval drones were launched in the attack, that a KA-27 combat helicopter was also destroyed, and that Zelenskyy named a second target, the Russian dry cargo ship Angara, which he said Russia used to transport weapons. Libya's eastern health ministry said all crew members had been rescued and were receiving treatment, while local sources told Al Jazeera the number of Libyan and Russian nationals killed was not yet known. Russia had not responded in the reporting read.
 
 The UN Support Mission in Libya called for an immediate, independent and transparent investigation into the attacks at Benghazi seaport and off the city’s coast, expressed serious concern over Sunday’s incidents, and said Libya must not become a battleground for foreign conflicts. The mission urged all parties to exercise restraint and avoid escalatory rhetoric while investigations are under way, and said it stood ready to assist Libyan authorities. The eastern-based government’s prime minister, Osama Hamad, also requested an international investigation, including into suspicions that the drone boats originated from western Libya.
 
