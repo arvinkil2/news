@@ -1,6 +1,6 @@
 ---
 title: "CMBS rankings"
-date: "2026-11-22"
+date: "2026-11-23"
 lede: "Deal rankings by realized stress, current balance, modifications, and the wait for a first downgrade."
 data_as_of: "loan data through October 2026; ratings as held in the dataset at 2026-11-01"
 ---
