@@ -1,7 +1,7 @@
 ---
 title: "COP31 ends without a deal as EU rejects fossil fuel omission"
 date: 2026-11-20T07:13:11-05:00
-last_updated: 2026-11-22T11:42:21-05:00
+last_updated: 2026-11-22T19:23:38-05:00
 beats: ["politics"]
 regions: ["global", "middle-east", "europe"]
 status: "developing"
@@ -38,10 +38,16 @@ sources:
     publisher: "UN News, United Nations"
     url: "https://news.un.org/feed/view/en/story/2026/11/1168855"
     published: "2026-11-22"
+  - title: "COP31 Outcomes - your questions answered"
+    publisher: "UK Government (Department for Energy Security and Net Zero), GOV.UK"
+    url: "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered"
+    published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 with UN News reporting of November 22, 2026 on Secretary-General António Guterres’s statement after the closing plenary and on Executive Secretary Simon Stiell’s closing remarks; earlier updates used the UK government’s own statement on the COP31 outcome (GOV.UK, November 22, 2026), Reuters reporting of November 22, 2026 on the closing plenary in Antalya, and Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
+data_as_of: "Updated November 22, 2026 with the UK government's COP31 outcomes Q&A (GOV.UK, published November 22, 2026), read in full; earlier updates used UN News reporting of November 22, 2026 on Secretary-General António Guterres’s statement after the closing plenary and on Executive Secretary Simon Stiell’s closing remarks, the UK government’s own statement on the COP31 outcome (GOV.UK, November 22, 2026), Reuters reporting of November 22, 2026 on the closing plenary in Antalya, and Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
 ---
+
+**Update, November 22 (UK Q&A).** In a question-and-answer page published on Sunday, the UK government named the failed overarching decision the presidency-led "Antalya Pact" and said parties as a whole had objected to it, while a number of negotiation outcomes were still reached, including on climate finance and just transition. London said it had endorsed the COP31 presidency's 35x35 Global Electrification Pledge and a UK-Nigeria low-methane partnership, and confirmed COP31 formally concluded on November 22, with negotiations to continue at COP32 in Ethiopia.
 
 **Update, November 22 (UN reaction).** UN Secretary-General António Guterres said he was “deeply disappointed” that governments in Antalya had failed to reach consensus, and that the outcome did not change the science: “There may be no consensus in the negotiating room. There is no ambiguity in the science.” He said fossil fuels remain the primary driver of warming and that governments had already agreed at COP28 in Dubai to move away from them: “We can’t put out the fire while pouring fuel on it.” UN News reported that Antalya is now the longest-running UN climate summit on record. UN Climate Change Executive Secretary Simon Stiell told the closing plenary, “The world cannot afford a repeat of this moment,” and pointed to one agreement reached at the summit, on a just transition, ahead of COP32 in Addis Ababa.
 
