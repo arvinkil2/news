@@ -1,15 +1,19 @@
 ---
 title: "World court finds Myanmar committed genocide against Rohingya"
 date: 2026-11-21T10:04:22-05:00
-last_updated: 2026-11-21T10:04:22-05:00
+last_updated: 2026-11-23T15:42:37-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "The International Court of Justice ruled on November 19, by nine votes to six, that Myanmar committed genocide against the Rohingya in its 2017 military operations, the first time the court has found a state responsible for committing genocide, and rights groups are now pressing for sanctions and a global arms embargo."
-why_it_matters: "The judgment is final and binding but the court cannot enforce it, so the fight moves to the UN Security Council, where China and Russia are expected to block action, and to national sanctions decisions on Myanmar's military and its oil and gas income."
+lede: "Britain formally recognised the genocide against the Rohingya on November 23 and sanctioned five senior Myanmar military officers, four days after the International Court of Justice ruled that Myanmar committed genocide in its 2017 military operations."
+why_it_matters: "The UK package is the first national sanctions and recognition response to the judgment: it pairs designations on serving commanders with planned legislation against aviation fuel supplies, the input the military's airstrike campaign depends on, while enforcement through the Security Council still faces expected Chinese and Russian resistance."
 featured: true
 evidence_grade: "B"
 sources:
+  - title: "UK leads global action with major new measures against Myanmar military following landmark genocide judgment"
+    publisher: "UK Government (Foreign, Commonwealth and Development Office)"
+    url: "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment"
+    published: "2026-11-23"
   - title: "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya"
     publisher: "Associated Press, via Arab News"
     url: "https://www.arabnews.com/world/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya-3013243"
@@ -23,9 +27,11 @@ sources:
     url: "https://www.fidh.org/en/region/asia/myanmar/myanmar-world-court-issues-historic-first-judgment-recognizing"
     published: "2026-11-19"
 tags: []
-data_as_of: "Judgment of November 19, 2026 in The Gambia v. Myanmar. The Court's own press summary could not be read in this environment (the ICJ press release listing available to this reader predates the judgment), so the findings and orders are stated as reported by the Associated Press report of November 20, 2026, read in full via the estate browser route after the direct fetch was blocked, and by the Human Rights Watch and FIDH statements of November 19, 2026, which set out the judgment's holdings. Myanmar's response is its spokeswoman's statement as reported by AP."
+data_as_of: "Updated November 23, 2026 with the UK Government's announcement of November 23, 2026, read in full from gov.uk; every figure, designation and quotation in the update is that announcement's own. Judgment of November 19, 2026 in The Gambia v. Myanmar. The Court's own press summary could not be read in this environment (the ICJ press release listing available to this reader predates the judgment), so the findings and orders are stated as reported by the Associated Press report of November 20, 2026, read in full via the estate browser route after the direct fetch was blocked, and by the Human Rights Watch and FIDH statements of November 19, 2026, which set out the judgment's holdings. Myanmar's response is its spokeswoman's statement as reported by AP."
 update_bump: true
 ---
+
+**Latest:** The United Kingdom formally recognised the genocide committed against the Rohingya on Monday and announced new sanctions against five senior Myanmar military officers, with asset freezes, travel bans and director disqualifications, the Foreign, Commonwealth and Development Office said. The designated officers are Brigadier General Myo Htut Hlaing, Major General Myo Min Tun, Major General Myat Thet Oo, Major General Kyaw Soe and Major-General Kyaw Swar Oo, the last named over the airstrike on Mrauk-U General Hospital in which 33 civilians were killed. The government also said it intends to legislate against the export and supply of aviation fuel to Myanmar, announced an additional £5 million in humanitarian assistance for Rohingya and other communities in Rakhine State and up to £3 million to strengthen justice for survivors, and said it has called an urgent session with Security Council members this week and a further Council meeting in two weeks. Foreign Secretary Ed Miliband said there could be no impunity for the atrocities. Britain led a joint statement the same day with Belgium, Canada, Cyprus, Czech Republic, Estonia, Iceland, Latvia, Luxembourg, New Zealand, Portugal, Spain and The Gambia, and the announcement brings Myanmar to six genocides the UK officially acknowledges.
 
 The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya during the military's 2017 clearance operations in northern Rakhine State, deciding the case brought by The Gambia by nine votes to six. It is the first time the court has found a state responsible for committing genocide under the 1948 Genocide Convention. The court found that Myanmar's security forces intentionally committed killing, the causing of serious bodily or mental harm, and measures intended to prevent births against the Rohingya, and that Myanmar also failed in its obligations to prevent genocide and to punish those responsible.
 
