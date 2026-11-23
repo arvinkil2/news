@@ -1,7 +1,7 @@
 ---
 title: "Denmark expels Russian attache over suspected rapper plot"
 date: 2026-11-20T17:29:54-05:00
-last_updated: 2026-11-21T13:23:59-05:00
+last_updated: 2026-11-23T07:12:35-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -23,12 +23,18 @@ sources:
     publisher: "France 24"
     url: "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen"
     published: "2026-11-21"
+  - title: "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper"
+    publisher: "Associated Press, via WGAU"
+    url: "https://cmg-cmg-rd-20015-prod.cdn.arcpublishing.com/news/world/poland-says-russia/TB2PWG7LRU6O3H6ICJYS5PGU5A/"
+    published: "2026-11-22"
 tags: []
-data_as_of: "Updated November 21, 2026: Denmark's message to EU governments reported by Reuters on November 21, 2026, carried by Arab News and read in full via the estate browser route; the message was confirmed to Reuters by two diplomats and no Danish official is named in the report. Earlier update: von der Leyen's condemnation reported by France 24 on November 21, 2026 and corroborated by Reuters syndication the same day; the France 24 page itself was blocked to this reader and the statement was verified through second-route reports of the same statement. Original item: Agence France-Presse report of November 20, 2026, carried by Arab News and read in full. The alleged Russian role is the Danish intelligence agency PET's assessment; Russia's embassy in Copenhagen said the accusations were not backed with proof. Developing item."
+data_as_of: "Updated November 23, 2026: Poland's disclosure of the August 2026 attempt on the same target, reported by the Associated Press on November 22, 2026 and confirmed to AP by Polish Foreign Ministry spokesman Maciej Wewior; the alleged Russian role in both attempts is the assessment of the Polish and Danish services, and Russia has dismissed the allegations as unsubstantiated. Earlier update, November 21, 2026: Denmark's message to EU governments reported by Reuters on November 21, 2026, carried by Arab News and read in full via the estate browser route; the message was confirmed to Reuters by two diplomats and no Danish official is named in the report. Earlier update: von der Leyen's condemnation reported by France 24 on November 21, 2026 and corroborated by Reuters syndication the same day; the France 24 page itself was blocked to this reader and the statement was verified through second-route reports of the same statement. Original item: Agence France-Presse report of November 20, 2026, carried by Arab News and read in full. The alleged Russian role is the Danish intelligence agency PET's assessment; Russia's embassy in Copenhagen said the accusations were not backed with proof. Developing item."
 update_bump: true
 ---
 
 ## Latest
+
+**Update, November 23.** Poland revealed on Sunday that the same man, rapper Albert Vasiliev, who performs as Kyivstoner and holds Ukrainian and US citizenship, was allegedly targeted by Russian intelligence in Poland first, in August 2026. The Polish Foreign Ministry said the first attempt took place on Polish territory in August and was thwarted by Polish services, and that the would-be perpetrator, a Russian citizen allegedly recruited by Russia's secret services, was detained on August 7. Prime Minister Donald Tusk had disclosed a thwarted plot against a Ukrainian American citizen in Warsaw on August 13 without naming the target. A ministry spokesman, Maciej Wewior, confirmed the earlier attempt to the Associated Press, and Poland said it would support the EU measures Denmark is proposing this week. Russia's FSB has accused Vasiliev of involvement in supplying drones for an alleged Ukrainian attack on a defence enterprise in the Moscow region, which Danish broadcaster DR reported he denies.
 
 Denmark has urged EU member states to take concrete action against Russia after the foiled plot, in a message sent to EU governments on Friday evening and confirmed by two diplomats, Reuters reported. Copenhagen proposed further restrictions on Russian nationals' access to the Schengen zone, including a halt to tourist visas for Russian citizens and Schengen-wide non-recognition of Russian non-biometric passports, and will present the proposals to EU ambassadors in Brussels on Monday. Russia's embassy in Copenhagen said on Friday that Denmark's accusations were not backed with proof.
 

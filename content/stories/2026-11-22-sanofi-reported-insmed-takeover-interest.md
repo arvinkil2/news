@@ -1,7 +1,7 @@
 ---
 title: "Sanofi reported to weigh Insmed takeover as Dupixent cliff nears"
 date: 2026-11-22T07:05:53-05:00
-last_updated: 2026-11-22T07:05:53-05:00
+last_updated: 2026-11-23T07:11:50-05:00
 beats: ["life-sciences"]
 regions: ["europe", "north-america"]
 status: "story"
@@ -23,7 +23,7 @@ sources:
     url: "https://www.pharmexec.com/view/sanofi-eyes-insmed-potential-43b-deal-dupixent-patent-clock-ticks"
     published: "2026-11-20"
 tags: []
-data_as_of: "Single sourced: the underlying report is Bloomberg's of November 19, 2026, based on unnamed sources; neither company has commented and no agreement exists. Evidence grade capped at C on that basis. Share and sales figures as reported November 19 to 20, 2026."
+data_as_of: "Updated November 23, 2026: still single sourced: the underlying report is Bloomberg's of November 19, 2026, based on unnamed sources; neither company has commented and no agreement exists. Evidence grade capped at C on that basis. Share and sales figures as reported November 19 to 20, 2026."
 ---
 
 Sanofi is evaluating a potential acquisition of Insmed, the United States respiratory drugmaker, according to a Bloomberg report published November 19 and cited by Fierce Pharma, BioSpace and Pharmaceutical Executive. The French company is working with advisers on a deal that could be valued between $35 billion and $43 billion. Neither company has commented, the talks are described as preliminary, and Sanofi could decide against an offer or face rival bidders.
@@ -33,3 +33,5 @@ The target's asset is Brinsupri, a treatment for non cystic fibrosis bronchiecta
 The strategic logic is Sanofi's dependence on Dupixent, whose patent expires in the early 2030s, and a run of pipeline setbacks under new chief executive Belen Garijo. Analysts at BMO Capital Markets called the fit clear, adding Insmed's respiratory growth to Sanofi's commercial infrastructure, and William Blair pointed to Sanofi's recent Dupixent approval push in COPD. Both banks also flagged price: a deal in the $40 billion range against net debt of about 12 billion euros is the central obstacle, and it would be the largest pharma transaction since Pfizer's $43 billion Seagen acquisition in 2023.
 
 Treat this as a reported intention, not a deal. There is no agreement, no offer and no company confirmation, and Sanofi's finance chief said in October that a major transaction in the next couple of months was unlikely, even as the company promised more on its priorities by year end.
+
+Update, November 23: Genetic Engineering News, in a StockWatch item published November 22, reported analysts concluding that a deal would make sense, and BioSpace reported BMO Capital Markets calling the fit clear in respiratory. Neither item, and no filing or company statement found in this run, confirms that talks are taking place. The position is unchanged from November 22: a Bloomberg report of November 19, unnamed sources, no offer, no price agreed, and no comment from either company. The story remains rumored and capped at grade C.

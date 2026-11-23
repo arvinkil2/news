@@ -1,7 +1,7 @@
 ---
 title: "COP31 ends without a deal as EU rejects fossil fuel omission"
 date: 2026-11-20T07:13:11-05:00
-last_updated: 2026-11-22T19:23:38-05:00
+last_updated: 2026-11-23T07:12:35-05:00
 beats: ["politics"]
 regions: ["global", "middle-east", "europe"]
 status: "developing"
@@ -38,14 +38,20 @@ sources:
     publisher: "UN News, United Nations"
     url: "https://news.un.org/feed/view/en/story/2026/11/1168855"
     published: "2026-11-22"
+  - title: "Guterres laments COP31 outcome, urges climate justice from Barbados"
+    publisher: "UN News, United Nations"
+    url: "https://news.un.org/en/story/2026/11/1168856"
+    published: "2026-11-22"
   - title: "COP31 Outcomes - your questions answered"
     publisher: "UK Government (Department for Energy Security and Net Zero), GOV.UK"
     url: "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered"
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 with the UK government's COP31 outcomes Q&A (GOV.UK, published November 22, 2026), read in full; earlier updates used UN News reporting of November 22, 2026 on Secretary-General António Guterres’s statement after the closing plenary and on Executive Secretary Simon Stiell’s closing remarks, the UK government’s own statement on the COP31 outcome (GOV.UK, November 22, 2026), Reuters reporting of November 22, 2026 on the closing plenary in Antalya, and Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
+data_as_of: "Updated November 23, 2026 with Secretary-General Guterres's remarks in Bridgetown, Barbados (UN News, November 22, 2026). Earlier update, November 22, 2026, with the UK government's COP31 outcomes Q&A (GOV.UK, published November 22, 2026), read in full; earlier updates used UN News reporting of November 22, 2026 on Secretary-General António Guterres’s statement after the closing plenary and on Executive Secretary Simon Stiell’s closing remarks, the UK government’s own statement on the COP31 outcome (GOV.UK, November 22, 2026), Reuters reporting of November 22, 2026 on the closing plenary in Antalya, and Associated Press reporting of November 22, 2026 on the presidency draft. Developing item."
 ---
+
+**Update, November 23 (Guterres in Barbados).** Speaking alongside Prime Minister Mia Mottley in Bridgetown on Sunday, ahead of a UN backed summit on AI safety, Secretary-General Antonio Guterres said governments had failed to match the urgency of the climate crisis. "At a moment when the climate crisis is accelerating, governments failed to rise to the level of ambition this crisis demands," he said, warning that the world is on course to exceed the 1.5 degree Celsius limit and that "the continued addiction to coal, oil and gas is fueling climate chaos." He praised Barbados and the Bridgetown Initiative on fairer international finance, and welcomed a new five year UN Sustainable Development Cooperation Framework for the Caribbean. The Bridgetown Special Summit on AI Safety, co-hosted by the UN and the Government of Barbados, meets on Monday.
 
 **Update, November 22 (UK Q&A).** In a question-and-answer page published on Sunday, the UK government named the failed overarching decision the presidency-led "Antalya Pact" and said parties as a whole had objected to it, while a number of negotiation outcomes were still reached, including on climate finance and just transition. London said it had endorsed the COP31 presidency's 35x35 Global Electrification Pledge and a UK-Nigeria low-methane partnership, and confirmed COP31 formally concluded on November 22, with negotiations to continue at COP32 in Ethiopia.
 
