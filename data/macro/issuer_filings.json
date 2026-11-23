@@ -2,6 +2,15 @@
  "issuers": {
   "alphabet": [
    {
+    "date": "2026-11-23",
+    "form": "424B2",
+    "title": "Final prospectus supplement, C$6,000M senior notes in four series",
+    "detail": "Final prospectus supplement for the Canadian dollar senior unsecured notes priced November 19, 2026 and settling November 24, 2026: C$2,000M at 4.100 percent due 2029; C$1,250M at 4.800 percent due 2034; C$1,500M at 5.325 percent due 2038; C$1,250M at 6.000 percent due 2066. Terms are unchanged from the pricing term sheet filed November 20, 2026; the filing is the closing prospectus for that offering, not a new offering.",
+    "accession": "0001193125-26-470750",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526470750/0001193125-26-470750-index.htm",
+    "grade": "A"
+   },
+   {
     "date": "2026-11-20",
     "form": "FWP",
     "title": "Pricing term sheet, C$6,000M senior notes in four series",

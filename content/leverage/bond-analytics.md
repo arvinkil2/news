@@ -1,6 +1,6 @@
 ---
 title: "Bond Analytics"
-date: "2026-11-22"
+date: "2026-11-23"
 lede: "Bond prices, trends, curves and holders by issuer, from the FINRA tape and SEC fund filings."
 data_as_of: "2026-11-21"
 ---
