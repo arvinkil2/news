@@ -2,12 +2,12 @@
 title: "Hong Kong"
 date: "2026-11-23"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed every 15 minutes."
-data_as_of: "Nov 23, 1:23 AM ET"
+data_as_of: "Nov 23, 1:39 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 1:23 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 1:39 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Hang Seng (index)</td><td class="num">22,408 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.01%</span></td><td class="num"><span class="down">-5.67%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,19.1 4.6,17.9 9.1,19.6 13.7,19.1 18.3,20.5 22.9,17.1 27.4,16.1 32.0,14.8 36.6,10.8 41.1,2.0 45.7,5.2 50.3,5.5 54.9,4.4 59.4,6.8 64.0,9.9 68.6,13.6 73.1,12.5 77.7,14.9 82.3,17.1 86.9,21.6 91.4,26.0 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Hang Seng (index)</td><td class="num">22,375 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.16%</span></td><td class="num"><span class="down">-5.80%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.9 4.6,17.7 9.1,19.4 13.7,18.9 18.3,20.2 22.9,16.9 27.4,15.9 32.0,14.6 36.6,10.7 41.1,2.0 45.7,5.1 50.3,5.4 54.9,4.4 59.4,6.8 64.0,9.8 68.6,13.5 73.1,12.3 77.7,14.8 82.3,16.9 86.9,21.4 91.4,25.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$22.0200 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-2.00%</span></td><td class="num"><span class="down">-4.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.0 4.4,25.1 8.7,26.0 13.1,22.9 17.5,20.4 21.8,24.6 26.2,21.9 30.5,14.7 34.9,14.3 39.3,15.9 43.6,2.0 48.0,4.9 52.4,3.3 56.7,2.4 61.1,4.0 65.5,7.0 69.8,5.4 74.2,7.0 78.5,8.9 82.9,10.7 87.3,12.4 91.6,15.4 96.0,21.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/HKD</td><td class="num">7.8386 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="up">+0.05%</span></td><td class="num"><span class="up">+0.08%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.6,11.3 9.1,4.9 13.7,6.5 18.3,5.6 22.9,3.4 27.4,7.7 32.0,2.0 36.6,2.2 41.1,5.8 45.7,20.1 50.3,18.6 54.9,10.8 59.4,5.6 64.0,6.5 68.6,6.8 73.1,4.6 77.7,2.0 82.3,2.5 86.9,4.9 91.4,10.8 96.0,20.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>

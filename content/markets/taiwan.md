@@ -2,10 +2,10 @@
 title: "Taiwan"
 date: "2026-11-23"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 23, 1:23 AM ET"
+data_as_of: "Nov 23, 1:39 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 1:23 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 1:39 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">36,812 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="up">+2.16%</span></td><td class="num"><span class="down">-10.30%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 5.1,2.0 10.1,3.5 15.2,6.0 20.2,6.6 25.3,10.1 30.3,10.9 35.4,13.9 40.4,18.0 45.5,13.7 50.5,11.4 55.6,8.1 60.6,10.6 65.7,9.3 70.7,15.1 75.8,17.1 80.8,16.9 85.9,20.8 90.9,26.0 96.0,24.3" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$74.77 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-10.95%</span></td><td class="num"><span class="down">-23.22%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,5.5 8.7,4.9 13.1,4.4 17.5,3.2 21.8,2.0 26.2,4.1 30.5,7.5 34.9,7.8 39.3,9.5 43.6,10.4 48.0,18.2 52.4,15.9 56.7,11.4 61.1,12.0 65.5,8.2 69.8,10.2 74.2,10.1 78.5,14.8 82.9,16.2 87.3,16.2 91.6,19.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
