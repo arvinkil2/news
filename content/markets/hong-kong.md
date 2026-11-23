@@ -2,10 +2,10 @@
 title: "Hong Kong"
 date: "2026-11-23"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed every 15 minutes."
-data_as_of: "Nov 23, 6:52 AM ET"
+data_as_of: "Nov 23, 7:17 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 7:17 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Hang Seng (index)</td><td class="num">22,384 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.12%</span></td><td class="num"><span class="down">-5.77%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,18.9 4.6,17.8 9.1,19.5 13.7,18.9 18.3,20.3 22.9,16.9 27.4,16.0 32.0,14.6 36.6,10.7 41.1,2.0 45.7,5.1 50.3,5.5 54.9,4.4 59.4,6.8 64.0,9.8 68.6,13.5 73.1,12.4 77.7,14.8 82.3,16.9 86.9,21.4 91.4,25.7 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$22.0200 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-2.00%</span></td><td class="num"><span class="down">-4.51%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.0 4.4,25.1 8.7,26.0 13.1,22.9 17.5,20.4 21.8,24.6 26.2,21.9 30.5,14.7 34.9,14.3 39.3,15.9 43.6,2.0 48.0,4.9 52.4,3.3 56.7,2.4 61.1,4.0 65.5,7.0 69.8,5.4 74.2,7.0 78.5,8.9 82.9,10.7 87.3,12.4 91.6,15.4 96.0,21.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -17,12 +17,12 @@ data_as_of: "Nov 23, 6:52 AM ET"
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-politics-also-notable/">Also notable: Hong Kong results, Jeffries stock pledge, Ghana platform</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-hong-kong-sfc-offshore-renminbi-bond-etf-pricing/">Hong Kong pitches offshore renminbi bond pricing role</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-hong-kong-election-committee-record-turnout/">Hong Kong Election Committee vote draws record 98.79 percent turnout</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-hkex-offshore-yuan-bond-index/">Hong Kong exchange launches first offshore yuan bond index</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-hong-kong-police-facial-recognition-smartview/">Hong Kong police switch on facial recognition across camera network</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-hong-kong-raises-2026-growth-forecast-4-8-percent/">Hong Kong raises 2026 growth forecast to 4.8 percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-uk-eases-bno-visa-barriers-hong-kong/">UK eases BN(O) visa barriers for Hong Kong protesters</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-alphabet-hong-kong-singapore-bond-sale-3-billion/">Alphabet sets price guidance for first Hong Kong and Singapore dollar bond sales</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-china-dollar-sovereign-bonds-hong-kong-2-billion/">China plans $2 billion dollar sovereign sale in Hong Kong</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-hong-kong-northern-link-rail-agreement-86-billion/">Hong Kong signs full Northern Link rail project agreement</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

@@ -2,14 +2,14 @@
 title: "Spain"
 date: "2026-11-23"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Spain, refreshed every 15 minutes."
-data_as_of: "Nov 23, 6:52 AM ET"
+data_as_of: "Nov 23, 7:17 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 7:17 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>IBEX 35 (index)</td><td class="num">19,006 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="up">+0.70%</span></td><td class="num"><span class="down">-4.72%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.1 4.6,19.4 9.1,17.1 13.7,22.0 18.3,22.4 22.9,26.0 27.4,20.7 32.0,23.3 36.6,13.5 41.1,11.5 45.7,13.5 50.3,7.0 54.9,3.6 59.4,2.0 64.0,3.1 68.6,2.1 73.1,3.4 77.7,9.0 82.3,13.4 86.9,16.7 91.4,22.2 96.0,19.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>IBEX 35 (index)</td><td class="num">19,004 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="up">+0.69%</span></td><td class="num"><span class="down">-4.73%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,20.1 4.6,19.4 9.1,17.1 13.7,22.0 18.3,22.4 22.9,26.0 27.4,20.7 32.0,23.3 36.6,13.5 41.1,11.5 45.7,13.5 50.3,7.0 54.9,3.6 59.4,2.0 64.0,3.1 68.6,2.1 73.1,3.4 77.7,9.0 82.3,13.4 86.9,16.7 91.4,22.2 96.0,19.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Spain (EWP)</td><td class="num">$55.41 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-1.77%</span></td><td class="num"><span class="down">-7.36%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,11.4 4.4,15.8 8.7,15.9 13.1,17.1 17.5,14.8 21.8,19.2 26.2,18.0 30.5,21.5 34.9,17.6 39.3,18.7 43.6,8.2 48.0,10.5 52.4,14.0 56.7,2.6 61.1,2.0 65.5,4.0 69.8,5.4 74.2,4.5 78.5,7.7 82.9,11.2 87.3,15.7 91.6,21.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.0963 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.07%</span></td><td class="num"><span class="down">-0.57%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.2 4.6,3.5 9.1,7.4 13.7,11.3 18.3,9.0 22.9,6.6 27.4,8.9 32.0,5.8 36.6,4.5 41.1,2.0 45.7,2.6 50.3,9.8 54.9,3.1 59.4,7.8 64.0,14.4 68.6,18.3 73.1,20.5 77.7,22.9 82.3,23.4 86.9,25.2 91.4,25.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.0965 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.04%</span></td><td class="num"><span class="down">-0.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.2 4.6,3.5 9.1,7.4 13.7,11.3 18.3,9.0 22.9,6.6 27.4,8.9 32.0,5.8 36.6,4.5 41.1,2.0 45.7,2.6 50.3,9.8 54.9,3.2 59.4,7.9 64.0,14.4 68.6,18.4 73.1,20.7 77.7,23.1 82.3,23.5 86.9,25.4 91.4,25.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -18,6 +18,7 @@ data_as_of: "Nov 23, 6:52 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-19 (Banco de España), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-spain-hotel-prices-rise-7-4-percent-october/">Spain hotel prices rise 7.4 percent as stays grow slowly</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-spain-snap-election-november-29-polls-right-ahead/">Spain votes November 29 with right bloc ahead in polls</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-rates-also-notable/">Rates also notable: buyback result, Spain, Swiss prices</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-spain-general-strike-housing-crisis-begins/">Spain&#x27;s first general strike in 14 years begins over housing</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 23, 6:52 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-rates-also-notable/">Rates also notable: Spain tourism, credit unions, Ghana inflation</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-03</span> <a href="/stories/2026-11-03-spain-transport-minister-puente-resigns/">Spain transport minister Óscar Puente resigns after train crash</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-31</span> <a href="/stories/2026-10-31-spain-gdp-grows-0-6-percent-third-quarter/">Spain GDP grows 0.6 percent in third quarter</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-30</span> <a href="/stories/2026-10-30-spain-inflation-holds-4-9-october/">Spain inflation holds at 4.9 percent in October flash</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
