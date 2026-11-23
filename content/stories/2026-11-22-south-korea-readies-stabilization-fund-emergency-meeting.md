@@ -1,12 +1,12 @@
 ---
 title: "South Korea readies stabilization fund after emergency Sunday meeting"
 date: 2026-11-22T05:21:27-05:00
-last_updated: 2026-11-22T20:05:46-05:00
+last_updated: 2026-11-22T23:03:24-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "The Kospi fell as much as 3.2 percent in early trading on Monday, extending the AI-led selloff a day after South Korea’s finance chiefs agreed at an emergency Sunday meeting to prepare the securities market stabilization fund for immediate activation if conditions warrant."
+lede: "The Kospi plunged 5 percent on Monday to a 10-month low of 4,632.34, extending the AI-led selloff a day after South Korea’s finance chiefs agreed at an emergency Sunday meeting to prepare the securities market stabilization fund for immediate activation if conditions warrant."
 why_it_matters: "Seoul is moving before the Monday open, after the Kospi fell 7.95 percent last week in the global AI selloff, and the package follows Taiwan’s short-sale curbs and stabilization fund authorization on November 6 as Asian officials shift from watching the rout to intervening against it."
 featured: false
 evidence_grade: "B"
@@ -27,10 +27,16 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
     published: "2026-11-23"
+  - title: "Asia stocks slide as AI rout deepens despite rebound in U.S. futures"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
+    published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 (Toronto) with Al Jazeera reporting of November 23, 2026 (Seoul) on the Monday open, read in full via the estate browser after the direct fetch was blocked; Yonhap’s early-session item on individual chip stocks could not be read and its figures are not used. Original sourcing: Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly. No fund activation had been reported as of this update. Developing item."
+data_as_of: "Updated November 22, 2026 (Toronto) with Investing.com reporting of November 22, 2026 on the Monday session, read in full via the estate browser after the direct fetch was blocked, and with Al Jazeera reporting of November 23, 2026 (Seoul) on the Monday open, read in full via the estate browser after the direct fetch was blocked; Yonhap’s early-session item on individual chip stocks could not be read and its figures are not used. Original sourcing: Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly. No fund activation had been reported as of this update. Developing item."
 ---
+
+**Latest, November 23 (Seoul).** The Kospi plunged 5 percent on Monday to a 10-month low of 4,632.34, Investing.com reported, as the AI-led selloff deepened across the region: Samsung Electronics fell 4.48 percent, SK Hynix 3.7 percent and LG Innotek 4.5 percent, while Hong Kong's Hang Seng fell 1.5 percent and China's CSI 300 lost 1.1 percent; Taiwan's index rose 0.5 percent and Japanese markets were closed for a holiday. United States futures rebounded in Asian trade, with Nasdaq 100 futures up 2.5 percent. No activation of the stabilization fund had been reported.
 
 **Update, November 23 (Seoul).** The Kospi fell as much as 3.2 percent in early trading on Monday, Al Jazeera reported, as the AI-led selloff that prompted Sunday’s emergency meeting extended into the week’s first session. The fall came ahead of the Monday openings in Taiwan, China and Hong Kong; Japanese markets were closed for the Labour Thanksgiving Day holiday. No activation of the stabilization fund had been reported.
 
