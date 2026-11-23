@@ -1,11 +1,11 @@
 ---
 title: "Nvidia board reinstates Jensen Huang as chief executive"
 date: 2026-11-23T09:23:45-05:00
-last_updated: 2026-11-23T09:23:45-05:00
+last_updated: 2026-11-23T10:18:34-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia's board reinstated Jen-Hsun Huang as president, chief executive officer and a member of the board on November 22, effective immediately, according to an 8-K filed on Monday, reversing his resignation earlier this month."
+lede: "Nvidia's board reinstated Jen-Hsun Huang as president, chief executive officer and a member of the board on November 22, effective immediately, according to an 8-K filed on Monday, and the shares opened about 33 percent higher as the Nasdaq Composite opened up 7.30 percent."
 why_it_matters: "The founder returns days after the board said it did not intend to reinstate him and after President Trump publicly asked Nvidia to give him a second chance, while congressional and regulatory scrutiny of the company continues."
 featured: true
 evidence_grade: "A"
@@ -22,10 +22,16 @@ sources:
     publisher: "Agence France-Presse, via Clarín"
     url: "https://www.clarin.com/estados-unidos/trump-pide-a-nvidia-una-segunda-oportunidad-para-jensen-huang_0_J7cc9DNCNP.html"
     published: "2026-11-20"
+  - title: "Nasdaq opens up more than 7 percent on Jensen Huang's return; Nvidia up 33 percent"
+    publisher: "Yonhap News Agency, in Korean"
+    url: "https://www.yna.co.kr/view/AKR20261123176100072"
+    published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage."
+data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026."
 ---
+
+**Latest:** Nvidia shares opened about 33 percent higher at $167.08 on Monday and the Nasdaq Composite opened up 7.30 percent at 24,269.75, Yonhap reported from New York, as markets reacted to the news of Huang's return after a sharp fall in AI-related stocks last week.
 
 Nvidia's board of directors reinstated Jen-Hsun Huang as the company's president, chief executive officer and a member of the board on November 22, effective immediately, the company disclosed in a Form 8-K filed with the US Securities and Exchange Commission on Monday. The filing states that, following the reinstatement, Colette M. Kress will continue to serve as executive vice president and chief financial officer. Kress signed the filing in that capacity on November 23. A press release dated November 23 announcing the reinstatement is attached to the filing as Exhibit 99.1.
 
