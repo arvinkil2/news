@@ -1,7 +1,7 @@
 ---
 title: "South Korea readies stabilization fund after emergency Sunday meeting"
 date: 2026-11-22T05:21:27-05:00
-last_updated: 2026-11-22T23:03:24-05:00
+last_updated: 2026-11-23T00:07:13-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -27,6 +27,10 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
     published: "2026-11-23"
+  - title: "Korea stocks face policy test as stabilization fund readied"
+    publisher: "Seoul Economic Daily"
+    url: "https://en.sedaily.com/market/2026/11/23/korea-stocks-face-policy-test-as-stabilization-fund-readied"
+    published: "2026-11-23"
   - title: "Asia stocks slide as AI rout deepens despite rebound in U.S. futures"
     publisher: "Investing.com"
     url: "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
@@ -40,6 +44,6 @@ data_as_of: "Updated November 22, 2026 (Toronto) with Investing.com reporting of
 
 **Update, November 23 (Seoul).** The Kospi fell as much as 3.2 percent in early trading on Monday, Al Jazeera reported, as the AI-led selloff that prompted Sunday’s emergency meeting extended into the week’s first session. The fall came ahead of the Monday openings in Taiwan, China and Hong Kong; Japanese markets were closed for the Labour Thanksgiving Day holiday. No activation of the stabilization fund had been reported.
 
-South Korea’s top economic and financial officials agreed at an emergency meeting on Sunday to begin preparations so the securities market stabilization fund can be activated immediately if market conditions warrant. Deputy Prime Minister and Finance Minister Lee Hyung-il chaired the meeting in Seoul with Bank of Korea Governor Shin Hyun-song, Financial Services Commission Chairman Lee Eok-won and Financial Supervisory Service Governor Lee Chan-jin, and the group said volatility had expanded sharply on uncertainty over AI industry profitability and financing, United States data centre regulation and tighter semiconductor export controls.
+South Korea’s top economic and financial officials agreed at an emergency meeting on Sunday to begin preparations so the securities market stabilization fund can be activated immediately if market conditions warrant. Seoul Economic Daily put the fund being readied at 10.76 trillion won, about $6.8 billion, which would be its first actual deployment since the 2008 global financial crisis, and Finance Minister Lee Hyoung-il told reporters on Monday that the government had made clear its commitment to stabilizing the market and expected the measures to help improve investor sentiment. Deputy Prime Minister and Finance Minister Lee Hyung-il chaired the meeting in Seoul with Bank of Korea Governor Shin Hyun-song, Financial Services Commission Chairman Lee Eok-won and Financial Supervisory Service Governor Lee Chan-jin, and the group said volatility had expanded sharply on uncertainty over AI industry profitability and financing, United States data centre regulation and tighter semiconductor export controls.
 
 From November 24, the daily limit on listed companies’ treasury-share purchase orders will be relaxed for three months, and the supervisory service and the Korea Exchange will run a three-month period of special intensive monitoring of illegal short selling, with strict action where violations are found. Officials also said they would monitor margin lending and forced liquidations closely to stop selling pressure from cascading. The meeting followed the Kospi’s close at 4,869.96 on Friday, down 7.95 percent on the week, after United States indexes fell sharply on Friday, and it was held amid concern in Seoul about a further fall when markets reopen on Monday.
