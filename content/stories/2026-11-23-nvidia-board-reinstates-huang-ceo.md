@@ -1,7 +1,7 @@
 ---
 title: "Nvidia board reinstates Jensen Huang as chief executive"
 date: 2026-11-23T09:23:45-05:00
-last_updated: 2026-11-23T10:18:34-05:00
+last_updated: 2026-11-23T11:12:30-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
@@ -26,10 +26,16 @@ sources:
     publisher: "Yonhap News Agency, in Korean"
     url: "https://www.yna.co.kr/view/AKR20261123176100072"
     published: "2026-11-23"
+  - title: "Trump celebra el regreso de Jensen Huang a Nvidia: 'No representa riesgo alguno a la seguridad nacional'"
+    publisher: "El País, in Spanish"
+    url: "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html"
+    published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026."
+data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day."
 ---
+
+**Latest:** President Donald Trump welcomed the reinstatement on Monday, writing on Truth Social that the board had taken the correct and appropriate decision and that the United States government has no reason to believe Huang's return represents a national security risk, El País reported. Trump said Attorney General Todd Blanche had confirmed the government has no evidence Huang engaged in any illegal conduct, called Huang a great patriot and a national treasure, and said Nvidia must continue its internal investigation into compliance with United States export controls. El País also reported that Nvidia's own announcement said the board decided unanimously to allow Huang's return after a process that included consultations with the Trump government, and that the board is confident the reinstatement poses no national security risk.
 
 **Latest:** Nvidia shares opened about 33 percent higher at $167.08 on Monday and the Nasdaq Composite opened up 7.30 percent at 24,269.75, Yonhap reported from New York, as markets reacted to the news of Huang's return after a sharp fall in AI-related stocks last week.
 
