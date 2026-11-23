@@ -1,7 +1,7 @@
 ---
 title: "South Korea readies stabilization fund after emergency Sunday meeting"
 date: 2026-11-22T05:21:27-05:00
-last_updated: 2026-11-23T00:07:13-05:00
+last_updated: 2026-11-23T02:05:38-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -11,6 +11,10 @@ why_it_matters: "Seoul is moving before the Monday open, after the Kospi fell 7.
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Press release on the easing of the daily buying order limit on treasury stock buybacks"
+    publisher: "Financial Services Commission (South Korea)"
+    url: "https://www.fsc.go.kr/eng/pr010101/88191"
+    published: "2026-11-23"
   - title: "F4: begin preparations so the securities market stabilization fund can be activated immediately depending on market conditions (comprehensive)"
     publisher: "Yonhap Infomax"
     url: "https://news.einfomax.co.kr/news/articleView.html?idxno=4445903"
@@ -37,8 +41,10 @@ sources:
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Updated November 22, 2026 (Toronto) with Investing.com reporting of November 22, 2026 on the Monday session, read in full via the estate browser after the direct fetch was blocked, and with Al Jazeera reporting of November 23, 2026 (Seoul) on the Monday open, read in full via the estate browser after the direct fetch was blocked; Yonhap’s early-session item on individual chip stocks could not be read and its figures are not used. Original sourcing: Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly. No fund activation had been reported as of this update. Developing item."
+data_as_of: "Updated November 23, 2026 (Toronto) with the Financial Services Commission press release of November 23, 2026, read in full on the commission site, recording its 20th regular meeting decision. Earlier update November 22, 2026 (Toronto) with Investing.com reporting of November 22, 2026 on the Monday session, read in full via the estate browser after the direct fetch was blocked, and with Al Jazeera reporting of November 23, 2026 (Seoul) on the Monday open, read in full via the estate browser after the direct fetch was blocked; Yonhap’s early-session item on individual chip stocks could not be read and its figures are not used. Original sourcing: Yonhap and Yonhap Infomax reporting, in Korean, of the finance ministry’s emergency market situation meeting readout on Sunday, November 22, 2026, corroborated by Money Today, Munhwa Ilbo and Seoul Economic Daily; the ministry’s own release was not read directly. No fund activation had been reported as of this update. Developing item."
 ---
+
+**Latest, November 23.** The Financial Services Commission said it decided at its 20th regular meeting on November 23 to ease the daily buying order limit on treasury stock buybacks by listed companies for three months, effective from November 24, 2026 until February 23, 2027, as part of the market stabilization measures agreed at the government's emergency meeting on November 22.
 
 **Latest, November 23 (Seoul).** The Kospi plunged 5 percent on Monday to a 10-month low of 4,632.34, Investing.com reported, as the AI-led selloff deepened across the region: Samsung Electronics fell 4.48 percent, SK Hynix 3.7 percent and LG Innotek 4.5 percent, while Hong Kong's Hang Seng fell 1.5 percent and China's CSI 300 lost 1.1 percent; Taiwan's index rose 0.5 percent and Japanese markets were closed for a holiday. United States futures rebounded in Asian trade, with Nasdaq 100 futures up 2.5 percent. No activation of the stabilization fund had been reported.
 
