@@ -1,12 +1,12 @@
 ---
 title: "Nvidia board reinstates Jensen Huang as chief executive"
 date: 2026-11-23T09:23:45-05:00
-last_updated: 2026-11-23T13:43:00-05:00
+last_updated: 2026-11-23T15:05:59-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "Nvidia's board reinstated Jen-Hsun Huang as president, chief executive officer and a member of the board on November 22, effective immediately, according to an 8-K filed on Monday, and President Trump said on Monday that he had spoken to the board directly and indirectly and convinced them to do it. Senate Minority Leader Chuck Schumer said on Monday that Democrats will use their full power to investigate Huang, other Nvidia executives and the Trump administration over the reinstatement."
-why_it_matters: "The president now claims a direct hand in reversing a board decision at the largest US chipmaker, days after that board said it did not intend to reinstate its founder, and the Senate's Democratic leader has pledged a full investigation, keeping congressional and regulatory scrutiny of the company at the centre of the story."
+lede: "Jensen Huang is scheduled to testify publicly before the Senate Banking Committee on December 3, according to a notice on the committee website, hours after Nvidia's board reinstated him as chief executive, and Senate Minority Leader Chuck Schumer said Democrats will use their full power to investigate the reinstatement."
+why_it_matters: "The reinstatement now faces a dated public test: Huang answers senators on December 3 in a hearing on oversight of US export controls, after a closed interview with three House committees on December 1, while the president claims a direct hand in reversing the board decision that removed him."
 featured: true
 evidence_grade: "A"
 sources:
@@ -38,10 +38,16 @@ sources:
     publisher: "The Hill"
     url: "https://thehill.com/homenews/senate/6237752-schumer-democrats-nvidia-ceo-huang-probe/"
     published: "2026-11-23"
+  - title: "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+    publisher: "TechCrunch"
+    url: "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    published: "2026-11-23"
 tags: []
 update_bump: true
-data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day. Updated again November 23, 2026 with the president's account of his own intervention, from the opening of The Guardian's report of November 23, 2026, which quotes his remarks to CNBC; the rest of that article sits behind a registration wall and was not read, and no fact in this update rests on it. Updated again November 23, 2026 with Senate Minority Leader Chuck Schumer's pledge of a Democratic investigation, from The Hill's report of November 23, 2026, read in full via the estate browser."
+data_as_of: "NVIDIA Corporation Form 8-K filed November 23, 2026 (accession 0001045810-26-000090), read in full from the locally cached filing text; the board action is dated November 22, 2026. Context on the interim period and the board's earlier position is from CNBC reporting of November 18, 2026, and on the president's remarks from Agence France-Presse reporting of November 20, 2026, both as previously read in full for this site's coverage. Opening market figures are from Yonhap News Agency, in Korean, read in full on November 23, 2026. Updated November 23, 2026 with President Trump's reaction and the board's unanimity and government consultations, from El País, in Spanish, read in full the same day. Updated again November 23, 2026 with the president's account of his own intervention, from the opening of The Guardian's report of November 23, 2026, which quotes his remarks to CNBC; the rest of that article sits behind a registration wall and was not read, and no fact in this update rests on it. Updated again November 23, 2026 with Senate Minority Leader Chuck Schumer's pledge of a Democratic investigation, from The Hill's report of November 23, 2026, read in full via the estate browser. Updated again November 23, 2026 with the Senate Banking Committee public hearing scheduled for December 3, 2026 and the earlier agreed December 1, 2026 closed House interview, from TechCrunch reporting of November 23, 2026, read in full, which cites the committee website notice; the Bloomberg report of the same scheduling could not be opened (bloomberg.com blocked to this reader) and nothing in this update rests on it."
 ---
+
+**Latest:** Jensen Huang is scheduled to testify publicly before the Senate Banking Committee on December 3, according to a notice on the committee's website cited by TechCrunch, hours after the board reinstated him as chief executive. The committee oversees export control policy, and the public hearing follows bipartisan calls for Huang to testify about his relationship with a woman suspected by the US government of working as a Chinese spy and about possible involvement in chip-smuggling operations. Before his reinstatement, Huang had already agreed to appear on December 1 before the House Foreign Affairs Committee, the Select Committee on the Chinese Communist Party and the House Intelligence Committee, TechCrunch reported.
 
 **Latest:** Senate Minority Leader Chuck Schumer said on Monday that Democrats will wield their full power to investigate any wrongdoing by the Trump administration, Jensen Huang, other Nvidia executives and anyone, in his words, selling out US national security for financial gain, The Hill reported. In a post on X on Monday morning, Schumer said the administration's rush to reinstate Huang underscores the need for Congress to act, and accused President Trump of putting his own financial interests and those of his billionaire allies before national security. The Hill named no committee, subpoena or hearing in connection with the pledge, and said it had sought comment from the White House and Nvidia.
 
