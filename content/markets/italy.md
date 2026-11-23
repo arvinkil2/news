@@ -2,14 +2,14 @@
 title: "Italy"
 date: "2026-11-23"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Italy, refreshed every 15 minutes."
-data_as_of: "Nov 23, 8:10 AM ET"
+data_as_of: "Nov 23, 9:07 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 8:10 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 9:07 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>FTSE MIB (index)</td><td class="num">48,300 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.83%</span></td><td class="num"><span class="down">-6.25%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.3 4.6,20.2 9.1,17.3 13.7,16.0 18.3,14.8 22.9,18.1 27.4,15.2 32.0,15.2 36.6,8.0 41.1,11.5 45.7,14.5 50.3,5.6 54.9,3.3 59.4,2.0 64.0,2.9 68.6,2.6 73.1,4.8 77.7,9.2 82.3,13.7 86.9,15.2 91.4,23.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>FTSE MIB (index)</td><td class="num">48,211 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-1.01%</span></td><td class="num"><span class="down">-6.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.8 4.6,19.7 9.1,16.9 13.7,15.6 18.3,14.5 22.9,17.7 27.4,14.8 32.0,14.9 36.6,7.9 41.1,11.3 45.7,14.2 50.3,5.5 54.9,3.2 59.4,2.0 64.0,2.9 68.6,2.6 73.1,4.7 77.7,9.1 82.3,13.4 86.9,14.9 91.4,22.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Italy (EWI)</td><td class="num">$53.90 <span class="gm-sub-inline">as of 2026-11-20</span></td><td class="num"><span class="down">-2.69%</span></td><td class="num"><span class="down">-7.56%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,15.2 4.4,21.0 8.7,21.2 13.1,19.3 17.5,17.3 21.8,16.0 26.2,14.9 30.5,17.2 34.9,14.9 39.3,15.0 43.6,4.5 48.0,10.9 52.4,14.3 56.7,2.1 61.1,2.0 65.5,5.0 69.8,6.5 74.2,6.3 78.5,10.0 82.9,12.2 87.3,16.9 91.6,19.4 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>EUR/USD</td><td class="num">1.0943 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.24%</span></td><td class="num"><span class="down">-0.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.2 4.6,3.4 9.1,7.0 13.7,10.6 18.3,8.5 22.9,6.3 27.4,8.4 32.0,5.5 36.6,4.3 41.1,2.0 45.7,2.6 50.3,9.2 54.9,3.1 59.4,7.4 64.0,13.5 68.6,17.2 73.1,19.3 77.7,21.5 82.3,21.9 86.9,23.6 91.4,23.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>EUR/USD</td><td class="num">1.0934 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="down">-0.33%</span></td><td class="num"><span class="down">-0.83%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.1 4.6,3.4 9.1,6.9 13.7,10.4 18.3,8.3 22.9,6.1 27.4,8.2 32.0,5.4 36.6,4.2 41.1,2.0 45.7,2.6 50.3,9.0 54.9,3.0 59.4,7.3 64.0,13.2 68.6,16.8 73.1,18.7 77.7,20.9 82.3,21.3 86.9,23.0 91.4,23.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
