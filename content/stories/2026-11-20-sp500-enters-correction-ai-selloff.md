@@ -1,11 +1,11 @@
 ---
 title: "AI selloff pushes S&P 500 into correction"
 date: 2026-11-20T17:21:06-05:00
-last_updated: 2026-11-20T17:21:06-05:00
+last_updated: 2026-11-22T21:51:33-05:00
 beats: ["technology"]
 regions: ["north-america"]
 status: "story"
-lede: "The S&P 500 fell 3.7 percent on Friday to close in correction territory, more than 10 percent below its October 6 record, as an AI-led selloff capped the worst week for US stocks since April 2025."
+lede: "US stock futures jumped on Sunday evening, with S&P 500 futures up 2.2 percent to 7,090.0 points at 20:10 ET, after Friday’s selloff pushed all three major indexes into correction territory."
 why_it_matters: "Six weeks after record highs, the benchmark has lost a tenth of its value in seven straight falling sessions, the Nasdaq is negative for the year, and the AI trade that carried the market is now the source of its losses."
 featured: true
 evidence_grade: "B"
@@ -22,10 +22,16 @@ sources:
     publisher: "TradingView News, from Seeking Alpha"
     url: "https://www.tradingview.com/news/seekingalpha:be02cc3ec094b:0-nasdaq-plunges-10-for-the-week-after-friday-s-bloodbath/"
     published: "2026-11-20"
+  - title: "Wall Street futures jump after major indexes enter correction territory"
+    publisher: "Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+    published: "2026-11-22"
 tags: []
-data_as_of: "US closing prices for Friday, November 20, 2026, as reported by the Associated Press and by Reuters closing data carried in the T. Rowe Price weekly update. The Financial Times headline that first flagged the move in this run's queue could not be read directly; every figure here was verified against the AP and Reuters closing reports instead."
+data_as_of: "Updated November 22, 2026 with Investing.com reporting of November 22, 2026 on Sunday evening futures at 20:10 ET, read in full via the estate browser. Closing prices: US closing prices for Friday, November 20, 2026, as reported by the Associated Press and by Reuters closing data carried in the T. Rowe Price weekly update. The Financial Times headline that first flagged the move in this run's queue could not be read directly; every figure here was verified against the AP and Reuters closing reports instead."
 update_bump: true
 ---
+
+**Latest, Sunday evening.** US stock futures jumped on Sunday evening after the bruising week that pushed all three major indexes into correction territory. At 20:10 ET, S&P 500 futures were up 2.2 percent to 7,090.0 points, Nasdaq 100 futures were up 2.9 percent to 25,845.75 points and Dow Jones futures were up 1.6 percent to 48,964.0 points, Investing.com reported. The Cboe Volatility Index had closed on Friday at 35.89, its highest level since the tariff turmoil of April 2025, and investors now look to Wednesday’s October PCE price index, the Federal Reserve’s preferred inflation measure, in a holiday-shortened week with US markets closed on Thursday for Thanksgiving.
 
 US stocks closed sharply lower on Friday, with the S&P 500 falling 3.7 percent to 6,910.39 and entering a correction, defined as a fall of more than 10 percent from a recent record. The benchmark has now fallen for seven consecutive sessions, its longest losing streak since February 2020, and sits more than 10 percent below the all-time high it set on October 6.
 

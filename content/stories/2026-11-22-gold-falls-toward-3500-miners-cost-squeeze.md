@@ -1,11 +1,11 @@
 ---
 title: "Gold falls toward 3,500 dollars as miners face record costs"
 date: 2026-11-22T07:09:09-05:00
-last_updated: 2026-11-22T07:09:09-05:00
+last_updated: 2026-11-22T21:51:33-05:00
 beats: ["commodities"]
 regions: ["global"]
 status: "story"
-lede: "Gold futures closed Friday at 3,515.40 dollars an ounce, down 4.62 percent on the day and 9.54 percent on the week, while the industry all-in sustaining cost hit a record 1,930 dollars an ounce in the second quarter."
+lede: "Gold rebounded as much as 2.6 percent to around 3,630 dollars an ounce in early Monday trading in Asia, after futures closed Friday at 3,515.40 dollars, down 9.54 percent on the week."
 why_it_matters: "The rout tests the safe haven story at the moment miners' costs are rising fastest since 2013, squeezing the margin that funded a record year of project spending."
 featured: true
 evidence_grade: "B"
@@ -22,9 +22,16 @@ sources:
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-11-20"
+  - title: "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally"
+    publisher: "Bloomberg"
+    url: "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes"
+    published: "2026-11-22"
 tags: []
-data_as_of: "Friday close, November 20, 2026, from the estate market tables; cost figures are World Gold Council second quarter 2026 data as reported November 20."
+update_bump: true
+data_as_of: "Updated November 22, 2026 with Bloomberg reporting of November 22, 2026, of which the opening reporting was read and the remainder was paywalled; only figures in the read portion are used. Friday close, November 20, 2026, from the estate market tables; cost figures are World Gold Council second quarter 2026 data as reported November 20."
 ---
+
+**Update, Monday in Asia.** Gold rebounded from its biggest weekly decline in eight months as the technology stock rout pushed traders toward haven assets, driving down US Treasury yields and the dollar, Bloomberg reported. Bullion rose as much as 2.6 percent to around 3,630 dollars an ounce, after falling about 9 percent last week to a 14-month low.
 
 Gold completed its worst week in months on Friday. Futures settled at 3,515.40 dollars an ounce in the estate market tables, down 4.62 percent on the day and 9.54 percent on the week. Spot gold touched 3,513.54 dollars intraday, its lowest level since September 2025, and silver fell harder, down 7.33 percent on the day to 41.07 dollars and 16.24 percent on the week.
 
