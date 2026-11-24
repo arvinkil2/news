@@ -19,12 +19,12 @@ data_as_of: "Nov 24, 6:42 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-04 (Reserve Bank of Australia), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-australiansuper-backs-brookfield-reliance-worldwide/">AustralianSuper backs Brookfield&#x27;s $2.53 billion Reliance Worldwide takeover</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-solomon-islands-ends-china-security-pact-australia/">Solomon Islands to end China security pact, sign Australia treaty</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-bhp-south-australia-copper-expansion-2040/">BHP plans $18 billion South Australia copper expansion to 2040</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-singapore-australia-essential-supplies-carbon-storage/">Singapore and Australia widen essential supplies pact, sign carbon storage deal</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-australia-tech-fines-five-percent-global-revenue/">Australia to fine tech firms up to 5 percent of global revenue</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-sixteen-countries-back-uk-australia-settlement-sanctions/">Sixteen countries back UK and Australian sanctions on settlement expansion</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-australia-defence-zones-photography-bill-seven-years/">Australia moves to jail photography of defence zones for seven years</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-australia-unemployment-rises-4-9-percent-october/">Australia unemployment rises to 4.9 percent in October</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-esso-australia-energyaustralia-six-year-gas-deal/">Esso Australia signs six-year gas supply deal with EnergyAustralia</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-17</span> <a href="/stories/2026-11-17-australia-sanctions-west-bank-settlement-builders/">Australia sanctions West Bank settlement builders and settler figures</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

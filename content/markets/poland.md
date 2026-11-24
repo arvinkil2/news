@@ -18,6 +18,7 @@ data_as_of: "Nov 24, 6:42 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-06 (Treasury BondSpot Poland), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-kansai-electric-40-percent-bc-wind-poland/">Kansai Electric takes 40 percent of Poland&#x27;s BC-Wind offshore project</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-commission-partially-greenlights-hungary-poland-recovery-payments/">Commission partially greenlights Hungary and Poland recovery payments</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-04</span> <a href="/stories/2026-11-04-poland-holds-reference-rate-at-3-75-percent/">Poland holds reference rate at 3.75 percent in November</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-02</span> <a href="/stories/2026-11-02-politics-also-notable/">Politics also notable: Poland&#x27;s court fight becomes campaign ground</a></p>
@@ -25,5 +26,4 @@ data_as_of: "Nov 24, 6:42 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-10-18</span> <a href="/stories/2026-10-18-poland-scrambles-jets-baltic-air-warnings/">Poland scrambles jets and closes two airports</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-16</span> <a href="/stories/2026-10-16-poland-sells-8-65bn-zloty-bonds/">Poland sells 8.65 billion zloty of bonds on firm demand</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-10-12</span> <a href="/stories/2026-10-12-poland-patriot-delivery-delay/">Poland&#x27;s Patriot missile deliveries face delays, general says</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-10-12</span> <a href="/stories/2026-10-12-poland-starlink-sabotage-arrests/">Poland says two held over Russia-linked Starlink station fire</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

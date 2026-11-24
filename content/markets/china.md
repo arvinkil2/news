@@ -19,11 +19,11 @@ data_as_of: "Nov 24, 6:42 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-china-extends-gallium-germanium-ban-pause/">China extends gallium and germanium ban pause to January 27</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-solomon-islands-ends-china-security-pact-australia/">Solomon Islands to end China security pact, sign Australia treaty</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-singapore-china-jcbc-29-deals/">Singapore and China conclude record 29 deals at bilateral forum</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-china-electric-trucks-lithium-demand/">China&#x27;s electric truck boom lifts demand for lithium</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-investigates-cnpc-deputy-general-manager-xie-jun/">China puts CNPC deputy general manager under graft investigation</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-origin-biotech-venture-model/">China sourced biotech startups reach exits at record speed</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-cuts-margin-deposit-ratio-80-percent/">China cuts margin deposit ratio to 80 percent to lift liquidity</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-china-lpr-held-18th-month-overnight-rate/">China holds loan prime rates for an 18th month</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-bessent-nvidia-answers-chip-sales-china/">Bessent says US still needs answers from Nvidia on China chip sales</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
