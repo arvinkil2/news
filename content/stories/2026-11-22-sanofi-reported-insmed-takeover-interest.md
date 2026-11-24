@@ -1,15 +1,23 @@
 ---
-title: "Sanofi reported to weigh Insmed takeover as Dupixent cliff nears"
+title: "Sanofi agrees $41 billion cash deal to acquire Insmed"
 date: 2026-11-22T07:05:53-05:00
-last_updated: 2026-11-23T07:11:50-05:00
+last_updated: 2026-11-24T02:27:16-05:00
 beats: ["life-sciences"]
 regions: ["europe", "north-america"]
 status: "story"
-lede: "Sanofi is reported to be evaluating an acquisition of Insmed that could be valued between $35 billion and $43 billion, and Insmed shares rose about 18 percent on the report."
-why_it_matters: "If pursued, it would be one of the largest pharma deals since Pfizer bought Seagen, and a direct purchase of growth to offset the coming Dupixent patent expiry."
-featured: false
-evidence_grade: "C"
+lede: "Sanofi has agreed to acquire Insmed for $175 per share in cash, a total equity value of about $41.0 billion, in a deal both boards have approved and that is expected to close in the first half of 2027."
+why_it_matters: "The agreed price ends five days of reported interest, gives Sanofi Brinsupri, a bronchiectasis drug with $1.09 billion of revenue in its first year, and is the French group's largest purchase of growth ahead of the Dupixent patent expiry in the early 2030s."
+featured: true
+evidence_grade: "A"
 sources:
+  - title: "Sanofi to acquire Insmed in strategic step that strengthens long-term future"
+    publisher: "Sanofi"
+    url: "https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002"
+    published: "2026-11-24"
+  - title: "Sanofi to acquire Insmed in $41 billion cash deal"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/sanofi-to-acquire-insmed-in-41-billion-cash-deal-5047167"
+    published: "2026-11-24"
   - title: "Sanofi mulls buyout of Insmed and its Brinsupri"
     publisher: "Fierce Pharma"
     url: "https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri"
@@ -23,8 +31,15 @@ sources:
     url: "https://www.pharmexec.com/view/sanofi-eyes-insmed-potential-43b-deal-dupixent-patent-clock-ticks"
     published: "2026-11-20"
 tags: []
-data_as_of: "Updated November 23, 2026: still single sourced: the underlying report is Bloomberg's of November 19, 2026, based on unnamed sources; neither company has commented and no agreement exists. Evidence grade capped at C on that basis. Share and sales figures as reported November 19 to 20, 2026."
+update_bump: true
+data_as_of: "Deal terms are from Sanofi's own press release of November 24, 2026, read in full: $175 per share in cash, total equity value about $41.0 billion (37.6 billion euros), boards of both companies approved, close expected in the first half of 2027 subject to Insmed shareholder and regulatory approvals, business EPS accretive by the end of 2028, no change to 2026 guidance. The 46 percent premium to Insmed's November 18 closing price is from Reuters reporting via Investing.com, read in full the same day; Sanofi's release does not state a premium. Brinsupri revenue of $1.09 billion through September 30, 2026 and Arikayce revenue of $433.8 million in 2025 are from Sanofi's release. Earlier sections rest on Bloomberg reporting of November 19, 2026 via Fierce Pharma, BioSpace and Pharmaceutical Executive, as previously read."
 ---
+
+**Latest:** Sanofi and Insmed announced an agreed acquisition on November 24. Sanofi will pay $175 per share in cash for all outstanding Insmed shares, a total equity value of about $41.0 billion, or 37.6 billion euros. Reuters put the price at a 46 percent premium to Insmed's closing price on November 18, the day before reports of Sanofi's interest emerged. The boards of both companies have approved the transaction. Closing is subject to approval by Insmed shareholders and to regulatory approvals in the United States and certain other markets, and is expected in the first half of 2027.
+
+The purchase gives Sanofi two commercial medicines. Brinsupri, approved in the United States, the European Union, the United Kingdom and Japan for non-cystic fibrosis bronchiectasis, is the first and only approved treatment for that condition, and it recorded $1.09 billion of revenue in the nine months to September 30, 2026 after a United States launch in August 2025. Arikayce, an inhaled treatment for refractory MAC lung disease, recorded $433.8 million of revenue in 2025. Sanofi also gains treprostinil palmitil inhalation powder, a Phase 3 inhaled therapy for pulmonary hypertension and fibrotic lung disease, and Insmed's earlier-stage programs.
+
+Sanofi said it would fund the purchase with debt and cash on hand, with committed financing in place, and that it expected the deal to add to business earnings per share by the end of 2028. It confirmed its progressive dividend policy, said it expected to keep a strong credit rating, and said the acquisition would not change its financial guidance for 2026. Chief executive Belen Garijo called the acquisition a major strategic step for the group's mid- and long-term growth. Insmed chief executive Will Lewis said the price delivered immediate, certain cash value for Insmed shareholders.
 
 Sanofi is evaluating a potential acquisition of Insmed, the United States respiratory drugmaker, according to a Bloomberg report published November 19 and cited by Fierce Pharma, BioSpace and Pharmaceutical Executive. The French company is working with advisers on a deal that could be valued between $35 billion and $43 billion. Neither company has commented, the talks are described as preliminary, and Sanofi could decide against an offer or face rival bidders.
 
