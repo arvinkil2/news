@@ -2,10 +2,10 @@
 title: "United States"
 date: "2026-11-24"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 24, 5:39 AM ET"
+data_as_of: "Nov 24, 6:04 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 24, 5:39 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 24, 6:04 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P 500 (index)</td><td class="num">7,237 <span class="gm-sub-inline">as of 2026-11-23</span></td><td class="num"><span class="up">+4.73%</span></td><td class="num"><span class="down">-2.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.9 4.8,2.6 9.6,2.0 14.4,2.7 19.2,6.7 24.0,7.8 28.8,7.0 33.6,3.6 38.4,13.2 43.2,12.6 48.0,7.6 52.8,8.4 57.6,5.6 62.4,6.4 67.2,7.2 72.0,11.4 76.8,13.6 81.6,14.1 86.4,18.4 91.2,26.0 96.0,16.6" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>Nasdaq Composite (index)</td><td class="num">24,090 <span class="gm-sub-inline">as of 2026-11-23 (Nasdaq, near-real-time)</span></td><td class="num"><span class="up">+6.51%</span></td><td class="num"><span class="down">-1.71%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.3 4.8,2.4 9.6,2.0 14.4,4.2 19.2,8.8 24.0,10.5 28.8,9.2 33.6,7.0 38.4,15.6 43.2,14.0 48.0,9.9 52.8,11.1 57.6,8.6 62.4,9.2 67.2,10.6 72.0,14.5 76.8,15.6 81.6,14.9 86.4,18.3 91.2,26.0 96.0,17.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -20,11 +20,11 @@ data_as_of: "Nov 24, 5:39 AM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-japan-pays-icc-dues-early-us-sanctions/">Japan to pay 2027 ICC dues early as US sanctions loom</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-commerzbank-weighs-us-treasury-trading-pullback/">Commerzbank weighs scaling back US Treasury trading</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-brent-falls-below-90-surplus-opec-meeting/">Brent falls below 90 dollars as surplus outweighs Hormuz risk</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-spacex-lenders-orbit-clause-gpu-deal/">SpaceX lenders sought to keep collateral GPUs on Earth</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-airbus-microsoft-office-defence-staff/">Airbus defence staff stay on Microsoft Office during migration</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-wa1-luni-niobium-strategic-project-status/">WA1 wins strategic project status for Luni niobium project</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-bls-productivity-gains-narrow-seven-industries/">US productivity gains narrow to seven of nineteen industries</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-us-long-yields-fall-friday-growth-fears/">US long yields fall sharply as growth fears drive bid</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-us-adds-megaspeed-entity-list/">US adds Megaspeed and six others to Entity List</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
