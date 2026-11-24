@@ -1,12 +1,12 @@
 ---
 title: "MSCI open to alternatives to Indonesia downgrade after Prabowo call"
 date: 2026-11-23T02:42:51-05:00
-last_updated: 2026-11-23T04:08:40-05:00
+last_updated: 2026-11-23T23:44:05-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
-lede: "Bank Indonesia said MSCI chief executive Henry Fernandez's talks with President Prabowo Subianto have boosted expectations of improvements in the stock market and supported the rupiah, after Bloomberg News reported Fernandez was open to alternatives to a two-step downgrade of Indonesia."
+lede: "MSCI said on Tuesday it has made no decision on its proposal to downgrade Indonesia's market classification and that the consultation launched on October 15 is unchanged, cooling hopes of a quick compromise after chief executive Henry Fernandez met President Prabowo Subianto."
 why_it_matters: "The rupiah hit a record low of 18,290 per dollar on Monday before recovering, a measure of how much rides on whether MSCI keeps Indonesia in its emerging market indexes or relegates it to standalone status."
 featured: false
 evidence_grade: "C"
@@ -23,12 +23,18 @@ sources:
     publisher: "Reuters, via Nestia"
     url: "https://news.nestia.com/detail_share/14233191?media_type=1"
     published: "2026-11-23"
+  - title: "MSCI says no decision made on Indonesia market downgrade proposal"
+    publisher: "Reuters, via Investing.com"
+    url: "https://www.investing.com/news/stock-market-news/msci-says-no-decision-made-on-indonesia-market-downgrade-proposal-5046965"
+    published: "2026-11-24"
 tags: []
 update_bump: true
-data_as_of: "Bloomberg News reporting of November 23, 2026, read in full via Investing.com and corroborated by the Reuters-carried version of the same report; the account rests on people familiar with the call, and MSCI, Dalio and a spokesperson for the Indonesian president had not confirmed it. MSCI's consultation timetable (feedback to April 30, final decision by end of June 2027) is as reported. Developing item. Updated November 23, 2026 with Reuters reporting, via Investing.com and read in full via the estate browser, of Bank Indonesia's statement on the talks and the rupiah's record low."
+data_as_of: "Bloomberg News reporting of November 23, 2026, read in full via Investing.com and corroborated by the Reuters-carried version of the same report; the account rests on people familiar with the call, and MSCI, Dalio and a spokesperson for the Indonesian president had not confirmed it. MSCI's consultation timetable (feedback to April 30, final decision by end of June 2027) is as reported. Developing item. Updated November 23, 2026 with Reuters reporting, via Investing.com and read in full via the estate browser, of Bank Indonesia's statement on the talks and the rupiah's record low. Updated again November 23, 2026 with MSCI's own statement, reported by Reuters on November 24 and read in full via Investing.com through the estate browser, that no decision has been made and the consultation is unchanged."
 ---
 
 ## Latest
+
+MSCI said on Tuesday it has made no decision on its proposal to downgrade Indonesia's market classification, and that there has been no change to the consultation it launched on October 15 on reclassifying Indonesia from emerging market to standalone market status. MSCI said it continues to monitor market developments and engage with stakeholders, and it set out the timetable: the consultation stays open until April 30, 2027, and it expects to announce its decision on or before June 30, 2027. The statement, reported by Reuters, follows the meeting between chief executive Henry Fernandez and President Prabowo Subianto that had raised hopes of a compromise, and the Bloomberg News report that Fernandez had conveyed a willingness to consider alternatives to the downgrade.
 
 Bank Indonesia said the talks between MSCI chief executive Henry Fernandez and President Prabowo Subianto have boosted expectations of improvements in the country's stock market and supported the rupiah. Erwin Gunawan Hutapea, the central bank's head of monetary management, said Fernandez's remarks during the meeting raised positive expectations for the stock market and further supported rupiah appreciation. The rupiah hit a record low of 18,290 per dollar on Monday before strengthening to as much as 18,180 by 0733 GMT, LSEG data showed. Reuters said it could not immediately verify the Bloomberg News report of the call, and MSCI, Ray Dalio and a spokesperson for the president did not immediately respond to requests for comment.
 
