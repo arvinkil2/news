@@ -2,10 +2,10 @@
 title: "Poland"
 date: "2026-11-24"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed every 15 minutes."
-data_as_of: "Nov 23, 8:37 PM ET"
+data_as_of: "Nov 23, 8:52 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 23, 8:37 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 23, 8:52 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$39.8300 <span class="gm-sub-inline">as of 2026-11-20, stale</span></td><td class="num"><span class="down">-4.92%</span></td><td class="num"><span class="down">-9.74%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.5 5.1,4.8 10.1,4.5 15.2,2.0 20.2,8.5 25.3,12.0 30.3,12.1 35.4,5.3 40.4,8.5 45.5,11.5 50.5,6.6 55.6,6.8 60.6,7.4 65.7,5.8 70.7,4.9 75.8,6.8 80.8,9.6 85.9,11.8 90.9,15.9 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/PLN</td><td class="num">4.0720 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.18%</span></td><td class="num"><span class="down">-1.78%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.3 4.6,20.8 9.1,18.8 13.7,20.0 18.3,23.0 22.9,18.9 27.4,20.2 32.0,21.5 36.6,26.0 41.1,23.7 45.7,20.7 50.3,25.3 54.9,21.7 59.4,16.1 64.0,14.4 68.6,12.9 73.1,12.0 77.7,11.9 82.3,9.4 86.9,6.2 91.4,3.0 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
