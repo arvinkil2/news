@@ -1,9 +1,9 @@
 ---
 title: "Congo bans cobalt exports again from November 30 as prices slide"
 date: 2026-11-23T09:04:59-05:00
-last_updated: 2026-11-23T09:04:59-05:00
+last_updated: 2026-11-24T03:24:15-05:00
 beats: ["mining"]
-regions: ["africa", "global"]
+regions: ["africa", "asia-pacific", "global"]
 status: "story"
 lede: "The Democratic Republic of Congo will suspend all cobalt exports from November 30 until further notice, its regulator ARECOMS said on Monday, a second full ban in under two years aimed at reversing a price slide that has halved cobalt hydroxide values since April."
 why_it_matters: "Congo supplied about three quarters of the world's mined cobalt before its restrictions began, so a full export halt tightens supply for battery makers worldwide and hands share to Indonesia, the second producer, while the quota system that was meant to steady prices is set aside."
@@ -18,10 +18,16 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-23/top-cobalt-producer-congo-will-ban-exports-again-as-prices-slide"
     published: "2026-11-23"
+  - title: "China cobalt prices surge to three-month high as Congo bans exports"
+    publisher: "Reuters, via Engineering News"
+    url: "https://www.engineeringnews.co.za/article/china-cobalt-prices-surge-to-three-month-high-as-congo-bans-exports-2026-11-24"
+    published: "2026-11-24"
 tags: []
-data_as_of: "ARECOMS statement of November 23, 2026 as reported by Mining Weekly and Bloomberg; the regulator's own statement was not read directly on its site in this run, and ARECOMS has been logged as a source to implement directly. Price and quota figures are Fastmarkets data and prior ARECOMS decisions as reported."
+data_as_of: "ARECOMS statement of November 23, 2026 as reported by Mining Weekly and Bloomberg; the regulator's own statement was not read directly on its site in this run, and ARECOMS has been logged as a source to implement directly. Price and quota figures are Fastmarkets data and prior ARECOMS decisions as reported. Updated November 24, 2026 with the Chinese market reaction, from Reuters reporting carried by Engineering News on November 24, 2026 and read in full; the futures and share figures are intraday morning levels in China, not closes."
 update_bump: true
 ---
+
+**Latest:** China's cobalt futures surged on Tuesday to their highest level in more than three months after Congo imposed the fresh export ban, Reuters reported. Contracts for November, December and May delivery on the Wuxi Stainless Steel Exchange hit their daily upper trading limits in morning trade, and the December contract rose 10.97 percent by 02:57 GMT after touching its limit at 316 yuan ($47.42) per kilogram, the highest since August 18. Shares of Ganzhou Tengyuan Cobalt rose 12.5 percent and Nanjing Hanrui Cobalt rose 11 percent. The figures are intraday levels, not closes.
 
 The Democratic Republic of Congo will suspend all exports of cobalt from November 30 until further notice, the regulator ARECOMS said in a statement on Monday, in a decision it said was intended "to address the oversupply in the international market and to promote a sustainable rebalancing of the market."
 
