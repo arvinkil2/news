@@ -19,11 +19,11 @@ data_as_of: "Nov 23, 8:52 PM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-fsb-insurers-resolution-list-grows-24/">FSB insurer resolution list grows to 24 with Japanese additions</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-japan-czech-republic-tax-convention-signed/">Japan and Czech Republic sign new tax convention in Prague</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-japan-saudi-triple-joint-oil-stockpile/">Japan triples Saudi joint oil stockpile and will buy back reserves</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-japan-nuclear-submarine-review-non-nuclear-exception/">Japan funds nuclear submarine review, weighs non-nuclear exception</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-ubs-cuts-japan-equities-neutral-ai-spending/">UBS cuts Japan equities to neutral on AI spending doubts</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-japan-india-missile-training-agreement/">Japan and India agree missile training deal at Tokyo talks</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-japan-core-inflation-highest-year-energy-subsidies-end/">Japan core inflation hits year&#x27;s high as energy subsidies end</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-japan-scrambles-jets-russian-aircraft-airspace/">Japan scrambles jets after Russian aircraft enter its airspace</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-18</span> <a href="/stories/2026-11-18-boj-ueda-reaffirms-rate-hikes-inflation/">Ueda says Bank of Japan will keep raising rates</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
