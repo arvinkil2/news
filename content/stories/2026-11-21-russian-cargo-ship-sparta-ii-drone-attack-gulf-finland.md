@@ -1,7 +1,7 @@
 ---
 title: "Drone attack sets Russian cargo ship ablaze in Gulf of Finland"
 date: 2026-11-21T08:04:31-05:00
-last_updated: 2026-11-23T12:22:22-05:00
+last_updated: 2026-11-24T07:08:12-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -27,10 +27,16 @@ sources:
     publisher: "gCaptain"
     url: "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/"
     published: "2026-11-23"
+  - title: "Russian cargo vessel towed to St Petersburg after drone attack in Gulf of Finland"
+    publisher: "Sowetan, carrying Russian transport ministry statement"
+    url: "https://www.sowetan.co.za/news/world/2026-11-24-watch-russian-cargo-vessel-towed-to-st-petersburg-after-drone-attack-in-gulf-of-finland/"
+    published: "2026-11-24"
 tags: []
 update_bump: true
 data_as_of: "Updated November 23, 2026 with gCaptain reporting of November 23, 2026, read in full, carrying President Alexander Stubb's statement of November 22, Finland's National Enforcement Authority statement of November 23 and Finnish Border Guard accounts of the tow out of Finnish waters; the Kremlin's characterisation of the attack is Russia's own claim, reported as such. Updated November 22, 2026 with Reuters reporting of November 22, 2026, read in full via gCaptain, carrying Finland's coast guard account of the overnight firefighting and the Finnish military's assessment that the strike was likely carried out by Ukraine; Ukraine has not claimed the attack. Earlier reporting: Helsinki Times report of November 21, 2026, read in full, carrying the Finnish Defence Forces and Finnish Border Guard statements and Estonia's Police and Border Guard Board account, and the Reuters report of November 21, 2026, read in full via a syndicated copy. The vessel's identity as Sparta II is Estonian public broadcaster ERR reporting carried by Helsinki Times. Leningrad governor Alexander Drozdenko's account of the strike and his claim of 80 drones intercepted overnight are Russian official claims, not independently verified. The France24 version of this item was blocked to this reader on two routes and was not used. Developing item."
 ---
+
+**Update, November 24.** Sparta II arrived at the port of St Petersburg under tow on the evening of Monday, November 23, Leningrad Oblast governor Alexander Drozdenko said, and Russia's transport ministry confirmed the tow on Tuesday. All 16 crew had been evacuated onto a Russian ship, one slightly injured. Russia raised the attack at the UN Security Council on November 23, with deputy permanent representative Anna Evstigneeva calling it a spread of terrorism to the Baltic, a characterisation that is Russia's own claim; Ukraine has not claimed the attack.
 
 **Latest.** Sparta II has left Finnish territorial waters under tow, President Alexander Stubb confirmed on Sunday, saying the damaged ship in its current state posed a serious danger in the Gulf of Finland. Finland's National Enforcement Authority said on Monday that it had determined the vessel belonged to a company on the EU sanctions list and imposed a temporary measure on Saturday evening prohibiting the ship's release, with exceptions for maritime rescue, safety and reducing environmental risk; the ship is operated by Oboronlogistika, a Russian company linked to the defence ministry. The Russian rescue vessel Murman began towing Sparta II on Sunday, assisted by the Finnish patrol vessel Uisko, the Estonian Navy's Kindral Kurvits and commercial rescue tugs, after Finnish, Estonian and Russian vessels fought the fire together; Finnish authorities reported no leakage of fuel or hazardous substances. The Kremlin on Monday accused Ukraine of terrorist activity in the Baltic Sea, a characterisation that is Russia's own claim; Ukraine has not claimed the attack, which Finnish defence officials assessed was likely Ukrainian.
 

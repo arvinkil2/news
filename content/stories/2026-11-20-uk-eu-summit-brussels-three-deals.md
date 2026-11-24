@@ -1,7 +1,7 @@
 ---
 title: "UK and EU agree reset deal at Brussels summit"
 date: 2026-11-20T02:24:09-05:00
-last_updated: 2026-11-20T09:23:30-05:00
+last_updated: 2026-11-24T07:11:58-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -35,10 +35,20 @@ sources:
     publisher: "PA Media, via The Gazette"
     url: "https://www.the-gazette.co.uk/news/national/26747316.university-fees-row-puts-implementation-burnhams-eu-deal-jeopardy/"
     published: "2026-11-20"
+  - title: "Burnham tells MPs rejoining the EU without a referendum would be unthinkable"
+    publisher: "QNC News, with Agence France-Presse reporting"
+    url: "https://qncnews.com/2026/11/24/burnham-tells-mps-rejoining-the-eu-without-a-referendum-would-be-unthinkable/"
+    published: "2026-11-24"
+  - title: "Burnham backing for possible new EU referendum surprised cabinet"
+    publisher: "Bloomberg Law"
+    url: "https://news.bloomberglaw.com/international-trade/burnham-backing-for-possible-new-eu-referendum-surprised-cabinet"
+    published: "2026-11-24"
 tags: []
 update_bump: true
-data_as_of: "Joint Statement of the European Union and the United Kingdom of November 20, 2026 (Council document 16174/26), read in full from the Council of the European Union's own document server; the European Commission Press Corner copies of the statement and Q&A could not be read in this run (the Press Corner served blank pages through both the text fetch and the browser route), so the Council's copy of the same joint statement is the primary source used. Earlier updates: Reuters report of November 20, 2026 and PA Media reporting of November 20, 2026, both read in full. The preview below is the Guardian summit explainer of November 19, 2026. Developing item."
+data_as_of: "Joint Statement of the European Union and the United Kingdom of November 20, 2026 (Council document 16174/26), read in full from the Council of the European Union's own document server; the European Commission Press Corner copies of the statement and Q&A could not be read in this run (the Press Corner served blank pages through both the text fetch and the browser route), so the Council's copy of the same joint statement is the primary source used. Earlier updates: Reuters report of November 20, 2026 and PA Media reporting of November 20, 2026, both read in full. The preview below is the Guardian summit explainer of November 19, 2026. Update of November 24, 2026: Prime Minister Burnham's statement to the House of Commons on November 23, 2026, as reported by Agence France-Presse and Bloomberg on November 23 and 24, 2026. Developing item."
 ---
+
+**Update, November 24.** Prime Minister Andy Burnham told the House of Commons on Monday that it would be "unthinkable" for Britain to rejoin the European Union without another referendum, his clearest indication yet of how he sees a path opening to eventual re-entry. Pressed by Conservative MP Sir Bernard Jenkin to give a "clear and unequivocal" statement that rejoining without a referendum would be unthinkable, Burnham replied: "Yes, it would be unthinkable." He insisted the reset agreement signed in Brussels on Friday was "not a prelude to anything" and described his approach as pragmatic, saying there is no fixed destination in the relationship, and he accused predecessors warning him against reigniting the Brexit debate of being "stuck in the past." Bloomberg reported that the referendum signal blindsided cabinet ministers and officials who said they were not consulted on the policy. The government argues the deals will eventually add 17 billion pounds (22 billion dollars) a year to Britain's economy. The legislation to write the agreement into British law will be introduced in parliament on Thursday, and Burnham said his government would set out its longer term thinking on the relationship in a ten year plan due next month, with an informal brainstorming process on options ahead of a summit in late 2027. Two questions were left open by the statement: negotiations continue on linking the British and European electricity markets, and Brussels has set a deadline of six months to settle the fees European students pay at British universities, an issue the bloc calls a red line for completing the deal.
 
 **Latest.** The joint statement agreed at the summit was published on Friday afternoon. It records the conclusion of negotiations on a Common Sanitary and Phytosanitary Area, under which the vast majority of movements of animals, animal products, plants and plant products between Great Britain and the EU would take place without the certificates or controls now required, and sets an aim to apply the agreement from March 1, 2028. The emissions trading link is to apply from 2028, with mutual recognition of EU and UK allowances and exemptions from each side's carbon border levy. The Youth Experience Scheme will allow 100,000 young people from the EU and 100,000 from the UK to reside for up to three years for work, study, au-pairing, volunteering or travel; the two sides aim to apply it no later than 2028 and to have places available no later than January 2030. The three agreements are to be concluded under each side's legal framework and to enter into force jointly. On tuition fees, the statement commits both sides to work towards a supplementing agreement to the Trade and Cooperation Agreement and to conclude those negotiations within six months of the summit. It also commits them to conclude the negotiations on UK participation in the EU internal electricity market in 2027, to launch an EU-UK Digital Partnership early in 2027, and records the extension of the Trade and Cooperation Agreement's Energy Title to March 31, 2028 and full reciprocal fisheries access to June 30, 2038.
 
