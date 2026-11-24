@@ -1,12 +1,12 @@
 ---
 title: "Saudi air defences intercept three Houthi missiles over Riyadh"
 date: 2026-11-20T01:25:03-05:00
-last_updated: 2026-11-20T20:05:11-05:00
+last_updated: 2026-11-24T09:14:28-05:00
 beats: ["politics"]
 regions: ["middle-east"]
 status: "story"
-lede: "Saudi air defences intercepted and destroyed three ballistic missiles launched by the Houthis toward Riyadh early on Saturday, the Saudi-led coalition said, in a third straight night of emergency alerts for the capital."
-why_it_matters: "The attacks on Riyadh are now a nightly pattern rather than a single strike, and they are running alongside coalition operations against Hodeidah port and Sanaa and Houthi threats against Saudi Red Sea ports, shipping and energy infrastructure."
+lede: "A tower in Riyadh's financial district was targeted in a terrorist attack on Tuesday, the Saudi-led coalition said, the first reported strike on the district since a Houthi attack damaged the Public Investment Fund tower on November 19."
+why_it_matters: "The financial district is being targeted again after a week of strikes and interceptions around the capital, keeping the kingdom's showcase economic centre in the line of fire even as damage and responsibility for the latest attack remain unconfirmed."
 featured: true
 evidence_grade: "B"
 sources:
@@ -34,12 +34,18 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
     published: "2026-11-21"
+  - title: "Tower in Saudi Arabia's financial district targeted in 'terrorist attack,' coalition says"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/saudi-arabia/tower-in-saudi-arabias-financial-district-targeted-in-terrorist-attack-coalition-says-3013857"
+    published: "2026-11-24"
 tags: []
 update_bump: true
-data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full. The November 20 port exchange is from Al Jazeera (with AFP and Reuters) of November 20, 2026, read in full via the estate browser route. The early Saturday interceptions over Riyadh are from Arab News of November 20, 2026 and the Al Jazeera liveblog of November 21, 2026, both read in full via the estate browser route. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run."
+data_as_of: "Al Jazeera reporting of November 19 and 20, 2026, including Saudi Civil Defence and Saudi-led coalition statements, and Reuters market reporting via Arab News of November 19, 2026, all read in full. The November 20 port exchange is from Al Jazeera (with AFP and Reuters) of November 20, 2026, read in full via the estate browser route. The early Saturday interceptions over Riyadh are from Arab News of November 20, 2026 and the Al Jazeera liveblog of November 21, 2026, both read in full via the estate browser route. Damage and interception accounts are Saudi official statements as reported; Houthi claims are the movement's own. Iran's Revolutionary Guards statement on tankers in the Strait of Hormuz is an Iranian state claim, not independently corroborated in this run. The November 24 update is from Arab News of November 24, 2026, read in full via the estate browser route, carrying the coalition statement; the statement did not name the tower and gave no damage or casualty details, and no group had claimed the attack in that reporting."
 ---
 
 ## Latest
+
+A tower in Riyadh's financial district was targeted in a terrorist attack on Tuesday, coalition spokesman Maj. Gen. Turki Al-Malki said, adding that competent authorities were responding at the site. The statement did not name the tower, and Arab News reported no damage or casualty details and no claim of responsibility. The district was last hit on November 19, when a Houthi attack damaged the Public Investment Fund tower, and the capital has since seen repeated interceptions, most recently a Houthi drone destroyed over Riyadh on November 22.
 
 The attacks on the capital entered a third night. Saudi air defences intercepted and destroyed three ballistic missiles launched by the Houthis toward Riyadh early on Saturday, coalition spokesman Maj. Gen. Turki al-Maliki announced shortly after 2 a.m. local time, following a Civil Defense alert at 1:53 a.m. warning residents of an aerial threat. Two explosions were heard in the capital before Civil Defense lifted the alert, and no damage or casualties were reported from the interceptions themselves. The evening had already brought two ballistic missiles toward the Jazan region, which the coalition said were intercepted, with debris falling near Al-Shuqaiq, and across Friday the coalition counted five drones and three ballistic missiles intercepted over the kingdom. The coalition said it was also targeting a main Houthi supply depot in Sanaa and continuing operations against Houthi missile capabilities in Sanaa, Saada and Taiz and at Hodeidah port.
 
