@@ -1,7 +1,8 @@
 ---
 title: "Applied Digital signs $5.4 billion hyperscaler lease for 150 megawatts"
 date: 2026-11-24T07:07:38-05:00
-last_updated: 2026-11-24T07:07:38-05:00
+last_updated: 2026-11-24T17:04:06-05:00
+update_bump: true
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -14,13 +15,21 @@ sources:
     publisher: "Applied Digital, via GlobeNewswire (Morningstar)"
     url: "https://www.morningstar.com/news/globe-newswire/9882887/applied-digital-secures-new-150-mw-18-year-lease-with-tier-one-investment-grade-hyperscaler-bringing-contracted-base-term-revenue-above-41-billion"
     published: "2026-11-23"
+  - title: "Applied Digital Corporation Form 8-K, Items 1.01, 3.02 and 7.01, filed November 24, 2026 (accession 0001493152-26-054002)"
+    publisher: "US Securities and Exchange Commission, EDGAR"
+    url: "https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/form8-k.htm"
+    published: "2026-11-24"
   - title: "Applied Digital signs $5.4 billion AI data center lease with hyperscaler"
     publisher: "Reuters"
     url: "https://wtbx.com/2026/11/23/applied-digital-signs-5-4-billion-ai-data-center-lease-with-hyperscaler/"
     published: "2026-11-23"
 tags: []
-data_as_of: "Lease announced November 23, 2026 in Applied Digital's GlobeNewswire release, read in full; Reuters report of the same day corroborates the $5.4 billion base term, the 150 MW capacity and the 2028 delivery start."
+data_as_of: "Lease announced November 23, 2026 in Applied Digital's GlobeNewswire release, read in full; Reuters report of the same day corroborates the $5.4 billion base term, the 150 MW capacity and the 2028 delivery start. Update: Applied Digital Form 8-K filed November 24, 2026 (accession 0001493152-26-054002), read in full from the filing itself; every figure in the update comes from it."
 ---
+
+## Latest
+
+Applied Digital widened its preferred equity funding line on November 24, signing a letter agreement with the investors under its April 30, 2025 Preferred Equity Purchase Agreement that lifts the aggregate commitment for its Series G convertible preferred stock from $2.0 billion to $2.5 billion, according to a Form 8-K filed the same day. After the increase, $1.035 billion of availability remains to be drawn under the agreement. The same filing furnished the company's two November 23 press releases, on the lease below and on the closing of a bridge loan facility by an indirect subsidiary.
 
 Applied Digital has entered an 18-year lease agreement with a tier-one investment-grade hyperscaler for 150 megawatts of critical IT capacity, the Dallas-based AI data center developer announced on November 23. The lease provides approximately $5.4 billion in base-term contracted revenue, or approximately $12.7 billion if all renewal options are exercised over a total term of 33 years. The tenant was not named.
 
