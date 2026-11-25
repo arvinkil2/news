@@ -1,7 +1,7 @@
 ---
 title: "Japan 40-year bond sale draws weaker demand"
 date: 2026-11-24T23:42:51-05:00
-last_updated: 2026-11-24T23:42:51-05:00
+last_updated: 2026-11-25T00:03:44-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -11,6 +11,10 @@ why_it_matters: "Soft demand at the longest maturity tests investor appetite for
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Auction Result of 40-Year JGBs on November 25, 2026"
+    publisher: "Japan Ministry of Finance"
+    url: "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261125.htm"
+    published: "2026-11-25"
   - title: "Japan sells JPY 300bln in 40-year JGBs; b/c 2.63x (prev. 3.10x), highest accepted yield 4.090% (prev. 4.125%)"
     publisher: "Newsquawk, via StockNow"
     url: "http://stocknow.ai/en/breaking-news/cs8cgxfhj67o9zo76kil6pe9/japan-sells-jpy-300bln-in-40-year-jgbs-b-c-2-63x-prev-3-10x-highest-accepted-yie"
@@ -20,7 +24,7 @@ sources:
     url: "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb"
     published: "2026-11-25"
 tags: []
-data_as_of: "Auction figures from Newsquawk's report of the Ministry of Finance result, read via a second route after Bloomberg's own page was blocked to this reader; Bloomberg reported demand was weaker than the 12-month average. Developing item."
+data_as_of: "Auction figures verified against the Japan Ministry of Finance auction result (competitive bids 786.5 billion yen, 299.6 billion yen accepted, highest accepted yield 4.090 percent, price 94.35); Bloomberg reported demand was weaker than the 12-month average. Developing item."
 update_bump: true
 ---
 

@@ -1,16 +1,20 @@
 ---
 title: "Explosion on Russian ship at Benghazi port, drone attack suspected"
 date: 2026-11-22T10:25:01-05:00
-last_updated: 2026-11-23T04:08:40-05:00
+last_updated: 2026-11-25T00:04:31-05:00
 beats: ["politics"]
 regions: ["africa", "europe"]
 status: "developing"
 developing: true
-lede: "President Volodymyr Zelenskyy said on Monday that Ukrainian forces sank the Russian corvette Merkury off Libya with naval drones, claiming an attack that Libyan officials had described the day before without naming a perpetrator."
-why_it_matters: "Ukraine's claim moves the Benghazi strike from suspected to admitted, extending Kyiv's sea drone campaign into the Mediterranean and putting Libyan ports at the centre of the war at sea."
+lede: "Two Libyan soldiers have died of injuries from Sunday's Ukrainian naval drone attack on a Russian corvette at Benghazi port, Libya's eastern administration confirmed, as Kyiv defended the strike."
+why_it_matters: "The deaths are the first confirmed Libyan fatalities from Ukraine's Mediterranean sea drone campaign, sharpening Libya's charge that foreign wars are being fought from its ports and raising the risk of a Libyan response."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
+    publisher: "Deutsche Welle, with AP, AFP and Reuters"
+    url: "https://www.dw.com/en/libya-ukrainian-attack-benghazi-2-dead/a-80042348"
+    published: "2026-11-25"
   - title: "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya"
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
@@ -41,10 +45,13 @@ sources:
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read."
+data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated November 25, 2026 with Deutsche Welle reporting, with AP, AFP and Reuters, read in full via the estate browser, of the two Libyan soldiers' deaths confirmed by the eastern administration and Foreign Minister Sybiha's Tuesday defence of the strike. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read."
 ---
 
 ## Latest
+
+Two Libyan soldiers have died of injuries sustained in Sunday's attack, the head of Libya's eastern administration, Oussama Hamad, confirmed, describing the strike as Ukrainian aggression against the port of Benghazi, Deutsche Welle reported with AP, AFP and Reuters. Ukraine's foreign minister, Andrii Sybiha, defended the operation on Tuesday, saying Ukraine respects Libya's sovereignty, is not dragging anyone into the war, and that Russia endangers third countries by using their civilian infrastructure for military purposes. Libya's foreign ministry had denounced the attacks on Monday and said it authorized no foreign military operations in its territory or waters, and the Libyan National Army's general command said a response would come at the appropriate time and place.
+
 
 President Volodymyr Zelenskyy said on Monday that Ukrainian forces sank the Russian corvette Merkury off Libya, hailing what he called an exemplary Ukrainian sea drone operation in response to Russia's war. Al Jazeera reported that seven Ukrainian-made naval drones were launched in the attack, that a KA-27 combat helicopter was also destroyed, and that Zelenskyy named a second target, the Russian dry cargo ship Angara, which he said Russia used to transport weapons. Libya's eastern health ministry said all crew members had been rescued and were receiving treatment, while local sources told Al Jazeera the number of Libyan and Russian nationals killed was not yet known. Russia had not responded in the reporting read.
 
