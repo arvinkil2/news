@@ -2,14 +2,14 @@
 title: "Australia"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Australia, refreshed every 15 minutes."
-data_as_of: "Nov 25, 2:28 AM ET"
+data_as_of: "Nov 25, 2:52 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 2:28 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 2:52 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,692 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="down">-1.47%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.1 4.4,14.5 8.7,14.6 13.1,12.8 17.5,12.1 21.8,14.2 26.2,13.0 30.5,15.1 34.9,5.6 39.3,7.5 43.6,7.1 48.0,3.0 52.4,2.0 56.7,2.3 61.1,4.9 65.5,6.5 69.8,13.1 74.2,15.7 78.5,19.4 82.9,25.1 87.3,26.0 91.6,19.6 96.0,21.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Australia (EWA)</td><td class="num">$27.2900 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="up">+0.26%</span></td><td class="num"><span class="down">-3.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.3 4.6,4.9 9.1,4.1 13.7,3.8 18.3,4.5 22.9,5.3 27.4,8.0 32.0,2.0 36.6,6.7 41.1,7.3 45.7,3.5 50.3,5.5 54.9,5.5 59.4,7.0 64.0,7.9 68.6,11.8 73.1,15.0 77.7,18.1 82.3,22.5 86.9,26.0 91.4,22.2 96.0,21.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>AUD/USD</td><td class="num">0.6574 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.84%</span></td><td class="num"><span class="down">-2.46%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.4 4.4,3.9 8.7,3.4 13.1,2.0 17.5,3.5 21.8,3.4 26.2,4.9 30.5,6.5 34.9,4.7 39.3,8.3 43.6,11.4 48.0,8.8 52.4,11.3 56.7,12.7 61.1,14.4 65.5,15.8 69.8,17.9 74.2,17.8 78.5,19.1 82.9,21.9 87.3,22.7 91.6,23.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AUD/USD</td><td class="num">0.6573 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.86%</span></td><td class="num"><span class="down">-2.48%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.4 4.4,3.9 8.7,3.4 13.1,2.0 17.5,3.5 21.8,3.4 26.2,4.9 30.5,6.5 34.9,4.7 39.3,8.3 43.6,11.4 48.0,8.8 52.4,11.3 56.7,12.6 61.1,14.4 65.5,15.8 69.8,17.9 74.2,17.7 78.5,19.1 82.9,21.9 87.3,22.6 91.6,23.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
