@@ -1,6 +1,6 @@
 {
  "as_of": "2026-11-24",
- "history_sha256": "63c8e3385ca4c7ae16704eff2a21fb3179e194d1a36902f1a99ddb1276fe6571",
+ "history_sha256": "68d125a59fa44fb3eeacf0476d38bba1445cbbdbea053fe6e881695752c79bc5",
  "issuers": {
   "alphabet": {
    "bridged_tenors": "7Y",
@@ -2833,11 +2833,11 @@
      "gate_status": "published",
      "tenors": {
       "1": 0.01,
-      "10": 138.6,
+      "10": 138.61,
       "2": 28.55,
       "3": 57.01,
       "5": 88.78,
-      "7": 86.92
+      "7": 86.91
      }
     }
    ],
@@ -2845,7 +2845,7 @@
    "n_bonds": 34,
    "n_prints": 947,
    "prev_date": "2026-11-23",
-   "rmse_pts": 1.0784,
+   "rmse_pts": 1.0777,
    "tenors": [
     {
      "change_bp": 0.0,
@@ -2868,13 +2868,13 @@
      "tenor_years": 5
     },
     {
-     "change_bp": 3.68,
-     "par_cds_bp": 86.92,
+     "change_bp": 3.67,
+     "par_cds_bp": 86.91,
      "tenor_years": 7
     },
     {
-     "change_bp": 4.58,
-     "par_cds_bp": 138.6,
+     "change_bp": 4.59,
+     "par_cds_bp": 138.61,
      "tenor_years": 10
     }
    ]
