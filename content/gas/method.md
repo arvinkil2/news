@@ -16,9 +16,29 @@ and converted to heating degree days on the Eurostat formula: on
 days with a mean temperature at or below 15 degrees, heating
 degree days equal 18 minus the mean temperature; otherwise
 zero.</p>
+<p>United Kingdom storage: National Gas, the transmission
+system operator, publishes daily stock, available capacity and
+opening stock by site. GIE AGSI+ and ALSI carry no UK data after
+2020 (their UK aggregate is the pre-Brexit series), so the UK hub
+runs on National Gas. UK weather comes from GHCN-Daily stations
+via NOAA, population-weighted on the same Eurostat formula.</p>
 <h2>The measures</h2>
 <p>Fill is stock divided by working gas volume, as published by
 AGSI+. Fill is always printed with stock and capacity in TWh.</p>
+<p>United Kingdom fill is computed, because National Gas does
+not publish a percentage: stock divided by stock plus available
+capacity, which is the working gas volume on the catalogue
+definition. The fill covers underground storage. LNG held at
+the three import terminals is published separately and is not
+in the fill. UK injection and withdrawal are National Gas
+actuals; the actuals publish about two weeks late, so the most
+recent days use ENTSOG zone flows to and from storage until
+the actuals land, and the UK flow balance is computed from
+that combined series. Entry to the UK through the
+Interconnector and through BBL is not published in the GB
+zone aggregates; those two legs are taken from the UK-IUK
+zone and Netherlands zone aggregates, where ENTSOG publishes
+them.</p>
 <p>Flow balance is injection divided by withdrawal, seven-day
 mean. Below 1, storage is draining.</p>
 <p>Days of cover, plain: stock divided by the mean daily net
@@ -82,6 +102,19 @@ this winter.</p>
 <p>Storage history: the AGSI+ backfill is still running for some
 hubs. Seasonal bands and revision history use the banked
 windows and deepen as the backfill lands.</p>
+<p>Weather, United Kingdom: the banked GHCN series for the UK
+stations ends on September 29, 2026, about eight weeks behind
+the other countries, a lag in the source feed. The UK has a fit
+on its earlier winters and normalized figures, but no
+weather-expected line for the current season beyond that
+date.</p>
+<p>United Kingdom history: the National Gas API offers a
+five-year rolling history, so UK storage history starts in
+November 2021. Site-level stocks are published for recent
+periods only; the site table shows the latest day.</p>
+<p>United Kingdom prices: no NBP price is shown anywhere in
+this section. The benchmark is exchange-licensed and no free
+source carries it.</p>
 <h2>Updates</h2>
 <p>One refresh command recomputes every measure from the newest
 banked files, rebuilds these pages and republishes only what
