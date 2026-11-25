@@ -2,13 +2,13 @@
 title: "Poland"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Poland, refreshed every 15 minutes."
-data_as_of: "Nov 25, 11:16 AM ET"
+data_as_of: "Nov 25, 11:28 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 11:16 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 11:28 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$39.7100 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-2.93%</span></td><td class="num"><span class="down">-7.05%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.4 4.4,4.8 8.7,4.4 13.1,2.0 17.5,8.3 21.8,11.7 26.2,11.8 30.5,5.3 34.9,8.3 39.3,11.2 43.6,6.5 48.0,6.6 52.4,7.3 56.7,5.7 61.1,4.8 65.5,6.7 69.8,9.4 74.2,11.6 78.5,15.6 82.9,25.4 87.3,16.9 91.6,20.3 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/PLN</td><td class="num">4.0922 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.56%</span></td><td class="num"><span class="down">-2.26%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.6 4.4,21.3 8.7,19.6 13.1,20.6 17.5,23.3 21.8,19.7 26.2,20.8 30.5,22.0 34.9,26.0 39.3,23.9 43.6,21.2 48.0,25.3 52.4,22.2 56.7,17.2 61.1,15.6 65.5,14.3 69.8,13.5 74.2,13.4 78.5,11.2 82.9,8.3 87.3,5.5 91.6,4.9 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Poland (EPOL)</td><td class="num">$39.6800 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-3.01%</span></td><td class="num"><span class="down">-7.12%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.4 4.4,4.8 8.7,4.4 13.1,2.0 17.5,8.3 21.8,11.7 26.2,11.8 30.5,5.2 34.9,8.3 39.3,11.2 43.6,6.4 48.0,6.6 52.4,7.2 56.7,5.7 61.1,4.8 65.5,6.7 69.8,9.4 74.2,11.5 78.5,15.5 82.9,25.3 87.3,16.9 91.6,20.1 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/PLN</td><td class="num">4.0903 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.51%</span></td><td class="num"><span class="down">-2.21%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,23.5 4.4,21.3 8.7,19.5 13.1,20.6 17.5,23.3 21.8,19.6 26.2,20.8 30.5,22.0 34.9,26.0 39.3,23.9 43.6,21.2 48.0,25.3 52.4,22.1 56.7,17.1 61.1,15.5 65.5,14.2 69.8,13.4 74.2,13.3 78.5,11.0 82.9,8.1 87.3,5.2 91.6,4.7 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
