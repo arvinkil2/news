@@ -199,6 +199,19 @@ a:hover { color: var(--accent); }
 .market-table-title { font-family: var(--sans); font-size: 19px; margin: 0 0 2px; font-weight: 700; }
 .market-table-updated { font-size: 12.5px; color: var(--muted); margin: 0 0 12px; }
 .market-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* Gas section grids: the bw-grid tables are wider than the text
+   column (the lead grid is 1,122px in a 1,072px column) and on
+   desktop they spill 50px into the page margin, fully visible,
+   as they always have. The wrapper preserves that spill at
+   desktop widths; below a 1,170px viewport the spill would run
+   past the page edge, so there the wrapper scrolls internally
+   instead and the page itself never scrolls sideways. The
+   grid's frozen first column sticks inside the wrapper. */
+.gas-table-scroll { max-width: 100%; }
+@media (max-width: 1170px) {
+  .gas-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+}
 .market-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 .market-table th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); padding: 8px 10px; border-bottom: 2px solid var(--rule-strong); white-space: nowrap; }
 .market-table td { padding: 8px 10px; border-bottom: 1px solid var(--rule); white-space: nowrap; }
@@ -228,6 +241,24 @@ a:hover { color: var(--accent); }
 .footer-inner { max-width: 1120px; margin: 0 auto; padding: 28px 20px; font-size: 13px; color: var(--muted); }
 .footer-inner p { margin: 6px 0; line-height: 1.6; }
 .footer-brand { font-family: var(--sans); font-size: 17px; font-weight: 700; color: var(--ink); }
+
+/* ---------- phone header ---------- */
+/* Below 720px the masthead row and the nav strip keep their
+   desktop layout on one line each, which runs out of room: the
+   brand and the date together are 384px wide, so on a narrower
+   phone the date is clipped at the right edge, and the nav
+   strip's later entries (EU Gas among them) sit off-screen
+   inside a scrollable row with no visible scroll cue. On
+   phones the date wraps under the brand instead of clipping,
+   and the nav strips wrap onto two rows so every entry is on
+   screen. Desktop is untouched: the min-width 720px rules below
+   and the base rules are unchanged. */
+@media (max-width: 719px) {
+  .masthead-top { flex-wrap: wrap; }
+  .masthead-date { margin-left: auto; }
+  .nav { flex-wrap: wrap; overflow-x: visible; }
+  .nav-inner { flex-wrap: wrap; overflow-x: visible; }
+}
 
 /* ---------- desktop ---------- */
 @media (min-width: 720px) {
