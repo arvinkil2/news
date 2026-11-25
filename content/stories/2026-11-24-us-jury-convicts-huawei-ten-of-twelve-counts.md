@@ -1,7 +1,7 @@
 ---
 title: "US jury convicts Huawei on ten of twelve counts"
 date: 2026-11-24T16:21:20-05:00
-last_updated: 2026-11-25T02:43:24-05:00
+last_updated: 2026-11-25T05:42:30-05:00
 beats: ["technology"]
 regions: ["north-america", "asia-pacific"]
 status: "developing"
@@ -15,6 +15,10 @@ sources:
     publisher: "US Department of Justice, US Attorney's Office for the Eastern District of New York"
     url: "https://www.justice.gov/usao-edny/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-convicted-sanctions"
     published: "2026-11-24"
+  - title: "Huawei Found Guilty in Trade, Fraud Case; China Warns on Tariffs"
+    publisher: "Asia Financial (AFP)"
+    url: "https://www.asiafinancial.com/huawei-found-guilty-in-trade-fraud-case-china-warns-on-tariffs"
+    published: "2026-11-25"
   - title: "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets"
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
@@ -29,8 +33,10 @@ sources:
     published: "2026-11-24"
 tags: []
 update_bump: true
-data_as_of: "Update November 25, 2026: US Department of Justice release from the US Attorney's Office for the Eastern District of New York, read in full from justice.gov; CNBC report of November 24, 2026, read in full, for the sentencing date and Huawei's statement. Original item: Reuters and Associated Press reports of the verdict, November 24, 2026, read in full. Developing item."
+data_as_of: "Update November 25, 2026: Beijing reaction reported by AFP via Asia Financial, read in full; the reaction was attributed to Beijing without a named official in that report. Earlier update November 25, 2026: US Department of Justice release from the US Attorney's Office for the Eastern District of New York, read in full from justice.gov; CNBC report of November 24, 2026, read in full, for the sentencing date and Huawei's statement. Original item: Reuters and Associated Press reports of the verdict, November 24, 2026, read in full. Developing item."
 ---
+
+Beijing reacted to the verdict on Wednesday, saying it firmly opposes the United States suppressing and containing Chinese enterprises and firmly supports Chinese enterprises in safeguarding their legitimate rights and interests, AFP reported.
 
 Sentencing is now scheduled for September 14, 2027, CNBC reported, with the Justice Department saying the defendants face financial penalties including criminal fines, forfeiture and restitution. Huawei said in a statement on Wednesday that the charges were without legal or factual merit, welcomed its acquittal on the racketeering charge, and said it would review the verdicts and consider further legal action. The Justice Department's own release names the convicted subsidiaries as Huawei Device Co. Ltd. of China and the US subsidiaries Futurewei Technologies Inc. and Huawei Device USA Inc., convicted after a 12-week trial before Judge Ann M. Donnelly.
 
