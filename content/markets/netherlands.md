@@ -2,12 +2,12 @@
 title: "Netherlands"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Netherlands, refreshed every 15 minutes."
-data_as_of: "Nov 25, 3:52 AM ET"
+data_as_of: "Nov 25, 4:06 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 3:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 4:06 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>AEX (index)</td><td class="num">1,080 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+0.26%</span></td><td class="num"><span class="down">-1.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.6 4.4,3.6 8.7,4.9 13.1,2.9 17.5,5.3 21.8,5.8 26.2,9.1 30.5,4.7 34.9,6.8 39.3,9.5 43.6,6.6 48.0,5.9 52.4,2.0 56.7,3.5 61.1,3.3 65.5,5.3 69.8,12.7 74.2,16.1 78.5,18.2 82.9,26.0 87.3,19.0 91.6,22.6 96.0,21.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AEX (index)</td><td class="num">1,079 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+0.19%</span></td><td class="num"><span class="down">-1.76%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,5.6 4.4,3.6 8.7,4.9 13.1,2.9 17.5,5.3 21.8,5.8 26.2,9.1 30.5,4.7 34.9,6.8 39.3,9.5 43.6,6.6 48.0,5.9 52.4,2.0 56.7,3.5 61.1,3.3 65.5,5.3 69.8,12.7 74.2,16.1 78.5,18.2 82.9,26.0 87.3,19.0 91.6,22.6 96.0,22.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Netherlands (EWN)</td><td class="num">$60.33 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.81%</span></td><td class="num"><span class="down">-2.98%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,9.0 4.6,5.5 9.1,3.9 13.7,3.7 18.3,7.8 22.9,8.2 27.4,7.9 32.0,4.3 36.6,11.2 41.1,10.6 45.7,3.5 50.3,4.2 54.9,2.0 59.4,5.9 64.0,6.4 68.6,11.2 73.1,14.3 77.7,14.6 82.3,18.5 86.9,26.0 91.4,18.4 96.0,19.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>EUR/USD</td><td class="num">1.0946 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+0.34%</span></td><td class="num"><span class="down">-0.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.2 4.4,6.5 8.7,9.7 13.1,7.8 17.5,5.8 21.8,7.7 26.2,5.2 30.5,4.1 34.9,2.0 39.3,2.5 43.6,8.5 48.0,3.0 52.4,6.8 56.7,12.3 61.1,15.6 65.5,17.4 69.8,19.4 74.2,19.8 78.5,21.3 82.9,21.4 87.3,21.3 91.6,26.0 96.0,23.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
