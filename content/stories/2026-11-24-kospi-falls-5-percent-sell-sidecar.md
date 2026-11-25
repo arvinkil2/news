@@ -1,12 +1,12 @@
 ---
 title: "Kospi falls 5 percent as sell sidecar halts program selling"
 date: 2026-11-24T19:52:03-05:00
-last_updated: 2026-11-24T19:52:03-05:00
+last_updated: 2026-11-24T21:07:09-05:00
 beats: ["rates"]
 regions: ["asia-pacific"]
 status: "story"
-lede: "South Korea's Kospi fell into the 5 percent range in early trading on Wednesday, triggering a sell sidecar that suspended program sell orders for five minutes, with Samsung Electronics and SK Hynix each down more than 6 percent."
-why_it_matters: "It is the second 5 percent Kospi fall in a week, again led by the two chipmakers that dominate the index, and it extends the AI-linked selloff that has repeatedly forced Korean exchange curbs this month."
+lede: "The Asian technology rout broadened on Wednesday, with Samsung Electronics and SK Hynix down more than 7 percent, Japan's Advantest down 12.7 percent and SoftBank Group down 13.8 percent, after the Kospi's early 5 percent fall triggered a sell sidecar in Seoul."
+why_it_matters: "The selloff now spans Japan, Korea and Taiwan at once, led by the chip names at the centre of the AI trade, while Hong Kong-listed Chinese technology stocks rose against the regional move."
 featured: true
 evidence_grade: "B"
 sources:
@@ -22,10 +22,16 @@ sources:
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261125035700008"
     published: "2026-11-25"
+  - title: "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names"
+    publisher: "CNBC"
+    url: "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+    published: "2026-11-24"
 tags: []
-data_as_of: "Korea Exchange figures as reported by Yonhap News Agency, in Korean, from its market reports of November 25, 2026 (Seoul time), read in full in this run. Index levels are intraday as of 9:12 a.m. Seoul time; the session was still in progress. Yonhap's market report gave no single cause for the fall."
+data_as_of: "Korea Exchange figures as reported by Yonhap News Agency, in Korean, from its market reports of November 25, 2026 (Seoul time), read in full. Index levels are intraday as of 9:12 a.m. Seoul time. Updated with CNBC's regional market report of November 24, 2026 (US time), read in full via the estate browser; its stock moves are intraday Wednesday figures with no single time stamp given, and the session was still in progress."
 update_bump: true
 ---
+
+Latest: the rout has spread across the region's technology names. In Japan, Advantest fell 12.7 percent, Tokyo Electron fell 11.82 percent, SoftBank Group fell 13.8 percent, Lasertec lost 10.15 percent, Disco fell 9.41 percent and Renesas Electronics lost 9 percent. In Korea, Samsung Electronics and SK Hynix were each down more than 7 percent, deepening their early losses, and LG Innotek shed 3.8 percent. In Taiwan, TSMC fell 6.73 percent, Hon Hai Precision Industry fell 9.05 percent and Foxconn Technology shed 6.13 percent. Hong Kong-listed Chinese technology stocks moved the other way, with Xiaomi up 5.66 percent, Kuaishou up 3.5 percent, Alibaba up 1.4 percent and Tencent up 0.82 percent. CNBC attributed the falls to renewed concern over the AI trade after an overnight selloff on Wall Street, in which the Nasdaq Composite gave back some of the previous session's gains.
 
 South Korea's Kospi fell sharply from the open on Wednesday, sliding into the 5 percent range in the first minutes of trading and triggering the Korea Exchange's sell sidecar, the mechanism that suspends program sell orders when futures fall steeply.
 
