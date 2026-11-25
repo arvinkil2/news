@@ -313,8 +313,8 @@
         });
         for (var mi = 0; mi < moves.length && !done; mi++) {
           /* The appended translate is in the label's local
-             units, which its own counter-scaled transform and
-             the view fit cancel out to plain CSS px. */
+             units, which the element's transform maps 1 to 1
+             to CSS px (its scale factor is 1). */
           el.setAttribute("transform",
                           base + " translate(" + moves[mi][0] +
                           " " + moves[mi][1] + ")");
