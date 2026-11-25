@@ -2,14 +2,14 @@
 title: "China"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for China, refreshed every 15 minutes."
-data_as_of: "Nov 25, 12:29 AM ET"
+data_as_of: "Nov 25, 12:52 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 12:29 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 12:52 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>Shanghai Composite (index)</td><td class="num">3,501 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-1.33%</span></td><td class="num"><span class="down">-2.42%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,8.0 8.7,4.0 13.1,7.6 17.5,14.0 21.8,9.3 26.2,12.9 30.5,3.4 34.9,2.9 39.3,7.9 43.6,6.5 48.0,6.1 52.4,4.1 56.7,7.1 61.1,9.7 65.5,13.6 69.8,15.8 74.2,15.4 78.5,16.7 82.9,22.0 87.3,21.4 91.6,20.2 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Shanghai Composite (index)</td><td class="num">3,496 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-1.46%</span></td><td class="num"><span class="down">-2.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.9 8.7,3.9 13.1,7.5 17.5,13.8 21.8,9.1 26.2,12.7 30.5,3.4 34.9,2.9 39.3,7.8 43.6,6.4 48.0,6.0 52.4,4.0 56.7,7.0 61.1,9.5 65.5,13.3 69.8,15.5 74.2,15.1 78.5,16.3 82.9,21.5 87.3,20.9 91.6,19.8 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI China (MCHI)</td><td class="num">$46.6100 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.96%</span></td><td class="num"><span class="down">-3.72%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.6 4.6,13.8 9.1,14.0 13.7,14.3 18.3,13.8 22.9,11.8 27.4,12.5 32.0,3.9 36.6,2.0 41.1,2.6 45.7,4.1 50.3,5.7 54.9,7.4 59.4,11.1 64.0,11.8 68.6,13.9 73.1,16.5 77.7,18.9 82.3,22.0 86.9,26.0 91.4,21.9 96.0,23.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/CNY</td><td class="num">6.6599 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+0.07%</span></td><td class="num"><span class="up">+0.09%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.1 4.4,12.8 8.7,14.0 13.1,15.2 17.5,18.2 21.8,18.2 26.2,26.0 30.5,12.7 34.9,10.9 39.3,2.0 43.6,9.2 48.0,11.2 52.4,12.6 56.7,12.6 61.1,12.6 65.5,12.2 69.8,16.3 74.2,15.3 78.5,14.2 82.9,14.9 87.3,8.6 91.6,16.2 96.0,18.9" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/CNY</td><td class="num">6.6578 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+0.10%</span></td><td class="num"><span class="up">+0.12%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.1 4.4,12.8 8.7,14.0 13.1,15.2 17.5,18.2 21.8,18.2 26.2,26.0 30.5,12.7 34.9,10.9 39.3,2.0 43.6,9.2 48.0,11.2 52.4,12.6 56.7,12.6 61.1,12.6 65.5,12.2 69.8,16.3 74.2,15.3 78.5,14.2 82.9,14.9 87.3,8.6 91.6,16.2 96.0,20.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
