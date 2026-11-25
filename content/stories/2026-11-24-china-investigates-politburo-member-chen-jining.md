@@ -1,7 +1,7 @@
 ---
 title: "China investigates Politburo member and Shanghai chief Chen Jining"
 date: 2026-11-24T08:40:04-05:00
-last_updated: 2026-11-24T08:40:04-05:00
+last_updated: 2026-11-25T15:59:43-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "story"
@@ -18,10 +18,16 @@ sources:
     publisher: "Reuters"
     url: "https://963jackfm.com/2026/11/24/china-probes-shanghai-party-boss-politburos-chen-jining/"
     published: "2026-11-24"
+  - title: "Xi's graft probe of Shanghai rising star upends traditional path to power in China"
+    publisher: "Reuters"
+    url: "https://dailyfoxnews.com/news/25428/xi-s-graft-probe-of-shanghai-rising-star-upends-traditional-path-to-power-in"
+    published: "2026-11-25"
 tags: []
-data_as_of: "Xinhua News Agency statement of November 24, 2026, read in full as carried by People's Daily Online; the statement gives no detail beyond the investigating bodies and the suspected violations. Context on the three earlier Politburo probes, Chen's career and the Shanghai post is from Reuters reporting of November 24, 2026, read in full via a syndicated copy. The Bloomberg report that first surfaced this item in the feed queue could not be opened (bloomberg.com blocked to this reader) and nothing in this story rests on it."
+data_as_of: "Xinhua News Agency statement of November 24, 2026, read in full as carried by People's Daily Online; the statement gives no detail beyond the investigating bodies and the suspected violations. Context on the three earlier Politburo probes, Chen's career and the Shanghai post is from Reuters reporting of November 24, 2026, read in full via a syndicated copy. The Bloomberg report that first surfaced this item in the feed queue could not be opened (bloomberg.com blocked to this reader) and nothing in this story rests on it. Updated November 25, 2026 with Reuters reporting of the same day, read in full via a syndicated copy, on the Shanghai leadership's late-night meeting and analyst reaction; the Bloomberg article in the queue on the same development was blocked to this reader and nothing in the update rests on it."
 update_bump: true
 ---
+
+**Latest.** After news of the investigation broke, Shanghai's senior Communist Party leadership convened a late-night meeting and pledged loyalty to Beijing, according to a front-page story in the Shanghai party branch's Jiefang Daily, Reuters reported on Wednesday. Analysts said the probe breaks the long-standing pattern under which the Shanghai party secretary post served as a straightforward pathway to the Politburo Standing Committee, the party's highest body, ahead of the leadership reshuffle at next year's party congress.
 
 Chen Jining, a member of the Political Bureau of the Communist Party of China Central Committee and secretary of the party's Shanghai Municipal Committee, is under disciplinary and supervisory investigation, Xinhua News Agency said on Tuesday, citing an official statement. He is being investigated by the Central Commission for Discipline Inspection and the National Commission of Supervision for suspected severe violations of discipline and laws, the statement said. It gave no further detail.
 
