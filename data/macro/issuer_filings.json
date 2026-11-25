@@ -2,6 +2,15 @@
  "issuers": {
   "alphabet": [
    {
+    "date": "2026-11-24",
+    "form": "8-K",
+    "title": "Closing of C$6,000M Canadian dollar senior notes offering",
+    "detail": "Alphabet closed its underwritten public offering of C$6,000M Canadian dollar senior notes on November 24, 2026: C$2,000M at 4.100 percent due 2029; C$1,250M at 4.800 percent due 2034; C$1,500M at 5.325 percent due 2038; C$1,250M at 6.000 percent due 2066. The notes were priced on November 19, 2026 and are issued under the February 12, 2016 indenture with The Bank of New York Mellon Trust Company, N.A. as trustee. This is the closing filing for the offering recorded at pricing in this strip; no new series were added.",
+    "accession": "0001193125-26-475973",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973-index.htm",
+    "grade": "A"
+   },
+   {
     "date": "2026-11-23",
     "form": "424B2",
     "title": "Final prospectus supplement, C$6,000M senior notes in four series",
@@ -86,6 +95,15 @@
    }
   ],
   "meta": [
+   {
+    "date": "2026-11-23",
+    "form": "8-K",
+    "title": "Completion of the $30,000M senior notes offering",
+    "detail": "The senior notes offering announced on November 18, 2026 completed the same day, upsized from the announced $25,000M: $5,000M at 4.750 percent due 2031; $5,000M at 5.000 percent due 2033; $6,500M at 5.250 percent due 2035; $6,000M at 5.700 percent due 2038; $3,500M at 6.200 percent due 2044; $4,000M at 6.350 percent due 2065; $30,000M in total, senior unsecured. Exhibits 4.1 to 4.7 are the supplemental indenture and the six series of notes, Exhibit 5.1 the validity opinion and Exhibit 23.1 its consent. This is the senior notes leg of the long-term financing package presented on October 27, 2026.",
+    "accession": "0001628280-26-075541",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/0001628280-26-075541-index.htm",
+    "grade": "A"
+   },
    {
     "date": "2026-11-12",
     "form": "8-K",
@@ -269,6 +287,17 @@
     "title": "Pricing term sheet: $10,000M of senior notes in five series priced",
     "detail": "Oracle priced $10,000M of senior notes for settlement on November 4, 2026: $2,000M of 7.000 percent notes due 2029 (CUSIP 68389XEJ0), $1,750M of 7.450 percent notes due 2031 (68389XED3), $2,250M of 7.850 percent notes due 2033 (68389XEE1), $2,500M of 8.000 percent notes due 2037 (68389XEF8) and $1,500M of 8.650 percent notes due 2046 (68389XEG6). Expected ratings are Baa2 (negative) from Moody's, BBB- from S&P and BBB from Fitch. The notes are one half of a concurrent $20,000M capital raise with a $10,000M common stock offering; proceeds of both offerings are stated for general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions and dividends or buybacks. The preliminary notes supplement is accession 0001193125-26-442722.",
     "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526443918/0001193125-26-443918-index.htm"
+   }
+  ],
+  "applied-digital": [
+   {
+    "date": "2026-11-24",
+    "form": "8-K",
+    "title": "Preferred equity commitment raised to $2,500M; new 150 MW hyperscaler lease; $300M bridge facility for Delta Forge 1",
+    "detail": "Applied Digital raised the aggregate commitment under its Preferred Equity Purchase Agreement with B. Riley investors from $2,000M to $2,500M for its Series G Convertible Preferred Stock, leaving $1,035M of availability (Item 1.01, Exhibit 10.1 letter agreement dated November 24, 2026). Item 7.01 furnished two November 23, 2026 releases: an 18-year lease with an unnamed tier-one investment-grade hyperscaler for 150 MW, about $5,400M of base-term contracted revenue (about $12,700M with renewals), taking total contracted base-term lease revenue above $41,000M, with delivery from the first half of 2028; and the closing by an indirect subsidiary of a $300M senior secured bridge facility, a delayed draw term loan at SOFR plus 300 basis points with a 364-day maturity, funding construction of the Delta Forge 1 campus in Louisiana and secured by the project assets.",
+    "accession": "0001493152-26-054002",
+    "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/0001493152-26-054002-index.htm",
+    "grade": "A"
    }
   ]
  },
