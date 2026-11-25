@@ -1,13 +1,13 @@
 ---
-title: "Iran's Guards say two tankers hit mines in Hormuz"
+title: "Iran claims LNG tanker ablaze after Hormuz mine strike"
 date: 2026-11-25T00:41:58-05:00
-last_updated: 2026-11-25T07:08:46-05:00
+last_updated: 2026-11-25T17:12:48-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "Iran's Revolutionary Guards Navy says two oil tankers struck naval mines and caught fire early Wednesday on what it called an unauthorized route through the Strait of Hormuz."
-why_it_matters: "If confirmed, the incident extends a run of reported mine strikes on Hormuz shipping, but the claim rests solely on the Guards' own statement, with no vessel names, casualty figures or independent confirmation."
+lede: "Iran's Revolutionary Guards said on Wednesday evening that a liquefied natural gas tanker struck a naval mine and caught fire in the Strait of Hormuz, in addition to three oil tankers it says hit mines earlier in the day."
+why_it_matters: "An LNG carrier among the claimed strikes would widen the risk to gas shipping through the strait, but every claim still rests solely on Iranian official statements, with no vessel names, casualty figures or independent confirmation, and Reuters said it could not verify the report."
 featured: false
 evidence_grade: "C"
 sources:
@@ -19,14 +19,22 @@ sources:
     publisher: "Reuters via Arab News"
     url: "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942"
     published: "2026-11-25"
+  - title: "Iran claims LNG tanker ablaze in Hormuz after hitting mine"
+    publisher: "Reuters via Arab News"
+    url: "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942"
+    published: "2026-11-25"
   - title: "Yahoo Finance market data (estate market tables)"
     publisher: "Yahoo Finance"
     url: "https://finance.yahoo.com"
     published: "2026-11-25"
 tags: []
-data_as_of: "Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 05:19), read in full. All claims are sourced to Iranian official statements (the IRGC Navy via state media and an Iranian Army spokesperson); no independent confirmation, vessel identities or comment from other parties was available at write time. Developing item."
+data_as_of: "Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 16:21), read in full. All claims are sourced to Iranian official statements (the Revolutionary Guards via state media, the Iranian Army via the Fars news agency, and an Iranian Army spokesperson); Reuters said it could not independently verify the state media report, and no vessel identities, casualty figures or comment from other parties was available at write time. Developing item."
 update_bump: true
 ---
+
+## Latest
+
+Iran's Revolutionary Guards said on Wednesday evening that a ship carrying liquefied natural gas struck a naval mine and caught fire in the Strait of Hormuz, in a claim carried by Iranian state media and reported by Reuters, which said it could not independently verify the report. Earlier on Wednesday, the semi-official Fars news agency, citing an Iranian Army statement, reported that an oil tanker had hit a mine and caught fire in a restricted zone in the strait, in addition to the two oil tankers the Guards Navy said struck mines on an unauthorized route. No vessel was named in any of the claims, and no casualty figures were given.
 
 Iran's Army spokesperson Mohammad Akraminia said on Wednesday that the military had deployed new systems and upgraded existing ones to strengthen surveillance and control of the Strait of Hormuz, and warned that vessels passing through without coordinating with Iranian forces had faced greater risks and struck mines in recent weeks, Reuters reported. Tehran has told Washington it will not restore normal shipping through the strait until its demands are met, including the lifting of a US naval blockade of Iranian ports and an end to the war on all fronts; under a proposal conveyed through Qatari mediators, Tehran offered to reopen the waterway within 48 hours of Washington meeting its conditions.
 
