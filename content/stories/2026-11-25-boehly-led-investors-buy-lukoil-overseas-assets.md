@@ -1,6 +1,7 @@
+---
 title: "Boehly-led investors strike deal for Lukoil overseas assets"
 date: 2026-11-25T12:05:29-05:00
-last_updated: 2026-11-25T12:05:29-05:00
+last_updated: 2026-11-25T12:19:16-05:00
 beats: ["commodities"]
 regions: ["europe", "middle-east", "africa", "north-america"]
 status: "story"

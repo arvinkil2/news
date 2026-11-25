@@ -1,6 +1,7 @@
+---
 title: "Houthi attacks target Ras Tanura refinery and Jazan port"
 date: 2026-11-25T12:05:29-05:00
-last_updated: 2026-11-25T12:05:29-05:00
+last_updated: 2026-11-25T12:19:16-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "story"
