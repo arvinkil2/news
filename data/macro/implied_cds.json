@@ -1,11 +1,11 @@
 {
- "as_of": "2026-11-23",
- "history_sha256": "c92cdda9ed7f5463bffd1cce568f8ac8e0d92f94d528c0af437b0ff9aa256281",
+ "as_of": "2026-11-24",
+ "history_sha256": "63c8e3385ca4c7ae16704eff2a21fb3179e194d1a36902f1a99ddb1276fe6571",
  "issuers": {
   "alphabet": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -2827,13 +2827,25 @@
       "5": 85.46,
       "7": 83.24
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 0.01,
+      "10": 138.6,
+      "2": 28.55,
+      "3": 57.01,
+      "5": 88.78,
+      "7": 86.92
+     }
     }
    ],
    "issuer": "ALPHABET INC",
    "n_bonds": 34,
-   "n_prints": 828,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 1.0196,
+   "n_prints": 947,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.0784,
    "tenors": [
     {
      "change_bp": 0.0,
@@ -2841,28 +2853,28 @@
      "tenor_years": 1
     },
     {
-     "change_bp": 6.38,
-     "par_cds_bp": 30.02,
+     "change_bp": -1.47,
+     "par_cds_bp": 28.55,
      "tenor_years": 2
     },
     {
-     "change_bp": 2.02,
-     "par_cds_bp": 58.5,
+     "change_bp": -1.49,
+     "par_cds_bp": 57.01,
      "tenor_years": 3
     },
     {
-     "change_bp": -3.19,
-     "par_cds_bp": 85.46,
+     "change_bp": 3.32,
+     "par_cds_bp": 88.78,
      "tenor_years": 5
     },
     {
-     "change_bp": -4.53,
-     "par_cds_bp": 83.24,
+     "change_bp": 3.68,
+     "par_cds_bp": 86.92,
      "tenor_years": 7
     },
     {
-     "change_bp": -3.21,
-     "par_cds_bp": 134.02,
+     "change_bp": 4.58,
+     "par_cds_bp": 138.6,
      "tenor_years": 10
     }
    ]
@@ -2870,7 +2882,7 @@
   "amazon": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -11884,42 +11896,54 @@
       "5": 94.77,
       "7": 81.33
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 14.14,
+      "10": 142.49,
+      "2": 44.81,
+      "3": 70.7,
+      "5": 99.75,
+      "7": 82.71
+     }
     }
    ],
    "issuer": "AMAZON COM INC",
-   "n_bonds": 48,
-   "n_prints": 1229,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 1.3198,
+   "n_bonds": 47,
+   "n_prints": 1375,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.322,
    "tenors": [
     {
-     "change_bp": -2.92,
-     "par_cds_bp": 17.67,
+     "change_bp": -3.53,
+     "par_cds_bp": 14.14,
      "tenor_years": 1
     },
     {
-     "change_bp": -1.11,
-     "par_cds_bp": 43.21,
+     "change_bp": 1.6,
+     "par_cds_bp": 44.81,
      "tenor_years": 2
     },
     {
-     "change_bp": -1.8,
-     "par_cds_bp": 65.71,
+     "change_bp": 4.99,
+     "par_cds_bp": 70.7,
      "tenor_years": 3
     },
     {
-     "change_bp": -3.71,
-     "par_cds_bp": 94.77,
+     "change_bp": 4.98,
+     "par_cds_bp": 99.75,
      "tenor_years": 5
     },
     {
-     "change_bp": -4.75,
-     "par_cds_bp": 81.33,
+     "change_bp": 1.38,
+     "par_cds_bp": 82.71,
      "tenor_years": 7
     },
     {
-     "change_bp": -4.29,
-     "par_cds_bp": 138.04,
+     "change_bp": 4.45,
+     "par_cds_bp": 142.49,
      "tenor_years": 10
     }
    ]
@@ -11927,7 +11951,7 @@
   "amd": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -12469,42 +12493,54 @@
       "5": 99.77,
       "7": 115.51
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 37.25,
+      "10": 144.45,
+      "2": 58.6,
+      "3": 77.64,
+      "5": 102.04,
+      "7": 116.81
+     }
     }
    ],
    "issuer": "ADVANCED MICRO DEVICES INC",
-   "n_bonds": 6,
-   "n_prints": 88,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.0509,
+   "n_bonds": 7,
+   "n_prints": 99,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.5415,
    "tenors": [
     {
-     "change_bp": -31.92,
-     "par_cds_bp": 25.3,
+     "change_bp": 11.95,
+     "par_cds_bp": 37.25,
      "tenor_years": 1
     },
     {
-     "change_bp": -20.02,
-     "par_cds_bp": 48.97,
+     "change_bp": 9.63,
+     "par_cds_bp": 58.6,
      "tenor_years": 2
     },
     {
-     "change_bp": -9.39,
-     "par_cds_bp": 70.74,
+     "change_bp": 6.9,
+     "par_cds_bp": 77.64,
      "tenor_years": 3
     },
     {
-     "change_bp": 3.74,
-     "par_cds_bp": 99.77,
+     "change_bp": 2.27,
+     "par_cds_bp": 102.04,
      "tenor_years": 5
     },
     {
-     "change_bp": 7.2,
-     "par_cds_bp": 115.51,
+     "change_bp": 1.3,
+     "par_cds_bp": 116.81,
      "tenor_years": 7
     },
     {
-     "change_bp": -7.68,
-     "par_cds_bp": 126.83,
+     "change_bp": 17.62,
+     "par_cds_bp": 144.45,
      "tenor_years": 10
     }
    ]
@@ -12512,7 +12548,7 @@
   "apple": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -21550,42 +21586,54 @@
       "5": 48.94,
       "7": 36.84
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 12.92,
+      "10": 95.94,
+      "2": 31.87,
+      "3": 47.55,
+      "5": 51.53,
+      "7": 38.79
+     }
     }
    ],
    "issuer": "APPLE INC",
-   "n_bonds": 43,
-   "n_prints": 686,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.9871,
+   "n_bonds": 42,
+   "n_prints": 669,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.0221,
    "tenors": [
     {
-     "change_bp": 1.34,
-     "par_cds_bp": 14.65,
+     "change_bp": -1.73,
+     "par_cds_bp": 12.92,
      "tenor_years": 1
     },
     {
-     "change_bp": -1.5,
-     "par_cds_bp": 30.19,
+     "change_bp": 1.68,
+     "par_cds_bp": 31.87,
      "tenor_years": 2
     },
     {
-     "change_bp": -2.47,
-     "par_cds_bp": 44.68,
+     "change_bp": 2.87,
+     "par_cds_bp": 47.55,
      "tenor_years": 3
     },
     {
-     "change_bp": 0.42,
-     "par_cds_bp": 48.94,
+     "change_bp": 2.59,
+     "par_cds_bp": 51.53,
      "tenor_years": 5
     },
     {
-     "change_bp": 0.32,
-     "par_cds_bp": 36.84,
+     "change_bp": 1.95,
+     "par_cds_bp": 38.79,
      "tenor_years": 7
     },
     {
-     "change_bp": -1.07,
-     "par_cds_bp": 91.21,
+     "change_bp": 4.73,
+     "par_cds_bp": 95.94,
      "tenor_years": 10
     }
    ]
@@ -21593,7 +21641,7 @@
   "applied-materials": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -24463,42 +24511,54 @@
       "5": 73.4,
       "7": 83.92
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 62.87,
+      "10": 123.11,
+      "2": 70.52,
+      "3": 74.38,
+      "5": 77.91,
+      "7": 90.36
+     }
     }
    ],
    "issuer": "APPLIED MATLS INC",
-   "n_bonds": 7,
-   "n_prints": 59,
-   "prev_date": "2026-11-19",
-   "rmse_pts": 0.5944,
+   "n_bonds": 9,
+   "n_prints": 60,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.6199,
    "tenors": [
     {
-     "change_bp": 20.74,
-     "par_cds_bp": 65.68,
+     "change_bp": -2.81,
+     "par_cds_bp": 62.87,
      "tenor_years": 1
     },
     {
-     "change_bp": 11.25,
-     "par_cds_bp": 70.51,
+     "change_bp": 0.01,
+     "par_cds_bp": 70.52,
      "tenor_years": 2
     },
     {
-     "change_bp": 3.62,
-     "par_cds_bp": 72.42,
+     "change_bp": 1.96,
+     "par_cds_bp": 74.38,
      "tenor_years": 3
     },
     {
-     "change_bp": -5.15,
-     "par_cds_bp": 73.4,
+     "change_bp": 4.51,
+     "par_cds_bp": 77.91,
      "tenor_years": 5
     },
     {
-     "change_bp": -6.77,
-     "par_cds_bp": 83.92,
+     "change_bp": 6.44,
+     "par_cds_bp": 90.36,
      "tenor_years": 7
     },
     {
-     "change_bp": -1.24,
-     "par_cds_bp": 117.54,
+     "change_bp": 5.57,
+     "par_cds_bp": 123.11,
      "tenor_years": 10
     }
    ]
@@ -24506,7 +24566,7 @@
   "broadcom": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -32356,42 +32416,54 @@
       "5": 141.29,
       "7": 165.46
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 36.87,
+      "10": 199.9,
+      "2": 74.71,
+      "3": 108.83,
+      "5": 146.67,
+      "7": 168.84
+     }
     }
    ],
    "issuer": "BROADCOM INC",
    "n_bonds": 32,
-   "n_prints": 883,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.466,
+   "n_prints": 952,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.4915,
    "tenors": [
     {
-     "change_bp": 1.2,
-     "par_cds_bp": 38.29,
+     "change_bp": -1.42,
+     "par_cds_bp": 36.87,
      "tenor_years": 1
     },
     {
-     "change_bp": 1.11,
-     "par_cds_bp": 72.16,
+     "change_bp": 2.55,
+     "par_cds_bp": 74.71,
      "tenor_years": 2
     },
     {
-     "change_bp": 0.41,
-     "par_cds_bp": 103.63,
+     "change_bp": 5.2,
+     "par_cds_bp": 108.83,
      "tenor_years": 3
     },
     {
-     "change_bp": -1.83,
-     "par_cds_bp": 141.29,
+     "change_bp": 5.38,
+     "par_cds_bp": 146.67,
      "tenor_years": 5
     },
     {
-     "change_bp": -2.68,
-     "par_cds_bp": 165.46,
+     "change_bp": 3.38,
+     "par_cds_bp": 168.84,
      "tenor_years": 7
     },
     {
-     "change_bp": -4.04,
-     "par_cds_bp": 191.75,
+     "change_bp": 8.15,
+     "par_cds_bp": 199.9,
      "tenor_years": 10
     }
    ]
@@ -32399,7 +32471,7 @@
   "dell-technologies": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -39733,42 +39805,54 @@
       "5": 129.6,
       "7": 146.0
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 65.8,
+      "10": 181.93,
+      "2": 84.46,
+      "3": 104.97,
+      "5": 134.96,
+      "7": 152.38
+     }
     }
    ],
    "issuer": "DELL INTL L L C / EMC CORP",
-   "n_bonds": 26,
-   "n_prints": 408,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.2836,
+   "n_bonds": 27,
+   "n_prints": 428,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.2659,
    "tenors": [
     {
-     "change_bp": -2.36,
-     "par_cds_bp": 63.21,
+     "change_bp": 2.59,
+     "par_cds_bp": 65.8,
      "tenor_years": 1
     },
     {
-     "change_bp": -0.21,
-     "par_cds_bp": 82.64,
+     "change_bp": 1.82,
+     "par_cds_bp": 84.46,
      "tenor_years": 2
     },
     {
-     "change_bp": -0.95,
-     "par_cds_bp": 102.2,
+     "change_bp": 2.77,
+     "par_cds_bp": 104.97,
      "tenor_years": 3
     },
     {
-     "change_bp": -5.1,
-     "par_cds_bp": 129.6,
+     "change_bp": 5.36,
+     "par_cds_bp": 134.96,
      "tenor_years": 5
     },
     {
-     "change_bp": -8.84,
-     "par_cds_bp": 146.0,
+     "change_bp": 6.38,
+     "par_cds_bp": 152.38,
      "tenor_years": 7
     },
     {
-     "change_bp": -5.08,
-     "par_cds_bp": 174.51,
+     "change_bp": 7.42,
+     "par_cds_bp": 181.93,
      "tenor_years": 10
     }
    ]
@@ -39776,7 +39860,7 @@
   "eaton": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -40558,42 +40642,54 @@
       "5": 86.26,
       "7": 96.27
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 48.52,
+      "10": 103.0,
+      "2": 57.99,
+      "3": 66.21,
+      "5": 77.17,
+      "7": 86.05
+     }
     }
    ],
    "issuer": "EATON CORP",
-   "n_bonds": 6,
-   "n_prints": 35,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.1399,
+   "n_bonds": 7,
+   "n_prints": 29,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.5014,
    "tenors": [
     {
-     "change_bp": 6.05,
-     "par_cds_bp": 49.14,
+     "change_bp": -0.62,
+     "par_cds_bp": 48.52,
      "tenor_years": 1
     },
     {
-     "change_bp": 5.11,
-     "par_cds_bp": 62.79,
+     "change_bp": -4.8,
+     "par_cds_bp": 57.99,
      "tenor_years": 2
     },
     {
-     "change_bp": 2.56,
-     "par_cds_bp": 73.67,
+     "change_bp": -7.46,
+     "par_cds_bp": 66.21,
      "tenor_years": 3
     },
     {
-     "change_bp": -2.44,
-     "par_cds_bp": 86.26,
+     "change_bp": -9.09,
+     "par_cds_bp": 77.17,
      "tenor_years": 5
     },
     {
-     "change_bp": -4.47,
-     "par_cds_bp": 96.27,
+     "change_bp": -10.22,
+     "par_cds_bp": 86.05,
      "tenor_years": 7
     },
     {
-     "change_bp": -2.63,
-     "par_cds_bp": 115.08,
+     "change_bp": -12.08,
+     "par_cds_bp": 103.0,
      "tenor_years": 10
     }
    ]
@@ -40601,7 +40697,7 @@
   "hewlett-packard-enterprise": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -46903,42 +46999,54 @@
       "5": 112.91,
       "7": 129.27
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 56.47,
+      "10": 180.51,
+      "2": 82.87,
+      "3": 102.38,
+      "5": 118.01,
+      "7": 135.57
+     }
     }
    ],
    "issuer": "HEWLETT PACKARD ENTERPRISE CO",
    "n_bonds": 15,
-   "n_prints": 152,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.4639,
+   "n_prints": 200,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.5482,
    "tenors": [
     {
-     "change_bp": 4.83,
-     "par_cds_bp": 55.46,
+     "change_bp": 1.01,
+     "par_cds_bp": 56.47,
      "tenor_years": 1
     },
     {
-     "change_bp": 2.09,
-     "par_cds_bp": 78.6,
+     "change_bp": 4.27,
+     "par_cds_bp": 82.87,
      "tenor_years": 2
     },
     {
-     "change_bp": 0.12,
-     "par_cds_bp": 96.82,
+     "change_bp": 5.56,
+     "par_cds_bp": 102.38,
      "tenor_years": 3
     },
     {
-     "change_bp": -1.52,
-     "par_cds_bp": 112.91,
+     "change_bp": 5.1,
+     "par_cds_bp": 118.01,
      "tenor_years": 5
     },
     {
-     "change_bp": -2.64,
-     "par_cds_bp": 129.27,
+     "change_bp": 6.3,
+     "par_cds_bp": 135.57,
      "tenor_years": 7
     },
     {
-     "change_bp": -1.93,
-     "par_cds_bp": 170.02,
+     "change_bp": 10.49,
+     "par_cds_bp": 180.51,
      "tenor_years": 10
     }
    ]
@@ -46946,7 +47054,7 @@
   "intel": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -55984,42 +56092,54 @@
       "5": 132.86,
       "7": 144.27
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 64.89,
+      "10": 217.2,
+      "2": 88.01,
+      "3": 110.52,
+      "5": 140.81,
+      "7": 159.41
+     }
     }
    ],
    "issuer": "INTEL CORP",
-   "n_bonds": 36,
-   "n_prints": 402,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 1.2487,
+   "n_bonds": 40,
+   "n_prints": 518,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.4261,
    "tenors": [
     {
-     "change_bp": -1.68,
-     "par_cds_bp": 61.1,
+     "change_bp": 3.79,
+     "par_cds_bp": 64.89,
      "tenor_years": 1
     },
     {
-     "change_bp": -1.64,
-     "par_cds_bp": 86.5,
+     "change_bp": 1.51,
+     "par_cds_bp": 88.01,
      "tenor_years": 2
     },
     {
-     "change_bp": -2.02,
-     "par_cds_bp": 108.67,
+     "change_bp": 1.85,
+     "par_cds_bp": 110.52,
      "tenor_years": 3
     },
     {
-     "change_bp": -6.59,
-     "par_cds_bp": 132.86,
+     "change_bp": 7.95,
+     "par_cds_bp": 140.81,
      "tenor_years": 5
     },
     {
-     "change_bp": -13.16,
-     "par_cds_bp": 144.27,
+     "change_bp": 15.14,
+     "par_cds_bp": 159.41,
      "tenor_years": 7
     },
     {
-     "change_bp": -11.58,
-     "par_cds_bp": 203.49,
+     "change_bp": 13.71,
+     "par_cds_bp": 217.2,
      "tenor_years": 10
     }
    ]
@@ -56027,7 +56147,7 @@
   "marvell": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -57217,42 +57337,54 @@
       "5": 129.71,
       "7": 148.65
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 71.32,
+      "10": 186.17,
+      "2": 89.08,
+      "3": 106.56,
+      "5": 133.14,
+      "7": 155.31
+     }
     }
    ],
    "issuer": "MARVELL TECHNOLOGY INC",
    "n_bonds": 8,
-   "n_prints": 59,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.2086,
+   "n_prints": 46,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.2052,
    "tenors": [
     {
-     "change_bp": 4.75,
-     "par_cds_bp": 67.43,
+     "change_bp": 3.89,
+     "par_cds_bp": 71.32,
      "tenor_years": 1
     },
     {
-     "change_bp": 2.83,
-     "par_cds_bp": 87.12,
+     "change_bp": 1.96,
+     "par_cds_bp": 89.08,
      "tenor_years": 2
     },
     {
-     "change_bp": 0.57,
-     "par_cds_bp": 104.95,
+     "change_bp": 1.61,
+     "par_cds_bp": 106.56,
      "tenor_years": 3
     },
     {
-     "change_bp": -4.08,
-     "par_cds_bp": 129.71,
+     "change_bp": 3.43,
+     "par_cds_bp": 133.14,
      "tenor_years": 5
     },
     {
-     "change_bp": -6.29,
-     "par_cds_bp": 148.65,
+     "change_bp": 6.66,
+     "par_cds_bp": 155.31,
      "tenor_years": 7
     },
     {
-     "change_bp": -2.9,
-     "par_cds_bp": 176.18,
+     "change_bp": 9.99,
+     "par_cds_bp": 186.17,
      "tenor_years": 10
     }
    ]
@@ -57260,7 +57392,7 @@
   "meta": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -65542,42 +65674,54 @@
       "5": 116.78,
       "7": 114.59
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 14.09,
+      "10": 199.67,
+      "2": 41.71,
+      "3": 75.25,
+      "5": 120.83,
+      "7": 117.54
+     }
     }
    ],
    "issuer": "META PLATFORMS INC",
-   "n_bonds": 26,
-   "n_prints": 865,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 1.2664,
+   "n_bonds": 27,
+   "n_prints": 891,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.3903,
    "tenors": [
     {
-     "change_bp": 3.66,
-     "par_cds_bp": 16.29,
+     "change_bp": -2.2,
+     "par_cds_bp": 14.09,
      "tenor_years": 1
     },
     {
-     "change_bp": 1.51,
-     "par_cds_bp": 42.38,
+     "change_bp": -0.67,
+     "par_cds_bp": 41.71,
      "tenor_years": 2
     },
     {
-     "change_bp": 0.34,
-     "par_cds_bp": 74.34,
+     "change_bp": 0.91,
+     "par_cds_bp": 75.25,
      "tenor_years": 3
     },
     {
-     "change_bp": -2.43,
-     "par_cds_bp": 116.78,
+     "change_bp": 4.05,
+     "par_cds_bp": 120.83,
      "tenor_years": 5
     },
     {
-     "change_bp": -0.73,
-     "par_cds_bp": 114.59,
+     "change_bp": 2.95,
+     "par_cds_bp": 117.54,
      "tenor_years": 7
     },
     {
-     "change_bp": -5.02,
-     "par_cds_bp": 194.38,
+     "change_bp": 5.29,
+     "par_cds_bp": 199.67,
      "tenor_years": 10
     }
    ]
@@ -65585,7 +65729,7 @@
   "nvidia": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -66631,42 +66775,54 @@
       "5": 103.35,
       "7": 108.53
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 36.05,
+      "10": 158.74,
+      "2": 64.57,
+      "3": 87.39,
+      "5": 107.13,
+      "7": 110.33
+     }
     }
    ],
    "issuer": "NVIDIA CORP",
    "n_bonds": 13,
-   "n_prints": 387,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 0.7445,
+   "n_prints": 407,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 0.6725,
    "tenors": [
     {
-     "change_bp": 3.6,
-     "par_cds_bp": 33.73,
+     "change_bp": 2.32,
+     "par_cds_bp": 36.05,
      "tenor_years": 1
     },
     {
-     "change_bp": 3.78,
-     "par_cds_bp": 63.18,
+     "change_bp": 1.39,
+     "par_cds_bp": 64.57,
      "tenor_years": 2
     },
     {
-     "change_bp": 2.67,
-     "par_cds_bp": 86.27,
+     "change_bp": 1.12,
+     "par_cds_bp": 87.39,
      "tenor_years": 3
     },
     {
-     "change_bp": 1.6,
-     "par_cds_bp": 103.35,
+     "change_bp": 3.78,
+     "par_cds_bp": 107.13,
      "tenor_years": 5
     },
     {
-     "change_bp": 6.91,
-     "par_cds_bp": 108.53,
+     "change_bp": 1.8,
+     "par_cds_bp": 110.33,
      "tenor_years": 7
     },
     {
-     "change_bp": 5.35,
-     "par_cds_bp": 154.82,
+     "change_bp": 3.92,
+     "par_cds_bp": 158.74,
      "tenor_years": 10
     }
    ]
@@ -66674,7 +66830,7 @@
   "oracle": {
    "bridged_tenors": "7Y",
    "discounting": "sofr-sdr",
-   "fit_date": "2026-11-23",
+   "fit_date": "2026-11-24",
    "gate_status": "published",
    "history": [
     {
@@ -75652,42 +75808,54 @@
       "5": 336.43,
       "7": 333.07
      }
+    },
+    {
+     "date": "2026-11-24",
+     "gate_status": "published",
+     "tenors": {
+      "1": 187.48,
+      "10": 458.05,
+      "2": 255.22,
+      "3": 310.42,
+      "5": 367.08,
+      "7": 371.26
+     }
     }
    ],
    "issuer": "ORACLE CORP",
    "n_bonds": 55,
-   "n_prints": 1440,
-   "prev_date": "2026-11-20",
-   "rmse_pts": 1.8456,
+   "n_prints": 1491,
+   "prev_date": "2026-11-23",
+   "rmse_pts": 1.9884,
    "tenors": [
     {
-     "change_bp": -1.6,
-     "par_cds_bp": 159.67,
+     "change_bp": 27.81,
+     "par_cds_bp": 187.48,
      "tenor_years": 1
     },
     {
-     "change_bp": 0.03,
-     "par_cds_bp": 224.74,
+     "change_bp": 30.48,
+     "par_cds_bp": 255.22,
      "tenor_years": 2
     },
     {
-     "change_bp": -2.8,
-     "par_cds_bp": 277.86,
+     "change_bp": 32.56,
+     "par_cds_bp": 310.42,
      "tenor_years": 3
     },
     {
-     "change_bp": 0.25,
-     "par_cds_bp": 336.43,
+     "change_bp": 30.65,
+     "par_cds_bp": 367.08,
      "tenor_years": 5
     },
     {
-     "change_bp": -8.2,
-     "par_cds_bp": 333.07,
+     "change_bp": 38.19,
+     "par_cds_bp": 371.26,
      "tenor_years": 7
     },
     {
-     "change_bp": 0.66,
-     "par_cds_bp": 420.29,
+     "change_bp": 37.76,
+     "par_cds_bp": 458.05,
      "tenor_years": 10
     }
    ]
