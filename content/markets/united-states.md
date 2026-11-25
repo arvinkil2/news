@@ -2,13 +2,12 @@
 title: "United States"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for United States, refreshed every 15 minutes."
-data_as_of: "Nov 25, 7:19 AM ET"
+data_as_of: "Nov 25, 8:25 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 7:19 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 8:25 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P 500 (index)</td><td class="num">7,201 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.50%</span></td><td class="num"><span class="down">-1.90%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.9 4.6,2.6 9.1,2.0 13.7,2.7 18.3,6.7 22.9,7.8 27.4,7.0 32.0,3.6 36.6,13.2 41.1,12.6 45.7,7.6 50.3,8.4 54.9,5.6 59.4,6.4 64.0,7.2 68.6,11.4 73.1,13.6 77.7,14.1 82.3,18.4 86.9,26.0 91.4,16.6 96.0,17.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>Nasdaq Composite (index)</td><td class="num">23,734 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-1.48%</span></td><td class="num"><span class="down">-2.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.3 4.6,2.4 9.1,2.0 13.7,4.2 18.3,8.8 22.9,10.5 27.4,9.2 32.0,7.0 36.6,15.6 41.1,14.0 45.7,9.9 50.3,11.1 54.9,8.6 59.4,9.2 64.0,10.6 68.6,14.5 73.1,15.6 77.7,14.9 82.3,18.3 86.9,26.0 91.4,17.0 96.0,19.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>Nasdaq Composite (index)</td><td class="num">23,734 <span class="gm-sub-inline">as of 2026-11-24 (Nasdaq, near-real-time)</span></td><td class="num"><span class="down">-1.48%</span></td><td class="num"><span class="down">-2.45%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.3 4.6,2.4 9.1,2.0 13.7,4.2 18.3,8.8 22.9,10.5 27.4,9.2 32.0,7.0 36.6,15.6 41.1,14.0 45.7,9.9 50.3,11.1 54.9,8.6 59.4,9.2 64.0,10.6 68.6,14.5 73.1,15.6 77.7,14.9 82.3,18.3 86.9,26.0 91.4,17.0 96.0,19.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>SPDR S&amp;P 500 (SPY)</td><td class="num">$718.78 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.49%</span></td><td class="num"><span class="down">-1.86%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.6,2.8 9.1,2.0 13.7,2.9 18.3,6.8 22.9,7.9 27.4,7.2 32.0,3.6 36.6,13.4 41.1,12.8 45.7,7.7 50.3,8.5 54.9,5.6 59.4,6.4 64.0,7.2 68.6,11.4 73.1,13.6 77.7,14.3 82.3,18.4 86.9,26.0 91.4,16.6 96.0,17.6" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
@@ -24,7 +23,7 @@ data_as_of: "Nov 25, 7:19 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-brent-slides-surplus-outweighs-hormuz-risk/">Brent slides again as surplus outweighs Hormuz shipping risk</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-us-designates-cuba-nickel-entities-serconi/">United States designates four Cuban nickel sector entities</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-us-designates-cuba-banco-exterior-cupet-entities/">United States designates Banco Exterior de Cuba and energy entities</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-us-gdp-revised-up-4-3-percent-pce-core-3-3/">US growth revised up to 4.3 percent as core PCE holds at 3.3 percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-japan-pays-icc-dues-early-us-sanctions/">Japan to pay 2027 ICC dues early as US sanctions loom</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-commerzbank-weighs-us-treasury-trading-pullback/">Commerzbank weighs scaling back US Treasury trading</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-arcus-stops-prism1-quemliclustat-pancreatic-phase3/">Arcus stops Phase 3 pancreatic cancer trial after interim miss</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
