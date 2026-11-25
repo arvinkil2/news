@@ -2,13 +2,13 @@
 title: "Indonesia"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Indonesia, refreshed every 15 minutes."
-data_as_of: "Nov 25, 10:16 AM ET"
+data_as_of: "Nov 25, 10:22 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 10:16 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 10:22 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Jakarta Composite (index)</td><td class="num">5,198 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.84%</span></td><td class="num"><span class="down">-0.96%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.4,7.5 8.7,6.6 13.1,16.1 17.5,18.2 21.8,16.1 26.2,26.0 30.5,25.2 34.9,19.6 39.3,18.5 43.6,17.3 48.0,14.7 52.4,15.2 56.7,8.3 61.1,3.5 65.5,4.7 69.8,5.5 74.2,8.4 78.5,11.2 82.9,13.6 87.3,10.0 91.6,8.7 96.0,11.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.3500 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-2.50%</span></td><td class="num"><span class="down">-1.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.5 4.4,9.0 8.7,6.3 13.1,15.5 17.5,18.5 21.8,16.8 26.2,26.0 30.5,21.3 34.9,21.8 39.3,15.7 43.6,9.7 48.0,12.5 52.4,12.2 56.7,5.7 61.1,2.5 65.5,4.7 69.8,3.5 74.2,5.2 78.5,10.5 82.9,14.8 87.3,2.0 91.6,2.2 96.0,8.7" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
+<tr><td>iShares MSCI Indonesia (EIDO)</td><td class="num">$10.3400 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-2.54%</span></td><td class="num"><span class="down">-1.43%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.5 4.4,9.0 8.7,6.3 13.1,15.5 17.5,18.5 21.8,16.8 26.2,26.0 30.5,21.3 34.9,21.8 39.3,15.7 43.6,9.7 48.0,12.5 52.4,12.2 56.7,5.7 61.1,2.5 65.5,4.7 69.8,3.5 74.2,5.2 78.5,10.5 82.9,14.8 87.3,2.0 91.6,2.2 96.0,9.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/IDR</td><td class="num">18,303 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.67%</span></td><td class="num"><span class="down">-3.64%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,8.4 4.4,6.6 8.7,6.7 13.1,8.9 17.5,8.7 21.8,7.5 26.2,26.0 30.5,24.2 34.9,24.9 39.3,25.8 43.6,8.0 48.0,9.1 52.4,6.7 56.7,25.5 61.1,21.4 65.5,4.3 69.8,22.4 74.2,20.6 78.5,21.2 82.9,3.4 87.3,2.5 91.6,5.5 96.0,2.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
