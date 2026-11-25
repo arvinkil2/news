@@ -1,7 +1,7 @@
 ---
 title: "Drone attack sets Russian cargo ship ablaze in Gulf of Finland"
 date: 2026-11-21T08:04:31-05:00
-last_updated: 2026-11-24T07:08:12-05:00
+last_updated: 2026-11-25T07:09:19-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -27,14 +27,20 @@ sources:
     publisher: "gCaptain"
     url: "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/"
     published: "2026-11-23"
+  - title: "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution"
+    publisher: "Reuters, via WTBX"
+    url: "https://wtbx.com/2026/11/24/norway-says-there-is-dialogue-with-ukraine-regarding-need-for-stability-in-our-near-areas/"
+    published: "2026-11-24"
   - title: "Russian cargo vessel towed to St Petersburg after drone attack in Gulf of Finland"
     publisher: "Sowetan, carrying Russian transport ministry statement"
     url: "https://www.sowetan.co.za/news/world/2026-11-24-watch-russian-cargo-vessel-towed-to-st-petersburg-after-drone-attack-in-gulf-of-finland/"
     published: "2026-11-24"
 tags: []
 update_bump: true
-data_as_of: "Updated November 23, 2026 with gCaptain reporting of November 23, 2026, read in full, carrying President Alexander Stubb's statement of November 22, Finland's National Enforcement Authority statement of November 23 and Finnish Border Guard accounts of the tow out of Finnish waters; the Kremlin's characterisation of the attack is Russia's own claim, reported as such. Updated November 22, 2026 with Reuters reporting of November 22, 2026, read in full via gCaptain, carrying Finland's coast guard account of the overnight firefighting and the Finnish military's assessment that the strike was likely carried out by Ukraine; Ukraine has not claimed the attack. Earlier reporting: Helsinki Times report of November 21, 2026, read in full, carrying the Finnish Defence Forces and Finnish Border Guard statements and Estonia's Police and Border Guard Board account, and the Reuters report of November 21, 2026, read in full via a syndicated copy. The vessel's identity as Sparta II is Estonian public broadcaster ERR reporting carried by Helsinki Times. Leningrad governor Alexander Drozdenko's account of the strike and his claim of 80 drones intercepted overnight are Russian official claims, not independently verified. The France24 version of this item was blocked to this reader on two routes and was not used. Developing item."
+data_as_of: "Updated November 25, 2026 with Reuters reporting of November 24, 2026 on Zelenskiy's confirmation, read in full via syndication, and the Bloomberg interview account carried by gCaptain. Updated November 23, 2026 with gCaptain reporting of November 23, 2026, read in full, carrying President Alexander Stubb's statement of November 22, Finland's National Enforcement Authority statement of November 23 and Finnish Border Guard accounts of the tow out of Finnish waters; the Kremlin's characterisation of the attack is Russia's own claim, reported as such. Updated November 22, 2026 with Reuters reporting of November 22, 2026, read in full via gCaptain, carrying Finland's coast guard account of the overnight firefighting and the Finnish military's assessment that the strike was likely carried out by Ukraine; Ukraine has not claimed the attack. Earlier reporting: Helsinki Times report of November 21, 2026, read in full, carrying the Finnish Defence Forces and Finnish Border Guard statements and Estonia's Police and Border Guard Board account, and the Reuters report of November 21, 2026, read in full via a syndicated copy. The vessel's identity as Sparta II is Estonian public broadcaster ERR reporting carried by Helsinki Times. Leningrad governor Alexander Drozdenko's account of the strike and his claim of 80 drones intercepted overnight are Russian official claims, not independently verified. The France24 version of this item was blocked to this reader on two routes and was not used. Developing item."
 ---
+
+**Update, November 25.** President Volodymyr Zelenskiy has confirmed that Ukraine carried out Saturday's drone strike on Sparta II, ending the period in which Kyiv did not claim the attack. Zelenskiy told Bloomberg News in an interview in Kyiv late on Monday that the vessel was a legitimate military target and, in his account, was carrying weapons; Bloomberg said it could not independently verify the claim that the ship was carrying weapons, and that cargo claim remains Ukraine's own account. Reuters reported that Norway, a strong supporter of Kyiv, urged Ukraine to exercise caution in such operations. Sparta II is owned by Oboronlogistika, which provides logistics services for the Russian defence ministry, according to the company's website. The claim of responsibility is confirmed by Zelenskiy's own statements; what the ship carried is not independently established.
 
 **Update, November 24.** Sparta II arrived at the port of St Petersburg under tow on the evening of Monday, November 23, Leningrad Oblast governor Alexander Drozdenko said, and Russia's transport ministry confirmed the tow on Tuesday. All 16 crew had been evacuated onto a Russian ship, one slightly injured. Russia raised the attack at the UN Security Council on November 23, with deputy permanent representative Anna Evstigneeva calling it a spread of terrorism to the Baltic, a characterisation that is Russia's own claim; Ukraine has not claimed the attack.
 

@@ -1,7 +1,7 @@
 ---
 title: "Spain votes November 29 with right bloc ahead in polls"
 date: 2026-11-22T07:05:08-05:00
-last_updated: 2026-11-23T07:12:35-05:00
+last_updated: 2026-11-25T07:09:19-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "story"
@@ -26,12 +26,20 @@ sources:
     publisher: "Democrata"
     url: "https://www.democrata.es/en/politics/sanchez-proposes-a-tax-on-large-fortunes-to-raise-2-000-million-earmarked-for-housing-pensions-and-childcare/"
     published: "2026-11-23"
+  - title: "Spain extends bank tax, sets tougher lending rules before election"
+    publisher: "Reuters, via Euronext Live"
+    url: "https://live.euronext.com/en/financial-news/spain-extends-bank-tax-sets-tougher-lending-rules-election"
+    published: "2026-11-24"
+  - title: "The Government extends the bank tax for another year"
+    publisher: "Democrata"
+    url: "https://www.democrata.es/en/economy/the-government-extends-by-one-year-the-bank-tax-to-raise-1-400-million-and-channel-it-into-housing/"
+    published: "2026-11-24"
   - title: "Spain election frontrunner pledges tax cuts and financial audit"
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-23/spain-election-frontrunner-pledges-tax-cuts-and-financial-audit"
     published: "2026-11-23"
 tags: []
-data_as_of: "Updated November 23, 2026 with the final week campaign pledges: Sanchez's wealth tax proposal (his own post on X, November 23, 2026, reported by Bloomberg Tax and Demócrata) and the PP platform reporting of November 23, 2026. Election scheduled Sunday, November 29, 2026; polling averages and seat projections as published through November 16, 2026. Poll publication is banned from November 24 to 28 under Spanish electoral law."
+data_as_of: "Updated November 25, 2026 with the Council of Ministers approval of November 24, 2026 of the bank levy extension (Reuters and Democrata reporting, read in full). Updated November 23, 2026 with the final week campaign pledges: Sanchez's wealth tax proposal (his own post on X, November 23, 2026, reported by Bloomberg Tax and Demócrata) and the PP platform reporting of November 23, 2026. Election scheduled Sunday, November 29, 2026; polling averages and seat projections as published through November 16, 2026. Poll publication is banned from November 24 to 28 under Spanish electoral law."
 ---
 
 Spain votes on Sunday, November 29, in a snap general election called by Prime Minister Pedro Sanchez on October 5 after the Congress of Deputies rejected two government housing decrees. Almost 39 million Spaniards are eligible to elect all 350 members of Congress and the elected part of the Senate, according to the National Statistics Institute figure of 38,728,356 voters cited by La Cotorra.
@@ -45,3 +53,5 @@ Housing is the campaign's central issue, the question on which the legislature f
 **Update, November 23.** The final week opened with competing tax pledges. Prime Minister Pedro Sanchez proposed on Monday a new tax on fortunes above 100 million euros, saying the richest 0.1 percent hold more than 10 percent of all wealth in Spain, with the proceeds to finance a child rearing benefit, protected housing, pensions and better public services. The PSOE said removing bonuses and exemptions for large fortunes would raise an additional 2,000 million euros; no rate or design for the tax has been published, and it is a campaign proposal, not a government measure. Sanchez had already pledged on Saturday to extend the bank levy through 2027, with an expected 1.4 billion euros earmarked for housing, a proposal his government intends to take to cabinet on Tuesday, November 24.
 
 On the other side, People's Party leader Alberto Nunez Feijoo has campaigned on tax cuts and an audit of public finances, questioning the reliability of official economic figures, and the PP platform includes exempting minimum wage earners from income tax, cutting VAT on staple foods, stricter border measures and slower climate targets. A POLITICO poll of polls conducted November 15 to 17 put the PP at 29.5 percent, the Socialists at 27.2 percent and Vox at 19.6 percent, with the PP and Vox together at 49.1 percent, so the contest turns on whether the right bloc converts its vote lead into the 176 seats needed to govern.
+
+**Update, November 25.** The Council of Ministers on Tuesday, November 24 approved the measure the November 23 update below flagged as pending: a one year extension of the bank levy through 2027, in the form of a decree-law expected to raise 1.4 billion euros for housing policies, alongside a consumer credit bill capping interest rates on certain high cost loans and strengthening the Bank of Spain's supervisory powers. Budget Minister Arcadi Espana said the revenue will fund social housing construction and support for vulnerable tenants, and that because the tax is assigned to the autonomous communities, the distribution of the proceeds has still to be defined with the regional governments; no definitive distribution by territory has been set. Democrata reported that revenue from the levy in its two forms from 2023 to 2026 totals 5,723 million euros, which with the expected 2027 amount would exceed 7,100 million euros. Because Congress is dissolved ahead of Sunday's election, the decree-law requires validation by parliament's standing committee to remain in force, and the banks have challenged the levy in the courts. Status: approved by cabinet November 24, 2026; parliamentary validation and gazette publication still pending.
