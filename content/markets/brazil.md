@@ -2,10 +2,10 @@
 title: "Brazil"
 date: "2026-11-25"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 25, 6:38 AM ET"
+data_as_of: "Nov 25, 7:19 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 6:38 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 7:19 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Ibovespa (index)</td><td class="num">164,090 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="down">-0.43%</span></td><td class="num"><span class="down">-3.07%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 5.1,3.7 10.1,12.7 15.2,16.2 20.2,18.7 25.3,23.2 30.3,19.3 35.4,22.0 40.4,17.5 45.5,10.4 50.5,12.1 55.6,10.7 60.6,12.1 65.7,10.0 70.7,16.0 75.8,15.0 80.8,19.4 85.9,21.6 90.9,24.6 96.0,26.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$29.3000 <span class="gm-sub-inline">as of 2026-11-24</span></td><td class="num"><span class="up">+0.21%</span></td><td class="num"><span class="down">-5.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.6 4.6,2.0 9.1,4.8 13.7,6.8 18.3,9.7 22.9,10.9 27.4,12.7 32.0,10.5 36.6,12.6 41.1,11.7 45.7,9.0 50.3,11.0 54.9,9.8 59.4,12.5 64.0,10.7 68.6,16.1 73.1,15.7 77.7,19.6 82.3,22.0 86.9,26.0 91.4,23.1 96.0,22.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
@@ -19,6 +19,7 @@ data_as_of: "Nov 25, 6:38 AM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-19 (Tesouro Nacional), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
+<p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-vale-partially-restarts-viga-iron-ore/">Vale partially restarts Viga iron ore mine in Brazil</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-brazil-central-bank-sells-1-billion-spot-dollars-real/">Brazil central bank sells $1 billion as real slides</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-15</span> <a href="/stories/2026-11-15-brazil-lets-extra-diesel-import-subsidy-expire/">Brazil lets extra diesel import subsidy expire</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-14</span> <a href="/stories/2026-11-14-rates-also-notable/">Rates also notable: French wages, Brazil retail, SARB sanctions</a></p>
@@ -26,5 +27,4 @@ data_as_of: "Nov 25, 6:38 AM ET"
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-inflation-slows-0-14-percent-october/">Brazil inflation slows to 0.14 percent in October</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-brazil-2027-grain-harvest-forecast-down-2-6-percent/">Brazil 2027 grain harvest forecast down 2.6 percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-12</span> <a href="/stories/2026-11-12-brazil-ipca-inflation-slows-october/">Brazil inflation slows to 0.14 percent in October</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-11</span> <a href="/stories/2026-11-11-usa-rare-earth-brazil-shipments-pentagon-offtake/">USA Rare Earth starts Brazil shipments under Pentagon offtake</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>
