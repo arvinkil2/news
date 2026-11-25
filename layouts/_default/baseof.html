@@ -37,7 +37,7 @@
     <a href="{{ "/markets/" | relURL }}" class="nav-link">Global Markets</a>
     <button class="nav-trigger" data-menu="menu-leverage" aria-haspopup="true" aria-expanded="false">Leverage</button>
     <button class="nav-trigger" data-menu="menu-cmbs" aria-haspopup="true" aria-expanded="false">CMBS</button>
-    <button class="nav-trigger" data-menu="menu-reserves" aria-haspopup="true" aria-expanded="false">Reserves</button>
+    <button class="nav-trigger" data-menu="menu-gas" aria-haspopup="true" aria-expanded="false">EU Gas</button>
     <a href="{{ "/archive/" | relURL }}" class="nav-link">Archive</a>
     <a href="{{ "/search/" | relURL }}" class="nav-link">Search</a>
   </nav>
@@ -64,10 +64,14 @@
     <a href="{{ "/cmbs/rankings/" | relURL }}" class="dropdown-item" role="menuitem">Rankings</a>
     <a href="{{ "/cmbs/changes/" | relURL }}" class="dropdown-item" role="menuitem">Monthly Changes</a>
   </div>
-  <div class="dropdown-panel" id="menu-reserves" role="menu">
-    <a href="{{ "/reserves/" | relURL }}" class="dropdown-item" role="menuitem">Reserves Overview</a>
-    <a href="{{ "/reserves/events/" | relURL }}" class="dropdown-item" role="menuitem">Release and Refill Ledger</a>
-    <a href="{{ "/reserves/method/" | relURL }}" class="dropdown-item" role="menuitem">Method and Data Notes</a>
+  <div class="dropdown-panel" id="menu-gas" role="menu">
+    <a href="{{ "/gas/" | relURL }}" class="dropdown-item" role="menuitem">EU Gas Overview</a>
+    <a href="{{ "/gas/germany/" | relURL }}" class="dropdown-item" role="menuitem">Germany</a>
+    <a href="{{ "/gas/italy/" | relURL }}" class="dropdown-item" role="menuitem">Italy</a>
+    <a href="{{ "/gas/netherlands/" | relURL }}" class="dropdown-item" role="menuitem">Netherlands</a>
+    <a href="{{ "/gas/france/" | relURL }}" class="dropdown-item" role="menuitem">France</a>
+    <a href="{{ "/gas/austria/" | relURL }}" class="dropdown-item" role="menuitem">Austria</a>
+    <a href="{{ "/gas/method/" | relURL }}" class="dropdown-item" role="menuitem">Method and Data Notes</a>
   </div>
 </header>
 <main class="content" id="main">
