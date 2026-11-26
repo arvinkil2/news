@@ -1,6 +1,6 @@
 {
  "as_of": "2026-11-25",
- "history_sha256": "bab29f0e91688cd261d1cbfa8d08f4ba1fd3f0586fafcd9d3b6ea4c8a0848c95",
+ "history_sha256": "c5260901aa0c621ba0f6148c864462ff2b8028ed9acf9b9c7ee69c5f6cc1580c",
  "issuers": {
   "alphabet": {
    "bridged_tenors": "",
@@ -65836,7 +65836,7 @@
    "n_bonds": 27,
    "n_prints": 853,
    "prev_date": "2026-11-24",
-   "rmse_pts": 1.2232,
+   "rmse_pts": 1.223,
    "tenors": [
     {
      "change_bp": -1.1,
@@ -75981,11 +75981,11 @@
      "date": "2026-11-25",
      "gate_status": "published_volatile",
      "tenors": {
-      "1": 192.02,
+      "1": 192.07,
       "10": 469.46,
-      "2": 268.15,
-      "3": 326.42,
-      "5": 380.55,
+      "2": 268.12,
+      "3": 326.31,
+      "5": 380.51,
       "7": 385.86
      }
     }
@@ -75994,26 +75994,26 @@
    "n_bonds": 54,
    "n_prints": 1482,
    "prev_date": "2026-11-24",
-   "rmse_pts": 1.924,
+   "rmse_pts": 1.9239,
    "tenors": [
     {
-     "change_bp": 4.54,
-     "par_cds_bp": 192.02,
+     "change_bp": 4.59,
+     "par_cds_bp": 192.07,
      "tenor_years": 1
     },
     {
-     "change_bp": 12.93,
-     "par_cds_bp": 268.15,
+     "change_bp": 12.9,
+     "par_cds_bp": 268.12,
      "tenor_years": 2
     },
     {
-     "change_bp": 16.0,
-     "par_cds_bp": 326.42,
+     "change_bp": 15.89,
+     "par_cds_bp": 326.31,
      "tenor_years": 3
     },
     {
-     "change_bp": 13.47,
-     "par_cds_bp": 380.55,
+     "change_bp": 13.43,
+     "par_cds_bp": 380.51,
      "tenor_years": 5
     },
     {
