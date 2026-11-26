@@ -2,14 +2,14 @@
 title: "Australia"
 date: "2026-11-26"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Australia, refreshed every 15 minutes."
-data_as_of: "Nov 26, 5:43 PM ET"
+data_as_of: "Nov 26, 5:54 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 26, 5:43 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 26, 5:54 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,764 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.82%</span></td><td class="num"><span class="up">+0.38%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.1 4.2,14.5 8.3,14.6 12.5,12.8 16.7,12.1 20.9,14.2 25.0,13.0 29.2,15.1 33.4,5.6 37.6,7.5 41.7,7.1 45.9,3.0 50.1,2.0 54.3,2.3 58.4,4.9 62.6,6.5 66.8,13.1 71.0,15.7 75.1,19.4 79.3,25.1 83.5,26.0 87.7,19.6 91.8,21.0 96.0,18.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>S&amp;P/ASX 200 (index)</td><td class="num">8,692 <span class="gm-sub-inline">as of 2026-11-25, stale</span></td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="down">-1.47%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,14.5 4.6,14.6 9.1,12.8 13.7,12.1 18.3,14.2 22.9,13.0 27.4,15.1 32.0,5.6 36.6,7.5 41.1,7.1 45.7,3.0 50.3,2.0 54.9,2.3 59.4,4.9 64.0,6.5 68.6,13.1 73.1,15.7 77.7,19.4 82.3,25.1 86.9,26.0 91.4,19.6 96.0,21.0" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Australia (EWA)</td><td class="num">$27.3700 <span class="gm-sub-inline">as of 2026-11-25, stale</span></td><td class="num"><span class="up">+0.29%</span></td><td class="num"><span class="down">-1.40%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,7.3 4.4,4.9 8.7,4.1 13.1,3.8 17.5,4.5 21.8,5.3 26.2,8.0 30.5,2.0 34.9,6.7 39.3,7.3 43.6,3.5 48.0,5.5 52.4,5.5 56.7,7.0 61.1,7.9 65.5,11.8 69.8,15.0 74.2,18.1 78.5,22.5 82.9,26.0 87.3,22.2 91.6,21.7 96.0,21.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>AUD/USD</td><td class="num">0.6635 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="down">-1.16%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.6 4.2,4.2 8.3,3.6 12.5,2.0 16.7,3.7 20.9,3.6 25.0,5.3 29.2,7.0 33.4,5.0 37.6,9.1 41.7,12.6 45.9,9.7 50.1,12.5 54.3,14.1 58.4,16.1 62.6,17.6 66.8,20.0 71.0,19.8 75.1,21.3 79.3,24.5 83.5,25.4 87.7,26.0 91.8,25.8 96.0,25.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>AUD/USD</td><td class="num">0.6635 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.01%</span></td><td class="num"><span class="down">-1.16%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,3.6 4.2,4.2 8.3,3.6 12.5,2.0 16.7,3.7 20.9,3.6 25.0,5.3 29.2,7.0 33.4,5.0 37.6,9.1 41.7,12.6 45.9,9.7 50.1,12.5 54.3,14.1 58.4,16.1 62.6,17.6 66.8,20.0 71.0,19.8 75.1,21.3 79.3,24.5 83.5,25.4 87.7,26.0 91.8,25.8 96.0,25.7" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Sovereign yields</h2>
 <table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
@@ -19,7 +19,7 @@ data_as_of: "Nov 26, 5:43 PM ET"
 <p class="gm-method">10Y benchmark yield as of 2026-11-04 (Reserve Bank of Australia), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
-<p class="gm-story"><span class="gm-story-date">2026-11-26</span> <a href="/stories/2026-11-26-australia-lng-domestic-reservation-law/">Australia set to pass LNG domestic reservation law</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-26</span> <a href="/stories/2026-11-26-australia-lng-domestic-reservation-law/">Australia&#x27;s Senate passes LNG domestic reservation law</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-australia-passes-digital-duty-of-care-big-tech-fines/">Australia passes digital duty of care with 5% revenue fines</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-australia-capex-jumps-data-centre-spending/">Australian capex jumps 12.2 percent on data centre spending</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-24</span> <a href="/stories/2026-11-24-australiansuper-backs-brookfield-reliance-worldwide/">AustralianSuper backs Brookfield&#x27;s $2.53 billion Reliance Worldwide takeover</a></p>
