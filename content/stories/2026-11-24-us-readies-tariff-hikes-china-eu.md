@@ -1,13 +1,13 @@
 ---
 title: "USTR finds against 14 economies, proposes tariffs up to 35 percent"
 date: 2026-11-24T10:02:48-05:00
-last_updated: 2026-11-25T09:22:05-05:00
+last_updated: 2026-11-26T04:06:47-05:00
 beats: ["politics"]
-regions: ["north-america", "asia-pacific", "europe"]
+regions: ["north-america", "asia-pacific", "europe", "latin-america"]
 status: "developing"
 developing: true
-lede: "The US Trade Representative on Wednesday determined that the industrial practices of 14 economies, including China and the European Union, are unreasonable under Section 301, and proposed additional tariffs of up to 20 percent on China, 15 percent on the EU and up to 35 percent on Vietnam."
-why_it_matters: "The determinations convert a threatened tariff round into a formal legal process with named rates, and the China proposal, up to 20 percent net of existing duties, now sits against the trade truce both sides say runs to January 10, 2027."
+lede: "Brazil has rejected the proposed US tariff on its finished aircraft as unacceptable and says it will not yield to threats, the first formal government response to the US Trade Representative's Section 301 determinations against 14 economies, which propose tariffs of up to 20 percent on China, 15 percent on the EU and up to 35 percent on Vietnam."
+why_it_matters: "The determinations convert a threatened tariff round into a formal legal process with named rates, and Brazil's refusal to rule out reciprocal measures shows the comment period running to January 5, 2027 will be contested by the targeted economies rather than settled quietly, while the China proposal, up to 20 percent net of existing duties, sits against the trade truce both sides say runs to January 10, 2027."
 featured: false
 evidence_grade: "A"
 sources:
@@ -23,12 +23,18 @@ sources:
     publisher: "Bloomberg Law"
     url: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-dismisses-us-tariff-prospect-as-political-maneuvering?context=search&index=0"
     published: "2026-11-25"
+  - title: "Brazil blasts 'unacceptable' new US tariff proposals"
+    publisher: "Al Jazeera, with AFP and Reuters"
+    url: "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals"
+    published: "2026-11-26"
 tags: []
-data_as_of: "Update: USTR press releases of November 25, 2026, both read in full at ustr.gov in this run; every determination, rate and deadline in the Latest section comes from those primary documents. Earlier sections rest on Wall Street Journal and Bloomberg reporting of November 24, 2026 and a Bloomberg Law report of November 25, 2026 on China's response."
+data_as_of: "Update November 26: Brazil's response as reported by Al Jazeera, with AFP and Reuters, from the statement issued by President Lula's office on Wednesday, read in full via the browser route after the direct fetch was blocked. Earlier: USTR press releases of November 25, 2026, both read in full at ustr.gov in this run; every determination, rate and deadline in the Latest section comes from those primary documents. Earlier sections rest on Wall Street Journal and Bloomberg reporting of November 24, 2026 and a Bloomberg Law report of November 25, 2026 on China's response."
 update_bump: true
 ---
 
-**Latest.** US Trade Representative Jamieson Greer on Wednesday determined under Section 301 of the Trade Act of 1974 that the acts, policies and practices of 14 economies relating to structural excess capacity and production in manufacturing are unreasonable and burden or restrict US commerce. The 14 economies are China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India. USTR published economy-specific reports supporting each determination, and said no determination has been made on Mexico or Norway at this time. The investigations were opened on March 11, 2026 and covered 16 economies.
+**Latest.** Brazil has formally rejected the proposed modification of the Section 301 action against it, under which finished aircraft from Brazil would lose their exemption and face an additional 10 percent tariff. President Lula's office said in a statement on Wednesday that the unilateral USTR decision is "an unacceptable action within the ongoing bilateral negotiation process" and that "Brazil will not yield to this type of threat." Brasilia said it has been negotiating in good faith with Washington for more than a year, that the two sides agreed in August to set up a working group on trade issues, and that it is not ruling out reciprocal measures while continuing to seek a negotiated solution. The statement did not say whether Brazil would challenge the proposed tariffs at the World Trade Organization. Al Jazeera, with AFP and Reuters, reported the response.
+
+US Trade Representative Jamieson Greer on Wednesday determined under Section 301 of the Trade Act of 1974 that the acts, policies and practices of 14 economies relating to structural excess capacity and production in manufacturing are unreasonable and burden or restrict US commerce. The 14 economies are China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India. USTR published economy-specific reports supporting each determination, and said no determination has been made on Mexico or Norway at this time. The investigations were opened on March 11, 2026 and covered 16 economies.
 
 USTR proposed responsive tariffs for public comment in each case, in most cases net of existing Section 301 duties and with exemptions for certain goods. The headline proposals are up to 20 percent on goods of China not listed in the notice's annexes, and up to 10 percent on the listed Annex A goods; 15 percent on all goods of the European Union, Japan, Korea, Taiwan and Switzerland; up to 18 percent on Bangladesh, Cambodia, Indonesia, Malaysia and Thailand; up to 20 percent on Singapore, with a proposed adjustment to 10 percent if Singapore reaches a reciprocal trade agreement; up to 25 percent on India, with 17 percent if India reaches such an agreement; and up to 35 percent on Vietnam, with 20 percent under a reciprocal agreement. For China, USTR said the proposal accounts for the commitments and the 20 percent rate in the Kuala Lumpur Joint Arrangement reached by President Trump and President Xi on October 30, 2025. Written comments and hearing requests are due by January 5, 2027, and USTR will hold hearings on the proposed actions on January 25, 2027.
 
