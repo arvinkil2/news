@@ -1,7 +1,7 @@
 ---
 title: "USTR proposes excess-capacity tariffs on 14 trading partners"
 date: 2026-11-25T18:47:27-05:00
-last_updated: 2026-11-26T05:42:26-05:00
+last_updated: 2026-11-26T08:08:16-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific", "europe", "latin-america"]
 status: "story"
@@ -42,12 +42,22 @@ sources:
     publisher: "Singapore Ministry of Energy, Trade and Industry"
     url: "https://www.meti.gov.sg/newsroom/meti-media-statement-on-the-office-of-the-united-states-trade-representative--ustr--s-findings-and-proposed-actions-in-section-301-investigation-into-structural-excess-capacity/"
     published: "2026-11-26"
+  - title: "Japanese government, on 15% US tariff: 'Regret'; 'no structural overcapacity in Japan' (in Korean)"
+    publisher: "Yonhap News Agency"
+    url: "https://www.yna.co.kr/view/AKR20261126068251073"
+    published: "2026-11-26"
+  - title: "'35% tariff target' Vietnam: 'working to resolve US concerns and finish trade negotiations' (in Korean)"
+    publisher: "Yonhap News Agency"
+    url: "https://www.yna.co.kr/view/AKR20261126111551084"
+    published: "2026-11-26"
 tags: []
-data_as_of: "China update: Ministry of Commerce regular briefing of November 26, 2026, as reported by AFP via Clarín, read in full in Spanish via the browser route, and by China Daily Asia; the ministry's own transcript was not in the feed queue. USTR press release of November 25, 2026, read in full at ustr.gov; all rates and findings are from that release. India's response from the Press Information Bureau statement of November 25, 2026 (release 2341700), read in full in Hindi and translated. Reaction and market context from Reuters reporting of November 25, 2026, read in full via Kitco. Latest update adds Brazil's and the European Union's responses, from Reuters and AFP reporting of November 25 to 26, 2026, each read in full in this run. Singapore update: media statement of Singapore's Ministry of Energy, Trade and Industry dated November 26, 2026, read at meti.gov.sg; the statement's detailed figures as reported by Business Today on November 26, 2026, read in full in this run."
+data_as_of: "China update: Ministry of Commerce regular briefing of November 26, 2026, as reported by AFP via Clarín, read in full in Spanish via the browser route, and by China Daily Asia; the ministry's own transcript was not in the feed queue. USTR press release of November 25, 2026, read in full at ustr.gov; all rates and findings are from that release. India's response from the Press Information Bureau statement of November 25, 2026 (release 2341700), read in full in Hindi and translated. Reaction and market context from Reuters reporting of November 25, 2026, read in full via Kitco. Latest update adds Brazil's and the European Union's responses, from Reuters and AFP reporting of November 25 to 26, 2026, each read in full in this run. Singapore update: media statement of Singapore's Ministry of Energy, Trade and Industry dated November 26, 2026, read at meti.gov.sg; the statement's detailed figures as reported by Business Today on November 26, 2026, read in full in this run. Japan and Vietnam update: Yonhap News Agency reports of November 26, 2026, read in full in Korean via the browser route and translated; the statements are those of Japan's Chief Cabinet Secretary and Vietnam's Ministry of Industry and Trade as reported there."
 update_bump: true
 ---
 
 ## Latest
+
+Japan and Vietnam, two of the 14 targeted economies, responded on Thursday. Japan's Chief Cabinet Secretary Kihara Minoru told a press conference the proposal was regrettable and that Tokyo had conveyed its position to Washington, saying Japan has no non-market policies or practices and no structural excess production capacity, and that Japan and the United States have cooperated on third-country excess production while Japan faithfully implements its investment agreement. Japan's proposed rate is the 15 percent set by last year's agreement, though USTR warned it could rise to 20 percent if progress on Japanese investment in the United States is judged insufficient. Vietnam's Ministry of Industry and Trade, facing the highest proposed rate at up to 35 percent, said it was working to resolve US concerns and conclude the trade negotiations promptly, pledging enforcement against excess production, illegal transshipment and false origin labelling, and a ban on imports of goods made with forced labour; it said it would take part in the USTR process, submitting comments and appearing at hearings, in pursuit of the 20 percent rate available under a concluded agreement.
 
 China said on Thursday that it firmly opposes the determinations and reserves the right to take countermeasures. Commerce Ministry spokesman He Yadong told a regular briefing in Beijing that citing overcapacity as a reason to impose tariffs was a pretext for protectionism, and that the actions would not resolve the United States' own structural imbalances but would disrupt the security and stability of global industrial and supply chains, drive up global inflation and pose long-term systemic risks to world growth, AFP reported. He urged Washington to correct its practices and resolve issues through dialogue and consultation, and said China would closely monitor developments and firmly defend its legitimate rights and interests. No specific countermeasure was named. China's proposed rate is 20 percent, which USTR has said would rise to 40 percent if the trade truce expiring on January 10 unravels.
 
