@@ -1,7 +1,7 @@
 ---
 title: "Rail unions back Union Pacific merger as shippers press concerns"
 date: 2026-11-22T07:05:08-05:00
-last_updated: 2026-11-22T07:05:08-05:00
+last_updated: 2026-11-26T07:13:31-05:00
 beats: ["infra-deals"]
 regions: ["north-america"]
 status: "story"
@@ -14,6 +14,10 @@ sources:
     publisher: "FreightWaves"
     url: "https://www.freightwaves.com/news/union-pacific-norfolk-southern-merger-draws-labor-support-shipper-concerns"
     published: "2026-11-20"
+  - title: "J.B. Hunt urges STB to reject Union Pacific-Norfolk Southern merger"
+    publisher: "FreightWaves"
+    url: "https://www.freightwaves.com/news/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger"
+    published: "2026-11-24"
   - title: "Union Pacific says a merger would make shipping cheaper. Farmers, labor and shippers are skeptical"
     publisher: "Nebraska Public Media"
     url: "https://nebraskapublicmedia.org/en/news/news-articles/union-pacific-says-a-merger-would-make-shipping-cheaper-farmers-labor-and-shippers-are-skeptical/"
@@ -27,5 +31,7 @@ Union Pacific and Norfolk Southern have urged the Surface Transportation Board t
 The SMART Transportation Division, the National Conference of Firemen and Oilers, the International Brotherhood of Boilermakers and SMART's Mechanical Division filed joint comments urging approval. Each has secured a "Jobs for Life" agreement with the two railroads, giving covered workers career long employment commitments, including safeguards against involuntary furlough in their crafts and seniority districts, that take effect only if the merger is approved and completed. SMART-TD president Jeremy Ferguson said the unions went to the bargaining table and secured binding commitments to their members' futures.
 
 Opposition remains organized. The Stop The Rail Merger Coalition, spanning unions outside the deal, shippers, farmers and transport groups, argues that cutting the major railroads from six to five would raise costs and invite further consolidation. The Rail Customer Coalition has asked the board to scrutinize the deal closely for competition and service effects.
+
+Update, November 26: J.B. Hunt Transport, the largest intermodal customer of both BNSF and Norfolk Southern, filed comments on November 18 urging the board to reject the merger, FreightWaves reported on November 24. Hunt, which moved about 2.25 million intermodal loads in the preceding 12 months, argued the railroads overstate the projected 1.2 million annual loads converted from highway and the 3.5 billion dollars in annual shipper savings, with no guarantee efficiencies reach customers as lower rates. It estimated an added 1.2 million loads would need more than 60,000 additional 53-foot containers. If the board approves the deal anyway, Hunt seeks preserved gateways and interchanges, trackage rights into Harrisburg for BNSF or CSX, enforceable service standards with penalties, and at least ten years of STB oversight.
 
 The filings also forced Union Pacific to address chief executive Jim Vena's remarks at a March shippers conference, captured on video released by court order in late October, in which he joked about raising rates 3 or 4 percent for shippers who did not support the merger. Vena said he used humor to keep the audience engaged and regretted the inference; the company states it does not retaliate against customers and that a customer's position on the merger will not determine its rates. The combination would create the first single line coast to coast railroad in the United States.
