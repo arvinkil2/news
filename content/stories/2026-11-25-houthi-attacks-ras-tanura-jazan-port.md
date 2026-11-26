@@ -1,7 +1,7 @@
 ---
 title: "Jazan refinery struck, one worker killed, in fifth day of Saudi-Houthi exchange"
 date: 2026-11-25T12:05:29-05:00
-last_updated: 2026-11-26T15:43:19-05:00
+last_updated: 2026-11-26T16:22:41-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "story"
@@ -31,9 +31,15 @@ sources:
     publisher: "Reuters"
     url: "https://www.devdiscourse.com/article/international/4012829-saudi-arabia-says-operations-at-refinery-in-jazan-halted-after-attack"
     published: "2026-11-26"
+  - title: "Houthi attack on Saudi Arabia's Jazan refinery kills Nepali worker"
+    publisher: "Arab News"
+    url: "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153"
+    published: "2026-11-26"
 tags: []
-data_as_of: "OilPrice report of November 25, 2026 and Arab News report of November 25, 2026, both read in full via the estate browser after direct fetches failed, and Al Jazeera report of November 25, 2026, read in full via the estate browser after a direct fetch failed. The two sides' accounts of Ras Tanura conflict: the coalition reports interceptions and no refinery hit, the Houthis claim a direct strike and fires; neither claim is independently confirmed, and the smoke imagery cited is Reuters-reviewed satellite imagery as reported by OilPrice. The Jeddah, Riyadh missile and Hodeidah details in the latest update are coalition and Houthi claims as reported by Al Jazeera, not independently confirmed. Thursday update: DW report in Spanish of November 26, 2026, carrying AFP, EFE and Reuters copy, read in full via the estate browser after a direct fetch failed; the Thursday interceptions are Saudi armed forces claims, not independently confirmed. Thursday-evening update: Saudi Ministry of Energy statement of November 26, 2026, carried by the Saudi Press Agency and read via Reuters and Qatar News Agency carriage; the item first surfaced via Yonhap, in Korean, which was blocked to this reader, and every figure in the update was verified against the ministry statement as carried by Reuters and QNA. The ministry did not name the attacker; the attribution to the Houthis is the Saudi-led coalition's."
+data_as_of: "OilPrice report of November 25, 2026 and Arab News report of November 25, 2026, both read in full via the estate browser after direct fetches failed, and Al Jazeera report of November 25, 2026, read in full via the estate browser after a direct fetch failed. The two sides' accounts of Ras Tanura conflict: the coalition reports interceptions and no refinery hit, the Houthis claim a direct strike and fires; neither claim is independently confirmed, and the smoke imagery cited is Reuters-reviewed satellite imagery as reported by OilPrice. The Jeddah, Riyadh missile and Hodeidah details in the latest update are coalition and Houthi claims as reported by Al Jazeera, not independently confirmed. Thursday update: DW report in Spanish of November 26, 2026, carrying AFP, EFE and Reuters copy, read in full via the estate browser after a direct fetch failed; the Thursday interceptions are Saudi armed forces claims, not independently confirmed. Thursday-evening update: Saudi Ministry of Energy statement of November 26, 2026, carried by the Saudi Press Agency and read via Reuters and Qatar News Agency carriage; the item first surfaced via Yonhap, in Korean, which was blocked to this reader, and every figure in the update was verified against the ministry statement as carried by Reuters and QNA. The ministry did not name the attacker; the attribution to the Houthis is the Saudi-led coalition's. Thursday-afternoon update: Arab News report of November 26, 2026, read in full via the estate browser after a direct fetch was blocked; the destroyed launch platform and the warning to the Houthis are coalition claims, not independently confirmed."
 ---
+
+Latest: The Saudi-led coalition said it destroyed a ballistic missile launch platform in Yemen's Hodeidah port that it said was used in the attack on the Jazan refinery, Arab News reported. The coalition said it first announced the refinery attack on Thursday afternoon and warned the Houthis that targeting civilians and civilian infrastructure would be met with a firm military response. The claim was not independently confirmed.
 
 Latest: A hostile aerial projectile struck the Jazan refinery in southwestern Saudi Arabia on Thursday, killing a Nepalese worker and injuring several other workers of different nationalities, an official source at the Saudi Energy Ministry said in a statement carried by the Saudi Press Agency. The projectile started a fire that was later brought under control, and some operations at the refinery were temporarily halted while the damage was assessed. The ministry did not identify the attacker, did not quantify lost production and gave no restart time. The Saudi-led coalition said earlier on Thursday that the Houthis had attacked the refinery. The Jazan refinery can process about 400,000 barrels per day.
 
