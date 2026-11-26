@@ -2,14 +2,14 @@
 title: "South Africa"
 date: "2026-11-26"
 lede: "Benchmark index, country ETF, currency and sovereign yields for South Africa, refreshed every 15 minutes."
-data_as_of: "Nov 25, 8:54 PM ET"
+data_as_of: "Nov 25, 9:15 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 8:54 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 9:15 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>FTSE/JSE All Share (index)</td><td class="num">6,036 <span class="gm-sub-inline">as of 2026-11-24, stale</span></td><td class="num"><span class="down">-0.97%</span></td><td class="num"><span class="down">-7.33%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.2 4.8,11.8 9.6,12.6 14.4,11.6 19.2,16.0 24.0,11.9 28.8,12.4 33.6,5.3 38.4,6.7 43.2,2.0 48.0,3.6 52.8,6.0 57.6,8.4 62.4,10.8 67.2,12.3 72.0,13.4 76.8,21.5 81.6,23.7 86.4,26.0 91.2,22.9 96.0,24.3" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI South Africa (EZA)</td><td class="num">$58.37 <span class="gm-sub-inline">as of 2026-11-24, stale</span></td><td class="num"><span class="down">-1.17%</span></td><td class="num"><span class="down">-7.35%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,12.6 4.6,11.6 9.1,11.0 13.7,11.5 18.3,15.8 22.9,13.6 27.4,13.5 32.0,8.7 36.6,6.3 41.1,6.0 45.7,2.0 50.3,4.6 54.9,6.3 59.4,9.1 64.0,10.6 68.6,13.5 73.1,13.5 77.7,19.9 82.3,22.8 86.9,26.0 91.4,20.8 96.0,22.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
-<tr><td>USD/ZAR</td><td class="num">17.5370 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="down">-1.55%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.0 4.2,20.8 8.3,20.7 12.5,21.3 16.7,21.3 20.9,19.7 25.0,21.5 29.2,21.6 33.4,25.6 37.6,24.0 41.7,22.8 45.9,26.0 50.1,23.1 54.3,21.5 58.4,18.2 62.6,14.7 66.8,14.0 71.0,15.1 75.1,7.6 79.3,2.9 83.5,3.0 87.7,4.8 91.8,2.0 96.0,2.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
+<tr><td>USD/ZAR</td><td class="num">17.5364 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.02%</span></td><td class="num"><span class="down">-1.54%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,21.0 4.2,20.8 8.3,20.7 12.5,21.3 16.7,21.3 20.9,19.7 25.0,21.5 29.2,21.6 33.4,25.6 37.6,24.0 41.7,22.8 45.9,26.0 50.1,23.1 54.3,21.5 58.4,18.2 62.6,14.7 66.8,14.0 71.0,15.1 75.1,7.6 79.3,2.9 83.5,3.0 87.7,4.8 91.8,2.0 96.0,2.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
