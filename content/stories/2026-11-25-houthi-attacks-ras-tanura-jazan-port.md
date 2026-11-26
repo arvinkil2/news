@@ -1,12 +1,13 @@
 ---
 title: "Houthi attacks target Ras Tanura refinery and Jazan port"
 date: 2026-11-25T12:05:29-05:00
-last_updated: 2026-11-25T12:19:16-05:00
+last_updated: 2026-11-25T19:24:23-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "story"
-lede: "Saudi air defences destroyed four drones over the Ras Tanura refinery on Wednesday and a Houthi projectile struck Jazan port, as Brent crude rose 2.41 percent to $93.60 a barrel."
-why_it_matters: "Ras Tanura is Saudi Arabia's largest refinery and a core crude export terminal, so a third day of Houthi attacks on Saudi energy and financial sites is adding a geopolitical premium to oil ahead of Sunday's OPEC+ meeting."
+lede: "Saudi air defences later on Wednesday intercepted a drone targeting Jeddah port and destroyed ballistic missiles launched toward Riyadh, on top of morning attacks on the Ras Tanura refinery and Jazan port, as Brent crude rose 2.41 percent to $93.60 a barrel."
+why_it_matters: "The attacks now span Saudi Arabia's largest refinery, two Red Sea ports and the capital on a third day of escalation, adding a geopolitical premium to oil ahead of Sunday's OPEC+ meeting."
+update_bump: true
 featured: true
 evidence_grade: "B"
 sources:
@@ -18,9 +19,15 @@ sources:
     publisher: "Arab News"
     url: "https://www.arabnews.com/saudi-arabia/houthi-projectile-hits-saudi-arabias-jazan-port-coalition-says-3014031"
     published: "2026-11-25"
+  - title: "Houthis target Saudi Arabia's Red Sea ports as strikes escalate"
+    publisher: "Al Jazeera"
+    url: "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+    published: "2026-11-25"
 tags: []
-data_as_of: "OilPrice report of November 25, 2026 and Arab News report of November 25, 2026, both read in full via the estate browser after direct fetches failed. The two sides' accounts of Ras Tanura conflict: the coalition reports interceptions and no refinery hit, the Houthis claim a direct strike and fires; neither claim is independently confirmed, and the smoke imagery cited is Reuters-reviewed satellite imagery as reported by OilPrice."
+data_as_of: "OilPrice report of November 25, 2026 and Arab News report of November 25, 2026, both read in full via the estate browser after direct fetches failed, and Al Jazeera report of November 25, 2026, read in full via the estate browser after a direct fetch failed. The two sides' accounts of Ras Tanura conflict: the coalition reports interceptions and no refinery hit, the Houthis claim a direct strike and fires; neither claim is independently confirmed, and the smoke imagery cited is Reuters-reviewed satellite imagery as reported by OilPrice. The Jeddah, Riyadh missile and Hodeidah details in the latest update are coalition and Houthi claims as reported by Al Jazeera, not independently confirmed."
 ---
+
+Latest: coalition spokesman Turki al-Maliki said coalition forces intercepted a drone targeting the port of Jeddah on Wednesday, with no civilian injuries from falling debris, and that Saudi air defences intercepted and destroyed ballistic missiles launched by the Houthis toward Riyadh, Al Jazeera reported. An explosion was heard in Sanaa after the coalition statement. Houthi-affiliated Al Masirah TV reported new Saudi strikes on Hodeidah port, and Houthi official Mohammed Ali al-Houthi said some of the recent attacks there had targeted storage tanks and cranes. Al Jazeera also reported government forces battling the Houthis on several fronts around Taiz with coalition air support.
 
 Saudi air defences destroyed four drones over Ras Tanura on Wednesday morning, coalition spokesman Turki Al-Maliki said, with fragments from the interceptions falling and no injuries in an initial assessment. The coalition did not say the refinery had been hit. Houthi military spokesman Yahya Saree said the strike was accurate and direct and had caused fires at the site. NASA satellite imagery reviewed by Reuters showed thick black smoke around the refinery. Saudi Aramco and the Saudi government did not respond to Reuters requests for comment.
 
