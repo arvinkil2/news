@@ -1,6 +1,6 @@
 {
  "as_of": "2026-11-25",
- "history_sha256": "5914220f626bf400ed8ff0382513535b8dd1766efcee6af86a56a42f0fcaa52b",
+ "history_sha256": "a9522efce5b9fbb557a63d887613ca0b704b8aa95cf57d79bbe799d148df164f",
  "issuers": {
   "alphabet": {
    "bridged_tenors": "",
@@ -2846,9 +2846,9 @@
      "tenors": {
       "1": 10.77,
       "10": 138.32,
-      "2": 35.15,
-      "3": 58.6,
-      "5": 88.24,
+      "2": 35.14,
+      "3": 58.61,
+      "5": 88.27,
       "7": 88.02
      }
     }
@@ -2857,7 +2857,7 @@
    "n_bonds": 33,
    "n_prints": 737,
    "prev_date": "2026-11-24",
-   "rmse_pts": 1.0727,
+   "rmse_pts": 1.0726,
    "tenors": [
     {
      "change_bp": 10.76,
@@ -2865,18 +2865,18 @@
      "tenor_years": 1
     },
     {
-     "change_bp": 6.6,
-     "par_cds_bp": 35.15,
+     "change_bp": 6.59,
+     "par_cds_bp": 35.14,
      "tenor_years": 2
     },
     {
-     "change_bp": 1.59,
-     "par_cds_bp": 58.6,
+     "change_bp": 1.6,
+     "par_cds_bp": 58.61,
      "tenor_years": 3
     },
     {
-     "change_bp": -0.54,
-     "par_cds_bp": 88.24,
+     "change_bp": -0.51,
+     "par_cds_bp": 88.27,
      "tenor_years": 5
     },
     {
@@ -75981,11 +75981,11 @@
      "date": "2026-11-25",
      "gate_status": "published_volatile",
      "tenors": {
-      "1": 192.07,
+      "1": 192.02,
       "10": 469.46,
-      "2": 268.12,
-      "3": 326.31,
-      "5": 380.51,
+      "2": 268.15,
+      "3": 326.42,
+      "5": 380.55,
       "7": 385.86
      }
     }
@@ -75994,26 +75994,26 @@
    "n_bonds": 54,
    "n_prints": 1482,
    "prev_date": "2026-11-24",
-   "rmse_pts": 1.9239,
+   "rmse_pts": 1.924,
    "tenors": [
     {
-     "change_bp": 4.59,
-     "par_cds_bp": 192.07,
+     "change_bp": 4.54,
+     "par_cds_bp": 192.02,
      "tenor_years": 1
     },
     {
-     "change_bp": 12.9,
-     "par_cds_bp": 268.12,
+     "change_bp": 12.93,
+     "par_cds_bp": 268.15,
      "tenor_years": 2
     },
     {
-     "change_bp": 15.89,
-     "par_cds_bp": 326.31,
+     "change_bp": 16.0,
+     "par_cds_bp": 326.42,
      "tenor_years": 3
     },
     {
-     "change_bp": 13.43,
-     "par_cds_bp": 380.51,
+     "change_bp": 13.47,
+     "par_cds_bp": 380.55,
      "tenor_years": 5
     },
     {
