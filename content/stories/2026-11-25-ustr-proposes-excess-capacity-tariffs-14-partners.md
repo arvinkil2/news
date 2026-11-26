@@ -1,12 +1,12 @@
 ---
 title: "USTR proposes excess-capacity tariffs on 14 trading partners"
 date: 2026-11-25T18:47:27-05:00
-last_updated: 2026-11-25T23:21:00-05:00
+last_updated: 2026-11-26T05:42:26-05:00
 beats: ["politics"]
 regions: ["north-america", "asia-pacific", "europe", "latin-america"]
 status: "story"
 lede: "The US Trade Representative on Wednesday found the industrial policies of 14 economies unreasonable under Section 301 and proposed new tariffs on all of them, with headline rates of up to 40 percent for China and 35 percent for Vietnam, capped at lower levels where trade deals already set limits."
-why_it_matters: "The determinations convert the excess-capacity probe that has hung over markets since March into concrete proposed duties on 60 percent of US goods imports, and the January hearing timetable means the rates, not the principle, are now the open question."
+why_it_matters: "The determinations convert the excess-capacity probe that has hung over markets since March into concrete proposed duties on 60 percent of US goods imports; China, the largest target, said on Thursday it reserves the right to take countermeasures, and the January hearing timetable means the rates, not the principle, are now the open question."
 featured: true
 evidence_grade: "A"
 sources:
@@ -30,16 +30,26 @@ sources:
     publisher: "AFP via HK Business Wire"
     url: "https://hkbusinesswire.com/brazil-eu-slam-proposed-us-tariffs/"
     published: "2026-11-26"
+  - title: "China se reserva el derecho a tomar 'medidas' tras los nuevos aranceles de EEUU"
+    publisher: "AFP via Clarín"
+    url: "https://www.clarin.com/estados-unidos/china-se-reserva-el-derecho-a-tomar-medidas-tras-los-nuevos-aranceles-de-eeuu_0_KPjtyWUvva.html"
+    published: "2026-11-26"
+  - title: "China firmly opposes proposed US Section 301 tariffs"
+    publisher: "China Daily Asia"
+    url: "https://www.chinadailyasia.com/hk/article/643293"
+    published: "2026-11-26"
   - title: "METI Media Statement on the Office of the United States Trade Representative (USTR)'s findings and proposed actions in Section 301 investigation into structural excess capacity"
     publisher: "Singapore Ministry of Energy, Trade and Industry"
     url: "https://www.meti.gov.sg/newsroom/meti-media-statement-on-the-office-of-the-united-states-trade-representative--ustr--s-findings-and-proposed-actions-in-section-301-investigation-into-structural-excess-capacity/"
     published: "2026-11-26"
 tags: []
-data_as_of: "USTR press release of November 25, 2026, read in full at ustr.gov; all rates and findings are from that release. India's response from the Press Information Bureau statement of November 25, 2026 (release 2341700), read in full in Hindi and translated. Reaction and market context from Reuters reporting of November 25, 2026, read in full via Kitco. Latest update adds Brazil's and the European Union's responses, from Reuters and AFP reporting of November 25 to 26, 2026, each read in full in this run. Singapore update: media statement of Singapore's Ministry of Energy, Trade and Industry dated November 26, 2026, read at meti.gov.sg; the statement's detailed figures as reported by Business Today on November 26, 2026, read in full in this run."
+data_as_of: "China update: Ministry of Commerce regular briefing of November 26, 2026, as reported by AFP via Clarín, read in full in Spanish via the browser route, and by China Daily Asia; the ministry's own transcript was not in the feed queue. USTR press release of November 25, 2026, read in full at ustr.gov; all rates and findings are from that release. India's response from the Press Information Bureau statement of November 25, 2026 (release 2341700), read in full in Hindi and translated. Reaction and market context from Reuters reporting of November 25, 2026, read in full via Kitco. Latest update adds Brazil's and the European Union's responses, from Reuters and AFP reporting of November 25 to 26, 2026, each read in full in this run. Singapore update: media statement of Singapore's Ministry of Energy, Trade and Industry dated November 26, 2026, read at meti.gov.sg; the statement's detailed figures as reported by Business Today on November 26, 2026, read in full in this run."
 update_bump: true
 ---
 
 ## Latest
+
+China said on Thursday that it firmly opposes the determinations and reserves the right to take countermeasures. Commerce Ministry spokesman He Yadong told a regular briefing in Beijing that citing overcapacity as a reason to impose tariffs was a pretext for protectionism, and that the actions would not resolve the United States' own structural imbalances but would disrupt the security and stability of global industrial and supply chains, drive up global inflation and pose long-term systemic risks to world growth, AFP reported. He urged Washington to correct its practices and resolve issues through dialogue and consultation, and said China would closely monitor developments and firmly defend its legitimate rights and interests. No specific countermeasure was named. China's proposed rate is 20 percent, which USTR has said would rise to 40 percent if the trade truce expiring on January 10 unravels.
 
 Singapore rejected the findings on Thursday. Its Ministry of Energy, Trade and Industry said it was very disappointed by the proposed actions and strongly disagreed with USTR's findings, saying Singapore's economic policies neither protect domestic industries nor subsidise manufacturing for exports, and that the investigation failed to recognise the structure of its open, trade-dependent economy. The ministry noted that under the US-Singapore Free Trade Agreement Singapore imposes no tariffs on US exports, and that the United States has recorded an overall trade surplus with Singapore for more than 20 years, put at US$27 billion in 2024 and US$33 billion in 2025. Singapore said it had engaged USTR extensively through the investigation and would submit further comments in the public consultation to contest the findings and the proposed rate of up to 20 percent, which would fall to 10 percent under a reciprocal trade agreement.
 
