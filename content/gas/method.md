@@ -2,7 +2,7 @@
 title: "EU Gas: Method and Data Notes"
 date: "2026-11-23"
 lede: "How the EU Gas figures are computed, where the data comes from, and what is missing."
-data_as_of: "Gas day 2026-11-23. Storage: GIE AGSI+. Flows: ENTSOG Transparency Platform, to 2026-11-25. Weather: national meteorological services, banked."
+data_as_of: "Gas day 2026-11-23. Storage: GIE AGSI+. Flows: ENTSOG Transparency Platform, to 2026-11-26. Weather: national meteorological services, banked."
 ---
 
 <h2>Sources</h2>
