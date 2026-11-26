@@ -2,10 +2,10 @@
 title: "China"
 date: "2026-11-26"
 lede: "Benchmark index, country ETF, currency and sovereign yields for China, refreshed every 15 minutes."
-data_as_of: "Nov 26, 5:04 AM ET"
+data_as_of: "Nov 26, 5:11 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 26, 5:04 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 26, 5:11 AM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Shanghai Composite (index)</td><td class="num">3,477 <span class="gm-sub-inline">as of 2026-11-26</span></td><td class="num"><span class="up">+0.01%</span></td><td class="num"><span class="down">-2.82%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.2,7.3 8.3,3.7 12.5,7.0 16.7,12.7 20.9,8.5 25.0,11.7 29.2,3.2 33.4,2.8 37.6,7.2 41.7,6.0 45.9,5.7 50.1,3.8 54.3,6.5 58.4,8.9 62.6,12.3 66.8,14.3 71.0,13.9 75.1,15.0 79.3,19.8 83.5,19.2 87.7,18.2 91.8,26.0 96.0,26.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI China (MCHI)</td><td class="num">$46.4300 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="down">-0.39%</span></td><td class="num"><span class="down">-2.85%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,13.6 4.4,13.8 8.7,14.0 13.1,14.3 17.5,13.8 21.8,11.8 26.2,12.5 30.5,3.9 34.9,2.0 39.3,2.6 43.6,4.1 48.0,5.7 52.4,7.4 56.7,11.1 61.1,11.8 65.5,13.9 69.8,16.5 74.2,18.9 78.5,22.0 82.9,26.0 87.3,21.9 91.6,23.6 96.0,24.4" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
