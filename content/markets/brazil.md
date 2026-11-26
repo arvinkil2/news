@@ -2,21 +2,15 @@
 title: "Brazil"
 date: "2026-11-26"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Brazil, refreshed every 15 minutes."
-data_as_of: "Nov 25, 10:50 PM ET"
+data_as_of: "Nov 25, 11:05 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 25, 10:50 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 25, 11:05 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Ibovespa (index)</td><td class="num">166,685 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+1.58%</span></td><td class="num"><span class="down">-1.84%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,3.7 9.6,12.7 14.4,16.2 19.2,18.7 24.0,23.2 28.8,19.3 33.6,22.0 38.4,17.5 43.2,10.4 48.0,12.1 52.8,10.7 57.6,12.1 62.4,10.0 67.2,16.0 72.0,15.0 76.8,19.4 81.6,21.6 86.4,24.6 91.2,26.0 96.0,21.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Brazil (EWZ)</td><td class="num">$30.1600 <span class="gm-sub-inline">as of 2026-11-25</span></td><td class="num"><span class="up">+2.94%</span></td><td class="num"><span class="up">+0.30%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.6 4.4,2.0 8.7,4.8 13.1,6.8 17.5,9.7 21.8,10.9 26.2,12.7 30.5,10.5 34.9,12.6 39.3,11.7 43.6,9.0 48.0,11.0 52.4,9.8 56.7,12.5 61.1,10.7 65.5,16.1 69.8,15.7 74.2,19.6 78.5,22.0 82.9,26.0 87.3,23.1 91.6,22.8 96.0,19.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>USD/BRL</td><td class="num">5.8825 <span class="gm-sub-inline">as of 2026-11-25 (Banco Central do Brasil)</span></td><td class="num"><span class="down">-0.43%</span></td><td class="num"><span class="down">-1.68%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.5 6.4,25.3 12.8,26.0 19.2,24.2 25.6,23.5 32.0,20.2 38.4,21.4 44.8,18.8 51.2,17.1 57.6,13.2 64.0,10.8 70.4,9.6 76.8,5.9 83.2,2.0 89.6,7.4 96.0,6.2" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
 </tbody></table>
-<h2>Sovereign yields</h2>
-<table class="market-table"><thead><tr><th>Tenor</th><th>Yield</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
-<tr><td>2Y benchmark yield</td><td class="num">15.07 <span class="unit">%</span></td><td class="num"><span class="up">+11.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+40.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,24.1 3.3,24.3 6.6,26.0 9.9,25.1 13.2,24.1 16.6,23.2 19.9,22.1 23.2,22.7 26.5,22.9 29.8,23.5 33.1,22.4 36.4,22.4 39.7,2.0 43.0,6.1 46.3,6.2 49.7,6.3 53.0,5.6 56.3,3.1 59.6,3.5 62.9,4.9 66.2,6.3 69.5,6.8 72.8,7.7 76.1,7.2 79.4,7.3 82.8,5.7 86.1,6.4 89.4,4.6 92.7,5.0 96.0,4.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-<tr><td>10Y benchmark yield</td><td class="num">15.48 <span class="unit">%</span></td><td class="num"><span class="up">+14.0</span> <span class="unit">bp</span></td><td class="num"><span class="up">+27.0</span> <span class="unit">bp</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,22.8 3.3,22.7 6.6,25.4 9.9,26.0 13.2,24.3 16.6,23.0 19.9,22.4 23.2,22.6 26.5,22.5 29.8,23.4 33.1,22.2 36.4,22.8 39.7,2.6 43.0,6.6 46.3,7.0 49.7,6.0 53.0,4.2 56.3,2.0 59.6,2.6 62.9,4.3 66.2,5.3 69.5,6.0 72.8,5.9 76.1,5.6 79.4,5.3 82.8,3.6 86.1,4.3 89.4,3.7 92.7,4.2 96.0,3.1" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
-</tbody></table>
-<p class="gm-method">10Y benchmark yield as of 2026-11-19 (Tesouro Nacional), the publisher's latest daily observation.</p>
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-25</span> <a href="/stories/2026-11-25-vale-partially-restarts-viga-iron-ore/">Vale partially restarts Viga iron ore mine in Brazil</a></p>
