@@ -1,6 +1,6 @@
 ---
 title: "Indonesia"
-date: "2026-11-26"
+date: "2026-11-27"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Indonesia, refreshed every 15 minutes."
 data_as_of: "Nov 26, 6:47 PM ET"
 ---
