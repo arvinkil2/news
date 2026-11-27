@@ -1,7 +1,7 @@
 ---
 title: "Two Italian technicians killed in Iranian drone attack on Kuwait"
 date: 2026-11-26T08:41:36-05:00
-last_updated: 2026-11-26T17:45:51-05:00
+last_updated: 2026-11-26T19:24:12-05:00
 beats: ["politics"]
 regions: ["middle-east", "europe"]
 status: "developing"
@@ -27,16 +27,22 @@ sources:
     publisher: "Arab News"
     url: "https://www.arabnews.com/saudi-arabia/kingdom-leads-arab-condemnation-of-deadly-drone-attack-on-kuwait-3014178"
     published: "2026-11-26"
+  - title: "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention"
+    publisher: "Fox News"
+    url: "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention"
+    published: "2026-11-26"
   - title: "Irán niega haber atacado una instalación vital en Kuwait"
     publisher: "Prensa Latina"
     url: "https://www.prensa-latina.cu/2026/11/26/iran-niega-haber-atacado-una-instalacion-vital-en-kuwait/"
     published: "2026-11-26"
 tags: []
-data_as_of: "Reuters report of November 26, 2026, read in full via a US syndication copy. Italy's ANSA agency reported the two men were among the four people Kuwait said were injured earlier in the day, and Foreign Minister Antonio Tajani said the drones struck Kuwaiti military sites including an air defence radar station where the two Rheinmetall Italia technicians were working. Updated November 26 with Iran's denial, reported by Prensa Latina (in Spanish, citing Iranian state television) and Arab News, both read in full, and with the Arab condemnation reported by Arab News. Kuwait and Iran are parties to the confrontation; each side's claims are attributed to it and neither is treated as established beyond the deaths and injuries Kuwait and Italy have confirmed."
+data_as_of: "Updated November 26 with Fox News reporting, read in full, of Iranian false-flag claims about the attack; those claims come from Iranian officials and affiliated outlets, are uncorroborated, and are reported as Iran's account only. Reuters report of November 26, 2026, read in full via a US syndication copy. Italy's ANSA agency reported the two men were among the four people Kuwait said were injured earlier in the day, and Foreign Minister Antonio Tajani said the drones struck Kuwaiti military sites including an air defence radar station where the two Rheinmetall Italia technicians were working. Updated November 26 with Iran's denial, reported by Prensa Latina (in Spanish, citing Iranian state television) and Arab News, both read in full, and with the Arab condemnation reported by Arab News. Kuwait and Iran are parties to the confrontation; each side's claims are attributed to it and neither is treated as established beyond the deaths and injuries Kuwait and Italy have confirmed."
 update_bump: true
 ---
 
 ## Latest
+
+Iranian figures have gone further than denial, claiming the attack was a false-flag operation by Ukraine. Mohammad Marandi, a former adviser to Iran's nuclear negotiating team, said on X that the attack was likely carried out by Ukraine to demonstrate its value to President Donald Trump, and the IRGC-affiliated Fars News Agency cited a security source claiming Ukrainian operatives had deployed drones across the Middle East. Iran's embassy in Rome warned against false-flag operations aimed at drawing Europe into the Gulf conflict. Foreign Minister Abbas Araghchi told his Italian and Kuwaiti counterparts the incident looked suspicious and offered Iranian cooperation in an investigation. These claims are uncorroborated; Ukraine has publicly deployed drone specialists to Gulf states to help defend against Iranian attacks, and no evidence linking Ukraine to this strike has been presented.
 
 Iran has denied carrying out the attack. Abolfazl Shekarchi, spokesperson for Iran's General Staff, rejected the accusations categorically, saying Iranian armed forces conducted no military operation in the region, according to Prensa Latina citing Iranian state television. He said the accusations were meant to cover up attempts to generate regional insecurity.
 
