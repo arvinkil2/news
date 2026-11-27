@@ -1,7 +1,7 @@
 ---
 title: "Norse Atlantic operating unit files for bankruptcy"
 date: 2026-11-25T05:02:51-05:00
-last_updated: 2026-11-27T12:11:06-05:00
+last_updated: 2026-11-27T12:48:35-05:00
 beats: ["infra-deals"]
 regions: ["europe"]
 status: "developing"
@@ -11,6 +11,10 @@ why_it_matters: "The filing ends the rescue effort that began with Wednesday's c
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Norse Atlantic ASA: Norse Atlantic Airways AS files for bankruptcy"
+    publisher: "Euronext Oslo Børs NewsWeb"
+    url: "https://newsweb.oslobors.no/message/687671"
+    published: "2026-11-27"
   - title: "Budget carrier Norse Atlantic falls 74% after warning its finances are 'critical' amid soaring fuel costs"
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html"
@@ -36,11 +40,13 @@ sources:
     url: "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728"
     published: "2026-11-27"
 tags: []
-data_as_of: "Friday midday update: The Guardian report of November 27, 2026, read in full via the browser route, reporting the company's website notice to passengers and the closure of its customer service channels; no court, case number, debt or cash figure was given. Friday update: Deutsche Welle report of November 27, 2026, read in full via the browser route, reporting the company's bankruptcy announcement, the lessors' termination of all 12 aircraft leases earlier on Friday, and chief executive Eivind Roald's statement; the report gave no passenger refund or rebooking arrangements. Thursday update: The Guardian report of November 26, 2026, read in full via the browser route, quoting the company's statement to the Oslo stock exchange; the statement named no amount of financing sought and no deadline beyond 'urgently', and gave no refund or rebooking arrangements for passengers. CNBC reports of November 25, 2026, read in full via the browser route, reporting the company's own warning and the flight cancellations; the reports gave no cash or liquidity figure and no specific fuel-cost figure. Developing item. BBC update: BBC News report of November 26, 2026, read in full via the browser route; the 94.6 million dollar first-half loss and the absence of fuel hedging are as reported there."
+data_as_of: "Primary source added: Norse Atlantic ASA stock exchange announcement on Euronext Oslo Børs NewsWeb, November 27, 2026, read in full via the browser route; it names the Agder District Court and the appointment of a bankruptcy trustee, and gives no debt or cash figure. Friday midday update: The Guardian report of November 27, 2026, read in full via the browser route, reporting the company's website notice to passengers and the closure of its customer service channels; no court, case number, debt or cash figure was given. Friday update: Deutsche Welle report of November 27, 2026, read in full via the browser route, reporting the company's bankruptcy announcement, the lessors' termination of all 12 aircraft leases earlier on Friday, and chief executive Eivind Roald's statement; the report gave no passenger refund or rebooking arrangements. Thursday update: The Guardian report of November 26, 2026, read in full via the browser route, quoting the company's statement to the Oslo stock exchange; the statement named no amount of financing sought and no deadline beyond 'urgently', and gave no refund or rebooking arrangements for passengers. CNBC reports of November 25, 2026, read in full via the browser route, reporting the company's own warning and the flight cancellations; the reports gave no cash or liquidity figure and no specific fuel-cost figure. Developing item. BBC update: BBC News report of November 26, 2026, read in full via the browser route; the 94.6 million dollar first-half loss and the absence of fuel hedging are as reported there."
 update_bump: true
 ---
 
-Latest: Norse has told passengers not to come to airports, including passengers stranded away from home, The Guardian reported on Friday. The airline said customer service for both its airlines is no longer available by phone, email, chat or social media, and advised passengers to contact their travel agents, flight bookers, insurers or credit card companies; no rebooking or refund service from the airline itself was offered.
+Latest: The filing was made with the Agder District Court, according to Norse Atlantic ASA's stock exchange announcement, and the court will appoint a bankruptcy trustee. The board said it found no basis for continuing operations after the company failed to secure enough funding to cover its short-term cash needs; the announcement gives no debt or cash figure.
+
+Norse has told passengers not to come to airports, including passengers stranded away from home, The Guardian reported on Friday. The airline said customer service for both its airlines is no longer available by phone, email, chat or social media, and advised passengers to contact their travel agents, flight bookers, insurers or credit card companies; no rebooking or refund service from the airline itself was offered.
 
 Norse Atlantic Airways AS, the group's operating unit, filed for bankruptcy on Friday, Deutsche Welle reported. Earlier on Friday the unit's lessors terminated the leasing contracts for all 12 aircraft in the fleet and demanded the planes be handed back, a step the company initially said it planned to contest. Chief executive Eivind Roald said the board had made the difficult decision to file despite extensive efforts to find a solution, and that the listed parent, Norse Atlantic ASA, and the UK subsidiary, neither of which is part of the filing, are working to find a way for the remaining part of the business to continue operations. The carrier, founded in 2021 and based in Arendal, served 14 destinations and recorded a net loss of 61.9 million dollars in 2025. No refund or rebooking arrangements for passengers were announced.
 
