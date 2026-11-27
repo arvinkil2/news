@@ -1,7 +1,7 @@
 ---
 title: "EU leaders end budget summit with no deal, defer to December"
 date: 2026-11-26T13:44:50-05:00
-last_updated: 2026-11-27T00:50:31-05:00
+last_updated: 2026-11-27T15:04:02-05:00
 beats: ["politics"]
 regions: ["europe"]
 status: "developing"
@@ -23,6 +23,10 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
     published: "2026-11-26"
+  - title: "Divisions deepen between EU member states after tense budget summit"
+    publisher: "Deutsche Welle"
+    url: "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599"
+    published: "2026-11-27"
   - title: "EU leaders seek agreement on long-term budget and Ukraine at summit"
     publisher: "Deutsche Welle"
     url: "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415"
@@ -32,7 +36,9 @@ data_as_of: "Al Jazeera report of November 26, 2026 and Deutsche Welle summit li
 update_bump: true
 ---
 
-Latest: Commission President Ursula von der Leyen, in her own statement after the meeting, said progress had been made on new own resources and that a digital services tax gathers broad support, while warning that the previous two negotiating boxes had already brought substantial cuts to the proposed budget. She named the Ukraine proposal the Instrument for Coordinated Support to Ukraine, providing 45 billion euros in 2027, said it had wide support, and said finalising it was now in the Council's hands. Council President Antonio Costa, in his own remarks after the meeting, confirmed there was no agreement on the 2028 to 2034 budget: some member states asked for further reductions in its overall volume, most opposed further cuts, and a large majority asked that agriculture and cohesion funding not be compressed, with work on new own resources to continue. On Ukraine, Costa said 24 member states supported the Commission's proposal for an additional loan, with Bulgaria taking part only in the non-military component, and that leaders would return to the question in December. The summit formally ended late on Thursday night after a final plenary session, with both the budget and the proposed 45 billion euro loan for Ukraine in 2027 deferred to the European Council that opens on December 17.
+Latest: Deutsche Welle's account of the summit's closing hours, published November 27 and read in full, adds that the prime ministers of Denmark, Sweden, Belgium and Austria walked out of smaller group meetings during the talks, saying the atmosphere had not been constructive, and that Costa told leaders on Thursday he plans to cut a further 220 billion to 230 billion euros in the next budget proposal. DW names the two camps the "Sensible Seven" net contributors backing Berlin's reduction push (Germany, the Netherlands, Denmark, Belgium, Sweden, Finland and Austria) and 17 states led by France and Italy insisting the budget grow, and puts the proposed EU-wide digital tax at an estimated 5 billion euros a year, with Ireland's Micheal Martin warning it sends the wrong messages and retaining a veto.
+
+Earlier update: Commission President Ursula von der Leyen, in her own statement after the meeting, said progress had been made on new own resources and that a digital services tax gathers broad support, while warning that the previous two negotiating boxes had already brought substantial cuts to the proposed budget. She named the Ukraine proposal the Instrument for Coordinated Support to Ukraine, providing 45 billion euros in 2027, said it had wide support, and said finalising it was now in the Council's hands. Council President Antonio Costa, in his own remarks after the meeting, confirmed there was no agreement on the 2028 to 2034 budget: some member states asked for further reductions in its overall volume, most opposed further cuts, and a large majority asked that agriculture and cohesion funding not be compressed, with work on new own resources to continue. On Ukraine, Costa said 24 member states supported the Commission's proposal for an additional loan, with Bulgaria taking part only in the non-military component, and that leaders would return to the question in December. The summit formally ended late on Thursday night after a final plenary session, with both the budget and the proposed 45 billion euro loan for Ukraine in 2027 deferred to the European Council that opens on December 17.
 
 Earlier: Leaders dropped the planned Friday session and reconvened late on Thursday evening instead, with a further round possible around midnight, after Dutch Prime Minister Rob Jetten said they had made less progress than hoped and that Council President Antonio Costa would need to improvise a new budget proposal. Chancellor Friedrich Merz said the day had brought new movement toward reducing the size of the proposed budget, and that leaders would try to reach agreement at a two-day summit starting December 17. No budget or Ukraine financing agreement had been reached by Thursday evening.
 
