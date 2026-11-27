@@ -1,8 +1,8 @@
 ---
 title: "Galaxy Helios"
-date: "2026-11-17"
+date: "2026-11-27"
 lede: ""
-data_as_of: "2026-10-27"
+data_as_of: "2026-11-27"
 ---
 
 
@@ -46,6 +46,7 @@ data_as_of: "2026-10-27"
 <colgroup><col style="width:104px"><col style="width:660px"><col style="width:190px"></colgroup>
 <thead><tr><th>Date</th><th>Development</th><th>Source</th></tr></thead>
 <tbody>
+<tr><td data-v="2026-11-27">27 Nov 2026</td><td data-v=""><span class="bond-name">Galaxy files Helios 5, the first Phase III building</span><span class="bond-sub">Galaxy Helios II LLC filed with the Texas Department of Licensing and Regulation for Helios 5, a one-story, 349,595 square foot data center at the Helios campus in Dickens County, with a stated project cost of 1.3 billion dollars and construction scheduled to run to June 2028. The filing opens Phase III of the campus build-out behind CoreWeave's 526 MW commitment.</span></td><td data-v=""><a href="/stories/2026-11-27-galaxy-files-helios-5-phase-three/">Kilambi Research coverage</a><span class="cell-sub">Grade C</span></td></tr>
 <tr><td data-v="2026-10-27">27 Oct 2026</td><td data-v=""><span class="bond-name">Q3 2026: first full quarter of Phase I revenue</span><span class="bond-sub">Galaxy reports net income of $323 million, Data Centers adjusted gross profit of $79 million and adjusted EBITDA of $69 million, with Phase II fully financed, under construction, on schedule and within budget, and tenant discussions under way for the unleased 830 MW.</span></td><td data-v=""><a href="https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm">Galaxy Digital Form 8-K (0001859392-26-000108)</a><span class="cell-sub">Grade A</span></td></tr>
 <tr><td data-v="2026-07-23">23 Jul 2026</td><td data-v=""><span class="bond-name">Phase II notes priced at $3.507 billion</span><span class="bond-sub">Galaxy Helios Data Centers II LLC prices $3.507 billion of 9.875 percent senior secured notes due 2031 to finance part of Phase II; the offering closes on July 28, 2026.</span></td><td data-v=""><a href="https://www.prnewswire.com/news-releases/galaxy-digital-inc-announces-pricing-of-3-507-billion-of-senior-secured-notes-302833899.html">Galaxy Digital pricing release</a><span class="cell-sub">Grade B</span></td></tr>
 <tr><td data-v="2026-07-06">06 Jul 2026</td><td data-v=""><span class="bond-name">Phase I completed and delivered to CoreWeave</span><span class="bond-sub">Galaxy completes Phase I and delivers all 133 MW of critical IT load to CoreWeave; rent commenced in the second quarter of 2026.</span></td><td data-v=""><a href="https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus">Galaxy Digital release</a><span class="cell-sub">Grade B</span></td></tr>
