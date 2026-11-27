@@ -1,7 +1,7 @@
 ---
 title: "Altria confirms it may bid for Imperial Brands in cash"
 date: 2026-11-26T09:02:50-05:00
-last_updated: 2026-11-26T09:02:50-05:00
+last_updated: 2026-11-26T23:29:43-05:00
 beats: ["infra-deals"]
 regions: ["europe", "north-america", "asia-pacific"]
 status: "story"
@@ -22,10 +22,18 @@ sources:
     publisher: "Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands"
     published: "2026-11-26"
+  - title: "Japan Tobacco shares surge on report of Imperial Brands takeover"
+    publisher: "Investing.com, via Yahoo Finance"
+    url: "https://finance.yahoo.com/markets/stocks/articles/japan-tobacco-shares-surge-report-025249524.html"
+    published: "2026-11-26"
 tags: []
 data_as_of: "Altria's announcement of November 26, 2026 confirming it is considering a possible cash offer, as reported by Dow Jones Newswires the same day; under UK Takeover Code Rule 2.6(a) Altria must announce a firm intention to offer or walk away by 5:00 p.m. London time on December 24, 2026. The Japan Tobacco interest is Bloomberg reporting that Reuters said it could not immediately verify; Japan Tobacco did not comment and Imperial Brands declined to comment on that report."
 update_bump: true
 ---
+
+## Latest
+
+In Tokyo trading on Friday, November 27, Japan Tobacco shares rose 4.1 percent to 5,754 yen as investors priced in its reported role in a possible joint all-cash offer for Imperial alongside Altria. Japan Tobacco has not commented on the report.
 
 Altria Group confirmed recent press speculation on Thursday and said it is considering a possible cash offer for Imperial Brands, the London listed maker of Davidoff, Gauloises and JPS cigarettes. Altria said it is also in discussions with a third party over that party's possible acquisition of part of Imperial Brands' business if a deal goes ahead. No agreement has been reached, Altria gave no financial terms, and there is no certainty that an offer will be made. Under the UK Takeover Code, Altria now has until 5:00 p.m. London time on December 24, 2026 to announce a firm intention to make an offer or state that it does not intend to do so, unless the Takeover Panel extends the deadline.
 
