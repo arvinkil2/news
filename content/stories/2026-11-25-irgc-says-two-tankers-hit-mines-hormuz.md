@@ -1,13 +1,13 @@
 ---
 title: "Iran claims two more tankers hit mines off Khasab"
 date: 2026-11-25T00:41:58-05:00
-last_updated: 2026-11-26T05:42:26-05:00
+last_updated: 2026-11-27T03:07:33-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
 developing: true
-lede: "Iran's Revolutionary Guards said on Thursday that two more tankers exploded and caught fire after hitting naval mines north of Oman's Khasab port, and Abu Dhabi has barred tankers from the waters of its oil and gas ports unless they are calling on authorised business."
-why_it_matters: "The Guards' claim is the latest in a near-daily series that no outside body has confirmed and that names no vessels, but Abu Dhabi's 90-day restrictions are a concrete step by a Gulf exporter to pull shipping back from exposed waters."
+lede: "Seventeen tankers have been struck in the Strait of Hormuz since the start of November, according to the Joint Maritime Information Center, and Iran has added 26 tugboats to its list of vessels deemed to have breached its restrictions on passage through the strait."
+why_it_matters: "The count from the shipping industry's own information centre gives the campaign against Hormuz traffic a confirmed scale for the first time, and the move against tugboats threatens the vessels needed to assist damaged ships and work the anchorages off Oman and the Emirates."
 featured: false
 evidence_grade: "C"
 sources:
@@ -19,6 +19,10 @@ sources:
     publisher: "Splash247"
     url: "https://splash247.com/abu-dhabi-restricts-tanker-movements-amid-mounting-gulf-security-concerns/"
     published: "2026-11-26"
+  - title: "Hormuz tanker strike tally hits 17 this month"
+    publisher: "Splash247"
+    url: "https://splash247.com/hormuz-tanker-strike-tally-hits-17-this-month/"
+    published: "2026-11-27"
   - title: "IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media"
     publisher: "Reuters via Arab News"
     url: "https://www.arabnews.com/middle-east/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media-3013942"
@@ -40,11 +44,13 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-25"
 tags: []
-data_as_of: "Thursday update: Reuters report of November 26, 2026 via Arab News, read in full via the browser route; the claim rests solely on a Revolutionary Guards statement published by the Tasnim news agency, with no vessel names, no casualty figures and no UKMTO or Omani confirmation. Abu Dhabi restrictions from Splash247, November 26, 2026, read in full, reporting a notice from ADNOC's Petroleum Ports Authority. UKMTO Warning 222-26 of November 25, 2026, read in full at ukmto.org in this run (incident time 2130 UTC). Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 16:21), read in full. The mine-strike claims are sourced to Iranian official statements (the Revolutionary Guards via state media, the Iranian Army via the Fars news agency, and an Iranian Army spokesperson); Reuters said it could not independently verify the state media report, and no vessel identities or casualty figures were given. The UKMTO incident is a separate report, west of Dubai rather than in the strait, and does not confirm the Iranian claims. Developing item."
+data_as_of: "Friday update: Splash247 report of November 27, 2026, read in full, reporting Joint Maritime Information Center figures (17 tankers struck since the start of November, latest confirmed attack Wednesday), the addition of 26 tugboats to the Persian Gulf Strait Authority list, and ADNOC Logistics & Services' confirmation of a seafarer's death from the November 17 attack. Thursday update: Reuters report of November 26, 2026 via Arab News, read in full via the browser route; the claim rests solely on a Revolutionary Guards statement published by the Tasnim news agency, with no vessel names, no casualty figures and no UKMTO or Omani confirmation. Abu Dhabi restrictions from Splash247, November 26, 2026, read in full, reporting a notice from ADNOC's Petroleum Ports Authority. UKMTO Warning 222-26 of November 25, 2026, read in full at ukmto.org in this run (incident time 2130 UTC). Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 16:21), read in full. The mine-strike claims are sourced to Iranian official statements (the Revolutionary Guards via state media, the Iranian Army via the Fars news agency, and an Iranian Army spokesperson); Reuters said it could not independently verify the state media report, and no vessel identities or casualty figures were given. The UKMTO incident is a separate report, west of Dubai rather than in the strait, and does not confirm the Iranian claims. Developing item."
 update_bump: true
 ---
 
 ## Latest
+
+Seventeen tankers have been struck in the Strait of Hormuz since the start of November, according to the latest figures from the Joint Maritime Information Center reported by Splash247 on Friday. The latest confirmed attack came on Wednesday, when an unidentified tanker was struck while transiting the strait; the crew were accounted for and no pollution was reported. Three other tankers were struck on Sunday, and a bulk carrier was also attacked in the Gulf of Oman. Iran's Persian Gulf Strait Authority has added 26 tugboats to its list of vessels deemed to have breached Tehran's restrictions on shipping through the waterway, a move the information centre warned could hamper efforts to assist damaged ships and disrupt anchorage operations off Oman and the United Arab Emirates. ADNOC Logistics & Services has confirmed that a Jordanian seafarer missing since an attack on one of its ships on November 17 has been found dead; two of his colleagues remain in hospital. Tanker traffic through the strait has picked up this month compared with October, according to Vortexa data cited by Splash247, but fewer very large crude carriers and suezmaxes are making the passage and more smaller tankers are transiting.
 
 Iran's Revolutionary Guards said on Thursday that two tankers exploded and caught fire after hitting naval mines north of Oman's Khasab port while attempting to cross the Strait of Hormuz on what the Guards' navy described as an unauthorized route, in a statement published by the semi-official Tasnim news agency and reported by Reuters. The statement named no vessels and gave no casualty figures, and no confirmation from UK Maritime Trade Operations, Oman or any shipping company had appeared by Thursday morning. It is the third consecutive day of such claims from Tehran, each resting solely on Iranian official statements.
 
