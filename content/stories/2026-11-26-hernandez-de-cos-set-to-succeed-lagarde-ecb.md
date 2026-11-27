@@ -1,7 +1,7 @@
 ---
 title: "Hernández de Cos set to succeed Lagarde at the ECB"
 date: 2026-11-26T10:06:32-05:00
-last_updated: 2026-11-26T10:06:32-05:00
+last_updated: 2026-11-27T00:24:20-05:00
 beats: ["rates"]
 regions: ["europe"]
 status: "story"
@@ -22,10 +22,16 @@ sources:
     publisher: "CNBC"
     url: "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
     published: "2026-11-26"
+  - title: "Remarks by President Antonio Costa at the press conference following the Special European Council meeting of 26 November 2026"
+    publisher: "European Council (Consilium)"
+    url: "https://www.consilium.europa.eu/en/press/press-releases/2026/11/27/remarks-by-president-antonio-costa-at-the-press-conference-following-the-special-european-council-meeting-of-26-november-2026/"
+    published: "2026-11-27"
 tags: []
-data_as_of: "El País report of November 26, 2026 (in Spanish), read in full, based on European diplomatic sources; Financial Times reporting of the same day as carried by Reuters, which said it could not immediately verify the FT report. No European Council decision document had been published at the time of writing; the European Parliament and the ECB still have to give opinions, and leaders are due to formalise the appointment in December."
+data_as_of: "El País report of November 26, 2026 (in Spanish), read in full, based on European diplomatic sources; Financial Times reporting of the same day as carried by Reuters, which said it could not immediately verify the FT report. Updated November 27 with European Council President Antonio Costa's own remarks after the summit, read on the Council's site: the Council has received the recommendation naming Hernández de Cos, Laurence Boone and Markus K. Brunnermeier and has launched the consultation of the European Parliament and the ECB Governing Council, with a final decision due in December."
 update_bump: true
 ---
+
+Latest: European Council President António Costa confirmed after the summit that the Council has received the recommendation to designate Pablo Hernández de Cos as ECB president, with Laurence Boone and Markus K. Brunnermeier as the two other new Executive Board members, and that the European Council has launched the consultation of the European Parliament and the ECB's Governing Council, aiming to take the final decision at its December meeting. Costa also noted the summit was Christine Lagarde's last meeting with the European Council as ECB president and commended her work.
 
 Pablo Hernández de Cos will become president of the European Central Bank on February 8, according to El País, after the path cleared for him at Thursday's European Council meeting of EU leaders. The Financial Times reported that a majority of euro-area countries endorsed the Spaniard to succeed Christine Lagarde in February. He would be the first Spaniard to hold the post since the ECB was founded in 1998, and its fifth president after Wim Duisenberg, Jean-Claude Trichet, Mario Draghi and Lagarde.
 
