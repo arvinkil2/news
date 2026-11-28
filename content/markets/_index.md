@@ -2,14 +2,14 @@
 title: "Global Markets"
 date: "2026-11-28"
 lede: "Benchmark equity indices, US-listed country ETFs, currencies and sovereign yields for 27 markets, refreshed every 15 minutes."
-data_as_of: "Market data as of Nov 28, 6:52 AM ET"
+data_as_of: "Market data as of Nov 28, 7:17 AM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 28, 6:52 AM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 28, 7:17 AM ET - refreshed every 15 minutes</p>
 <div class="gm-strip">
 <div class="gm-strip-item"><span class="stat-label">VIX</span><span class="stat-value">23.81</span><span class="gm-sub">1d <span class="down">-11.16%</span> / 1w <span class="down">-33.66%</span></span></div>
 <div class="gm-strip-item"><span class="stat-label">Implied daily move</span><span class="stat-value">1.49%</span><span class="gm-sub">S&amp;P 500, one-day</span></div>
-<div class="gm-strip-item"><span class="stat-label">SOFR</span><span class="stat-value">3.91%</span><span class="gm-sub">overnight Nov 19 / swaps Nov 25: 2Y 4.46% / 5Y 4.35% / 10Y 4.43%</span></div>
+<div class="gm-strip-item"><span class="stat-label">SOFR</span><span class="stat-value">3.91%</span><span class="gm-sub">overnight Nov 19 / swaps Nov 27: 2Y 4.53% / 5Y 4.43% / 10Y 4.53%</span></div>
 </div>
 <p class="gm-note">Implied daily move: VIX divided by 16, the market's priced one-day swing in the S&amp;P 500.</p>
 <div class="gm-movers">

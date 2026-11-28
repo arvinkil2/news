@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:52:36.545654-05:00",
+ "updated": "2026-11-28T07:17:14.871396-05:00",
  "volatility": {
   "vix": {
    "value": 23.81,
@@ -4909,10 +4909,10 @@
    "date": "2026-11-19",
    "source": "FRED:SOFR"
   },
-  "swap_2y": 4.46,
-  "swap_5y": 4.3508,
-  "swap_10y": 4.4349,
-  "curve_date": "2026-11-25",
+  "swap_2y": 4.5314,
+  "swap_5y": 4.4329,
+  "swap_10y": 4.5251,
+  "curve_date": "2026-11-27",
   "swap_source": "DTCC SDR trades (Kilambi Research)"
  }
 }
