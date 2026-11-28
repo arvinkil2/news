@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:53:21.092460-05:00",
+ "updated": "2026-11-27T23:07:23.241229-05:00",
  "volatility": {
   "vix": {
    "value": 23.81,
@@ -111,8 +111,6 @@
     ],
     "spark": "0.0,2.0 4.6,4.2 9.1,8.8 13.7,10.5 18.3,9.2 22.9,7.0 27.4,15.6 32.0,14.0 36.6,9.9 41.1,11.1 45.7,8.6 50.3,9.2 54.9,10.6 59.4,14.5 64.0,15.6 68.6,14.9 73.1,18.3 77.7,26.0 82.3,17.0 86.9,19.2 91.4,20.1 96.0,16.8",
     "up_1d": true,
-    "source": "nasdaq",
-    "publisher": "Nasdaq, near-real-time",
     "as_of": "2026-11-27",
     "label": "Nasdaq Composite",
     "symbol": "^IXIC"
@@ -3477,8 +3475,81 @@
     "symbol": "^KS11"
    },
    "index2": null,
-   "etf": null,
-   "fx": null,
+   "etf": {
+    "value": 135.86,
+    "change_1d": 5.16,
+    "change_1w": 0.94,
+    "change_unit": "%",
+    "history": [
+     165.91,
+     161.83,
+     152.89,
+     151.62,
+     155.06,
+     152.12,
+     131.65,
+     137.01,
+     142.1,
+     139.18,
+     147.81,
+     145.38,
+     142.78,
+     136.55,
+     135.32,
+     136.73,
+     134.59,
+     123.26,
+     135.72,
+     130.7,
+     129.19,
+     135.86
+    ],
+    "spark": "0.0,2.0 4.6,4.3 9.1,9.3 13.7,10.0 18.3,8.1 22.9,9.8 27.4,21.3 32.0,18.3 36.6,15.4 41.1,17.0 45.7,12.2 50.3,13.6 54.9,15.0 59.4,18.5 64.0,19.2 68.6,18.4 73.1,19.6 77.7,26.0 82.3,19.0 86.9,21.8 91.4,22.7 96.0,18.9",
+    "up_1d": true,
+    "move_flag": "large_move",
+    "as_of": "2026-11-27",
+    "label": "iShares MSCI South Korea (EWY)",
+    "symbol": "EWY",
+    "move_corroborated": true
+   },
+   "fx": {
+    "value": 1333.9,
+    "change_1d": 0.72,
+    "change_1w": 0.77,
+    "change_unit": "%",
+    "history": [
+     1324.77,
+     1326.8101,
+     1340.34,
+     1337.98,
+     1325.52,
+     1344.8101,
+     1342.9,
+     1340.0699,
+     1356.34,
+     1362.7,
+     1343.84,
+     1341.91,
+     1336.26,
+     1333.78,
+     1333.25,
+     1335.67,
+     1333.01,
+     1330.4,
+     1334.79,
+     1344.3101,
+     1341.02,
+     1342.65,
+     1342.97,
+     1343.53,
+     1333.9
+    ],
+    "spark": "0.0,26.0 4.0,24.7 8.0,16.1 12.0,17.6 16.0,25.5 20.0,13.3 24.0,14.5 28.0,16.3 32.0,6.0 36.0,2.0 40.0,13.9 44.0,15.2 48.0,18.7 52.0,20.3 56.0,20.6 60.0,19.1 64.0,20.8 68.0,22.4 72.0,19.7 76.0,13.6 80.0,15.7 84.0,14.7 88.0,14.5 92.0,14.1 96.0,20.2",
+    "up_1d": true,
+    "as_of": "2026-11-28",
+    "label": "USD/KRW",
+    "symbol": "KRW=X"
+   },
    "yields": {
     "y10": {
      "value": 3.83,
@@ -4824,11 +4895,9 @@
   }
  ],
  "errors": [
-  "Poland index (^WIG20): yahoo ^WIG20: <urlopen error timed out>",
-  "South Korea etf (EWY): yahoo EWY: <urlopen error timed out>",
-  "South Korea fx (KRW=X): yahoo KRW=X: <urlopen error timed out>",
-  "Saudi Arabia index (^TASI.SR): yahoo ^TASI.SR: <urlopen error timed out>",
-  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: <urlopen error timed out>"
+  "Poland index (^WIG20): yahoo ^WIG20: HTTP Error 404: Not Found",
+  "Saudi Arabia index (^TASI.SR): not enough data",
+  "United Arab Emirates index (^DFMGI): yahoo ^DFMGI: HTTP Error 404: Not Found"
  ],
  "sofr": {
   "overnight": {
