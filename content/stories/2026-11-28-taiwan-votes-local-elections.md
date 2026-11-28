@@ -1,13 +1,13 @@
 ---
 title: "Taiwan votes in local elections watched in Beijing"
 date: 2026-11-28T00:24:36-05:00
-last_updated: 2026-11-28T07:05:26-05:00
+last_updated: 2026-11-28T08:03:12-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "Taiwan's ruling DPP looked set to make gains in Saturday's local elections, capturing Taichung, while the opposition KMT's Chiang Wan-an led the Taipei mayoral count."
+lede: "Taiwan's DPP candidate Puma Shen has conceded the Taipei mayoral race to the KMT's Chiang Wan-an, while the ruling party made gains elsewhere in Saturday's local elections."
 why_it_matters: "A split result, DPP gains in the centre and south against a KMT hold on the capital, sets the starting positions for the 2028 presidential race, which Beijing is watching closely."
 featured: true
 evidence_grade: "B"
@@ -20,9 +20,19 @@ sources:
     publisher: "Al Jazeera"
     url: "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders"
     published: "2026-11-28"
+  - title: "China critic Puma Shen concedes defeat in Taipei mayoral election"
+    publisher: "Agence France-Presse, via NN24"
+    url: "https://nn24.live/china-critic-puma-shen-loses-taipei-mayor-election-campaign-team-bur-amj-ami"
+    published: "2026-11-28"
+  - title: "Taiwan ruling party says its candidate, Puma Shen, lost Taipei mayoral election"
+    publisher: "Reuters, via The Straits Times"
+    url: "https://www.redhot.sg/taiwan-ruling-party-says-its-candidate-puma-shen-lost-taipei-mayoral-election-744540.html"
+    published: "2026-11-28"
 tags: []
-data_as_of: "Election day November 28, 2026; Reuters count reporting read in full via SRN News, Al Jazeera report read in full earlier today. Figures are media vote counts, not Central Election Commission certification. Developing item."
+data_as_of: "Election day November 28, 2026; Reuters count reporting read in full via SRN News, Al Jazeera report read in full earlier today, AFP concession report and Reuters concession flash read in full this run. Figures are media vote counts, not Central Election Commission certification. Developing item."
 ---
+
+**Latest.** The DPP's Puma Shen conceded defeat in the Taipei mayoral race on Saturday, handing a second term to the KMT incumbent Chiang Wan-an. Shen confirmed the result in front of supporters outside DPP headquarters in the capital after his campaign team announced it, and the ruling party separately confirmed its candidate had lost the race. The concession settles the capital, the most closely watched contest of the day, while counts elsewhere continued.
 
 Taiwan's ruling Democratic Progressive Party looked set to make gains in Saturday's nine-in-one local elections, while the opposition Kuomintang looked set to keep the capital, according to initial vote counts reported by Taiwanese media and Reuters. Polls across the island's 22 cities and counties closed at 4pm local time after choosing mayors, magistrates, council members and other local leaders for about 11,000 posts.
 
