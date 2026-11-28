@@ -1,29 +1,39 @@
 ---
 title: "Coalition wins Victoria election, ending 12 years of Labor rule"
 date: 2026-11-28T05:02:27-05:00
-last_updated: 2026-11-28T05:02:27-05:00
+last_updated: 2026-11-28T07:05:26-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "The Liberal-National Coalition has won Victoria's state election, ending 12 years of Labor government, with Liberal leader Jess Wilson set to become the state's 51st premier."
-why_it_matters: "Labor's primary vote collapsed to about 15.6 percent in early counting, behind One Nation at about 23.5 percent, a result that will be read in Canberra as a warning about where disaffected Labor voters are going."
-featured: false
-evidence_grade: "C"
+lede: "The Liberal-National Coalition has won Victoria's state election in a landslide, ending 12 years of Labor government, with Premier Ben Carroll conceding defeat and losing his own seat."
+why_it_matters: "Labor's primary vote fell below 20 percent while One Nation rose above it on the primary count, yet One Nation was projected to win few or no lower house seats, a split that will shape federal Labor strategy ahead of its own elections."
+featured: true
+evidence_grade: "B"
 sources:
+  - title: "Conservatives set to win government in Australia's second-most populous state"
+    publisher: "Reuters"
+    url: "https://ktwb.com/2026/11/28/conservatives-set-to-win-government-in-australias-second-most-populous-state/"
+    published: "2026-11-28"
   - title: "Coalition wins Victorian election, Jess Wilson to be premier"
     publisher: "Valcored News Network"
     url: "https://valcorednews.com/victorian-election-coalition-wins-jess-wilson-premier/"
     published: "2026-11-28"
-  - title: "Liberal-Nationals Set to Win Australia's Victoria in Labor Rout"
-    publisher: "Bloomberg"
-    url: "https://www.bloomberg.com/news/articles/2026-11-28/liberal-nationals-set-to-win-australia-s-victoria-in-labor-rout"
+  - title: "Australia's conservatives win landslide victory in bellwether state"
+    publisher: "Arab News"
+    url: "https://www.byteseu.com/2552971/"
     published: "2026-11-28"
 tags: []
-data_as_of: "Valcored News Network election-night report, published 2026-11-28 and read in full, with the Bloomberg headline in the feed queue corroborating the projection; seat and vote figures are early counting (6.4 percent counted at 8pm AEDT), so graded C. Developing item."
+data_as_of: "Election day November 28, 2026; Reuters report read in full via KTWB syndication, Valcored election-night report read in full, AFP reporting via Arab News. Counting continues; seat totals are projections, not certified results."
 ---
 
-The Liberal-National Coalition has won Saturday's Victorian state election, ending 12 years of Labor government that began in 2014, and Liberal leader Jess Wilson, 36, will become the state's 51st premier. Analysts projected Labor's defeat shortly after 7.30pm AEDT, and at 8pm, with 6.4 percent of the vote counted, the Coalition had won 28 seats outright, the Greens two, One Nation one and Labor one, with 56 of the 88 Legislative Assembly seats still in doubt and 45 needed for a majority.
+The Liberal-National Coalition has won Saturday's Victorian state election, ending 12 years of Labor government that began in 2014. Liberal leader Jess Wilson, 36, will become the state's 51st premier, its youngest and first female Liberal premier. The Australian Broadcasting Corp projected a Coalition majority in the 88-seat Legislative Assembly about an hour and a half after polls closed, and Premier Ben Carroll conceded defeat, saying Victorians had spoken and wanted change.
 
-Labor's collapse is the story inside the result: its primary vote sat at about 15.6 percent in early counting, behind One Nation at about 23.5 percent and the Greens at 15.9 percent, while the Coalition led on about 34 percent. Deputy Premier Gabrielle Williams called the result "simply devastating", and Premier Ben Carroll, who took over as premier only in July, was projected to lose his own seat of Niddrie. Counting continues on Sunday with postal and pre-poll votes, and the final seat tally may take days.
+Carroll, who became premier only in July, was among the Labor members projected to lose their seats, his own seat of Niddrie included. Labor was projected to win far fewer than the 45 seats needed to form government, down from 54 before the election, in a state Labor has governed for 23 of the last 27 years.
+
+The primary vote tells the sharper story. With about a third of the vote counted late on Saturday night, the Coalition led on about 34.3 percent, Labor had fallen to about 17.2 percent, One Nation had risen to about 21.4 percent and the Greens held about 15.6 percent. Yet the ABC projected One Nation could win as few as no lower house seats, because its vote is spread thinly across districts rather than concentrated where it can win them.
+
+That split is why the result cuts two ways. It removes a long-serving Labor government in Australia's second most populous state and, as Reuters reported, will alarm Labor governments in New South Wales and federally, which face elections amid the same cost of living pressures. It also suggests voters punished Labor through the mainstream opposition rather than by handing seats to the anti-immigration party that had surged in polls over the past year on housing, immigration and living standards.
+
+Counting continues with postal and pre-poll votes, and the final seat tally may take days. Wilson is expected to be sworn in once the result is formally confirmed, and she has promised to serve as her own treasurer for at least the first 100 days. Status: result projected and conceded November 28, 2026; certification pending.
