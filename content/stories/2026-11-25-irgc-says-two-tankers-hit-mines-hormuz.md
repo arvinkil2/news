@@ -1,7 +1,7 @@
 ---
 title: "Iran claims two more tankers hit mines off Khasab"
 date: 2026-11-25T00:41:58-05:00
-last_updated: 2026-11-27T03:07:33-05:00
+last_updated: 2026-11-27T18:54:43-05:00
 beats: ["commodities"]
 regions: ["middle-east"]
 status: "developing"
@@ -11,6 +11,10 @@ why_it_matters: "The count from the shipping industry's own information centre g
 featured: false
 evidence_grade: "C"
 sources:
+  - title: "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz"
+    publisher: "Anadolu via Middle East Monitor"
+    url: "https://en.hathalyoum.net/amp/308801"
+    published: "2026-11-27"
   - title: "Agency citing Iranian Revolutionary Guard: Two oil tankers hit mines north of Oman's Khasab port"
     publisher: "Reuters via Arab News"
     url: "https://www.arabnews.com/middle-east/agency-citing-iranian-revolutionary-guard-two-oil-tankers-hit-mines-north-of-omans-khasab-port-3014111"
@@ -44,11 +48,13 @@ sources:
     url: "https://finance.yahoo.com"
     published: "2026-11-25"
 tags: []
-data_as_of: "Friday update: Splash247 report of November 27, 2026, read in full, reporting Joint Maritime Information Center figures (17 tankers struck since the start of November, latest confirmed attack Wednesday), the addition of 26 tugboats to the Persian Gulf Strait Authority list, and ADNOC Logistics & Services' confirmation of a seafarer's death from the November 17 attack. Thursday update: Reuters report of November 26, 2026 via Arab News, read in full via the browser route; the claim rests solely on a Revolutionary Guards statement published by the Tasnim news agency, with no vessel names, no casualty figures and no UKMTO or Omani confirmation. Abu Dhabi restrictions from Splash247, November 26, 2026, read in full, reporting a notice from ADNOC's Petroleum Ports Authority. UKMTO Warning 222-26 of November 25, 2026, read in full at ukmto.org in this run (incident time 2130 UTC). Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 16:21), read in full. The mine-strike claims are sourced to Iranian official statements (the Revolutionary Guards via state media, the Iranian Army via the Fars news agency, and an Iranian Army spokesperson); Reuters said it could not independently verify the state media report, and no vessel identities or casualty figures were given. The UKMTO incident is a separate report, west of Dubai rather than in the strait, and does not confirm the Iranian claims. Developing item."
+data_as_of: "Friday evening update: Anadolu report of November 27, 2026, read in full via Middle East Monitor, carrying the Revolutionary Guards navy statement via the Fars news agency (one tanker said to have exploded on a mine north of Ghavam Island on Friday morning, a second turned back; no vessel named, no casualties given, no independent confirmation). Friday update: Splash247 report of November 27, 2026, read in full, reporting Joint Maritime Information Center figures (17 tankers struck since the start of November, latest confirmed attack Wednesday), the addition of 26 tugboats to the Persian Gulf Strait Authority list, and ADNOC Logistics & Services' confirmation of a seafarer's death from the November 17 attack. Thursday update: Reuters report of November 26, 2026 via Arab News, read in full via the browser route; the claim rests solely on a Revolutionary Guards statement published by the Tasnim news agency, with no vessel names, no casualty figures and no UKMTO or Omani confirmation. Abu Dhabi restrictions from Splash247, November 26, 2026, read in full, reporting a notice from ADNOC's Petroleum Ports Authority. UKMTO Warning 222-26 of November 25, 2026, read in full at ukmto.org in this run (incident time 2130 UTC). Reuters reports of November 24, 2026 and the updated report of November 25, 2026 (updated 16:21), read in full. The mine-strike claims are sourced to Iranian official statements (the Revolutionary Guards via state media, the Iranian Army via the Fars news agency, and an Iranian Army spokesperson); Reuters said it could not independently verify the state media report, and no vessel identities or casualty figures were given. The UKMTO incident is a separate report, west of Dubai rather than in the strait, and does not confirm the Iranian claims. Developing item."
 update_bump: true
 ---
 
 ## Latest
+
+Iran's Revolutionary Guards navy said on Friday that one oil tanker exploded after striking a naval mine north of Ghavam Island on Friday morning and that a second tanker travelling with it turned back, in a statement carried by the Fars news agency and reported by Anadolu. The statement said the two ships had tried to pass through an unauthorized route with their tracking systems off; it named no vessel and gave no casualty or damage figures, and no independent body had confirmed the incident by Friday evening Toronto time. It is the latest in a near-daily series of mine claims from Tehran this week, none of them independently verified.
 
 Seventeen tankers have been struck in the Strait of Hormuz since the start of November, according to the latest figures from the Joint Maritime Information Center reported by Splash247 on Friday. The latest confirmed attack came on Wednesday, when an unidentified tanker was struck while transiting the strait; the crew were accounted for and no pollution was reported. Three other tankers were struck on Sunday, and a bulk carrier was also attacked in the Gulf of Oman. Iran's Persian Gulf Strait Authority has added 26 tugboats to its list of vessels deemed to have breached Tehran's restrictions on shipping through the waterway, a move the information centre warned could hamper efforts to assist damaged ships and disrupt anchorage operations off Oman and the United Arab Emirates. ADNOC Logistics & Services has confirmed that a Jordanian seafarer missing since an attack on one of its ships on November 17 has been found dead; two of his colleagues remain in hospital. Tanker traffic through the strait has picked up this month compared with October, according to Vortexa data cited by Splash247, but fewer very large crude carriers and suezmaxes are making the passage and more smaller tankers are transiting.
 
