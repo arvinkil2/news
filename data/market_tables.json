@@ -1480,7 +1480,7 @@
    "up_1d": true,
    "now": 55.5,
    "now_time": "2026-11-27T13:00:00-05:00",
-   "now_change_1d": 5.37,
+   "now_change_1d": 5.33,
    "now_change_1w": 6.92,
    "now_up_1d": true
   },
@@ -1994,5 +1994,5 @@
    "now_up_1d": true
   }
  ],
- "quotes_updated": "2026-11-28T10:22:18.363019-05:00"
+ "quotes_updated": "2026-11-28T10:37:05.293880-05:00"
 }
