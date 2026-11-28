@@ -1,16 +1,20 @@
 ---
 title: "Explosion on Russian ship at Benghazi port, drone attack suspected"
 date: 2026-11-22T10:25:01-05:00
-last_updated: 2026-11-28T05:24:31-05:00
+last_updated: 2026-11-28T05:42:15-05:00
 beats: ["politics"]
 regions: ["africa", "europe"]
 status: "developing"
 developing: true
-lede: "President Volodymyr Zelenskyy has confirmed the November 22 drone attack on the Russian corvette Merkury at Benghazi was carried out without prior coordination with European partners, walking back an earlier claim after Italy protested."
-why_it_matters: "The admission, after Italy's foreign minister said no partner was notified, exposes a rift with a key European backer over Ukraine's widening Mediterranean drone campaign, which has already killed two Libyan soldiers at Benghazi."
+lede: "A Russian convoy carrying military vehicles bound for Libya turned around in the Mediterranean after Ukrainian sea drones sank the corvette Merkury at Benghazi on November 22, three military and security sources told Reuters."
+why_it_matters: "The diversion is the first operational consequence beyond the port itself: a supply run for Russian forces in Libya, and possibly for the Africa Corps in West Africa, was abandoned on the day of the attack, and Ukraine's drone campaign has also opened a rift with Italy over the lack of prior notice."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say"
+    publisher: "Reuters, via WTBX"
+    url: "https://wtbx.com/2026/11/27/exclusive-russian-military-flotilla-bound-for-libya-turns-around-after-warship-sunk-on-nov-22-sources-says/"
+    published: "2026-11-27"
   - title: "Zelensky: attack on Russian ship off Libya not coordinated with European countries (in Korean)"
     publisher: "Yonhap News Agency"
     url: "https://www.yna.co.kr/view/AKR20261128047300109"
@@ -49,10 +53,12 @@ sources:
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated November 25, 2026 with Deutsche Welle reporting, with AP, AFP and Reuters, read in full via the estate browser, of the two Libyan soldiers' deaths confirmed by the eastern administration and Foreign Minister Sybiha's Tuesday defence of the strike. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read. Updated November 28, 2026 with Yonhap News Agency reporting from Rome, in Korean, read in full via the estate browser and translated, of President Zelenskyy's November 28 statement after his call with Prime Minister Meloni and Foreign Minister Tajani's rebuttal; the coordination account rests on the two governments' own statements as reported there, and Russia had not responded in the reporting read."
+data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated November 25, 2026 with Deutsche Welle reporting, with AP, AFP and Reuters, read in full via the estate browser, of the two Libyan soldiers' deaths confirmed by the eastern administration and Foreign Minister Sybiha's Tuesday defence of the strike. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read. Updated November 28, 2026 with Yonhap News Agency reporting from Rome, in Korean, read in full via the estate browser and translated, of President Zelenskyy's November 28 statement after his call with Prime Minister Meloni and Foreign Minister Tajani's rebuttal; the coordination account rests on the two governments' own statements as reported there, and Russia had not responded in the reporting read. Updated November 28, 2026 with Reuters reporting of November 27, 2026, read in full via WTBX, on the Russian convoy's diversion, citing a European military official tracking the convoy, a Ukrainian military intelligence official and a Middle East security official; Russia's defence ministry did not respond to Reuters' request for comment."
 ---
 
 ## Latest
+
+A convoy of Russian ships carrying military vehicles bound for Libya turned around in the Mediterranean after Ukrainian sea drones sank the corvette Merkury at Benghazi on November 22, Reuters reported on Friday, citing three people from military and security services. The convoy, the Russian flagged cargo and vehicle carriers Maia 1, Lady R and Lady D, escorted by the frigate Golovko, turned near the Strait of Sicily on the day of the attack, a European military official tracking it said; a Ukrainian military intelligence official and a Middle East security official confirmed the turn. The ships left Kaliningrad on November 5, last broadcast positions near the Bay of Biscay on November 12, and were last tracked near Algeria on November 25, with their onward destination unclear. The European and Middle Eastern sources said the vehicles were possibly bound for West Africa and Russia's Africa Corps, although some could have been for the Libyan National Army. Russia's defence ministry did not respond to a request for comment.
 
 President Volodymyr Zelenskyy said on Saturday that the Libya operation was carried out without prior coordination with European partners, confirming it in a social media post after a phone call with Italian Prime Minister Giorgia Meloni, Yonhap reported from Rome. The admission walked back his statement in a BBC interview released on Thursday that Ukraine never attacks without consulting partner countries. Italy's foreign minister, Antonio Tajani, had rebutted that claim, saying none of them was notified of the attack and that the statement was not true. Zelenskyy said the two countries' authorities would share all necessary information and communicate directly and effectively.
 
