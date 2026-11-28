@@ -1,16 +1,20 @@
 ---
 title: "Explosion on Russian ship at Benghazi port, drone attack suspected"
 date: 2026-11-22T10:25:01-05:00
-last_updated: 2026-11-25T00:04:31-05:00
+last_updated: 2026-11-28T05:24:31-05:00
 beats: ["politics"]
 regions: ["africa", "europe"]
 status: "developing"
 developing: true
-lede: "Two Libyan soldiers have died of injuries from Sunday's Ukrainian naval drone attack on a Russian corvette at Benghazi port, Libya's eastern administration confirmed, as Kyiv defended the strike."
-why_it_matters: "The deaths are the first confirmed Libyan fatalities from Ukraine's Mediterranean sea drone campaign, sharpening Libya's charge that foreign wars are being fought from its ports and raising the risk of a Libyan response."
+lede: "President Volodymyr Zelenskyy has confirmed the November 22 drone attack on the Russian corvette Merkury at Benghazi was carried out without prior coordination with European partners, walking back an earlier claim after Italy protested."
+why_it_matters: "The admission, after Italy's foreign minister said no partner was notified, exposes a rift with a key European backer over Ukraine's widening Mediterranean drone campaign, which has already killed two Libyan soldiers at Benghazi."
 featured: false
 evidence_grade: "B"
 sources:
+  - title: "Zelensky: attack on Russian ship off Libya not coordinated with European countries (in Korean)"
+    publisher: "Yonhap News Agency"
+    url: "https://www.yna.co.kr/view/AKR20261128047300109"
+    published: "2026-11-28"
   - title: "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
     publisher: "Deutsche Welle, with AP, AFP and Reuters"
     url: "https://www.dw.com/en/libya-ukrainian-attack-benghazi-2-dead/a-80042348"
@@ -45,10 +49,12 @@ sources:
     published: "2026-11-22"
 tags: []
 update_bump: true
-data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated November 25, 2026 with Deutsche Welle reporting, with AP, AFP and Reuters, read in full via the estate browser, of the two Libyan soldiers' deaths confirmed by the eastern administration and Foreign Minister Sybiha's Tuesday defence of the strike. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read."
+data_as_of: "Associated Press reporting of November 22, 2026, read in full via Military.com, citing two Libyan military officials affiliated with the Libyan National Army who spoke on condition of anonymity; and Reuters reporting of November 22, 2026, read in full via WTBX, citing the eastern-based government's statement, medical sources and two Libyan military sources. The identification of the vessel as the corvette Merkury and the attribution to Ukrainian sea drones launched from western Libya are the Libyan officials' account; neither Russia nor Ukraine has commented and no group has claimed responsibility. Developing item. Updated November 25, 2026 with Deutsche Welle reporting, with AP, AFP and Reuters, read in full via the estate browser, of the two Libyan soldiers' deaths confirmed by the eastern administration and Foreign Minister Sybiha's Tuesday defence of the strike. Updated later on November 22, 2026 with Arab News reporting, with Reuters, of the UN Support Mission in Libya statement on the Benghazi attacks, read in full via the estate browser. Updated November 23, 2026 with Al Jazeera reporting of President Zelenskyy's claim of responsibility, read in full via the estate browser; the claim is Ukraine's own account of its operation, and Russia had not responded in the reporting read. Updated November 28, 2026 with Yonhap News Agency reporting from Rome, in Korean, read in full via the estate browser and translated, of President Zelenskyy's November 28 statement after his call with Prime Minister Meloni and Foreign Minister Tajani's rebuttal; the coordination account rests on the two governments' own statements as reported there, and Russia had not responded in the reporting read."
 ---
 
 ## Latest
+
+President Volodymyr Zelenskyy said on Saturday that the Libya operation was carried out without prior coordination with European partners, confirming it in a social media post after a phone call with Italian Prime Minister Giorgia Meloni, Yonhap reported from Rome. The admission walked back his statement in a BBC interview released on Thursday that Ukraine never attacks without consulting partner countries. Italy's foreign minister, Antonio Tajani, had rebutted that claim, saying none of them was notified of the attack and that the statement was not true. Zelenskyy said the two countries' authorities would share all necessary information and communicate directly and effectively.
 
 Two Libyan soldiers have died of injuries sustained in Sunday's attack, the head of Libya's eastern administration, Oussama Hamad, confirmed, describing the strike as Ukrainian aggression against the port of Benghazi, Deutsche Welle reported with AP, AFP and Reuters. Ukraine's foreign minister, Andrii Sybiha, defended the operation on Tuesday, saying Ukraine respects Libya's sovereignty, is not dragging anyone into the war, and that Russia endangers third countries by using their civilian infrastructure for military purposes. Libya's foreign ministry had denounced the attacks on Monday and said it authorized no foreign military operations in its territory or waters, and the Libyan National Army's general command said a response would come at the appropriate time and place.
 
