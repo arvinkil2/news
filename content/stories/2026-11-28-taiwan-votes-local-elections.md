@@ -1,13 +1,13 @@
 ---
 title: "Taiwan votes in local elections watched in Beijing"
 date: 2026-11-28T00:24:36-05:00
-last_updated: 2026-11-28T09:43:26-05:00
+last_updated: 2026-11-28T11:04:34-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
 developing: true
 update_bump: true
-lede: "Taiwan's DPP candidate Puma Shen has conceded the Taipei mayoral race to the KMT's Chiang Wan-an, while the ruling party made gains elsewhere in Saturday's local elections."
+lede: "Taiwan's ruling DPP won at least nine of the island's 22 mayoral and county races, up from five in 2022 and its best local result in a decade, while the KMT kept Taipei and New Taipei."
 why_it_matters: "A split result, DPP gains in the centre and south against a KMT hold on the capital, sets the starting positions for the 2028 presidential race, which Beijing is watching closely."
 featured: true
 evidence_grade: "B"
@@ -28,11 +28,17 @@ sources:
     publisher: "Reuters, via The Straits Times"
     url: "https://www.redhot.sg/taiwan-ruling-party-says-its-candidate-puma-shen-lost-taipei-mayoral-election-744540.html"
     published: "2026-11-28"
+  - title: "'Victory for democracy': Taiwan's ruling party secures best result in a decade"
+    publisher: "The Guardian"
+    url: "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china"
+    published: "2026-11-28"
 tags: []
-data_as_of: "Election day November 28, 2026; Reuters count reporting read in full via SRN News, Al Jazeera report read in full earlier today, AFP concession report and Reuters concession flash read in full this run. Figures are media vote counts, not Central Election Commission certification. Developing item."
+data_as_of: "Election day November 28, 2026; Reuters count reporting read in full via SRN News, Al Jazeera report read in full earlier today, AFP concession report and Reuters concession flash read in full this run; Guardian results report read in full this run via a syndicated copy (the Guardian site itself is blocked to this reader). Figures are media vote counts, not Central Election Commission certification. Developing item."
 ---
 
-**Latest.** The DPP's Puma Shen conceded defeat in the Taipei mayoral race on Saturday, handing a second term to the KMT incumbent Chiang Wan-an. Shen confirmed the result in front of supporters outside DPP headquarters in the capital after his campaign team announced it, and the ruling party separately confirmed its candidate had lost the race. The concession settles the capital, the most closely watched contest of the day, while counts elsewhere continued.
+**Latest.** With counting well advanced, the DPP had won at least nine of Taiwan's 22 mayoral and county magistrate races, up from five in 2022 and its best local election result in a decade, according to the Guardian. The KMT won 10 races, down from 14, but retained Taipei and neighbouring New Taipei. President Lai Ching-te thanked voters for their support and trust in the DPP's candidates; China's Taiwan Affairs Office had not yet commented on the results.
+
+The DPP's Puma Shen conceded defeat in the Taipei mayoral race on Saturday, handing a second term to the KMT incumbent Chiang Wan-an. Shen confirmed the result in front of supporters outside DPP headquarters in the capital after his campaign team announced it, and the ruling party separately confirmed its candidate had lost the race. The concession settles the capital, the most closely watched contest of the day, while counts elsewhere continued.
 
 Taiwan's ruling Democratic Progressive Party looked set to make gains in Saturday's nine-in-one local elections, while the opposition Kuomintang looked set to keep the capital, according to initial vote counts reported by Taiwanese media and Reuters. Polls across the island's 22 cities and counties closed at 4pm local time after choosing mayors, magistrates, council members and other local leaders for about 11,000 posts.
 
