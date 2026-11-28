@@ -1,7 +1,7 @@
 ---
 title: "Taiwan votes in local elections watched in Beijing"
 date: 2026-11-28T00:24:36-05:00
-last_updated: 2026-11-28T08:03:12-05:00
+last_updated: 2026-11-28T09:43:26-05:00
 beats: ["politics"]
 regions: ["asia-pacific"]
 status: "developing"
@@ -40,4 +40,4 @@ In the six largest cities, the DPP and the KMT looked set to win three each. The
 
 The result would be a marked recovery from the last local elections four years ago, when the KMT won 14 cities and counties to the DPP's five. Campaigning focused on transport and the environment rather than relations with Beijing, but China framed the race throughout: Beijing, which claims Taiwan as its own territory, has repeatedly denounced Shen as a separatist, and Taiwan's defence ministry counted 33 Chinese warplanes around the island on Friday along with eight warships.
 
-Voters also decided a referendum on ending the nuclear-free homeland policy, held alongside the local elections and covered in yesterday's referendum story; its count, which must clear a threshold of about five million yes votes, was expected later on Saturday evening. Manoeuvring for the presidential and parliamentary elections due early in 2028 begins in earnest after this vote. Status: counting, November 28, 2026; no certified results yet.
+Voters also approved a referendum on ending the nuclear-free homeland policy, held alongside the local elections and covered in yesterday's referendum story; the provisional count showed about 7.2 million yes votes, clearing the threshold of about five million yes votes. Manoeuvring for the presidential and parliamentary elections due early in 2028 begins in earnest after this vote. Status: counting, November 28, 2026; no certified results yet.
