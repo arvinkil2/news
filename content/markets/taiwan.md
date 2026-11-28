@@ -2,10 +2,10 @@
 title: "Taiwan"
 date: "2026-11-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Taiwan, refreshed every 15 minutes."
-data_as_of: "Nov 27, 8:39 PM ET"
+data_as_of: "Nov 27, 8:53 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 27, 8:39 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 27, 8:53 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>TAIEX (index)</td><td class="num">39,152 <span class="gm-sub-inline">as of 2026-11-26, stale</span></td><td class="num"><span class="up">+2.50%</span></td><td class="num"><span class="up">+1.89%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,4.0 4.4,2.0 8.7,3.5 13.1,6.0 17.5,6.6 21.8,10.1 26.2,10.9 30.5,13.9 34.9,18.0 39.3,13.7 43.6,11.4 48.0,8.1 52.4,10.6 56.7,9.3 61.1,15.1 65.5,17.1 69.8,16.9 74.2,20.8 78.5,26.0 82.9,24.3 87.3,17.1 91.6,21.3 96.0,19.2" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Taiwan (EWT)</td><td class="num">$83.48 <span class="gm-sub-inline">as of 2026-11-25, stale</span></td><td class="num"><span class="down">-1.27%</span></td><td class="num"><span class="down">-5.92%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,2.0 4.8,4.1 9.6,7.5 14.4,7.8 19.2,9.5 24.0,10.3 28.8,18.2 33.6,15.8 38.4,11.3 43.2,12.0 48.0,8.1 52.8,10.2 57.6,10.1 62.4,14.7 67.2,16.2 72.0,16.2 76.8,19.5 81.6,26.0 86.4,16.6 91.2,19.1 96.0,19.9" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
@@ -21,11 +21,11 @@ data_as_of: "Nov 27, 8:39 PM ET"
 <h2>Recent coverage</h2>
 <p class="gm-method">Stories whose headline names this market, newest first.</p>
 <p class="gm-story"><span class="gm-story-date">2026-11-27</span> <a href="/stories/2026-11-27-taiwan-gdp-forecast-13-28-percent/">Taiwan raises 2026 growth forecast to 13.28 percent</a></p>
+<p class="gm-story"><span class="gm-story-date">2026-11-27</span> <a href="/stories/2026-11-27-taiwan-votes-nuclear-revival-referendum/">Taiwan votes on reviving nuclear power alongside local elections</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-26</span> <a href="/stories/2026-11-26-lithuania-taiwan-office-status-revoke-threat/">Lithuania says it could revoke Taiwan office status over name</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-23</span> <a href="/stories/2026-11-23-asia-stocks-rally-taiwan-nine-percent/">Asian stocks rally as Taiwan jumps nine percent</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-22</span> <a href="/stories/2026-11-22-taiwan-bans-below-close-short-sales/">Taiwan bans below-close short sales after worst week since 1991</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-20</span> <a href="/stories/2026-11-20-taiwan-flags-china-linked-accounts-meta-elections/">Taiwan flags nearly 2,700 China-linked accounts to Meta before elections</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-19</span> <a href="/stories/2026-11-19-asia-stocks-slide-taiwan-ai-doubts/">Asia stocks slide as Taiwan falls 4.6 percent on AI doubts</a></p>
 <p class="gm-story"><span class="gm-story-date">2026-11-16</span> <a href="/stories/2026-11-16-nanya-winbond-plan-euv-tools-asml/">Nanya and Winbond plan ASML EUV tools for Taiwan DRAM fabs</a></p>
-<p class="gm-story"><span class="gm-story-date">2026-11-13</span> <a href="/stories/2026-11-13-china-silent-naval-exercise-taiwan/">Taiwan says China staged largest unannounced naval exercise</a></p>
 <p class="data-vintage">Sources: Yahoo Finance, Cboe and Nasdaq (labelled US index rows), FRED (US Treasury yields) and official national publishers (benchmark yields; Brazil's exchange rate is the Banco Central do Brasil PTAX fixing). The date beside each value is the latest bar in the series used; a value marked stale predates the market's last completed session. A missing row means no reliable free source exists for that instrument.</p>

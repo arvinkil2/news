@@ -2,10 +2,10 @@
 title: "Hong Kong"
 date: "2026-11-28"
 lede: "Benchmark index, country ETF, currency and sovereign yields for Hong Kong, refreshed every 15 minutes."
-data_as_of: "Nov 27, 8:39 PM ET"
+data_as_of: "Nov 27, 8:53 PM ET"
 ---
 
-<p class="market-table-updated">Updated as of Nov 27, 8:39 PM ET - refreshed every 15 minutes</p>
+<p class="market-table-updated">Updated as of Nov 27, 8:53 PM ET - refreshed every 15 minutes</p>
 <table class="market-table"><thead><tr><th>Instrument</th><th>Last</th><th>1d</th><th>1w</th><th>30-day trend</th></tr></thead><tbody>
 <tr><td>Hang Seng (index)</td><td class="num">22,227 <span class="gm-sub-inline">as of 2026-11-26, stale</span></td><td class="num"><span class="up">+1.19%</span></td><td class="num"><span class="down">-2.69%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,16.9 4.4,16.4 8.7,17.6 13.1,14.7 17.5,13.9 21.8,12.8 26.2,9.4 30.5,2.0 34.9,4.7 39.3,5.0 43.6,4.0 48.0,6.1 52.4,8.7 56.7,11.8 61.1,10.8 65.5,12.9 69.8,14.7 74.2,18.6 78.5,22.2 82.9,22.5 87.3,23.8 91.6,26.0 96.0,23.8" fill="none" stroke="#1a7f37" stroke-width="1.5"/></svg></td></tr>
 <tr><td>iShares MSCI Hong Kong (EWH)</td><td class="num">$22.1500 <span class="gm-sub-inline">as of 2026-11-25, stale</span></td><td class="num"><span class="down">-0.89%</span></td><td class="num"><span class="down">-2.34%</span></td><td><svg class="spark" width="96" height="28" viewBox="0 0 96 28" aria-hidden="true"><polyline points="0.0,26.0 4.8,23.1 9.6,15.5 14.4,15.1 19.2,16.7 24.0,2.0 28.8,5.0 33.6,3.4 38.4,2.5 43.2,4.1 48.0,7.3 52.8,5.6 57.6,7.3 62.4,9.3 67.2,11.3 72.0,13.1 76.8,16.3 81.6,23.1 86.4,19.5 91.2,18.1 96.0,21.1" fill="none" stroke="#b42318" stroke-width="1.5"/></svg></td></tr>
