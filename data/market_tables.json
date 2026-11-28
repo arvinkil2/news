@@ -1480,7 +1480,7 @@
    "up_1d": true,
    "now": 55.5,
    "now_time": "2026-11-27T13:00:00-05:00",
-   "now_change_1d": 5.37,
+   "now_change_1d": 5.33,
    "now_change_1w": 6.92,
    "now_up_1d": true
   },
@@ -1638,7 +1638,7 @@
    "up_1d": true,
    "now": 149.98,
    "now_time": "2026-11-27T13:00:00-05:00",
-   "now_change_1d": 0.48,
+   "now_change_1d": 0.46,
    "now_change_1w": 19.23,
    "now_up_1d": true
   },
@@ -1873,7 +1873,7 @@
    "now": 399.94,
    "now_time": "2026-11-27T13:00:00-05:00",
    "now_change_1d": 5.21,
-   "now_change_1w": 15.53,
+   "now_change_1w": 15.54,
    "now_up_1d": true
   },
   {
@@ -1911,7 +1911,7 @@
    "up_1d": true,
    "now": 310.25,
    "now_time": "2026-11-27T13:00:00-05:00",
-   "now_change_1d": 3.23,
+   "now_change_1d": 3.25,
    "now_change_1w": 2.0,
    "now_up_1d": true
   },
@@ -1994,5 +1994,5 @@
    "now_up_1d": true
   }
  ],
- "quotes_updated": "2026-11-28T06:08:35.091456-05:00"
+ "quotes_updated": "2026-11-28T06:22:04.107893-05:00"
 }
